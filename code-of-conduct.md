@@ -1,6 +1,6 @@
 ---
 source-git-commit: 04d71f56f9e7147ac91a3135ac2df04cb1eea37a
-translation-type: tm+mt
+translation-type: ht
 
 ---
 # Código de conduta da Adobe
@@ -66,5 +66,5 @@ membros da liderança do projeto.
 
 ## Atribuição
 
-Este Código de conduta é adaptado do [Contributor Covenant](https://contributor-covenant.org), versão 1.4,
+Este Código de conduta é adaptado a partir do [Contrato do colaborador](https://contributor-covenant.org), versão 1.4,
 disponível em [https://contributor-covenant.org/version/1/4](https://contributor-covenant.org/version/1/4/)

@@ -5,8 +5,8 @@ seo-description: Como desabilitar a sincronização das pastas compartilhadas da
 seo-title: Desativar a sincronização de pastas compartilhadas
 solution: Experience Cloud
 title: Desativar a sincronização de pastas compartilhadas
-uuid: 17 c 42 b 39-614 c -45 e 4-bfb 1-c 6 cb 2 fd 66150
-translation-type: tm+mt
+uuid: 17c42b39-614c-45e4-bfb1-c6cb2fd66150
+translation-type: ht
 source-git-commit: af5339fe58ce884345804574c209907d6504a483
 
 ---
@@ -18,7 +18,7 @@ Como desabilitar a sincronização das pastas compartilhadas da Experience Cloud
 
 >[!NOTE]
 >
->Você pode dessincronizar apenas pastas que você possui.
+>Você só pode cancelar a sincronização das pastas que possui.
 <p class="head"> <b>Windows</b> </p>
 
 1. Abra o Windows Explorer.

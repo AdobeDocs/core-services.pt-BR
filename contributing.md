@@ -1,6 +1,6 @@
 ---
 source-git-commit: 04d71f56f9e7147ac91a3135ac2df04cb1eea37a
-translation-type: tm+mt
+translation-type: ht
 
 ---
 # Contribuição
@@ -51,4 +51,4 @@ entre em contato com os responsáveis existentes para conversar sobre isso.
 
 ## Problemas de segurança
 
-Problemas de segurança não devem ser relatados neste rastreador de problemas. Em vez disso, [envie o problema para nossos especialistas em segurança](https://helpx.adobe.com/security/alertus.html)
+Problemas de segurança não devem ser relatados neste rastreador de problemas. Em vez disso, [envie o problema para nossos especialistas em segurança](https://helpx.adobe.com/br/security/alertus.html)

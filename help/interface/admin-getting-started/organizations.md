@@ -5,8 +5,8 @@ seo-description: Saiba mais sobre organizações e como vincular contas de solu�
 seo-title: Organizações e vinculação de contas
 solution: Marketing Cloud
 title: Organizações e vinculação de contas
-uuid: ae 47 ad 18-ac 33-4 efa -8 b 68-2 bfaf 77397 aa
-translation-type: tm+mt
+uuid: ae47ad18-ac33-4efa-8b68-2bfaf77397aa
+translation-type: ht
 source-git-commit: d9618a5e5a9b2cfbd1088acc8e970c0d6b477289
 
 ---
@@ -14,7 +14,7 @@ source-git-commit: d9618a5e5a9b2cfbd1088acc8e970c0d6b477289
 
 # Organizações e vinculação de contas
 
-Saiba mais sobre como gerenciar organizações e vincular contas da solução à Experience Cloud.
+Saiba mais sobre como gerenciar organizações e como vincular contas de soluções à Experience Cloud.
 
 <!-- accounts-experience-cloud.xml -->
 
@@ -22,15 +22,15 @@ Saiba mais sobre como gerenciar organizações e vincular contas da solução à
 
 Uma *organização* é a entidade que permite a um administrador configurar grupos e usuários, além de controlar o logon único na Experience Cloud. A organização funciona como uma empresa para logon que abrange os produtos e as soluções da Experience Cloud. Frequentemente, a organização é o nome da empresa. Contudo, uma empresa pode ter muitas organizações.
 
-Além disso, pode ser necessário localizar a ID da organização para fins de suporte. Você pode verificar se está na organização correta ou alternar entre organizações usando o menu **[!UICONTROL Organização].**
+Além disso, pode ser necessário localizar a ID da organização para fins de suporte. Você pode verificar se está na organização correta ou alternar entre organizações usando o menu **[!UICONTROL Organização]**.
 
 ![Resultado da etapa](assets/organization-switch.png)
 
 ## Encontrar a ID da organização {#concept_EA8AEE5B02CF46ACBDAD6A8508646255}
 
-A ID **da empresa** é a ID associada à empresa provisionada pela Experience Cloud. A ID é uma sequência de 24 caracteres alfanuméricos seguidos por (e deve incluir) @AdobeOrg.
+A **ID da organização** é a ID associada à empresa provisionada pela Experience Cloud. A ID é uma sequência de 24 caracteres alfanuméricos seguidos por (e deve incluir) @AdobeOrg.
 
-Para exibir a ID da organização, navegue até a página de aterrissagem da Experience Cloud ou clique em ( ![](assets/menu-icon.png)) e, em seguida, clique **[!UICONTROL em Administração]**. Você pode encontrar a ID da empresa na parte inferior da [!UICONTROL Introdução à Experience Cloud] ou à página [!UICONTROL Administração] .
+Para exibir a ID da organização, navegue até a página de aterrissagem da Experience Cloud ou clique em ( ![](assets/menu-icon.png)) e, em seguida, clique em **[!UICONTROL Administração]**. É possível encontrar a ID da organização na parte inferior da página [!UICONTROL Introdução à Experience Cloud] ou na página [!UICONTROL Administração].
 
 ![](assets/administration-page.png)
 
@@ -50,7 +50,7 @@ Em geral, os administradores da Experience Cloud concedem acesso a soluções e 
    ![](assets/analytics-link-accounts.png)
 
    Esse tipo de mensagem será exibido se você fizer parte do grupo adequado (e tiver permissões para a solução), mas ainda não vinculou as credenciais da conta à Adobe ID.
-1. Clique **[!UICONTROL em Vincular conta]** e forneça suas credenciais.
+1. Clique em **[!UICONTROL Vincular conta]**, em seguida, forneça suas credenciais.
 
 ## Especificar uma organização e uma página de aterrissagem padrões {#concept_6A191B42A9874A9780882903BA18F071}
 
@@ -70,5 +70,5 @@ Ajuda para problemas que surgem na vinculação de contas.
 
 Normalmente, a vinculação de contas falha porque a Adobe ID está vinculada a um usuário anterior. Quando a vinculação de contas falhar, você pode:
 
-* [Entre em contato com o suporte da Adobe](https://helpx.adobe.com/marketing-cloud/contact-support.html).
+* [Entre em contato com o Suporte da Adobe](https://helpx.adobe.com/br/marketing-cloud/contact-support.html).
 * Você também pode acessar sua solução através do logon padrão enquanto o problema estiver sendo resolvido.

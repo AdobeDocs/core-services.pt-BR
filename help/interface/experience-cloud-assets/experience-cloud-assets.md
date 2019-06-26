@@ -4,8 +4,8 @@ seo-description: Os ativos da Experience Cloud oferecem um repositório único e
 seo-title: Assets
 solution: Experience Cloud
 title: Assets
-uuid: 97 a 849 ec -1555-4630-9416-2 ab 484373 f 5 c
-translation-type: tm+mt
+uuid: 97a849ec-1555-4630-9416-2ab484373f5c
+translation-type: ht
 source-git-commit: af5339fe58ce884345804574c209907d6504a483
 
 ---
@@ -25,7 +25,7 @@ Usar ativos melhora a consistência e a conformidade da marca, além de acelerar
 
 * **[!DNL Social]**: publique nas propriedades sociais, Facebook, Twitter, LinkedIn, Google+
 * **[!DNL Target]**: crie experiências para testes A/B e multivariados.
-* **[!DNL Media Optimizer]**: Desenvolver unidades de anúncio em diferentes canais e campanhas
+* **[!DNL Media Optimizer]**: desenvolva unidades de publicidade em diferentes canais e campanhas
 * **[!DNL Campaign]**: coloque ativos em informativos e campanhas por email.
 
 Em [!UICONTROL Ativos da Experience Cloud], você pode:
@@ -63,7 +63,7 @@ A edição de um ativo permite o uso destes recursos:
 
 ![](assets/asset-edit.png)
 
-## Pesquisar ativos {#section_50FE049010B446FC9640AA6A30E5A730}
+## Pesquisar por ativos {#section_50FE049010B446FC9640AA6A30E5A730}
 
 Você pode pesquisar por palavras-chave, tipo de arquivo, tamanho, última modificação, status de publicação, orientação e estilo.
 
@@ -71,21 +71,21 @@ Você pode pesquisar por palavras-chave, tipo de arquivo, tamanho, última modif
 
 ## Anotar ativos {#section_67FE1DFAAB744DA5B1CD3AD3CCEABF7A}
 
-Clique em **[!UICONTROL Anotar]ao desenhar círculos ou setas em uma imagem, e anotar o ativo para análise pelos colegas de trabalho.**
+Clique em **[!UICONTROL Anotar]** ao desenhar círculos ou setas em uma imagem, e anotar o ativo para análise pelos colegas de trabalho.
 
 ![](assets/assets-annotate.png)
 
-## Compartilhar um ativo no feed {#section_2CD53A99600D4A3D9AA82C3CDA666E6B}
+## Compartilhar um ativo no seu feed {#section_2CD53A99600D4A3D9AA82C3CDA666E6B}
 
-Clique **[!UICONTROL em Compartilhar]** na barra de ferramentas para compartilhar o ativo como [feed](../feed.md#concept_9256B8768A294009A777282DD8719213) para outros usuários da Experience Cloud.
+Clique em **[!UICONTROL Compartilhar]** na barra de ferramentas para compartilhar o ativo como [feed](../feed.md#concept_9256B8768A294009A777282DD8719213) para outros usuários da Experience Cloud.
 
 ![](assets/assets-share-card.png)
 
 O compartilhamento exibe a imagem na página do Feed e com qualquer pessoa com a qual você compartilhou o cartão.
 
-## Exibir ativos em tela cheia e aplicar zoom {#section_A9F50D7D6BE341A2AB8244A4E42A4EF7}
+## Exibir ativos de tela inteira e utilizar o zoom {#section_A9F50D7D6BE341A2AB8244A4E42A4EF7}
 
-Clique **[!UICONTROL em Exibições]** &gt; **[!UICONTROL Imagem]** para exibir a imagem completa do ativo e ativar o zoom.
+Clique em **[!UICONTROL Visualizações]** &gt; **[!UICONTROL Imagem]** para exibir a imagem de ativo completa e ativar o zoom.
 
 ![](assets/asset-zoom.png)
 
@@ -93,7 +93,7 @@ Clique **[!UICONTROL em Exibições]** &gt; **[!UICONTROL Imagem]** para exibir 
 
 Escolha entre exibição de cartão com propriedades, de lista e de coluna para encontrar os ativos de forma mais fácil.
 
-Clique **[!UICONTROL em Exibições]** &gt; **[!UICONTROL Propriedades]** para exibir as propriedades de um ativo:
+Clique em **[!UICONTROL Exibições]** &gt; **[!UICONTROL Propriedades]** para exibir as propriedades de um ativo:
 
 ![](assets/asset-properties.png)
 
@@ -101,6 +101,6 @@ Clique **[!UICONTROL em Exibições]** &gt; **[!UICONTROL Propriedades]** para e
 
 Consulte a quantidade de usuários, armazenamento usado e total de ativos.
 
-Clique **[!UICONTROL em Ferramentas]** &gt; **[!UICONTROL Relatórios]** &gt; **[!UICONTROL Relatório de uso]**
+Clique em **[!UICONTROL Ferramentas]** &gt; **[!UICONTROL Relatórios]** &gt; **[!UICONTROL Relatório de uso]**
 
 ![](assets/assets-usage-report.png)

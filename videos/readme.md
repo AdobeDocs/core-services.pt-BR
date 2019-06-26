@@ -1,8 +1,8 @@
 ---
 source-git-commit: bcbd23d8c96eecc210483d8a86e41000b45fa431
-translation-type: tm+mt
+translation-type: ht
 
 ---
-# Nó KT
+# Nó de KT
 
-espaço reservado leiespaço
+espaço reservado de readme

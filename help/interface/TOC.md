@@ -3,8 +3,8 @@ audience: usuário final
 user-guide-title: Guia do usuário dos serviços principais
 user-guide-url: https://www.adobe.com/br
 index: true
-translation-type: ht
-source-git-commit: ea102e402ee942d00f0525000f3ebd7ee19a4392
+translation-type: tm+mt
+source-git-commit: 8c3a614bbb81601d8f906f6f69256a9df8edfd56
 
 ---
 
@@ -27,8 +27,8 @@ source-git-commit: ea102e402ee942d00f0525000f3ebd7ee19a4392
    + [Como incorporar conteúdo](admin-getting-started/oembed.md)
 + Activation {#activation}
    + [Visão geral de Activation](activation/activation.md)
-   + [Guia do usuário do Launch](https://marketing.adobe.com/resources/help/en_US/experience-cloud/launch/)
-   + [Guia do usuário do DTM](https://marketing.adobe.com/resources/help/pt_BR/dtm/)
+   + [Guia de inicialização do usuário](https://docs.adobe.com/content/help/en/launch/using/overview.html)
+   + [Guia do usuário do DTM](https://docs.adobe.com/content/help/en/dtm/using/dtm-home.html)
    + [Triggers](activation/triggers.md)
 + Assets {#assets}
    + [Visão geral dos ativos](experience-cloud-assets/experience-cloud-assets.md)
@@ -59,9 +59,9 @@ source-git-commit: ea102e402ee942d00f0525000f3ebd7ee19a4392
    + [Notas de versão cumulativas](marketing-cloud-interface/release-notes.md)
 + [Exchange Marketplace](exchange.md)
 + [Feed](feed.md)
-+ [Mobile Services](https://marketing.adobe.com/resources/help/pt_BR/mobile/)
++ [Mobile Services](https://docs.adobe.com/content/help/en/mobile-services/using/home.html)
 + Mais recursos {#more-resources}
-   + [Forum](https://forums.adobe.com/community/experience-cloud)
+   + [Fórum](https://forums.adobe.com/community/experience-cloud)
    + [Terminologia](terms.md)
    + [Uso da pré-busca DNS com diferentes soluções e Serviços](dns-prefetch.md)
    + [Atualizações da documentação - Experience Cloud](doc-updates.md)

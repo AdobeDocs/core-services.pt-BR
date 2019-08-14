@@ -8,7 +8,7 @@ title: Cookies próprios
 index: y
 snippet: y
 translation-type: tm+mt
-source-git-commit: 426c1fecf16e1cf83cd28971e4de6fdb66b0e10d
+source-git-commit: 7428f95c3e06e6bad1290540789e203608e113e4
 
 ---
 
@@ -23,7 +23,7 @@ Duas opções estão disponíveis para implementar cookies primários
 
 * O Serviço de ID da plataforma Experience Platform. O serviço de ID pode definir o cookie no contexto primário usando javascript.
 * Entradas DNS em seu servidor DNS de empresas.
-* Se o site tem páginas seguras usando `https://` o protocolo e você não está usando o serviço de ID da Experience Platform, você pode trabalhar com a Adobe para obter um certificado SSL para implementar cookies primários.
+* Se o site tem páginas seguras usando `https:` o protocolo e você não está usando o serviço de ID da Experience Platform, você pode trabalhar com a Adobe para obter um certificado SSL para implementar cookies primários.
 
 O processo de emissão de certificado SSL geralmente pode ser confuso e demorado. Como resultado, a Adobe estabeleceu uma parceria com digicert, uma autoridade de certificação líder do setor (CA) e desenvolveu um processo integrado pelo qual a compra e o gerenciamento desses certificados são automatizados.
 

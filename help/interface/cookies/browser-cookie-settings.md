@@ -10,7 +10,7 @@ index: y
 internal: n
 snippet: y
 translation-type: tm+mt
-source-git-commit: c1630f5de61e410eaf10cf940faa9adc6017fb6b
+source-git-commit: 426c1fecf16e1cf83cd28971e4de6fdb66b0e10d
 
 ---
 
@@ -36,10 +36,3 @@ Esta configuração permite respeitar a intenção de um usuário de parar o pro
 As orientações legislativas e regulamentares expressaram que a ação de um usuário ao bloquear cookies é similar à ação de um usuário ao evitar a identificação. Ao ativar este recurso, os dados coletados em navegadores de computadores e de dispositivos móveis nos quais o usuário definiu seu navegador para bloquear todos os cookies serão excluídos dos relatórios do Analytics. Se a Adobe não reconhecer o navegador da Web, os dados serão incluídos nos relatórios do Analytics.
 
 Legisladores em todo o mundo determinaram (em orientações e declarações) que as configurações de cookies do navegador são uma indicação da preferência do usuário de rejeitar a determinação de perfis. Especificamente, esses legisladores definiram que a configuração do navegador para bloquear cookies de terceiros é uma solicitação para rejeitar o rastreamento de terceiros (entre sites); e o bloqueio de todos os cookies é uma solicitação para rejeitar todos os rastreamentos. Embora identificadores do lado do servidor (como endereço IP ou agente de usuário) possam ser uma opção desejável para ignorar as configurações de cookies do navegador, alguns legisladores os consideram uma evasão da escolha do usuário.
-
-<!--
-<p>Awaiting content from Vinay May 20 2015 </p>
-<p>https://wiki.corp.adobe.com/display/omtrcache/Inferred+Opt+Out </p>
-<p>https://wiki.corp.adobe.com/display/omtrplatform/Auto-opt-out+For+Users+Who+Block+Cookies </p>
--->
-

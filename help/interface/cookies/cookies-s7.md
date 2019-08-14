@@ -10,7 +10,7 @@ index: y
 internal: n
 snippet: y
 translation-type: tm+mt
-source-git-commit: c24b266eda9aae1e86a58ac473fa339f7eb26efe
+source-git-commit: 7137e608ddece5bf2a3983b3b18909ba89d607a6
 
 ---
 
@@ -33,18 +33,14 @@ Para visualizadores AS2 Flash eCatalog, os cookies:
 
 Os visualizadores AS3 mais recentes não implementam persistência de sessão.
 
-* [Nome do cookie: VatLogin.jsp](../cookies/cookies-s7.md#section-03aa90aa7e36427b8cb12dc4a0f0291e)
-* [Nome do cookie: s 7 js. flyout. infomessage. displayed. state](../cookies/cookies-s7.md#section-14ad50dfcd7342f9ac80283b1f0d3400)
-* [Nome do cookie: s 7 js. flyout. infomessage. displayed_ idx. ant](../cookies/cookies-s7.md#section-05d1c52c478541609f4a18a9c1eb032f)
-
-## Nome do cookie: VatLogin.jsp {#section-03aa90aa7e36427b8cb12dc4a0f0291e}
+**Nome do cookie: VatLogin.jsp**
 
 | Atributo | Descrição |
 |---|---|
 | Informações armazenadas | Define o cookie da sessão. O AuthFilter integrado no IPS ImageServer (IS, IR e também os SWFs/capas e contextos de vídeo) usa o cookie para a autorização do acesso. Se estiver presente, permite que solicitações HTTP passem. Do contrário, retorna não autorizado. |
 | Expiração | Este cookie é um cookie de sessão. A expiração da sessão atual está definida como 45 minutos no IPS [!DNL web.xml] do Scene7. |
 
-## Nome do cookie: s 7 js. flyout. infomessage. displayed<assetId>.state {#section-14ad50dfcd7342f9ac80283b1f0d3400}
+**Nome do cookie: s 7 js. flyout. infomessage. displayed`assetId`. state**
 
 <table id="table_6835D64C5D464A049F576621F2BE3FAD"> 
  <thead> 
@@ -65,7 +61,7 @@ Os visualizadores AS3 mais recentes não implementam persistência de sessão.
  </tbody> 
 </table>
 
-## Nome do cookie: s 7 js. flyout. infomessage. displayed<assetId>_ idx<id>. ant {#section-05d1c52c478541609f4a18a9c1eb032f}
+**Nome do cookie: s 7 js. flyout. infomessage. displayed`assetId`_ idx`id`. ant**
 
 Os cookies de navegador são usados por visualizadores DHTML herdados para armazenar informações de estado e dados de notas aderentes. Também são usado pelo menu DHTML multitela para tornar o indicador de mensagens em específico da sessão.
 

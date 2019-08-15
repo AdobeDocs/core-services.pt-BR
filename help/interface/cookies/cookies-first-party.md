@@ -8,7 +8,7 @@ title: Cookies próprios
 index: y
 snippet: y
 translation-type: tm+mt
-source-git-commit: 21bab04d9df4f75afbd1dc5940842b57c34ecb24
+source-git-commit: 345b1fda364d9f7e884e94f32807bb99cc0c3476
 
 ---
 
@@ -41,12 +41,10 @@ A seguir, você implementa um novo certificado SSL próprio para cookies primár
 
 1. Preencha o formulário de solicitação e abra um ticket com o Atendimento ao cliente solicitando a configuração de cookies primários no programa Adobe Managed. Cada campo é descrito no documento com exemplos. 
 
-1. Crie registros CNAME. Ao receber o bilhete, um especialista FPSSL deve fornecer um par de registros CNAME. Esses registros devem ser configurados no servidor DNS da sua empresa antes que a Adobe possa comprar o certificado em seu nome. Os CNAMES serão semelhantes ao seguinte.
+1. Crie registros CNAME (consulte as instruções abaixo). Ao receber o bilhete, um especialista FPSSL deve fornecer um par de registros CNAME. Esses registros devem ser configurados no servidor DNS da sua empresa antes que a Adobe possa comprar o certificado em seu nome. Os CNAMES serão semelhantes ao seguinte.
 
 * **Protegido** - por exemplo, o nome do host `smetrics.example.com` aponta para: `example.com.ssl.d1.omtrdc.net`.
 * **Não seguro** - por exemplo, o nome do host `metrics.example.com` aponta para: `example.com.d1.omtrdc.net`.
-
-Consulte Criar registros CNAME para obter mais informações.
 
 1. Quando esses CNAMES estiverem em vigor, a Adobe trabalhará com digicert para comprar e instalar um certificado nos servidores de produção da Adobe. Se você tiver uma implementação existente, considere a Migração do visitante para manter os visitantes existentes. Depois que o certificado for enviado ao ambiente de produção da Adobe, você poderá atualizar as variáveis do servidor de rastreamento para os novos nomes de host. Ou seja, se o site não for seguro (https), atualize o `s.trackingServer`. Se o site for seguro (https), atualize as duas `s.trackingServer``s.trackingServerSecure` e as variáveis.
 

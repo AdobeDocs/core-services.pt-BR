@@ -6,8 +6,8 @@ seo-title: Criar um público-alvo
 solution: Experience Cloud
 title: Criar um público-alvo
 uuid: 7e622539-296e-4ff3-93b0-ec1c08b35429
-translation-type: ht
-source-git-commit: 979b2202a70e2a5362aa86a65a17d7c4279b3a1a
+translation-type: tm+mt
+source-git-commit: f8b48077d936e289d66c1a93a96fe9ebaa4f0136
 
 ---
 
@@ -40,7 +40,7 @@ O exemplo a seguir mostra como criar as regras para um público-alvo composto. O
 
    ![](assets/audience_create.png)
 
-1. Na [!DNL Experience Cloud], clique em **[!UICONTROL Pessoas]** &gt; **[!UICONTROL Biblioteca de público-alvo]**.
+1. In the [!DNL Experience Cloud], under [!DNL Experience Platform], click **[!UICONTROL People]** &gt; **[!UICONTROL Audience Library]**.
 1. Na página [!UICONTROL Públicos-alvo], clique em **[!UICONTROL Novo]**. ![](assets/add_icon_small.png)
 
 ![Resultado da etapa](assets/audience_create_new.png)

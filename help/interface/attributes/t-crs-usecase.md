@@ -6,15 +6,15 @@ seo-title: Crie uma fonte de atributo do cliente e faça upload do arquivo de da
 solution: Experience Cloud
 title: Crie uma fonte de atributo do cliente e faça upload do arquivo de dados
 uuid: 53dca789-9a91-4385-839d-c9d1aa36b9be
-translation-type: ht
-source-git-commit: b6058194725c3ad50d280a3daad737cd53416204
+translation-type: tm+mt
+source-git-commit: f8b48077d936e289d66c1a93a96fe9ebaa4f0136
 
 ---
 
 
 # Crie uma fonte de atributo do cliente e faça upload do arquivo de dados
 
-Crie a fonte de atributo do cliente e faça upload dos dados. É possível ativar a fonte de dados quando você estiver preparado. Quando a fonte de dados estiver ativa, compartilhe os dados de atributo no Analytics e no Target.
+Crie a fonte de atributo do cliente (arquivos CSV e FIN) e faça upload dos dados. É possível ativar a fonte de dados quando você estiver preparado. Quando a fonte de dados estiver ativa, compartilhe os dados de atributo no Analytics e no Target.
 
 ## Fluxo de trabalho dos atributos do cliente {#concept_BF0AF88E9EF841219ED4D10754CD7154}
 
@@ -48,12 +48,12 @@ Consulte [Usuários e grupos](../admin-getting-started/admin-getting-started.md#
 Esses dados são os dados do cliente da empresa no seu CRM. Os dados podem incluir dados do assinante para produtos, incluindo as IDs de membro, os produtos qualificados, os produtos mais lançados e assim por diante.
 
 
-1. Criar um [!DNL .csv].
+1. Criar um `.csv`.
 
 
    >[!NOTE]
    >
-   >Em uma parte posterior do processo, você arrastará e soltará o [!DNL .csv] para fazer upload do arquivo. Contudo, se você [fizer upload via FTP](../attributes/t-upload-attributes-ftp.md#task_591C3B6733424718A62453D2F8ADF73B), também precisará de um arquivo [!DNL .fin] com o mesmo nome do [!DNL .csv].
+   >Em uma parte posterior do processo, você arrastará e soltará o `.csv` para fazer upload do arquivo. Contudo, se você [fizer upload via FTP](../attributes/t-upload-attributes-ftp.md#task_591C3B6733424718A62453D2F8ADF73B), também precisará de um arquivo `.fin` com o mesmo nome do `.csv`.
 
 
 
@@ -75,7 +75,7 @@ Siga essas etapas na página Criar nova fonte de atributo do cliente na Experien
 
 
 1. No [!DNL Experience Cloud], clique no ícone ![](assets/menu-icon.png) do Menu.
-1. Clique em **[!UICONTROL Pessoas]** e, em seguida, clique em **[!UICONTROL Atributos do cliente]**.
+1. Em **[!DNL Experience Platform]**, clique **[!UICONTROL em Pessoas]** &gt; **[!UICONTROL Atributos do cliente]**.
 
    A página [!UICONTROL Atributos do cliente] é o local para gerenciar e editar as fontes de dados do atributo existentes.
 
@@ -94,11 +94,11 @@ Siga essas etapas na página Criar nova fonte de atributo do cliente na Experien
 
       A ID de alias corresponde a determinadas áreas em que você definiu outros valores da ID do cliente. Por exemplo:
 
-      * **Dynamic Tag Management:** A ID de alias corresponde ao valor do *Código de integração* em [!UICONTROL Configurações do cliente], na ferramenta do [serviços de Experience Cloud ID](https://marketing.adobe.com/resources/help/pt_BR/dtm/?f=macid).
+      * **Gerenciamento dinâmico de tags:** A ID de alias corresponde ao *valor de Código* de integração em [!UICONTROL Configurações do cliente], na ferramenta Serviço da [Experience Cloud](https://marketing.adobe.com/resources/help/en_US/dtm/?f=macid) ID.
 
-      * **API de visitante:** A ID de alias corresponde às [IDs adicionais do cliente](https://marketing.adobe.com/resources/help/pt_BR/mcvid/?f=mcvid_customer_ids) que podem ser associadas a cada visitante.
+      * **API do visitante:** a ID de alias corresponde às [IDs do cliente](https://marketing.adobe.com/resources/help/en_US/mcvid/?f=mcvid_customer_ids) que você associou a cada visitante.
 
-         Por exemplo, *&quot;crm_ id&quot;* em:
+         Por exemplo, *"crm_ id"* em:
 
 
          ```
@@ -106,21 +106,21 @@ Siga essas etapas na página Criar nova fonte de atributo do cliente na Experien
          ```
 
 
-      * **iOS:** A ID de alias corresponde a *&quot;idType&quot;* em [visitorSyncIdentifiers:identifiers](https://marketing.adobe.com/resources/help/pt_BR/mobile/ios/?f=methods).
+      * **iOS:** A ID de alias corresponde a *"idtype"* em [visitorsyncidentifiers: identificadores](https://marketing.adobe.com/resources/help/en_US/mobile/ios/?f=methods).
 
          Por exemplo:
 
          `[ADBMobile visitorSyncIdentifiers:@{@<`**`"idType"`**`:@"idValue"}];`
 
 
-      * **Android:** A ID de alias corresponde a *&quot;idType&quot;* em [syncIdentifiers](https://marketing.adobe.com/resources/help/pt_BR/mobile/android/?f=methods).
+      * **Android:** a ID de alias corresponde à *" Idtype "* em [syncidentifiers](https://marketing.adobe.com/resources/help/en_US/mobile/android/?f=methods).
 
          Por exemplo:
 
          `identifiers.put(`**`"idType"`**`, "idValue");`
 
          Consulte [Como aproveitar várias fontes de dados](../attributes/crs-data-file.md#section_76DEB6001C614F4DB8BCC3E5D05088CB) para obter informações adicionais sobre o processamento de dados relacionado ao campo de ID de alias e IDs do cliente.
-   * **[!UICONTROL Upload de arquivo:]** Você pode arrastar e soltar o arquivo de dados [!DNL .csv] ou fazer upload dos dados via FTP. (Usar o FTP também exige um arquivo [!DNL .fin].) Consulte [Fazer upload dos dados via FTP](../attributes/t-upload-attributes-ftp.md#task_591C3B6733424718A62453D2F8ADF73B).
+   * **[!UICONTROL Upload de arquivo:]** Você pode arrastar e soltar o arquivo de dados `.csv` ou fazer upload dos dados via FTP. (Usar o FTP também exige um arquivo `.fin`.) Consulte [Fazer upload dos dados via FTP](../attributes/t-upload-attributes-ftp.md#task_591C3B6733424718A62453D2F8ADF73B).
 
 
       >[!IMPORTANT]
@@ -192,7 +192,7 @@ O exemplo a seguir mostra um segmento do [!DNL Analytics] com base nos atributos
 
 Ao publicar um segmento na Experience Cloud, ele fica disponível para os públicos-alvo da Experience Cloud e do Audience Manager.
 
-Consulte [Relatório de atributos do cliente](https://marketing.adobe.com/resources/help/pt_BR/reference/?f=reports_customer_attributes) na ajuda do Analytics para obter mais informações.
+Consulte [Relatório dos atributos do cliente](https://marketing.adobe.com/resources/help/en_US/reference/?f=reports_customer_attributes) na ajuda do Analytics para obter mais informações.
 
 ## Usar os atributos do cliente no Adobe Target {#task_FC5F9D9059114027B62DB9B1C7D9E257}
 
@@ -200,4 +200,4 @@ No Target, você pode selecionar um atributo do cliente na seção Perfil do vis
 
 ![](assets/crs-add-attribute-target.png)
 
-Consulte [Criação de um novo público-alvo](https://marketing.adobe.com/resources/help/pt_BR/target/target/?f=t_create-audience) in Target help.
+Consulte [Criação de um novo público-alvo](https://marketing.adobe.com/resources/help/en_US/target/target/?f=t_creating_a_new_audience) na ajuda do Target.

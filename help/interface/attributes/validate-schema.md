@@ -6,8 +6,8 @@ seo-title: Validar o esquema
 solution: Experience Cloud
 title: Validar o esquema
 uuid: 163a4dbe-d60b-4089-8ff8-65f7461fbdf7
-translation-type: ht
-source-git-commit: 979b2202a70e2a5362aa86a65a17d7c4279b3a1a
+translation-type: tm+mt
+source-git-commit: f8b48077d936e289d66c1a93a96fe9ebaa4f0136
 
 ---
 
@@ -36,7 +36,7 @@ Na página [!UICONTROL Validar esquema], cada linha do esquema representa uma co
 
 * **[!UICONTROL Configuração de FTP:]** [Faça upload dos dados via FTP](../attributes/t-upload-attributes-ftp.md#task_591C3B6733424718A62453D2F8ADF73B).
 
-* **[!UICONTROL Pesquisa de ID:]** Insira uma ID do cliente (CID) em seu [!DNL .csv] para pesquisar informações da Experience Cloud para a ID. Esse recurso é útil para solucionar por que os dados do atributo não são exibidos para um visitante:
+* **[!UICONTROL Pesquisa de ID:]** Insira uma ID do cliente (CID) em seu `.csv` para pesquisar informações da Experience Cloud para a ID. Esse recurso é útil para solucionar por que os dados do atributo não são exibidos para um visitante:
 
    * **[!UICONTROL MCID (Experience Cloud ID):]** exibe se você está usando o serviço mais recente da Experience Cloud ID. Se você estiver no serviço da MCID, mas não houver IDs listadas, a Experience Cloud não recebeu um alias para essa CID. Isso indica que o visitante não está conectado ou que sua implementação não está transmitindo essa ID.
 
@@ -51,9 +51,9 @@ Na página [!UICONTROL Validar esquema], cada linha do esquema representa uma co
 
 Também é possível fazer upload dos dados via FTP após criar uma fonte de atributo do cliente e uma conta FTP na Experience Cloud. É possível criar uma conta FTP por fonte de atributo. Os arquivos carregados são armazenados na pasta raiz dessa conta. Os dados devem estar no formato .csv, com um segundo arquivo .csv para indicar que o upload foi concluído
 
-Os nomes aplicados às sequências, números inteiros e números são usados para criar as métricas do [!DNL Analytics]. Consulte [Relatório de atributos do cliente](https://marketing.adobe.com/resources/help/pt_BR/reference/?f=reports_customer_attributes) na ajuda [!DNL Analytics] para obter mais informações.
+Os nomes aplicados às sequências, números inteiros e números são usados para criar as métricas do [!DNL Analytics]. Consulte [Relatório dos atributos do cliente](https://marketing.adobe.com/resources/help/en_US/reference/?f=reports_customer_attributes) na ajuda do para obter mais informações.[!DNL Analytics]
 
-* **[!UICONTROL Atributo:]** Os dados do atributo lidos no arquivo [!DNL .csv] carregado.
+* **[!UICONTROL Atributo:]** Os dados do atributo lidos no arquivo `.csv` carregado.
 
 * **[!UICONTROL Tipo:]** Os tipos de dados, como:
 

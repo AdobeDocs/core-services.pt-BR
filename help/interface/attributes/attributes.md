@@ -6,8 +6,8 @@ seo-title: Atributos do cliente
 solution: Experience Cloud
 title: Atributos do cliente
 uuid: 1621402d-990f-46f9-981a-473280559069
-translation-type: ht
-source-git-commit: 979b2202a70e2a5362aa86a65a17d7c4279b3a1a
+translation-type: tm+mt
+source-git-commit: f8b48077d936e289d66c1a93a96fe9ebaa4f0136
 
 ---
 
@@ -16,9 +16,7 @@ source-git-commit: 979b2202a70e2a5362aa86a65a17d7c4279b3a1a
 
 ## Visão geral
 
-O recurso [!UICONTROL atributos do cliente] na Experience Cloud é encontrado aqui.
-
-**[!UICONTROL Pessoas]** &gt; **[!UICONTROL Atributos do cliente]**
+Para localizar [!UICONTROL os atributos] do cliente, navegue até **[!DNL Experience Platform]** &gt; **[!UICONTROL Pessoas]** &gt; **[!UICONTROL Atributos do cliente]**
 
 Se você capturar os dados de clientes de empresas em um banco de dados de gerenciamento de relacionamento com o cliente (CRM), poderá fazer upload dos dados em uma fonte de dados do atributo do cliente na Experience Cloud. Depois de enviado, aproveite os dados no [!DNL Adobe Analytics] e no [!DNL Adobe Target].
 
@@ -38,7 +36,7 @@ Se você capturar os dados de clientes de empresas em um banco de dados de geren
 * **Mbox de destino:** mbox.js versão 58 ou superior é necessário para os atributos do cliente.
 
 
-   Consulte [Implementação da Mbox.js](https://marketing.adobe.com/resources/help/pt_BR/target/ov/?f=t_mbox_download).
+   Consulte [Implementação de mbox.js](https://marketing.adobe.com/resources/help/en_US/target/ov/t_mbox_download.html).
 
 * **at.js:** qualquer versão.
 

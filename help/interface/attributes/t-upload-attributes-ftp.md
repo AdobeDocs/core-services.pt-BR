@@ -6,8 +6,8 @@ seo-title: Opcional - Fazer upload do arquivo de dados via FTP
 solution: Experience Cloud
 title: Opcional - Fazer upload do arquivo de dados via FTP
 uuid: 5df565dd-b6f8-420e-981f-4b6fc6f7d0e4
-translation-type: ht
-source-git-commit: 979b2202a70e2a5362aa86a65a17d7c4279b3a1a
+translation-type: tm+mt
+source-git-commit: f8b48077d936e289d66c1a93a96fe9ebaa4f0136
 
 ---
 
@@ -16,7 +16,7 @@ source-git-commit: 979b2202a70e2a5362aa86a65a17d7c4279b3a1a
 
 Se você não fizer upload usando a função arrastar e soltar, será possível fazer upload do atributo do cliente via FTP na Experience Cloud.
 
-Você pode fazer upload dos dados depois de criar uma fonte de atributo do cliente e uma conta FTP na Experience Cloud. É possível criar uma conta FTP por fonte de atributo. Os arquivos carregados são armazenados na pasta raiz dessa conta. Os dados devem estar em formato [!DNL .csv], com um segundo arquivo [!DNL .fin] para indicar que o upload foi concluído.
+Você pode fazer upload dos dados depois de criar uma fonte de atributo do cliente e uma conta FTP na Experience Cloud. É possível criar uma conta FTP por fonte de atributo. Os arquivos carregados são armazenados na pasta raiz dessa conta. Os dados devem estar em formato `.csv`, com um segundo arquivo `.fin` para indicar que o upload foi concluído.
 
 >[!IMPORTANT]
 >
@@ -26,7 +26,7 @@ Você pode fazer upload dos dados depois de criar uma fonte de atributo do clien
 Os uploads do arquivo para o site FTP dos atributos do cliente podem ser realizados via FTP ou SFTP.
 
 * O cliente precisa ter suporte para conexões SFTP.
-* É possível conectar-se ao SFTP usando nome de usuário/senha ou sem senha, como descrito [aqui](https://marketing.adobe.com/resources/help/pt_BR/whitepapers/ftp/?f=ftp_sftp_cert_auth).
+* Você pode conectar-se com o SFTP usando o nome de usuário/senha ou sem usar senha, conforme descrito [aqui](https://marketing.adobe.com/resources/help/en_US/whitepapers/ftp/?f=ftp_sftp_cert_auth).
 
 
 
@@ -45,9 +45,9 @@ Os uploads do arquivo para o site FTP dos atributos do cliente podem ser realiza
 
 1. Clique em **[!UICONTROL Ações]** &gt; **[!UICONTROL Upload do arquivo]**.
 
-1. Faça upload de um arquivo [!DNL .fin], para que o arquivo possa ser recuperado.
+1. Faça upload de um arquivo `.fin`, para que o arquivo possa ser recuperado.
 
-   O tipo de arquivo [!DNL .fin] é criado pelo usuário e indica que o upload foi concluído. Ele pode ser um arquivo do bloco de notas em branco. Por exemplo, se você fizer upload do [!DNL crs123.csv], também será possível fazer upload do [!DNL crs123.fin].
+   O tipo de arquivo `.fin` é criado pelo usuário e indica que o upload foi concluído. Ele pode ser um arquivo do bloco de notas em branco. Por exemplo, se você fizer upload do [!DNL crs123.csv], também será possível fazer upload do [!DNL crs123.fin].
 
    Se o upload for bem-sucedido, ambos os arquivos serão movidos para uma pasta chamada **processados**.
 

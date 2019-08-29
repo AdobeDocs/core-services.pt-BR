@@ -7,7 +7,7 @@ solution: Experience Cloud
 title: Ajuda da Experience Cloud e principais serviços
 uuid: aec6f689-e617-4876-ae6c-e961cfcb991a
 translation-type: tm+mt
-source-git-commit: b84c90a51b6cf88a6422951f3d3f5809f79d25a3
+source-git-commit: fa601ff80430f38fc0d8303f9c833778ad1f8cd5
 
 ---
 
@@ -15,6 +15,8 @@ source-git-commit: b84c90a51b6cf88a6422951f3d3f5809f79d25a3
 # Ajuda da Experience Cloud e dos principais serviços
 
 A Experience Cloud é a família integrada de soluções e serviços de marketing digital. Também é uma interface intuitiva que permite o acesso rápido às soluções de nuvem e aos serviços principais.
+
+Consulte [Documentação do produto da Experience Cloud](landing/experience-cloud-home.md) para obter acesso a toda a ajuda da solução.
 
 ![](assets/experience-cloud-core-services.png)
 

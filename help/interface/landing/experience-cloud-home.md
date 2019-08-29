@@ -4,7 +4,7 @@ seo-title: Ajuda e documentação do produto para soluções na Adobe Experience
 description: Ajuda e documentação do produto para soluções na Adobe Experience Cloud.
 seo-description: Ajuda da Experience Cloud
 translation-type: tm+mt
-source-git-commit: 381ce8d571d2a8e76052ab159239f5240e9bef38
+source-git-commit: 1b796b3760f219a3787a055cb6367dd11cb6421b
 
 ---
 
@@ -13,7 +13,7 @@ source-git-commit: 381ce8d571d2a8e76052ab159239f5240e9bef38
 
 Ajuda e documentação do produto da Adobe Experience Cloud.
 
-![Ajuda da Experience Cloud](assets\experience_cloud_appicon_32.png) **Experience Cloud**
+![](assets\experience_cloud_appicon_32.png)**Ajuda da Experience Cloud**
 
 * [Notas de versão da Experience Cloud](https://docs.adobe.com/content/help/en/release-notes/experience-cloud/current.html) (todos os produtos)
 * [Ajuda da Experience Cloud e dos principais serviços](https://docs.adobe.com/content/help/en/core-services/interface/experience-cloud.html)
@@ -25,7 +25,7 @@ Ajuda e documentação do produto da Adobe Experience Cloud.
 * [Device Co-op](https://docs.adobe.com/content/help/en/device-co-op/using/home.html)
 * [API do Regulamento Geral sobre a Proteção de Dados (GDPR)](https://www.adobe.io/apis/experiencecloud/gdpr.html)
 
-![Ajuda](assets\mc_analytics_32.png) **do Analytics Analytics**
+![](assets\mc_analytics_32.png) **Ajuda do Analytics**
 
 * [Página inicial de ajuda do Analytics](https://docs.adobe.com/content/help/en/analytics/landing/home.html)
 * [Ferramentas](https://docs.adobe.com/content/help/en/analytics/analyze/home.html)
@@ -38,30 +38,30 @@ Ajuda e documentação do produto da Adobe Experience Cloud.
 * [Media Analytics](https://docs.adobe.com/content/help/en/media-analytics/using/media-overview.html)
 * [Data Workbench](https://marketing.adobe.com/resources/help/en_US/insight/)
 
-![Ajuda do Audience Manager](assets\mc_analytics_32.png) **Audience Manager**
+![](assets\mc_analytics_32.png) **Ajuda do Audience Manager**
 
 * [Audience Manager](https://marketing.adobe.com/resources/help/en_US/aam/)
 * Administrador do Audience Manager
 
-![Ajuda](assets\mc_target_32.png) **do Target Target**
+![](assets\mc_target_32.png)**Ajuda do Target**
 
 * [Notas de versão do Target](https://docs.adobe.com/content/help/en/target/using/release-notes/release-notes.html)
 * [Target](https://docs.adobe.com/content/help/en/target/using/target-home.html)
 
-![Ajuda do Experience](assets\mc_experiencemanager_32.png) **Manager do AEM**
+![](assets\mc_experiencemanager_32.png)**Ajuda do Experience Manager**
 
 * [Aprendizagem e suporte do Experience Manager](https://helpx.adobe.com/support/experience-manager.html)
 
-![Ajuda](assets\mc_campaign_32.png) **da campanha Campanha**
+![](assets\mc_campaign_32.png)**Ajuda da campanha**
 
 * Campaign Standard: [Documentation](https://helpx.adobe.com/support/campaign/standard.html) - [Release Notes](https://docs.adobe.com/content/help/en/campaign-standard/using/release-notes/release-notes.html) - [How-to videos](https://docs.adobe.com/content/help/en/campaign-learn/campaign-standard-tutorials/overview.html)
 * Campaign Classic: [Documentation](https://helpx.adobe.com/support/campaign/classic.html) - [Release Notes](https://docs.campaign.adobe.com/doc/AC/en/RN.html) - [How-to videos](https://docs.adobe.com/content/help/en/campaign-learn/campaign-classic-tutorials/overview.html)
 
-![Ajuda](assets\primetime_app_32.png) **do Primetime Primetime**
+![](assets\primetime_app_32.png)**Ajuda do Primetime**
 
 * [Ajuda do Primetime](http://help.adobe.com/en_US/primetime/)
 
-![Ajuda da Advertising Cloud](assets\advertisingcloud_appicon_32.png) **Advertising Cloud**
+![](assets\advertisingcloud_appicon_32.png)**Ajuda da Marketing Cloud**
 
 Help for the Advertising Cloud is available in the product by clicking the **Help** icon (?) na parte superior de qualquer página.
 

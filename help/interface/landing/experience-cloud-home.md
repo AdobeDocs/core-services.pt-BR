@@ -13,7 +13,7 @@ source-git-commit: 5f30d2584cec9cae16066b6ed2a750a48aaf2920
 
 Ajuda e documentação do produto da Adobe Experience Cloud.
 
-**Ajuda da Experience Cloud**
+## Ajuda da Experience Cloud
 
 * [Notas de versão da Experience Cloud](https://docs.adobe.com/content/help/en/release-notes/experience-cloud/current.html) (todos os produtos)
 * [Ajuda da Experience Cloud e dos principais serviços](https://docs.adobe.com/content/help/en/core-services/interface/experience-cloud.html)
@@ -25,7 +25,7 @@ Ajuda e documentação do produto da Adobe Experience Cloud.
 * [Device Co-op](https://docs.adobe.com/content/help/en/device-co-op/using/home.html)
 * [API do Regulamento Geral sobre a Proteção de Dados (GDPR)](https://www.adobe.io/apis/experiencecloud/gdpr.html)
 
-**Ajuda do Analytics**
+## Ajuda do Analytics
 
 * [Página inicial de ajuda do Analytics](https://docs.adobe.com/content/help/en/analytics/landing/home.html)
 * [Ferramentas](https://docs.adobe.com/content/help/en/analytics/analyze/home.html)
@@ -38,30 +38,30 @@ Ajuda e documentação do produto da Adobe Experience Cloud.
 * [Media Analytics](https://docs.adobe.com/content/help/en/media-analytics/using/media-overview.html)
 * [Data Workbench](https://marketing.adobe.com/resources/help/en_US/insight/)
 
-**Ajuda do Audience Manager**
+## Ajuda do Audience Manager
 
 * [Audience Manager](https://marketing.adobe.com/resources/help/en_US/aam/)
 * [Administrador do Audience Manager](https://marketing.adobe.com/resources/help/en_US/aam/admin/index.html)
 
-**Ajuda do Target**
+## Ajuda do Target
 
 * [Notas de versão do Target](https://docs.adobe.com/content/help/en/target/using/release-notes/release-notes.html)
 * [Target](https://docs.adobe.com/content/help/en/target/using/target-home.html)
 
-**Ajuda do Experience Manager**
+## Ajuda do Experience Manager
 
 * [Aprendizagem e suporte do Experience Manager](https://helpx.adobe.com/support/experience-manager.html)
 
-**Ajuda da campanha**
+## Ajuda da campanha
 
 * Campaign Standard: [Documentation](https://helpx.adobe.com/support/campaign/standard.html) - [Release Notes](https://docs.adobe.com/content/help/en/campaign-standard/using/release-notes/release-notes.html) - [How-to videos](https://docs.adobe.com/content/help/en/campaign-learn/campaign-standard-tutorials/overview.html)
 * Campaign Classic: [Documentation](https://helpx.adobe.com/support/campaign/classic.html) - [Release Notes](https://docs.campaign.adobe.com/doc/AC/en/RN.html) - [How-to videos](https://docs.adobe.com/content/help/en/campaign-learn/campaign-classic-tutorials/overview.html)
 
-**Ajuda do Primetime**
+## Ajuda do Primetime
 
 * [Ajuda do Primetime](http://help.adobe.com/en_US/primetime/)
 
-**Ajuda da Marketing Cloud**
+## Ajuda da Marketing Cloud
 
 Help for the Advertising Cloud is available in the product by clicking the **Help** icon (?) na parte superior de qualquer página.
 

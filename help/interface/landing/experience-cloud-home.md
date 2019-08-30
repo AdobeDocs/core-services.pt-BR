@@ -4,7 +4,7 @@ seo-title: Ajuda e documentação do produto para soluções na Adobe Experience
 description: Ajuda e documentação do produto para soluções na Adobe Experience Cloud.
 seo-description: Ajuda da Experience Cloud
 translation-type: tm+mt
-source-git-commit: 2231240b6697d95ad448cb21c55368ecbe13a517
+source-git-commit: 5f30d2584cec9cae16066b6ed2a750a48aaf2920
 
 ---
 
@@ -41,7 +41,7 @@ Ajuda e documentação do produto da Adobe Experience Cloud.
 **Ajuda do Audience Manager**
 
 * [Audience Manager](https://marketing.adobe.com/resources/help/en_US/aam/)
-* Administrador do Audience Manager
+* [Administrador do Audience Manager](https://marketing.adobe.com/resources/help/en_US/aam/admin/index.html)
 
 **Ajuda do Target**
 

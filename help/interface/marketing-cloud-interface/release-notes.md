@@ -6,7 +6,7 @@ seo-title: Notas de versão cumulativas
 solution: Experience Cloud
 title: Notas de versão cumulativas
 uuid: fcff8cc6-e587-4bf2-9a75-261d4eabc7d4
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: 75831abe44d04902691325add2338381754f98ec
 
 ---
@@ -18,16 +18,16 @@ Recursos, notas de versão e problemas conhecidos da interface da Experience Clo
 
 Para obter uma lista de atualizações de documentação, consulte [Experience Cloud](../doc-updates.md#concept_4C8983FCD23848A4B1E4C2D99ED82784).
 
-Para obter as notas de versão de todas as soluções, consulte [Notas de versão da Experience Cloud](https://marketing.adobe.com/resources/help/en_US/whatsnew/).
+Para obter as notas de versão de todas as soluções, consulte as [Notas de versão da Experience Cloud](https://marketing.adobe.com/resources/help/pt_BR/whatsnew/).
 
-## agosto - 2019
+## Agosto - 2019
 
 * Correção de um problema crítico no login da Experience Cloud que resultava no logout da sessão para alguns usuários. (MCUI-6908)
 * Atualização do login da Experience Cloud para melhorar o desempenho e reduzir a latência. (MCUI-6854, MCUI-6869, MCUI-6883)
 * Atualização da aparência da interface. (MCUI-6861, MCUI-6911, MCUI-6862)
 * Correção de um problema com os [!UICONTROL Triggers] da Experience Cloud que resultava na interpretação incorreta da cláusula _Curtir_ na definição do [!UICONTROL Acionador]. (MCUI-6611)
 
-## abril - 2019
+## Abril - 2019
 
 * Atualização do alternador de aplicativo para incluir o Marketo no conjunto de soluções da Experience Cloud, além de atualizações de marca na Experience Platform. (MCUI-6529)
 * Atualização da tela inicial da Experience Cloud para incluir links de navegação às páginas Feed e Administração. (MCUI-6682)
@@ -116,7 +116,7 @@ Se você acessar o Dynamic Tag Management por meio da interface **[!UICONTROL Ex
 
 >[!NOTE]
 >
->a Microsoft [encerra o suporte](https://www.microsoft.com/en-us/WindowsForBusiness/End-of-IE-support) ao Internet Explorer 8, 9 e 10. Por esse motivo, nós deixaremos de corrigir problemas relatados nessas versões do Internet Explorer.
+>A Microsoft está [descontinuando o suporte](thttps://www.microsoft.com/pt-br/WindowsForBusiness/End-of-IE-support) para o Internet Explorer 8, 9 e 10. Por esse motivo, nós deixaremos de corrigir problemas relatados nessas versões do Internet Explorer.
 
 ## Versão 15.10 - 14 de outubro de 2015 {#section_68123833D3634BD3A473C12862BF9606}
 
@@ -164,14 +164,14 @@ Nenhuma informação disponível
     <ul id="ul_5BEBAB86B9234A239C4E2DAF8826D8E3"> 
      <li id="li_7FA9F64CE69144B8A8A92746BF40E5A1">O <span class="term">Biblioteca de público-alvo</span> e <span class="term">Atributos do cliente</span> agora estão localizadas em <span class="term">Públicos-alvo</span>. </li> 
      <li id="li_95D62A43AE6243DBB2A65EDB830D05C4">A seleção de menu <span class="term">Exchage </span>foi movida do menu suspenso Ajuda para o painel de navegação esquerdo. </li> 
-     <li id="li_0443FD50C78446CD8AA27A4F272CAD31"> <span class="term"> As soluções do</span> foram removidas. Agora, é possível iniciar todas as soluções na metade inferior do painel de navegação. </li> 
+     <li id="li_0443FD50C78446CD8AA27A4F272CAD31"> As <span class="term">soluções</span> do foram removidas. Agora, é possível iniciar todas as soluções na metade inferior do painel de navegação. </li> 
     </ul> </td> 
   </tr> 
  </tbody> 
 </table>
 
 * Correção de um problema que impedia a sincronização dos atributos do cliente para alguns clientes.
-* Correção de um problema que impedia a exibição da página [Documentação do produto do Adobe Target](https://marketing.adobe.com/resources/help/ja_JP/target/a4t/) em japonês.
+* Correção de um problema que impedia a exibição de página [Documentação do produto do Adobe Target](https://marketing.adobe.com/resources/help/pt_BR/target/a4t/) em japonês.
 * Foi corrigido um problema que impedia o uso do texto em japonês nos comentários entre a [!DNL Creative Cloud] e a [!DNL Experience Cloud].
 
 ## Versão 15.4.1 - 8 de abril de 2015 {#section_75634120CC934B3381EDEA7F6F976F0A}
@@ -474,7 +474,7 @@ Novos recursos e correções na colaboração e interface de compartilhamento da
  <tbody> 
   <tr> 
    <td colname="col1"> <p>Experience Cloud Exchange </p> </td> 
-   <td colname="col2"> <p> <span class="uicontrol"> Experience Cloud</span> &gt; <span class="uicontrol">Ajuda</span> &gt; <span class="uicontrol">Exchange</span></p> <p>O <span class="keyword">Experience Cloud</span><span class="wintitle">Exchange</span> é o único local onde você pode pesquisar, navegar, selecionar, pagar e baixar extensões de marketing digital através de aplicativos. </p> <p>Os aplicativos incluem conectores de dados, configurações personalizadas para o produto principal da Adobe, aplicativos de terceiros, relatórios e cartões da <span class="keyword">Experience Cloud</span>. </p> <p>Consulte <a href="../exchange.md#concept_E07F16F070544B82B56527A845C41D59" format="dita" scope="local"> Exchange Marketplace</a>. </p> </td> 
+   <td colname="col2"> <p> <span class="uicontrol"> Experience Cloud</span> &gt; <span class="uicontrol">Ajuda</span> &gt; <span class="uicontrol">Exchange</span></p> <p>O <span class="keyword">Experience Cloud</span><span class="wintitle">Exchange</span> é o único local onde você pode pesquisar, navegar, selecionar, pagar e baixar extensões de marketing digital através de aplicativos. </p> <p>Os aplicativos incluem Data Connectors, configurações personalizadas para o produto principal da Adobe, aplicativos de terceiros, relatórios e cartões da <span class="keyword">Experience Cloud</span>. </p> <p>Consulte <a href="../exchange.md#concept_E07F16F070544B82B56527A845C41D59" format="dita" scope="local"> Exchange Marketplace</a>. </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p>Públicos-alvo da Experience Cloud </p> </td> 

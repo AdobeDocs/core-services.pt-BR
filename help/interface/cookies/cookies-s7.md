@@ -3,13 +3,13 @@ description: O Scene7 usa cookies para armazenar informações úteis que podem 
 keywords: cookies; privacidade
 seo-description: O Scene7 usa cookies para armazenar informações úteis que podem ser usadas para fornecer mídia dinâmica ao navegador.
 seo-title: Cookies do Scene7
-solution: Marketing Cloud, Analytics, Target, Social
+solution: Experience Cloud,Analytics,Target,Social
 title: Cookies do Scene7
-uuid: f 9 b 9 d 13 a -17 e 5-4139-8 c 84-6 fe 5 d 22 c 4196
+uuid: f9b9d13a-17e5-4139-8c84-6fe5d22c4196
 index: y
 internal: n
 snippet: y
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: 7137e608ddece5bf2a3983b3b18909ba89d607a6
 
 ---
@@ -40,7 +40,7 @@ Os visualizadores AS3 mais recentes não implementam persistência de sessão.
 | Informações armazenadas | Define o cookie da sessão. O AuthFilter integrado no IPS ImageServer (IS, IR e também os SWFs/capas e contextos de vídeo) usa o cookie para a autorização do acesso. Se estiver presente, permite que solicitações HTTP passem. Do contrário, retorna não autorizado. |
 | Expiração | Este cookie é um cookie de sessão. A expiração da sessão atual está definida como 45 minutos no IPS [!DNL web.xml] do Scene7. |
 
-**Nome do cookie: s 7 js. flyout. infomessage. displayed`assetId`. state**
+**Nome do cookie: s7js.flyout.InfoMessage.displayed`assetId`.state**
 
 <table id="table_6835D64C5D464A049F576621F2BE3FAD"> 
  <thead> 
@@ -61,7 +61,7 @@ Os visualizadores AS3 mais recentes não implementam persistência de sessão.
  </tbody> 
 </table>
 
-**Nome do cookie: s 7 js. flyout. infomessage. displayed`assetId`_ idx`id`. ant**
+**Nome do cookie: s7js.flyout.InfoMessage.displayed`assetId`_idx`id`.ant**
 
 Os cookies de navegador são usados por visualizadores DHTML herdados para armazenar informações de estado e dados de notas aderentes. Também são usado pelo menu DHTML multitela para tornar o indicador de mensagens em específico da sessão.
 

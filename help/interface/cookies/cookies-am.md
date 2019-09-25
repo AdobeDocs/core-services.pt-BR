@@ -3,13 +3,13 @@ description: O Audience Manager depende de alguns cookies simples para realizar 
 keywords: cookies
 seo-description: O Audience Manager depende de alguns cookies simples para realizar diferentes funções.  Estes incluem coisas como a atribuição de Ids, a gravação de chamadas de dados, o rastreamento de erros e os testes para ver se os cookies podem ser definidos.  Esta seção lista e descreve os diferentes cookies definidos pelo Audience Manager.
 seo-title: Cookies do Audience Manager
-solution: Marketing Cloud, Audience Manager
+solution: Experience Cloud,Audience Manager
 title: Cookies do Audience Manager
-uuid: 8 b 384 c 38-b 85 a -4 e 93-b 00 e -41 a 9 d 3 ae 2 b 21
+uuid: 8b384c38-b85a-4e93-b00e-41a9d3ae2b21
 index: y
 internal: n
 snippet: y
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: 7137e608ddece5bf2a3983b3b18909ba89d607a6
 
 ---
@@ -31,11 +31,11 @@ O Audience Manager depende de alguns cookies simples para realizar diferentes fu
  <tbody> 
   <tr> 
    <td colname="col1"> <p> <b>Propósito</b> </p> </td> 
-   <td colname="col2"> <p>  O <span class="keyword">Audience Manager</span> define este cookie para atribuir uma ID exclusiva a um visitante do site. O cookie <span class="wintitle">demdex</span> ajuda o <span class="keyword">Audience Manager</span> a executar funções básicas, como a identificação do visitante, a sincronização de ID, a segmentação, a modelagem, a geração de relatórios, etc. </p> </td> 
+   <td colname="col2"> <p> O <span class="keyword">Audience Manager</span> define este cookie para atribuir uma ID exclusiva a um visitante do site. O cookie <span class="wintitle">demdex</span> ajuda o <span class="keyword">Audience Manager</span> a executar funções básicas, como a identificação do visitante, a sincronização de ID, a segmentação, a modelagem, a geração de relatórios, etc. </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p> <b>Conteúdo</b> </p> </td> 
-   <td colname="col2"> <p>O cookie <span class="wintitle">demdex</span> contém uma ID de usuário exclusiva (UUID), conforme mostrado no exemplo abaixo: </p> <p> <span class="codeph"> 06151304227769720433039235178204449977 </span> </p> <p>Consulte também <a href="https://marketing.adobe.com/resources/help/en_US/aam/ids-in-aam.html" format="https" scope="external">Índice de IDs no Audience Manager </a>. </p> </td> 
+   <td colname="col2"> <p>O cookie <span class="wintitle">demdex</span> contém uma ID de usuário exclusiva (UUID), conforme mostrado no exemplo abaixo: </p> <p> <span class="codeph"> 06151304227769720433039235178204449977 </span> </p> <p>Consulte também <a href="https://docs.adobe.com/content/help/pt-BR/audience-manager/user-guide/reference/ids-in-aam.html" format="https" scope="external">Índice de IDs no Audience Manager </a>. </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p> <b>Outros atributos</b> </p> </td> 
@@ -60,13 +60,13 @@ O Audience Manager depende de alguns cookies simples para realizar diferentes fu
  <tbody> 
   <tr> 
    <td colname="col1"> <p> <b>Propósito</b> </p> </td> 
-   <td colname="col2"> <p>  O <span class="keyword">Audience Manager</span> define este cookie para registrar a última vez que fez uma chamada de sincronização de dados. </p> </td> 
+   <td colname="col2"> <p> O <span class="keyword">Audience Manager</span> define este cookie para registrar a última vez que fez uma chamada de sincronização de dados. </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p> <b>Conteúdo</b> </p> </td> 
    <td colname="col2"> <p>O cookie <span class="wintitle">dextp</span> contém o nome ou ID de um provedor de dados e um carimbo de data e hora UNIX UTC formatados como strings delimitadas por barra. Nos exemplos, <i>itálico</i> representa um espaço reservado para variável. </p> <p> 
      <ul id="ul_80D0BC3FCF06470991E12712401D784A"> 
-      <li id="li_03747A433CEB4756A26CD866E716B89D">Estilo antigo: <span class="codeph"> <span class="varname"> nome do provedor de dados aqui </span>-1490307822097| <span class="varname"> nome do provedor de dados aqui </span>-1490307822038 </span> </li> 
+      <li id="li_03747A433CEB4756A26CD866E716B89D">Estilo antigo: <span class="codeph"> <span class="varname"> nome do provedor de dados aqui </span>-1490307822097  <span class="varname"> nome do provedor de dados aqui </span>-1490307822038 </span> </li> 
       <li id="li_79E7000E82DB4ADA9E9887B017343B2D">Novo estilo: <span class="codeph">21-1-1490307821616|544-1-1490307821793|3-1-1490307821852|420-1-1490307822038| </span> </li> 
      </ul> </p> <p>Consulte também a seção de sintaxe dos dados abaixo. </p> </td> 
   </tr> 
@@ -95,13 +95,13 @@ A tabela a seguir lista e define os elementos de um cookie [!DNL dextp] por loca
  <tbody> 
   <tr> 
    <td colname="col1"> <p> <b>Primeiro ou segundo</b> </p> </td> 
-   <td colname="col2"> <p>A posição do nome ou ID do provedor de dados varia dependendo se o cookie usa o estilo de formatação novo ou antigo. </p> <p> <b>Estilo antigo de formatação: </b> </p> <p> 
+   <td colname="col2"> <p>A posição do nome ou ID do provedor de dados varia dependendo se o cookie usa o estilo de formatação novo ou antigo. </p> <p> <b>Estilo antigo de formatação:</b> </p> <p> 
      <ul id="ul_5BFBF40E3FE849CA859030F2D070FDF6"> 
-      <li id="li_E8F4DC0CB15B472ABE9892B3A61D7F77">Sintaxe: <span class="codeph"> <span class="varname"> nome do provedor de dados </span> - <span class="varname"> Carimbo de data e hora UNIX UTC </span></span> </li> 
-      <li id="li_7CD8B101156140F49EA97B18E9591402">Example: <span class="codeph"> dataProvider1 - 1490307822038 </span> </li> 
+      <li id="li_E8F4DC0CB15B472ABE9892B3A61D7F77">Sintaxe: <span class="codeph"> <span class="varname"> nome do provedor de dados </span> - <span class="varname"> Carimbo de data e hora UNIX UTC </span> </span> </li> 
+      <li id="li_7CD8B101156140F49EA97B18E9591402">Exemplo: <span class="codeph"> dataProvider1 - 1490307822038 </span> </li> 
      </ul> </p> <p>O cookie de estilo antigo identifica o provedor de dados com um nome legível. </p> <p> <b>Novo estilo de formatação:</b> </p> <p> 
      <ul id="ul_AC6225CA781746148C125F21DFED1ED9"> 
-      <li id="li_29C4B52E398B4EA28944980A15B05A57">Sintaxe: <span class="codeph"> <span class="varname"> ID do provedor de dados </span> - 1|2 - <span class="varname"> Carimbo de data e hora UNIX UTC </span></span> </li> 
+      <li id="li_29C4B52E398B4EA28944980A15B05A57">Sintaxe: <span class="codeph"> <span class="varname"> ID do provedor de dados </span> - 1 2 - <span class="varname"> Carimbo de data e hora UNIX UTC </span> </span> </li> 
       <li id="li_3BF30CA5FED242DF96E0B54AFC64B06F">Exemplo: <span class="codeph"> 123345 - 1 - 1490307822038 </span> </li> 
      </ul> </p> <p>O novo cookie de estilo: </p> <p> 
      <ul id="ul_F05A91A455FA44C7A71186C0C9E31630"> 
@@ -128,13 +128,13 @@ A tabela a seguir lista e define os elementos de um cookie [!DNL dextp] por loca
  <tbody> 
   <tr> 
    <td colname="col1"> <p> <b>Propósito</b> </p> </td> 
-   <td colname="col2"> <p>  O <span class="keyword">Audience Manager</span> define este cookie quando ocorre um erro ao enviar dados para um <a href="https://marketing.adobe.com/resources/help/en_US/aam/c_destinations.html" format="https" scope="external">destino </a>. </p> </td> 
+   <td colname="col2"> <p> O <span class="keyword">Audience Manager</span> define este cookie quando ocorre um erro ao enviar dados para um <a href="https://docs.adobe.com/content/help/pt-BR/audience-manager/user-guide/features/destinations/destinations.translate.html#purposes" format="https" scope="external">destino </a>. </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p> <b>Conteúdo</b> </p> </td> 
    <td colname="col2"> <p> O cookie <span class="wintitle">DST</span> contém conjuntos de IDs de destino e carimbos de data e hora UNIX formatados como strings delimitadas por barra. Nos exemplos, <i>itálico</i> representa um espaço reservado para variável. </p> <p> 
      <ul id="ul_CE98076A02DA413486C1D341E9806889"> 
-      <li id="li_850209D956644749B98C7A208C825C15">Sintaxe: <span class="codeph"><span class="varname"> ID de destino </span> - <span class="varname"> Carimbo de data e hora UNIX UTC </span></span> </li> 
+      <li id="li_850209D956644749B98C7A208C825C15">Sintaxe: <span class="codeph"> <span class="varname"> ID de destino </span> - <span class="varname"> Carimbo de data e hora UNIX UTC </span> </span> </li> 
       <li id="li_4A22152C70844733982230EBF7B9EB78">Exemplo: <span class="codeph">067797-1490349684|1010788-1490349692|1067797-1490349692 </span> </li> 
      </ul> </p> </td> 
   </tr> 
@@ -151,4 +151,4 @@ A tabela a seguir lista e define os elementos de um cookie [!DNL dextp] por loca
 
 **Cookie _dp**
 
-Este é um cookie temporário. [!DNL Audience Manager] tenta definir o [!DNL _dp] cookie para determinar se ele pode definir outros cookies no domínio demdex. net em um contexto de terceiros. When [!DNL _dp] is set it contains a value of 1. [!DNL Audience Manager] lê esse valor e remove imediatamente o cookie. If the [!DNL _dp] cookie is not present, [!DNL Audience Manager] knows it cannot set cookies.
+Este é um cookie temporário. O [!DNL Audience Manager] tenta definir o cookie [!DNL _dp] para determinar se ele pode definir outros cookies no domínio demdex.net em um contexto de terceiros. Quando [!DNL _dp] é definido, ele contém um valor igual a 1. O [!DNL Audience Manager] lê este valor e remove imediatamente o cookie. Se o cookie [!DNL _dp] não estiver presente, o [!DNL Audience Manager] sabe que não pode definir cookies.

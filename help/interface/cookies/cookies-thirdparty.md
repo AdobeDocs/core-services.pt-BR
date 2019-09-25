@@ -3,13 +3,13 @@ description: Como o suporte a cookies de terceiros se tornou cada vez mais limit
 keywords: cookies; privacidade
 seo-description: Como o suporte a cookies de terceiros se tornou cada vez mais limitado nos navegadores, a Adobe tem trabalhado em novas soluções que equilibram as necessidades do cliente com seu direito de privacidade nas soluções da Adobe Experience Cloud.
 seo-title: Como as alterações no suporte a cookies de terceiros afeta os clientes
-solution: Marketing Cloud, Analytics, Target, Social
+solution: Experience Cloud,Analytics,Target,Social
 title: Como as alterações no suporte a cookies de terceiros afeta os clientes
-uuid: 27332 e 0 d -6932-4 a 6 e-b 97 b -0 adeced 0 b 050
+uuid: 27332e0d-6932-4a6e-b97b-0adeced0b050
 index: y
 internal: n
 snippet: y
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: f59badcd3423ada51a3fe0c605158a009d5b1d64
 
 ---
@@ -23,12 +23,12 @@ A seguinte lista descreve como o suporte a cookies de terceiros afeta as impleme
 
 ## Adobe Analytics e Adobe Target
 
-* Customers with a [first-party implementation](/help/interface/cookies/cookies-first-party.md) would remain largely unaffected.
-* Customers that are not using first-party implementation can implement the [Experience Platform ID Service](https://docs.adobe.com/content/help/en/id-service/using/implementation-guides/implementation-guides.html) to store the ID cookie as a first-party cookie without a first-party implementation.
+* Clientes com uma [implementação própria](/help/interface/cookies/cookies-first-party.md) permaneceriam praticamente inalterados.
+* Os clientes que não usam implementação própria podem implementar o [Serviço de ID da Experience Platform](https://docs.adobe.com/content/help/pt-BR/id-service/using/implementation-guides/implementation-guides.html) para armazenar o cookie da ID como um cookie próprio, sem uma implementação própria.
 
 ## Adobe Experience Manager
 
-* Como o Adobe Experience Manager funciona totalmente no domínio do cliente, há uma interação mínima com cookies de terceiros e, portanto, mínima sem impacto.
+* Como o Adobe Experience Manager funciona integralmente no domínio do cliente, há uma interação mínima com cookies de terceiros e, portanto, impacto mínimo ou inexistente.
 
 ## Adobe Social
 

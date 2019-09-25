@@ -1,23 +1,23 @@
 ---
-description: A análise de big data usa cookies para analisar em tempo real grandes volumes de dados que evoluem rapidamente.
+description: Data Workbench usa cookies para analisar em tempo real grandes volumes de dados que evoluem rapidamente.
 keywords: cookies; privacidade
-seo-description: A análise de big data usa cookies para analisar em tempo real grandes volumes de dados que evoluem rapidamente.
-seo-title: Cookies de análise de big data
-solution: Marketing Cloud, Analytics, Target, Social
-title: Cookies de análise de big data
-uuid: c 15013 f 4-c 47 d -4950-aa 19-be 9 afd 25 cd 5 f
+seo-description: Data Workbench usa cookies para analisar em tempo real grandes volumes de dados que evoluem rapidamente.
+seo-title: Cookies de Data Workbench
+solution: Experience Cloud,Analytics,Target,Social
+title: Cookies de Data Workbench
+uuid: c15013f4-c47d-4950-aa19-be9afd25cd5f
 index: y
 internal: n
 snippet: y
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: 7137e608ddece5bf2a3983b3b18909ba89d607a6
 
 ---
 
 
-# Cookies de análise de big data{#data-workbench-cookies}
+# Cookies de Data Workbench{#data-workbench-cookies}
 
-A análise de big data usa cookies para analisar em tempo real grandes volumes de dados que evoluem rapidamente.
+Data Workbench usa cookies para analisar em tempo real grandes volumes de dados que evoluem rapidamente.
 
 **Nome do cookie: v1st**
 

@@ -1,23 +1,23 @@
 ---
-description: A Advertising Cloud usa cookies para mapear eventos de envolvimento de anúncios a eventos de conversão e, potencialmente, para usar essas informações para otimizar ofertas de anúncios.
-seo-description: A Advertising Cloud usa cookies para mapear eventos de envolvimento de anúncios a eventos de conversão e, potencialmente, para usar essas informações para otimizar ofertas de anúncios.
+description: A Advertising Cloud usa cookies para mapear eventos de envolvimento de anúncios a eventos de conversão e, possivelmente, para usar essas informações para otimizar ofertas de anúncios.
+seo-description: A Advertising Cloud usa cookies para mapear eventos de envolvimento de anúncios a eventos de conversão e, possivelmente, para usar essas informações para otimizar ofertas de anúncios.
 seo-title: Cookies da Advertising Cloud
 title: Cookies da Advertising Cloud
-uuid: 2 eec 48 a 3-3 e 81-488 e -8 e 30-5 fd 62885 de 0 b
+uuid: 2eec48a3-3e81-488e-8e30-5fd62885de0b
 index: y
 internal: n
 snippet: y
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: dfb43724e2fcc36d54ddfee33cfcae66eba8710f
 
 ---
 
 
-# Cookies da Advertising Cloud{#advertising-cloud-cookies}
+# Cookies da Advertising Cloud {#advertising-cloud-cookies}
 
-A Advertising Cloud usa cookies para mapear eventos de envolvimento de anúncios a eventos de conversão e, potencialmente, para usar essas informações para otimizar ofertas de anúncios.
+A Advertising Cloud usa cookies para mapear eventos de envolvimento de anúncios a eventos de conversão e, possivelmente, para usar essas informações para otimizar ofertas de anúncios.
 
-## Nome do cookie: id_ adcloud
+## Nome do cookie: id_adcloud
 
 <table id="id_adcloud"> 
 <thead> 
@@ -41,7 +41,7 @@ A Advertising Cloud usa cookies para mapear eventos de envolvimento de anúncios
 </tr> 
 <tr> 
 <td colname="col1"> <p>Localização </p> </td> 
-<td colname="col2"> <p>Domínio de nível superior do anunciante (como example.com) </p> </td> 
+<td colname="col2"> <p>O domínio de nível superior do anunciante (como example.com) </p> </td> 
 </tr> 
 <tr> 
 <td colname="col1"> <p>Tamanho </p> </td> 
@@ -50,7 +50,7 @@ A Advertising Cloud usa cookies para mapear eventos de envolvimento de anúncios
 </tbody> 
 </table>
 
-## Nome do cookie: _ lcc
+## Nome do cookie: _lcc
 
 <table id="table_821F8EBE91F244CBA72B0975B961B908"> 
  <thead> 
@@ -62,7 +62,7 @@ A Advertising Cloud usa cookies para mapear eventos de envolvimento de anúncios
  <tbody> 
   <tr> 
    <td colname="col1"> <p>Informações armazenadas </p> </td> 
-   <td colname="col2"> <p>IDs e carimbos de data e hora (no formato aaaammdd) de cliques de exibição</p> </td> 
+   <td colname="col2"> <p>IDs e carimbos de data e hora (no formato aaaammdd) dos cliques de exibição</p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p>Expiração </p> </td> 
@@ -70,7 +70,7 @@ A Advertising Cloud usa cookies para mapear eventos de envolvimento de anúncios
   </tr> 
   <tr> 
    <td colname="col1"> <p>Uso </p> </td> 
-   <td colname="col2"> <p>Um cookie de terceiros usado para determinar se um evento click em um anúncio de exibição se aplica a uma ocorrência do Adobe Analytics </p> </td> 
+   <td colname="col2"> <p>Um cookie de terceiros usado para determinar se um evento de cliques em um anúncio de exibição se aplica a uma ocorrência do Adobe Analytics </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p>Localização </p> </td> 
@@ -83,7 +83,7 @@ A Advertising Cloud usa cookies para mapear eventos de envolvimento de anúncios
  </tbody> 
 </table>
 
-## Nome do cookie: _ tmae
+## Nome do cookie: _tmae
 
 <table id="table_28C2B62595E240D5A3C3E0BE147748C1"> 
  <thead> 
@@ -103,7 +103,7 @@ A Advertising Cloud usa cookies para mapear eventos de envolvimento de anúncios
   </tr> 
   <tr> 
    <td colname="col1"> <p>Uso </p> </td> 
-   <td colname="col2"> <p>Um cookie de terceiros que armazena participações do usuário com anúncios, como «último anúncio xyz 123 em 30 de junho de 20 16» </p> </td> 
+   <td colname="col2"> <p>Um cookie de terceiros que armazena os envolvimentos do usuário com anúncios, como "último anúncio xyz123 visto em 30 de junho de 2016" </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p>Localização </p> </td> 
@@ -128,7 +128,7 @@ A Advertising Cloud usa cookies para mapear eventos de envolvimento de anúncios
  <tbody> 
   <tr> 
    <td colname="col1"> <p>Informações armazenadas </p> </td> 
-   <td colname="col2"> <p>A ID do surfer, os carimbos de data e hora da última visita ao site do anunciante e o último clique de pesquisa do surfer, e a ef_ id que foi criada quando o usuário clicou em um anúncio</p> </td> 
+   <td colname="col2"> <p>A ID do surfer, os carimbos de data e hora da última visita ao site do anunciante e o último clique de pesquisa do surfer e a ef_id criada quando o usuário clicou em um anúncio</p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p>Expiração </p> </td> 
@@ -136,22 +136,22 @@ A Advertising Cloud usa cookies para mapear eventos de envolvimento de anúncios
   </tr> 
   <tr> 
    <td colname="col1"> <p>Uso </p> </td> 
-   <td colname="col2"> <p>Um cookie primário que associa a ID do surfer com segmentos e conversões relevantes do público-alvo </p> <p> As informações sobre a última visita são usadas para otimizar o tempo de carregamento da página, evitando solicitações desnecessárias para servidores da Adobe. </p> <p>As informações sobre o último clique de pesquisa ajudam a determinar se um evento de conversão foi resultado de um clique ou de um view-through (conversão resultante de impressões, mas sem cliques). </p> </td> 
+   <td colname="col2"> <p>Um cookie próprio que associa a ID do surfer aos segmentos e conversões relevantes do público-alvo </p> <p> As informações sobre a última visita são usadas para otimizar os tempos de carregamento da página, evitando solicitações desnecessárias para os servidores da Adobe. </p> <p>As informações sobre o último clique de pesquisa ajudam a determinar se um evento de conversão foi o resultado de um clique ou de uma visualização (conversão resultante de impressões, mas sem cliques). </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p>Localização </p> </td> 
-   <td colname="col2"> <p>Domínio de nível superior do anunciante (como example.com) </p> </td> 
+   <td colname="col2"> <p>O domínio de nível superior do anunciante (como example.com) </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p>Tamanho </p> </td> 
-   <td colname="col2"> <p>Variável, mas normalmente 50-150 bytes </p> </td> 
+   <td colname="col2"> <p>Variável, mas normalmente entre 50 e 150 bytes </p> </td> 
   </tr> 
  </tbody> 
 </table>
 
-## Nome do cookie: ev_ sync_ *
+## Nome do cookie: ev_sync_*
 
-(ev_ sync_ ax, ev_ sync_ bk, ev_ sync_ dd, ev_ sync_ fs, ev_ sync_ ix, ev_ sync_ ix, ev_ sync_ pm, ev_ sync_ pm, ev_ sync_ rc, ev_ sync_ tm, ev_ sync_ yh)
+(ev_sync_ax, ev_sync_bk, ev_sync_dd, ev_sync_fs, ev_sync_ix, ev_sync_nx, ev_sync_ox, ev_sync_pm, ev_sync_rc, ev_sync_tm, ev_sync_yh)
 
 <table id="table_A05C02AB261946E0AABAD78259392D81"> 
  <thead> 
@@ -163,15 +163,15 @@ A Advertising Cloud usa cookies para mapear eventos de envolvimento de anúncios
  <tbody> 
   <tr> 
    <td colname="col1"> <p>Informações armazenadas </p> </td> 
-   <td colname="col2"> <p>A data em que a sincronização será executada, no formato aaaammdd </p> </td> 
+   <td colname="col2"> <p>A data em que a sincronização será realizada, no formato aaaammdd </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p>Expiração </p> </td> 
-   <td colname="col2"> <p>A data em que a sincronização será executada, no formato aaaammdd </p> </td> 
+   <td colname="col2"> <p>A data em que a sincronização será realizada, no formato aaaammdd </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p>Uso </p> </td> 
-   <td colname="col2"> <p>Um cookie específico de troca de anúncios que sincroniza a ID de surfer da Publicidade Cloud com a troca de anúncios do parceiro. Ele é criado para novos surfers e envia uma solicitação de sincronização quando expirada. </p> </td> 
+   <td colname="col2"> <p>Um cookie de terceiros específico da troca de anúncios que sincroniza a ID do surfer da Advertising Cloud, com a troca de anúncios do parceiro. Ele é criado para novos surfers e envia uma solicitação de sincronização quando expira. </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p>Localização </p> </td> 
@@ -184,7 +184,7 @@ A Advertising Cloud usa cookies para mapear eventos de envolvimento de anúncios
  </tbody> 
 </table>
 
-## Nome do cookie: everest_ g_ v 2
+## Nome do cookie: everest_g_v 2
 
 <table id="table_04043292A43B41B69EAF17AF4E217C69"> 
  <thead> 
@@ -204,7 +204,7 @@ A Advertising Cloud usa cookies para mapear eventos de envolvimento de anúncios
   </tr> 
   <tr> 
    <td colname="col1"> <p>Uso </p> </td> 
-   <td colname="col2"> <p>Criado depois que um usuário clica inicialmente em um anúncio do cliente e usado para mapear os cliques atuais e subsequentes com outros eventos no site do cliente </p> </td> 
+   <td colname="col2"> <p>Criada depois que um usuário clica inicialmente em um anúncio do cliente e usada para mapear os cliques atuais e subsequentes com outros eventos no site do cliente </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p>Localização </p> </td> 
@@ -217,7 +217,7 @@ A Advertising Cloud usa cookies para mapear eventos de envolvimento de anúncios
  </tbody> 
 </table>
 
-## Nome do cookie: everest_ session_ v 2
+## Nome do cookie: everest_session_v 2
 
 <table id="table_1A3AE4CA71304ADB943CB1F64BE695F5"> 
  <thead> 
@@ -237,7 +237,7 @@ A Advertising Cloud usa cookies para mapear eventos de envolvimento de anúncios
   </tr> 
   <tr> 
    <td colname="col1"> <p>Uso </p> </td> 
-   <td colname="col2"> <p>Um cookie de sessão do navegador de terceiros; um cookie é usado para todas as contas </p> </td> 
+   <td colname="col2"> <p>Um cookie de terceiros da sessão do navegador; um cookie é usado para todas as contas </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p>Localização </p> </td> 
@@ -250,7 +250,7 @@ A Advertising Cloud usa cookies para mapear eventos de envolvimento de anúncios
  </tbody> 
 </table>
 
-## Nome do cookie: ev_ tm
+## Nome do cookie: ev_tm
 
 <table id="table_6C4D9DCFA4BF4FB2BD445E027550955F"> 
  <thead> 
@@ -262,7 +262,7 @@ A Advertising Cloud usa cookies para mapear eventos de envolvimento de anúncios
  <tbody> 
   <tr> 
    <td colname="col1"> <p>Informações armazenadas </p> </td> 
-   <td colname="col2"> <p>ID da Digital Cloud DSP (Demand Side Platform) </p> </td> 
+   <td colname="col2"> <p>ID da Advertising Cloud DSP (Demand Side Platform) </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p>Expiração </p> </td> 
@@ -270,7 +270,7 @@ A Advertising Cloud usa cookies para mapear eventos de envolvimento de anúncios
   </tr> 
   <tr> 
    <td colname="col1"> <p>Uso </p> </td> 
-   <td colname="col2"> <p>Um cookie de terceiros que armazena a ID DSP que corresponde à ID do surfer no cookie everest_ g_ v 2 </p> </td> 
+   <td colname="col2"> <p>Um cookie de terceiros que armazena a DSP ID que corresponde à ID do surfer no cookie everest_g_v 2 </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p>Localização </p> </td> 
@@ -283,7 +283,7 @@ A Advertising Cloud usa cookies para mapear eventos de envolvimento de anúncios
  </tbody> 
 </table>
 
-## Nome do cookie: id_ adcloud
+## Nome do cookie: id_adcloud
 
 <table> 
  <thead> 
@@ -307,7 +307,7 @@ A Advertising Cloud usa cookies para mapear eventos de envolvimento de anúncios
   </tr> 
   <tr> 
    <td colname="col1"> <p>Localização </p> </td> 
-   <td colname="col2"> <p>Domínio de nível superior do anunciante (como example.com) </p> </td> 
+   <td colname="col2"> <p>O domínio de nível superior do anunciante (como example.com) </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p>Tamanho </p> </td> 

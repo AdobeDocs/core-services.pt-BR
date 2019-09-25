@@ -3,13 +3,13 @@ description: O Adobe Analytics usa cookies para diferenciar solicitações de na
 keywords: cookies; privacidade
 seo-description: O Adobe Analytics usa cookies para diferenciar solicitações de navegadores diferentes e armazenar informações úteis que um aplicativo pode usar posteriormente. Também podem ser usados para associar informações de navegação a registros do cliente.
 seo-title: Cookies do Analytics
-solution: Marketing Cloud, Analytics, Target, Social
+solution: Experience Cloud,Analytics,Target,Social
 title: Cookies do Analytics
-uuid: e 2 d 3 d 61 d -2708-48 b 2-a 7 e 6-2331 f 2 aed 8 e 0
+uuid: e2d3d61d-2708-48b2-a7e6-2331f2aed8e0
 index: y
 internal: n
 snippet: y
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: f59badcd3423ada51a3fe0c605158a009d5b1d64
 
 ---
@@ -21,7 +21,7 @@ O Adobe Analytics usa cookies para diferenciar solicitações de navegadores dif
 
 Particularmente, o Analytics usa cookies para definir novos visitantes anonimamente, para ajudar a analisar dados de sequência de cliques e para rastrear atividades do histórico no site, como respostas a campanhas específicas ou a duração do ciclo de vendas.
 
-* [Nome do cookie: s_ ecid](../cookies/cookies-mc.md#section-32fd753c3fa54452acd62b021434919a)
+* [Nome do cookie: s_ecid](../cookies/cookies-mc.md#section-32fd753c3fa54452acd62b021434919a)
 * [Nome do cookie: AMCV_###@AdobeOrg](../cookies/cookies-mc.md#section-a12aa2a9296940ae82d8921b381b8fb0)
 * [Nome do cookie: s_cc](../cookies/cookies-analytics.md#section-03aa90aa7e36427b8cb12dc4a0f0291e)
 * [Nome do cookie: s_cc](../cookies/cookies-analytics.md#section-03aa90aa7e36427b8cb12dc4a0f0291e)
@@ -32,14 +32,14 @@ Particularmente, o Analytics usa cookies para definir novos visitantes anonimame
 
 Mais informações estão disponíveis na ajuda do Analytics sobre [Cookies primários](/help/interface/cookies/cookies-first-party.md).
 
-## Nome do cookie: s_ ecid {#section-32fd753c3fa54452acd62b021434919a}
+## Nome do cookie: s_ecid {#section-32fd753c3fa54452acd62b021434919a}
 
 | Atributo | Descrição |
 |--- |--- |
-| Informações armazenadas | Contém uma cópia da Experience Cloud ID (ECID) ou MID. A MID é armazenada em um par de valor chave que segue a sintaxe s_ ecid = MCMID | <ECID> |
+| Informações armazenadas | Contém uma cópia da Experience Cloud ID (ECID) ou MID. A MID é armazenada em um par de valor principal que segue a sintaxe s_ecid=MCMID | <ECID> |
 | Expiração | 2 anos |
-| Uso | Esse cookie é definido pelo domínio do cliente depois que o cookie AMCV é definido pelo cliente. A finalidade deste cookie é permitir o rastreamento de ID persistente no estado de 1 ^ st ^ party e é usado como uma ID de referência se o cookie AMCV tiver expirado. Verifique o cookie AMCV aqui para obter mais detalhes. |
-| Localização | Somente clientes CNAME. Não aplicável para cenários de terceiros. O cookie é armazenado em seu domínio, o mesmo domínio usado por CNAME e sua solicitação de imagem do Analytics. |
+| Uso | Esse cookie é definido pelo domínio do cliente depois que o cookie AMCV é definido pelo cliente. A finalidade deste cookie é permitir o rastreamento de ID persistente no estado próprio e ele é usado como ID de referência, se o cookie AMCV tiver expirado. Verifique o cookie AMCV aqui para obter mais detalhes. |
+| Localização | Somente para clientes CNAME. Não aplicável para cenários de terceiros. O cookie é armazenado em seu domínio, o mesmo domínio usado pelo CNAME e pela solicitação de imagem do Analytics. |
 | Tamanho | 45 bytes |
 
 ## Nome do cookie: s_cc {#section-03aa90aa7e36427b8cb12dc4a0f0291e}
@@ -60,7 +60,7 @@ Mais informações estão disponíveis na ajuda do Analytics sobre [Cookies prim
 | Expiração | Este cookie é um cookie de sessão e expira quando o navegador é fechado |
 | Uso | Apenas um cookie para todas as contas |
 | Local | Este cookie é armazenado no domínio da página |
-| Tamanho | Varia dependendo do tamanho do URL da página, mas normalmente 100-200 bytes |
+| Tamanho | Varia dependendo do tamanho do URL da página, mas normalmente entre 100 e 200 bytes |
 
 ## Nome do cookie: s_vi {#section-5d50a078de444d12b7d927d68ff3b679}
 
@@ -74,7 +74,7 @@ Mais informações estão disponíveis na ajuda do Analytics sobre [Cookies prim
 
 >[!NOTE]
 >
->Cada ID de visitante do Analytics está associada a um perfil de visitante em servidores da Adobe. Os perfis do visitante são excluídos depois de 1 ano de inatividade, independentemente de qualquer expiração de cookie da ID do visitante.
+>Cada ID de visitante do Analytics está associada a um perfil de visitante nos servidores da Adobe. Os perfis do visitante são excluídos depois de 1 ano de inatividade, independentemente de qualquer expiração de cookie da ID do visitante.
 
 ## Nome do cookie: s_fid {#section-65e33f9bfc264959ac1513e2f4b10ac7}
 

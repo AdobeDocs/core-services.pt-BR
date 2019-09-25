@@ -6,7 +6,7 @@ seo-title: Criar um público-alvo
 solution: Experience Cloud
 title: Criar um público-alvo
 uuid: 7e622539-296e-4ff3-93b0-ec1c08b35429
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: f8b48077d936e289d66c1a93a96fe9ebaa4f0136
 
 ---
@@ -40,7 +40,7 @@ O exemplo a seguir mostra como criar as regras para um público-alvo composto. O
 
    ![](assets/audience_create.png)
 
-1. In the [!DNL Experience Cloud], under [!DNL Experience Platform], click **[!UICONTROL People]** &gt; **[!UICONTROL Audience Library]**.
+1. Na [!DNL Experience Cloud], em [!DNL Experience Platform], clique em **[!UICONTROL People]** &gt; **[!UICONTROL Biblioteca de público-alvo]**.
 1. Na página [!UICONTROL Públicos-alvo], clique em **[!UICONTROL Novo]**. ![](assets/add_icon_small.png)
 
 ![Resultado da etapa](assets/audience_create_new.png)
@@ -48,7 +48,7 @@ O exemplo a seguir mostra como criar as regras para um público-alvo composto. O
 1. Na página [!UICONTROL Criar novo público-alvo], especifique um título e uma descrição.
 1. Em [!UICONTROL Regras], selecione uma fonte de atributo:
 
-* **[!UICONTROL Dados em tempo real do Analytics (ou dados brutos):]** são dados de atributos derivados de solicitações de imagens em tempo real do Analytics e incluem dados como eVars e eventos. Você deve selecionar um conjunto de relatórios ao usar essa fonte de atributo e definir a dimensão ou evento que será incluído. Essa seleção do conjunto de relatórios oferece a estrutura de variável usada pelo conjunto de relatórios.
+* **[!UICONTROL Dados do Real-Time Analytics (ou dados brutos):]** são dados de atributos derivados de solicitações de imagens real-time Analytics e incluem dados como eVars e eventos. Você deve selecionar um conjunto de relatórios ao usar essa fonte de atributo e definir a dimensão ou evento que será incluído. Essa seleção do conjunto de relatórios oferece a estrutura de variável usada pelo conjunto de relatórios.
 
    >[!NOTE]
    >

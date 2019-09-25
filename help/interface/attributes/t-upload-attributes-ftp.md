@@ -6,7 +6,7 @@ seo-title: Opcional - Fazer upload do arquivo de dados via FTP
 solution: Experience Cloud
 title: Opcional - Fazer upload do arquivo de dados via FTP
 uuid: 5df565dd-b6f8-420e-981f-4b6fc6f7d0e4
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: f8b48077d936e289d66c1a93a96fe9ebaa4f0136
 
 ---
@@ -26,7 +26,7 @@ Você pode fazer upload dos dados depois de criar uma fonte de atributo do clien
 Os uploads do arquivo para o site FTP dos atributos do cliente podem ser realizados via FTP ou SFTP.
 
 * O cliente precisa ter suporte para conexões SFTP.
-* Você pode conectar-se com o SFTP usando o nome de usuário/senha ou sem usar senha, conforme descrito [aqui](https://marketing.adobe.com/resources/help/en_US/whitepapers/ftp/?f=ftp_sftp_cert_auth).
+* É possível conectar-se ao SFTP usando nome de usuário/senha ou sem senha, como descrito [aqui](https://marketing.adobe.com/resources/help/pt_BR/whitepapers/ftp/?f=ftp_sftp_cert_auth).
 
 
 

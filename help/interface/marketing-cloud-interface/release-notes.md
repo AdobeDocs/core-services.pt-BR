@@ -6,7 +6,7 @@ seo-title: Notas de versão cumulativas
 solution: Experience Cloud
 title: Notas de versão cumulativas
 uuid: fcff8cc6-e587-4bf2-9a75-261d4eabc7d4
-translation-type: ht
+translation-type: tm+mt
 source-git-commit: 75831abe44d04902691325add2338381754f98ec
 
 ---
@@ -18,7 +18,7 @@ Recursos, notas de versão e problemas conhecidos da interface da Experience Clo
 
 Para obter uma lista de atualizações de documentação, consulte [Experience Cloud](../doc-updates.md#concept_4C8983FCD23848A4B1E4C2D99ED82784).
 
-Para obter as notas de versão de todas as soluções, consulte as [Notas de versão da Experience Cloud](https://marketing.adobe.com/resources/help/pt_BR/whatsnew/).
+Para obter as notas de versão de todas as soluções, consulte [Notas de versão da Experience Cloud](https://marketing.adobe.com/resources/help/en_US/whatsnew/).
 
 ## Agosto - 2019
 
@@ -116,7 +116,7 @@ Se você acessar o Dynamic Tag Management por meio da interface **[!UICONTROL Ex
 
 >[!NOTE]
 >
->A Microsoft está [descontinuando o suporte](thttps://www.microsoft.com/pt-br/WindowsForBusiness/End-of-IE-support) para o Internet Explorer 8, 9 e 10. Por esse motivo, nós deixaremos de corrigir problemas relatados nessas versões do Internet Explorer.
+>a Microsoft [encerra o suporte](https://www.microsoft.com/en-us/WindowsForBusiness/End-of-IE-support) ao Internet Explorer 8, 9 e 10. Por esse motivo, nós deixaremos de corrigir problemas relatados nessas versões do Internet Explorer.
 
 ## Versão 15.10 - 14 de outubro de 2015 {#section_68123833D3634BD3A473C12862BF9606}
 
@@ -171,7 +171,7 @@ Nenhuma informação disponível
 </table>
 
 * Correção de um problema que impedia a sincronização dos atributos do cliente para alguns clientes.
-* Correção de um problema que impedia a exibição de página [Documentação do produto do Adobe Target](https://marketing.adobe.com/resources/help/pt_BR/target/a4t/) em japonês.
+* Correção de um problema que impedia a exibição da página [Documentação do produto do Adobe Target](https://marketing.adobe.com/resources/help/ja_JP/target/a4t/) em japonês.
 * Foi corrigido um problema que impedia o uso do texto em japonês nos comentários entre a [!DNL Creative Cloud] e a [!DNL Experience Cloud].
 
 ## Versão 15.4.1 - 8 de abril de 2015 {#section_75634120CC934B3381EDEA7F6F976F0A}

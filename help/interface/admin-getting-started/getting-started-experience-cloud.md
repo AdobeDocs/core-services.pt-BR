@@ -6,7 +6,7 @@ seo-title: Faça logon e gerencie as configurações do seu perfil
 solution: Marketing Cloud
 title: Faça logon e gerencie as configurações do seu perfil
 uuid: c1e13b99-0069-4fdb-8d72-ddcec3ed1121
-translation-type: ht
+translation-type: tm+mt
 source-git-commit: 979b2202a70e2a5362aa86a65a17d7c4279b3a1a
 
 ---
@@ -42,9 +42,9 @@ Faça logon e verifique se você está na [organização](../admin-getting-start
 
 | Elemento | Descrição |
 |--- |--- |
-| [Noções básicas do Admin Console](https://helpx.adobe.com/br/marketing-cloud/how-to/first-time-setup.html) | Saiba mais sobre as etapas iniciais necessárias para começar a usar as soluções da Experience Cloud. |
-| [Configurar a identidade](https://helpx.adobe.com/br/enterprise/using/set-up-identity.html) | Defina e configure um sistema de identidade que será usado para a autenticação de seus clientes. |
-| [Gerenciamento de usuários](https://helpx.adobe.com/br/enterprise/using/users.html) | Saiba mais sobre como fazer logon no Admin Console e gerenciar permissões de usuário e perfis de produto da Experience Cloud. |
+| [Noções básicas do Admin Console](https://helpx.adobe.com/marketing-cloud/how-to/first-time-setup.html) | Saiba mais sobre as etapas iniciais necessárias para começar a usar as soluções da Experience Cloud. |
+| [Configurar a identidade](https://helpx.adobe.com/enterprise/using/set-up-identity.html) | Defina e configure um sistema de identidade que será usado para a autenticação de seus clientes. |
+| [Gerenciamento de usuários](https://helpx.adobe.com/enterprise/using/users.html) | Saiba mais sobre como fazer logon no Admin Console e gerenciar permissões de usuário e perfis de produto da Experience Cloud. |
 | [Iniciar o Admin Console](../admin-getting-started/admin-getting-started.md) | O Admin Console é o local central para gerenciar usuários e direitos de produtos da Adobe em toda a organização.<br>Também é possível fazer logon no Admin Console por meio de um [link direto](https://adminconsole.adobe.com). |
 | [Gerenciar usuários da Creative Cloud](../experience-cloud-assets/t-admin-add-cc-user.md) | Os Ativos da Experience Cloud permitem aos comerciantes compartilhar, sincronizar e colaborar em pastas com designers e outros ativos criativos usando a Creative Cloud. Você pode gerenciar usuários da Creative Cloud aprovados para colaborar com sua organização aqui. |
 | [Mapear os conjuntos de relatórios](../core-services/core-services.md) | (Somente para Analytics) Os serviços principais da Experience Cloud estão associados a uma organização em vez de um conjunto de relatórios individual. Para garantir o funcionamento correto desses serviços, cada conjunto de relatórios do Analytics deve ser mapeado para uma organização. (Esta tarefa faz parte de um fluxo de trabalho mais abrangente para [habilitar o Analytics para os serviços principais](../core-services/core-services.md#concept_07ED1D5C64234E77976E6D572E78FB9C)). |
@@ -58,7 +58,7 @@ Ajuda para usuários não administrativos que fazem logon na Experience Cloud.
 1. Verifique com o administrador se sua [organização](../admin-getting-started/getting-started-experience-cloud.md#concept_384D169B0B724B799D573B8ECB5C39BF) foi provisionada na Experience Cloud.
 
 
-1. Acesse a [Adobe Experience Cloud](https://marketing.adobe.com/) ( [!DNL marketing.adobe.com]).
+1. Acesse a [Adobe Experience Cloud](https://marketing.adobe.com) ( [!DNL marketing.adobe.com]).
 1. Clique em **[!UICONTROL Fazer logon com Adobe ID]**.
 
    O administrador da Experience Cloud pode ajudar você a determinar o tipo de conta (Adobe ID ou Enterprise ID).
@@ -135,7 +135,7 @@ Você pode editar o perfil da Experience Cloud, especificar uma organização pa
 
    Redefinir a senha da solução resolverá os problemas com a vinculação de senha da Experience Cloud.
 
-   Para usuários do Adobe Analytics, navegue até [https://sc2.omniture.com/password_recovery.html](https://sc2.omniture.com/password_recovery.html).
+   Para os usuários do Adobe Analytics, navegue até [https://sc2.omniture.com/password_recovery.html](https://sc2.omniture.com/password_recovery.html).
 
 ## Configurar o logon da solução por meio de um link direto {#concept_8BE493A08786469B88B210E13F78FF2F}
 
@@ -153,7 +153,7 @@ Amostra do URL:
 
 >[!NOTE]
 >
->Você deve codificar qualquer URL antes de passá-lo para o parâmetro `destURL`. (Sites codificados como [Decodificador / codificador de URL](https://meyerweb.com/eric/tools/dencoder/) estão disponíveis.)
+>Você deve codificar qualquer URL antes de passá-lo para o parâmetro `destURL`. (Encoder sites like [URL Decoder / Encoder](https://meyerweb.com/eric/tools/dencoder/) are available.)
 
 | Parâmetro | Descrição | Exemplo | Obrigatório/opcional |
 |--- |--- |--- |--- |

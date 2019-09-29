@@ -6,7 +6,7 @@ seo-title: Gerenciar usuários da Creative Cloud
 solution: Experience Cloud
 title: Gerenciar usuários da Creative Cloud
 uuid: 11c4de67-40c5-4438-92fc-e23761be3f18
-translation-type: ht
+translation-type: tm+mt
 source-git-commit: af5339fe58ce884345804574c209907d6504a483
 
 ---

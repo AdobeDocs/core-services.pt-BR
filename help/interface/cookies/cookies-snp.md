@@ -9,7 +9,7 @@ uuid: 65bf24e0-0564-4dc2-b652-9fd9db57d23f
 index: y
 internal: n
 snippet: y
-translation-type: ht
+translation-type: tm+mt
 source-git-commit: 426c1fecf16e1cf83cd28971e4de6fdb66b0e10d
 
 ---
@@ -53,7 +53,7 @@ O Search&amp;Promote usa cookies para entender e antecipar a intenção de pesqu
    <td colname="col2"> <p>Usado pelo mecanismo de busca para exibir os últimos n termos de pesquisa para o usuário. </p> </td> 
   </tr> 
   <tr> 
-   <td colname="col1"> <p> Local </p> </td> 
+   <td colname="col1"> <p> Localização </p> </td> 
    <td colname="col2"> <p>Dependente do navegador. Os cookies são salvos no local padrão especificado no navegador do usuário. </p> </td> 
   </tr> 
   <tr> 

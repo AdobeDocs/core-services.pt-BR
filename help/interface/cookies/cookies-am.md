@@ -9,7 +9,7 @@ uuid: 8b384c38-b85a-4e93-b00e-41a9d3ae2b21
 index: y
 internal: n
 snippet: y
-translation-type: ht
+translation-type: tm+mt
 source-git-commit: 7137e608ddece5bf2a3983b3b18909ba89d607a6
 
 ---
@@ -35,7 +35,7 @@ O Audience Manager depende de alguns cookies simples para realizar diferentes fu
   </tr> 
   <tr> 
    <td colname="col1"> <p> <b>Conteúdo</b> </p> </td> 
-   <td colname="col2"> <p>O cookie <span class="wintitle">demdex</span> contém uma ID de usuário exclusiva (UUID), conforme mostrado no exemplo abaixo: </p> <p> <span class="codeph"> 06151304227769720433039235178204449977 </span> </p> <p>Consulte também <a href="https://docs.adobe.com/content/help/pt-BR/audience-manager/user-guide/reference/ids-in-aam.html" format="https" scope="external">Índice de IDs no Audience Manager </a>. </p> </td> 
+   <td colname="col2"> <p>O cookie <span class="wintitle">demdex</span> contém uma ID de usuário exclusiva (UUID), conforme mostrado no exemplo abaixo: </p> <p> <span class="codeph"> 06151304227769720433039235178204449977 </span> </p> <p>Consulte também <a href="https://marketing.adobe.com/resources/help/en_US/aam/ids-in-aam.html" format="https" scope="external">Índice de IDs no Audience Manager </a>. </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p> <b>Outros atributos</b> </p> </td> 
@@ -66,7 +66,7 @@ O Audience Manager depende de alguns cookies simples para realizar diferentes fu
    <td colname="col1"> <p> <b>Conteúdo</b> </p> </td> 
    <td colname="col2"> <p>O cookie <span class="wintitle">dextp</span> contém o nome ou ID de um provedor de dados e um carimbo de data e hora UNIX UTC formatados como strings delimitadas por barra. Nos exemplos, <i>itálico</i> representa um espaço reservado para variável. </p> <p> 
      <ul id="ul_80D0BC3FCF06470991E12712401D784A"> 
-      <li id="li_03747A433CEB4756A26CD866E716B89D">Estilo antigo: <span class="codeph"> <span class="varname"> nome do provedor de dados aqui </span>-1490307822097  <span class="varname"> nome do provedor de dados aqui </span>-1490307822038 </span> </li> 
+      <li id="li_03747A433CEB4756A26CD866E716B89D">Old style: <span class="codeph"> <span class="varname"> data provider name here </span>-1490307822097| <span class="varname"> data provider name here </span>-1490307822038 </span> </li> 
       <li id="li_79E7000E82DB4ADA9E9887B017343B2D">Novo estilo: <span class="codeph">21-1-1490307821616|544-1-1490307821793|3-1-1490307821852|420-1-1490307822038| </span> </li> 
      </ul> </p> <p>Consulte também a seção de sintaxe dos dados abaixo. </p> </td> 
   </tr> 
@@ -97,7 +97,7 @@ A tabela a seguir lista e define os elementos de um cookie [!DNL dextp] por loca
    <td colname="col1"> <p> <b>Primeiro ou segundo</b> </p> </td> 
    <td colname="col2"> <p>A posição do nome ou ID do provedor de dados varia dependendo se o cookie usa o estilo de formatação novo ou antigo. </p> <p> <b>Estilo antigo de formatação:</b> </p> <p> 
      <ul id="ul_5BFBF40E3FE849CA859030F2D070FDF6"> 
-      <li id="li_E8F4DC0CB15B472ABE9892B3A61D7F77">Sintaxe: <span class="codeph"> <span class="varname"> nome do provedor de dados </span> - <span class="varname"> Carimbo de data e hora UNIX UTC </span> </span> </li> 
+      <li id="li_E8F4DC0CB15B472ABE9892B3A61D7F77">Syntax: <span class="codeph"> <span class="varname"> data provider name </span> - <span class="varname"> UNIX UTC timestamp </span> </span> </li> 
       <li id="li_7CD8B101156140F49EA97B18E9591402">Exemplo: <span class="codeph"> dataProvider1 - 1490307822038 </span> </li> 
      </ul> </p> <p>O cookie de estilo antigo identifica o provedor de dados com um nome legível. </p> <p> <b>Novo estilo de formatação:</b> </p> <p> 
      <ul id="ul_AC6225CA781746148C125F21DFED1ED9"> 
@@ -128,7 +128,7 @@ A tabela a seguir lista e define os elementos de um cookie [!DNL dextp] por loca
  <tbody> 
   <tr> 
    <td colname="col1"> <p> <b>Propósito</b> </p> </td> 
-   <td colname="col2"> <p> O <span class="keyword">Audience Manager</span> define este cookie quando ocorre um erro ao enviar dados para um <a href="https://docs.adobe.com/content/help/pt-BR/audience-manager/user-guide/features/destinations/destinations.translate.html#purposes" format="https" scope="external">destino </a>. </p> </td> 
+   <td colname="col2"> <p> O <span class="keyword">Audience Manager</span> define este cookie quando ocorre um erro ao enviar dados para um <a href="https://marketing.adobe.com/resources/help/en_US/aam/c_destinations.html" format="https" scope="external">destino </a>. </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p> <b>Conteúdo</b> </p> </td> 

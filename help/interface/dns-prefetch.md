@@ -5,7 +5,7 @@ seo-title: Uso da pré-busca DNS com diferentes soluções e serviços
 solution: Experience Cloud
 title: Uso da pré-busca DNS com diferentes soluções e serviços
 uuid: 4220e223-e00e-46b1-8bde-52248913bea1
-translation-type: ht
+translation-type: tm+mt
 source-git-commit: af5339fe58ce884345804574c209907d6504a483
 
 ---
@@ -52,5 +52,5 @@ Os seguintes exemplos mostram como fazer chamadas de pré-busca DNS para soluç�
 
 >[!MORE_LIKE_THIS]
 >
->* [Pré-busca DNS](https://www.chromium.org/developers/design-documents/dns-prefetching)
+>* [Busca prévia no DNS](https://www.chromium.org/developers/design-documents/dns-prefetching)
 

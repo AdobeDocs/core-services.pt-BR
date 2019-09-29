@@ -6,7 +6,7 @@ seo-title: Triggers
 solution: Marketing Cloud
 title: Triggers
 uuid: dab536e3-1969-4661-919e-5b15f423fecd
-translation-type: ht
+translation-type: tm+mt
 source-git-commit: 8ec57774743e8c32a17f18ae6dfe98c0767297a6
 
 ---
@@ -57,7 +57,7 @@ Crie um acionador de abandono e configure as condições para o acionador e a po
    |--- |--- |
    | Nome | O nome amigável deste acionador. |
    | Descrição | A descrição deste acionador, como você irá usá-lo etc. |
-   | Conjunto de relatórios | O conjunto de relatórios do [Analytics](https://marketing.adobe.com/resources/help/pt_BR/analytics/getting-started/?f=report-suites) usado para este acionador. Esta configuração identifica os dados de relatório que serão usados. |
+   | Conjunto de relatórios | O [conjunto de relatórios](https://marketing.adobe.com/resources/help/en_US/analytics/getting-started/report-suites.html) do Analytics usado para este acionador. Esta configuração identifica os dados de relatório que serão usados. |
    | A visita deve incluir<br>A visita não deve incluir<br>Acionar depois de nenhuma ação<br>Incluir metadados | Você pode definir critérios ou comportamentos de usuário que você deseja que ocorram, além de comportamentos que você não deseja que ocorram.  Por exemplo, as regras para um acionador de um simples abandono de carrinho de compras podem ser:<ul><li>A visita deve incluir: Adição ao carrinho (métrica) e Existe. (Mais tarde, você pode redefinir a regra com uma visualização de produto específica ou dimensões como Tipos de navegador.)</li><li>A visita não deve incluir: Check-out.</li><li>Acionar depois de nenhuma ação por: 10 minutos.</li><li>Incluir metadados: permite que você adicione uma dimensão de Campanha específica ou variáveis relevantes ao comportamento do visitante. Este campo pode ser útil ao criar o email de remarketing correto no Adobe Campaign.</li></ul><br>Você pode especificar a lógica Qualquer, E ou Ou dentro ou entre contêineres, dependendo dos critérios que determinar que são importantes para a regra. |
    | Contêiner | Nos contêineres você pode configurar e armazenar regras, condições ou filtros que definem um acionador. Se você desejar que eventos sejam executados ao mesmo tempo, coloque-os no mesmo contêiner. Ou seja, cada contêiner é processado de maneira independente no nível da ocorrência.  Por exemplo, se você tiver dois contêineres unidos pelo operador E, poderá esperar que as regras se qualifiquem quando duas ocorrências atenderem aos requisitos. |
    | Iniciar nova sessão após | Crie um acionador para o início da sessão e outro para o término. |
@@ -67,7 +67,7 @@ Crie um acionador de abandono e configure as condições para o acionador e a po
    ![Resultado da etapa](assets/propensity-scoring.png)
 
 1. Clique em **[!UICONTROL Salvar]**.
-1. Use acionadores para [remarketing em tempo real](https://docs.campaign.adobe.com/doc/standard/en/EMA_Transactional_messaging_Marketing_Cloud_Triggers.html) em [!DNL Adobe Campaign].
+1. Use triggers for [real-time remarketing](https://docs.campaign.adobe.com/doc/standard/en/EMA_Transactional_messaging_Marketing_Cloud_Triggers.html) in [!DNL Adobe Campaign].
 
 ### Exemplos de acionadores
 

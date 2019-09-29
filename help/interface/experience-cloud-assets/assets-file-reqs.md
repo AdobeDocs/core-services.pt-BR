@@ -6,7 +6,7 @@ seo-title: Requisitos para compartilhamento do arquivo do ativo
 solution: Experience Cloud
 title: Requisitos para compartilhamento do arquivo do ativo
 uuid: 1621accf-c407-437b-ae12-61f13cc338d0
-translation-type: ht
+translation-type: tm+mt
 source-git-commit: af5339fe58ce884345804574c209907d6504a483
 
 ---
@@ -18,7 +18,7 @@ Tipos de arquivo permitidos e limites de tamanho para compartilhar ativos entre 
 
 ## Tipos de arquivo permitidos para upload {#section_52B6A40BB00B45BC944C01C49B4BB590}
 
-Os tipos de arquivos que você pode fazer upload incluem a maioria das imagens, dos documentos e multimídia. Consulte [Formatos compatíveis](https://helpx.adobe.com/br/experience-manager/brand-portal/using/brand-portal-supported-formats.html) para obter informações sobre formatos de arquivo em [!DNL Experience Cloud] Ativos.
+Os tipos de arquivos que você pode fazer upload incluem a maioria das imagens, dos documentos e multimídia. Consulte [Formatos suportados](https://helpx.adobe.com/experience-manager/brand-portal/using/brand-portal-supported-formats.html) para obter informações sobre os formatos de arquivo nos Ativos da [!DNL Experience Cloud].
 
 ## Limitações do tamanho do arquivo {#section_410ED8E24DBD4136830AE679C6B10D88}
 

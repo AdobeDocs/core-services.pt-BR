@@ -7,7 +7,7 @@ solution: Experience Cloud, Analytics
 title: Cookies próprios
 index: y
 snippet: y
-translation-type: ht
+translation-type: tm+mt
 source-git-commit: 2bdc4b7287ccacfc4d968278b2c3ffdaeddfc105
 
 ---
@@ -119,6 +119,6 @@ Após verificar que o nome de host está respondendo e encaminhando para os serv
 
 1. Se você estiver mudando de uma implementação que existe a muito tempo para cookies próprios ou mudando para um nome de host de coleção própria diferente, é recomendável migrar os visitantes do domínio anterior para o novo domínio.
 
-Consulte [Migração de visitantes](https://docs.adobe.com/help/pt-BR/analytics/implementation/javascript-implementation/visitor-migration.html) no Guia de implementação do Analytics.
+See Visitor Migration in the Analytics Implementation Guide.[](https://docs.adobe.com/help/en/analytics/implementation/javascript-implementation/visitor-migration.html)
 
 Após carregar o arquivo JavaScript, tudo é configurado para a coleta de dados de cookie próprio. É recomendável monitorar os relatórios do Analytics das próximas horas, para garantir que a coleta de dados continue normalmente. Caso contrário, verifique se todas as etapas acima foram concluídas e peça para um dos usuários suportados da organização entrar em contato com o Atendimento ao cliente.

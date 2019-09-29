@@ -6,7 +6,7 @@ seo-title: Validar o esquema
 solution: Experience Cloud
 title: Validar o esquema
 uuid: 163a4dbe-d60b-4089-8ff8-65f7461fbdf7
-translation-type: ht
+translation-type: tm+mt
 source-git-commit: f8b48077d936e289d66c1a93a96fe9ebaa4f0136
 
 ---
@@ -51,7 +51,7 @@ Na página [!UICONTROL Validar esquema], cada linha do esquema representa uma co
 
 Também é possível fazer upload dos dados via FTP após criar uma fonte de atributo do cliente e uma conta FTP na Experience Cloud. É possível criar uma conta FTP por fonte de atributo. Os arquivos carregados são armazenados na pasta raiz dessa conta. Os dados devem estar no formato .csv, com um segundo arquivo .csv para indicar que o upload foi concluído
 
-Os nomes aplicados às sequências, números inteiros e números são usados para criar as métricas do [!DNL Analytics]. Consulte [Relatório de atributos do cliente](https://marketing.adobe.com/resources/help/pt_BR/reference/?f=reports_customer_attributes) na ajuda [!DNL Analytics] para obter mais informações.
+Os nomes aplicados às sequências, números inteiros e números são usados para criar as métricas do [!DNL Analytics]. Consulte [Relatório dos atributos do cliente](https://marketing.adobe.com/resources/help/en_US/reference/?f=reports_customer_attributes) na ajuda do para obter mais informações.[!DNL Analytics]
 
 * **[!UICONTROL Atributo:]** Os dados do atributo lidos no arquivo `.csv` carregado.
 

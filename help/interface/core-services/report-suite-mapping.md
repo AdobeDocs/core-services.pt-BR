@@ -4,7 +4,7 @@ seo-description: Saiba mais sobre como mapear um ou vários conjuntos de relató
 seo-title: Mapear conjuntos de relatórios para uma organização
 title: Mapear conjuntos de relatórios para uma organização
 uuid: b983d5a6-b3d0-4137-ac53-bc5681d3e58b
-translation-type: ht
+translation-type: tm+mt
 source-git-commit: d9d6cebc0e9e14eac2471dc79b91276a154e35e0
 
 ---
@@ -30,7 +30,7 @@ As organizações ficam esmaecidas caso você não tenha permissões de administ
 
 1. Clique em **[!UICONTROL Experience Cloud]** &gt; **[!UICONTROL Administração]** &gt; **[!UICONTROL Mapeamento de conjuntos de relatórios]**
 
-   Também é possível usar um [URL direto](https://audience.marketing.adobe.com/rsmapping/ui.html).
+   Você também pode usar um [URL direto](https://audience.marketing.adobe.com/rsmapping/ui.html).
 
 1. Para ver as empresas de logon com acesso a cada conjunto de relatórios, clique em **[!UICONTROL Visível para empresas de logon]**.
 
@@ -44,7 +44,7 @@ As organizações ficam esmaecidas caso você não tenha permissões de administ
 
 1. Clique em **[!UICONTROL Experience Cloud]** &gt; **[!UICONTROL Administração]** &gt; **[!UICONTROL Mapeamento de conjuntos de relatórios]**.
 
-   Também é possível usar um [URL direto](https://audience.marketing.adobe.com/rsmapping/ui.html).
+   Você também pode usar um [URL direto](https://audience.marketing.adobe.com/rsmapping/ui.html).
 
 1. Selecione os conjuntos de relatórios que você deseja mapear.
 
@@ -62,7 +62,7 @@ Esta seção contém dicas para ajudar a selecionar a organização da Experienc
 
 **Qual organização devo escolher?**
 
-Se o serviço da Experience Cloud ID estiver implantado no conjunto de relatórios, verifique se a organização selecionada na ferramenta de Mapeamento de conjuntos de relatórios é a mesma organização especificada no arquivo [!DNL visitorAPI.js] do seu site. Você pode usar as instruções em [Testar e verificar o serviço da Experience Cloud ID](https://marketing.adobe.com/resources/help/pt_BR/mcvid/?f=mcvid-test-verify) para encontrar a ID da organização em uso pelo serviço de ID de visitante.
+Se o serviço da Experience Cloud ID estiver implantado no conjunto de relatórios, verifique se a organização selecionada na ferramenta de Mapeamento de conjuntos de relatórios é a mesma organização especificada no arquivo [!DNL visitorAPI.js] do seu site. Você pode usar as instruções em [Testar e verificar o serviço da Experience Cloud ID](https://marketing.adobe.com/resources/help/en_US/mcvid/mcvid-test-verify.html) para encontrar a ID da organização em uso pelo serviço de ID do visitante.
 
 Se o serviço de ID do visitante ainda não estiver implantado nos sites que coletam dados do conjunto de relatórios e você implantar o serviço de ID de visitante da Experience Cloud futuramente, verifique se a implantação corresponde à organização selecionada na ferramenta de Mapeamento de conjuntos de relatórios.
 
@@ -107,7 +107,7 @@ Os conjuntos de relatórios mapeados serão exibidos em um formato não editáve
 
 **Como devo proceder se souber somente a ID organizacional da minha organização da Experience Cloud? Como faço para buscar o nome da minha ID organizacional?**
 
-É possível encontrar o nome da organização em [Organizações e configurações da conta](https://marketing.adobe.com/resources/help/pt_BR/mcloud/?f=organizations).
+É possível encontrar o nome da organização em [Organizações e configurações da conta](https://marketing.adobe.com/resources/help/en_US/mcloud/?f=organizations).
 
 **Vejo uma data na coluna “Data de mapeamento”. Quem fez esse mapeamento?**
 

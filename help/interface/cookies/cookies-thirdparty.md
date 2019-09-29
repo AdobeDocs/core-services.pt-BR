@@ -9,7 +9,7 @@ uuid: 27332e0d-6932-4a6e-b97b-0adeced0b050
 index: y
 internal: n
 snippet: y
-translation-type: ht
+translation-type: tm+mt
 source-git-commit: f59badcd3423ada51a3fe0c605158a009d5b1d64
 
 ---
@@ -24,7 +24,7 @@ A seguinte lista descreve como o suporte a cookies de terceiros afeta as impleme
 ## Adobe Analytics e Adobe Target
 
 * Clientes com uma [implementação própria](/help/interface/cookies/cookies-first-party.md) permaneceriam praticamente inalterados.
-* Os clientes que não usam implementação própria podem implementar o [Serviço de ID da Experience Platform](https://docs.adobe.com/content/help/pt-BR/id-service/using/implementation-guides/implementation-guides.html) para armazenar o cookie da ID como um cookie próprio, sem uma implementação própria.
+* Customers that are not using first-party implementation can implement the [Experience Platform ID Service](https://docs.adobe.com/content/help/en/id-service/using/implementation-guides/implementation-guides.html) to store the ID cookie as a first-party cookie without a first-party implementation.
 
 ## Adobe Experience Manager
 

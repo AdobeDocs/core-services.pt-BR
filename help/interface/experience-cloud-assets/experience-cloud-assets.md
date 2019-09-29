@@ -5,7 +5,7 @@ seo-title: Assets
 solution: Experience Cloud
 title: Assets
 uuid: 97a849ec-1555-4630-9416-2ab484373f5c
-translation-type: ht
+translation-type: tm+mt
 source-git-commit: af5339fe58ce884345804574c209907d6504a483
 
 ---

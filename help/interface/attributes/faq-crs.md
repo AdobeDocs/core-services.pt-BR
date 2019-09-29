@@ -6,7 +6,7 @@ seo-title: Perguntas frequentes, limitações e práticas recomendadas
 solution: Experience Cloud
 title: Perguntas frequentes, limitações e práticas recomendadas
 uuid: e93eb531-23c7-4d75-92e8-75699f58546a
-translation-type: ht
+translation-type: tm+mt
 source-git-commit: 08c2caa1e0e5ca5c487294e9ce33600dde9c9a1e
 
 ---
@@ -95,7 +95,7 @@ Orientações e limitações ao usar os Atributos do cliente.
   </tr> 
   <tr> 
    <td colname="col1"> <p> <b>(Somente para Target)</b> O envio de dados de atributos do cliente para o Adobe Target prolonga a vida útil do perfil de visitante do Target? </p> </td> 
-   <td colname="col2"> <p>Sim. Consulte <a href="https://marketing.adobe.com/resources/help/pt_BR/target/ov/?f=c_visitor_profile_lifetime" format="https" scope="external">Vida útil do perfil do visitante</a> na ajuda do Adobe Target. </p> </td> 
+   <td colname="col2"> <p>Sim. Consulte <a href="https://marketing.adobe.com/resources/help/en_US/target/ov/?f=c_visitor_profile_lifetime" format="https" scope="external">Vida útil do perfil do visitante</a> na ajuda do Adobe Target. </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p> <b> (Somente para Target)</b> É possível direcionar os dados enviados em atributos do cliente imediatamente depois que o visitante é identificado pela ID do cliente? </p> </td> 

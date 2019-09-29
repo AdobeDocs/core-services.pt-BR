@@ -13,24 +13,24 @@ source-git-commit: 4bc85987882f7def7555351aad2bc344de8c2130
 # Guia do usuário dos serviços principais {#interface}
 
 + [Documentação do produto da Experience Cloud](landing/experience-cloud-home.md)
-+ [Ajuda da Experience Cloud e dos principais serviços](experience-cloud.md)
++ [Ajuda da Experience Cloud e serviços principais](experience-cloud.md)
 + Sobre os principais serviços {#about-core-services}
    + [Visão geral dos serviços principais](core-services-landing.md)
    + [Ativar as soluções dos principais serviços](core-services/core-services.md)
    + [Mapear conjuntos de relatórios para uma organização](core-services/report-suite-mapping.md)
    + [Sobre os novos nomes de nuvem na Experience Cloud](solutions-core-services.md)
 + [Integrações da Experience Cloud](marketing-cloud-integrations.md)
-+ Experience Cloud cookies {#ec-cookies}
-   + [Visão geral dos cookies](cookies/cookies-privacy.md)
++ Cookies da Experience Cloud {#ec-cookies}
+   + [Visão geral dos coookies](cookies/cookies-privacy.md)
    + [Cookies próprios](cookies/cookies-first-party.md)
    + [Cookies do Analytics](cookies/cookies-analytics.md)
    + [Cookies do Audience Manager](cookies/cookies-am.md)
-   + [Cookies dos conectores de dados](cookies/cookies-dc.md)
-   + [Cookies do Análise de big data](cookies/cookies-insight.md)
+   + [Cookies de Data Connectors](cookies/cookies-dc.md)
+   + [Cookies da Data Workbench](cookies/cookies-insight.md)
    + [Cookies da Experience Cloud](cookies/cookies-mc.md)
    + [Cookies da Advertising Cloud](cookies/cookies-advertising-cloud.md)
    + [Cookies do Scene7](cookies/cookies-s7.md)
-   + [Cookies de pesquisa e promoção](cookies/cookies-snp.md)
+   + [Cookies do Search&amp;Promote](cookies/cookies-snp.md)
    + [Cookies do Target](cookies/cookies-target.md)
    + [Ativar as configurações de privacidade de cookies do navegador](cookies/browser-cookie-settings.md)
    + [Como as alterações no suporte a cookies de terceiros afeta os clientes](cookies/cookies-thirdparty.md)
@@ -56,7 +56,7 @@ source-git-commit: 4bc85987882f7def7555351aad2bc344de8c2130
    + [Desativar a sincronização de pastas compartilhadas](experience-cloud-assets/t-disable-asset-sync.md)
    + [Requisitos para compartilhamento do arquivo do ativo](experience-cloud-assets/assets-file-reqs.md)
    + [Comportamento das pastas compartilhadas](experience-cloud-assets/asset-behavior.md)
-+ Públicos-alvo{#audiences}
++ Públicos-alvo {#audiences}
    + [Visão geral de públicos-alvo](audience-library/audience-library.md)
    + [Criar um público-alvo](audience-library/t-audience-create.md)
    + [Publicar um segmento de público-alvo do Analytics](audience-library/t-publish-audience-segment.md)

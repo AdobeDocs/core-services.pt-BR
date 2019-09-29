@@ -9,7 +9,7 @@ uuid: e2d3d61d-2708-48b2-a7e6-2331f2aed8e0
 index: y
 internal: n
 snippet: y
-translation-type: ht
+translation-type: tm+mt
 source-git-commit: f59badcd3423ada51a3fe0c605158a009d5b1d64
 
 ---
@@ -49,7 +49,7 @@ Mais informações estão disponíveis na ajuda do Analytics sobre [Cookies prim
 | Informações armazenadas | Este cookie é definido e lido pelo código JavaScript para determinar se os cookies estão ativados (definir como "True") |
 | Expiração | Este cookie é um cookie de sessão e expira quando o navegador é fechado |
 | Uso | Apenas um cookie para todas as contas |
-| Local | Este cookie é armazenado no domínio da página |
+| Localização | Este cookie é armazenado no domínio da página |
 | Tamanho | 4 bytes |
 
 ## Nome do cookie: s_sq {#section-8abfff3a302d494f81a3cfb91e3b09ff}
@@ -59,7 +59,7 @@ Mais informações estão disponíveis na ajuda do Analytics sobre [Cookies prim
 | Informações armazenadas | Este cookie é definido e lido pelo código JavaScript quando as funcionalidades ClickMap e Activity Map são ativadas; ele contém as informações sobre o link anterior que foi clicado pelo usuário |
 | Expiração | Este cookie é um cookie de sessão e expira quando o navegador é fechado |
 | Uso | Apenas um cookie para todas as contas |
-| Local | Este cookie é armazenado no domínio da página |
+| Localização | Este cookie é armazenado no domínio da página |
 | Tamanho | Varia dependendo do tamanho do URL da página, mas normalmente entre 100 e 200 bytes |
 
 ## Nome do cookie: s_vi {#section-5d50a078de444d12b7d927d68ff3b679}
@@ -69,7 +69,7 @@ Mais informações estão disponíveis na ajuda do Analytics sobre [Cookies prim
 | Informações armazenadas | Carimbo único de hora/data da ID do visitante |
 | Expiração | 2 anos |
 | Uso | Este cookie é usado para identificar um visitante único |
-| Local | Este cookie é armazenado no domínio de solicitação da imagem, normalmente 2O7.net se você está usando cookies de terceiros ou se o domínio está usando cookies primários. |
+| Localização | Este cookie é armazenado no domínio de solicitação da imagem, normalmente 2O7.net se você está usando cookies de terceiros ou se o domínio está usando cookies primários. |
 | Tamanho | 44 bytes |
 
 >[!NOTE]
@@ -83,7 +83,7 @@ Mais informações estão disponíveis na ajuda do Analytics sobre [Cookies prim
 | Informações armazenadas | Recuar carimbo de data/hora da ID de visitante único |
 | Expiração | 5 anos |
 | Uso | Este cookie é usado para identificar um visitante único se o cookie s_vi padrão estiver indisponível devido a restrições de cookies de terceiros. Não usado para implementações que usam cookies primários. |
-| Local | Este cookie é armazenado no seu domínio como um cookie primário. |
+| Localização | Este cookie é armazenado no seu domínio como um cookie primário. |
 | Tamanho | 33 bytes |
 
 ## Cookies definidos por plug-ins {#section-a6b1cae8454945fab9eea5c7884c40fc}

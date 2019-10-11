@@ -4,7 +4,7 @@ seo-title: Ajuda e documentação do produto para soluções na Adobe Experience
 description: Ajuda e documentação do produto para soluções na Adobe Experience Cloud.
 seo-description: Ajuda da Experience Cloud
 translation-type: tm+mt
-source-git-commit: 7e09e666cf9102ab02bab85b5546f9dc6f2ca635
+source-git-commit: 6711229e3423de0040fa89c49d481ffa1e2f0a08
 
 ---
 
@@ -18,12 +18,13 @@ Ajuda e documentação do produto da Adobe Experience Cloud.
 * Subscribe to the [Priority Product Update](https://www.adobe.com/subscription/priority-product-update.html) to receive release notes each month.
 * Vídeos de produtos: vídeos de produtos estão disponíveis no [Adobe Video Learning](https://helpx.adobe.com/experience-cloud/tutorials.html).
 * Experience League: Visit the [Adobe Experience League](https://landing.adobe.com/experience-league/) for guided learning.
+* Centro de ajuda da Experience Cloud
 
 ## ![Ajuda da Experience Cloud](assets/experience_cloud_appicon_32.png) Ajuda da Experience Cloud
 
-* [Experience Cloud Release Notes (all products)](https://docs.adobe.com/content/help/en/release-notes/experience-cloud/current.html)
-* [Experience Cloud interface and core services help](https://docs.adobe.com/content/help/en/core-services/interface/experience-cloud.html)
-* [User and product management](https://docs.adobe.com/content/help/en/core-services/interface/manage-users-and-products/admin-getting-started.html)
+* [Notas](https://docs.adobe.com/content/help/en/release-notes/experience-cloud/current.html) de versão da Experience Cloud (todos os produtos)
+* [Ajuda da interface da Experience Cloud e dos principais serviços](https://docs.adobe.com/content/help/en/core-services/interface/experience-cloud.html)
+* [Gerenciamento de usuários e produtos](https://docs.adobe.com/content/help/en/core-services/interface/manage-users-and-products/admin-getting-started.html)
 * [Serviço da Experience Cloud ID](https://docs.adobe.com/content/help/en/id-service/using/home.html)
 * [Atributos do cliente](https://docs.adobe.com/content/help/en/core-services/interface/customer-attributes/attributes.html)
 * [Audiences](https://docs.adobe.com/content/help/en/core-services/interface/audiences/audience-library.html)
@@ -50,7 +51,7 @@ Ajuda e documentação do produto da Adobe Experience Cloud.
 
 ## ![Ajuda do Target](assets/mc_target_32.png) Ajuda do Target
 
-* [Target release notes](https://docs.adobe.com/content/help/en/target/using/release-notes/release-notes.html)
+* [Notas de versão do Target](https://docs.adobe.com/content/help/en/target/using/release-notes/release-notes.html)
 * [Target](https://docs.adobe.com/content/help/en/target/using/target-home.html)
 
 ## ![Ajuda do Experience Manager](assets/mc_experiencemanager_32.png) Ajuda do Experience Manager
@@ -59,12 +60,12 @@ Ajuda e documentação do produto da Adobe Experience Cloud.
 
 ## ![Ajuda do Campaign](assets/mc_campaign_32.png) Ajuda do Campaign
 
-* Campaign Standard: [Documentation](https://helpx.adobe.com/support/campaign/standard.html) - [Release Notes](https://docs.adobe.com/content/help/en/campaign-standard/using/release-notes/release-notes.html) - [How-to videos](https://docs.adobe.com/content/help/en/campaign-learn/campaign-standard-tutorials/overview.html)
-* Campaign Classic: [Documentation](https://helpx.adobe.com/support/campaign/classic.html) - [Release Notes](https://docs.campaign.adobe.com/doc/AC/en/RN.html) - [How-to videos](https://docs.adobe.com/content/help/en/campaign-learn/campaign-classic-tutorials/overview.html)
+* Campaign Standard: [Documentação](https://helpx.adobe.com/support/campaign/standard.html) - [Notas de versão](https://docs.adobe.com/content/help/en/campaign-standard/using/release-notes/release-notes.html) - [Vídeos explicativos](https://docs.adobe.com/content/help/en/campaign-learn/campaign-standard-tutorials/overview.html)
+* Campaign Classic: [Documentação](https://helpx.adobe.com/support/campaign/classic.html) - [Notas de versão](https://docs.campaign.adobe.com/doc/AC/en/RN.html) - [Vídeos explicativos](https://docs.adobe.com/content/help/en/campaign-learn/campaign-classic-tutorials/overview.html)
 
 ## ![Ajuda do Primetime](assets/primetime_app_32.png) Ajuda do Primetime
 
-* [Primetime Help](http://help.adobe.com/en_US/primetime/)
+* [Ajuda do Primetime](http://help.adobe.com/en_US/primetime/)
 
 ## ![Ajuda da Advertising Cloud](assets/advertisingcloud_appicon_32.png) Ajuda da Advertising Cloud
 

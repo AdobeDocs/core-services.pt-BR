@@ -5,7 +5,7 @@ seo-title: Mapear conjuntos de relatórios para uma organização
 title: Mapear conjuntos de relatórios para uma organização
 uuid: b983d5a6-b3d0-4137-ac53-bc5681d3e58b
 translation-type: tm+mt
-source-git-commit: d9d6cebc0e9e14eac2471dc79b91276a154e35e0
+source-git-commit: d304e625bd2125854d9ed932674522284995e030
 
 ---
 
@@ -107,7 +107,7 @@ Os conjuntos de relatórios mapeados serão exibidos em um formato não editáve
 
 **Como devo proceder se souber somente a ID organizacional da minha organização da Experience Cloud? Como faço para buscar o nome da minha ID organizacional?**
 
-É possível encontrar o nome da organização em [Organizações e configurações da conta](https://marketing.adobe.com/resources/help/en_US/mcloud/?f=organizations).
+É possível encontrar o nome da organização em [Organizações e configurações da conta](https://docs.adobe.com/content/help/en/core-services/interface/manage-users-and-products/organizations.html).
 
 **Vejo uma data na coluna “Data de mapeamento”. Quem fez esse mapeamento?**
 

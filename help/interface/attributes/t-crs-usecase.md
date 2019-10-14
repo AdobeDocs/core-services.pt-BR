@@ -7,7 +7,7 @@ solution: Experience Cloud
 title: Crie uma fonte de atributo do cliente e faça upload do arquivo de dados
 uuid: 53dca789-9a91-4385-839d-c9d1aa36b9be
 translation-type: tm+mt
-source-git-commit: f8b48077d936e289d66c1a93a96fe9ebaa4f0136
+source-git-commit: d304e625bd2125854d9ed932674522284995e030
 
 ---
 
@@ -94,9 +94,9 @@ Siga essas etapas na página Criar nova fonte de atributo do cliente na Experien
 
       A ID de alias corresponde a determinadas áreas em que você definiu outros valores da ID do cliente. Por exemplo:
 
-      * **** Gerenciamento dinâmico de tags: A ID de alias corresponde ao valor do Código *de* integração em Configurações do cliente, na ferramenta Serviço [da](https://marketing.adobe.com/resources/help/en_US/dtm/?f=macid) Experience Cloud ID.
+      * **** Gerenciamento dinâmico de tags: A ID de alias corresponde ao valor do Código *de* integração em Configurações do cliente, na ferramenta Serviço [da](https://docs.adobe.com/content/help/en/dtm/using/tools/macid.html) Experience Cloud ID.
 
-      * **API do visitante:** a ID de alias corresponde às [IDs do cliente](https://marketing.adobe.com/resources/help/en_US/mcvid/?f=mcvid_customer_ids) que você associou a cada visitante.
+      * **API do visitante:** a ID de alias corresponde às [IDs do cliente](https://docs.adobe.com/content/help/en/id-service/using/reference/authenticated-state.html) que você associou a cada visitante.
 
          Por exemplo, *"crm_ id"* em:
 
@@ -106,14 +106,14 @@ Siga essas etapas na página Criar nova fonte de atributo do cliente na Experien
          ```
 
 
-      * **** iOS: A ID de alias corresponde a *"idType"* em [visitorSyncIdentifiers:identifiers](https://marketing.adobe.com/resources/help/en_US/mobile/ios/?f=methods).
+      * **** iOS: A ID de alias corresponde a *"idType"* em [visitorSyncIdentifiers:identifiers](https://docs.adobe.com/content/help/en/mobile-services/ios/overview.html).
 
          Por exemplo:
 
          `[ADBMobile visitorSyncIdentifiers:@{@<`**`"idType"`**`:@"idValue"}];`
 
 
-      * **Android:** a ID de alias corresponde à *"idType"* em [syncIdentifiers](https://marketing.adobe.com/resources/help/en_US/mobile/android/?f=methods).
+      * **Android:** a ID de alias corresponde à *"idType"* em [syncIdentifiers](https://docs.adobe.com/content/help/en/mobile-services/android/overview.html).
 
          Por exemplo:
 
@@ -175,7 +175,7 @@ Consulte [Configurar subscrições](../attributes/subscription.md#concept_ECA3C4
 
 **Para ativar uma fonte de atributo**
 
-Na página [!UICONTROL Criar nova [ou editar] fonte de atributo do cliente], encontre o cabeçalho [!UICONTROL Ativar] e clique em **[!UICONTROL Ativo]**.
+Na página [!UICONTROL Criar nova [ou editar] fonte de atributos do cliente], encontre o cabeçalho [!UICONTROL Ativar] e clique em **[!UICONTROL Ativo]**.
 
 ![Resultado da etapa](assets/activate_attribute_source.png)
 
@@ -192,7 +192,7 @@ O exemplo a seguir mostra um segmento do [!DNL Analytics] com base nos atributos
 
 Ao publicar um segmento na Experience Cloud, ele fica disponível para os públicos-alvo da Experience Cloud e do Audience Manager.
 
-Consulte [Relatório dos atributos do cliente](https://marketing.adobe.com/resources/help/en_US/reference/?f=reports_customer_attributes) na ajuda do Analytics para obter mais informações.
+Consulte [Relatório dos atributos do cliente](https://docs.adobe.com/help/en/analytics/components/variables/dimensions-reports/reports-customer-attributes.html) na ajuda do Analytics para obter mais informações.
 
 ## Usar os atributos do cliente no Adobe Target {#task_FC5F9D9059114027B62DB9B1C7D9E257}
 
@@ -200,4 +200,4 @@ No Target, você pode selecionar um atributo do cliente na seção Perfil do vis
 
 ![](assets/crs-add-attribute-target.png)
 
-Consulte [Criação de um novo público-alvo](https://marketing.adobe.com/resources/help/en_US/target/target/?f=t_creating_a_new_audience) na ajuda do Target.
+Consulte [Criação de um novo público-alvo](https://docs.adobe.com/content/help/en/target/using/audiences/create-audiences/audiences.html) na ajuda do Target.

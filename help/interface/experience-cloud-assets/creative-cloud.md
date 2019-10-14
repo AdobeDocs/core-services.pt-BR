@@ -7,7 +7,7 @@ solution: Experience Cloud
 title: Compartilhar as pastas e os ativos da Experience Cloud com a Creative Cloud
 uuid: 2bb002a6-e08e-402b-8df0-ecb21ab74490
 translation-type: tm+mt
-source-git-commit: af5339fe58ce884345804574c209907d6504a483
+source-git-commit: d304e625bd2125854d9ed932674522284995e030
 
 ---
 
@@ -28,14 +28,6 @@ Para que os usuários da Creative Cloud tenham acesso aos ativos, eles devem ter
 
 ## Sobre o compartilhamento do ativo com o Adobe Target {#section_B7CD64CAB35D43A4B12957B304072DC9}
 
-Ao criar atividades no [!DNL Adobe Target], você pode usar um ativo de imagem compartilhada ao trocar imagens na Biblioteca de conteúdo.
+When creating activities in [!DNL Adobe Target], you can use a shared image asset when swapping images in the [!UICONTROL Offers Library].
 
-Consulte [Biblioteca de conteúdo](https://marketing.adobe.com/resources/help/en_US/target/target/?f=c_manage_content) na Ajuda do [!DNL Target].
-
-## Sobre o compartilhamento do ativo com o Adobe Social {#section_96BFBB9FF3074B2AB49A9B7932DB25EF}
-
-No [!DNL Adobe Social], é possível inserir um ativo da imagem compartilhada usando o [!UICONTROL Seletor de ativo] no [!UICONTROL Editor]. Você pode pesquisar uma pasta, navegar nessa pasta e anexar o ativo a uma publicação do Facebook ou do Twitter.
-
-Consulte [Página do editor](https://marketing.adobe.com/resources/help/en_US/social/?f=c_pub_publisher) na Ajuda do [!DNL Social].
-
-As pastas e os ativos compartilhados são sincronizados automaticamente entre as nuvens.
+Consulte Biblioteca [de](https://docs.adobe.com/help/en/target/using/experiences/offers/manage-content.html) ofertas na [!DNL Target] Ajuda.

@@ -7,7 +7,7 @@ solution: Experience Cloud
 title: Compartilhar uma pasta de ativos da Experience Cloud
 uuid: 105cf627-0148-4bf8-ab6a-7afa612e198c
 translation-type: tm+mt
-source-git-commit: af5339fe58ce884345804574c209907d6504a483
+source-git-commit: d304e625bd2125854d9ed932674522284995e030
 
 ---
 
@@ -50,8 +50,8 @@ Compartilhe uma pasta de ativos da Experience Cloud com usuários da Creative Cl
 Após remover todos os usuários da Creative Cloud, o compartilhamento da pasta será cancelado e os usuários da Creative Cloud não terão mais acesso.
 Outras maneiras de usar um ativo compartilhado incluem:
 
-* Usar ativos no [!UICONTROL Seletor de ativo] no [!DNL Adobe Social] para postagens sociais. Consulte [Página do editor](https://marketing.adobe.com/resources/help/en_US/social/?f=c_pub_publisher).
-* Carregar ou trocar ativos na [Biblioteca de conteúdo](https://marketing.adobe.com/resources/help/en_US/target/target/?f=c_manage_content) no [!DNL Adobe Target] para imagens em atividades.
+* Usar ativos no [!UICONTROL Seletor de ativo] no [!DNL Adobe Social] para postagens sociais.
+* Load or swap assets in the [Offers Library](https://docs.adobe.com/help/en/target/using/experiences/offers/manage-content.html) in [!DNL Adobe Target] for images in activities.
 
 Depois de compartilhar uma pasta na Creative Cloud, você verá o logotipo da Creative Cloud na pasta.
 

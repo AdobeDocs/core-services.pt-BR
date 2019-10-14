@@ -7,7 +7,7 @@ solution: Experience Cloud
 title: Perguntas frequentes, limitações e práticas recomendadas
 uuid: e93eb531-23c7-4d75-92e8-75699f58546a
 translation-type: tm+mt
-source-git-commit: 08c2caa1e0e5ca5c487294e9ce33600dde9c9a1e
+source-git-commit: c0ba39895218769e27ab99568387eb91310a574c
 
 ---
 
@@ -86,7 +86,7 @@ Orientações e limitações ao usar os Atributos do cliente.
   </tr> 
   <tr> 
    <td colname="col1"> <p> <b>(Somente para Target) </b>Como a funcionalidade de atributos do cliente se compara à API do perfil em massa do Target? </p> </td> 
-   <td colname="col2"> <p> A <a href="https://marketing.adobe.com/developer/documentation/test-target/r-profile-update" format="https" scope="external">API de perfil em massa</a> permite que os perfis do Target sejam atualizados diretamente pela API, para um perfil individual ou em massa. O recurso é semelhante aos atributos do cliente, com estas diferenças: </p> 
+   <td colname="col2"> <p> A <a href="https://www.adobe.io/apis/experiencecloud/target.html" format="https" scope="external">API de perfil em massa</a> permite que os perfis do Target sejam atualizados diretamente pela API, para um perfil individual ou em massa. O recurso é semelhante aos atributos do cliente, com estas diferenças: </p> 
     <ul id="ul_5AAA4A8497C04F50A8AAA9F776BB868E"> 
      <li id="li_B20AEA397F3B4C86A1140CDA61ABD575">A API do perfil é uma chamada de API REST e os atributos do cliente usam FTP. </li> 
      <li id="li_7FBE428EF5D34B6AA09B6368E8210344">A API de perfil do Target envia dados apenas para o Target, e não para a Experience Cloud. </li> 
@@ -95,7 +95,7 @@ Orientações e limitações ao usar os Atributos do cliente.
   </tr> 
   <tr> 
    <td colname="col1"> <p> <b>(Somente para Target)</b> O envio de dados de atributos do cliente para o Adobe Target prolonga a vida útil do perfil de visitante do Target? </p> </td> 
-   <td colname="col2"> <p>Sim. Consulte <a href="https://marketing.adobe.com/resources/help/en_US/target/ov/?f=c_visitor_profile_lifetime" format="https" scope="external">Vida útil do perfil do visitante</a> na ajuda do Adobe Target. </p> </td> 
+   <td colname="col2"> <p>Sim. Consulte <a href="https://docs.adobe.com/content/help/en/target/using/audiences/visitor-profiles/visitor-profile.html" format="https" scope="external">Vida útil do perfil do visitante</a> na ajuda do Adobe Target. </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p> <b> (Somente para Target)</b> É possível direcionar os dados enviados em atributos do cliente imediatamente depois que o visitante é identificado pela ID do cliente? </p> </td> 

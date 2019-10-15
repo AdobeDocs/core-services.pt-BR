@@ -4,14 +4,14 @@ user-guide-title: Guia do usuário dos serviços principais
 user-guide-url: https://www.adobe.com/br
 index: true
 translation-type: tm+mt
-source-git-commit: d304e625bd2125854d9ed932674522284995e030
+source-git-commit: bc0c6b6b4a4f3ed5ddc3d6020ac1afb6828a73d5
 
 ---
 
 
 # Guia do usuário dos serviços principais {#interface}
 
-+ [Ajuda da Experience Cloud e serviços principais](experience-cloud.md)
++ [Documentação do produto da Experience Cloud e dos principais serviços](experience-cloud.md)
 + Sobre os principais serviços {#about-core-services}
    + [Visão geral dos serviços principais](core-services-landing.md)
    + [Ativar as soluções dos principais serviços](core-services/core-services.md)

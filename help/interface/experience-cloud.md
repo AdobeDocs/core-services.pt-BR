@@ -7,7 +7,7 @@ solution: Adobe Experience Cloud
 title: Ajuda da Experience Cloud e principais serviços
 uuid: aec6f689-e617-4876-ae6c-e961cfcb991a
 translation-type: tm+mt
-source-git-commit: bc0c6b6b4a4f3ed5ddc3d6020ac1afb6828a73d5
+source-git-commit: 5acb6229c1263b81bdfd95c03df2179a5cd8a890
 
 ---
 
@@ -20,7 +20,7 @@ Esta página fornece autoajuda, suporte e documentação técnica e de produto p
 
 * [Notas](https://docs.adobe.com/content/help/en/release-notes/experience-cloud/current.html) de versão da Experience Cloud - todos os produtos
 * [Priority Product Update](https://www.adobe.com/subscription/priority-product-update.html) - assine para receber notas de versão a cada mês)
-* [Aprendizagem por vídeo da Adobe](https://helpx.adobe.com/experience-cloud/tutorials.html)
+* [Aprendizagem por vídeo da Adobe](https://docs.adobe.com/content/help/en/core-services-learn/tutorials/overview.html)
 * [Adobe Experience League](https://landing.adobe.com/experience-league/) - aprendizado orientado
 * [Entre em contato com o Atendimento ao cliente](https://helpx.adobe.com/contact/enterprise-support.ec.html)
 * [Fórum da comunidade](https://forums.adobe.com/community/experience-cloud)
@@ -32,13 +32,13 @@ Esta página fornece autoajuda, suporte e documentação técnica e de produto p
 ## ![Ajuda](assets/experience_cloud_appicon_32.png) da Experience Cloud e dos principais serviços
 
 * [Adobe Mobile](https://docs.adobe.com/content/help/en/mobile-services/using/home.html)
-* [Audiences](https://docs.adobe.com/content/help/en/core-services/interface/audiences/audience-library.html)
+* [Públicos](https://docs.adobe.com/content/help/en/core-services/interface/audiences/audience-library.html)
 * [Assets](experience-cloud-assets/experience-cloud-assets.md)
 * [Atributos do cliente](https://docs.adobe.com/content/help/en/core-services/interface/customer-attributes/attributes.html)
-* [Device Co-op](https://docs.adobe.com/content/help/en/device-co-op/using/home.html)
+* [Cooperativa de dispositivo](https://docs.adobe.com/content/help/en/device-co-op/using/home.html)
 * [Dynamic Tag Management](https://docs.adobe.com/content/help/en/dtm/using/dtm-home.html)
 * [Exchange](https://experiencecloud.adobeexchange.com/)
-* [Serviço da Experience Cloud ID](https://docs.adobe.com/content/help/en/id-service/using/home.html)
+* [Serviço de Experience Cloud ID](https://docs.adobe.com/content/help/en/id-service/using/home.html)
 * [Experience Platform Launch](https://docs.adobelaunch.com/)
 * [Experience Cloud Debugger](https://marketing.adobe.com/resources/help/en_US/experience-cloud-debugger/)
 * [Feed](feed.md)

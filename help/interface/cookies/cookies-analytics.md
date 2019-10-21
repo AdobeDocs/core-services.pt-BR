@@ -10,7 +10,7 @@ index: y
 internal: n
 snippet: y
 translation-type: tm+mt
-source-git-commit: f59badcd3423ada51a3fe0c605158a009d5b1d64
+source-git-commit: 3cc39f5c19c444f23564ff7549d801e958995271
 
 ---
 
@@ -85,6 +85,20 @@ Mais informações estão disponíveis na ajuda do Analytics sobre [Cookies prim
 | Uso | Este cookie é usado para identificar um visitante único se o cookie s_vi padrão estiver indisponível devido a restrições de cookies de terceiros. Não usado para implementações que usam cookies primários. |
 | Localização | Este cookie é armazenado no seu domínio como um cookie primário. |
 | Tamanho | 33 bytes |
+
+## Sinalizadores de cookie
+
+A tabela a seguir descreve os sinalizadores dos cookies do Analytics:
+
+| Cookie (definido por) | httpOnly | Seguro | SameSite |
+|--- |--- |--- |--- |
+| s_vi (Resposta http) | Não | Sim quando SameSite é "None" e a conexão usa HTTPS | "Lax" por padrão ao usar CNAME. "Nenhum" ao usar 2o7.net ou omtrdc.net. |
+| s_ecid (Resposta http) | Não | Não | "Lax" |
+| s_fid (Javascript) | Não | Não | Desdefinido |
+| s_cc (Javascript) | Não | Não | Desdefinido |
+| s_sq (Javascript) | Não | Não | Desdefinido |
+
+*Observação: Se estiver usando um único CNAME para rastrear vários domínios ou propriedades, o SameSite deve ser definido como "Nenhum". Para obter ajuda sobre como alterar as configurações de cookies do Analytics, entre em contato com o Atendimento ao cliente.*
 
 ## Cookies definidos por plug-ins {#section-a6b1cae8454945fab9eea5c7884c40fc}
 

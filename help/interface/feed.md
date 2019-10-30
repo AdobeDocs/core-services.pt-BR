@@ -7,12 +7,14 @@ solution: Experience Cloud
 title: Feed
 uuid: 7ff327d1-5a74-49fb-8c3c-729034818ebc
 translation-type: tm+mt
-source-git-commit: af5339fe58ce884345804574c209907d6504a483
+source-git-commit: d39758702a37d16d6c4aeeb4f21863dcbc175523
 
 ---
 
 
 # Feed
+
+**O Feed da Experience Cloud não será mais suportado a partir de 1 de novembro de 2019 e será substituído até dezembro de 2019.**
 
 Saiba como compartilhar ou publicar ativos e relatórios do Analytics diretamente com outros usando o feed da Experience Cloud.
 
@@ -31,6 +33,8 @@ As configurações no Feed incluem:
 * **Favoritos:** visualize publicações marcadas como favoritos.
 
 ## Compartilhar um projeto do Analytics no Feed {#section_F2BDF9FEF4394686BAC5051CBE913EE5}
+
+**O Feed da Experience Cloud não será mais suportado a partir de 1 de novembro de 2019 e será substituído até dezembro de 2019.**
 
 Você pode compartilhar relatórios em [!UICONTROL Reports &amp; Analytics] no Feed da Experience Cloud.
 

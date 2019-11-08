@@ -7,7 +7,7 @@ solution: Adobe Experience Cloud
 title: Ajuda da Experience Cloud e principais serviços
 uuid: aec6f689-e617-4876-ae6c-e961cfcb991a
 translation-type: tm+mt
-source-git-commit: 9916e005e391e516bad282615a3e9be58f725909
+source-git-commit: 61261e280f08fafcaae2b14a2ab210c3786cb370
 
 ---
 
@@ -21,12 +21,12 @@ Esta página fornece autoajuda, suporte e documentação técnica e de produto p
 ## Notas de versão e recursos da comunidade
 
 * [Notas](https://docs.adobe.com/content/help/en/release-notes/experience-cloud/current.html) de versão da Experience Cloud - todos os produtos
+* [Página inicial da Ajuda - Aprendizagem e suporte da Experience Cloud](https://helpx.adobe.com/support/experience-cloud.html)
 * [Priority Product Update](https://www.adobe.com/subscription/priority-product-update.html) - assine para receber notas de versão a cada mês)
 * [Aprendizagem por vídeo da Adobe](https://docs.adobe.com/content/help/en/core-services-learn/tutorials/overview.html)
 * [Adobe Experience League](https://landing.adobe.com/experience-league/) - aprendizado orientado
 * [Entre em contato com o Atendimento ao cliente](https://helpx.adobe.com/contact/enterprise-support.ec.html)
 * [Fórum da comunidade](https://forums.adobe.com/community/experience-cloud)
-* [Aprendizagem e suporte da Experience Cloud](https://helpx.adobe.com/support/experience-cloud.html)
 * [Treinamento e tutoriais da Adobe](https://helpx.adobe.com/learning.html?promoid=KAUDK)
 * [Blog](https://theblog.adobe.com/customer-experience/) de experiência do cliente da Adobe (blog)
 * [Visão geral dos principais serviços](https://theblog.adobe.com/part-2-capturing-leveraging-consumer-behavior-adobe-marketing-cloud/) (blog)
@@ -40,7 +40,7 @@ Esta página fornece autoajuda, suporte e documentação técnica e de produto p
 * [Cooperativa de dispositivo](https://docs.adobe.com/content/help/en/device-co-op/using/home.html)
 * [Dynamic Tag Management](https://docs.adobe.com/content/help/en/dtm/using/dtm-home.html)
 * [Exchange](https://experiencecloud.adobeexchange.com/)
-* [Serviço de Experience Cloud ID](https://docs.adobe.com/content/help/en/id-service/using/home.html)
+* [Experience Cloud ID Service](https://docs.adobe.com/content/help/en/id-service/using/home.html)
 * [Experience Platform Launch](https://docs.adobelaunch.com/)
 * [Experience Cloud Debugger](https://marketing.adobe.com/resources/help/en_US/experience-cloud-debugger/)
 * [Feed](feed.md)

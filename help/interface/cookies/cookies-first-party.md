@@ -8,7 +8,7 @@ title: Cookies próprios
 index: y
 snippet: y
 translation-type: tm+mt
-source-git-commit: 012283d79bda42f9dabb20b25903927b075f6d54
+source-git-commit: 90123ac9194d180a6a8ae59a273a6a6154ea8d96
 
 ---
 
@@ -70,9 +70,9 @@ A equipe de operações de rede da organização deve configurar os servidores D
 O especialista FPC fornece os nomes de host configurados e os CNAMEs para os quais eles devem ser apontados. Por exemplo:
 
 * **Nome de host SSL**:`smetrics.mysite.com`
-* **CNAME SSL**:`mysite.com.ssl.d1.sc.omtrdc.net`
+* **CNAME SSL**:`mysite.com.ssl.sc.omtrdc.net`
 * **Nome de host não SSL**:`metrics.mysite.com`
-* **CNAME não SSL**:`mysite.com.d1.sc.omtrdc.net`
+* **CNAME não SSL**:`mysite.com.sc.omtrdc.net`
 
 Contanto que o código de implementação não seja alterado, esta etapa não afetará a coleta de dados e poderá ser feita a qualquer momento após a atualização do código de implementação.
 

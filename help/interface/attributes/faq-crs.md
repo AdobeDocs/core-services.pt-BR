@@ -7,7 +7,7 @@ solution: Experience Cloud
 title: Perguntas frequentes, limitações e práticas recomendadas
 uuid: e93eb531-23c7-4d75-92e8-75699f58546a
 translation-type: tm+mt
-source-git-commit: c0ba39895218769e27ab99568387eb91310a574c
+source-git-commit: b8363f024a09e07d26f6c0d0255e2675f7ef1a9a
 
 ---
 
@@ -52,13 +52,17 @@ Orientações e limitações ao usar os Atributos do cliente.
   </tr> 
   <tr> 
    <td colname="col1"> <p> Quantos atributos do cliente eu posso usar? </p> </td> 
-   <td colname="col2"> <p>Você pode fazer upload de centenas de colunas de <span class="filepath">.csv</span> para o serviço de atributos do cliente. Entretanto, ao configurar assinaturas e selecionar atributos, os seguintes limites se aplicam, dependendo das suas soluções: </p> <p> 
-     <ul id="ul_2BB85067918D4BB3B59394F3E3E37A6D"> 
-      <li id="li_93703988B9934384B4B94A839D028380"> <b>Padrão de análise</b>: total de 3 </li> 
-      <li id="li_D1E5E7BD24C54591B14D15DE97447835"> <b>Análise Premium</b>: 200 por conjunto de relatórios </li> 
-      <li id="li_8C891FE3D1EF49FA9F81E2E32CD0B9CA"> <b>Target Standard:</b> 5 </li> 
-      <li id="li_2B66D43023F34EA685CE2C38A9250CEA"> <b>Target Premium:</b> 200 </li> 
-     </ul> </p> </td> 
+   <td colname="col2"> <p>Você pode fazer upload de centenas de colunas de <span class="filepath">.csv</span> para o serviço de atributos do cliente. No entanto, ao configurar assinaturas e selecionar atributos, os seguintes limites se aplicam (por conjunto de relatórios), dependendo das soluções que você possui:</p> <p> 
+     <ul>
+     <li>Foundation: 0</li>
+     <li>Select: 3</li>
+     <li>Prime: 15</li>
+     <li>Ultimate: 200</li>
+     <li>Standard: total de 3</li>
+     <li>Premium: 200</li>
+     <li>Target Standard: 5</li>
+     <li>Target Premium: 200</li></ul>
+     </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p>É necessário migrar para o serviço da Experience Cloud ID? </p> </td> 
@@ -103,4 +107,3 @@ Orientações e limitações ao usar os Atributos do cliente.
   </tr> 
  </tbody> 
 </table>
-

@@ -1,15 +1,15 @@
 ---
-audience: usuário final
-user-guide-title: Guia do usuário dos serviços principais
-user-guide-url: https://www.adobe.com/br
+audience: end-user
+user-guide-title: Core Services User Guide
+user-guide-url: https://www.adobe.com
 index: true
 translation-type: tm+mt
-source-git-commit: bc0c6b6b4a4f3ed5ddc3d6020ac1afb6828a73d5
+source-git-commit: f9839c39c52bc10ab641df094dc444b642986974
 
 ---
 
 
-# Guia do usuário dos serviços principais {#interface}
+# Guia do Usuário dos Principais Serviços {#interface}
 
 + [Documentação do produto da Experience Cloud e dos principais serviços](experience-cloud.md)
 + Sobre os principais serviços {#about-core-services}
@@ -19,8 +19,8 @@ source-git-commit: bc0c6b6b4a4f3ed5ddc3d6020ac1afb6828a73d5
    + [Sobre os novos nomes de nuvem na Experience Cloud](solutions-core-services.md)
 + [Integrações da Experience Cloud](marketing-cloud-integrations.md)
 + Cookies da Experience Cloud {#ec-cookies}
-   + [Visão geral dos coookies](cookies/cookies-privacy.md)
-   + [Cookies próprios](cookies/cookies-first-party.md)
+   + [Visão geral dos cookies da Experience Cloud](cookies/cookies-privacy.md)
+   + [Cookies primários na Experience Cloud](cookies/cookies-first-party.md)
    + [Cookies do Analytics](cookies/cookies-analytics.md)
    + [Cookies do Audience Manager](cookies/cookies-am.md)
    + [Cookies de Data Connectors](cookies/cookies-dc.md)
@@ -32,20 +32,20 @@ source-git-commit: bc0c6b6b4a4f3ed5ddc3d6020ac1afb6828a73d5
    + [Cookies do Target](cookies/cookies-target.md)
    + [Ativar as configurações de privacidade de cookies do navegador](cookies/browser-cookie-settings.md)
    + [Como as alterações no suporte a cookies de terceiros afeta os clientes](cookies/cookies-thirdparty.md)
-+ Gerenciar usuários e produtos {#manage-users-and-products}
++ Gerenciamento de usuários e de produtos {#manage-users-and-products}
    + [Gerenciar usuários e produtos da Experience Cloud](admin-getting-started/admin-getting-started.md)
    + [Perguntas frequentes](admin-getting-started/faq.md)
    + [Fazer logon e gerenciar as configurações do seu perfil](admin-getting-started/getting-started-experience-cloud.md)
    + [Organizações e vinculação de contas](admin-getting-started/organizations.md)
    + [Atualização para o Analytics Premium e a Experience Cloud](admin-getting-started/upgrade-to-analytics-premium.md)
    + [Como incorporar conteúdo](admin-getting-started/oembed.md)
-+ Activation {#activation}
++ Experience Cloud Activation {#activation}
    + [Visão geral de Activation](activation/activation.md)
-   + [Iniciar guia do usuário](https://docs.adobe.com/content/help/en/launch/using/overview.html)
-   + [Guia do usuário do DTM](https://docs.adobe.com/content/help/en/dtm/using/dtm-home.html)
+   + [Guia do usuário do Launch](https://docs.adobe.com/content/help/en/launch/using/overview.html)
+   + [Guia do usuário do Gerenciador dinâmico de tags](https://docs.adobe.com/content/help/en/dtm/using/dtm-home.html)
    + [Triggers](activation/triggers.md)
-+ Assets {#assets}
-   + [Visão geral dos ativos](experience-cloud-assets/experience-cloud-assets.md)
++ Experience Cloud assets {#assets}
+   + [Visão geral dos ativos da Experience Cloud](experience-cloud-assets/experience-cloud-assets.md)
    + [Compartilhar as pastas e os ativos da Experience Cloud com a Creative Cloud](experience-cloud-assets/creative-cloud.md)
    + [Gerenciar usuários da Creative Cloud](experience-cloud-assets/t-admin-add-cc-user.md)
    + [Compartilhar uma pasta de ativos da Experience Cloud](experience-cloud-assets/t-share-creative-cloud.md)
@@ -54,11 +54,11 @@ source-git-commit: bc0c6b6b4a4f3ed5ddc3d6020ac1afb6828a73d5
    + [Desativar a sincronização de pastas compartilhadas](experience-cloud-assets/t-disable-asset-sync.md)
    + [Requisitos para compartilhamento do arquivo do ativo](experience-cloud-assets/assets-file-reqs.md)
    + [Comportamento das pastas compartilhadas](experience-cloud-assets/asset-behavior.md)
-+ Públicos-alvo {#audiences}
++ Públicos-alvo na Experience Cloud {#audiences}
    + [Visão geral de públicos-alvo](audience-library/audience-library.md)
    + [Criar um público-alvo](audience-library/t-audience-create.md)
    + [Publicar um segmento de público-alvo do Analytics](audience-library/t-publish-audience-segment.md)
-+ Atributos do cliente {#customer-attributes}
++ Atributos do cliente na Experience Cloud {#customer-attributes}
    + [Visão geral dos atributos do cliente](attributes/attributes.md)
    + [Perguntas frequentes, limitações e práticas recomendadas](attributes/faq-crs.md)
    + [Sobre arquivo de dados e fonte de dados para atributos do cliente](attributes/crs-data-file.md)
@@ -68,11 +68,11 @@ source-git-commit: bc0c6b6b4a4f3ed5ddc3d6020ac1afb6828a73d5
    + [Configurar assinaturas](attributes/subscription.md)
    + [Atualizar o esquema](attributes/t-update-schema.md)
    + [Considerações de privacidade - Atributos do cliente](attributes/privacy-mac.md)
-+ Notas de versão {#release-notes}
++ Notas de versão da Experience Cloud {#release-notes}
    + [Novidades da Experience Cloud](https://docs.adobe.com/content/help/en/release-notes/experience-cloud/current.html)
    + [Notas de versão cumulativas](marketing-cloud-interface/release-notes.md)
 + [Exchange Marketplace](exchange.md)
-+ [Feed](feed.md)
++ [Feed da Experience Cloud](feed.md)
 + [Mobile Services](https://docs.adobe.com/content/help/en/mobile-services/using/home.html)
 + Mais recursos {#more-resources}
    + [Fórum](https://forums.adobe.com/community/experience-cloud)

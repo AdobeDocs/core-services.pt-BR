@@ -1,13 +1,13 @@
 ---
 description: A Adobe Experience Cloud usa cookies para armazenar a ID do visitante usada nas Soluções da Experience Cloud.
-keywords: cookies; privacidade
+keywords: cookies;privacy
 seo-description: A Adobe Experience Cloud usa cookies para armazenar a ID do visitante usada nas Soluções da Experience Cloud.
 seo-title: Cookies da Experience Cloud
-solution: Experience Cloud,Analytics,Target,Social
+solution: Marketing Cloud,Analytics,Target,Social
 title: Cookies da Experience Cloud
 uuid: a4788c1c-0402-4fc8-b894-cd24fa794f4f
 translation-type: tm+mt
-source-git-commit: 012283d79bda42f9dabb20b25903927b075f6d54
+source-git-commit: f9839c39c52bc10ab641df094dc444b642986974
 
 ---
 
@@ -36,7 +36,7 @@ A Adobe Experience Cloud usa cookies para armazenar a ID do visitante usada nas 
   </tr> 
   <tr> 
    <td colname="col1"> <p> Uso </p> </td> 
-   <td colname="col2"> <p>Esse cookie é definido pelo domínio do cliente depois que o cookie AMCV é definido pelo cliente. A finalidade deste cookie é permitir o rastreamento de ID persistente no estado próprio e ele é usado como ID de referência, se o cookie AMCV tiver expirado. Verifique o cookie AMCV aqui para obter mais detalhes. </p> </td> 
+   <td colname="col2"> <p>Esse cookie é definido pelo domínio do cliente depois que o cookie AMCV é definido pelo cliente. O objetivo deste cookie é permitir o rastreamento persistente de ID no estado próprio e é usado como uma ID de referência se o cookie AMCV tiver expirado. Verifique o cookie AMCV aqui para obter mais detalhes. </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p> Localização </p> </td> 
@@ -51,7 +51,9 @@ A Adobe Experience Cloud usa cookies para armazenar a ID do visitante usada nas 
 
 **Nome do cookie: AMCV_###@AdobeOrg**
 
-The [Experience Platform ID Service](https://docs.adobe.com/content/help/en/id-service/using/home.html) uses JavaScript to store a unique visitor ID in an `AMCV_###@AdobeOrg` cookie on the domain of the current website, where `###` represents a random string of characters. Por exemplo, `AMCV_1FD6776A524453CC0A490D44%40AdobeOrg`. Consulte também [Cookies e o serviços de ID](https://docs.adobe.com/content/help/en/id-service/using/intro/cookies.html).
+The [Experience Platform ID Service](https://docs.adobe.com/content/help/en/id-service/using/home.html) uses JavaScript to store a unique visitor ID in an `AMCV_###@AdobeOrg` cookie on the domain of the current website, where `###` represents a random string of characters, such as `AMCV_1FD6776A524453CC0A490D44%40AdobeOrg.`
+
+Consulte também [Cookies e o serviços de ID](https://docs.adobe.com/content/help/en/id-service/using/intro/cookies.html).
 
 <table id="table_1883C0836C1E4AF5A262FBF5000C1B11"> 
  <thead> 

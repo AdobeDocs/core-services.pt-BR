@@ -1,33 +1,36 @@
 ---
 description: O Analytics usa cookies para fornecer informações sobre variáveis e componentes que não persistem entre as solicitações de imagem e as sessões do navegador.
-keywords: cookies; privacidade
+keywords: cookies;privacy
 seo-description: O Analytics usa cookies para fornecer informações sobre variáveis e componentes que não persistem entre as solicitações de imagem e as sessões do navegador.
 seo-title: Cookies próprios
-solution: Experience Cloud, Analytics
+solution: Experience Cloud,Analytics
 title: Cookies próprios
 index: y
 snippet: y
 translation-type: tm+mt
-source-git-commit: 90123ac9194d180a6a8ae59a273a6a6154ea8d96
+source-git-commit: 0b8723359c1222be09aff347eef0fb8135705c88
 
 ---
 
 
 # Sobre cookies próprios
 
-O Analytics usa cookies para fornecer informações sobre variáveis e componentes que não persistem entre as solicitações de imagem e as sessões do navegador. Esses cookies inofensivos são originários de um domínio hospedado pela Adobe, conhecidos como cookies de terceiros.
+O Analytics usa cookies para fornecer informações sobre variáveis e componentes que não persistem entre as solicitações de imagem e as sessões do navegador. Esses cookies inofensivos originários de um domínio hospedado pela Adobe são conhecidos como cookies de terceiros.
 
-Muitos navegadores e aplicativos antispyware foram projetados para rejeitar e excluir cookies de terceiros, inclusive aqueles usados na coleta de dados do Analytics. Para contornar as limitações de rastreamento impostas por navegadores e programas, você pode implementar cookies próprios.
+Muitos navegadores e aplicativos antispyware foram projetados para rejeitar e excluir cookies de terceiros, inclusive aqueles usados na coleta de dados do Analytics. Para suportar o rastreamento de como seus visitantes interagem com seu site, é possível implementar cookies primários.
 
 Há duas opções disponíveis para implementar cookies próprios
 
 * O Serviço de ID da Experience Platform. O serviço de ID pode definir o cookie no contexto próprio usando JavaScript.
-* Entradas DNS no servidor DNS de empresas.
-* Se o site tem páginas seguras usando o `https:` protocolo e você não está usando o serviço de ID da Experience Platform, você pode trabalhar com a Adobe para obter um certificado SSL a fim de implementar cookies próprios.
+* Entradas DNS no servidor DNS da sua empresa para configurar um alias CNAME para um domínio hospedado pela Adobe. Observe que, embora vários produtos da Adobe suportem o uso de um CNAME, em todos os casos o CNAME é usado para criar um terminal de terceiros confiável para um cliente específico e é de sua propriedade. Se o cliente controlar vários domínios, ele poderá usar um único terminal CNAME para rastrear usuários em seus domínios, mas como isso requer cookies de terceiros para todos os domínios fora do domínio do CNAME, ele não funcionará quando cookies de terceiros forem bloqueados e, portanto, não é recomendado. Os CNAMEs da Adobe nunca são usados para rastrear um indivíduo ou dispositivo nos domínios de propriedade de clientes diferentes.
+
+Mesmo ao usar a primeira opção com o Serviço da Experience Cloud ID, o ITP da Apple terá uma vida curta dos cookies primários, portanto, é melhor usá-los em conjunto com a segunda opção.
+
+Para a segunda opção usando um CNAME, se o site tiver páginas seguras usando o `https:` protocolo, você pode trabalhar com a Adobe para obter um certificado SSL para implementar cookies primários. A Adobe recomenda que você use exclusivamente HTTPS para a coleta de dados, pois estaremos descartando o suporte para a coleta HTTP na segunda metade de 2020.
 
 Muitas vezes o processo de emissão do certificado SSL pode ser confuso e demorado. Como resultado, a Adobe estabeleceu uma parceria com a DigiCert, uma Autoridade de certificação (CA) líder do setor, e desenvolveu um processo integrado pelo qual a compra e o gerenciamento desses certificados são automatizados.
 
-Com sua permissão, trabalharemos com a CA para emitir, implantar e gerenciar um novo certificado SSL de SHA-2 para você. A Adobe continuará a gerenciar esse certificado e garantirá que uma expiração, revogação ou preocupação de segurança inesperada não prejudique a disponibilidade da coleção segura de suas organizações.
+Com sua permissão, trabalharemos com a CA para emitir, implantar e gerenciar um novo certificado SSL de SHA-2 para você. A Adobe continuará a gerenciar este certificado e a garantir que uma expiração, revogação ou preocupação com a segurança inesperadas não ameace a disponibilidade da coleção segura de sua organização.
 
 ## Programa Adobe Managed Certificate
 
@@ -51,7 +54,7 @@ A seguir, veja como implementar um novo certificado SSL próprio para cookies pr
 
 ### Manutenção e Renovações
 
-Os certificados SSL expiram todo ano, o que significa que a Adobe deve comprar um novo certificado para cada implementação anualmente. Todos os usuários suportados na organização receberão uma notificação por email, sempre que uma implementação estiver próxima à expiração. Para que a Adobe renove o nome de host, um usuário suportado deverá responder ao email da Adobe e indicar que pretende continuar a usar o nome de host que está expirando para a coleta de dados. Nesse momento, a Adobe compra e instala automaticamente um novo certificado.
+Os certificados SSL expiram todo ano, o que significa que a Adobe deve comprar um novo certificado para cada implementação anualmente. Todos os usuários suportados na organização receberão uma notificação por email, sempre que uma implementação estiver próxima à expiração. Para que a Adobe renove seu nome de host, um usuário suportado deve responder ao email da Adobe e indicar que você planeja continuar usando o nome de host que expira para a coleta de dados. Nesse momento, a Adobe compra e instala automaticamente um novo certificado.
 
 ### Perguntas frequentes
 
@@ -106,7 +109,7 @@ Se os registros CNAME não foram configurados ou ativados corretamente, retornar
 
 Antes de editar o código no site para utilizar cookies próprios, preencha estes pré-requisitos:
 
-* Solicite um certificado SSL, conforme descrito acima nas Etapas de implementação do Programa Adobe Managed Certificate.
+* Solicite um certificado SSL seguindo as etapas descritas acima na seção *Implementação* da Cla do Programa de certificados gerenciados da *Adobe.*
 * Crie registros CNAME (veja acima).
 * Execute o poing do nome de host (veja acima).
 

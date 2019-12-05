@@ -8,7 +8,7 @@ title: Cookies próprios
 index: y
 snippet: y
 translation-type: tm+mt
-source-git-commit: 9dcf5f0e5aad3e18448b72f39fb0c0af0c84d733
+source-git-commit: 3cb4d346d07e1625e95e3737230f03a02b45afb2
 
 ---
 
@@ -109,7 +109,7 @@ Se os registros CNAME não foram configurados ou ativados corretamente, retornar
 
 Antes de editar o código no site para utilizar cookies próprios, preencha estes pré-requisitos:
 
-* Solicite um certificado SSL seguindo as etapas descritas acima na seção *Implementação* da Cla do Programa de certificados gerenciados da *Adobe.*
+* Solicite um certificado SSL seguindo as etapas descritas acima na seção *Implementação* do Programa [de certificados gerenciados da](#adobe-managed-certificate-program)Adobe.
 * Crie registros CNAME (veja acima).
 * Faça o ping nos nomes dos hosts (consulte acima).
 

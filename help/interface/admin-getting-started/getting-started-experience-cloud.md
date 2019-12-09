@@ -1,13 +1,13 @@
 ---
 description: Saiba mais sobre como fazer logon na Experience Cloud, gerenciar senhas e notificações, e especificar uma página de aterrissagem padrão.
-keywords: principais serviços
+keywords: core services
 seo-description: Saiba mais sobre como fazer logon na Experience Cloud, gerenciar senhas e notificações, e especificar uma página de aterrissagem padrão.
 seo-title: Faça logon e gerencie as configurações do seu perfil
 solution: Marketing Cloud
 title: Faça logon e gerencie as configurações do seu perfil
 uuid: c1e13b99-0069-4fdb-8d72-ddcec3ed1121
 translation-type: tm+mt
-source-git-commit: 979b2202a70e2a5362aa86a65a17d7c4279b3a1a
+source-git-commit: ae97db27349940a8df7ee2ba6678683f57585678
 
 ---
 
@@ -58,7 +58,7 @@ Ajuda para usuários não administrativos que fazem logon na Experience Cloud.
 1. Verifique com o administrador se sua [organização](../admin-getting-started/getting-started-experience-cloud.md#concept_384D169B0B724B799D573B8ECB5C39BF) foi provisionada na Experience Cloud.
 
 
-1. Acesse a [Adobe Experience Cloud](https://marketing.adobe.com) ( [!DNL marketing.adobe.com]).
+1. Acesse a [Adobe Experience Cloud](https://experiencecloud.adobe.com) ([!DNL experiencecloud.adobe.com]).
 1. Clique em **[!UICONTROL Fazer logon com Adobe ID]**.
 
    O administrador da Experience Cloud pode ajudar você a determinar o tipo de conta (Adobe ID ou Enterprise ID).
@@ -141,15 +141,13 @@ Você pode editar o perfil da Experience Cloud, especificar uma organização pa
 
 Como alternativa, você pode fazer logon em uma página específica em uma solução usando a autenticação fornecida pela interface da Experience Cloud.
 
+### Modelo do URL
 
-<!-- mac-deep-linking.xml -->
-**Modelo do URL**
-
-[!DNL https://<tenantId>.marketing.adobe.com/<solutionname>?destURL=<fullURL>]
+`https://<tenantId>.experiencecloud.adobe.com/<solutionname>?destURL=<fullURL>`
 
 Amostra do URL:
 
-[!DNL https://aem62tenant.marketing.adobe.com/analytics?destURL=https%3A%2F%2Fsc.omniture.com%2Freports%2F11562.html]
+`https://aem62tenant.experiencecloud.adobe.com/analytics?destURL=https%3A%2F%2Fsc.omniture.com%2Freports%2F11562.html`
 
 >[!NOTE]
 >

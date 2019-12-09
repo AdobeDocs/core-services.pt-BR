@@ -1,13 +1,13 @@
 ---
 description: Perguntas frequentes e respostas para administradores na Experience Cloud.
-keywords: principais serviços
+keywords: core services
 seo-description: Perguntas frequentes e respostas para administradores na Experience Cloud.
 seo-title: Perguntas frequentes
 solution: Experience Cloud
 title: Perguntas frequentes
 uuid: 3ed0b4eb-690f-4c14-a31c-0cc1118fb3b4
 translation-type: tm+mt
-source-git-commit: 9c9b5250ec4143b396623341ecfeb61244469754
+source-git-commit: ae97db27349940a8df7ee2ba6678683f57585678
 
 ---
 
@@ -22,7 +22,7 @@ Se a implementação foi provisionada para os serviços principais, consulte [At
 
 
 1. [Associar-se à Experience Cloud e tornar-se um administrador](../core-services/core-services.md#section_2423F0BD3DF642658103310EE5EA6154)
-1. [Implementar o serviço da Experience Cloud ID usando o Gerenciador dinâmico de tags](../core-services/core-services.md#section_3C9F6DF37C654D939625BB4D485E4354) (ou o novo [Launch da Adobe](https://marketing.adobe.com/resources/help/en_US/experience-cloud/launch/))
+1. [Implementar o serviço da Experience Cloud ID usando o Gerenciador dinâmico de tags](../core-services/core-services.md#section_3C9F6DF37C654D939625BB4D485E4354) (ou o novo [Launch da Adobe](https://docs.adobe.com/content/help/en/launch/using/intro/get-started/quick-start.html))
 1. [Mapear conjuntos de relatórios para uma organização da Experience Cloud](../core-services/core-services.md#concept_apg_zq2_rw)
 1. [(Somente para Analytics) Modernizar o código AppMeasurement do Analytics](../core-services/core-services.md#section_1798D9D0F05C47E29816AC4EEB9A0913)
 1. [(Somente para Target) Modernizar sua implementação do Adobe Target](../core-services/core-services.md#section_C2F4493C7A36406DAE2266B429A4BD24)
@@ -62,7 +62,7 @@ O provisionamento na Experience Cloud significa que:
 
 * O gerenciamento de produtos e direitos do usuário é executado no [Adobe Admin Console](https://adminconsole.adobe.com/enterprise) (link do produto).
 
-* **Importante:** para administradores do Analytics, consultar [Gerenciar usuários do Analytics no Admin Console](https://marketing.adobe.com/resources/help/en_US/experience-cloud/admin-console/analytics-migration/) sobre como migrar IDs de usuário das Ferramentas administrativas do Analytics para o Admin Console.
+* **Importante:** para administradores do Analytics, consultar [Gerenciar usuários do Analytics no Admin Console](https://docs.adobe.com/content/help/en/analytics/admin/user-product-management/user-management/migrate-users/c-migration-tool.html) sobre como migrar IDs de usuário das Ferramentas administrativas do Analytics para o Admin Console.
 
 **Como proceder se alguém não conseguir fazer logon na Experience Cloud?**
 
@@ -82,7 +82,7 @@ Consulte [Gerenciar contas de usuário](../admin-getting-started/organizations.m
 
 **O que é uma organização?**
 
-Uma *organização* é a entidade que permite a um administrador configurar grupos e usuários, além de controlar o logon único na Experience Cloud. A organização funciona como uma empresa para logon que abrange os produtos e as soluções da Experience Cloud. Frequentemente, a organização é o nome da empresa. Contudo, uma empresa pode ter muitas organizações.
+Uma organização da ** é a entidade que permite ao administrador configurar grupos e usuários, além de controlar o logon único na Experience Cloud. A organização funciona como uma empresa para logon que abrange os produtos e as soluções da Experience Cloud. Frequentemente, a organização é o nome da empresa. Contudo, uma empresa pode ter muitas organizações.
 
 **Onde posso encontrar minha ID da organização de IMS?**
 

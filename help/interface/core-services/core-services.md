@@ -1,13 +1,13 @@
 ---
 description: Implemente a Experience Cloud e torne-se um administrador. Esse processo moderniza suas soluções para os recursos dos principais serviços, como atributos do cliente e públicos-alvo.
-keywords: serviços principais, customer attributes
+keywords: core services;customer attributes
 seo-description: Implemente a Experience Cloud e torne-se um administrador. Esse processo moderniza suas soluções para os recursos dos principais serviços, como atributos do cliente e públicos-alvo.
 seo-title: Ativar as soluções Experience Cloud dos serviços principais
 solution: Experience Cloud
 title: Ativar as soluções dos principais serviços
 uuid: 5820060f-9b18-4339-81e0-401d964f7a03
 translation-type: tm+mt
-source-git-commit: c0ba39895218769e27ab99568387eb91310a574c
+source-git-commit: ae97db27349940a8df7ee2ba6678683f57585678
 
 ---
 
@@ -32,7 +32,7 @@ O que é necessário para entrar na Experience Cloud:
 
 >[!NOTE]
 >
->For Target, [migrate to at.js from mbox.js](https://marketing.adobe.com/resources/help/en_US/target/ov2/t_target-migrate-atjs.html).
+>For Target, [migrate to at.js from mbox.js](https://docs.adobe.com/content/help/en/target/using/implement-target/client-side/upgrading-from-atjs-1x-to-atjs-20.html).
 
 ![](assets/step2_icon.png) Modernize sua implementação e consiga um administrador.
 
@@ -116,11 +116,11 @@ Por exemplo, digamos que Bob tenha a ID de cliente `52mc210tr42` em seu sistema 
 
 A ID do cliente deve ser definida em cada chamada do servidor do [!DNL Analytics] em que a ID do cliente seja conhecida.
 
-**SDKs móveis**
+### SDKs móveis
 
 Consulte a seção do serviço *da* Experience Cloud ID para obter exemplos de sintaxe sobre como definir outras IDs do cliente em aplicativos [Android](https://docs.adobe.com/content/help/en/mobile-services/android/overview.html) e [iOS](https://docs.adobe.com/content/help/en/mobile-services/ios/overview.html) Mobile.
 
-**Ativação de atributos para dados históricos**
+### Ativação de atributos para dados históricos
 
 Os dados do atributo do cliente são disponibilizados depois que os visitantes fazem logon. Se você ainda não tiver implementado o serviço da Experience Cloud ID e tiver um histórico de rastreamento de IDs do cliente em uma prop ou eVar, será possível solicitar um processo que envie logons do histórico para a Experience Cloud. Esse processo permite começar a usar os atributos do cliente imediatamente.
 

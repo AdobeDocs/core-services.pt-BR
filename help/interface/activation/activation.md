@@ -1,13 +1,13 @@
 ---
 description: A Activation inclui o produto de gerenciamento de tags mais recente, o Experience Platform Launch. Dynamic Tag Management (DTM); e Triggers.
-keywords: principais serviços
+keywords: core services
 seo-description: A Activation inclui o produto de gerenciamento de tags mais recente, o Experience Platform Launch. Dynamic Tag Management (DTM); e Triggers.
 seo-title: Activation
 solution: Experience Cloud
 title: Activation
 uuid: 54ada638-3592-49ee-930a-9f44bcc5e5d3
 translation-type: tm+mt
-source-git-commit: 979b2202a70e2a5362aa86a65a17d7c4279b3a1a
+source-git-commit: ae97db27349940a8df7ee2ba6678683f57585678
 
 ---
 
@@ -20,7 +20,7 @@ A Activation inclui o produto de gerenciamento de tags mais recente chamado Expe
 
 Implante e gerencie tags de análises, marketing e publicidade necessárias para potencializar experiências relevantes do cliente.
 
-Consulte [Launch da Adobe](https://marketing.adobe.com/resources/help/en_US/experience-cloud/launch/).
+Consulte [Launch da Adobe](https://docs.adobelaunch.com/getting-started).
 
 ## Dynamic Tag Management {#section_C7E000EEF3E6459FB4B6D4A8960DD8F0}
 
@@ -35,15 +35,15 @@ Para iniciar o Dynamic Tag Management, clique em **[!UICONTROL Activation]** e e
  </thead>
  <tbody> 
   <tr> 
-   <td colname="col1"> <p> <a href="https://marketing.adobe.com/resources/help/en_US/analytics/getting-started/add-adobe-analytics-dtm-tool.html" format="html" scope="external"> Implantar o Adobe Analytics </a> </p> </td> 
+   <td colname="col1"> <p> <a href="https://docs.adobe.com/content/help/en/dtm/using/tools/analytics-dtm.html" format="html" scope="external"> Implantar o Adobe Analytics </a> </p> </td> 
    <td colname="col2"> <p> Instruções detalhadas sobre como adicionar o Adobe Analytics usando o Dynamic Tag Management da Adobe </p> </td> 
   </tr> 
   <tr> 
-   <td colname="col1"> <p> <a href="https://marketing.adobe.com/resources/help/en_US/mcvid/mcvid-implementation-guides.html" format="html" scope="external"> Guias de implementação para o serviço da Experience Cloud ID </a> </p> </td> 
+   <td colname="col1"> <p> <a href="https://docs.adobe.com/content/help/en/id-service/using/implementation-guides/implementation-guides.html" format="html" scope="external"> Guias de implementação para o serviço da Experience Cloud ID </a> </p> </td> 
    <td colname="col2"> <p>O serviço da Experience Cloud ID habilita recursos de serviços essenciais por todas as soluções da Experience Cloud (incluindo atributos de clientes, compartilhamento de público-alvo e acionadores). A Adobe recomenda a implementação do serviço de ID para aproveitar esses recursos. </p> </td> 
   </tr> 
   <tr> 
-   <td colname="col1"> <p> <a href="https://marketing.adobe.com/resources/help/en_US/dtm/" format="https" scope="external"> Documentação de produto do Dynamic Tag Management </a> </p> </td> 
+   <td colname="col1"> <p> <a href="https://docs.adobe.com/content/help/en/dtm/using/dtm-home.html" format="https" scope="external"> Documentação de produto do Dynamic Tag Management </a> </p> </td> 
    <td colname="col2"> <p>Saiba mais sobre como implantar soluções da Experience Cloud com o Dynamic Tag Management. </p> </td> 
   </tr> 
  </tbody> 
@@ -79,4 +79,4 @@ Os *Triggers* permitem aos comerciantes definir e monitorar os principais compor
 
 A extensão do Depurador da Adobe Experience Cloud para Chrome avalia as páginas da Web e ajuda a encontrar problemas na implementação das soluções da Experience Cloud.
 
-Consulte [Experience Cloud Debugger](https://marketing.adobe.com/resources/help/en_US/experience-cloud-debugger/) para obter ajuda.
+Consulte [Experience Cloud Debugger](https://docs.adobe.com/content/help/en/debugger/using/experience-cloud-debugger.html) para obter ajuda.

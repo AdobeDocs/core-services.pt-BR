@@ -5,7 +5,7 @@ seo-title: Mapear conjuntos de relatórios para uma organização
 title: Mapear conjuntos de relatórios para uma organização
 uuid: b983d5a6-b3d0-4137-ac53-bc5681d3e58b
 translation-type: tm+mt
-source-git-commit: d304e625bd2125854d9ed932674522284995e030
+source-git-commit: ae97db27349940a8df7ee2ba6678683f57585678
 
 ---
 
@@ -19,7 +19,6 @@ Os serviços da Experience Cloud (como o serviço da Experience Cloud ID e o ser
 * Define uma organização da Experience Cloud como a organização principal do conjunto de relatórios.
 * Não muda quem pode acessar um conjunto de relatórios (o acesso ainda é determinado pela conta de logon do Adobe Analytics de cada usuário)
 
-
 **Requisitos**
 
 Você deve ser um administrador do Analytics de uma empresa de logon com acesso ao conjunto de relatórios que deseja mapear. Além disso, essa conta deve estar [vinculada a uma organização da Experience Cloud](../admin-getting-started/organizations.md#topic_C31CB834F109465A82ED57FF0563B3F1) a fim de mapear conjuntos de relatórios para essa organização.
@@ -29,8 +28,6 @@ As organizações ficam esmaecidas caso você não tenha permissões de administ
 ## Mapear um conjunto de relatórios para uma organização {#task_23993FE78DF6455FA8D7BE60686EA16C}
 
 1. Clique em **[!UICONTROL Experience Cloud]** &gt; **[!UICONTROL Administração]** &gt; **[!UICONTROL Mapeamento de conjuntos de relatórios]**
-
-   Você também pode usar um [URL direto](https://audience.marketing.adobe.com/rsmapping/ui.html).
 
 1. Para ver as empresas de logon com acesso a cada conjunto de relatórios, clique em **[!UICONTROL Visível para empresas de logon]**.
 
@@ -43,8 +40,6 @@ As organizações ficam esmaecidas caso você não tenha permissões de administ
 ## Mapear diversos conjuntos de relatórios para uma organização {#task_94955B0D8ABA4CB1A38746ECF8E32711}
 
 1. Clique em **[!UICONTROL Experience Cloud]** &gt; **[!UICONTROL Administração]** &gt; **[!UICONTROL Mapeamento de conjuntos de relatórios]**.
-
-   Você também pode usar um [URL direto](https://audience.marketing.adobe.com/rsmapping/ui.html).
 
 1. Selecione os conjuntos de relatórios que você deseja mapear.
 
@@ -62,7 +57,7 @@ Esta seção contém dicas para ajudar a selecionar a organização da Experienc
 
 **Qual organização devo escolher?**
 
-Se o serviço da Experience Cloud ID estiver implantado no conjunto de relatórios, verifique se a organização selecionada na ferramenta de Mapeamento de conjuntos de relatórios é a mesma organização especificada no arquivo [!DNL visitorAPI.js] do seu site. Você pode usar as instruções em [Testar e verificar o serviço da Experience Cloud ID](https://marketing.adobe.com/resources/help/en_US/mcvid/mcvid-test-verify.html) para encontrar a ID da organização em uso pelo serviço de ID do visitante.
+Se o serviço da Experience Cloud ID estiver implantado no conjunto de relatórios, verifique se a organização selecionada na ferramenta de Mapeamento de conjuntos de relatórios é a mesma organização especificada no arquivo [!DNL visitorAPI.js] do seu site. Você pode usar as instruções em [Testar e verificar o serviço da Experience Cloud ID](https://docs.adobe.com/content/help/en/id-service/using/implementation-guides/test-verify.html) para encontrar a ID da organização em uso pelo serviço de ID do visitante.
 
 Se o serviço de ID do visitante ainda não estiver implantado nos sites que coletam dados do conjunto de relatórios e você implantar o serviço de ID de visitante da Experience Cloud futuramente, verifique se a implantação corresponde à organização selecionada na ferramenta de Mapeamento de conjuntos de relatórios.
 

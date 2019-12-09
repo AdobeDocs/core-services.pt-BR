@@ -1,13 +1,13 @@
 ---
 description: Publique um segmento de público-alvo do Analytics na Experience Cloud e no Adobe Target para as atividades de marketing do público-alvo.
-keywords: principais serviços
+keywords: core services
 seo-description: Publique um segmento de público-alvo do Analytics na Experience Cloud e no Adobe Target para as atividades de marketing do público-alvo.
 seo-title: Publicar um segmento de público-alvo do Analytics
 solution: Experience Cloud
 title: Publicar um segmento de público-alvo do Analytics
 uuid: 4201dc22-4b79-457c-a614-949bba087617
 translation-type: tm+mt
-source-git-commit: d304e625bd2125854d9ed932674522284995e030
+source-git-commit: ae97db27349940a8df7ee2ba6678683f57585678
 
 ---
 
@@ -16,7 +16,7 @@ source-git-commit: d304e625bd2125854d9ed932674522284995e030
 
 Publique um segmento de público-alvo do Analytics na Experience Cloud e no Adobe Target para as atividades de marketing do público-alvo.
 
-1. No Analytics, [crie um segmento](https://marketing.adobe.com/resources/help/en_US/analytics/segment/seg_build.html).
+1. No Analytics, [crie um segmento](https://docs.adobe.com/content/help/en/analytics/components/segmentation/segmentation-workflow/seg-build.html).
 1. No Construtor de segmentos, ative a opção **[!UICONTROL Publicar este segmento na Experience Cloud]**.
 
    ![](assets/ec_audience_example.png)

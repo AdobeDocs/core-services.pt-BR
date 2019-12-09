@@ -1,13 +1,13 @@
 ---
 description: Recursos, notas de versão e problemas conhecidos da interface da Experience Cloud.
-keywords: principais serviços
+keywords: core services
 seo-description: Recursos, notas de versão e problemas conhecidos da interface da Experience Cloud.
 seo-title: Notas de versão cumulativas
 solution: Experience Cloud
 title: Notas de versão cumulativas
 uuid: fcff8cc6-e587-4bf2-9a75-261d4eabc7d4
 translation-type: tm+mt
-source-git-commit: 75831abe44d04902691325add2338381754f98ec
+source-git-commit: ae97db27349940a8df7ee2ba6678683f57585678
 
 ---
 
@@ -18,7 +18,7 @@ Recursos, notas de versão e problemas conhecidos da interface da Experience Clo
 
 Para obter uma lista de atualizações de documentação, consulte [Experience Cloud](../doc-updates.md#concept_4C8983FCD23848A4B1E4C2D99ED82784).
 
-Para obter as notas de versão de todas as soluções, consulte [Notas de versão da Experience Cloud](https://marketing.adobe.com/resources/help/en_US/whatsnew/).
+Para obter as notas de versão de todas as soluções, consulte [Notas de versão da Experience Cloud](https://docs.adobe.com/content/help/en/release-notes/experience-cloud/current.html).
 
 ## Agosto - 2019
 
@@ -162,7 +162,7 @@ Nenhuma informação disponível
    <td colname="col1"> <p> </p> </td> 
    <td colname="col2"> <p>Os menus de navegação esquerdos foram atualizados e organizados para oferecer acesso a todos os serviços e soluções principais. As mudanças notáveis incluem: </p> 
     <ul id="ul_5BEBAB86B9234A239C4E2DAF8826D8E3"> 
-     <li id="li_7FA9F64CE69144B8A8A92746BF40E5A1">O <span class="term">Biblioteca de público-alvo</span> e <span class="term">Atributos do cliente</span> agora estão localizadas em <span class="term">Públicos-alvo</span>. </li> 
+     <li id="li_7FA9F64CE69144B8A8A92746BF40E5A1">As seleções de menu <span class="term">Biblioteca de público-alvo</span> e <span class="term">Atributos do cliente</span> agora estão localizadas em <span class="term">Públicos-alvo</span>. </li> 
      <li id="li_95D62A43AE6243DBB2A65EDB830D05C4">A seleção de menu <span class="term">Exchage </span>foi movida do menu suspenso Ajuda para o painel de navegação esquerdo. </li> 
      <li id="li_0443FD50C78446CD8AA27A4F272CAD31"> As <span class="term">soluções</span> do foram removidas. Agora, é possível iniciar todas as soluções na metade inferior do painel de navegação. </li> 
     </ul> </td> 
@@ -171,7 +171,7 @@ Nenhuma informação disponível
 </table>
 
 * Correção de um problema que impedia a sincronização dos atributos do cliente para alguns clientes.
-* Correção de um problema que impedia a exibição da página [Documentação do produto do Adobe Target](https://marketing.adobe.com/resources/help/ja_JP/target/a4t/) em japonês.
+* Correção de um problema que impedia a exibição da página [Documentação do produto do Adobe Target](https://docs.adobe.com/content/help/en/target/using/integrate/a4t/a4t.html) em japonês.
 * Foi corrigido um problema que impedia o uso do texto em japonês nos comentários entre a [!DNL Creative Cloud] e a [!DNL Experience Cloud].
 
 ## Versão 15.4.1 - 8 de abril de 2015 {#section_75634120CC934B3381EDEA7F6F976F0A}
@@ -355,7 +355,7 @@ Novos recursos e correções na colaboração e interface de compartilhamento da
 
 **Correções e melhorias**
 
-* Ao entrar no [!DNL marketing.adobe.com], você verá que a experiência de logon agora é compatível com o logon Creative Cloud da Adobe.
+* Ao entrar no [!DNL experiencecloud.adobe.com], você verá que a experiência de logon agora é compatível com o logon Creative Cloud da Adobe.
 * Na página Gerenciar organizações, a experiência de vinculação (após um convite ser recebido) agora é compatível com cada solução.
 
 **Problemas conhecidos**

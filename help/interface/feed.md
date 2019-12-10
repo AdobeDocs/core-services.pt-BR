@@ -1,13 +1,13 @@
 ---
 description: Saiba como compartilhar ou publicar ativos e relatórios do Analytics diretamente com outros usando o feed da Experience Cloud.
-keywords: principais serviços
+keywords: core services
 seo-description: Saiba como compartilhar ou publicar ativos e relatórios do Adobe Analytics diretamente com outros usando o feed da Experience Cloud.
 seo-title: Feed
 solution: Experience Cloud
 title: Feed
 uuid: 7ff327d1-5a74-49fb-8c3c-729034818ebc
 translation-type: tm+mt
-source-git-commit: d39758702a37d16d6c4aeeb4f21863dcbc175523
+source-git-commit: ae97db27349940a8df7ee2ba6678683f57585678
 
 ---
 
@@ -40,7 +40,7 @@ Você pode compartilhar relatórios em [!UICONTROL Reports &amp; Analytics] no F
 
 1. [Faça logon](admin-getting-started/getting-started-experience-cloud.md#topic_AC564B6795334DE39359ADD87F52F2E0) na Experience Cloud usando a Adobe ID.
 
-1. Acesse Reports &amp; Analytics e [crie um projeto](https://marketing.adobe.com/resources/help/en_US/analytics/analysis-workspace/freeform_overview.html).
+1. Acesse Reports &amp; Analytics e [crie um projeto](https://docs.adobe.com/content/help/en/analytics/analyze/analysis-workspace/build-workspace-project/freeform-overview.html).
 
 1. Clique em **[!UICONTROL Mais]** &gt; **[!UICONTROL Compartilhar]**.
 

@@ -1,13 +1,13 @@
 ---
-description: O Audience Manager depende de alguns cookies simples para realizar diferentes funções.  Estes incluem coisas como a atribuição de Ids, a gravação de chamadas de dados, o rastreamento de erros e os testes para ver se os cookies podem ser definidos. Esta seção lista e descreve os diferentes cookies definidos pelo Audience Manager.
+description: O Audience Manager depende de alguns cookies simples para realizar diferentes funções.  Estes incluem coisas como a atribuição de Ids, a gravação de chamadas de dados, o rastreamento de erros e os testes para ver se os cookies podem ser definidos.  Esta seção lista e descreve os diferentes cookies definidos pelo Audience Manager.
 keywords: cookies
-seo-description: O Audience Manager depende de alguns cookies simples para realizar diferentes funções.  Estes incluem coisas como a atribuição de Ids, a gravação de chamadas de dados, o rastreamento de erros e os testes para ver se os cookies podem ser definidos.  Esta seção lista e descreve os diferentes cookies definidos pelo Audience Manager.
+seo-description: ' O Audience Manager depende de alguns cookies simples para realizar diferentes funções.  Estes incluem coisas como a atribuição de Ids, a gravação de chamadas de dados, o rastreamento de erros e os testes para ver se os cookies podem ser definidos.  Esta seção lista e descreve os diferentes cookies definidos pelo Audience Manager.'
 seo-title: Cookies do Audience Manager
-solution: Experience Cloud,Audience Manager
+solution: Marketing Cloud,Audience Manager
 title: Cookies do Audience Manager
 uuid: 8b384c38-b85a-4e93-b00e-41a9d3ae2b21
 translation-type: tm+mt
-source-git-commit: 012283d79bda42f9dabb20b25903927b075f6d54
+source-git-commit: ae97db27349940a8df7ee2ba6678683f57585678
 
 ---
 
@@ -32,7 +32,7 @@ O Audience Manager depende de alguns cookies simples para realizar diferentes fu
   </tr> 
   <tr> 
    <td colname="col1"> <p> <b>Conteúdo</b> </p> </td> 
-   <td colname="col2"> <p>O cookie <span class="wintitle">demdex</span> contém uma ID de usuário exclusiva (UUID), conforme mostrado no exemplo abaixo: </p> <p> <span class="codeph"> 06151304227769720433039235178204449977 </span> </p> <p>Consulte também <a href="https://marketing.adobe.com/resources/help/en_US/aam/ids-in-aam.html" format="https" scope="external">Índice de IDs no Audience Manager </a>. </p> </td> 
+   <td colname="col2"> <p>O cookie <span class="wintitle">demdex</span> contém uma ID de usuário exclusiva (UUID), conforme mostrado no exemplo abaixo: </p> <p> <span class="codeph"> 06151304227769720433039235178204449977 </span> </p> <p>Consulte também <a href="https://docs.adobe.com/content/help/en/audience-manager/user-guide/reference/ids-in-aam.html" format="https" scope="external">Índice de IDs no Audience Manager </a>. </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p> <b>Outros atributos</b> </p> </td> 
@@ -125,7 +125,7 @@ A tabela a seguir lista e define os elementos de um cookie [!DNL dextp] por loca
  <tbody> 
   <tr> 
    <td colname="col1"> <p> <b>Propósito</b> </p> </td> 
-   <td colname="col2"> <p> O <span class="keyword">Audience Manager</span> define este cookie quando ocorre um erro ao enviar dados para um <a href="https://marketing.adobe.com/resources/help/en_US/aam/c_destinations.html" format="https" scope="external">destino </a>. </p> </td> 
+   <td colname="col2"> <p> O <span class="keyword">Audience Manager</span> define este cookie quando ocorre um erro ao enviar dados para um <a href="https://docs.adobe.com/content/help/en/audience-manager/user-guide/features/destinations/destinations.html#purposes" format="https" scope="external">destino </a>. </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p> <b>Conteúdo</b> </p> </td> 

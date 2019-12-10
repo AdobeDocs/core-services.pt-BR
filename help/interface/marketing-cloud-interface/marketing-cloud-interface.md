@@ -1,13 +1,13 @@
 ---
 description: Uma visão geral de novos recursos e atualizações na Experience Cloud.
-keywords: principais serviços
+keywords: core services
 seo-description: Uma visão geral de novos recursos e atualizações na Experience Cloud.
 seo-title: Novidades da Experience Cloud
 solution: Experience Cloud
 title: Novidades da Experience Cloud
 uuid: bc1b1542-1a37-4da1-bcfd-fc86af881642
 translation-type: tm+mt
-source-git-commit: af5339fe58ce884345804574c209907d6504a483
+source-git-commit: ae97db27349940a8df7ee2ba6678683f57585678
 
 ---
 
@@ -31,7 +31,7 @@ Correções e aprimoramentos para julho de 2018.
 
 * Implantação de um recurso de back-end para controlar o compartilhamento de ativos entre a Experience Cloud e o AEM e entre a Experience Cloud e a Creative Cloud. (CORE-14386)
 * Correção de um problema que bloqueava o provisionamento de novos locatários em alguns ambientes. (CORE-15509)
-* Correção de um problema que redirecionava usuários para [!DNL marketing.adobe.com] ao acessarem [!DNL experiencecloud.adobe.com] por meio de [!DNL http] em vez de [!DNL https] (seguro). (CORE-15587)
+* Correção de um problema que redirecionava usuários para [!DNL experiencecloud.adobe.com] ao acessarem [!DNL experiencecloud.adobe.com] por meio de [!DNL http] em vez de [!DNL https] (seguro). (CORE-15587)
 * Correção de um problema que bloqueava as notificações para alguns locatários novos. (CORE-15240)
 
 ## 14 de junho de 2018 {#section_7ABC327992CB46B0B8E4A631B8B68899}
@@ -67,7 +67,7 @@ Diversas notificações de manutenção sobre manutenções/atualizações de pr
 |--- |--- |
 | Notificações - Configurações granulares | É possível habilitar notificações sobre atividades e eventos de soluções e produtos e de atividades de upload de [Atributos de clientes](../attributes/attributes.md). |
 | Notificações - Notificações de manutenção | Nas configurações de Notificações, você pode habilitar notificações de manutenção para produtos e soluções. |
-| Admin Console para Soluções da Experience Cloud | Os novos clientes da Experience Cloud podem começar a usar o Admin Console, um local central para gerenciar seus direitos da Adobe em toda a organização.<br>A migração para o Admin Console no gerenciamento de usuários acontecerá em etapas. A Adobe entrará em contato com você (administradores do sistema) quando chegar o momento de migrar.<br>Para administradores do Analytics, consulte [Migração do Analytics](https://marketing.adobe.com/resources/help/en_US/experience-cloud/admin-console/analytics-migration/). |
+| Admin Console para Soluções da Experience Cloud | Os novos clientes da Experience Cloud podem começar a usar o Admin Console, um local central para gerenciar seus direitos da Adobe em toda a organização.<br>A migração para o Admin Console no gerenciamento de usuários acontecerá em etapas. A Adobe entrará em contato com você (administradores do sistema) quando chegar o momento de migrar.<br>Para administradores do Analytics, consulte [Migração do Analytics](https://docs.adobe.com/content/help/en/analytics/admin/user-product-management/user-management/migrate-users/c-migration-tool.html). |
 
 ## 22 de maio de 2017 {#section_242FE649FA1B4BFA88EC6E353D175ACC}
 

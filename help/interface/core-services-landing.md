@@ -6,7 +6,7 @@ solution: Experience Cloud
 title: Sobre os principais serviços
 uuid: 0a8542de-8d89-43dc-b9ad-e27bdf4356f6
 translation-type: tm+mt
-source-git-commit: d72dde29049ed75f497cb70f0d1b1f077f0712fa
+source-git-commit: ae97db27349940a8df7ee2ba6678683f57585678
 
 ---
 
@@ -26,5 +26,5 @@ A Adobe Experience Platform centraliza e padroniza dados e conteúdos em toda a 
 | [Exchange](https://experiencecloud.adobeexchange.com/) | Amplie a funcionalidade da Adobe Experience Cloud com o que há de melhor em extensões, scripts e muito mais. Explore com a barra de pesquisa ou classifique por tipo de produto ou aplicativo. |
 | [Launch](activation/activation.md) | A coleta de dados e a ativação de tecnologia para sites e aplicativos. O serviço inclui:<ul><li>Experience Platform Launch (a solução de gerenciamento de tags mais atual)</li><li>Dynamic Tag Management</li><li>Triggers</li></ul> |
 | [Feed](feed.md) | **O Feed da Experience Cloud não será mais suportado a partir de 1 de novembro de 2019 e será substituído até dezembro de 2019.** Compartilhe ou publique ativos e relatórios do Analytics diretamente com outras pessoas usando o feed da Experience Cloud. |
-| [Mobile Services](https://marketing.adobe.com/resources/help/en_US/mobile/) | O Mobile Services reúne recursos de marketing móvel para aplicativos móveis em toda a Adobe Experience Cloud, isso permite que você entenda e aprimore a participação do usuário com seus aplicativos móveis. |
+| [Mobile Services](https://docs.adobe.com/content/help/en/mobile-services/using/home.html) | O Mobile Services reúne recursos de marketing móvel para aplicativos móveis em toda a Adobe Experience Cloud, isso permite que você entenda e aprimore a participação do usuário com seus aplicativos móveis. |
 | [Pessoas](audience-library/audience-library.md) | Na Biblioteca de público-alvo, você pode criar públicos-alvo, combinar públicos-alvo existentes para criar públicos-alvo compostos e exibir todos os públicos-alvo compartilhados.<br>Em Atributos do cliente, você também pode fazer upload dos dados do cliente corporativo para a Experience Cloud. |

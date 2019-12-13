@@ -5,7 +5,7 @@ seo-title: Cookies da Advertising Cloud
 title: Cookies da Advertising Cloud
 uuid: 2eec48a3-3e81-488e-8e30-5fd62885de0b
 translation-type: tm+mt
-source-git-commit: 012283d79bda42f9dabb20b25903927b075f6d54
+source-git-commit: d7d1a659bbdbc7a4221243d88410492351ab9055
 
 ---
 
@@ -13,39 +13,6 @@ source-git-commit: 012283d79bda42f9dabb20b25903927b075f6d54
 # Cookies da Advertising Cloud {#advertising-cloud-cookies}
 
 A Advertising Cloud usa cookies para mapear eventos de envolvimento de anúncios a eventos de conversão e, possivelmente, para usar essas informações para otimizar ofertas de anúncios.
-
-## Nome do cookie: id_adcloud
-
-<table id="id_adcloud"> 
-<thead> 
-<tr> 
-<th colname="col1" class="entry"> Atributo </th> 
-<th colname="col2" class="entry"> Descrição </th> 
-</tr> 
-</thead>
-<tbody> 
-<tr> 
-<td colname="col1"> <p>Informações armazenadas </p> </td> 
-<td colname="col2"> <p>A ID do surfer </p> </td> 
-</tr> 
-<tr> 
-<td colname="col1"> <p>Expiração </p> </td> 
-<td colname="col2"> <p>91 dias </p> </td> 
-</tr> 
-<tr> 
-<td colname="col1"> <p>Uso </p> </td> 
-<td colname="col2"> <p>O cookie é definido no domínio próprio, mas ainda não é usado </p> </td> 
-</tr> 
-<tr> 
-<td colname="col1"> <p>Localização </p> </td> 
-<td colname="col2"> <p>O domínio de nível superior do anunciante (como example.com) </p> </td> 
-</tr> 
-<tr> 
-<td colname="col1"> <p>Tamanho </p> </td> 
-<td colname="col2"> <p>16 bytes </p> </td> 
-</tr> 
-</tbody> 
-</table>
 
 ## Nome do cookie: _lcc
 
@@ -125,7 +92,7 @@ A Advertising Cloud usa cookies para mapear eventos de envolvimento de anúncios
  <tbody> 
   <tr> 
    <td colname="col1"> <p>Informações armazenadas </p> </td> 
-   <td colname="col2"> <p>A ID do surfer, os carimbos de data e hora da última visita ao site do anunciante e o último clique de pesquisa do surfer e a ef_id criada quando o usuário clicou em um anúncio</p> </td> 
+   <td colname="col2"> <p>Os carimbos de data e hora da última visita do surfista ao site do anunciante e o último clique de pesquisa do surfista e a ef_id que foi criada quando o usuário clicou em um anúncio</p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p>Expiração </p> </td> 

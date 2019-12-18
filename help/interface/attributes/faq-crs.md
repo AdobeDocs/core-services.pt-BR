@@ -1,13 +1,13 @@
 ---
 description: Perguntas frequentes e práticas recomendadas para atributos do cliente no Analytics e no Target.
-keywords: atributos do cliente
+keywords: customer attributes
 seo-description: Perguntas frequentes e práticas recomendadas para atributos do cliente no Analytics e no Target.
 seo-title: Perguntas frequentes, limitações e práticas recomendadas
 solution: Experience Cloud
 title: Perguntas frequentes, limitações e práticas recomendadas
 uuid: e93eb531-23c7-4d75-92e8-75699f58546a
 translation-type: tm+mt
-source-git-commit: b8363f024a09e07d26f6c0d0255e2675f7ef1a9a
+source-git-commit: 7c487fa88723b6aaa2f5ba1555299dbc4c818098
 
 ---
 
@@ -24,6 +24,7 @@ Orientações e limitações ao usar os Atributos do cliente.
 | Problema | Descrição |
 |--- |--- |
 | Limitações de assinatura de atributo do cliente | Quando você atualiza para o Analytics Premium, há um atraso de 24 horas antes de os atributos adicionais estarem disponibilizados. Você pode observar um erro Máximo de assinatura de atributo emitido durante esse atraso. |
+| Limitação diária de carregamento de frequência | A prática recomendada é não atualizar os atributos do cliente mais de uma vez por dia. A Adobe recomenda que você aguarde pelo menos 24 horas para carregar outro arquivo de dados de perfil do cliente (para o mesmo conjunto de perfis). |
 | Analytics ID personalizada (s.visitorID) | Configurar uma ID do cliente usando s.visitorID é um método para identificar usuários no Analytics. No entanto, as integrações em que os dados do Analytics são exportados ou importados usando o serviço de ID não funcionam quando um visitante é identificado usando s.visitorID.<br>Isso inclui, mas não está limitado a, públicos-alvo compartilhados, Analytics for Target (A4T) e atributos do cliente.<br>Para essas integrações, não há suporte para uma ID personalizada do Analytics. |
 | Limitações de caracteres no Analytics | Ao criar uma assinatura do Analytics, o tamanho do campo dos arquivos enviados por upload é truncado até 255. |
 

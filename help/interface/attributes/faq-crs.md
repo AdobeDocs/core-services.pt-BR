@@ -7,7 +7,7 @@ solution: Experience Cloud
 title: Perguntas frequentes, limitações e práticas recomendadas
 uuid: e93eb531-23c7-4d75-92e8-75699f58546a
 translation-type: tm+mt
-source-git-commit: d978c3bdd5a2632787f58339a9554cd8ffa2ec11
+source-git-commit: 12c3ac8bfa64b7c8708312576ac6dc4036c1b7d8
 
 ---
 
@@ -23,8 +23,9 @@ Orientações e limitações ao usar os Atributos do cliente.
 | Problema | Descrição |
 |--- |--- |
 | Limitações de assinatura de atributo do cliente | Quando você atualiza para o Analytics Premium, há um atraso de 24 horas antes de os atributos adicionais estarem disponibilizados. Você pode observar um erro Máximo de assinatura de atributo emitido durante esse atraso. |
+| Vários logons no mesmo dispositivo | Ao usar os atributos do cliente para fazer upload dos perfis do cliente em uma fonte de dados, a Adobe recomenda que os usuários compartilhem o mesmo dispositivo (ou seja, a mesma Experience Cloud ID). Isso pode fazer com que o serviço ECID, que persiste no dispositivo, vincule vários usuários na mesma Experience Cloud ID, resultando em resultados inesperados [!DNL Target]. **** Observação: Para o Mobile, o ECID é permanente depois que o aplicativo Mobile é instalado e você deve reinstalar o aplicativo para gerar um novo ECID. Para Web, um novo ECID é gerado depois que o cookie do navegador é limpo. |
 | Limitação diária de carregamento de frequência | A Adobe recomenda que você atualize os atributos do cliente apenas uma vez por dia. Aguarde pelo menos 24 horas para carregar outro arquivo de dados de perfil do cliente para o mesmo conjunto de perfis. |
-| Analytics ID personalizada (s.visitorID) | Configurar uma ID do cliente usando s.visitorID é um método para identificar usuários no Analytics. No entanto, as integrações em que os dados do Analytics são exportados ou importados usando o serviço de ID não funcionam quando um visitante é identificado usando s.visitorID.<br>Isso inclui, mas não está limitado a, públicos-alvo compartilhados, Analytics for Target (A4T) e atributos do cliente.<br>Para essas integrações, não há suporte para uma ID personalizada do Analytics. |
+| Custom Analytics ID (`s.visitorID`) | Definir uma ID do cliente usando `s.visitorID` é um método para identificar usuários no Analytics. No entanto, as integrações nas quais os dados do Analytics são exportados ou importados usando o Serviço de ID não funcionarão quando um visitante for identificado usando `s.visitorID.`<br>Isso inclui, mas não está limitado a, públicos-alvo compartilhados, Analytics for Target (A4T) e Atributos do cliente.<br>Para essas integrações, não há suporte para uma ID personalizada do Analytics. |
 | Limitações de caracteres no Analytics | Ao criar uma assinatura do Analytics, o tamanho do campo dos arquivos enviados por upload é truncado até 255. |
 
 ## Perguntas frequentes sobre atributos do cliente {#section_E47866EEA83348E09FE43CEC5E44C461}

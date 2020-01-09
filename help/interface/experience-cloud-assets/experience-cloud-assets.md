@@ -6,7 +6,7 @@ solution: Experience Cloud
 title: Assets
 uuid: 97a849ec-1555-4630-9416-2ab484373f5c
 translation-type: tm+mt
-source-git-commit: 4eb9f90cf44eb5cc9c6d3898a32c5415f82b8030
+source-git-commit: aea2e2b787f4d50b5f3666fd42a4c2b3f8fdeaa0
 
 ---
 
@@ -71,23 +71,23 @@ Você pode pesquisar por palavras-chave, tipo de arquivo, tamanho, última modif
 
 ## Anotar ativos {#section_67FE1DFAAB744DA5B1CD3AD3CCEABF7A}
 
-Clique em **[!UICONTROL Anotar]** ao desenhar círculos ou setas em uma imagem, e anotar o ativo para análise pelos colegas de trabalho.
+Clique em **[!UICONTROL Anotar]**ao desenhar círculos ou setas em uma imagem, e anotar o ativo para análise pelos colegas de trabalho.
 
 ![](assets/assets-annotate.png)
 
-## Compartilhar um ativo no seu feed {#section_2CD53A99600D4A3D9AA82C3CDA666E6B}
+<!-- ## Share an asset to your feed {#section_2CD53A99600D4A3D9AA82C3CDA666E6B}
 
-**O Feed da Experience Cloud não será mais suportado a partir de 1 de novembro de 2019 e será substituído até dezembro de 2019.**
+**Experience Cloud Feed will no longer be supported starting Nov 01, 2019 and shall be deprecated by Dec, 2019.**
 
-Clique em **[!UICONTROL Compartilhar]** na barra de ferramentas para compartilhar o ativo como [feed](../feed.md#concept_9256B8768A294009A777282DD8719213) para outros usuários da Experience Cloud.
+Click **[!UICONTROL Share]** from the toolbar to share the asset as [feed](../feed.md#concept_9256B8768A294009A777282DD8719213) to other Experience Cloud users. 
 
-![](assets/assets-share-card.png)
+![](assets/assets-share-card.png) 
 
-O compartilhamento exibe a imagem na página do Feed e com qualquer pessoa com a qual você compartilhou o cartão.
+Sharing displays the image on your Feed page and with whomever you have shared the card.  -->
 
 ## Exibir ativos de tela inteira e utilizar o zoom {#section_A9F50D7D6BE341A2AB8244A4E42A4EF7}
 
-Clique em **[!UICONTROL Visualizações]** &gt; **[!UICONTROL Imagem]** para exibir a imagem de ativo completa e ativar o zoom.
+Clique em **[!UICONTROL Exibições]**>**[!UICONTROL  Imagem]** para exibir a imagem de ativo completa e ativar o zoom.
 
 ![](assets/asset-zoom.png)
 
@@ -95,7 +95,7 @@ Clique em **[!UICONTROL Visualizações]** &gt; **[!UICONTROL Imagem]** para exi
 
 Escolha entre exibição de cartão com propriedades, de lista e de coluna para encontrar os ativos de forma mais fácil.
 
-Clique em **[!UICONTROL Exibições]** &gt; **[!UICONTROL Propriedades]** para exibir as propriedades de um ativo:
+Clique em **[!UICONTROL Visualizações]**>**[!UICONTROL  Propriedades]** para exibir as propriedades de um ativo:
 
 ![](assets/asset-properties.png)
 
@@ -103,6 +103,6 @@ Clique em **[!UICONTROL Exibições]** &gt; **[!UICONTROL Propriedades]** para e
 
 Consulte a quantidade de usuários, armazenamento usado e total de ativos.
 
-Clique em **[!UICONTROL Ferramentas]** &gt; **[!UICONTROL Relatórios]** &gt; **[!UICONTROL Relatório de uso]**
+Clique em **[!UICONTROL Ferramentas]**>**[!UICONTROL  Relatórios]** > **[!UICONTROL Relatório de uso]**
 
 ![](assets/assets-usage-report.png)

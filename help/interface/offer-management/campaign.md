@@ -8,7 +8,7 @@ index: y
 internal: n
 snippet: y
 translation-type: tm+mt
-source-git-commit: 2f0c2eb70313c42da9e7ac1d75429ec768dea10d
+source-git-commit: a0e0b51d731343d5cd4226ab29d917aca63317c2
 
 ---
 
@@ -109,7 +109,7 @@ Insira uma atividade de oferta em qualquer imagem ou bloco de texto em um modelo
 * **** Verificação de posicionamento: Todas as ofertas devem ter uma representação de conteúdo que corresponda à disposição selecionada como parte da atividade da oferta. Se uma disposição para uma oferta for excluída entre o tempo de criação da atividade e o tempo de preparação (se o tempo for superior a três minutos), essa oferta não será considerada.
 * **** Verificação de data: Todas as ofertas devem ser válidas para a data atual (esta _não_ é a data de envio da oferta). A data em que você prepara a campanha por email é a data que determina qual oferta deve ser disponibilizada. Por exemplo, se você preparar uma campanha por email em 15/01/17 e uma das ofertas selecionadas não for válida até 16/17/17, a oferta não será atendida.
 
-* **** Verificação da regra de qualificação: Todas as ofertas devem atender às regras [de](offers.md#task_6C4AE487377D424FA133ACCA6AF741D4)elegibilidade.
+* **** Verificação da regra de qualificação: Todas as ofertas devem atender às regras [de](offers.md)elegibilidade.
 
 * **** Verificação de prioridade: Se um usuário estiver qualificado para várias ofertas, o Gerenciamento [!UICONTROL de] ofertas usará a prioridade definida pelo usuário para determinar qual oferta mostrar a cada usuário.
 

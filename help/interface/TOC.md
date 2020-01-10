@@ -4,7 +4,7 @@ user-guide-title: Core Services User Guide
 user-guide-url: https://www.adobe.com
 index: true
 translation-type: tm+mt
-source-git-commit: aea2e2b787f4d50b5f3666fd42a4c2b3f8fdeaa0
+source-git-commit: a5978f89b6a0b877bbc5a248bf8b68d03aa51127
 
 ---
 
@@ -68,6 +68,13 @@ source-git-commit: aea2e2b787f4d50b5f3666fd42a4c2b3f8fdeaa0
    + [Configurar assinaturas](attributes/subscription.md)
    + [Atualizar o esquema](attributes/t-update-schema.md)
    + [Considerações de privacidade - Atributos do cliente](attributes/privacy-mac.md)
++ Gerenciamento de ofertas {#offer-management}
+   + [Introdução ao Gerenciamento de ofertas](offer-management/getting-started.md)
+   + [Fluxo de trabalho do Gerenciamento de ofertas](offer-management/offer-management-workflow.md)
+   + [Ofertas](offer-management/offers.md)
+   + [Rótulos](offer-management/labels.md)
+   + [Disposições](offer-management/placements.md)
+   + [Campaign](offer-management/campaign.md)
 + Notas de versão da Experience Cloud {#release-notes}
    + [Novidades da Experience Cloud](https://docs.adobe.com/content/help/en/release-notes/experience-cloud/current.html)
    + [Notas de versão cumulativas](marketing-cloud-interface/release-notes.md)

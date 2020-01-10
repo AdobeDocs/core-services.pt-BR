@@ -71,7 +71,7 @@ Crie uma oferta para adicionar ao inventário da oferta.
   </tr> 
   <tr> 
    <td colname="col1"> <p>Limite máximo por usuário </p> </td> 
-   <td colname="col2"> <p>O número máximo de vezes que uma oferta pode ser proposta a um determinado usuário. </p> <p>Observação:  O número de vezes que uma oferta é proposta a um determinado usuário é calculado no momento da preparação do email. Por exemplo, se você preparar um email com várias ofertas, esses números serão contados para o limite máximo por usuário, independentemente de o email ser enviado ou não.</p> </td> 
+   <td colname="col2"> <p>O número máximo de vezes que uma oferta pode ser proposta a um determinado usuário. </p> <p>Observação:  O número de vezes que uma oferta é proposta a um determinado usuário é calculado no momento da preparação do email. Por exemplo, se você preparar um email com várias ofertas, esses números serão contados para o limite máximo por usuário, independentemente de o email ser enviado ou não.</p> </td>
   </tr> 
   <tr> 
    <td colname="col1"> <p>Rótulos </p> </td> 

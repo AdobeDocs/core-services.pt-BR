@@ -7,7 +7,7 @@ solution: Experience Cloud
 title: Perguntas frequentes, limitações e práticas recomendadas
 uuid: e93eb531-23c7-4d75-92e8-75699f58546a
 translation-type: tm+mt
-source-git-commit: 12c3ac8bfa64b7c8708312576ac6dc4036c1b7d8
+source-git-commit: f89a6c6704c9f499e6aa2ab38b2f5f9496ccdda5
 
 ---
 
@@ -105,6 +105,11 @@ Orientações e limitações ao usar os Atributos do cliente.
   <tr> 
    <td colname="col1"> <p> <b> (Somente para Target)</b> É possível direcionar os dados enviados em atributos do cliente imediatamente depois que o visitante é identificado pela ID do cliente? </p> </td> 
    <td colname="col2"> <p>Sim. </p> <p>Na chamada de servidor do Target, que inclui a ID de terceiros da mbox, todos os dados de atributos do cliente estarão disponíveis. </p> </td> 
+  </tr> 
+    <tr> 
+   <td colname="col1"> <p> <b> (Somente Target)</b> O que a coluna "Status de sincronização" representa para os arquivos carregados na Fonte de atributo do cliente? </p> </td> 
+   <td colname="col2"> <p> O número de registros publicados e sincronizados pelo Target pode ser visualizado clicando-se no ícone Sincronizar status em relação a um arquivo de atributo específico. "Sincronizar %" é uma métrica em tempo real que especifica a % de perfis que foram sincronizados no Target. </p> <p> <b></b> Observação: Pode levar até 24 horas para que os atributos sejam sincronizados com o Target. </p>
+ </td> 
   </tr> 
  </tbody> 
 </table>

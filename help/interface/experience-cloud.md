@@ -7,7 +7,7 @@ solution: Adobe Experience Cloud
 title: Ajuda da Experience Cloud e principais serviços
 uuid: aec6f689-e617-4876-ae6c-e961cfcb991a
 translation-type: tm+mt
-source-git-commit: aea2e2b787f4d50b5f3666fd42a4c2b3f8fdeaa0
+source-git-commit: e2cfce353d4b1f21c08b7ddf76e491c6aeba03ba
 
 ---
 
@@ -20,12 +20,12 @@ Esta página fornece autoajuda, suporte e documentação técnica e de produto p
 
 ## O que você quer aprender?
 
+* [Documentação do produto para todas as soluções](https://docs.adobe.com/content/help/en/experience-cloud/user-guides/home.html) da Experience Cloud - Procurar ajuda na Aprendizagem e suporte da Experience Cloud
 * [Notas de versão e atualizações](https://docs.adobe.com/content/help/en/release-notes/experience-cloud/current.html) de produtos - Novidades na Experience Cloud e assinatura para obter atualizações
 * [Tutoriais para implementar os principais serviços](https://docs.adobe.com/content/help/en/core-services-learn/tutorials/overview.html) - Explore vídeos e tutoriais sobre os principais serviços
 * [Ajuda de especialistas na Experience League](https://landing.adobe.com/experience-league/) - Obtenha um aprendizado orientado de especialistas e da comunidade
 * [Educação e treinamento](https://helpx.adobe.com/learning.html?promoid=KAUDK) - participe com a Adobe para garantir que você obtenha o máximo de nossos produtos
 * [Blog](https://theblog.adobe.com/customer-experience/) da experiência do cliente - Ler o blog da Experience Cloud
-* [Documentação do produto para todas as soluções](https://docs.adobe.com/content/help/en/experience-cloud/user-guides/home.html) da Experience Cloud - Procurar ajuda na Aprendizagem e suporte da Experience Cloud
 * [Atendimento](https://helpx.adobe.com/contact/enterprise-support.ec.html) ao cliente - Entre em contato com o Atendimento ao cliente da Adobe
 
 ## Documentação do produto dos principais serviços

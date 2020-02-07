@@ -7,14 +7,14 @@ solution: Marketing Cloud
 title: Faça logon e gerencie as configurações do seu perfil
 uuid: c1e13b99-0069-4fdb-8d72-ddcec3ed1121
 translation-type: tm+mt
-source-git-commit: ae97db27349940a8df7ee2ba6678683f57585678
+source-git-commit: 02b0163b95c24eb58bf2379c3e0d9f5f31c40925
 
 ---
 
 
 # Faça logon e gerencie as configurações do seu perfil
 
-Fazer logon na Experience Cloud (em vez de fazer logon em uma só solução) permite o logon único em todas as soluções e principais serviços que você possui. Saiba mais sobre como fazer logon na Experience Cloud, gerenciar senhas e notificações, e especificar uma página de aterrissagem padrão.
+Fazer logon na Experience Cloud (em vez de fazer logon em uma única solução) permite o logon único em todas as soluções e serviços que você possui. Saiba mais sobre como fazer logon na Experience Cloud, gerenciar senhas e notificações, e especificar uma página de aterrissagem padrão.
 
 <!-- t_sign_in.xml -->
 

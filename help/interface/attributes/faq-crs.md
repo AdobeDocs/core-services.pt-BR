@@ -7,7 +7,7 @@ solution: Experience Cloud
 title: Perguntas frequentes, limitações e práticas recomendadas
 uuid: e93eb531-23c7-4d75-92e8-75699f58546a
 translation-type: tm+mt
-source-git-commit: f89a6c6704c9f499e6aa2ab38b2f5f9496ccdda5
+source-git-commit: e5bc3afea458d85421ab86ae87a65ebe4e88bb75
 
 ---
 
@@ -71,7 +71,7 @@ Orientações e limitações ao usar os Atributos do cliente.
      <ul id="ul_9C473434B5DA4C6299AAB209DEDFCDE7"> 
       <li id="li_8BC10EB2825F4ADF8CA61F71D4994A28"> <b>Adobe Analytics</b>: recomendado </li> 
       <li id="li_56F518E3F3DF4C93B6F7EF3B40ACC52F"> <b>Adobe Target:</b> obrigatório. </li> 
-     </ul> </p> <p>Usar o serviço da ID melhora a funcionalidade e abre as portas para usar a funcionalidade mais recente da Experience Cloud, incluindo públicos-alvo em tempo real, a modernização do Target, a integração do Analytics e o rastreamento de heartbeat de vídeo. </p> <p>Para obter mais detalhes, consulte <a href="../core-services/core-services.md#concept_07ED1D5C64234E77976E6D572E78FB9C" format="dita" scope="local">Principais serviços - Ativação das soluções</a>. </p> <p> <b>Observação</b>: O serviço da <span class="term">Experience Cloud ID</span> é a implementação modernizada do que era conhecido como o <span class="term"> serviço de ID de visitante do Analytics</span>. </p> </td> 
+     </ul> </p> <p>Usar o serviço da ID melhora a funcionalidade e abre as portas para usar a funcionalidade mais recente da Experience Cloud, incluindo públicos-alvo em tempo real, a modernização do Target, a integração do Analytics e o rastreamento de heartbeat de vídeo. </p> <p>Para obter mais detalhes, consulte <a href="../core-services/core-services.md#concept_07ED1D5C64234E77976E6D572E78FB9C" format="dita" scope="local">Principais serviços - Ativação das soluções</a>. </p> <p> <b>Observação</b>: O Serviço <span class="term"> da Experience Cloud ID é a implementação modernizada do serviço</span> de ID de visitante do <span class="term"></span>Analytics. </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p>Como a funcionalidade do atributo do cliente está relacionada ao Adobe Audience Manager? </p> </td> 
@@ -111,5 +111,17 @@ Orientações e limitações ao usar os Atributos do cliente.
    <td colname="col2"> <p> O número de registros publicados e sincronizados pelo Target pode ser visualizado clicando-se no ícone Sincronizar status em relação a um arquivo de atributo específico. "Sincronizar %" é uma métrica em tempo real que especifica a % de perfis que foram sincronizados no Target. </p> <p> <b></b> Observação: Pode levar até 24 horas para que os atributos sejam sincronizados com o Target. </p>
  </td> 
   </tr> 
- </tbody> 
+<tr>
+	<td colname="col1"> <p> O que as métricas de upload de arquivo representam na Fonte de atributos do cliente? </p> </td>
+	<td colname="col2"> <p> Você pode verificar o status dos atributos carregados nos Atributos do cliente com a ajuda das seguintes métricas: </p>
+		<ul>
+			<li> <b> Registros: </b> Número de registros no arquivo de atributos. </li>
+			<li> <b> Novos registros: </b> Número de novos registros presentes no arquivo de atributos. </li>
+			<li> <b> Registros atualizados: </b> Número de registros que já existem em Atributos do cliente com valores atualizados no arquivo. </li>
+			<li> <b> Todos os dados (registros): </b> Número total de registros carregados com êxito em Atributos do cliente. </li>
+		</ul>
+	</td>
+</tr>
+
+</tbody> 
 </table>

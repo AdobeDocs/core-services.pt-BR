@@ -1,0 +1,88 @@
+---
+description: Saiba mais sobre a Ferramenta de administração da Experience Cloud para exibir uma lista classificável e filtrável de todos os usuários da Experience Cloud.
+keywords: core services
+seo-description: Saiba mais sobre a Ferramenta de administração da Experience Cloud para exibir uma lista classificável e filtrável de todos os usuários da Experience Cloud.
+seo-title: Exibir usuários e detalhes do usuário da Experience Cloud
+solution: Experience Cloud
+title: 'Exibir usuários e detalhes do usuário da Experience Cloud '
+translation-type: tm+mt
+source-git-commit: 3595229c176bf4999ed149377adfeb55efc80071
+
+---
+
+
+# Ferramenta de administração da Experience Cloud
+
+A ferramenta administrativa da Experience Cloud permite que os administradores visualizem uma lista classificável e filtrável de todos os usuários da Experience Cloud. Cada página de detalhes do usuário contém detalhes importantes sobre o acesso ao produto, as funções e as últimas informações acessadas de um usuário. 
+
+1. Log in to <https://experience.adobe.com/>.
+
+   ![](assets/admin-tool.png)
+
+1. Na página inicial da Experience Cloud, clique em **[!UICONTROL Admin Tool.]** (Como alternativa, no URL da página inicial, você pode substituir o _home_ pelo _admin._)
+
+   A página [!UICONTROL Usuários] é exibida.
+
+## Página Usuários
+
+Esta página exibe uma lista completa de usuários com acesso à Experience Cloud em sua organização. Ele fornece informações sobre o direito e o último logon da solução. Você pode pesquisar, classificar e filtrar por exibições personalizadas da lista de usuários.
+
+![](assets/admin-tool-users.png)
+
+| Elemento | Descrição |
+|---|---|
+| [!UICONTROL Nome] | O primeiro e o sobrenome do usuário. É possível classificar essa coluna de A a Z e Z a A.  Clique no nome de um usuário para ver mais detalhes sobre ele. |
+| [!UICONTROL Email] | O endereço de email associado ao usuário. A coluna pode ser classificada como A->Z, Z->A. |
+| [!UICONTROL Tipo de ID] | O tipo de identidade da conta do usuário. O filtro pode ser aplicado para exibir tipos de ID específicos. Consulte [Gerenciar tipos](https://helpx.adobe.com/enterprise/using/identity.html) de identidade para obter mais informações. |
+| [!UICONTROL Soluções] | Resumo das soluções da Experience Cloud que o usuário pode acessar. Você pode aplicar filtros para restringir a lista de usuários com acesso específico à solução. |
+| [!UICONTROL Último logon] | Hora e data do logon mais recente do usuário na Experience Cloud. Essa coluna pode ser classificada por datas ascendentes ou descendentes. <br> **** Importante: Os últimos dados de logon não são preservados por mais de 30 dias antes do valor da data, portanto os usuários podem parecer não ter nenhuma informação sobre o último logon. [!UICONTROL A partir de (DATA)] - os últimos dados de logon do usuário são mantidos por 365 dias. Você pode usar essas informações para exibir a atividade de logon atual na Experience Cloud, mas não para executar ações em contas inativas. Além disso, os usuários criados recentemente podem não ter um status de último logon. |
+
+## Personalizar a exibição da lista de usuários
+
+Você pode pesquisar, classificar ou filtrar as colunas para personalizar a lista de usuários.
+
+* Procure usuários por Nome ou Email. As pesquisas correspondem à string de texto digitada.
+* Classifique a coluna por valores ascendentes ou descendentes. Isso se aplica às colunas [!UICONTROL Nome,] [!UICONTROL Email e] Último logon  .
+* Clique no ícone **[!UICONTROL Filtrar por]** para aplicar vários filtros à lista de usuários com critérios específicos. Quando várias categorias de filtro são aplicadas, as pesquisas contêm a Solução `AND` de TIPO de ID de domínio de email `AND` .
+
+| Elemento | Descrição |
+|---------|----------|
+| [!UICONTROL Filtro de domínio] de email | Procure sequências de caracteres na coluna Email para restringir os resultados a um ou vários domínios. Adicionar vários filtros pressionando Enter após cada termo de pesquisa |
+| [!UICONTROL Tipo] de ID, filtro | Escolha dentre os Tipos de ID disponíveis. Vários tipos de ID podem ser usados como filtro. |
+| [!UICONTROL Filtro de solução] | Escolha entre as soluções disponíveis. Vários filtros de solução pesquisam resultados que contêm a Solução 1 `OR` Solução 2. |
+
+## Exibir detalhes do usuário
+
+Na página [!UICONTROL Usuários] , para exibir os detalhes do usuário, clique no email do usuário.
+
+![](assets/admin-tool-user-details.png)
+
+Uma exibição detalhada de cada usuário exibe detalhes importantes sobre o acesso à solução do usuário, as funções de administrador e de produto e as informações acessadas pela última vez.
+
+## Sobre a seção
+
+Esta seção exibe um resumo da conta de usuário incluindo:
+
+* Avatar do usuário e selo de administrador do sistema (se aplicável)
+* Nome
+* Email
+* Nome de usuário (contas Federated ID podem ter nomes de usuário diferentes do endereço de email)
+* [Tipo de ID](https://helpx.adobe.com/enterprise/using/identity.html)
+* País
+* Último logon
+
+## Resumo das soluções
+
+Esta seção exibe um resumo das soluções da Experience Cloud que o usuário pode acessar. Inclui a função administrativa do produto quando aplicável
+
+## Lista detalhada de acesso ao produto
+
+Esta seção exibe uma lista completa de todos os perfis de produto associados ao usuário.
+
+| Elemento | Descrição |
+|---------|----------|
+| [!UICONTROL Produto] | Nome do produto associado ao perfil do produto. |
+| [!UICONTROL Instância] | Nome da instância (como empresa de logon ou locatário) associada ao produto e ao perfil do produto. |
+| [!UICONTROL Perfil do produto] | Nome exclusivo do perfil de produto. |
+| [!UICONTROL Atribuído por grupo] | Nome do Grupo de usuários que associa o usuário a um perfil de produto. Os resultados em branco indicam que o usuário foi atribuído ao perfil do produto diretamente, não por meio de um grupo. |
+| [!UICONTROL Funções do produto] | Atribuição de função do usuário no perfil do produto. Atualmente, essas informações se aplicam somente aos perfis de produtos do Target. |

@@ -6,7 +6,7 @@ seo-title: Exibir usuários e detalhes do usuário da Experience Cloud
 solution: Experience Cloud
 title: 'Exibir usuários e detalhes do usuário da Experience Cloud '
 translation-type: tm+mt
-source-git-commit: deb341153e980a003a818f51e417275974ea49e8
+source-git-commit: b2a3ead0bb616d87340aabca4113a4e3f9ed34bc
 
 ---
 
@@ -35,7 +35,7 @@ Esta página exibe uma lista completa de usuários com acesso à Experience Clou
 | [!UICONTROL Email] | O endereço de email associado ao usuário. A coluna pode ser classificada como A->Z, Z->A. |
 | [!UICONTROL Tipo de ID] | O tipo de identidade da conta do usuário. O filtro pode ser aplicado para exibir tipos de ID específicos. Consulte [Gerenciar tipos](https://helpx.adobe.com/enterprise/using/identity.html) de identidade para obter mais informações. |
 | [!UICONTROL Soluções] | Resumo das soluções da Experience Cloud que o usuário pode acessar. Você pode aplicar filtros para restringir a lista de usuários com acesso específico à solução. |
-| [!UICONTROL Último logon] | Hora e data do logon mais recente do usuário na Experience Cloud. Essa coluna pode ser classificada por datas ascendentes ou descendentes. <br> **** Importante: Os últimos dados de logon não são preservados por mais de 30 dias antes do valor da data, portanto os usuários podem parecer não ter nenhuma informação sobre o último logon. [!UICONTROL A partir de (DATA)] - os últimos dados de logon do usuário são mantidos por 365 dias. Você pode usar essas informações para exibir a atividade de logon atual na Experience Cloud, mas não para executar ações em contas inativas. Além disso, os usuários criados recentemente podem não ter um status de último logon. |
+| [!UICONTROL Último logon] | Hora e data do logon mais recente do usuário na Experience Cloud. Essa coluna pode ser classificada por datas ascendentes ou descendentes. <br> **** Importante: A partir de 13 de janeiro de 2020, os últimos dados de logon do usuário serão mantidos por 365 dias. Essas informações têm como objetivo mostrar a atividade atual de logon na Experience Cloud e não uma recomendação para tomar medidas em contas inativas antes de 13 de janeiro de 2020. |
 
 ## Personalizar a exibição da lista de usuários
 

@@ -6,7 +6,7 @@ solution: Experience Cloud
 title: Sobre os novos nomes de nuvem na Experience Cloud
 uuid: 27d022ad-50fa-485e-8f94-0959112cf3d0
 translation-type: tm+mt
-source-git-commit: 85bda02326437776baa9503bcc1100c26d48bce4
+source-git-commit: 5e57aedb38e6914f7e99b1b26df9e4bb52b9e13d
 
 ---
 
@@ -59,9 +59,9 @@ As informações a seguir descrevem as soluções e fornecem links de ajuda. As 
 Para começar a usar o Analytics:
 
 1. Crie seu primeiro conjunto de relatórios do Analytics (repositório de dados) usando as etapas descritas em [Introdução ao Adobe Analytics](https://docs.adobe.com/content/help/en/analytics/analyze/analysis-workspace/home.html).
-1. Em seguida, implante o código do Analytics usando o [Launch da Adobe](https://docs.adobe.com/content/help/en/launch/using/intro/get-started/quick-start.html).
+1. Em seguida, implante o código do Analytics usando o [Experience Platform Launch](https://docs.adobe.com/content/help/en/launch/using/intro/get-started/quick-start.html).
 
-O Experience Platform Launch é a próxima geração de gerenciamento de tags, oferecendo uma forma simples de implantar e gerenciar todas as tags de análises, marketing e publicidade.
+O Experience Platform Launch é a próxima geração do gerenciamento de tags e oferece uma maneira simples de implantar e gerenciar todas as tags de análise, marketing e publicidade.
 
 Consulte também:
 
@@ -111,7 +111,7 @@ O Adobe Primetime é uma plataforma de TV multitela que ajuda os transmissores a
 
 | Principal serviço | Descrição |
 |--- |--- |
-| [Activation](activation/activation.md) | Sistemas de gerenciamento de tags (Experience Platform Launch e Dynamic Tag Management).<br>Triggers permitem que você execute ações em tempo real no Adobe Campaign com base em insights do Adobe Analytics. |
+| [Activation](activation/activation.md) | Sistemas de gerenciamento de tags (Experience Platform Launch e Gerenciamento dinâmico de tags).<br>Triggers permitem que você execute ações em tempo real no Adobe Campaign com base em insights do Adobe Analytics. |
 | [Administração](admin-getting-started/admin-getting-started.md) | Gerencie direitos do usuário e de produto em todas as nuvens e soluções da Adobe. |
 | [Assets](experience-cloud-assets/experience-cloud-assets.md) | Armazene, sincronize e compartilhe de modo fácil todos os ativos digitais em um local centralizado para economizar tempo e disponibilizar uma experiência do cliente mais consistentes. |
 | [Launch](https://docs.adobe.com/content/help/en/launch/using/overview.html) | O Launch reúne os recursos de gerenciamento de tags de última geração da Adobe. Ele oferece aos clientes uma forma simples de implantar e gerenciar todas as tags de análise, de marketing e de anúncios necessárias para potencializar experiências de cliente relevantes. |

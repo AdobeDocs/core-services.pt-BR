@@ -1,13 +1,13 @@
 ---
 description: O processo de validação permite mapear os nomes de exibição e as descrições aos atributos carregados (sequências, números inteiros, números e assim por diante). Um esquema é criado com base nessas configurações. O esquema é usado para validar todos os dados futuros carregados nessa fonte de dados. O processo de mapeamento não altera os dados originais.
-keywords: atributos do cliente, serviços principais
+keywords: customer attributes;core services
 seo-description: O processo de validação permite mapear os nomes de exibição e as descrições aos atributos carregados (sequências, números inteiros, números e assim por diante). Um esquema é criado com base nessas configurações. O esquema é usado para validar todos os dados futuros carregados nessa fonte de dados. O processo de mapeamento não altera os dados originais.
 seo-title: Validar o esquema
 solution: Experience Cloud
 title: Validar o esquema
 uuid: 163a4dbe-d60b-4089-8ff8-65f7461fbdf7
 translation-type: tm+mt
-source-git-commit: d304e625bd2125854d9ed932674522284995e030
+source-git-commit: 73cb227d2b44024706ce24a9ae6aa06c57a8ce85
 
 ---
 
@@ -20,7 +20,7 @@ O processo de validação permite mapear os nomes de exibição e as descriçõe
 >
 >A atualização do esquema após a validação exclui os atributos do cliente. Consulte [Atualizar o esquema (também exclui os atributos)](../attributes/t-crs-usecase.md#task_6568898BB7C44A42ABFB86532B89063C).
 
-**[!UICONTROL Fonte de atributos do cliente]** &gt; **[!UICONTROL Criar nova fonte de atributos do cliente]** &gt; **[!UICONTROL Exibir/editar esquema]**
+**[!UICONTROL Fonte de atributo do cliente]** > **[!UICONTROL Criar nova fonte de atributo do cliente]** > **[!UICONTROL Exibir/editar esquema]**
 
 ![](assets/view_edit_schema.png)
 
@@ -32,11 +32,11 @@ Na página [!UICONTROL Validar esquema], cada linha do esquema representa uma co
 
 * **[!UICONTROL Exibir/editar esquema:]** Mapeie os nomes de exibição para os dados do atributo, conforme descrito na próxima etapa.
 
-* **[!UICONTROL Configuração de FTP:]** [Faça upload dos dados via FTP](../attributes/t-upload-attributes-ftp.md#task_591C3B6733424718A62453D2F8ADF73B).
+* **[!UICONTROL Configuração de FTP:]**[ Faça upload dos dados via FTP](../attributes/t-upload-attributes-ftp.md#task_591C3B6733424718A62453D2F8ADF73B).
 
 * **[!UICONTROL Pesquisa de ID:]** Insira uma ID do cliente (CID) em seu `.csv` para pesquisar informações da Experience Cloud para a ID. Esse recurso é útil para solucionar por que os dados do atributo não são exibidos para um visitante:
 
-   * **[!UICONTROL MCID (Experience Cloud ID):]** exibe se você está usando o serviço mais recente da Experience Cloud ID. Se você estiver no serviço da MCID, mas não houver IDs listadas, a Experience Cloud não recebeu um alias para essa CID. Isso indica que o visitante não está conectado ou que sua implementação não está transmitindo essa ID.
+   * **** MCID (Experience Cloud ID): É exibido se você estiver usando o serviço da Experience Cloud ID mais recente. Se você estiver no serviço da MCID, mas não houver IDs listadas, a Experience Cloud não recebeu um alias para essa CID. Isso indica que o visitante não está conectado ou que sua implementação não está transmitindo essa ID.
 
    * **[!UICONTROL CID (ID do cliente):]** os atributos associados a essa CID. Se você estiver usando uma prop ou eVar para fazer upload das CIDs (AVID) e visualizar os atributos exibidos, mas nenhuma AVID, isso indica que o visitante não está conectado ao seu site.
 

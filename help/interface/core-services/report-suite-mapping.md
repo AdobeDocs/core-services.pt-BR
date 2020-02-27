@@ -5,7 +5,7 @@ seo-title: Mapear conjuntos de relatórios para uma organização
 title: Mapear conjuntos de relatórios para uma organização
 uuid: b983d5a6-b3d0-4137-ac53-bc5681d3e58b
 translation-type: tm+mt
-source-git-commit: ae97db27349940a8df7ee2ba6678683f57585678
+source-git-commit: 73cb227d2b44024706ce24a9ae6aa06c57a8ce85
 
 ---
 
@@ -14,7 +14,7 @@ source-git-commit: ae97db27349940a8df7ee2ba6678683f57585678
 
 Saiba mais sobre como mapear um ou vários conjuntos de relatórios para uma organização.
 
-Os serviços da Experience Cloud (como o serviço da Experience Cloud ID e o serviço principal Pessoas) estão associados à organização da Experience Cloud em vez de um conjunto de relatórios individual. Para garantir o funcionamento correto desses serviços, cada conjunto de relatórios do Analytics deve ser mapeado para uma organização. O processo de mapeamento:
+Os serviços da Experience Cloud (como o Serviço da Experience Cloud ID e o serviço principal de Pessoas) estão associados a uma organização em vez de a um conjunto de relatórios individual. Para garantir o funcionamento correto desses serviços, cada conjunto de relatórios do Analytics deve ser mapeado para uma organização. O processo de mapeamento:
 
 * Define uma organização da Experience Cloud como a organização principal do conjunto de relatórios.
 * Não muda quem pode acessar um conjunto de relatórios (o acesso ainda é determinado pela conta de logon do Adobe Analytics de cada usuário)
@@ -27,7 +27,7 @@ As organizações ficam esmaecidas caso você não tenha permissões de administ
 
 ## Mapear um conjunto de relatórios para uma organização {#task_23993FE78DF6455FA8D7BE60686EA16C}
 
-1. Clique em **[!UICONTROL Experience Cloud]** &gt; **[!UICONTROL Administração]** &gt; **[!UICONTROL Mapeamento de conjuntos de relatórios]**
+1. Clique em **[!UICONTROL Experience Cloud]** > **[!UICONTROL Administração]** > **[!UICONTROL Mapeamento de conjuntos de relatórios]**
 
 1. Para ver as empresas de logon com acesso a cada conjunto de relatórios, clique em **[!UICONTROL Visível para empresas de logon]**.
 
@@ -39,7 +39,7 @@ As organizações ficam esmaecidas caso você não tenha permissões de administ
 
 ## Mapear diversos conjuntos de relatórios para uma organização {#task_94955B0D8ABA4CB1A38746ECF8E32711}
 
-1. Clique em **[!UICONTROL Experience Cloud]** &gt; **[!UICONTROL Administração]** &gt; **[!UICONTROL Mapeamento de conjuntos de relatórios]**.
+1. Clique em **[!UICONTROL Experience Cloud]** > **[!UICONTROL Administração]** > **[!UICONTROL Mapeamento de conjuntos de relatórios]**.
 
 1. Selecione os conjuntos de relatórios que você deseja mapear.
 
@@ -57,7 +57,7 @@ Esta seção contém dicas para ajudar a selecionar a organização da Experienc
 
 **Qual organização devo escolher?**
 
-Se o serviço da Experience Cloud ID estiver implantado no conjunto de relatórios, verifique se a organização selecionada na ferramenta de Mapeamento de conjuntos de relatórios é a mesma organização especificada no arquivo [!DNL visitorAPI.js] do seu site. Você pode usar as instruções em [Testar e verificar o serviço da Experience Cloud ID](https://docs.adobe.com/content/help/en/id-service/using/implementation-guides/test-verify.html) para encontrar a ID da organização em uso pelo serviço de ID do visitante.
+If the Experience Cloud ID Service is currently deployed on the report suite, ensure the organization you select in the Report Suite Mapping tool is the same organization specified in the [!DNL visitorAPI.js] file on your site. Você pode usar as instruções em [Testar e verificar o serviço da Experience Cloud ID](https://docs.adobe.com/content/help/en/id-service/using/implementation-guides/test-verify.html) para encontrar a ID da organização em uso pelo serviço de ID do visitante.
 
 Se o serviço de ID do visitante ainda não estiver implantado nos sites que coletam dados do conjunto de relatórios e você implantar o serviço de ID de visitante da Experience Cloud futuramente, verifique se a implantação corresponde à organização selecionada na ferramenta de Mapeamento de conjuntos de relatórios.
 

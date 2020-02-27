@@ -12,9 +12,9 @@ source-git-commit: 5e57aedb38e6914f7e99b1b26df9e4bb52b9e13d
 ---
 
 
-# Exibir usuários da Experience Cloud na Ferramenta de administração
+# Ferramenta de administração da Experience Cloud
 
-Os administradores podem exibir uma lista classificável e filtrável de todos os usuários da Experience Cloud e seus detalhes na Ferramenta de administração. Os detalhes do usuário incluem o acesso ao produto, as funções e as últimas informações acessadas de um usuário.** (** Nota: O gerenciamento de usuários e produtos está configurado no [Admin Console](admin-getting-started.md).)
+A ferramenta administrativa da Experience Cloud permite que os administradores visualizem uma lista classificável e filtrável de todos os usuários da Experience Cloud. Cada página de detalhes do usuário contém detalhes importantes sobre o acesso ao produto, as funções e as últimas informações acessadas de um usuário. 
 
 1. Log in to `https://experience.adobe.com/.`
 

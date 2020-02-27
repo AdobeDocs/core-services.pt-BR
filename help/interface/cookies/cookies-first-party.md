@@ -8,7 +8,7 @@ title: Cookies próprios
 index: y
 snippet: y
 translation-type: tm+mt
-source-git-commit: 3cb4d346d07e1625e95e3737230f03a02b45afb2
+source-git-commit: 73cb227d2b44024706ce24a9ae6aa06c57a8ce85
 
 ---
 
@@ -79,7 +79,7 @@ O especialista FPC fornece os nomes de host configurados e os CNAMEs para os qua
 
 Contanto que o código de implementação não seja alterado, esta etapa não afetará a coleta de dados e poderá ser feita a qualquer momento após a atualização do código de implementação.
 
->[!N] Observação: O serviço de ID de visitante da Experience Cloud fornece uma alternativa à configuração de um CNAME para ativar cookies primários, mas, devido a alterações recentes no ITP da Apple, ainda é recomendável alocar um CNAME mesmo quando o serviço da Experience Cloud ID é usado.
+>[!N] Observação: O serviço de ID de visitante da Experience Cloud fornece uma alternativa à configuração de um CNAME para ativar cookies primários, mas, devido a alterações recentes no ITP da Apple, ainda é recomendável alocar um CNAME mesmo ao usar o serviço da Experience Cloud ID.
 
 ## Execute o ping do nome de host
 

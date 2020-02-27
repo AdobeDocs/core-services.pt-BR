@@ -7,7 +7,7 @@ solution: Experience Cloud
 title: Gerenciar usuários e produtos da Experience Cloud
 uuid: aea4e4c3-f543-4e8d-b553-d838418477d6
 translation-type: tm+mt
-source-git-commit: 02b0163b95c24eb58bf2379c3e0d9f5f31c40925
+source-git-commit: 5e57aedb38e6914f7e99b1b26df9e4bb52b9e13d
 
 ---
 
@@ -86,9 +86,9 @@ O *Grupo de segurança* é exibido como um perfil de produto.
 
 Consulte [Gerenciamento de grupos e usuários](https://helpx.adobe.com/campaign/standard/administration/using/managing-groups-and-users.html) para obter informações sobre grupos de segurança e atribuição de usuários a grupos de segurança.
 
-## Experience Platform Launch{#section_F2DA6778DD2D48AA8F794041971EE6B1}
+## Experience Platform Launch {#section_F2DA6778DD2D48AA8F794041971EE6B1}
 
-O Experience Platform Launch é exibido na página Produtos do Admin Console. Você pode incluir outras soluções e serviços em um perfil de produto do Launch.
+O Experience Platform Launch é exibido na página Produtos no Admin Console. Você pode incluir outras soluções e serviços em um perfil de produto do Launch.
 
 See [User Management](https://docs.adobelaunch.com/launch-reference/administration/user-permissions) for information about user permissions in the Admin Console and set up Launch-specific options, including assigning rights to profiles.
 

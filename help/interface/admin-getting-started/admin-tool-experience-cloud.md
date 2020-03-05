@@ -1,7 +1,7 @@
 ---
-description: Saiba mais sobre a Ferramenta de administração da Experience Cloud para exibir uma lista classificável e filtrável de todos os usuários da Experience Cloud.
+description: Saiba mais sobre a Ferramenta de administração da Experience Cloud, para exibir uma lista classificável e filtrável de todos os usuários da Experience Cloud.
 keywords: core services
-seo-description: Saiba mais sobre a Ferramenta de administração da Experience Cloud para exibir uma lista classificável e filtrável de todos os usuários da Experience Cloud.
+seo-description: Saiba mais sobre a Ferramenta de administração da Experience Cloud, para exibir uma lista classificável e filtrável de todos os usuários da Experience Cloud.
 seo-title: Exibir usuários e detalhes do usuário da Experience Cloud
 solution: Experience Cloud
 title: 'Exibir usuários e detalhes do usuário da Experience Cloud '
@@ -12,9 +12,9 @@ source-git-commit: 5e57aedb38e6914f7e99b1b26df9e4bb52b9e13d
 ---
 
 
-# Ferramenta de administração da Experience Cloud
+# Exibir usuários da Experience Cloud na Ferramenta de administração
 
-A ferramenta administrativa da Experience Cloud permite que os administradores visualizem uma lista classificável e filtrável de todos os usuários da Experience Cloud. Cada página de detalhes do usuário contém detalhes importantes sobre o acesso ao produto, as funções e as últimas informações acessadas de um usuário. 
+Os administradores podem exibir uma lista classificável e filtrável de todos os usuários da Experience Cloud e seus detalhes na Ferramenta de administração. Os detalhes do usuário incluem o acesso ao produto, as funções e as últimas informações acessadas de um usuário. (**Nota:** O gerenciamento de usuários e produtos está configurado no [Admin Console](admin-getting-started.md).)
 
 1. Log in to `https://experience.adobe.com/.`
 
@@ -22,7 +22,7 @@ A ferramenta administrativa da Experience Cloud permite que os administradores v
 
 1. Na página inicial da Experience Cloud, clique em **[!UICONTROL Admin Tool.]**
 
-    (Como alternativa, no URL da página inicial, você pode substituir o _home_ pelo _admin._)
+   (Como alternativa, no URL da página inicial, você pode substituir o _home_ pelo _admin._)
 
    A página [!UICONTROL Usuários] é exibida.
 
@@ -38,7 +38,7 @@ Esta página exibe uma lista completa de usuários com acesso à Experience Clou
 | [!UICONTROL Email] | O endereço de email associado ao usuário. A coluna pode ser classificada como A->Z, Z->A. |
 | [!UICONTROL Tipo de ID] | O tipo de identidade da conta do usuário. O filtro pode ser aplicado para exibir tipos de ID específicos. Consulte [Gerenciar tipos](https://helpx.adobe.com/enterprise/using/identity.html) de identidade para obter mais informações. |
 | [!UICONTROL Soluções] | Resumo das soluções da Experience Cloud que o usuário pode acessar. Você pode aplicar filtros para restringir a lista de usuários com acesso específico à solução. |
-| [!UICONTROL Último logon] | Hora e data do logon mais recente do usuário na Experience Cloud. Essa coluna pode ser classificada por datas ascendentes ou descendentes. <br> **** Importante: A partir de 13 de janeiro de 2020, os últimos dados de logon do usuário serão mantidos por 365 dias. Essas informações têm como objetivo mostrar a atividade atual de logon na Experience Cloud e não uma recomendação para tomar medidas em contas inativas antes de 13 de janeiro de 2020. |
+| [!UICONTROL Último logon] | Hora e data do logon mais recente do usuário na Experience Cloud. Essa coluna pode ser classificada por datas ascendentes ou descendentes. <br> **Importante:** A partir de 13 de janeiro de 2020, os últimos dados de logon do usuário serão mantidos por 365 dias. Essas informações destinam-se a mostrar a atividade de logon atual na Experience Cloud e não uma recomendação para tomar medidas em contas inativas antes de 13 de janeiro de 2020. |
 
 ## Personalizar a exibição da lista de usuários
 
@@ -52,7 +52,7 @@ Você pode pesquisar, classificar ou filtrar as colunas para personalizar a list
 |---------|----------|
 | [!UICONTROL Filtro de domínio] de email | Procure sequências de caracteres na coluna Email para restringir os resultados a um ou vários domínios. Adicionar vários filtros pressionando Enter após cada termo de pesquisa |
 | [!UICONTROL Tipo] de ID, filtro | Escolha dentre os Tipos de ID disponíveis. Vários tipos de ID podem ser usados como filtro. |
-| [!UICONTROL Filtro de solução] | Escolha entre as soluções disponíveis. Vários filtros de solução pesquisam resultados que contêm a Solução 1 `OR` Solução 2. |
+| [!UICONTROL Filtro de solução] | Escolha dentre as soluções disponíveis. Vários filtros de solução pesquisam resultados que contêm a Solução 1 `OR` Solução 2. |
 
 ## Exibir detalhes do usuário
 

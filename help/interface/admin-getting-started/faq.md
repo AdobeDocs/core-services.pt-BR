@@ -22,7 +22,7 @@ Se a implementação foi provisionada para os serviços principais, consulte [At
 
 
 1. [Associar-se à Experience Cloud e tornar-se um administrador](../core-services/core-services.md#section_2423F0BD3DF642658103310EE5EA6154)
-1. [Implement the Experience Cloud ID Service using Dynamic Tag Manager](../core-services/core-services.md#section_3C9F6DF37C654D939625BB4D485E4354) (or the new [Experience Platform Launch](https://docs.adobe.com/content/help/en/launch/using/intro/get-started/quick-start.html))
+1. [Implementação do serviço da Experience Cloud ID usando o Gerenciador](../core-services/core-services.md#section_3C9F6DF37C654D939625BB4D485E4354) dinâmico de tags (ou o novo lançamento [da plataforma](https://docs.adobe.com/content/help/en/launch/using/intro/get-started/quick-start.html)Experience)
 1. [Mapear conjuntos de relatórios para uma organização da Experience Cloud](../core-services/core-services.md#concept_apg_zq2_rw)
 1. [(Somente para Analytics) Modernizar o código AppMeasurement do Analytics](../core-services/core-services.md#section_1798D9D0F05C47E29816AC4EEB9A0913)
 1. [(Somente para Target) Modernizar sua implementação do Adobe Target](../core-services/core-services.md#section_C2F4493C7A36406DAE2266B429A4BD24)

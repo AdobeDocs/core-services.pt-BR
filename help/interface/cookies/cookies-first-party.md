@@ -8,7 +8,7 @@ title: Cookies próprios
 index: y
 snippet: y
 translation-type: tm+mt
-source-git-commit: 73cb227d2b44024706ce24a9ae6aa06c57a8ce85
+source-git-commit: 620bd7a749080356913ab56a2fca9f4049276938
 
 ---
 
@@ -48,7 +48,7 @@ A seguir, veja como implementar um novo certificado SSL próprio para cookies pr
 
 1. Quando esses CNAMES estiverem em vigor, a Adobe trabalhará com a DigiCert para comprar e instalar um certificado nos servidores de produção da Adobe. Se você tiver uma implementação existente, considere a Migração do visitante para manter os visitantes existentes. Depois que o certificado for enviado ao ambiente de produção da Adobe, você poderá atualizar as variáveis do servidor de rastreamento para os novos nomes de host. Ou seja, se o site não for seguro (https), atualize o `s.trackingServer`. Se o site for seguro (https), atualize as duas variáveis `s.trackingServer` e `s.trackingServerSecure`.
 
-1. Execute o ping do nome de host (veja abaixo).
+1. Valide o encaminhamento do nome do host (consulte abaixo).
 
 1. Atualize o código de implementação (veja abaixo).
 
@@ -64,7 +64,7 @@ Os certificados SSL expiram todo ano, o que significa que a Adobe deve comprar u
 | **Como a Adobe pode comprar um certificado para o nosso domínio?** | O certificado só pode ser comprado quando você aponta o nome de host especificado (por exemplo, smetrics.example.com) para um nome de host da Adobe. Essa ação basicamente delega esse nome de host à Adobe e permite que a Adobe compre o certificado em seu nome. |
 | **É possível solicitar que o certificado seja revogado?** | Sim, como proprietário do domínio, você está autorizado a solicitar a revogação do certificado. Você só precisará abrir um ticket no Atendimento ao cliente para que isso seja concluído. |
 | **Esse certificado usará a criptografia SHA-2?** | Sim, a Adobe trabalhará com a DigiCert para emitir um certificado SHA-2. |
-| **Isso gera custo adicional?** | Não, a Adobe está oferecendo esse serviço a todos os clientes atuais do Adobe Digital Experience sem custo adicional. |
+| **Isso gera custo adicional?** | Não, a Adobe está oferecendo esse serviço a todos os clientes atuais do Adobe Digital Experience sem nenhum custo adicional. |
 
 ## Criar registros CNAME
 
@@ -79,15 +79,29 @@ O especialista FPC fornece os nomes de host configurados e os CNAMEs para os qua
 
 Contanto que o código de implementação não seja alterado, esta etapa não afetará a coleta de dados e poderá ser feita a qualquer momento após a atualização do código de implementação.
 
->[!N] Observação: O serviço de ID de visitante da Experience Cloud fornece uma alternativa à configuração de um CNAME para ativar cookies primários, mas, devido a alterações recentes no ITP da Apple, ainda é recomendável alocar um CNAME mesmo ao usar o serviço da Experience Cloud ID.
+>[!NObservação:] O serviço de ID de visitante da Experience Cloud fornece uma alternativa à configuração de um CNAME para ativar cookies primários, mas, devido a alterações recentes no ITP da Apple, ainda é recomendável alocar um CNAME mesmo ao usar o serviço da Experience Cloud ID.
 
-## Execute o ping do nome de host
+## Validar o encaminhamento do nome do host
 
-Execute o ping do nome de host para garantir o encaminhamento correto. Todos os nomes de host devem responder a um ping para evitar a perda de dados.
+No navegador, clique em <https://sstats.adobe.com/_check>.
 
-Depois que os registros CNAME forem configurados corretamente e a Adobe tiver confirmado a instalação do certificado, abra um prompt de comando e execute o ping dos nomes de host. Usando o `mysite.com` como exemplo: `ping metrics.mysite.com`
+Você deveria ver `SUCCESS` retornado. Você verá erros se o certificado não tiver sido comprado.
 
-Se tudo for configurado com êxito, retornará algo semelhante ao exposto a seguir:
+Você também pode usar [!DNL curl] como uma ferramenta de linha de comando para validação:
+
+1. Se estiver usando [!DNL Windows], instale o ondulado (<https://curl.haxx.se/windows/>).
+1. Se o CNAME ainda precisar de um certificado, digite `curl -k https://sstats.adobe.com/_check` na linha de comando.
+1. Se o certificado estiver concluído, digite `curl https://sstats.adobe.com/_check`.
+
+Você deveria ver `SUCCESS` retornado.
+
+<!-- ## Ping the hostname
+
+Ping the hostname to ensure correct forwarding. All hostnames must respond to a ping to prevent data loss.
+
+After CNAME records are properly configured, and Adobe has confirmed installation of the certificate, open a command prompt and ping your hostname(s). Using `mysite.com` as an example: `ping metrics.mysite.com`
+
+If everything is successfully set up, it will return something similar to the following:
 
 ```Pinging mysite.com.112.2o7.net [66.235.132.232] with 32 bytes of data:
 Reply from 66.235.132.232: bytes=32 time=19ms TTL=246
@@ -99,11 +113,11 @@ Ping statistics for 66.235.132.232: Packets: Sent = 4, Received = 4, Lost = 0 (0
 Approximate round trip times in milli-seconds: Minimum = 19ms, Maximum = 19ms, Average = 19ms
 ```
 
-Se os registros CNAME não foram configurados ou ativados corretamente, retornará o seguinte:
+If the CNAME records are not correctly set up or not active, it will return the following:
 
 `Ping request could not find the host. Please check the name and try again.`
 
->[!NObservação:] Se você estiver usando `https:// protocol`, o ping só responderá após a data de upload especificada pelo especialista FPC. Além disso, faça o ping no nome do host seguro e no nome do host não seguro para garantir que ambos estejam funcionando corretamente antes de atualizar sua implementação.
+>[!Note:] If you are using `https:// protocol`, ping will only respond after the upload date specified by the FPC specialist. In addition, be sure to ping the secure hostname and non-secure hostname to ensure that both are working correctly before updating your implementation. -->
 
 ## Atualizar código de implementação
 
@@ -111,7 +125,7 @@ Antes de editar o código no site para utilizar cookies próprios, preencha este
 
 * Solicite um certificado SSL seguindo as etapas descritas acima na seção *Implementação* do Programa [de certificados gerenciados da](#adobe-managed-certificate-program)Adobe.
 * Crie registros CNAME (veja acima).
-* Faça o ping nos nomes dos hosts (consulte acima).
+* Valide os nomes dos hosts (consulte acima).
 
 Após verificar que o nome de host está respondendo e encaminhando para os servidores de coleta de dados da Adobe, você pode alterar a implementação para apontar para seus próprios nomes de host da coleta de dados.
 

@@ -8,7 +8,7 @@ title: Cookies próprios
 index: y
 snippet: y
 translation-type: tm+mt
-source-git-commit: 2b44385e32752c7d80322de092d1ac230edfcd01
+source-git-commit: d4ebe537c4a0da1f24c5cd48e73ec9567d13fb30
 
 ---
 
@@ -94,15 +94,15 @@ Contanto que o código de implementação não seja alterado, esta etapa não af
 
 Os seguintes métodos estão disponíveis para validação:
 
-**Validação do navegador**
+### Validar usando um navegador
 
 Se você tiver um CNAME configurado e o certificado instalado, poderá usar o navegador para validação:
 
-<https://sstats.adobe.com/_check>.
+`https://sstats.adobe.com/_check`
 
-Observação: Você verá um aviso de segurança se um certificado não estiver instalado.
+**Observação:** Você verá um aviso de segurança se um certificado não estiver instalado.
 
-**Validar usando[!DNL curl]**
+### Validar usando [!DNL curl]
 
 A Adobe recomenda usar [!DNL [curl](https://curl.haxx.se/)] da linha de comando. ([!DNL Windows] os usuários podem instalar [!DNL curl] de: <https://curl.haxx.se/windows/>)
 
@@ -114,7 +114,7 @@ Se você tiver um CNAME, mas nenhum certificado estiver instalado, execute:
 Se você tiver uma configuração CNAME e o certificado estiver instalado, execute:
 `curl https://sstats.adobe.com/_check`Resposta: `SUCCESS`
 
-**Validar usando[!DNL nslookup]**
+### Validar usando [!DNL nslookup]
 
 Você pode usar `nslookup` para validação. Usando `mysite.com`como exemplo, abra um prompt de comando e digite `nslookup metrics.mysite.com`
 

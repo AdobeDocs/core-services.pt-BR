@@ -8,7 +8,7 @@ title: Cookies próprios
 index: y
 snippet: y
 translation-type: tm+mt
-source-git-commit: edbe58ffbaeadd2e223ef1567ec9060ab4073f1e
+source-git-commit: 2b44385e32752c7d80322de092d1ac230edfcd01
 
 ---
 
@@ -92,32 +92,43 @@ Contanto que o código de implementação não seja alterado, esta etapa não af
 
 ## Validar o encaminhamento do nome do host {#validate}
 
-Você pode validar o nome do host usando <https://sstats.adobe.com/_check>. Se você tiver um CNAME configurado e o certificado instalado, poderá usar o navegador para validação. No entanto, você verá um aviso de segurança se um certificado não estiver instalado.
+Os seguintes métodos estão disponíveis para validação:
 
-**Validar usando a curva**
+**Validação do navegador**
 
-A Adobe recomenda usar [!DNL curl] da linha de comando. (Se você estiver no Windows, precisará instalar [!DNL curl] de: <https://curl.haxx.se/windows/>)
+Se você tiver um CNAME configurado e o certificado instalado, poderá usar o navegador para validação:
+
+<https://sstats.adobe.com/_check>.
+
+Observação: Você verá um aviso de segurança se um certificado não estiver instalado.
+
+**Validar usando[!DNL curl]**
+
+A Adobe recomenda usar [!DNL [curl](https://curl.haxx.se/)] da linha de comando. ([!DNL Windows] os usuários podem instalar [!DNL curl] de: <https://curl.haxx.se/windows/>)
 
 Se você tiver um CNAME, mas nenhum certificado estiver instalado, execute:
 `curl -k https://sstats.adobe.com/_check`Resposta: `SUCCESS`
 
-(**Nota:** O `-k` valor desativa o aviso de segurança.)
+(O `-k` valor desativa o aviso de segurança.)
 
 Se você tiver uma configuração CNAME e o certificado estiver instalado, execute:
-`curl https://sstats.adobe.com/_check`Resposta: SUCESSO
+`curl https://sstats.adobe.com/_check`Resposta: `SUCCESS`
 
-**Validar usando nslookup**
+**Validar usando[!DNL nslookup]**
 
-Você pode usar o nslookup para validação. Usando o `mysite.com` como exemplo:
-
-Abra um prompt de comando e digite `nslookup metrics.mysite.com`
+Você pode usar `nslookup` para validação. Usando `mysite.com`como exemplo, abra um prompt de comando e digite `nslookup metrics.mysite.com`
 
 Se tudo for configurado com êxito, você verá um retorno semelhante a:
 
-nslookup metrics.mysite.comServer:  hiodsibxvip01.corp.adobe.comEndereço:  10.50.112.247
+```
+nslookup metrics.mysite.com
+Server:  hiodsibxvip01.corp.adobe.com
+Address:  10.50.112.247
 
-Resposta não autoritativa:
-Nome:    metrics.mysite.comAddress:  64 136 20,37
+Non-authoritative answer:
+Name:    metrics.mysite.com
+Address:  64.136.20.37
+```
 
 ## Atualizar código de implementação {#update}
 

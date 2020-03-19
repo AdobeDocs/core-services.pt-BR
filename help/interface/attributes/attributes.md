@@ -7,7 +7,7 @@ solution: Experience Cloud
 title: Atributos do cliente
 uuid: 1621402d-990f-46f9-981a-473280559069
 translation-type: tm+mt
-source-git-commit: 12c3ac8bfa64b7c8708312576ac6dc4036c1b7d8
+source-git-commit: c59fe8c13defc8572d9c8776d0ca376d76fec794
 
 ---
 
@@ -16,7 +16,7 @@ source-git-commit: 12c3ac8bfa64b7c8708312576ac6dc4036c1b7d8
 
 ## Visão geral
 
-To locate [!UICONTROL customer attributes] navigate to **[!DNL Experience Platform]**>**[!UICONTROL  People]** > **[!UICONTROL Customer Attributes]**
+To locate [!UICONTROL customer attributes] navigate to **[!DNL Experience Platform]** > **[!UICONTROL People]** > **[!UICONTROL Customer Attributes]**
 
 Se você capturar os dados de clientes de empresas em um banco de dados de gerenciamento de relacionamento com o cliente (CRM), poderá fazer upload dos dados em uma fonte de dados do atributo do cliente na Experience Cloud. Depois de enviado, aproveite os dados no [!DNL Adobe Analytics] e no [!DNL Adobe Target].
 
@@ -29,16 +29,14 @@ Se você capturar os dados de clientes de empresas em um banco de dados de geren
 
 * **Associação de grupo:** para fazer upload dos dados de atributos do cliente, os usuários devem ser membros do [grupo de Atributos do cliente](../admin-getting-started/admin-getting-started.md#task_3295A85536BF48899A1AB40D207E77E9). Você também deve pertencer a um grupo do Adobe Analytics ou do Adobe Target.
 
-   Para saber se a empresa tem acesso aos atributos do cliente, o [!DNL Experience Cloud]administrador deve fazer logon na [!DNL Experience Cloud]. Navegue até **[!UICONTROL Administração]**>**[!UICONTROL  Iniciar o Admin Console]** > **[!UICONTROL Grupos]**. Se os *Atributos do cliente*forem exibidos como um dos grupos, você estará pronto para começar.
+   Para saber se a empresa tem acesso aos atributos do cliente, o [!DNL Experience Cloud]administrador deve fazer logon na [!DNL Experience Cloud]. Navegue até **[!UICONTROL Administração]** > **[!UICONTROL Iniciar o Admin Console]** > **[!UICONTROL Grupos]**. Se os *Atributos do cliente* forem exibidos como um dos grupos, você estará pronto para começar.
 
    Os usuários adicionados ao grupo Atributos do cliente visualizarão o item de menu [!UICONTROL Atributos do cliente] à esquerda da interface da Experience Cloud.
 
-* **Mbox de destino:** mbox.js versão 58 ou superior é necessário para os atributos do cliente.
+* **O Adobe Target** [!DNL at.js] (qualquer versão) ou a [!DNL mbox.js] versão 58 ou posterior é necessário para os atributos do cliente.
 
 
-   Consulte [Implementação de mbox.js](https://docs.adobe.com/content/help/en/target/using/implement-target/client-side/mbox-implement/mbox-download.html).
-
-* **at.js:** qualquer versão.
+   Consulte [Como implantar o at.js](https://docs.adobe.com/content/help/en/target/using/implement-target/client-side/deploy-at-js/how-to-deployatjs.html ou Implementação [do](https://docs.adobe.com/content/help/en/target/using/implement-target/client-side/mbox-implement/mbox-download.html)Mbox.js).
 
 ## What is enterprise customer data? {#section_6F34C29F11414842AA57D2B1248FA3C6}
 
@@ -48,7 +46,7 @@ A imagem a seguir é um exemplo de um arquivo de dados que mostra os dados do as
 
 ![](assets/01_crs_usecase.png)
 
-Após a criação do arquivo de dados, faça upload dele para a fonte de atributo do cliente que você cria em **[!UICONTROL Experience Cloud]**>**[!UICONTROL  Atributos do cliente]**.
+Após a criação do arquivo de dados, faça upload dele para a fonte de atributo do cliente que você cria em **[!UICONTROL Experience Cloud]** > **[!UICONTROL Atributos do cliente]**.
 
 Consulte [Fazer upload dos dados de atributos do cliente](../attributes/t-crs-usecase.md#task_BCC327B2A0EF4A1BBB2934013AB92B78) para conhecer esse fluxo de trabalho.
 

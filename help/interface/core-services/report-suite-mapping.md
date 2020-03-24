@@ -5,7 +5,7 @@ seo-title: Mapear conjuntos de relatórios para uma organização
 title: Mapear conjuntos de relatórios para uma organização
 uuid: b983d5a6-b3d0-4137-ac53-bc5681d3e58b
 translation-type: tm+mt
-source-git-commit: 73cb227d2b44024706ce24a9ae6aa06c57a8ce85
+source-git-commit: b6ef7f0b7ef3b43b437524b20cee940889c26ba8
 
 ---
 
@@ -64,19 +64,22 @@ Se o serviço de ID do visitante ainda não estiver implantado nos sites que col
 **Por que algumas organizações estão esmaecidas?**
 
 Isso indica que você não tem privilégios suficientes para mapear para o conjunto de relatórios esmaecido. Considere o exemplo a seguir:
-![](assets/rs-mapping.png) Nesse diagrama, a tecla azul indica privilégios de administrador. As linhas cinzas indicam visibilidade.
+
+![](assets/rs-mapping.png)
+
+Nesse diagrama, a tecla azul indica privilégios de administrador. As linhas cinzas indicam visibilidade.
 
 Esse usuário tem acesso a duas organizações da Experience Cloud. Ele fez o seguinte:
 
-* Vinculou sua conta de administrador na empresa de logon chapek do Analytics à conta organizacional Chapek Corp da Experience Cloud.
-* Vinculou sua conta de não administrador na empresa de logon doohan do Analytics à conta organizacional Chapek Corp da Experience Cloud.
+* Linked his admin account in the [!UICONTROL chapek] Analytics login company to his [!UICONTROL Chapek] Corp Experience Cloud organization account.
+* Linked his non-admin account in the [!UICONTROL doohan] Analytics login company to his [!UICONTROL Chapek] Corp Experience Cloud organization account.
 * Vinculou sua conta de não administrador na empresa de logon nigel do Analytics à conta organizacional Nigel Inc da Experience Cloud.
 
 Os pontos a seguir listam as ações de mapeamento que o usuário pode ou não executar com relação aos conjuntos de relatórios:
 
-* O conjunto de relatórios de produção Chapek pode ser mapeado para a organização Chapek Corp, pois esse usuário é um administrador de uma empresa de logon vinculada do Analytics (chapek) e sua conta está vinculada a essa organização.
-* O conjunto de relatórios de produção Nigel não pode ser vinculado por esse usuário, pois ele não é um administrador em nenhuma empresa de logon na qual o conjunto de relatórios está visível.
-* O conjunto de relatórios de produção Doohan pode ser mapeado para a Chapek Corp, pois esse usuário é um administrador de uma empresa de logon (chapek) vinculada à organização da Experience Cloud (observe que ele não é um administrador da empresa de logon doohan do Analytics). É importante reconhecer que o conjunto de relatórios de produção doohan também está qualificado para ser mapeado para a organização Nigel Inc da Experience Cloud, mesmo que esse usuário não possa realizar esse mapeamento. Nesse caso, as organizações da Experience Cloud são exibidas na lista, mas Nigel Inc aparece esmaecida. Antes de mapear, o usuário deve consultar um administrador na empresa de logon nigel a fim de determinar qual organização é a melhor candidata para o mapeamento. A interface do usuário exibirá um aviso de conflito possível se você selecionar uma organização diferente daquela em que o conjunto de relatórios foi criado originalmente.
+* [!UICONTROL O conjunto de relatórios de produção] Chapek pode ser mapeado para a organização [!UICONTROL Chapek] Corp, pois esse usuário é um administrador de uma empresa de logon vinculada do Analytics ([!UICONTROL chapek]) e sua conta está vinculada a essa organização.
+* [!UICONTROL O conjunto de relatórios de produção Nigel não pode ser vinculado por esse usuário, pois ele não é um administrador em nenhuma empresa de logon na qual o conjunto de relatórios está visível.]
+* [!UICONTROL O conjunto de relatórios de produção] Doohan pode ser mapeado para a [!UICONTROL Chapek Corp] , pois esse usuário é um administrador de uma empresa de logon ([!UICONTROL chapek]) vinculada à organização da Experience Cloud (observe que ele não é um administrador da empresa de logon doohan do Analytics). It is important to be aware that the [!UICONTROL doohan-prod] report suite is also eligible to be mapped to the Nigel Inc Experience Cloud org, even though this user cannot perform that mapping. In this case, both Experience Cloud organizations are displayed in the list, but [!UICONTROL Nigel Inc] is grayed out. Antes de mapear, o usuário deve consultar um administrador na empresa de logon nigel a fim de determinar qual organização é a melhor candidata para o mapeamento. A interface do usuário exibirá um aviso de conflito possível se você selecionar uma organização diferente daquela em que o conjunto de relatórios foi criado originalmente.
 
 ## Perguntas frequentes {#section_099E485805994C929FF9C9F75219BEE1}
 

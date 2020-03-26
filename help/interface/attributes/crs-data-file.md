@@ -7,7 +7,7 @@ solution: Experience Cloud
 title: Sobre arquivo de dados e fonte de dados para atributos do cliente
 uuid: 9dd0e364-889b-45db-b190-85c0930a101e
 translation-type: tm+mt
-source-git-commit: 73cb227d2b44024706ce24a9ae6aa06c57a8ce85
+source-git-commit: f7ec8bf6087a18be41c9efbf05f60e6cfd24e566
 
 ---
 
@@ -35,7 +35,7 @@ Os atributos do cliente foram criados para lidar com alguns arquivos por dia. Pa
  <tbody> 
   <tr> 
    <td colname="col1"> <p> <span class="filepath"> .csv </span> </p> </td> 
-   <td colname="col2"> <p>Um arquivo de valores separados por vírgula (como um criado no Excel). Esse é o arquivo que contém os dados do atributo do cliente. </p> <p> <b>Requisitos de nomenclatura:</b> verifique se as extensões do nome do arquivo não têm espaços em branco. </p> </td> 
+   <td colname="col2"> <p>Um arquivo de valores separados por vírgula (como um criado no Excel). Esse é o arquivo que contém os dados do atributo do cliente. </p> <p> <b>Requisitos de nomenclatura:</b> Verifique se as extensões de nome de arquivo não contêm espaços em branco. </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p> <span class="filepath"> .fin </span> </p> </td> 
@@ -57,11 +57,11 @@ Os atributos do cliente foram criados para lidar com alguns arquivos por dia. Pa
 
 O arquivo CSV deve seguir o seguinte formato:
 
-CSV de amostra:
+CSV de exemplo:
 
 ![](assets/cvs.png)
 
-O mesmo arquivo visualizado em um editor de texto:
+O mesmo arquivo exibido em um editor de texto:
 
 ![](assets/csv_txt.png)
 
@@ -81,63 +81,63 @@ O mesmo arquivo visualizado em um editor de texto:
   </tr> 
   <tr> 
    <td colname="col1"> <p>Coluna ID do cliente </p> </td> 
-   <td colname="col2"> <p> A primeira coluna deve ser uma ID única do cliente. A ID usada deve corresponder à ID enviada para o serviço da Experience Cloud ID. </p> <p>Para o Analytics, a ID armazenada em uma prop ou eVar. </p> <p>Para o Target, o valor setCustomerID. (Consulte <a href="../core-services/core-services.md#section_AD473A6A21C1446498E700363F9A8437" format="dita" scope="local">Analytics &amp; Target - sincronização da ID do cliente</a>) </p> <p> Essa ID do cliente é o identificador exclusivo que seu CRM usa para cada pessoa no banco de dados. As outras colunas são atributos provenientes do seu CRM. Você escolherá a quantidade de atributos para upload. </p> <p>Recomendamos usar nomes amigáveis e legíveis nos cabeçalhos da coluna, embora isso não seja obrigatório. Ao validar o esquema depois do upload, é possível mapear os nomes amigáveis para as linhas e colunas carregadas. </p> <p> <b>Sobre IDs do cliente</b> </p> <p>Normalmente, uma empresa usa uma ID do cliente de um sistema de CRM. Essa ID é definida ao utilizar a chamada <span class="codeph">setCustomerIDs</span> quando uma pessoa faz logon. Essa ID também é usada como a chave do arquivo CRM que é carregado para a Experience Cloud. <a href="../attributes/t-crs-usecase.md#task_09DAC0F2B76141E491721C1E679AABC8" format="dita" scope="local">ID alias</a> é um nome amigável para um armazenamento de dados no Audience Manager, onde os dados do alias são armazenados. O sistema envia aliases para esse armazenamento de dados (via setCustomerIDs). O arquivo CRM é aplicado a esses dados nesse armazenamento de dados. </p> <p>Para obter informações sobre <span class="codeph">setCustomerIDs</span>, consulte <a href="https://docs.adobe.com/content/help/en/id-service/using/reference/authenticated-state.html" format="https" scope="external">IDs do cliente e estados de autenticação</a>. </p> </td> 
+   <td colname="col2"> <p> A primeira coluna deve ser uma ID única do cliente. A ID usada deve corresponder à ID transmitida ao serviço da Experience Cloud ID. </p> <p>Para o Analytics, a ID que está sendo armazenada em uma prop ou eVar. </p> <p>Para o Target, o valor setCustomerID. (See <a href="../core-services/core-services.md#section_AD473A6A21C1446498E700363F9A8437" format="dita" scope="local"> Analytics &amp; Adobe Target - synching the customer ID </a>) </p> <p> Essa ID do cliente é o identificador exclusivo que seu CRM usa para cada pessoa no banco de dados. As outras colunas são atributos provenientes do seu CRM. Você escolherá quantos atributos serão carregados. </p> <p>Recomendamos usar nomes amigáveis e legíveis nos cabeçalhos da coluna, embora isso não seja obrigatório. Ao validar o schema após o upload, é possível mapear nomes amigáveis para as linhas e colunas carregadas. </p> <p> <b>Sobre as IDs do cliente</b> </p> <p>Normalmente, uma empresa usa uma ID do cliente de um sistema de CRM. Essa ID é definida ao utilizar a chamada <span class="codeph">setCustomerIDs</span> quando uma pessoa faz logon. Essa ID também é usada como a chave do arquivo CRM que é carregado para a Experience Cloud. <a href="../attributes/t-crs-usecase.md#task_09DAC0F2B76141E491721C1E679AABC8" format="dita" scope="local">ID alias</a> é um nome amigável para um armazenamento de dados no Audience Manager, onde os dados do alias são armazenados. O sistema envia aliases para esse armazenamento de dados (via setCustomerIDs). O arquivo CRM é aplicado aos dados nesse armazenamento de dados. </p> <p>Para obter informações sobre <span class="codeph">setCustomerIDs</span>, consulte <a href="https://docs.adobe.com/content/help/en/id-service/using/reference/authenticated-state.html" format="https" scope="external">IDs do cliente e estados de autenticação</a>. </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p>Cabeçalhos e colunas subsequentes </p> </td> 
-   <td colname="col2"> <p>Os cabeçalhos subsequentes devem representar o nome de cada atributo. </p> <p> Essas colunas devem conter os atributos do cliente provenientes do CRM. </p> </td> 
+   <td colname="col2"> <p>Os cabeçalhos subsequentes devem representar o nome de cada atributo. </p> <p> Essas colunas devem conter atributos do cliente que vêm do CRM. </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p>Limites do atributo </p> </td> 
-   <td colname="col2"> <p>Você pode fazer upload de centenas de colunas de <span class="filepath">.csv</span> para o serviço de atributos do cliente na Experience Cloud. Entretanto, ao configurar assinaturas e selecionar atributos, os seguintes limites se aplicam, dependendo das suas soluções: </p> <p> 
+   <td colname="col2"> <p>Você pode fazer upload de centenas de colunas de <span class="filepath">.csv</span> para o serviço de atributos do cliente na Experience Cloud. No entanto, ao configurar subscrições e selecionar atributos, os seguintes limites se aplicam dependendo das soluções que você possui: </p> <p> 
      <ul id="ul_2BB85067918D4BB3B59394F3E3E37A6D"> 
-      <li id="li_93703988B9934384B4B94A839D028380"> <b>Padrão de análise</b>: total de 3 </li> 
-      <li id="li_D1E5E7BD24C54591B14D15DE97447835"> <b>Análise Premium</b>: 200 por conjunto de relatórios </li> 
-      <li id="li_8C891FE3D1EF49FA9F81E2E32CD0B9CA"> <b>Target Standard:</b> 5 </li> 
-      <li id="li_2B66D43023F34EA685CE2C38A9250CEA"> <b>Target Premium:</b> 200 </li> 
+      <li id="li_93703988B9934384B4B94A839D028380"> <b>Analytics Standard</b>: 3 total </li> 
+      <li id="li_D1E5E7BD24C54591B14D15DE97447835"> <b>Analytics Premium</b>: 200 por conjunto de relatórios </li> 
+      <li id="li_8C891FE3D1EF49FA9F81E2E32CD0B9CA"> <b>Adobe Público alvo Standard:</b> 5 </li> 
+      <li id="li_2B66D43023F34EA685CE2C38A9250CEA"> <b>Adobe Público alvo Premium:</b> 200 </li> 
      </ul> </p> </td> 
   </tr> 
   <tr> 
-   <td colname="col1"> <p>Limites de linha </p> </td> 
+   <td colname="col1"> <p>Limites da linha </p> </td> 
    <td colname="col2"> <p>Não há limite conhecido para o número de linhas. </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p>Limites de coluna </p> </td> 
-   <td colname="col2"> <p>Em prol da praticidade, limite o número de colunas para aproximadamente 200. </p> </td> 
+   <td colname="col2"> <p>Para praticidade, limite o número de colunas para cerca de 200. </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p>Limites de caracteres </p> </td> 
-   <td colname="col2"> <p>Ao criar uma assinatura do Analytics, o tamanho do campo dos arquivos enviados por upload é truncado até 255. </p> </td> 
+   <td colname="col2"> <p>Ao criar uma subscrição do Analytics, as durações de campo dos arquivos carregados são truncadas para 255. </p> </td> 
   </tr> 
   <tr> 
-   <td colname="col1"> <p>Diretrizes de FTP e limitações de tamanho </p> </td> 
+   <td colname="col1"> <p>Diretrizes FTP e limitações de tamanho </p> </td> 
    <td colname="col2"> <p> 
      <ul id="ul_E157EE6F98914EADA0C103D1D1E705D3"> 
       <li id="li_84FBD455DD164A28AC16F4A5AB19E4B3">O limite de tamanho máximo do arquivo para FTP é de 4 GB para cada upload. </li> 
       <li>Limite mínimo do tamanho de arquivo de 10 mb para cada upload. </li>
       <li>É possível carregar um arquivo a cada meia hora. </li>
       <li id="li_B69A20C51D824727AA99C1F6F78537A4"> Você deve colocar seu arquivo <span class="filepath">.csv</span> (e <span class="filepath">.fin</span>) na pasta raiz do site FTP. </li> 
-     </ul> </p> <p> <p>Importante: o espaço total permitido para a conta do FTP é 40 GB. É sua responsabilidade excluir os arquivos processados. </p> </p> </td> 
+     </ul> </p> <p> <p>Importante: o espaço total permitido para a conta do FTP é 40 GB. É sua responsabilidade excluir arquivos processados. </p> </p> </td> 
   </tr> 
   <tr> 
-   <td colname="col1"> <p>Requisitos do arquivo </p> </td> 
-   <td colname="col2"> <p> Cada fonte de atributo deve conter o mesmo número de campos separados por vírgula. </p> <p> Os campos que contêm quebra de linha, aspas duplas ou vírgulas devem ser citados. </p> <p> Use barras invertidas (\) para fazer o escape dos caracteres com aspas duplas em um campo. </p> <p> As colunas em branco são armazenadas como <span class="term">null</span>. </p> </td> 
+   <td colname="col1"> <p>Requisitos de arquivo </p> </td> 
+   <td colname="col2"> <p> Cada fonte de atributo deve conter o mesmo número de campos separados por vírgulas. </p> <p> Os campos que contêm quebra de linha, aspas de duplo ou vírgulas devem ser citados. </p> <p> Os caracteres de aspas de Duplo em um campo devem ser evitados com uma barra invertida (\). </p> <p> Colunas em branco são armazenadas como <span class="term"> nulo </span>. </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p>Vários arquivos </p> </td> 
    <td colname="col2"> <p>Ao carregar os dados do atributo do cliente, se você tiver vários arquivos que deseja fazer upload rapidamente e, em particular, se os arquivos forem grandes, verifique se o arquivo anterior foi processado antes de fazer upload do próximo arquivo. É possível monitorar isso verificando quando o arquivo anterior foi movido para a pasta processada ou com falha na conta FTP dos atributos do cliente. </p> <p> Dividir um arquivo grande em arquivos menores e enviá-los rapidamente pode, na verdade, atrasar o processamento, a menos que seja possível garantir que cada arquivo seja completamente processado antes de enviar o seguinte. </p> </td> 
   </tr> 
   <tr> 
-   <td colname="col1"> <p>Codificação de caractere </p> </td> 
+   <td colname="col1"> <p>Codificação de caracteres </p> </td> 
    <td colname="col2"> <p>Para o Japão, UTF-8 é obrigatório. </p> </td> 
   </tr> 
    <tr> 
-   <td colname="col1"> <p>Dados de histórico </p> </td> 
-   <td colname="col2"> <p> Os atributos do cliente estão ligados ao perfil subjacente do visitante no Analytics. Sendo assim, os atributos do cliente estão associados ao visitante por toda a vida do perfil do visitante no Analytics. Isso inclui o comportamento registrado antes que o cliente tenha feito logon pela primeira vez. </p> <p> Se você usa o método de aterramento de Data Warehouse, os dados são ligados a um post_visid_high/low com base na ID de análise (AID). Se você estiver usando o Serviço da Experience Cloud ID, os dados serão vinculados a um post_visid_high/low com base na Experience Cloud ID (MID). </p> </td> 
+   <td colname="col1"> <p>Dados históricos </p> </td> 
+   <td colname="col2"> <p> Os atributos do cliente estão ligados ao perfil subjacente do visitante no Analytics. Sendo assim, os atributos do cliente estão associados ao visitante por toda a vida do perfil do visitante no Analytics. Isso inclui o comportamento que ocorreu antes do cliente se conectar pela primeira vez. </p> <p> Se você usa o método de aterramento de Data Warehouse, os dados são ligados a um post_visid_high/low com base na ID de análise (AID). Se você estiver usando o Serviço da Experience Cloud ID, os dados serão vinculados a um post_visid_high/low com base na Experience Cloud ID (MID). </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p>Feeds de dados </p> </td> 
-   <td colname="col2"> <p>Os atributos do cliente não estão disponíveis em feeds de dados. </p> </td> 
+   <td colname="col2"> <p>Os atributos do cliente não estão disponíveis nos feeds de dados. </p> </td> 
   </tr> 
  </tbody> 
 </table>
@@ -147,7 +147,7 @@ O mesmo arquivo visualizado em um editor de texto:
 
 Ao criar, modificar ou excluir fontes de atributos do cliente, ocorre um atraso de até uma hora antes de as IDs começarem a sincronizar com a nova fonte de dados.
 
-A ID do alias de cada fonte de atributo do cliente deve ser exclusiva. Se você tiver fontes de dados diversas que utilizam a mesma ID, elas devem ser configuradas da seguinte maneira:
+A ID do alias de cada fonte de atributo do cliente deve ser exclusiva. Se você tiver várias fontes de dados que utilizam a mesma ID, elas devem ser configuradas da seguinte maneira:
 
 **Em VisitorAPI.js ou na ferramenta da Experience Cloud ID no Dynamic Tag Management:**
 

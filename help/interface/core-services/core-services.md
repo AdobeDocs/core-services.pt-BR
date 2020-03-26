@@ -7,7 +7,7 @@ solution: Experience Cloud
 title: Ativar as soluções dos principais serviços
 uuid: 5820060f-9b18-4339-81e0-401d964f7a03
 translation-type: tm+mt
-source-git-commit: f7ec8bf6087a18be41c9efbf05f60e6cfd24e566
+source-git-commit: 979520e2f0e015180a3b51d4b0b88b96b72301a3
 
 ---
 
@@ -199,7 +199,7 @@ Tire proveito dos seguintes recursos do serviço principal.
 
 ![](assets/menu-audiences-shell.png)
 
-### [!UICONTROL Pessoas] > Atributos [!UICONTROdo cliente]
+### [!UICONTROL Pessoas] > Atributos [!UICONTROL do cliente]
 
 Se você capturar os dados de clientes de empresas em um banco de dados de gerenciamento de relacionamento com o cliente (CRM), poderá fazer upload dos dados em uma fonte de dados do atributo do cliente na Experience Cloud. Depois de enviado, aproveite os dados no [!DNL Adobe Analytics] e no [!DNL Adobe Target].
 

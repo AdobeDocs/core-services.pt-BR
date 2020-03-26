@@ -1,22 +1,22 @@
 ---
 description: Como o suporte a cookies de terceiros se tornou cada vez mais limitado nos navegadores, a Adobe tem trabalhado em novas soluções que equilibram as necessidades do cliente com seu direito de privacidade nas soluções da Adobe Experience Cloud.
-keywords: cookies; privacidade
+keywords: cookies;privacy
 seo-description: Como o suporte a cookies de terceiros se tornou cada vez mais limitado nos navegadores, a Adobe tem trabalhado em novas soluções que equilibram as necessidades do cliente com seu direito de privacidade nas soluções da Adobe Experience Cloud.
 seo-title: Como as alterações no suporte a cookies de terceiros afeta os clientes
-solution: Experience Cloud,Analytics,Target,Social
+solution: Marketing Cloud,Analytics,Adobe Target,Adobe Social
 title: Como as alterações no suporte a cookies de terceiros afeta os clientes
 uuid: 27332e0d-6932-4a6e-b97b-0adeced0b050
 translation-type: tm+mt
-source-git-commit: 012283d79bda42f9dabb20b25903927b075f6d54
+source-git-commit: f7ec8bf6087a18be41c9efbf05f60e6cfd24e566
 
 ---
 
 
-# Como as alterações no suporte a cookies de terceiros afetam os clientes{#how-changes-to-third-party-cookie-support-impacts-customers}
+# How changes to third-party cookie support impact customers{#how-changes-to-third-party-cookie-support-impacts-customers}
 
 Como o suporte a cookies de terceiros se tornou cada vez mais limitado nos navegadores, a Adobe tem trabalhado em novas soluções que equilibram as necessidades do cliente com seu direito de privacidade nas soluções da Adobe Experience Cloud.
 
-A seguinte lista descreve como o suporte a cookies de terceiros afeta as implementações atuais das soluções da Adobe Experience Cloud:
+A lista a seguir descreve como o suporte a cookies de terceiros afeta as implementações atuais das soluções da Adobe Experience Cloud:
 
 ## Adobe Analytics e Adobe Target
 
@@ -35,18 +35,17 @@ A seguinte lista descreve como o suporte a cookies de terceiros afeta as impleme
 
 * Pesquisa:
 
-   * Quando a pesquisa é otimizada com base nos dados do Adobe Analytics, ela será afetada da mesma forma que o Adobe Analytics.
-   * A coleta e dados de conversão não deve ser afetada.
+   * Quando a pesquisa for otimizada com base nos dados do Adobe Analytics, ela será afetada da mesma forma que o Adobe Analytics.
+   * A coleta de dados de conversão não deve ser afetada.
 
 * Exibir:
 
-   * A exibição de remarketing hoje é totalmente dependente da utilização de cookies de terceiros.
-   * A exibição também é altamente dependente da disponibilidade de diferentes cookies de rede de publicidade para sincronização.
-   * O impacto geral é desconhecido. Entretanto, de acordo com o primeiro ponto, a exibição é afetada mais do que os serviços.
-   * Estamos trabalhando internamente e com nossos parceiros de publicidade para avaliar a extensão total do impacto no fornecimento de anúncios.
+   * A recomercialização de exibição hoje depende totalmente do uso de cookies de terceiros.
+   * A exibição também depende muito da disponibilidade de vários cookies de rede de publicidade para sincronização.
+   * O impacto global é desconhecido. No entanto, de acordo com o primeiro ponto, a exibição é afetada mais do que outros serviços.
+   * Estamos trabalhando internamente e com nossos parceiros de publicidade para avaliar a extensão total do impacto no delivery de anúncios.
 
 * Social:
 
    * Não há impacto nos anúncios do Facebook marketplace.
-   * O Facebook Exchange (FBX) será afetado da mesma forma que a exibição do fornecimento de anúncios.
-
+   * O Facebook Exchange (FBX) será afetado da mesma forma que o delivery de anúncio de exibição.

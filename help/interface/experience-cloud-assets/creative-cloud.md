@@ -1,13 +1,13 @@
 ---
-description: Compartilhe pastas e ativos entre a Experience Cloud e a Creative Cloud. Colabore, anote ativos compartilhados e use-os nas soluções da Experience Cloud, como o Social e o Target. A pasta compartilhada deve se originar da Experience Cloud.
+description: Compartilhe pastas e ativos entre a Experience Cloud e a Creative Cloud. Colabore, anote ativos compartilhados e use-os nas soluções da Experience Cloud, como o Adobe Social e o Adobe Público alvo. A pasta compartilhada deve se originar da Experience Cloud.
 keywords: asset sharing;Creative Cloud;core services
-seo-description: Compartilhe pastas e ativos entre a Experience Cloud e a Creative Cloud. Colabore, anote ativos compartilhados e use-os nas soluções da Experience Cloud, como o Social e o Target. A pasta compartilhada deve se originar da Experience Cloud.
+seo-description: Compartilhe pastas e ativos entre a Experience Cloud e a Creative Cloud. Colabore, anote ativos compartilhados e use-os nas soluções da Experience Cloud, como o Adobe Social e o Adobe Público alvo. A pasta compartilhada deve se originar da Experience Cloud.
 seo-title: Compartilhar as pastas e os ativos da Experience Cloud com a Creative Cloud
 solution: Experience Cloud
 title: Compartilhar as pastas e os ativos da Experience Cloud com a Creative Cloud
 uuid: 2bb002a6-e08e-402b-8df0-ecb21ab74490
 translation-type: tm+mt
-source-git-commit: f7ec8bf6087a18be41c9efbf05f60e6cfd24e566
+source-git-commit: 979520e2f0e015180a3b51d4b0b88b96b72301a3
 
 ---
 

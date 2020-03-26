@@ -7,7 +7,7 @@ solution: Marketing Cloud
 title: Faça logon e gerencie as configurações do seu perfil
 uuid: c1e13b99-0069-4fdb-8d72-ddcec3ed1121
 translation-type: tm+mt
-source-git-commit: a260a0e607b72ace6f89928d51cbfb35bb40b56b
+source-git-commit: f7ec8bf6087a18be41c9efbf05f60e6cfd24e566
 
 ---
 
@@ -43,12 +43,12 @@ Faça logon e verifique se você está na [organização](../admin-getting-start
 | Elemento | Descrição |
 |--- |--- |
 | [Noções básicas do Admin Console](https://helpx.adobe.com/marketing-cloud/how-to/first-time-setup.html) | Saiba mais sobre as etapas iniciais necessárias para começar a usar as soluções da Experience Cloud. |
-| [Configurar a identidade](https://helpx.adobe.com/enterprise/using/set-up-identity.html) | Defina e configure um sistema de identidade que será usado para a autenticação de seus clientes. |
+| [Configurar identidade](https://helpx.adobe.com/enterprise/using/set-up-identity.html) | Defina e configure um sistema de identidade com base no qual os usuários finais serão autenticados. |
 | [Gerenciamento de usuários](https://helpx.adobe.com/enterprise/using/users.html) | Saiba mais sobre como fazer logon no Admin Console e gerenciar permissões de usuário e perfis de produto da Experience Cloud. |
 | [Iniciar o Admin Console](../admin-getting-started/admin-getting-started.md) | O Admin Console é o local central para gerenciar usuários e direitos de produtos da Adobe em toda a organização.<br>Também é possível fazer logon no Admin Console por meio de um [link direto](https://adminconsole.adobe.com). |
-| [Gerenciar usuários da Creative Cloud](../experience-cloud-assets/t-admin-add-cc-user.md) | Os Ativos da Experience Cloud permitem aos comerciantes compartilhar, sincronizar e colaborar em pastas com designers e outros ativos criativos usando a Creative Cloud. Você pode gerenciar usuários da Creative Cloud aprovados para colaborar com sua organização aqui. |
-| [Mapear os conjuntos de relatórios](../core-services/core-services.md) | (Somente para Analytics) Os serviços principais da Experience Cloud estão associados a uma organização em vez de um conjunto de relatórios individual. Para garantir o funcionamento correto desses serviços, cada conjunto de relatórios do Analytics deve ser mapeado para uma organização. (Esta tarefa faz parte de um fluxo de trabalho mais abrangente para [habilitar o Analytics para os serviços principais](../core-services/core-services.md#concept_07ED1D5C64234E77976E6D572E78FB9C)). |
-| [ID da organização](../admin-getting-started/organizations.md) | A *ID da organização* pode ser encontrada no fim da página Administração. Essa é a ID associada à empresa provisionada pela Experience Cloud. A ID é uma sequência de 24 caracteres alfanuméricos seguidos por (e deve incluir) @AdobeOrg. |
+| [Gerenciar usuários da Creative Cloud](../experience-cloud-assets/t-admin-add-cc-user.md) | Os ativos da Experience Cloud permitem que os profissionais de marketing compartilhem, sincronizem e colaborem em pastas com designers e outros ativos criativos usando a Creative Cloud. Você pode gerenciar os usuários da Creative Cloud aprovados para colaborar com sua organização aqui. |
+| [Mapear os conjuntos de relatórios](../core-services/core-services.md) | (Somente para Analytics) Os principais serviços da Experience Cloud estão associados a uma organização em vez de a um conjunto de relatórios individual. Para garantir o funcionamento correto desses serviços, cada conjunto de relatórios do Analytics deve ser mapeado para uma organização. (Essa tarefa faz parte de um fluxo de trabalho mais amplo para [habilitar o Analytics para os principais serviços](../core-services/core-services.md#concept_07ED1D5C64234E77976E6D572E78FB9C)). |
+| [ID da organização](../admin-getting-started/organizations.md) | A ID *da* organização está localizada na parte inferior da página Administração. Essa ID é a ID associada à empresa provisionada pela Experience Cloud. A ID é uma sequência de 24 caracteres alfanuméricos seguidos por (e deve incluir) @AdobeOrg. |
 
 ## Fazer logon na Experience Cloud (usuários) {#task_1BFE87E20DCB44078CAC82F3CD44B985}
 
@@ -58,12 +58,12 @@ Ajuda para usuários não administrativos que fazem logon na Experience Cloud.
 1. Verifique com o administrador se sua [organização](../admin-getting-started/getting-started-experience-cloud.md#concept_384D169B0B724B799D573B8ECB5C39BF) foi provisionada na Experience Cloud.
 
 
-1. Acesse a [Adobe Experience Cloud](https://experiencecloud.adobe.com) ([!DNL experiencecloud.adobe.com]).
+1. Navigate to the [Adobe Experience Cloud](https://experiencecloud.adobe.com) ([!DNL experiencecloud.adobe.com]).
 1. Clique em **[!UICONTROL Fazer logon com Adobe ID]**.
 
    O administrador da Experience Cloud pode ajudar você a determinar o tipo de conta (Adobe ID ou Enterprise ID).
 
-1. Na página inicial, clique no ícone do seletor ![](assets/menu-icon.png) para acessar o menu suspenso.
+1. Na landing page, clique no ícone do seletor ![](assets/menu-icon.png) para acessar o menu suspenso.
 
    ![](assets/experience-cloud-core-services.png)
 
@@ -83,14 +83,14 @@ Ajuda para usuários não administrativos que fazem logon na Experience Cloud.
 
 ## Ativar notificações {#concept_0105453AD71847B8BFCAF4A40915F157}
 
-Receba notificações (por email ou no produto) sobre atualizações do sistema, avisos de manutenção, publicações, menções e ativos compartilhados. Você também pode especificar produtos e soluções para os quais deseja receber notificações, incluindo o status do upload dos atributos do cliente.
+Receba notificações (por email ou no produto) sobre atualizações do sistema, avisos de manutenção, publicações, menções e ativos compartilhados. Você também pode especificar os produtos e soluções para os quais deseja receber notificações, incluindo o status de upload dos atributos do cliente.
 
 Para navegar até Notificações, clique no ícone **[!UICONTROL Notificações]**, ![](assets/notifications-icon.png) em seguida clique no ícone **[!UICONTROL Configurações]** ![](assets/icon_edit_board.png).
 
-Você pode classificar a tela Notificações com base nos tipos de mensagens importantes para você e pesquisar por elas. Também é possível:
+Você pode classificar a tela Notificações com base nos tipos de mensagens importantes para você e pesquisar por elas. Você também pode:
 
-* Classificar os tipos de mensagens importantes para você.
-* Pesquisar as notificações.
+* Classifique pelos tipos de mensagem que são importantes para você.
+* Procure notificações.
 
 
 **Para ativar notificações**
@@ -103,7 +103,7 @@ Você pode classificar a tela Notificações com base nos tipos de mensagens imp
  <li id="li_03D33D3228884CECA371B58656B2F3E7">Guided analysis shared </li> 
  <li id="li_DCF710F89317487B8DAA86CC05C694CA">Scheduled report failure </li> 
 </ul> 
-<p> <b>Target</b> </p> 
+<p> <b>Adobe Target</b> </p> 
 <p>Test started or stopped </p> 
 <p> <b>Media Optimizer</b> </p> 
 <p>Performance alerts </p> 
@@ -128,20 +128,20 @@ Você pode editar o perfil da Experience Cloud, especificar uma organização pa
 
    Na página Perfil e senhas, preencha os campos e as opções em Detalhes pessoais.
 
-## Recuperar a senha {#task_46541A2806164CB1A4AE8239604E4EB1}
+## Recuperar sua senha {#task_46541A2806164CB1A4AE8239604E4EB1}
 
 1. Navegue até a página de logon da solução.
 1. Clique em **[!UICONTROL Esqueceu a senha]**.
 
    Redefinir a senha da solução resolverá os problemas com a vinculação de senha da Experience Cloud.
 
-   Para os usuários do Adobe Analytics, navegue até [https://sc2.omniture.com/password_recovery.html](https://sc2.omniture.com/password_recovery.html).
+   For Adobe Analytics users, navigate to [https://sc2.omniture.com/password_recovery.html](https://sc2.omniture.com/password_recovery.html).
 
 ## Configurar o logon da solução por meio de um link direto {#concept_8BE493A08786469B88B210E13F78FF2F}
 
-Como alternativa, você pode fazer logon em uma página específica em uma solução usando a autenticação fornecida pela interface da Experience Cloud.
+Como opção, você pode fazer logon em uma página específica em uma solução, usando a autenticação fornecida pela interface da Experience Cloud.
 
-### Modelo do URL
+### Modelo de URL
 
 `https://<tenantId>.experiencecloud.adobe.com/<solutionname>?destURL=<fullURL>`
 
@@ -153,8 +153,8 @@ Amostra do URL:
 >
 >Você deve codificar qualquer URL antes de passá-lo para o parâmetro `destURL`. (Encoder sites like [URL Decoder / Encoder](https://meyerweb.com/eric/tools/dencoder/) are available.)
 
-| Parâmetro | Descrição | Exemplo | Obrigatório/opcional |
+| Parâmetro | Descrição | Exemplo | Obrigatório / Opcional |
 |--- |--- |--- |--- |
-| tenantId | Nome do inquilino no qual o usuário deve fazer logon. | aem62tenant | Opcional |
-| destURL | O URL completo do local para onde o usuário é direcionado. | https://sc.omniture.com/x/1_7xxzf | Opcional |
-| solutionname | Nome da Solução MAC proprietária do parâmetro destURL. É usado para verificar se o usuário tem acesso à solução proprietária do URL.  As soluções são responsáveis por verificar se solutionname está sincronizado com o parâmetro destURL.  Por exemplo: se o URL tiver solutionname como social e o destURL fornecido for um url do analytics, o usuário será redirecionado para o url mesmo que ele não tenha acesso ao analytics. A Solução MAC NÃO verifica se o proprietário do destURL está sincronizado com o nome da solução. | analytics | Obrigatório se o parâmetro destURL for usado. |
+| locatárioId | Nome do locatário no qual o usuário deve se conectar. | aem62tenant | Opcional |
+| destURL | O URL completo do local para o qual o usuário deve ser direcionado. | https://sc.omniture.com/x/1_7xxzf | Opcional |
+| solutionname | Nome da Solução MAC proprietária do parâmetro destURL. É usado para verificar se o usuário tem acesso à solução proprietária do URL.  As soluções são responsáveis por verificar se solutionname está sincronizado com o parâmetro destURL.  Por exemplo: Se o URL contiver solutionname como social e o destURL fornecido for um url do analytics, o usuário será redirecionado para o url mesmo se ele não tiver acesso ao analytics. O MAC NÃO verifica se o proprietário do destURL está sincronizado com o nome da solução. | analytics | Obrigatório se o parâmetro destURL for usado. |

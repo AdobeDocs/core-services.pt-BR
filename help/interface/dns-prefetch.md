@@ -6,7 +6,7 @@ solution: Experience Cloud
 title: Uso da pré-busca DNS com diferentes soluções e serviços
 uuid: 4220e223-e00e-46b1-8bde-52248913bea1
 translation-type: tm+mt
-source-git-commit: 73cb227d2b44024706ce24a9ae6aa06c57a8ce85
+source-git-commit: f7ec8bf6087a18be41c9efbf05f60e6cfd24e566
 
 ---
 
@@ -17,16 +17,16 @@ Implemente a pré-busca DNS para ajudar a reduzir o tempo de carregamento da pá
 
 ## Noções básicas da pré-busca DNS {#section_772BF9CB7C4141DE9B0355146E2CD962}
 
-Os navegadores usam a pré-busca DNS para resolver automaticamente os nomes de domínio vinculados em uma página da Web aos endereços IP correspondentes. O processo de pré-busca inicia quando o navegador carrega uma página da Web. Como exemplo, considere que sua página contém um link clicável para `www.adobe.com`. Quando um navegador carrega essa página, ele usa o [sistema DNS](https://www.networksolutions.com/support/what-is-a-domain-name-server-dns-and-how-does-it-work/) para buscar o nome do domínio vinculado e resolvê-lo em um endereço IP numérico correspondente. A pré-busca DNS ajuda a melhorar o desempenho da página, pois o nome do domínio já foi resolvido em um endereço IP antes de um visitante do site clicar nesse link ou botão. O processo da pré-busca DNS é transparente para os usuários.
+Os navegadores usam a pré-busca DNS para resolver automaticamente os nomes de domínio vinculados em uma página da Web aos endereços IP correspondentes. O processo de busca prévia é start quando o navegador carrega uma página da Web. Como exemplo, considere que sua página contém um link clicável para `www.adobe.com`. When a browser loads this page, it uses the [DNS system](https://www.networksolutions.com/support/what-is-a-domain-name-server-dns-and-how-does-it-work/) to look up the linked domain name and resolve it to a corresponding numeric IP address. A pré-busca DNS ajuda a melhorar o desempenho da página porque o nome do domínio já está resolvido para um endereço IP antes que um visitante do site clique nesse link ou botão. O processo de busca prévia DNS é transparente para os usuários.
 
 ## Pré-busca DNS e soluções da Adobe Experience Cloud {#section_202A07F9F79F4ABDA44B98BA1DDCD516}
 
-A pré-busca DNS funciona automaticamente com links estáticos e incorporados em uma página. Isso significa que a pré-busca DNS automática não funciona com soluções e serviços da [!UICONTROL Experience Cloud], pois:
+A pré-busca DNS funciona automaticamente com links estáticos e incorporados em uma página. Isso também significa que a pré-busca DNS automática não funciona com soluções e serviços diferentes da [!UICONTROL Experience Cloud] porque:
 
 * Cada solução ou serviço da Experience Cloud gera chamadas DNS dinamicamente à medida que a página é carregada.
-* O navegador não pode resolver nomes de domínio para um endereço IP antes de efetuar essas chamadas.
+* O navegador não pode resolver nomes de domínio para endereço IP antes que essas chamadas sejam feitas.
 
-Entretanto, você pode implementar a pré-busca DNS manualmente com as soluções da Experience Cloud. Para isso, adicione a tag HTML `<dns-prefetch>` à seção `<head>` do código da página, como mostrado abaixo. Quando implementado adequadamente, a pré-busca DNS pode ajudar a economizar alguns milissegundos de tempo de carregamento da página.
+No entanto, é possível implementar a pré-busca DNS manualmente com as soluções da Experience Cloud. Para isso, adicione a tag HTML `<dns-prefetch>` à seção `<head>` do código da página, como mostrado abaixo. Quando implementado adequadamente, a pré-busca DNS pode ajudar a economizar alguns milissegundos de tempo de carregamento da página.
 
 ## Amostras de código de pré-busca DNS {#section_E886F7B2861E48BA9EF3D8B3CE32B345}
 
@@ -38,7 +38,7 @@ Os seguintes exemplos mostram como fazer chamadas de pré-busca DNS para soluç�
 
 * **Audience Manager:** `<link rel="dns-prefetch" href="//dpm.demdex.net">`
 
-* **** Serviço da Experience Cloud ID: `<link rel="dns-prefetch" href="//fast. *`insira a ID do parceiro aqui`*.demdex.net">`
+* **Serviço da Experience Cloud ID:** `<link rel="dns-prefetch" href="//fast. *`insira a ID do parceiro aqui`*.demdex.net">`
 
 * **Gerenciador dinâmico de tags** (DTM): Não obrigatório. Os links de DTM estão disponíveis assim que a página é carregada.
 
@@ -48,9 +48,9 @@ Os seguintes exemplos mostram como fazer chamadas de pré-busca DNS para soluç�
    * `<link rel="dns-prefetch" href="//cm.everesttechnet">`
 
 
-* **Target:** `<link rel="dns-prefetch" href="//insert customer code here.tt.omtrdc.net">`
+* **[!DNL Target]:**`<link rel="dns-prefetch" href="//insert customer code here.tt.omtrdc.net">`
 
 >[!MORE_LIKE_THIS]
 >
->* [Busca prévia no DNS](https://www.chromium.org/developers/design-documents/dns-prefetching)
+>* [Pré-busca DNS](https://www.chromium.org/developers/design-documents/dns-prefetching)
 

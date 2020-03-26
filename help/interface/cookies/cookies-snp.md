@@ -1,13 +1,13 @@
 ---
 description: O Search&Promote usa cookies para entender e antecipar a intenção de pesquisa do visitante.
-keywords: cookies; privacidade
+keywords: cookies;privacy
 seo-description: O Search&Promote usa cookies para entender e antecipar a intenção de pesquisa do visitante.
 seo-title: Cookies do Search&Promote
-solution: Experience Cloud,Analytics,Target,Social
+solution: Marketing Cloud,Analytics,Adobe Target,Adobe Social
 title: Cookies do Search&Promote
 uuid: 65bf24e0-0564-4dc2-b652-9fd9db57d23f
 translation-type: tm+mt
-source-git-commit: 012283d79bda42f9dabb20b25903927b075f6d54
+source-git-commit: f7ec8bf6087a18be41c9efbf05f60e6cfd24e566
 
 ---
 
@@ -28,11 +28,11 @@ O Search&amp;Promote usa cookies para entender e antecipar a intenção de pesqu
  <tbody> 
   <tr> 
    <td colname="col1"> <p>Informações armazenadas </p> </td> 
-   <td colname="col2"> <p> Rastreia as três últimas pesquisas que um usuário executou no domínio do cliente. </p> </td> 
+   <td colname="col2"> <p> Rastreia as três últimas pesquisas que um usuário realizou no domínio do cliente. </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p> Expiração </p> </td> 
-   <td colname="col2"> <p>Configurável em Search&amp;Promote <span class="uicontrol">(Design</span> &gt; <span class="uicontrol">Navegação</span> &gt; <span class="uicontrol">Pesquisas recentes</span>). Você pode selecionar dentre as opções de expiração de cookie a seguir: </p> <p> 
+   <td colname="col2"> <p>Configurável em Search&amp;Promote <span class="uicontrol">(Design</span> &gt; <span class="uicontrol">Navegação</span> &gt; <span class="uicontrol">Pesquisas recentes</span>). Você pode selecionar uma das seguintes opções de expiração de cookie: </p> <p> 
      <ul id="ul_28F564A6337D497699D5247F755981B8"> 
       <li id="li_6478BB5AF82341F787F92D03E277DBBB">Fim da sessão </li> 
       <li id="li_AF88B165365D4A63A82CB6ADD4542D66"> 3 horas </li> 
@@ -47,7 +47,7 @@ O Search&amp;Promote usa cookies para entender e antecipar a intenção de pesqu
   </tr> 
   <tr> 
    <td colname="col1"> <p> Uso </p> </td> 
-   <td colname="col2"> <p>Usado pelo mecanismo de busca para exibir os últimos n termos de pesquisa para o usuário. </p> </td> 
+   <td colname="col2"> <p>Usado pelo mecanismo de pesquisa para exibir ao usuário seus últimos n termos de query. </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p> Localização </p> </td> 
@@ -55,7 +55,7 @@ O Search&amp;Promote usa cookies para entender e antecipar a intenção de pesqu
   </tr> 
   <tr> 
    <td colname="col1"> <p> Tamanho </p> </td> 
-   <td colname="col2"> <p>Menos de mil. </p> </td> 
+   <td colname="col2"> <p>Menos de 1K. </p> </td> 
   </tr> 
  </tbody> 
 </table>

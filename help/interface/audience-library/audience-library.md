@@ -6,7 +6,7 @@ solution: Experience Cloud
 title: Audiences
 uuid: 92faf3a8-1375-4e32-905b-74cad48144d3
 translation-type: tm+mt
-source-git-commit: 14d6e0ae15b023ad4dd3f8aca0606f26b39a21e9
+source-git-commit: f7ec8bf6087a18be41c9efbf05f60e6cfd24e566
 
 ---
 
@@ -39,14 +39,14 @@ A tabela a seguir descreve como as audiências são usadas nas soluções da Exp
 | Públicos-alvo da Experience Cloud | Crie, gerencie e compartilhe públicos-alvo originalmente usando a interface da [Biblioteca de público-alvo](../audience-library/audience-library.md). É possível:<ul><li>Usar audiências em tempo real usando atributos brutos de análise</li><li>Combinar audiências para criar compostos, unindo dados históricos e em tempo real</li><li>Veja visualizações gráficas do tamanho estimado das audiências</li></ul><br>Para obter sugestões sobre que tipo de audiência você deseja criar, consulte: Audiências [da Experience Cloud](https://helpx.adobe.com/marketing-cloud-core/kb/People/Audience-Creation-Options.html). |
 | Analytics | Na segmentação, você pode criar um segmento, combiná-lo com um conjunto de relatórios e, em seguida, [publicar o segmento na Experience Cloud](../audience-library/audience-library.md). O segmento publicado é exibido na página [Públicos-alvo](../audience-library/audience-library.md). O público-alvo também fica disponível como um público-alvo direcionado para uma experiência de campanha oferecida pelo Adobe Target e no Audience Manager. Once an audience is shared from Analytics, and selected for use in an active campaign, all the visitor profiles who met the segment definition criteria for the past 90 days are sent to the Experience Cloud [!UICONTROL Audience Services] platform. O limite para audiências compartilhadas foi aumentado para 75. As Audiências compartilhadas com a Experience Cloud a partir do Analytics não podem exceder 20 milhões de membros únicos. Além disso, devido ao cache, conjuntos de relatórios excluídos no Analytics permanecem exibidos na Experience Cloud por 12 horas antes da exclusão. |
 | Mobile Services | Analise o tráfego móvel usando a visualização em forma de raio de sol no relatório Tipos [!UICONTROL de] dispositivo. |
-| Target | The [ID service](https://docs.adobe.com/content/help/en/id-service/using/home.html) unifies visitor IDs and data into a single, actionable profile for use across solutions. A caixa de seleção [Publicar na Experience Cloud](../audience-library/audience-library.md) durante o processo de criação de segmento no Adobe Analytics permite que o segmento fique disponível na biblioteca de público-alvo-alvo personalizado no Adobe Target. Um segmento criado no Analytics ou no Audience Manager pode ser usado em atividades no Target.  Por exemplo, é possível criar atividades de campanha baseadas nas métricas de conversão do Analytics e nos segmentos de público-alvo criados no Analytics. |
+| [!DNL Target] | The [ID service](https://docs.adobe.com/content/help/en/id-service/using/home.html) unifies visitor IDs and data into a single, actionable profile for use across solutions. A caixa de seleção [Publicar na Experience Cloud](../audience-library/audience-library.md) durante o processo de criação de segmento no Adobe Analytics permite que o segmento fique disponível na biblioteca de público-alvo-alvo personalizado no Adobe Target. Um segmento criado no Analytics ou no Audience Manager pode ser usado em atividades no  [!DNL Target].  Por exemplo, é possível criar atividades de campanha baseadas nas métricas de conversão do Analytics e nos segmentos de público-alvo criados no Analytics. |
 | Audience Manager | Os públicos-alvo compartilhados ficam disponíveis na segmentação do Audience Manager. Todos os públicos-alvo da Experience Cloud estão disponíveis originalmente no Audience Manager, que oferece:<ul><li>Automação integrada em relação ao modo como são compartilhados e consumidos em workflows de solução</li><li>Destinos externos</li><li>Modelagem semelhante</li></ul> |
 | Campanha | <ul><li>Importar públicos-alvo compartilhados de diferentes soluções da Adobe Experience Cloud para o Adobe Campaign.</li><li>Exportar listas de destinatários em formato de públicos-alvo compartilhados. Essas audiências compartilhadas podem ser usadas nas diferentes soluções da Adobe Experience Cloud que você usa.</li></ul> |
 | Media Optimizer | Use a audiência como públicos alvos. |
 
 >[!IMPORTANT]
 >
->Quando um visitante se qualifica para a audiência compartilhada do Analytics, há um atraso de 4 a 8 horas antes que essas informações sejam acionáveis no Público alvo, na Ad Cloud e no Campaign Standard.
+>Once a visitor qualifies for the audience shared from Analytics, there is a 4-8 hour delay before that information is actionable in [!DNL Target], Ad Cloud, and Campaign Standard.
 
 ## Mais ajuda: perguntas, instruções e casos de uso {#section_C7F151644D8A45F7B6FC54F58845635D}
 

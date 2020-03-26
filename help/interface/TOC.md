@@ -4,7 +4,7 @@ user-guide-title: Core Services User Guide
 user-guide-url: https://www.adobe.com
 index: true
 translation-type: tm+mt
-source-git-commit: d225ef8800228d35c1920904f6fe7590bd751de3
+source-git-commit: f7ec8bf6087a18be41c9efbf05f60e6cfd24e566
 
 ---
 
@@ -27,19 +27,19 @@ source-git-commit: d225ef8800228d35c1920904f6fe7590bd751de3
    + [Cookies da Data Workbench](cookies/cookies-insight.md)
    + [Cookies da Experience Cloud](cookies/cookies-mc.md)
    + [Cookies da Advertising Cloud](cookies/cookies-advertising-cloud.md)
-   + [Cookies do Scene7](cookies/cookies-s7.md)
-   + [Cookies do Search&amp;Promote](cookies/cookies-snp.md)
-   + [Cookies do Target](cookies/cookies-target.md)
+   + [[!DNL Scene7] cookies](cookies/cookies-s7.md)
+   + [[!DNL Search and Promote] cookies](cookies/cookies-snp.md)
+   + [Cookies [!DNL Público alvo]](cookies/cookies-target.md)
    + [Ativar as configurações de privacidade de cookies do navegador](cookies/browser-cookie-settings.md)
-   + [Como as alterações no suporte a cookies de terceiros afeta os clientes](cookies/cookies-thirdparty.md)
+   + [Como as alterações no suporte a cookies de terceiros afetam os clientes](cookies/cookies-thirdparty.md)
 + Gerenciamento de usuários e de produtos {#manage-users-and-products}
    + [Gerenciar usuários e produtos da Experience Cloud (Admin Console)](admin-getting-started/admin-getting-started.md)
-   + [Exibir detalhes do usuário da Experience Cloud (Ferramenta de administração)](admin-getting-started/admin-tool-experience-cloud.md)
+   + [Detalhes do usuário da Visualização Experience Cloud (Ferramenta de administração)](admin-getting-started/admin-tool-experience-cloud.md)
    + [Perguntas frequentes](admin-getting-started/faq.md)
    + [Fazer logon e gerenciar as configurações do seu perfil](admin-getting-started/getting-started-experience-cloud.md)
    + [Organizações e vinculação de contas](admin-getting-started/organizations.md)
    + [Atualização para o Analytics Premium e a Experience Cloud](admin-getting-started/upgrade-to-analytics-premium.md)
-+ Experience Cloud Activation {#activation}
++ Ativação da Experience Cloud {#activation}
    + [Visão geral de Activation](activation/activation.md)
    + [Guia do usuário do Launch](https://docs.adobe.com/content/help/en/launch/using/overview.html)
    + [Guia do usuário do Gerenciador dinâmico de tags](https://docs.adobe.com/content/help/en/dtm/using/dtm-home.html)
@@ -54,7 +54,7 @@ source-git-commit: d225ef8800228d35c1920904f6fe7590bd751de3
    + [Desativar a sincronização de pastas compartilhadas](experience-cloud-assets/t-disable-asset-sync.md)
    + [Requisitos para compartilhamento do arquivo do ativo](experience-cloud-assets/assets-file-reqs.md)
    + [Comportamento das pastas compartilhadas](experience-cloud-assets/asset-behavior.md)
-+ Públicos-alvo na Experience Cloud {#audiences}
++ Audiências na Experience Cloud {#audiences}
    + [Visão geral de públicos-alvo](audience-library/audience-library.md)
    + [Criar um público-alvo](audience-library/t-audience-create.md)
    + [Publicar um segmento de público-alvo do Analytics](audience-library/t-publish-audience-segment.md)
@@ -68,9 +68,9 @@ source-git-commit: d225ef8800228d35c1920904f6fe7590bd751de3
    + [Configurar assinaturas](attributes/subscription.md)
    + [Atualizar o esquema](attributes/t-update-schema.md)
    + [Considerações de privacidade - Atributos do cliente](attributes/privacy-mac.md)
-+ Gerenciamento de ofertas {#offer-management}
-   + [Introdução ao Gerenciamento de ofertas](offer-management/getting-started.md)
-   + [Fluxo de trabalho do Gerenciamento de ofertas](offer-management/offer-management-workflow.md)
++ Gerenciamento de Ofertas {#offer-management}
+   + [Introdução ao Gerenciamento de Ofertas](offer-management/getting-started.md)
+   + [Fluxo de trabalho do Gerenciamento de Ofertas](offer-management/offer-management-workflow.md)
    + [Ofertas](offer-management/offers.md)
    + [Rótulos](offer-management/labels.md)
    + [Disposições](offer-management/placements.md)

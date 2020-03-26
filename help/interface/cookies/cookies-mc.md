@@ -3,11 +3,11 @@ description: A Adobe Experience Cloud usa cookies para armazenar a ID do visitan
 keywords: cookies;privacy
 seo-description: A Adobe Experience Cloud usa cookies para armazenar a ID do visitante usada nas Soluções da Experience Cloud.
 seo-title: Cookies da Experience Cloud
-solution: Marketing Cloud,Analytics,Target,Social
+solution: Marketing Cloud,Analytics,Adobe Target,Adobe Social
 title: Cookies da Experience Cloud
 uuid: a4788c1c-0402-4fc8-b894-cd24fa794f4f
 translation-type: tm+mt
-source-git-commit: f9839c39c52bc10ab641df094dc444b642986974
+source-git-commit: f7ec8bf6087a18be41c9efbf05f60e6cfd24e566
 
 ---
 
@@ -53,7 +53,7 @@ A Adobe Experience Cloud usa cookies para armazenar a ID do visitante usada nas 
 
 The [Experience Platform ID Service](https://docs.adobe.com/content/help/en/id-service/using/home.html) uses JavaScript to store a unique visitor ID in an `AMCV_###@AdobeOrg` cookie on the domain of the current website, where `###` represents a random string of characters, such as `AMCV_1FD6776A524453CC0A490D44%40AdobeOrg.`
 
-Consulte também [Cookies e o serviços de ID](https://docs.adobe.com/content/help/en/id-service/using/intro/cookies.html).
+See also, [Cookies and the ID Service](https://docs.adobe.com/content/help/en/id-service/using/intro/cookies.html).
 
 <table id="table_1883C0836C1E4AF5A262FBF5000C1B11"> 
  <thead> 
@@ -65,7 +65,7 @@ Consulte também [Cookies e o serviços de ID](https://docs.adobe.com/content/he
  <tbody> 
   <tr> 
    <td colname="col1"> <p>Informações armazenadas </p> </td> 
-   <td colname="col2"> <p> IDs de visitantes únicos usadas pelas Soluções da Experience Cloud. </p> </td> 
+   <td colname="col2"> <p> IDs de visitante exclusivas usadas pelas Soluções da Experience Cloud. </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p> Expiração </p> </td> 
@@ -73,7 +73,7 @@ Consulte também [Cookies e o serviços de ID](https://docs.adobe.com/content/he
   </tr> 
   <tr> 
    <td colname="col1"> <p> Uso </p> </td> 
-   <td colname="col2"> <p> Este cookie é usado para identificar um visitante único </p> </td> 
+   <td colname="col2"> <p> Este cookie é usado para identificar um visitante exclusivo </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p> Localização </p> </td> 
@@ -81,7 +81,7 @@ Consulte também [Cookies e o serviços de ID](https://docs.adobe.com/content/he
   </tr> 
   <tr> 
    <td colname="col1"> <p> Tamanho </p> </td> 
-   <td colname="col2"> <p> Varia; a maioria dos clientes pode esperar que este cookie atinja cerca de 200 bytes. </p> </td> 
+   <td colname="col2"> <p> Varia, a maioria dos clientes pode esperar que esse cookie tenha cerca de 200 bytes de comprimento. </p> </td> 
   </tr> 
  </tbody> 
 </table>

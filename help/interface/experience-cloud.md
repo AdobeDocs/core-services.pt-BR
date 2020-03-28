@@ -1,5 +1,5 @@
 ---
-description: Autoajuda, documentação do produto e documentação técnica da Adobe Experience Cloud. A Experience Cloud é a família integrada de soluções e serviços de marketing digital.
+description: Autoajuda, documentação do produto e documentação técnica da Adobe Experience Cloud. A Experience Cloud é a família integrada de soluções e serviços de marketing digital da Adobe.
 keywords: core services
 seo-description: Esta página fornece autoajuda, documentação do produto e documentação técnica para a Experience Cloud.
 seo-title: Ajuda e documentação do produto da Adobe Experience Cloud e dos principais serviços.
@@ -7,7 +7,7 @@ solution: Adobe Experience Cloud
 title: Ajuda da Experience Cloud e principais serviços
 uuid: aec6f689-e617-4876-ae6c-e961cfcb991a
 translation-type: tm+mt
-source-git-commit: e2cfce353d4b1f21c08b7ddf76e491c6aeba03ba
+source-git-commit: 43de353155c640b3ddc519147c94d7e9ffcafe4e
 
 ---
 
@@ -16,7 +16,7 @@ source-git-commit: e2cfce353d4b1f21c08b7ddf76e491c6aeba03ba
 
 ![Experience Cloud](assets/banner.png)
 
-Esta página fornece autoajuda, suporte e documentação técnica e de produto para as soluções e serviços da Adobe Experience Cloud. A Experience Cloud é a família integrada de soluções e serviços de marketing digital. Também é uma interface intuitiva que permite o acesso rápido às soluções de nuvem e aos serviços principais.
+Esta página fornece autoajuda, suporte e documentação técnica e de produto para as soluções e serviços da Adobe Experience Cloud. A Experience Cloud é a família integrada de soluções e serviços de marketing digital da Adobe. Também é uma interface intuitiva que permite acessar rapidamente suas soluções em nuvem e seus principais serviços.
 
 ## O que você quer aprender?
 
@@ -30,7 +30,7 @@ Esta página fornece autoajuda, suporte e documentação técnica e de produto p
 
 ## Documentação do produto dos principais serviços
 
-* [Visão geral dos principais serviços](https://theblog.adobe.com/part-2-capturing-leveraging-consumer-behavior-adobe-marketing-cloud/) (blog)
+* [Visão geral](https://theblog.adobe.com/part-2-capturing-leveraging-consumer-behavior-adobe-marketing-cloud/) dos principais serviços (blog)
 * [Adobe Mobile](https://docs.adobe.com/content/help/en/mobile-services/using/home.html)
 * [Públicos](https://docs.adobe.com/content/help/en/core-services/interface/audiences/audience-library.html)
 * [Assets](experience-cloud-assets/experience-cloud-assets.md)
@@ -38,7 +38,7 @@ Esta página fornece autoajuda, suporte e documentação técnica e de produto p
 * [Cooperativa de dispositivo](https://docs.adobe.com/content/help/en/device-co-op/using/home.html)
 * [Dynamic Tag Management](https://docs.adobe.com/content/help/en/dtm/using/dtm-home.html)
 * [Exchange](https://experiencecloud.adobeexchange.com/)
-* [Experience Cloud ID Service](https://docs.adobe.com/content/help/en/id-service/using/home.html)
+* [Serviço da Experience Cloud ID](https://docs.adobe.com/content/help/en/id-service/using/home.html)
 * [Experience Platform Launch](https://docs.adobelaunch.com/)
 * [Experience Cloud Debugger](https://docs.adobe.com/content/help/en/debugger/using/experience-cloud-debugger.html)
 * [API do Regulamento Geral sobre a Proteção de Dados (GDPR)](https://www.adobe.io/apis/experiencecloud/gdpr.html)
@@ -50,7 +50,7 @@ Esta página fornece autoajuda, suporte e documentação técnica e de produto p
 * [Perguntas frequentes](admin-getting-started/admin-getting-started.md)
 * [Organizações e vinculação de contas](admin-getting-started/organizations.md)
 * [Integrações](marketing-cloud-integrations.md)
-* [Integração do Adobe Target com a Experience Cloud](https://docs.adobe.com/content/help/en/target/using/integrate/a4t/a4t.html)
+* [Integração do Público alvo da Adobe com a Experience Cloud](https://docs.adobe.com/content/help/en/target/using/integrate/a4t/a4t.html)
 * [Visão geral da privacidade e da segurança da Experience Cloud](assets/Adobe-Marketing-Cloud-Privacy-and-Security-Overview.pdf)
-* [Gerenciamento de perfis na Adobe Experience Cloud](https://theblog.adobe.com/profile-management-adobe-marketing-cloud-comes-together/) (blog)
+* [Gerenciamento de Perfis na Adobe Experience Cloud](https://theblog.adobe.com/profile-management-adobe-marketing-cloud-comes-together/) (blog)
 * [Pré-busca DNS](admin-getting-started/admin-getting-started.md#concept_6BC8C6856E3644F8956D7AD0A96383B7)

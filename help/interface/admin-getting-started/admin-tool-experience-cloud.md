@@ -7,7 +7,7 @@ solution: Experience Cloud
 title: 'Usuários e detalhes do usuário da Visualização Experience Cloud '
 index: true
 translation-type: tm+mt
-source-git-commit: f7ec8bf6087a18be41c9efbf05f60e6cfd24e566
+source-git-commit: 43de353155c640b3ddc519147c94d7e9ffcafe4e
 
 ---
 
@@ -76,7 +76,7 @@ Esta seção exibe um resumo da conta de usuário incluindo:
 
 ## Resumo das soluções
 
-Esta seção exibe um resumo das soluções da Experience Cloud que o usuário pode acessar. Inclui a função administrativa do produto quando aplicável
+Esta seção exibe um resumo das soluções da Experience Cloud que o usuário pode acessar. Inclui a função administrativa do produto quando aplicável.
 
 ## Lista detalhada de acesso ao produto
 

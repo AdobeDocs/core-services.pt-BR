@@ -7,7 +7,7 @@ solution: Experience Cloud
 title: Exchange Marketplace
 uuid: 73db5cc5-5fb2-43a2-a164-5cbca9e9a206
 translation-type: tm+mt
-source-git-commit: ae97db27349940a8df7ee2ba6678683f57585678
+source-git-commit: 43de353155c640b3ddc519147c94d7e9ffcafe4e
 
 ---
 
@@ -16,23 +16,20 @@ source-git-commit: ae97db27349940a8df7ee2ba6678683f57585678
 
 O Exchange Marketplace é o único local onde você pode pesquisar, navegar, selecionar, pagar e baixar extensões de marketing digital através de aplicativos. Os aplicativos incluem conectores de dados, configurações personalizadas para o produto principal da Adobe, aplicativos de terceiros e relatórios.
 
-**[!UICONTROL Experience Cloud]** &gt; **[!UICONTROL Ajuda]** &gt; **[!UICONTROL Exchange]**
+**[!UICONTROL Experience Cloud]** > **[!UICONTROL Ajuda]** > **[!UICONTROL Exchange]**
 
-<!-- <p>https://wiki.corp.adobe.com/display/marketingcloud/Marketing+Cloud+Exchange </p> 
-<p>https://wiki.corp.adobe.com/display/marketingcloud/Marketplace+Implementation#MarketplaceImplementation-Anonymousvsauthenticatedexperience </p> -->
+* Baixe SDKs, leia a documentação e envie aplicativos para o Digital Marketing para análise.
 
-* Baixe SDKs, leia a documentação e envie aplicativos para análise do Digital Marketing.
+* Os clientes podem pesquisar, selecionar e instalar extensões do Digital Marketing.
 
-* Os clientes podem pesquisar, selecionar e instalar as extensões do Digital Marketing.
-
-* Os administradores podem configurar os aplicativos baixados.
+* Os administradores podem configurar aplicativos baixados.
 
 * Analise os envios do desenvolvedor, navegue no aplicativo e comente ou classifique cada aplicativo.
 
-* Rejeite ou aprove aplicativos.
+* Recusar ou aprovar aplicativos.
 
 * Publique na Experience Cloud.
 
-* Pesquise e filtre por categoria, empresa, tipo, usuário, entre outros.
+* Pesquise e filtre por categoria, empresa, tipo, usuário e muito mais.
 
-Consulte [Experience Cloud Exchange](https://exchange.adobe.com/experiencecloud.html) para obter mais informações.
+See [Experience Cloud Exchange](https://exchange.adobe.com/experiencecloud.html) for more information.

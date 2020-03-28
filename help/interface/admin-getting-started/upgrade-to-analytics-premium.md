@@ -8,7 +8,7 @@ title: Atualização para o Analytics Premium e a Experience Cloud
 topic: Premium
 uuid: 450a601c-d199-4e90-b525-19bd9f9576d2
 translation-type: tm+mt
-source-git-commit: ae97db27349940a8df7ee2ba6678683f57585678
+source-git-commit: 43de353155c640b3ddc519147c94d7e9ffcafe4e
 
 ---
 
@@ -19,63 +19,63 @@ Os administradores podem saber mais sobre os requisitos e o que esperar ao atual
 
 ## Analytics Premium {#section_7F50AD7906544F899B844BE31D3BB507}
 
-A atualização para o Adobe Analytics Premium oferece todos os recursos ou produtos disponíveis no Analytics Standard, inclusive o Data Warehouse, Ad Hoc Analysis, Report Builder e Data Connectors. (Esses produtos foram vendidos separadamente para clientes que usam a solução de ponto, o SiteCatalyst.)
+A atualização para o Adobe Analytics Premium oferece todos os recursos ou produtos disponíveis no Analytics Standard, inclusive o Data Warehouse, Ad Hoc Analysis, Report Builder e Data Connectors. (Esses produtos foram vendidos separadamente para clientes que usavam a solução pontual, o SiteCatalyst.)
 
 O Analytics Premium oferece:
 
 * Acesso a 250 variáveis de conversão (eVars)
-* [Análise de aplicativo móvel](https://docs.adobe.com/content/help/en/mobile-services/using/home.html)
+* [Análise de aplicativos móveis](https://docs.adobe.com/content/help/en/mobile-services/using/home.html)
 * Data Workbench (consulta de dados visuais; atribuição baseada em regras; análise entre canais)
 
 >[!NOTE]
 >
->Não é necessário fazer nenhuma migração durante a atualização, mas é preciso fazer algumas considerações:
+>Nenhuma migração é necessária durante a atualização, mas há algumas considerações a serem levadas em consideração:
 >
->* eVars 76-250 (SiteCatalyst) e 100-250 (Standard) estarão visíveis nas Ferramentas administrativas, mas ainda não estarão habilitadas.&gt;
->* A Análise de colaboração é ativada pela Adobe. A localização dela não será alterada (ainda está disponível na página de Detecção de anomalias), mas, agora, ela começará a analisar dados automaticamente em todos os pontos de dados.&gt;
+>* As eVars 76-250 (SiteCatalyst) e 100-250 (Standard) estarão visíveis nas Ferramentas administrativas, mas ainda não estarão habilitadas.>
+>* A Análise de colaboração é ativada pela Adobe. Ele não alterará o local (ainda está disponível na página Detecção de anomalias), mas agora será automaticamente start ao analisar todos os pontos de dados.>
 
 
 ## Analytics Premium completo {#section_BFAD815EDF364845A52B340B2FD5B64C}
 
-No Analytics Premium completo, você terá todos os recursos do [Analytics Premium](../admin-getting-started/upgrade-to-analytics-premium.md#section_7F50AD7906544F899B844BE31D3BB507), além das atualizações a seguir:
+No Analytics Premium completo, você obtém todos os recursos do [Analytics Premium](../admin-getting-started/upgrade-to-analytics-premium.md#section_7F50AD7906544F899B844BE31D3BB507), além das seguintes atualizações:
 
 | Produto | Atualizações |
 |--- |--- |
 | Reports &amp; Analytics | <ul><li>[Análise de contribuição](https://docs.adobe.com/content/help/en/analytics/analyze/analysis-workspace/virtual-analyst/contribution-analysis/ca-tokens.html)</li><li>[Atributos do cliente](../attributes/attributes.md#concept_ACFEE7C8B8E94875BA0825CDF4913AF1) (Até 200)</li></ul> |
 | Data Workbench | <ul><li>Atribuição algorítmica</li><li>Espaços de trabalho pré-criados</li></ul> |
-| Plataforma de análise | [Transmissão ao vivo](https://helpx.adobe.com/analytics/kb/getting-started-with-livestream-api.html) (dados brutos, painéis e acionadores) |
+| Plataforma do Analytics | [Live Stream](https://helpx.adobe.com/analytics/kb/getting-started-with-livestream-api.html) (dados brutos, painéis, acionadores) |
 
 ## Inteligência preditiva {#section_B407932C07A7476F83FB0275C3FB63DC}
 
-Atualizar para Inteligência preditiva habilita o [Analytics Premium](../admin-getting-started/upgrade-to-analytics-premium.md#section_7F50AD7906544F899B844BE31D3BB507) e:
+A atualização para Inteligência preditiva permite o [Analytics Premium](../admin-getting-started/upgrade-to-analytics-premium.md#section_7F50AD7906544F899B844BE31D3BB507) e:
 
 | Produto | Atualizações |
 |---|---|
 | Reports &amp; Analytics | [Análise de contribuição](https://docs.adobe.com/content/help/en/analytics/analyze/analysis-workspace/virtual-analyst/contribution-analysis/ca-tokens.html) |
-| Data Workbench | Espaços de trabalho pré-criados para qualificações de público-alvo e marketing preditivo. |
-| Plataforma de análise | Transmissão ao vivo (painéis e acionadores) |
+| Data Workbench | Espaços de trabalho pré-criados para qualificações de audiência e marketing preditivo. |
+| Plataforma do Analytics | Live Stream (painéis e acionadores) |
 
 ## Visão completa do cliente {#section_3B2AC245388248688067DC9A48957AFB}
 
-Atualizar para a visão completa do cliente oferece [Analytics Premium](../admin-getting-started/upgrade-to-analytics-premium.md#section_7F50AD7906544F899B844BE31D3BB507) e:
+Atualização para o Cliente 360 oferta [Analytics Premium](../admin-getting-started/upgrade-to-analytics-premium.md#section_7F50AD7906544F899B844BE31D3BB507) e:
 
 | Produto | Atualizações |
 |--- |--- |
 | [Atributos do cliente](../attributes/attributes.md) | Atributos do cliente (análise e compartilhamento de segmentos) |
-| Data Workbench | <ul><li>Atributos derivados do cliente</li><li>Espaços de trabalho pré-criados para descoberta de público-alvo</li></ul> |
-| Plataforma de análise | [Atributos do cliente](../attributes/attributes.md) |
+| Data Workbench | <ul><li>Atributos derivados do cliente</li><li>Espaços de trabalho pré-criados para descoberta de audiências</li></ul> |
+| Plataforma do Analytics | [Atributos do cliente](../attributes/attributes.md) |
 
 ## Atribuição avançada {#section_9E4986A8389946CCAA7D003268343296}
 
-A atribuição avançada oferece acesso ao [Analytics Premium](../admin-getting-started/upgrade-to-analytics-premium.md#section_7F50AD7906544F899B844BE31D3BB507) e também à Atribuição algorítmica na Data Workbench (25% do volume de chamadas do servidor).
+ofertas de Atribuição avançada acessam o [Analytics Premium](../admin-getting-started/upgrade-to-analytics-premium.md#section_7F50AD7906544F899B844BE31D3BB507), além de Atribuição algorítmica na Análise de big data (25% do volume de chamadas do servidor).
 
-## Exigências da Data Workbench {#section_D959CA68D6DB42C38707F8E0CA3654CC}
+## Requisitos da análise de big data {#section_D959CA68D6DB42C38707F8E0CA3654CC}
 
-Os usuários suportados podem solicitar que todas as licenças dos clientes sejam atualizadas para refletir o Premium ao enviar um email para a `dwb@adobe.com`. Isso permite recursos como a Atribuição algorítmica.
+Os usuários suportados podem solicitar que todas as licenças dos clientes sejam atualizadas para refletir o Premium ao enviar um email para a `dwb@adobe.com`. Isso habilita recursos como Atribuição algorítmica.
 
-O TechOps verificará o compromisso do contrato e determinará a infraestrutura gerenciada adequada, aumentando ou reduzindo a capacidade e, então, vocês combinarão a implantação de quaisquer alterações por meio do Account Manager.
+A TechOps verificará seu compromisso de contrato e determinará a infraestrutura gerenciada adequada, aumentando ou reduzindo a capacidade, e então eles se coordenarão com você, por meio do Gerente de conta ou consultoria, para implantar quaisquer alterações.
 
-Qualquer software que estiver sendo executado no local deverá ser desativado. Isso inclui Sensores, o que significa que você precisará garantir o rastreamento adequado por meio de tags de Análise.
+Qualquer software que estiver sendo executado no local deverá ser desativado. Isso inclui Sensores, o que significa que você precisará garantir o rastreamento correto por meio de tags do Analytics.
 
 ## Experience Cloud - Administrar usuários e produtos {#section_6471C54454024301B2E0B687F79F6738}
 
@@ -85,10 +85,10 @@ Após associar-se à Experience Cloud, é possível fazer logon por meio da Expe
 
 ### Administre usuários e grupos
 
-O gerenciamento do usuário é executado no [Adobe Admin Console](https://helpx.adobe.com/enterprise/help/aedash.html) (link do produto).
+O gerenciamento de usuários é executado no [Adobe Admin Console](https://helpx.adobe.com/enterprise/help/aedash.html) (link do produto).
 
-Você pode configurar um mapeamento 1:1 entre um grupo criado no Adobe Admin Console e um grupo de soluções (como o Adobe Analytics). Consequentemente, um novo usuário incluído no grupo do Admin Console mapeado terá uma conta de solução de Análise automaticamente criada e vinculada à Adobe ID do usuário. (Os usuários atuais devem vincular manualmente as credenciais de conta da solução para acessar soluções pelo logon da Experience Cloud.)
+Você pode configurar um mapeamento 1:1 entre um grupo criado no Adobe Admin Console e um grupo de soluções (como o Adobe Analytics). Consequentemente, um novo usuário incluído no grupo do Admin Console mapeado terá uma conta de solução de Análise automaticamente criada e vinculada à Adobe ID do usuário. (Os usuários existentes devem vincular manualmente as credenciais da conta da solução para acessar as soluções por meio do logon da Experience Cloud.)
 
 >[!NOTE]
 >
->Você pode mapear diversos grupos de solução para um grupo do Admin Console. No entanto, Adobe recomenda o mapeamento de 1:1. Mapear os grupos antecipadamente permite convidar, criar, permitir e incluir vários usuários ao fazer upload de um CSV.
+>Você pode mapear diversos grupos de solução para um grupo do Admin Console. No entanto, Adobe recomenda o mapeamento de 1:1. Mapear os grupos antecipadamente permite convidar, criar, permitir e adicionar vários usuários fazendo upload de um CSV.

@@ -5,7 +5,7 @@ seo-title: Mapear conjuntos de relatórios para uma organização
 title: Mapear conjuntos de relatórios para uma organização
 uuid: b983d5a6-b3d0-4137-ac53-bc5681d3e58b
 translation-type: tm+mt
-source-git-commit: b6ef7f0b7ef3b43b437524b20cee940889c26ba8
+source-git-commit: 43de353155c640b3ddc519147c94d7e9ffcafe4e
 
 ---
 
@@ -17,17 +17,17 @@ Saiba mais sobre como mapear um ou vários conjuntos de relatórios para uma org
 Os serviços da Experience Cloud (como o Serviço da Experience Cloud ID e o serviço principal de Pessoas) estão associados a uma organização em vez de a um conjunto de relatórios individual. Para garantir o funcionamento correto desses serviços, cada conjunto de relatórios do Analytics deve ser mapeado para uma organização. O processo de mapeamento:
 
 * Define uma organização da Experience Cloud como a organização principal do conjunto de relatórios.
-* Não muda quem pode acessar um conjunto de relatórios (o acesso ainda é determinado pela conta de logon do Adobe Analytics de cada usuário)
+* Não altera quem pode acessar um conjunto de relatórios (o acesso ainda é determinado pela conta de logon do Adobe Analytics para cada usuário)
 
-**Requisitos**
+## Exigências
 
-Você deve ser um administrador do Analytics de uma empresa de logon com acesso ao conjunto de relatórios que deseja mapear. Além disso, essa conta deve estar [vinculada a uma organização da Experience Cloud](../admin-getting-started/organizations.md#topic_C31CB834F109465A82ED57FF0563B3F1) a fim de mapear conjuntos de relatórios para essa organização.
+Você deve ser um administrador do Analytics de uma empresa de logon que tenha acesso ao conjunto de relatórios que deseja mapear. Além disso, essa conta deve estar [vinculada a uma organização](../admin-getting-started/organizations.md#topic_C31CB834F109465A82ED57FF0563B3F1) da Experience Cloud para mapear conjuntos de relatórios para essa organização.
 
 As organizações ficam esmaecidas caso você não tenha permissões de administrador do Analytics para uma empresa de logon sob a organização com acesso ao conjunto de relatórios em questão.
 
 ## Mapear um conjunto de relatórios para uma organização {#task_23993FE78DF6455FA8D7BE60686EA16C}
 
-1. Clique em **[!UICONTROL Experience Cloud]** > **[!UICONTROL Administração]** > **[!UICONTROL Mapeamento de conjuntos de relatórios]**
+1. Click **[!UICONTROL Experience Cloud]** > **[!UICONTROL Administration]** > **[!UICONTROL Report Suite Mapping]**
 
 1. Para ver as empresas de logon com acesso a cada conjunto de relatórios, clique em **[!UICONTROL Visível para empresas de logon]**.
 
@@ -39,7 +39,7 @@ As organizações ficam esmaecidas caso você não tenha permissões de administ
 
 ## Mapear diversos conjuntos de relatórios para uma organização {#task_94955B0D8ABA4CB1A38746ECF8E32711}
 
-1. Clique em **[!UICONTROL Experience Cloud]** > **[!UICONTROL Administração]** > **[!UICONTROL Mapeamento de conjuntos de relatórios]**.
+1. Click **[!UICONTROL Experience Cloud]** > **[!UICONTROL Administration]** > **[!UICONTROL Report Suite Mapping]**.
 
 1. Selecione os conjuntos de relatórios que você deseja mapear.
 
@@ -53,15 +53,15 @@ As organizações ficam esmaecidas caso você não tenha permissões de administ
 
 ## Dicas para selecionar uma organização da Experience Cloud {#mapping-tips}
 
-Esta seção contém dicas para ajudar a selecionar a organização da Experience Cloud para a qual você deve mapear um conjunto de relatórios.
+Esta seção contém dicas para ajudá-lo a selecionar a organização da Experience Cloud para a qual você deve mapear um conjunto de relatórios.
 
-**Qual organização devo escolher?**
+### Qual organização devo escolher?
 
-If the Experience Cloud ID Service is currently deployed on the report suite, ensure the organization you select in the Report Suite Mapping tool is the same organization specified in the [!DNL visitorAPI.js] file on your site. Você pode usar as instruções em [Testar e verificar o serviço da Experience Cloud ID](https://docs.adobe.com/content/help/en/id-service/using/implementation-guides/test-verify.html) para encontrar a ID da organização em uso pelo serviço de ID do visitante.
+If the Experience Cloud ID Service is currently deployed on the report suite, ensure the organization you select in the Report Suite Mapping tool is the same organization specified in the [!DNL visitorAPI.js] file on your site. You can use the instructions in [Test and Verify the Experience Cloud ID Service](https://docs.adobe.com/content/help/en/id-service/using/implementation-guides/test-verify.html) to find the org ID that is being used by the Visitor ID service.
 
-Se o serviço de ID do visitante ainda não estiver implantado nos sites que coletam dados do conjunto de relatórios e você implantar o serviço de ID de visitante da Experience Cloud futuramente, verifique se a implantação corresponde à organização selecionada na ferramenta de Mapeamento de conjuntos de relatórios.
+Se o serviço de ID de Visitante ainda não estiver implantado nos sites que coletam dados para o conjunto de relatórios, se você implantar o serviço de ID de Visitante da Experience Cloud no futuro, será necessário garantir que sua implantação corresponda à organização selecionada na ferramenta Mapeamento de conjuntos de relatórios.
 
-**Por que algumas organizações estão esmaecidas?**
+### Por que algumas organizações estão esmaecidas?
 
 Isso indica que você não tem privilégios suficientes para mapear para o conjunto de relatórios esmaecido. Considere o exemplo a seguir:
 
@@ -71,42 +71,42 @@ Nesse diagrama, a tecla azul indica privilégios de administrador. As linhas cin
 
 Esse usuário tem acesso a duas organizações da Experience Cloud. Ele fez o seguinte:
 
-* Linked his admin account in the [!UICONTROL chapek] Analytics login company to his [!UICONTROL Chapek] Corp Experience Cloud organization account.
-* Linked his non-admin account in the [!UICONTROL doohan] Analytics login company to his [!UICONTROL Chapek] Corp Experience Cloud organization account.
+* Vinculou sua conta de administrador na empresa de logon [!UICONTROL chapek] do Analytics à conta de organização da [!UICONTROL Chapek] Corp Experience Cloud.
+* Vinculou sua conta de não administrador na empresa de logon do [!UICONTROL doohan] Analytics à conta organizacional [!UICONTROL Chapek] Corp da Experience Cloud.
 * Vinculou sua conta de não administrador na empresa de logon nigel do Analytics à conta organizacional Nigel Inc da Experience Cloud.
 
-Os pontos a seguir listam as ações de mapeamento que o usuário pode ou não executar com relação aos conjuntos de relatórios:
+Os pontos a seguir listas das ações de mapeamento que esse usuário pode ou não executar em relação a esses conjuntos de relatórios:
 
 * [!UICONTROL O conjunto de relatórios de produção] Chapek pode ser mapeado para a organização [!UICONTROL Chapek] Corp, pois esse usuário é um administrador de uma empresa de logon vinculada do Analytics ([!UICONTROL chapek]) e sua conta está vinculada a essa organização.
-* [!UICONTROL O conjunto de relatórios de produção Nigel não pode ser vinculado por esse usuário, pois ele não é um administrador em nenhuma empresa de logon na qual o conjunto de relatórios está visível.]
-* [!UICONTROL O conjunto de relatórios de produção] Doohan pode ser mapeado para a [!UICONTROL Chapek Corp] , pois esse usuário é um administrador de uma empresa de logon ([!UICONTROL chapek]) vinculada à organização da Experience Cloud (observe que ele não é um administrador da empresa de logon doohan do Analytics). It is important to be aware that the [!UICONTROL doohan-prod] report suite is also eligible to be mapped to the Nigel Inc Experience Cloud org, even though this user cannot perform that mapping. In this case, both Experience Cloud organizations are displayed in the list, but [!UICONTROL Nigel Inc] is grayed out. Antes de mapear, o usuário deve consultar um administrador na empresa de logon nigel a fim de determinar qual organização é a melhor candidata para o mapeamento. A interface do usuário exibirá um aviso de conflito possível se você selecionar uma organização diferente daquela em que o conjunto de relatórios foi criado originalmente.
+* [!UICONTROL O conjunto de relatórios de produção] Nigel não pode ser vinculado por esse usuário, pois ele não é um administrador em nenhuma empresa de logon na qual este conjunto de relatórios está visível.
+* [!UICONTROL O conjunto de relatórios de produção] Doohan pode ser mapeado para a [!UICONTROL Chapek Corp] , pois esse usuário é um administrador de uma empresa de logon ([!UICONTROL chapek]) vinculada à organização da Experience Cloud (observe que ele não é um administrador da empresa de logon doohan do Analytics). É importante estar ciente de que o conjunto de relatórios de produção [!UICONTROL de] doohan também está qualificado para ser mapeado para a organização Nigel Inc da Experience Cloud, mesmo que esse usuário não possa realizar esse mapeamento. Nesse caso, ambas as organizações da Experience Cloud são exibidas na lista, mas a [!UICONTROL Nigel Inc] está esmaecida. Antes de mapear, esse usuário deve consultar um administrador da empresa de logon nigel para determinar qual organização é a melhor candidata para mapeamento. A interface do usuário exibe um aviso de conflito possível se você selecionar uma organização diferente daquela na qual o conjunto de relatórios foi criado originalmente.
 
 ## Perguntas frequentes {#section_099E485805994C929FF9C9F75219BEE1}
 
-**Por que não consigo ver todos os meus conjuntos de relatórios?**
+### Por que não vejo todos os meus conjuntos de relatórios?
 
-Alguns dos conjuntos de relatórios podem ser visíveis em uma empresa de logon diferente. Você pode alterar a empresa de logon atual usando o menu suspenso na parte superior da tela.
+Alguns de seus conjuntos de relatórios podem estar visíveis em uma empresa de logon diferente. Você pode alterar a empresa de login atual usando o menu suspenso na parte superior da tela.
 
-**O que acontece se eu não reconhecer algumas das organizações listadas no menu suspenso de um dos meus conjuntos de relatórios?**
+### E se eu não reconhecer algumas das organizações listadas no menu suspenso de um dos meus conjuntos de relatórios?
 
-A lista mostra todas as *organizações *possíveis para as quais o conjunto de relatórios pode ser mapeado, mesmo que você não tenha permissão para mapear para todos esses conjuntos de relatórios. Caso não tenha certeza se o conjunto de relatórios deve estar mapeado para um dos conjuntos de relatórios esmaecidos na lista, consulte um administrador da Experience Cloud na organização para determinar a melhor opção.
+The list shows you all the *possible* organizations your report suite could be mapped to, even you don’t have permission to map to all those report suites. Se não tiver certeza se o conjunto de relatórios deve ser mapeado para um dos conjuntos de relatórios esmaecidos na lista, consulte um administrador da Experience Cloud na organização para determinar a melhor opção.
 
-**O que acontece se eu não reconhecer algumas das empresas de logon listadas para um conjunto de relatórios na coluna “Visível para empresas de logon”?**
+### E se eu não reconhecer algumas Empresas de logon listadas para um conjunto de relatórios na coluna &quot;Visível para efetuar logon no Empresa&quot;?
 
 Em algum momento, esse conjunto de relatórios foi compartilhado com outra empresa de logon que pode fazer parte de uma organização diferente da Experience Cloud.
 
-**O que é o erro de “conflito possível” sobre o conjunto de relatórios gerado por outra organização? Por que isso é importante?**
+### O que é esse erro de &quot;conflito possível&quot; sobre o conjunto de relatórios que está sendo gerado por outra organização? Por que isso importa?
 
-Essa é uma notificação que ajuda você a tomar decisões informadas sobre o mapeamento do conjunto de relatórios. Você deve reconhecer que o conjunto de relatórios foi criado originalmente sob uma organização diferente, caso essa organização seja mais adequada para o conjunto de relatórios.
+Esta é uma notificação para ajudá-lo a tomar uma decisão informada sobre o mapeamento do conjunto de relatórios. Queremos informá-lo de que o conjunto de relatórios foi criado originalmente abaixo de uma organização diferente, caso essa organização seja mais apropriada para esse conjunto de relatórios.
 
-**Como faço para saber se um conjunto de relatórios já está mapeado?**
+### Como faço para saber se um conjunto de relatórios está mapeado?
 
-Os conjuntos de relatórios mapeados serão exibidos em um formato não editável. Se for necessário alterar o mapeamento, entre em contato com o Atendimento ao cliente.
+Os conjuntos de relatórios mapeados serão exibidos em um formato não editável. Se precisar alterar um mapeamento, entre em contato com o Atendimento ao cliente.
 
-**Como devo proceder se souber somente a ID organizacional da minha organização da Experience Cloud? Como faço para buscar o nome da minha ID organizacional?**
+### E se eu souber somente a ID organizacional da minha organização da Experience Cloud? Como faço para buscar o nome da minha ID organizacional?
 
-É possível encontrar o nome da organização em [Organizações e configurações da conta](https://docs.adobe.com/content/help/en/core-services/interface/manage-users-and-products/organizations.html).
+Você pode encontrar o nome da sua organização em [Organizações e Configurações](https://docs.adobe.com/content/help/en/core-services/interface/manage-users-and-products/organizations.html)da conta.
 
-**Vejo uma data na coluna “Data de mapeamento”. Quem fez esse mapeamento?**
+### Vejo uma data na coluna &quot;Data de mapeamento&quot;. Quem fez esse mapeamento?
 
-Você pode consultar o Log de alterações do conjunto de relatórios na interface do Analytics para verificar a ID do usuário que fez a alteração. Procure o evento “Suite associated to IMS Organization”.
+Consulte o Log de alterações do conjunto de relatórios na interface do Analytics para verificar a ID do usuário que fez a alteração. Procure o evento &quot;Suite associado à Organização IMS&quot;.

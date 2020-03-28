@@ -1,26 +1,20 @@
 ---
 description: Saiba mais sobre como fazer logon na Experience Cloud, gerenciar senhas e notificações, e especificar uma página de aterrissagem padrão.
-keywords: core services
+keywords: core services, sign in to Experience Cloud
 seo-description: Saiba mais sobre como fazer logon na Experience Cloud, gerenciar senhas e notificações, e especificar uma página de aterrissagem padrão.
 seo-title: Faça logon e gerencie as configurações do seu perfil
-solution: Marketing Cloud
-title: Faça logon e gerencie as configurações do seu perfil
+solution: Experience Cloud
+title: Faça logon e gerencie suas configurações de perfil da Experience Cloud
 uuid: c1e13b99-0069-4fdb-8d72-ddcec3ed1121
 translation-type: tm+mt
-source-git-commit: f7ec8bf6087a18be41c9efbf05f60e6cfd24e566
+source-git-commit: 43de353155c640b3ddc519147c94d7e9ffcafe4e
 
 ---
 
 
-# Faça logon e gerencie as configurações do seu perfil
+# Faça logon e gerencie suas configurações de perfil da Experience Cloud
 
-Fazer logon na Experience Cloud (em vez de fazer logon em uma única solução) permite o logon único em todas as soluções e serviços que você possui. Saiba mais sobre como fazer logon na Experience Cloud, gerenciar senhas e notificações, e especificar uma página de aterrissagem padrão.
-
-<!-- t_sign_in.xml -->
-
-<!-- notifications.xml -->
-
-<!-- t_get_access.xml -->
+Fazer logon na Experience Cloud (em vez de fazer logon em uma única solução) permite o logon único em todas as soluções e serviços que você possui. Esta ajuda descreve como fazer logon na Experience Cloud, gerenciar senhas e notificações e especificar uma landing page padrão.
 
 >[!IMPORTANT]
 >

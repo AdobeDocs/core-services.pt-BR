@@ -7,7 +7,7 @@ solution: Experience Cloud
 title: Sobre arquivo de dados e fonte de dados para atributos do cliente
 uuid: 9dd0e364-889b-45db-b190-85c0930a101e
 translation-type: tm+mt
-source-git-commit: f7ec8bf6087a18be41c9efbf05f60e6cfd24e566
+source-git-commit: 43de353155c640b3ddc519147c94d7e9ffcafe4e
 
 ---
 
@@ -20,10 +20,7 @@ Você precisará acessar o CRM ou dados semelhantes da sua empresa. Os dados dos
 
 Os atributos do cliente foram criados para lidar com alguns arquivos por dia. Para mitigar o problema de um grande número de arquivos pequenos que atrasam o processamento, os arquivos enviados em 30 minutos de um lote anterior da mesma organização são encaminhados para uma fila de prioridade mais baixa.
 
-<!-- <p>Articulate difference between this and SAINT. </p> -->
-
 ## Tipos de arquivo permitidos e requisitos de nomenclatura {#section_6F64FA02ACCC4215B0862CB6A1821FBF}
-
 
 <table id="table_C27955F6B52A45B28BEEAAF14FFC86D8"> 
  <thead> 
@@ -48,16 +45,11 @@ Os atributos do cliente foram criados para lidar com alguns arquivos por dia. Pa
  </tbody> 
 </table>
 
-
 ## Requisitos para os arquivos de dados do atributo {#section_169FBF5B7BBA47CE825B7A330CF3FE98}
-
-
 
 **CSV de exemplo**
 
 O arquivo CSV deve seguir o seguinte formato:
-
-CSV de exemplo:
 
 ![](assets/cvs.png)
 
@@ -142,7 +134,6 @@ O mesmo arquivo exibido em um editor de texto:
  </tbody> 
 </table>
 
-
 ## Como aproveitar fontes de dados diversos {#section_76DEB6001C614F4DB8BCC3E5D05088CB}
 
 Ao criar, modificar ou excluir fontes de atributos do cliente, ocorre um atraso de até uma hora antes de as IDs começarem a sincronizar com a nova fonte de dados.
@@ -164,4 +155,4 @@ Visitor.setCustomerIDs({
 
 In the **[!UICONTROL Experience Cloud]** > **[!UICONTROL People]** > **[!UICONTROL Customer Attributes]**:
 
-Crie duas fontes de atributos de clientes usando IDs de aliases exclusivos que correspondentes às IDs de cliente apresentadas acima. Usar este método permite que a mesma ID de referência seja enviada para diversas fontes de atributos do cliente.
+Crie duas fontes de atributos de clientes usando IDs de aliases exclusivos que correspondentes às IDs de cliente apresentadas acima. Usar este método permite que a mesma ID de referência seja enviada para diversas fontes de atributos do cliente..

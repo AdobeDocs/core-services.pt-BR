@@ -7,14 +7,14 @@ solution: Adobe Experience Cloud
 title: Ajuda da Experience Cloud e principais serviços
 uuid: aec6f689-e617-4876-ae6c-e961cfcb991a
 translation-type: tm+mt
-source-git-commit: 43de353155c640b3ddc519147c94d7e9ffcafe4e
+source-git-commit: 3a2bc2faef572328b69f5828749c990a0083bd1f
 
 ---
 
 
 # Experience Cloud e documentação do produto dos principais serviços
 
-![Experience Cloud](assets/banner.png)
+![Experience Cloud](assets/cloud-pulldown.png)
 
 Esta página fornece autoajuda, suporte e documentação técnica e de produto para as soluções e serviços da Adobe Experience Cloud. A Experience Cloud é a família integrada de soluções e serviços de marketing digital da Adobe. Também é uma interface intuitiva que permite acessar rapidamente suas soluções em nuvem e seus principais serviços.
 

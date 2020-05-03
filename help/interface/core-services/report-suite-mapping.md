@@ -5,7 +5,7 @@ seo-title: Mapear conjuntos de relatórios para uma organização
 title: Mapear conjuntos de relatórios para uma organização
 uuid: b983d5a6-b3d0-4137-ac53-bc5681d3e58b
 translation-type: tm+mt
-source-git-commit: 43de353155c640b3ddc519147c94d7e9ffcafe4e
+source-git-commit: 31811e718be130612c8688e80084cb7579e94f47
 
 ---
 
@@ -14,7 +14,7 @@ source-git-commit: 43de353155c640b3ddc519147c94d7e9ffcafe4e
 
 Saiba mais sobre como mapear um ou vários conjuntos de relatórios para uma organização.
 
-Os serviços da Experience Cloud (como o Serviço da Experience Cloud ID e o serviço principal de Pessoas) estão associados a uma organização em vez de a um conjunto de relatórios individual. Para garantir o funcionamento correto desses serviços, cada conjunto de relatórios do Analytics deve ser mapeado para uma organização. O processo de mapeamento:
+Os serviços da Experience Cloud (como o Serviço da Experience Cloud ID e [!UICONTROL Pessoas]) estão associados a uma organização em vez de a um conjunto de relatórios individual. Para garantir o funcionamento correto desses serviços, cada conjunto de relatórios do Analytics deve ser mapeado para uma organização. O processo de mapeamento:
 
 * Define uma organização da Experience Cloud como a organização principal do conjunto de relatórios.
 * Não altera quem pode acessar um conjunto de relatórios (o acesso ainda é determinado pela conta de logon do Adobe Analytics para cada usuário)
@@ -105,7 +105,7 @@ Os conjuntos de relatórios mapeados serão exibidos em um formato não editáve
 
 ### E se eu souber somente a ID organizacional da minha organização da Experience Cloud? Como faço para buscar o nome da minha ID organizacional?
 
-Você pode encontrar o nome da sua organização em [Organizações e Configurações](https://docs.adobe.com/content/help/en/core-services/interface/manage-users-and-products/organizations.html)da conta.
+Você pode encontrar o nome da sua organização em [Organizações e Configurações](https://docs.adobe.com/content/help/pt-BR/core-services/interface/manage-users-and-products/organizations.html)da conta.
 
 ### Vejo uma data na coluna &quot;Data de mapeamento&quot;. Quem fez esse mapeamento?
 

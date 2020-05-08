@@ -2,46 +2,46 @@
 title: Suporte aos atributos do cliente para a Lei de privacidade do consumidor da Califórnia
 description: Suporte aos atributos do cliente para a Lei de privacidade do consumidor da Califórnia
 translation-type: tm+mt
-source-git-commit: 2e8c8aee39546a345e72cda2dad08ad866cd90f9
+source-git-commit: 8709449909ce4fbd441d77fb4bbfb0b7758e805d
 workflow-type: tm+mt
-source-wordcount: '429'
+source-wordcount: '433'
 ht-degree: 4%
 
 ---
 
 
-# Suporte aos atributos do cliente para a Lei de privacidade do consumidor da Califórnia
+# Suporte aos atributos do cliente para o California Consumer Privacy Act
 
+Esta página descreve o suporte dos atributos do  cliente para o California Consumer Privacy Act (CCPA).
 
 >[!IMPORTANT]
 >
->O conteúdo deste documento não é um aconselhamento jurídico e não se destina a substituir tal aconselhamento. Consulte seu advogado para obter conselhos sobre a Lei de Privacidade do Consumidor da Califórnia.
+>O conteúdo deste documento não é um aconselhamento jurídico e não se destina a substituir tal aconselhamento. Consulte o seu advogado para obter conselhos sobre o (CCPA).
 
-O California Consumer Privacy Act (CCPA) é a nova lei de privacidade da Califórnia, em vigor a partir de 1º de janeiro de 2020. A CCPA fornece aos moradores da Califórnia novos direitos sobre suas informações pessoais e impõe responsabilidades de proteção de dados a determinadas entidades que exercem negócios na Califórnia. A CCPA dá aos consumidores o direito de acessar e apagar suas informações pessoais, bem como o direito de opt out certas atividades qualificadas como &quot;vendendo&quot; informações pessoais a terceiros.
+A CCPA é a nova lei de privacidade da Califórnia, que entrará em vigor em 1º de janeiro de 2020. A CCPA fornece aos moradores da Califórnia novos direitos sobre suas informações pessoais e impõe responsabilidades de proteção de dados a determinadas entidades que exercem negócios na Califórnia. A CCPA dá aos consumidores o direito de acessar e apagar suas informações pessoais, bem como o direito de opt out certas atividades qualificadas como &quot;vendendo&quot; informações pessoais a terceiros.
 
 Como empresa, você determinará os dados pessoais que a Adobe Experience Cloud processa e armazena em seu nome.
 
 Como seu provedor de serviço, a Adobe Experience Cloud oferece suporte para que sua empresa cumpra suas obrigações no CCPA, aplicáveis ao uso de produtos e serviços da Experience Cloud, incluindo o gerenciamento de solicitações para acessar e excluir informações pessoais.
 
-Este documento descreve como os Atributos do cliente suportam os direitos de acesso e exclusão de dados CCPA das pessoas usando a API do Adobe Experience Platform Privacy Service e a interface do usuário do Privacy Service.
+Este documento descreve como os atributos [!UICONTROL do] cliente suportam os direitos de acesso e exclusão de dados CCPA das pessoas usando a API do Adobe Experience Platform Privacy Service e a interface do usuário do Privacy Service.
 
 Para obter mais informações sobre os serviços de privacidade da Adobe para CCPA, consulte o Centro [de privacidade da](https://www.adobe.com/privacy/ccpa.html)Adobe.
 
-## Configuração necessária para enviar solicitações para atributos do cliente
+## Configuração necessária para enviar solicitações de atributos [!UICONTROL do cliente]
 
-Para fazer solicitações de acesso e exclusão de dados para Atributos do cliente, é necessário:
+Para fazer solicitações de acesso e exclusão de dados para atributos do cliente, é necessário:
 
 1. Identifique o seguinte:
 
-* ID da Org. de IMS
-* ID de alias da Fonte de Dados CRS na qual você deseja agir
-* ID do CRM do perfil no qual você deseja agir
+   * ID da Org. de IMS
+   * ID de alias da Fonte de Dados CRS na qual você deseja agir
+   * ID do CRM do perfil no qual você deseja agir
+   Uma ID de organização IMS é uma sequência de 24 caracteres alfanuméricos anexada com @AdobeOrg. Se a sua equipe de marketing ou o administrador interno do sistema da Adobe não souber a ID da empresa IMS, entre em contato com o Atendimento ao cliente da Adobe em gdprsupport@adobe.com. Você precisará da ID de empresa IMS para enviar solicitações à API de privacidade.
 
-Uma ID de organização IMS é uma sequência de 24 caracteres alfanuméricos anexada com @AdobeOrg. Se a sua equipe de marketing ou o administrador interno do sistema da Adobe não souber a ID da empresa IMS, entre em contato com o Atendimento ao cliente da Adobe em gdprsupport@adobe.com. Você precisará da ID de empresa IMS para enviar solicitações à API de privacidade.
+1. No [!UICONTROL Privacy Service], você pode enviar solicitações de Acesso e Excluir aos atributos do cliente e verificar o status das solicitações existentes.
 
-2. Use a interface do usuário do Privacy Service para enviar acesso e excluir solicitações aos Atributos do cliente e verificar o status das solicitações existentes.
-
-## Valores de campo obrigatórios em solicitações JSON de atributos do cliente
+## Valores de campo necessários em atributos [!UICONTROL do] cliente Solicitações JSON
 
 &quot;Contexto de empresa&quot;:
 

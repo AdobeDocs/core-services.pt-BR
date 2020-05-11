@@ -4,7 +4,10 @@ user-guide-title: Guia do usuário da interface da Experience Cloud
 user-guide-url: https://www.adobe.com
 index: true
 translation-type: tm+mt
-source-git-commit: 31811e718be130612c8688e80084cb7579e94f47
+source-git-commit: 0bc7032d0052ba03beac1140dfbfd630e1802bfd
+workflow-type: tm+mt
+source-wordcount: '363'
+ht-degree: 71%
 
 ---
 
@@ -29,7 +32,7 @@ source-git-commit: 31811e718be130612c8688e80084cb7579e94f47
    + [Cookies da Advertising Cloud](cookies/cookies-advertising-cloud.md)
    + [[!DNL Scene7] cookies](cookies/cookies-s7.md)
    + [[!DNL Search and Promote] cookies](cookies/cookies-snp.md)
-   + [Cookies [!DNL Público alvo]](cookies/cookies-target.md)
+   + [[!DNL Target] cookies](cookies/cookies-target.md)
    + [Ativar as configurações de privacidade de cookies do navegador](cookies/browser-cookie-settings.md)
    + [Como as alterações no suporte a cookies de terceiros afetam os clientes](cookies/cookies-thirdparty.md)
 + Gerenciamento de usuários e de produtos {#manage-users-and-products}
@@ -61,7 +64,7 @@ source-git-commit: 31811e718be130612c8688e80084cb7579e94f47
 + Atributos do cliente na Experience Cloud {#customer-attributes}
    + [Visão geral dos atributos do cliente](attributes/attributes.md)
    + [Perguntas frequentes, limitações e práticas recomendadas](attributes/faq-crs.md)
-   + [Sobre arquivo de dados e fonte de dados para atributos do cliente](attributes/crs-data-file.md)
+   + [Sobre arquivos de dados e fontes de dados para Atributos do cliente](attributes/crs-data-file.md)
    + [Crie uma fonte de atributo do cliente e faça upload do arquivo de dados](attributes/t-crs-usecase.md)
    + [Opcional - Fazer upload do arquivo de dados via FTP](attributes/t-upload-attributes-ftp.md)
    + [Validar o esquema](attributes/validate-schema.md)

@@ -7,7 +7,10 @@ solution: Experience Cloud
 title: Atualizações da documentação - Experience Cloud
 uuid: f41c4e9f-e784-4706-8c4b-f430c953670d
 translation-type: tm+mt
-source-git-commit: d5f608401b7496fe044826d13e014c8b3bd9fcba
+source-git-commit: 0bc7032d0052ba03beac1140dfbfd630e1802bfd
+workflow-type: tm+mt
+source-wordcount: '229'
+ht-degree: 70%
 
 ---
 
@@ -22,7 +25,7 @@ Atualização do encaminhamento [](cookies/cookies-first-party.md#validate) Vali
 
 **Atualizado: 20/02/2020**
 
-Adicionados os detalhes de usuário da [View Experience Cloud (Ferramenta de administração)](admin-getting-started/admin-tool-experience-cloud.md).
+Detalhes do usuário da Experience Cloud da [Visualização adicionados (Ferramenta administrativa)](admin-getting-started/admin-tool-experience-cloud.md).
 
 **Atualizado: 5/9/2018**
 
@@ -30,7 +33,7 @@ Adição de como excluir um atributo do cliente. Consulte [(Opcional) Atualizar 
 
 **Atualizado: 8/6/20118**
 
-Atualização [Sobre arquivo de dados e fontes de dados para atributos do cliente](attributes/crs-data-file.md#concept_DE908F362DF24172BFEF48E1797DAF19) com informações sobre o upload de vários arquivos.
+Updated [About data file and data sources for Customer Attributes](attributes/crs-data-file.md#concept_DE908F362DF24172BFEF48E1797DAF19) with information about uploading multiple files.
 
 **Atualizado: 6/6/2018**
 
@@ -74,7 +77,7 @@ Aticação de [Ativar as soluções dos ](core-services/core-services.md#concept
 
 **Atualizado: 1/15/2015**
 
-Agora, os usuários adicionados da Experience Cloud podem compartilhar pastas com a Creative Cloud, além de sincronizar ativos e comentários entre os dois produtos. Consulte [Compartilhamento de ativo](experience-cloud-assets/creative-cloud.md#concept_3E5A34C3459047D5965F900788A9BA68).
+Agora, os usuários adicionados da Experience Cloud podem compartilhar pastas com a Creative Cloud e sincronizar ativos e comentários entre as duas Nuvens. Consulte Compartilhamento [de ativos](experience-cloud-assets/creative-cloud.md#concept_3E5A34C3459047D5965F900788A9BA68).
 
 **Atualizado: 7/17/2014**
 

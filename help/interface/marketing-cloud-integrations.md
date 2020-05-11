@@ -7,7 +7,10 @@ solution: Experience Cloud
 title: Integrações da Experience Cloud
 uuid: a9893c6b-bccc-4fb5-b724-724644c7def5
 translation-type: tm+mt
-source-git-commit: 31811e718be130612c8688e80084cb7579e94f47
+source-git-commit: 0bc7032d0052ba03beac1140dfbfd630e1802bfd
+workflow-type: tm+mt
+source-wordcount: '1521'
+ht-degree: 44%
 
 ---
 
@@ -51,7 +54,7 @@ O serviço de ID fornece uma ID contínua e universal que identifica os visitant
 
 Ajuda: [Públicos-alvo](audience-library/audience-library.md#topic_679810123CAA4E0CA4FA3417FB0100C7)
 
-Crie e gerencie audiências na biblioteca de Audiências da Experience Cloud. Os públicos-alvo podem ser criados ou derivados de várias fontes, como:
+Crie e gerencie Audiências na biblioteca de Audiências da Experience Cloud. Os públicos-alvo podem ser criados ou derivados de várias fontes, como:
 
 * Novos, criados na [!DNL Experience Cloud].
 * Nos segmentos do [!DNL Analytics] publicados para a [!DNL Experience Cloud].
@@ -134,14 +137,14 @@ Use a extensão do Adobe Experience Cloud Debugger para depurar os problemas enc
 
 Ajuda: [Integração do Público alvo da Adobe com a Experience Cloud](https://docs.adobe.com/content/help/pt-BR/core-services/interface/audiences/audience-library.html)
 
-Integrar o Adobe Target ao Adobe Analytics e outras soluções da Experience Cloud a fim de permitir o uso dos mesmos dados, públicos-alvo, atributos e métricas em ambas as soluções.
+Integre o Adobe Público alvo ao Adobe Analytics e outras soluções da Experience Cloud para permitir o uso dos mesmos dados, Audiências, atributos e métricas em ambas as soluções.
 
 **Soluções ou serviços aplicáveis**
 
 * Atributos do cliente: Configurar a [subscrição](https://docs.adobe.com/content/help/en/core-services/interface/customer-attributes/subscription.html) do Público alvo da Adobe para os atributos do cliente
 * Audiências da Experience Cloud: [Biblioteca de Audiências da Experience Cloud](https://docs.adobe.com/content/help/pt-BR/core-services/interface/audiences/audience-library.html)
 * Analytics: [Adobe Analytics as the Reporting Source for Adobe Target](https://docs.adobe.com/content/help/pt-BR/target/using/integrate/a4t/a4t.html)
-* Gerenciamento dinâmico de tags: [Práticas recomendadas para implementar o Público alvo da Adobe usando o DTM](https://docs.adobe.com/content/help/en/dtm/implementing/overview.html)
+* Gerenciamento dinâmico de tags: [Práticas recomendadas para implementar o Público alvo da Adobe usando o DTM](https://docs.adobe.com/content/help/pt-BR/dtm/implementing/overview.html)
 * Gerenciador de Audiências: [Integração de dados de Público alvo da Adobe com o Adobe Audiência Manager](https://docs.adobe.com/content/help/en/audience-manager/user-guide/implementation-integration-guides/integration-other-solutions/aam-target-integration.html)
 * Campanha: [Integração do Público alvo da Adobe com a Campanha](https://docs.adobe.com/content/help/en/target/using/integrate/campaign-and-target.html)
 
@@ -187,7 +190,7 @@ O **Analytics** pode enviar dados de participação do site e conversão para o 
 
 **Gerenciador dinâmico de tags:** Você pode [usar o Gerenciador dinâmico de tags para criar tag de rastreamento](https://docs.adobe.com/content/help/en/dtm/using/tools/media-optimizer.html)de conversão baseados em pixels do Media Otimizer, bem como tag de rastreamento de terceiros, para suas landings page de pesquisa, social e exibição de anúncios. (Você também pode criar tags do Media Optimizer diretamente no Media Optimizer.)
 
-**Audiências da Experience Cloud:** (Anunciantes com gerenciamento de exibição) Você pode usar qualquer uma das audiências [da](https://docs.adobe.com/content/help/pt-BR/core-services/interface/audiences/audience-library.html) Adobe Experience Cloud como públicos alvos para seus anúncios de exibição. É possível usar automaticamente os públicos-alvo criados na Adobe Experience Cloud e os do Analytics publicados na Adobe Experience Cloud, bem como usar os públicos-alvo do Audience Manager quando a conta do Media Optimizer estiver configurada para permitir isso. Entre em contato com o gerente de conta para obter mais informações sobre o acesso à Adobe Experience Cloud e a Perfis e Audiências, bem como sobre a configuração inicial entre o Media Otimizer e o Adobe Experience Cloud audiência. **Observação:** Se você também usar o Adobe Público alvo, qualquer audiência publicada na Adobe Experience Cloud também estará disponível para atividade no Adobe Público alvo.
+**Audiências da Experience Cloud:** (Anunciantes com gerenciamento de exibição) Você pode usar qualquer uma das Audiências [da](https://docs.adobe.com/content/help/pt-BR/core-services/interface/audiences/audience-library.html) Adobe Experience Cloud como públicos alvos para seus anúncios de exibição. Você pode usar automaticamente as Audiências que criou na Adobe Experience Cloud e no Audiência a partir do Analytics que você publicou na Adobe Experience Cloud e usar o Audiência a partir do Audiência Manager quando a conta do Media Otimizer estiver configurada para permitir isso. Entre em contato com o gerente de conta para obter mais informações sobre o acesso à Adobe Experience Cloud e a Perfis e Audiências, bem como sobre a configuração inicial entre o Media Otimizer e o Adobe Experience Cloud Audiência. **Observação:** Se você também usar o Adobe Público alvo, qualquer Audiência publicada na Adobe Experience Cloud também estará disponível para atividade no Adobe Público alvo.
 
 **Ativos da Experience Cloud:** (anunciantes com gerenciamento de exibição) você pode usar qualquer um dos ativos da Adobe Experience Cloud como os elementos de criação dos anúncios de exibição usando a Nova visualização beta. You must be [logged in to Media Optimizer through Adobe Experience Cloud](https://enterprise-test.efrontier.com/CMDashboard/help/internal/getting_started/t_log_in_from_adobe_marketing_cloud.htm)) to access your Adobe Experience Cloud assets. Entre em contato com o gerente da conta para obter mais informações sobre como acessar a Adobe Experience Cloud.
 

@@ -2,7 +2,7 @@
 title: Suporte aos atributos do cliente para a Lei de privacidade do consumidor da Califórnia
 description: Suporte aos atributos do cliente para a Lei de privacidade do consumidor da Califórnia
 translation-type: tm+mt
-source-git-commit: 8709449909ce4fbd441d77fb4bbfb0b7758e805d
+source-git-commit: 0bc7032d0052ba03beac1140dfbfd630e1802bfd
 workflow-type: tm+mt
 source-wordcount: '433'
 ht-degree: 4%
@@ -12,7 +12,7 @@ ht-degree: 4%
 
 # Suporte aos atributos do cliente para o California Consumer Privacy Act
 
-Esta página descreve o suporte dos atributos do  cliente para o California Consumer Privacy Act (CCPA).
+Esta página descreve o suporte dos Atributos do  cliente para o California Consumer Privacy Act (CCPA).
 
 >[!IMPORTANT]
 >
@@ -24,13 +24,13 @@ Como empresa, você determinará os dados pessoais que a Adobe Experience Cloud 
 
 Como seu provedor de serviço, a Adobe Experience Cloud oferece suporte para que sua empresa cumpra suas obrigações no CCPA, aplicáveis ao uso de produtos e serviços da Experience Cloud, incluindo o gerenciamento de solicitações para acessar e excluir informações pessoais.
 
-Este documento descreve como os atributos [!UICONTROL do] cliente suportam os direitos de acesso e exclusão de dados CCPA das pessoas usando a API do Adobe Experience Platform Privacy Service e a interface do usuário do Privacy Service.
+Este documento descreve como os Atributos [!UICONTROL do] cliente oferecem suporte aos direitos de acesso e exclusão de dados CCPA das pessoas usando a API do Adobe Experience Platform Privacy Service e a interface do usuário do Privacy Service.
 
 Para obter mais informações sobre os serviços de privacidade da Adobe para CCPA, consulte o Centro [de privacidade da](https://www.adobe.com/privacy/ccpa.html)Adobe.
 
 ## Configuração necessária para enviar solicitações de atributos [!UICONTROL do cliente]
 
-Para fazer solicitações de acesso e exclusão de dados para atributos do cliente, é necessário:
+Para fazer solicitações de acesso e exclusão de dados para Atributos [!UICONTROL do]cliente, é necessário:
 
 1. Identifique o seguinte:
 
@@ -39,9 +39,9 @@ Para fazer solicitações de acesso e exclusão de dados para atributos do clien
    * ID do CRM do perfil no qual você deseja agir
    Uma ID de organização IMS é uma sequência de 24 caracteres alfanuméricos anexada com @AdobeOrg. Se a sua equipe de marketing ou o administrador interno do sistema da Adobe não souber a ID da empresa IMS, entre em contato com o Atendimento ao cliente da Adobe em gdprsupport@adobe.com. Você precisará da ID de empresa IMS para enviar solicitações à API de privacidade.
 
-1. No [!UICONTROL Privacy Service], você pode enviar solicitações de Acesso e Excluir aos atributos do cliente e verificar o status das solicitações existentes.
+1. No [!UICONTROL Privacy Service], você pode enviar solicitações de Acesso e Excluir aos Atributos do cliente e verificar o status das solicitações existentes.
 
-## Valores de campo necessários em atributos [!UICONTROL do] cliente Solicitações JSON
+## Valores de campo obrigatórios em solicitações JSON de atributos [!UICONTROL do] cliente
 
 &quot;Contexto de empresa&quot;:
 

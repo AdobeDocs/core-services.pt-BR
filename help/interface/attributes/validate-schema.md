@@ -1,13 +1,16 @@
 ---
 description: O processo de validação permite mapear os nomes de exibição e as descrições aos atributos carregados (sequências, números inteiros, números e assim por diante). Um esquema é criado com base nessas configurações. O esquema é usado para validar todos os dados futuros carregados nessa fonte de dados. Esse processo de mapeamento não altera os dados originais.
-keywords: customer attributes;core services
+keywords: Customer Attributes;core services
 seo-description: O processo de validação permite mapear os nomes de exibição e as descrições aos atributos carregados (sequências, números inteiros, números e assim por diante). Um esquema é criado com base nessas configurações. O esquema é usado para validar todos os dados futuros carregados nessa fonte de dados. Esse processo de mapeamento não altera os dados originais.
 seo-title: Validar o esquema
 solution: Experience Cloud
 title: Validar o esquema
 uuid: 163a4dbe-d60b-4089-8ff8-65f7461fbdf7
 translation-type: tm+mt
-source-git-commit: 43de353155c640b3ddc519147c94d7e9ffcafe4e
+source-git-commit: 0bc7032d0052ba03beac1140dfbfd630e1802bfd
+workflow-type: tm+mt
+source-wordcount: '551'
+ht-degree: 75%
 
 ---
 
@@ -18,7 +21,7 @@ O processo de validação permite mapear os nomes de exibição e as descriçõe
 
 >[!NOTE]
 >
->A atualização do esquema após a validação exclui os atributos do cliente. Consulte [Atualizar o esquema (também exclui os atributos)](../attributes/t-crs-usecase.md#task_6568898BB7C44A42ABFB86532B89063C).
+>A atualização do schema após a validação exclui os Atributos do cliente. Consulte [Atualizar o esquema (também exclui os atributos)](../attributes/t-crs-usecase.md#task_6568898BB7C44A42ABFB86532B89063C).
 
 **[!UICONTROL Fonte]** de atributo do cliente > **[!UICONTROL Criar nova fonte]** de atributo do cliente > **[!UICONTROL Visualização/Editar Schema]**
 

@@ -1,13 +1,16 @@
 ---
 description: Se você não fizer upload usando a função arrastar e soltar, será possível fazer upload do atributo do cliente via FTP na Experience Cloud.
-keywords: atributos do cliente, serviços principais
+keywords: Customer Attributes;core services
 seo-description: Se você não fizer upload usando a função arrastar e soltar, será possível fazer upload do atributo do cliente via FTP na Experience Cloud.
 seo-title: Opcional - Fazer upload do arquivo de dados via FTP
 solution: Experience Cloud
 title: Opcional - Fazer upload do arquivo de dados via FTP
 uuid: 5df565dd-b6f8-420e-981f-4b6fc6f7d0e4
 translation-type: tm+mt
-source-git-commit: d304e625bd2125854d9ed932674522284995e030
+source-git-commit: 0bc7032d0052ba03beac1140dfbfd630e1802bfd
+workflow-type: tm+mt
+source-wordcount: '294'
+ht-degree: 68%
 
 ---
 
@@ -20,12 +23,12 @@ Você pode fazer upload dos dados depois de criar uma fonte de atributo do clien
 
 >[!IMPORTANT]
 >
->Analise [os requisitos do arquivo de dados para fazer upload dos atributos do cliente](../attributes/crs-data-file.md#concept_DE908F362DF24172BFEF48E1797DAF19) antes de fazer upload do arquivo.
+>Review [Data file requirements for uploading Customer Attributes](../attributes/crs-data-file.md#concept_DE908F362DF24172BFEF48E1797DAF19) before uploading the file.
 
-Os uploads do arquivo para o site FTP dos atributos do cliente podem ser realizados via FTP ou SFTP.
+Os uploads de arquivos para o site FTP de atributos do cliente podem ser feitos via FTP ou SFTP.
 
-* O cliente precisa ter suporte para conexões SFTP.
-* Você pode conectar-se com o SFTP usando o nome de usuário/senha ou sem usar senha, conforme descrito [aqui](https://docs.adobe.com/help/en/analytics/export/ftp-and-sftp/secure-file-transfer-protocol/ftp-sftp-cert-auth.html).
+* Você precisa de um cliente que suporte conexões SFTP.
+* Você pode se conectar ao SFTP usando o nome de usuário/senha ou sem usar senha, conforme descrito [aqui](https://docs.adobe.com/help/en/analytics/export/ftp-and-sftp/secure-file-transfer-protocol/ftp-sftp-cert-auth.html).
 
 **Para fazer upload do arquivo de dados via FTP**
 
@@ -33,7 +36,7 @@ Os uploads do arquivo para o site FTP dos atributos do cliente podem ser realiza
 
    Verifique se você está conectado no site FTP em [!DNL ftp.adobe.com/<sftpname>].
 
-1. Clique em **[!UICONTROL Ações]** &gt; **[!UICONTROL Upload do arquivo]**.
+1. Click **[!UICONTROL Actions]** > **[!UICONTROL File Upload]**.
 
 1. Faça upload de um arquivo `.fin`, para que o arquivo possa ser recuperado.
 
@@ -41,4 +44,4 @@ Os uploads do arquivo para o site FTP dos atributos do cliente podem ser realiza
 
    Se o upload for bem-sucedido, ambos os arquivos serão movidos para uma pasta chamada **processados**.
 
-   Consulte [os requisitos do arquivo de dados para fazer upload dos atributos do cliente](../attributes/crs-data-file.md#concept_DE908F362DF24172BFEF48E1797DAF19) para obter informações importantes sobre os nomes dos arquivos e a estrutura.
+   See [Data file requirements for uploading Customer Attributes](../attributes/crs-data-file.md#concept_DE908F362DF24172BFEF48E1797DAF19) for important information about file names and structure.

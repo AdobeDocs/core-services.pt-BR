@@ -7,10 +7,10 @@ solution: Experience Cloud
 title: Notas de versão cumulativas
 uuid: fcff8cc6-e587-4bf2-9a75-261d4eabc7d4
 translation-type: tm+mt
-source-git-commit: 0bc7032d0052ba03beac1140dfbfd630e1802bfd
+source-git-commit: 1f7672f43e870c7ab66d68f451c031ea2c5af15b
 workflow-type: tm+mt
-source-wordcount: '3809'
-ht-degree: 68%
+source-wordcount: '3929'
+ht-degree: 69%
 
 ---
 
@@ -22,6 +22,22 @@ Recursos, notas de versão e problemas conhecidos da interface da Experience Clo
 Para obter uma lista de atualizações de documentação, consulte [Experience Cloud](../doc-updates.md#concept_4C8983FCD23848A4B1E4C2D99ED82784).
 
 Para obter as notas de versão que abrangem todas as soluções, consulte Notas [de versão da](https://docs.adobe.com/content/help/pt-BR/release-notes/experience-cloud/current.html)Experience Cloud.
+
+## Abril - 2020
+
+* A página do [!UICONTROL Feed] da Experience Cloud foi substituída. (EXC-8505)
+* A página de logon da Experience Cloud foi atualizada para refletir os novos elementos de marca. (EXC-10747)
+
+## Fevereiro - 2020
+
+| Recurso | Descrição |
+| -----------| ---------- |
+| Ferramenta de administração - exibir detalhes do usuário | Os administradores podem exibir uma lista classificável e filtrável de todos os usuários da Experience Cloud e seus detalhes na nova Ferramenta de administração. Os detalhes do usuário incluem o acesso ao produto, as funções e as últimas informações acessadas de um usuário. Consulte a ajuda da [Ferramenta de administração da Experience Cloud](https://docs.adobe.com/content/help/pt-BR/core-services/interface/manage-users-and-products/admin-tool-experience-cloud.html) para obter detalhes. |
+
+**Correções**
+
+* **Atributos do cliente:** a interface do usuário de atributos do cliente agora exibe status adicionais de perfis sincronizados no Target. (MCUI-10231)
+* **Triggers de serviços principais:** devido à falta de uso, a pontuação de propensão &quot;Probabilidade de retorno em 30 dias&quot; ao criar um acionador do tipo Abandono foi removida. (MCUI-10056)
 
 ## Janeiro - 2020
 

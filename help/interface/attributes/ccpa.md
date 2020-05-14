@@ -2,7 +2,7 @@
 title: Suporte aos atributos do cliente para a Lei de privacidade do consumidor da Califórnia
 description: Suporte aos atributos do cliente para a Lei de privacidade do consumidor da Califórnia
 translation-type: tm+mt
-source-git-commit: 0bc7032d0052ba03beac1140dfbfd630e1802bfd
+source-git-commit: 4223f9260865756842ad43b99d2509908f4d6572
 workflow-type: tm+mt
 source-wordcount: '433'
 ht-degree: 4%
@@ -10,7 +10,7 @@ ht-degree: 4%
 ---
 
 
-# Suporte aos atributos do cliente para o California Consumer Privacy Act
+# Suporte aos Atributos do cliente para a Lei de Privacidade do Consumidor da Califórnia
 
 Esta página descreve o suporte dos Atributos do  cliente para o California Consumer Privacy Act (CCPA).
 

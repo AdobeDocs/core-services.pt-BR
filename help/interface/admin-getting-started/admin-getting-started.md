@@ -7,7 +7,10 @@ solution: Experience Cloud
 title: Gerenciar usuários e produtos da Experience Cloud
 index: true
 translation-type: tm+mt
-source-git-commit: e54747dc6ff4e52b893924c5e0ebfa91ba824538
+source-git-commit: a4a0760f838178b3c4caebf89e389da8a7ff4627
+workflow-type: tm+mt
+source-wordcount: '1449'
+ht-degree: 35%
 
 ---
 
@@ -18,7 +21,7 @@ Saiba mais sobre como fazer logon no Admin Console, gerenciar permissões de usu
 
 >[!IMPORTANT]
 >
->O gerenciamento de usuários no Admin Console apresenta termos, interfaces e navegação novos. As informações a seguir descrevem essas alterações e fornecem links para recursos adicionais de ajuda. This help supplements the information in the [Enterprise Administration User Guide](https://helpx.adobe.com/enterprise/managing/user-guide.html) for all Adobe cloud products.
+>O gerenciamento de usuários no Admin Console apresenta termos, interfaces e navegação novos. As informações a seguir descrevem essas alterações e fornecem links para recursos adicionais de ajuda. This help supplements the information in the [Enterprise Administration User Guide](https://helpx.adobe.com/br/enterprise/managing/user-guide.html) for all Adobe cloud products.
 
 ## Novidades no gerenciamento de usuários da Experience Cloud {#concept_06A0A13362F644FB90F947238407637A}
 
@@ -48,13 +51,13 @@ Os administradores não gerenciam mais os usuários nas soluções. O gerenciame
 Para fazer logon no Admin Console:
 
 1. Navigate to [https://adminconsole.adobe.com/enterprise/](https://adminconsole.adobe.com/enterprise/#).
-1. Digite sua [Adobe ID ou Enterprise ID](https://helpx.adobe.com/enterprise/help/identity.html) e senha.
+1. Digite sua [Adobe ID ou Enterprise ID](https://helpx.adobe.com/br/enterprise/help/identity.html) e senha.
 
 Alternatively, from the Experience Cloud menu ( ![](assets/menu-icon.png)), click **[!UICONTROL Administration]** > **[!UICONTROL Launch Admin Console]**.
 
 **Ajuda relacionada**
 
-[Guia](https://helpx.adobe.com/enterprise/using/users.html) do usuário de administração para a Creative Cloud e a Documento Cloud. Algumas informações são relevantes para o gerenciamento de usuários da Experience Cloud, como o [gerenciamento de tipos](https://helpx.adobe.com/enterprise/help/identity.html)de identidade.
+[Guia](https://helpx.adobe.com/br/enterprise/using/users.html) do usuário de administração para a Creative Cloud e a Documento Cloud. Algumas informações são relevantes para o gerenciamento de usuários da Experience Cloud, como o [gerenciamento de tipos](https://helpx.adobe.com/br/enterprise/help/identity.html)de identidade.
 
 [Faça logon e gerencie suas configurações](../admin-getting-started/getting-started-experience-cloud.md#topic_AC564B6795334DE39359ADD87F52F2E0) de perfil para gerenciar senhas, organizações e notificações.
 
@@ -84,15 +87,15 @@ After the migration, users sign in using their Adobe ID (or Enterprise ID) and a
 
 **Ajuda relacionada**
 
-[Migração de IDs de usuários do Analytics](https://docs.adobe.com/content/help/en/analytics/admin/user-product-management/user-management/migrate-users/c-migration-tool.html)
+[Migração de IDs de usuários do Analytics](https://docs.adobe.com/content/help/pt-BR/analytics/admin/user-product-management/user-management/migrate-users/c-migration-tool.html)
 
 ## Adobe Target - product profiles vs workspaces {#section_3860AF177C9E4C7E9C390D36A414F353}
 
 No Adobe Público alvo, um espaço de trabalho é um perfil de produto. Ela permite que uma organização atribua um conjunto específico de usuários a um conjunto específico de propriedades. De muitas formas, um espaço de trabalho é semelhante a um conjunto de relatórios no Adobe Analytics.
 
 Consulte:
-* [Permissões de usuário empresarial](https://docs.adobe.com/content/help/en/target/using/administer/manage-users/enterprise/property-channel.html)
-* [Gerenciar produtos e perfis](https://helpx.adobe.com/enterprise/using/manage-products-and-profiles.html)
+* [Permissões de usuário empresarial](https://docs.adobe.com/content/help/pt-BR/target/using/administer/manage-users/enterprise/property-channel.html)
+* [Gerenciar produtos e perfis](https://helpx.adobe.com/br/enterprise/using/manage-products-and-profiles.html)
 * Vídeo: [Como configurar espaços de trabalho do Público alvo no Adobe Admin Console](https://helpx.adobe.com/target/kb/how-to-configure-target-workspaces-in-adobe-admin-console0.html)
 
 ## Campaign - perfis de produto, locatários e grupos de segurança {#section_09CDF75366444CF5810CF321B7C712F3}
@@ -108,6 +111,12 @@ Consulte [Gerenciamento de grupos e usuários](https://helpx.adobe.com/campaign/
 O Experience Platform Launch é exibido na página Produtos no Admin Console. Você pode incluir outras soluções e serviços em um perfil de produto do Launch.
 
 Consulte Gerenciamento [de](https://docs.adobelaunch.com/launch-reference/administration/user-permissions) usuários para obter informações sobre permissões de usuário no Admin Console e configurar opções específicas do Launch, incluindo a atribuição de direitos a perfis.
+
+## Experience Manager as a Cloud Service
+
+Os clientes do Adobe Enterprise são representados como Organizações IMS no Adobe Admin Console. Este é o portal usado pelos clientes da Adobe para gerenciar seus direitos de produtos para seus usuários e grupos. Os clientes do AEM podem usar o Adobe Admin Console para gerenciar seus direitos de produto e a autenticação IMS para o AEM como um serviço em nuvem.
+
+See [IMS Support for AEM as a Cloud Service](https://youtu.be/EuUAVLZMdDA).
 
 ## Gerenciador dinâmico de tags {#section_3A41CF2BD5994B9891537D063571D4ED}
 
@@ -134,8 +143,8 @@ Ao convidar um usuário para uma organização, você pode conceder ao usuário 
 
 Mais ajuda está disponível em:
 
-* [Gerenciar produtos e perfis](https://helpx.adobe.com/enterprise/using/manage-products-and-profiles.html)
-* [Permissões](https://docs.adobe.com/content/help/en/target/using/administer/manage-users/enterprise/property-channel.html) de usuário corporativo na ajuda do Público alvo Adobe para obter mais informações.
+* [Gerenciar produtos e perfis](https://helpx.adobe.com/br/enterprise/using/manage-products-and-profiles.html)
+* [Permissões](https://docs.adobe.com/content/help/pt-BR/target/using/administer/manage-users/enterprise/property-channel.html) de usuário corporativo na ajuda do Público alvo Adobe para obter mais informações.
 * Vídeo: [Como configurar espaços de trabalho do Público alvo no Adobe Admin Console](https://helpx.adobe.com/target/kb/how-to-configure-target-workspaces-in-adobe-admin-console0.html)
 
 ## Atribuir a um perfil de produto permissões de acesso ao Analytics {#task_040673FE3E3E429B9531FBCB8B6A4391}
@@ -183,10 +192,10 @@ Navegadores compatíveis na Experience Cloud.
 * [!DNL Safari]
 * [!DNL Opera]
 
-**Observação:** embora a interface da Experience Cloud seja compatível com esses navegadores, as soluções individuais podem não ser compatíveis com todos os navegadores. (For example, [Analytics](https://docs.adobe.com/content/help/en/analytics/admin/sys-reqs.html) does not support [!DNL Opera], and [Adobe Target](https://docs.adobe.com/help/en/target/using/implement-target/before-implement/supported-browsers.html) does not support [!DNL Safari].)
+**Observação:** embora a interface da Experience Cloud seja compatível com esses navegadores, as soluções individuais podem não ser compatíveis com todos os navegadores. (For example, [Analytics](https://docs.adobe.com/content/help/pt-BR/analytics/admin/sys-reqs.html) does not support [!DNL Opera], and [Adobe Target](https://docs.adobe.com/help/pt-BR/target/using/implement-target/before-implement/supported-browsers.html) does not support [!DNL Safari].)
 
 ### Requisitos da solução e do produto
 
-* [Analytics](https://docs.adobe.com/content/help/en/analytics/admin/sys-reqs.html)
+* [Analytics](https://docs.adobe.com/content/help/pt-BR/analytics/admin/sys-reqs.html)
 * [Report Builder](https://docs.adobe.com/content/help/en/analytics/analyze/report-builder/report-builder-setup/system-requirements.html)
-* [Adobe Target](https://docs.adobe.com/help/en/target/using/implement-target/before-implement/supported-browsers.html)
+* [Adobe Target](https://docs.adobe.com/help/pt-BR/target/using/implement-target/before-implement/supported-browsers.html)

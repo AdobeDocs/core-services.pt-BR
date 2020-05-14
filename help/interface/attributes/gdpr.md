@@ -2,7 +2,7 @@
 title: Suporte a atributos do cliente para o Regulamento geral de proteção de dados
 description: Suporte a atributos do cliente para o Regulamento geral de proteção de dados
 translation-type: tm+mt
-source-git-commit: 0bc7032d0052ba03beac1140dfbfd630e1802bfd
+source-git-commit: 4223f9260865756842ad43b99d2509908f4d6572
 workflow-type: tm+mt
 source-wordcount: '430'
 ht-degree: 1%
@@ -10,7 +10,7 @@ ht-degree: 1%
 ---
 
 
-# Suporte aos atributos do cliente para o Regulamento geral de proteção de dados
+# Suporte a Atributos do cliente para Regulamento geral de proteção de dados
 
 Esta página descreve como os Atributos do cliente oferecem suporte ao Regulamento geral de proteção de dados (RGPD).
 

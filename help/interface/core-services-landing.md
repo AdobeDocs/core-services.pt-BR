@@ -6,10 +6,10 @@ solution: Experience Cloud
 title: Sobre os principais serviços da Experience Cloud
 index: true
 translation-type: tm+mt
-source-git-commit: 0bc7032d0052ba03beac1140dfbfd630e1802bfd
+source-git-commit: 1f7672f43e870c7ab66d68f451c031ea2c5af15b
 workflow-type: tm+mt
 source-wordcount: '565'
-ht-degree: 34%
+ht-degree: 30%
 
 ---
 
@@ -36,5 +36,5 @@ Esta ajuda descreve os seguintes produtos e serviços:
 | [Serviço de localização](https://docs.adobe.com/content/help/pt-BR/places/using/home.html) | O Adobe [!UICONTROL Experience Platform Location Service] (Serviço de Localização) é um serviço de localização geográfica que permite que aplicativos móveis com detecção de localização compreendam o contexto de localização usando interfaces SDK avançadas e fáceis de usar acompanhadas por um banco de dados flexível de pontos de interesse (POIs). |
 | [Ofertas](offer-management/getting-started.md) | Crie, gerencie e tome decisões em todos os canais na Experience Cloud. [!UICONTROL O Gerenciamento] de Ofertas serve como um catálogo de oferta central onde você pode associar regras de elegibilidade e vários conteúdos a cada &quot;objeto&quot; de oferta, publicar essas ofertas em canais e locais e oferecer a melhor oferta para cada cliente em cada interação. |
 | [Exchange](exchange.md) | Pesquise, navegue, selecione, pague e baixe extensões de Marketing digital por aplicativos. |
-| [Mobile Services](https://docs.adobe.com/content/help/pt-BR/mobile-services/using/home.html) | O Adobe Mobile Services reúne recursos de marketing móvel para aplicativos móveis em toda a Experience Cloud; isso permite que você entenda e aprimore a participação do usuário com seus aplicativos móveis. |
-| Pessoas | Crie uma exibição abrangente de clientes individuais ao conectar dados da Adobe e dados que não pertencem à Adobe nas soluções da Experience Cloud. Descubra o que é mais importante para eles durante a interação nos pontos de conexão. Reconheça consumidores de longa data quando eles visitarem por meio de dispositivos desconhecidos. Até mesmo agrupe usuários em Audiências para esforços de marketing direcionados.<br>[Audiência](audience-library/audience-library.md) - categorize diferentes tipos de clientes no Audiência e compartilhe-os nas soluções da Marketing Cloud.<br>[Atributos do cliente](attributes/attributes.md) - enriquecimento do público-alvo, que permite a conexão de informações do consumidor coletadas fora da Marketing Cloud.<br>[Gráfico](https://landing.adobe.com/en/na/events/summit/275658-summit-co-op.html) de dispositivos - Colabore com as marcas mais populares do mundo para reconhecer um consumidor familiar por trás de um dispositivo desconhecido. (na versão beta, somente para membros cooperativos de dispositivo da Marketing Cloud.) |
+| [Mobile Services](https://docs.adobe.com/content/help/br/mobile-services/using/home.html) | O Adobe Mobile Services reúne recursos de marketing móvel para aplicativos móveis em toda a Experience Cloud; isso permite que você entenda e aprimore a participação do usuário com seus aplicativos móveis. |
+| Pessoas | Crie uma exibição abrangente de clientes individuais ao conectar dados da Adobe e dados que não pertencem à Adobe nas soluções da Experience Cloud. Descubra o que é mais importante para eles durante a interação nos pontos de conexão. Reconheça consumidores de longa data quando eles visitarem por meio de dispositivos desconhecidos. Até mesmo agrupe usuários em Audiências para esforços de marketing direcionados.<br>[Audiência](audience-library/audience-library.md) - categorize diferentes tipos de clientes no Audiência e compartilhe-os nas soluções da Marketing Cloud.<br>[Atributos](attributes/attributes.md) do cliente - enriquecimento de audiência que permite a conexão de informações do consumidor coletadas fora da Marketing Cloud.<br>[Gráfico](https://landing.adobe.com/en/na/events/summit/275658-summit-co-op.html) de dispositivos - Colabore com as marcas mais populares do mundo para reconhecer um consumidor familiar por trás de um dispositivo desconhecido. (na versão beta, somente para membros cooperativos de dispositivo da Marketing Cloud.) |

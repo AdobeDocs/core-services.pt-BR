@@ -6,8 +6,11 @@ seo-title: Organizações e vinculação de contas
 solution: Marketing Cloud
 title: Organizações e vinculação de contas
 uuid: ae47ad18-ac33-4efa-8b68-2bfaf77397aa
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: 43de353155c640b3ddc519147c94d7e9ffcafe4e
+workflow-type: ht
+source-wordcount: '399'
+ht-degree: 100%
 
 ---
 
@@ -18,9 +21,9 @@ Saiba mais sobre como gerenciar organizações e como vincular contas de soluç�
 
 ## Identificar a organização {#concept_384D169B0B724B799D573B8ECB5C39BF}
 
-Uma organização da ** é a entidade que permite ao administrador configurar grupos e usuários, além de controlar o logon único na Experience Cloud. A organização funciona como uma empresa para logon que abrange os produtos e as soluções da Experience Cloud. Frequentemente, a organização é o nome da empresa. No entanto, uma empresa pode ter muitas organizações.
+Uma *organização* da  é a entidade que permite ao administrador configurar grupos e usuários, além de controlar o logon único na Experience Cloud. A organização funciona como uma empresa para logon que abrange os produtos e as soluções da Experience Cloud. Frequentemente, a organização é o nome da empresa. No entanto, uma empresa pode ter muitas organizações.
 
-Além disso, talvez seja necessário localizar a ID da organização para fins de suporte. Você pode verificar se está na organização correta ou alternar entre organizações usando o menu **[!UICONTROL Organização]**.
+Além disso, pode ser necessário localizar a ID da organização para fins de suporte. Você pode verificar se está na organização correta ou alternar entre organizações usando o menu **[!UICONTROL Organização]**.
 
 ![Resultado da etapa](assets/organization-switch.png)
 
@@ -68,5 +71,5 @@ Ajuda sobre problemas que surgem da vinculação de contas.
 
 Normalmente, a vinculação de contas falha porque a Adobe ID está vinculada a um usuário anterior. Quando a vinculação de contas falhar, você poderá:
 
-* [Entre em contato com o suporte](https://helpx.adobe.com/marketing-cloud/contact-support.html)da Adobe.
+* [Entrar em contato com o Suporte da Adobe](https://helpx.adobe.com/br/marketing-cloud/contact-support.html).
 * Você também pode acessar sua solução através do logon padrão enquanto o problema estiver sendo resolvido.

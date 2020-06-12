@@ -10,7 +10,7 @@ translation-type: tm+mt
 source-git-commit: 0bc7032d0052ba03beac1140dfbfd630e1802bfd
 workflow-type: tm+mt
 source-wordcount: '294'
-ht-degree: 68%
+ht-degree: 85%
 
 ---
 
@@ -27,8 +27,8 @@ Você pode fazer upload dos dados depois de criar uma fonte de atributo do clien
 
 Os uploads de arquivos para o site FTP de atributos do cliente podem ser feitos via FTP ou SFTP.
 
-* Você precisa de um cliente que suporte conexões SFTP.
-* Você pode se conectar ao SFTP usando o nome de usuário/senha ou sem usar senha, conforme descrito [aqui](https://docs.adobe.com/help/en/analytics/export/ftp-and-sftp/secure-file-transfer-protocol/ftp-sftp-cert-auth.html).
+* Você precisa de um cliente compatível com conexões SFTP.
+* Você pode se conectar ao SFTP usando o nome de usuário/senha ou sem usar senha, conforme descrito [aqui](https://docs.adobe.com/help/pt-BR/analytics/export/ftp-and-sftp/secure-file-transfer-protocol/ftp-sftp-cert-auth.html).
 
 **Para fazer upload do arquivo de dados via FTP**
 
@@ -36,7 +36,7 @@ Os uploads de arquivos para o site FTP de atributos do cliente podem ser feitos 
 
    Verifique se você está conectado no site FTP em [!DNL ftp.adobe.com/<sftpname>].
 
-1. Click **[!UICONTROL Actions]** > **[!UICONTROL File Upload]**.
+1. Clique em **[!UICONTROL Ações]** > **[!UICONTROL Carregar arquivo]**.
 
 1. Faça upload de um arquivo `.fin`, para que o arquivo possa ser recuperado.
 

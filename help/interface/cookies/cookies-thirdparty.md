@@ -6,22 +6,25 @@ seo-title: Como as alterações no suporte a cookies de terceiros afeta os clien
 solution: Marketing Cloud,Analytics,Adobe Target,Adobe Social
 title: Como as alterações no suporte a cookies de terceiros afeta os clientes
 uuid: 27332e0d-6932-4a6e-b97b-0adeced0b050
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: f7ec8bf6087a18be41c9efbf05f60e6cfd24e566
+workflow-type: ht
+source-wordcount: '368'
+ht-degree: 100%
 
 ---
 
 
-# How changes to third-party cookie support impact customers{#how-changes-to-third-party-cookie-support-impacts-customers}
+# Como as alterações no suporte a cookies de terceiros afetam os clientes {#how-changes-to-third-party-cookie-support-impacts-customers}
 
 Como o suporte a cookies de terceiros se tornou cada vez mais limitado nos navegadores, a Adobe tem trabalhado em novas soluções que equilibram as necessidades do cliente com seu direito de privacidade nas soluções da Adobe Experience Cloud.
 
-A lista a seguir descreve como o suporte a cookies de terceiros afeta as implementações atuais das soluções da Adobe Experience Cloud:
+A seguinte lista descreve como o suporte a cookies de terceiros afeta as implementações atuais das soluções da Adobe Experience Cloud:
 
 ## Adobe Analytics e Adobe Target
 
 * Clientes com uma [implementação própria](/help/interface/cookies/cookies-first-party.md) permaneceriam praticamente inalterados.
-* Customers that are not using first-party implementation can implement the [Experience Platform ID Service](https://docs.adobe.com/content/help/en/id-service/using/implementation-guides/implementation-guides.html) to store the ID cookie as a first-party cookie without a first-party implementation.
+* Os clientes que não usam implementação própria podem implementar o [Serviço de ID da Experience Platform](https://docs.adobe.com/content/help/en/id-service/using/implementation-guides/implementation-guides.html) para armazenar o cookie da ID como um cookie próprio, sem uma implementação própria.
 
 ## Adobe Experience Manager
 
@@ -40,12 +43,12 @@ A lista a seguir descreve como o suporte a cookies de terceiros afeta as impleme
 
 * Exibir:
 
-   * A recomercialização de exibição hoje depende totalmente do uso de cookies de terceiros.
+   * O remarketing de exibição hoje depende totalmente do uso de cookies de terceiros.
    * A exibição também depende muito da disponibilidade de vários cookies de rede de publicidade para sincronização.
-   * O impacto global é desconhecido. No entanto, de acordo com o primeiro ponto, a exibição é afetada mais do que outros serviços.
-   * Estamos trabalhando internamente e com nossos parceiros de publicidade para avaliar a extensão total do impacto no delivery de anúncios.
+   * O impacto geral é desconhecido. No entanto, de acordo com o primeiro ponto, a exibição é afetada mais do que outros serviços.
+   * Estamos trabalhando internamente e com nossos parceiros de publicidade para avaliar a extensão total do impacto na entrega de anúncios.
 
 * Social:
 
-   * Não há impacto nos anúncios do Facebook marketplace.
-   * O Facebook Exchange (FBX) será afetado da mesma forma que o delivery de anúncio de exibição.
+   * Não há impacto nos anúncios do Facebook market-place.
+   * O Facebook Exchange (FBX) será afetado da mesma forma que a entrega de anúncios de exibição.

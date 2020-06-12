@@ -4,8 +4,11 @@ seo-description: A Advertising Cloud usa cookies para mapear eventos de envolvim
 seo-title: Cookies da Advertising Cloud
 title: Cookies da Advertising Cloud
 uuid: 2eec48a3-3e81-488e-8e30-5fd62885de0b
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: d7d1a659bbdbc7a4221243d88410492351ab9055
+workflow-type: ht
+source-wordcount: '544'
+ht-degree: 100%
 
 ---
 
@@ -92,7 +95,7 @@ A Advertising Cloud usa cookies para mapear eventos de envolvimento de anúncios
  <tbody> 
   <tr> 
    <td colname="col1"> <p>Informações armazenadas </p> </td> 
-   <td colname="col2"> <p>Os carimbos de data e hora da última visita do surfista ao site do anunciante e o último clique de pesquisa do surfista e a ef_id que foi criada quando o usuário clicou em um anúncio</p> </td> 
+   <td colname="col2"> <p>Os carimbos de data e hora da última visita ao site do anunciante e o último clique de pesquisa, e a ef_id criada quando o usuário clicou em um anúncio</p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p>Expiração </p> </td> 
@@ -148,7 +151,7 @@ A Advertising Cloud usa cookies para mapear eventos de envolvimento de anúncios
  </tbody> 
 </table>
 
-## Nome do cookie: everest_g_v 2
+## Nome do cookie: everest_g_v2
 
 <table id="table_04043292A43B41B69EAF17AF4E217C69"> 
  <thead> 
@@ -181,7 +184,7 @@ A Advertising Cloud usa cookies para mapear eventos de envolvimento de anúncios
  </tbody> 
 </table>
 
-## Nome do cookie: everest_session_v 2
+## Nome do cookie: everest_session_v2
 
 <table id="table_1A3AE4CA71304ADB943CB1F64BE695F5"> 
  <thead> 
@@ -234,7 +237,7 @@ A Advertising Cloud usa cookies para mapear eventos de envolvimento de anúncios
   </tr> 
   <tr> 
    <td colname="col1"> <p>Uso </p> </td> 
-   <td colname="col2"> <p>Um cookie de terceiros que armazena a DSP ID que corresponde à ID do surfer no cookie everest_g_v 2 </p> </td> 
+   <td colname="col2"> <p>Um cookie de terceiros que armazena a DSP ID que corresponde à ID do surfer no cookie everest_g_v2 </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p>Localização </p> </td> 

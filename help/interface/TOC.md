@@ -8,22 +8,22 @@ translation-type: tm+mt
 source-git-commit: 7a3a14fa8572444513dd0ac4753431f3c33245f0
 workflow-type: tm+mt
 source-wordcount: '361'
-ht-degree: 67%
+ht-degree: 88%
 
 ---
 
 
-# Guia do Usuário dos Principais Serviços {#interface}
+# Guia do Usuário dos serviços principais {#interface}
 
 + [Experience Cloud e documentação do produto](experience-cloud.md)
-+ Principais serviços na Experience Cloud {#about-core-services}
++ Serviços principais na Experience Cloud {#about-core-services}
    + [Visão geral dos serviços principais](core-services-landing.md)
    + [Ativar as soluções dos principais serviços](core-services/core-services.md)
    + [Mapear conjuntos de relatórios para uma organização](core-services/report-suite-mapping.md)
    + [Sobre os novos nomes de nuvem na Experience Cloud](solutions-core-services.md)
 + [Integrações da Experience Cloud](marketing-cloud-integrations.md)
 + Cookies da Experience Cloud {#ec-cookies}
-   + [Visão geral dos cookies da Experience Cloud](cookies/cookies-privacy.md)
+   + [Visão geral de cookies da Experience Cloud](cookies/cookies-privacy.md)
    + [Cookies primários na Experience Cloud](cookies/cookies-first-party.md)
    + [Cookies do Analytics](cookies/cookies-analytics.md)
    + [Cookies do Audience Manager](cookies/cookies-am.md)
@@ -38,18 +38,18 @@ ht-degree: 67%
    + [Como as alterações no suporte a cookies de terceiros afetam os clientes](cookies/cookies-thirdparty.md)
 + Gerenciamento de usuários e de produtos {#manage-users-and-products}
    + [Gerenciar a identidade de usuário e os produtos da Experience Cloud (Admin Console)](admin-getting-started/admin-getting-started.md)
-   + [Detalhes do usuário da Visualização Experience Cloud (Ferramenta de administração)](admin-getting-started/admin-tool-experience-cloud.md)
+   + [Exibir detalhes do usuário da Experience Cloud (Ferramenta administrativa)](admin-getting-started/admin-tool-experience-cloud.md)
    + [Perguntas frequentes](admin-getting-started/faq.md)
    + [Fazer logon e gerenciar as configurações do seu perfil](admin-getting-started/getting-started-experience-cloud.md)
    + [Organizações e vinculação de contas](admin-getting-started/organizations.md)
    + [Atualização para o Analytics Premium e a Experience Cloud](admin-getting-started/upgrade-to-analytics-premium.md)
-+ Ativação da Experience Cloud {#activation}
++ Experience Cloud Activation {#activation}
    + [Visão geral de Activation](activation/activation.md)
    + [Guia do usuário do Launch](https://docs.adobe.com/content/help/pt-BR/launch/using/overview.html)
-   + [Guia do usuário do Gerenciador dinâmico de tags](https://docs.adobe.com/content/help/pt-BR/dtm/using/dtm-home.html)
+   + [Guia do usuário do Dynamic Tag Management](https://docs.adobe.com/content/help/pt-BR/dtm/using/dtm-home.html)
    + [Triggers](activation/triggers.md)
-+ Experience Cloud assets {#assets}
-   + [Visão geral dos ativos da Experience Cloud](experience-cloud-assets/experience-cloud-assets.md)
++ Ativos da Experience Cloud {#assets}
+   + [Visão geral de ativos da Experience Cloud](experience-cloud-assets/experience-cloud-assets.md)
    + [Compartilhar as pastas e os ativos da Experience Cloud com a Creative Cloud](experience-cloud-assets/creative-cloud.md)
    + [Gerenciar usuários da Creative Cloud](experience-cloud-assets/t-admin-add-cc-user.md)
    + [Compartilhar uma pasta de ativos da Experience Cloud](experience-cloud-assets/t-share-creative-cloud.md)
@@ -58,11 +58,11 @@ ht-degree: 67%
    + [Desativar a sincronização de pastas compartilhadas](experience-cloud-assets/t-disable-asset-sync.md)
    + [Requisitos para compartilhamento do arquivo do ativo](experience-cloud-assets/assets-file-reqs.md)
    + [Comportamento das pastas compartilhadas](experience-cloud-assets/asset-behavior.md)
-+ Audiências na Experience Cloud {#audiences}
++ Públicos-alvo na Experience Cloud {#audiences}
    + [Visão geral de públicos-alvo](audience-library/audience-library.md)
    + [Criar um público-alvo](audience-library/t-audience-create.md)
    + [Publicar um segmento de público-alvo do Analytics](audience-library/t-publish-audience-segment.md)
-+ Atributos do cliente na Experience Cloud {#customer-attributes}
++ Customer Attributes in Experience Cloud {#customer-attributes}
    + [Visão geral dos atributos do cliente](attributes/attributes.md)
    + [Perguntas frequentes, limitações e práticas recomendadas](attributes/faq-crs.md)
    + [Sobre arquivos de dados e fontes de dados para Atributos do cliente](attributes/crs-data-file.md)

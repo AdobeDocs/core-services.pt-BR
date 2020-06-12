@@ -5,8 +5,11 @@ seo-title: Uso da pré-busca DNS com diferentes soluções e serviços
 solution: Experience Cloud
 title: Uso da pré-busca DNS com diferentes soluções e serviços
 uuid: 4220e223-e00e-46b1-8bde-52248913bea1
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: f7ec8bf6087a18be41c9efbf05f60e6cfd24e566
+workflow-type: ht
+source-wordcount: '398'
+ht-degree: 100%
 
 ---
 
@@ -17,7 +20,7 @@ Implemente a pré-busca DNS para ajudar a reduzir o tempo de carregamento da pá
 
 ## Noções básicas da pré-busca DNS {#section_772BF9CB7C4141DE9B0355146E2CD962}
 
-Os navegadores usam a pré-busca DNS para resolver automaticamente os nomes de domínio vinculados em uma página da Web aos endereços IP correspondentes. O processo de busca prévia é start quando o navegador carrega uma página da Web. Como exemplo, considere que sua página contém um link clicável para `www.adobe.com`. When a browser loads this page, it uses the [DNS system](https://www.networksolutions.com/support/what-is-a-domain-name-server-dns-and-how-does-it-work/) to look up the linked domain name and resolve it to a corresponding numeric IP address. A pré-busca DNS ajuda a melhorar o desempenho da página porque o nome do domínio já está resolvido para um endereço IP antes que um visitante do site clique nesse link ou botão. O processo de busca prévia DNS é transparente para os usuários.
+Os navegadores usam a pré-busca DNS para resolver automaticamente os nomes de domínio vinculados em uma página da Web aos endereços IP correspondentes. O processo de pré-busca é inciado quando o navegador carrega uma página da Web. Como exemplo, considere que sua página contém um link clicável para `www.adobe.com`. Quando um navegador carrega essa página, ele usa o [sistema DNS](https://www.networksolutions.com/support/what-is-a-domain-name-server-dns-and-how-does-it-work/) para buscar o nome do domínio vinculado e resolvê-lo em um endereço IP numérico correspondente. A pré-busca DNS ajuda a melhorar o desempenho da página porque o nome do domínio já está resolvido a um endereço IP antes que um visitante do site clique nesse link ou botão. O processo de pré-busca DNS é transparente para os usuários.
 
 ## Pré-busca DNS e soluções da Adobe Experience Cloud {#section_202A07F9F79F4ABDA44B98BA1DDCD516}
 

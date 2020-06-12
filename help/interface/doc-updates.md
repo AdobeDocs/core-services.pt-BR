@@ -10,14 +10,14 @@ translation-type: tm+mt
 source-git-commit: 39e3b77f19020cffd1bc0218f120f306d676380b
 workflow-type: tm+mt
 source-wordcount: '251'
-ht-degree: 64%
+ht-degree: 84%
 
 ---
 
 
 # Atualizações da documentação - Experience Cloud
 
-Informações sobre atualizações na documentação de produto da Experience Cloud.
+Informações sobre atualizações na documentação do produto da Experience Cloud.
 
 **Atualizado: 19/05/2020**
 
@@ -30,13 +30,13 @@ As seguintes páginas foram adicionadas:
 * [Apoio ao Regulamento Geral sobre Proteção de Dados](attributes/gdpr.md)
 * [Support for California Consumer Privacy Act](attributes/ccpa.md)
 
-**Atualizado: 10/03/2020**
+**Atualizado: 10/3/2020**
 
-Atualização do encaminhamento [](cookies/cookies-first-party.md#validate) Validar nome do host na seção de cookies primários.
+Atualização do [encaminhamento de validação do nome do host](cookies/cookies-first-party.md#validate) na seção de cookies primários.
 
 **Atualizado: 20/02/2020**
 
-Detalhes do usuário da Experience Cloud da [Visualização adicionados (Ferramenta administrativa)](admin-getting-started/admin-tool-experience-cloud.md).
+Adição de [Exibir detalhes do usuário da Experience Cloud (Ferramenta administrativa)](admin-getting-started/admin-tool-experience-cloud.md).
 
 **Atualizado: 5/9/2018**
 
@@ -88,7 +88,7 @@ Aticação de [Ativar as soluções dos ](core-services/core-services.md#concept
 
 **Atualizado: 1/15/2015**
 
-Agora, os usuários adicionados da Experience Cloud podem compartilhar pastas com a Creative Cloud e sincronizar ativos e comentários entre as duas Nuvens. Consulte Compartilhamento [de ativos](experience-cloud-assets/creative-cloud.md#concept_3E5A34C3459047D5965F900788A9BA68).
+Os usuários adicionados da Experience Cloud podem compartilhar pastas com a Creative Cloud, além de sincronizar ativos e comentários entre os dois produtos. Consulte [Compartilhamento de ativos](experience-cloud-assets/creative-cloud.md#concept_3E5A34C3459047D5965F900788A9BA68).
 
 **Atualizado: 7/17/2014**
 

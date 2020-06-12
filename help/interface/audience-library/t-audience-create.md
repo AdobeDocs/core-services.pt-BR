@@ -6,8 +6,11 @@ seo-title: Criar um público-alvo
 solution: Experience Cloud
 title: Criar um público-alvo
 uuid: 7e622539-296e-4ff3-93b0-ec1c08b35429
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: f7ec8bf6087a18be41c9efbf05f60e6cfd24e566
+workflow-type: ht
+source-wordcount: '494'
+ht-degree: 100%
 
 ---
 
@@ -20,25 +23,25 @@ Este artigo ajuda você a entender como:
 
 * Criar um público-alvo
 * Criar uma regra
-* Usar regras para definir uma audiência composta
+* Usar regras para definir um público-alvo composto
 
-O gráfico a seguir representa duas regras em uma audiência composta.
+O gráfico a seguir representa duas regras em um público-alvo composto.
 
 ![](assets/audience_sharing.png)
 
-Cada círculo representa uma regra que define a associação do público-alvo. Visitantes que se qualificam como membros em ambas as regras de audiência se sobrepõem para se tornarem a audiência composta e definida.
+Cada círculo representa uma regra que define a associação do público-alvo. Visitantes que se qualificam como membros em ambas as regras de público-alvo se sobrepõem para se tornarem o público-alvo composto e definido.
 
 >[!NOTE]
 >
 >O público-alvo é totalmente definido após a conclusão da coleção de dados pelo período especificado.
-O exemplo a seguir mostra como criar as regras para um público-alvo composto. Esta audiência é composta de:
+O exemplo a seguir mostra como criar as regras para um público-alvo composto. Este público-alvo é composto de:
 
-* Seção Home &amp; Garden derivada dos dados da página ou dos dados brutos de análise.
+* Seção Casa e jardim derivada dos dados da página ou dos dados brutos de análise.
 * Usuários do Chrome e do Safari derivados de um [!DNL Adobe Analytics] segmento [publicado](../audience-library/audience-library.md#task_32FEEFE0B32E4E388CD4D892D727282A) no [!DNL Experience Cloud].
 
    ![](assets/audience_create.png)
 
-1. In the [!DNL Experience Cloud], under [!DNL Experience Platform], click **[!UICONTROL People]** > **[!UICONTROL Audience Library].**
+1. Na [!DNL Experience Cloud], em [!DNL Experience Platform], clique em **[!UICONTROL Pessoas]** > **[!UICONTROL Biblioteca de públicos-alvo].**
 1. Na página [!UICONTROL Públicos-alvo], clique em **[!UICONTROL Novo]**. ![](assets/add_icon_small.png)
 
    ![Resultado da etapa](assets/audience_create_new.png)
@@ -53,7 +56,7 @@ O exemplo a seguir mostra como criar as regras para um público-alvo composto. E
 
    * **[!UICONTROL Experience Cloud:]** os dados de atributo nas fontes da [!DNL Experience Cloud]. Por exemplo, tais dados podem ser de segmentos de público-alvo criados no [!DNL Analytics], ou dados do [!DNL Audience Manager].
 
-1. Defina as regras de audiência e clique em **[!UICONTROL Salvar].**
+1. Defina as regras de público-alvo e clique em **[!UICONTROL Salvar].**
 
 >[!NOTE]
 >
@@ -63,7 +66,7 @@ Em [!UICONTROL Regras], defina as *`Home & Garden`* seleções de atributo:
 
 * **[!UICONTROL Fonte de atributo:]** dados brutos do Analytics
 * **[!UICONTROL Report Suite:]** Report Suite 31
-* Dimension = **[!UICONTROL Store (Merch) (v6)]** > **[!UICONTROL Equals]** > **[!UICONTROL Home &amp; Garden]**
+* Dimensão = **[!UICONTROL Loja (Merch) (v6)]** > **[!UICONTROL igual a]** > **[!UICONTROL Casa e Jardim]**
 
 ![](assets/home_garden.png)
 
@@ -78,13 +81,13 @@ Para comparar, adicione uma regra *OU* para ver todos os visitantes de uma seç�
 
 ![](assets/audiences_rule_patio.png)
 
-A regra resultante é um público-alvo definido pela inclusão dos usuários do Chrome &amp; Safari que visitaram o Home &amp; Garden. O segmento Patio &amp; Furniture fornece informações adicionais sobre todos os visitantes que visitam a seção do site.
+A regra resultante é um público-alvo definido pela inclusão dos usuários do Chrome &amp; Safari que visitaram o Home &amp; Garden. O segmento Terraço e mobília fornece informações adicionais sobre todos os visitantes que visitam a seção do site.
 
 ![](assets/defined_audience.png)
 
 * **Estimativa do histórico:** (círculo pontilhado) representa as regras criadas com base nos dados do [!DNL Analytics].
-* **Público-alvo real:** (círculo contínuo) toda regra criada com 30 dias de dados no Audience Manager. Quando os dados do Gerenciador de Audiências atingem 30 dias, a linha se torna sólida e representa os números reais.
+* **Público-alvo real:** (círculo contínuo) toda regra criada com 30 dias de dados no Audience Manager. Quando os dados do Audience Manager atingem 30 dias, a linha se torna sólida e representa os números reais.
 
 Depois que a coleta de dados é concluída pelo período especificado, os círculos se combinam para mostrar uma audiência definida.
 
-Quando salvo, o público-alvo fica disponível para outras soluções. Por exemplo, você pode incluir uma audiência compartilhada em uma atividade de Público alvo da Adobe.
+Quando salvo, o público-alvo fica disponível para outras soluções. Por exemplo, você pode incluir um público-alvo compartilhado em uma atividade do Adobe Target.

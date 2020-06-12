@@ -6,13 +6,16 @@ seo-title: Cookies do Search&Promote
 solution: Marketing Cloud,Analytics,Adobe Target,Adobe Social
 title: Cookies do Search&Promote
 uuid: 65bf24e0-0564-4dc2-b652-9fd9db57d23f
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: f7ec8bf6087a18be41c9efbf05f60e6cfd24e566
+workflow-type: ht
+source-wordcount: '132'
+ht-degree: 100%
 
 ---
 
 
-# Cookies do Search&amp;Promote{#search-and-promote-cookies}
+# Cookies do Search&amp;Promote {#search-and-promote-cookies}
 
 O Search&amp;Promote usa cookies para entender e antecipar a intenção de pesquisa do visitante.
 
@@ -32,7 +35,7 @@ O Search&amp;Promote usa cookies para entender e antecipar a intenção de pesqu
   </tr> 
   <tr> 
    <td colname="col1"> <p> Expiração </p> </td> 
-   <td colname="col2"> <p>Configurável em Search&amp;Promote <span class="uicontrol">(Design</span> &gt; <span class="uicontrol">Navegação</span> &gt; <span class="uicontrol">Pesquisas recentes</span>). Você pode selecionar uma das seguintes opções de expiração de cookie: </p> <p> 
+   <td colname="col2"> <p>Configurável em Search&amp;Promote <span class="uicontrol">(Design</span> &gt; <span class="uicontrol">Navegação</span> &gt; <span class="uicontrol">Pesquisas recentes</span>). Você pode selecionar entre as opções de expiração de cookie a seguir: </p> <p> 
      <ul id="ul_28F564A6337D497699D5247F755981B8"> 
       <li id="li_6478BB5AF82341F787F92D03E277DBBB">Fim da sessão </li> 
       <li id="li_AF88B165365D4A63A82CB6ADD4542D66"> 3 horas </li> 
@@ -47,7 +50,7 @@ O Search&amp;Promote usa cookies para entender e antecipar a intenção de pesqu
   </tr> 
   <tr> 
    <td colname="col1"> <p> Uso </p> </td> 
-   <td colname="col2"> <p>Usado pelo mecanismo de pesquisa para exibir ao usuário seus últimos n termos de query. </p> </td> 
+   <td colname="col2"> <p>Usado pelo mecanismo de pesquisa para exibir ao usuário os últimos n termos de consulta. </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p> Localização </p> </td> 

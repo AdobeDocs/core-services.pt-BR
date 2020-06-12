@@ -4,20 +4,20 @@ keywords: core services, sign in to Experience Cloud
 seo-description: Saiba mais sobre como fazer logon na Experience Cloud, gerenciar senhas e notificações, e especificar uma página de aterrissagem padrão.
 seo-title: Faça logon e gerencie as configurações do seu perfil
 solution: Experience Cloud
-title: Faça logon e gerencie suas configurações de perfil da Experience Cloud
+title: Fazer logon e gerenciar as configurações do perfil
 uuid: c1e13b99-0069-4fdb-8d72-ddcec3ed1121
 translation-type: tm+mt
 source-git-commit: 0bc7032d0052ba03beac1140dfbfd630e1802bfd
 workflow-type: tm+mt
 source-wordcount: '968'
-ht-degree: 52%
+ht-degree: 97%
 
 ---
 
 
-# Faça logon e gerencie suas configurações de perfil da Experience Cloud
+# Fazer logon e gerenciar as configurações do perfil
 
-Fazer logon na Experience Cloud (em vez de fazer logon em uma única solução) permite o logon único em todas as soluções e serviços que você possui. Esta ajuda descreve como fazer logon na Experience Cloud, gerenciar senhas e notificações e especificar uma landing page padrão.
+Fazer logon na Experience Cloud (em vez de fazer logon em uma só solução) permite o logon único em todas as soluções e serviços que você possui. Esta ajuda descreve como fazer logon na Experience Cloud, gerenciar senhas e notificações e especificar uma página de aterrissagem padrão.
 
 >[!IMPORTANT]
 >
@@ -27,7 +27,7 @@ Fazer logon na Experience Cloud (em vez de fazer logon em uma única solução) 
 
 Faça logon e verifique se você está na [organização](../admin-getting-started/organizations.md#topic_C31CB834F109465A82ED57FF0563B3F1) correta.
 
-1. Clique no menu suspenso da Experience Cloud ( ![](assets/menu-icon.png)) e depois clique em **[!UICONTROL Administração]**.
+1. Clique no menu suspenso da Experience Cloud (![](assets/menu-icon.png)) e depois clique em **[!UICONTROL Administração]**.
 
    ![](assets/admin-link.png)
 
@@ -42,10 +42,10 @@ Faça logon e verifique se você está na [organização](../admin-getting-start
 | [Noções básicas do Admin Console](https://helpx.adobe.com/br/marketing-cloud/how-to/first-time-setup.html) | Saiba mais sobre as etapas iniciais necessárias para começar a usar as soluções da Experience Cloud. |
 | [Configurar identidade](https://helpx.adobe.com/br/enterprise/using/set-up-identity.html) | Defina e configure um sistema de identidade com base no qual os usuários finais serão autenticados. |
 | [Gerenciamento de usuários](https://helpx.adobe.com/br/enterprise/using/users.html) | Saiba mais sobre como fazer logon no Admin Console e gerenciar permissões de usuário e perfis de produto da Experience Cloud. |
-| [Iniciar o Admin Console](../admin-getting-started/admin-getting-started.md) | O Admin Console é o local central para gerenciar usuários e direitos de produtos da Adobe em toda a organização.<br>Também é possível fazer logon no Admin Console por meio de um [link direto](https://adminconsole.adobe.com). |
-| [Gerenciar usuários da Creative Cloud](../experience-cloud-assets/t-admin-add-cc-user.md) | Os ativos da Experience Cloud permitem que os profissionais de marketing compartilhem, sincronizem e colaborem em pastas com designers e outros ativos criativos usando a Creative Cloud. Você pode gerenciar os usuários da Creative Cloud aprovados para colaborar com sua organização aqui. |
-| [Mapear os conjuntos de relatórios](../core-services/core-services.md) | (Somente para Analytics) Os principais serviços da Experience Cloud estão associados a uma organização em vez de a um conjunto de relatórios individual. Para garantir o funcionamento correto desses serviços, cada conjunto de relatórios do Analytics deve ser mapeado para uma organização. (Essa tarefa faz parte de um fluxo de trabalho mais amplo para [habilitar o Analytics para os principais serviços](../core-services/core-services.md#concept_07ED1D5C64234E77976E6D572E78FB9C)). |
-| [ID da organização](../admin-getting-started/organizations.md) | A ID *da* organização está localizada na parte inferior da página Administração. Essa ID é a ID associada à empresa provisionada pela Experience Cloud. A ID é uma sequência de 24 caracteres alfanuméricos seguidos por (e deve incluir) @AdobeOrg. |
+| Clique em [Iniciar o Admin Console](../admin-getting-started/admin-getting-started.md) | O Admin Console é o local central para gerenciar usuários e direitos de produtos da Adobe em toda a organização.<br>Também é possível fazer logon no Admin Console por meio de um [link direto](https://adminconsole.adobe.com). |
+| [Gerenciar usuários da Creative Cloud](../experience-cloud-assets/t-admin-add-cc-user.md) | O Experience Cloud Assets permite que os profissionais de marketing compartilhem, sincronizem e colaborem em pastas com designers e outros ativos criativos usando a Creative Cloud. Gerencie aqui os usuários da Creative Cloud aprovados para colaborar com sua organização. |
+| [Mapear os conjuntos de relatórios](../core-services/core-services.md) | (Somente no Analytics) Os serviços principais da Experience Cloud estão associados a uma organização em vez de a um conjunto de relatórios individual. Para garantir o funcionamento correto desses serviços, cada conjunto de relatórios do Analytics deve ser mapeado para uma organização. (Essa tarefa faz parte de um fluxo de trabalho mais amplo para [habilitar o Analytics para os serviço principais](../core-services/core-services.md#concept_07ED1D5C64234E77976E6D572E78FB9C)). |
+| [ID da organização](../admin-getting-started/organizations.md) | A *ID da organização* está localizada na parte inferior da página Administração. Essa ID é a ID associada à empresa provisionada pela Experience Cloud. A ID é uma sequência de 24 caracteres alfanuméricos seguidos por (e deve incluir) @AdobeOrg. |
 
 ## Fazer logon na Experience Cloud (usuários) {#task_1BFE87E20DCB44078CAC82F3CD44B985}
 
@@ -55,12 +55,12 @@ Ajuda para usuários não administrativos que fazem logon na Experience Cloud.
 1. Verifique com o administrador se sua [organização](../admin-getting-started/getting-started-experience-cloud.md#concept_384D169B0B724B799D573B8ECB5C39BF) foi provisionada na Experience Cloud.
 
 
-1. Navigate to the [Adobe Experience Cloud](https://experiencecloud.adobe.com) ([!DNL experiencecloud.adobe.com]).
+1. Acesse a [Adobe Experience Cloud](https://experiencecloud.adobe.com) ([!DNL experiencecloud.adobe.com]).
 1. Clique em **[!UICONTROL Fazer logon com Adobe ID]**.
 
    O administrador da Experience Cloud pode ajudar você a determinar o tipo de conta (Adobe ID ou Enterprise ID).
 
-1. Na landing page, clique no ícone do seletor ![](assets/menu-icon.png) para acessar o menu suspenso.
+1. Na página de aterrissagem, clique no ícone do seletor ![](assets/menu-icon.png) para acessar o menu suspenso.
 
    ![](assets/experience-cloud-core-services.png)
 
@@ -86,8 +86,8 @@ Para navegar até Notificações, clique no ícone **[!UICONTROL Notificações]
 
 Você pode classificar a tela Notificações com base nos tipos de mensagens importantes para você e pesquisar por elas. Você também pode:
 
-* Classifique pelos tipos de mensagem que são importantes para você.
-* Procure notificações.
+* Classificar pelos tipos de mensagem que são importantes para você.
+* Pesquisar notificações.
 
 
 **Para ativar notificações**
@@ -132,11 +132,11 @@ Você pode editar o perfil da Experience Cloud, especificar uma organização pa
 
    Redefinir a senha da solução resolverá os problemas com a vinculação de senha da Experience Cloud.
 
-   For Adobe Analytics users, navigate to [https://sc2.omniture.com/password_recovery.html](https://sc2.omniture.com/password_recovery.html).
+   Para usuários do Adobe Analytics, navegue até [https://sc2.omniture.com/password_recovery.html](https://sc2.omniture.com/password_recovery.html).
 
 ## Configurar o logon da solução por meio de um link direto {#concept_8BE493A08786469B88B210E13F78FF2F}
 
-Como opção, você pode fazer logon em uma página específica em uma solução, usando a autenticação fornecida pela interface da Experience Cloud.
+Como opção, faça logon em uma página específica em uma solução, usando a autenticação fornecida pela interface da Experience Cloud.
 
 ### Modelo de URL
 
@@ -148,10 +148,10 @@ Amostra do URL:
 
 >[!NOTE]
 >
->Você deve codificar qualquer URL antes de passá-lo para o parâmetro `destURL`. (Encoder sites like [URL Decoder / Encoder](https://meyerweb.com/eric/tools/dencoder/) are available.)
+>Você deve codificar qualquer URL antes de passá-lo para o parâmetro `destURL`. (Sites codificados como [Decodificador / codificador de URL](https://meyerweb.com/eric/tools/dencoder/) estão disponíveis.)
 
 | Parâmetro | Descrição | Exemplo | Obrigatório / Opcional |
 |--- |--- |--- |--- |
-| locatárioId | Nome do locatário no qual o usuário deve se conectar. | aem62tenant | Opcional |
+| tenantId | Nome do locatário ao qual o usuário deve se conectar. | aem62tenant | Opcional |
 | destURL | O URL completo do local para o qual o usuário deve ser direcionado. | https://sc.omniture.com/x/1_7xxzf | Opcional |
-| solutionname | Nome da Solução MAC proprietária do parâmetro destURL. É usado para verificar se o usuário tem acesso à solução proprietária do URL.  As soluções são responsáveis por verificar se solutionname está sincronizado com o parâmetro destURL.  Por exemplo: Se o URL contiver solutionname como social e o destURL fornecido for um url do analytics, o usuário será redirecionado para o url mesmo se ele não tiver acesso ao analytics. O MAC NÃO verifica se o proprietário do destURL está sincronizado com o nome da solução. | analytics | Obrigatório se o parâmetro destURL for usado. |
+| solutionname | Nome da Solução MAC proprietária do parâmetro destURL. É usado para verificar se o usuário tem acesso à solução proprietária do URL.  As soluções são responsáveis por verificar se solutionname está sincronizado com o parâmetro destURL.  Por exemplo: se o URL contiver solutionname como social e o destURL fornecido for um URL do Analytics, o usuário será redirecionado para o URL mesmo se ele não tiver acesso ao Analytics. O MAC NÃO verifica se o proprietário do destURL está sincronizado com o nome da solução. | analytics | Obrigatório se o parâmetro destURL for usado. |

@@ -6,13 +6,16 @@ seo-title: Cookies de Data Connectors
 solution: Marketing Cloud,Adobe Analytics,Adobe Target,Adobe Social
 title: Cookies de Data Connectors
 uuid: 5d27ba66-e640-4513-befc-69e8502de941
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: f7ec8bf6087a18be41c9efbf05f60e6cfd24e566
+workflow-type: ht
+source-wordcount: '90'
+ht-degree: 100%
 
 ---
 
 
-# Cookies de Data Connectors{#data-connectors-cookies}
+# Cookies de Data Connectors {#data-connectors-cookies}
 
 Os Data Connectors usam cookies para fornecer aos anunciantes medidas de desempenho de campanha e conversão otimizadas em vários canais de publicidade.
 

@@ -6,21 +6,24 @@ seo-title: Cookies do Target
 solution: Marketing Cloud,Analytics,Target,Social
 title: Cookies do Target
 uuid: 44f7e32e-8d99-4682-8b54-8364d001b403
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: f7ec8bf6087a18be41c9efbf05f60e6cfd24e566
+workflow-type: ht
+source-wordcount: '285'
+ht-degree: 100%
 
 ---
 
 
-# Adobe Target Cookies{#target-cookies}
+# Cookies do Adobe Target {#target-cookies}
 
-O Público alvo da Adobe usa cookies para dar aos operadores de site a capacidade de testar que conteúdo online e ofertas são mais relevantes para os visitantes.
+O Adobe Target usa cookies para fornecer aos operadores de site a capacidade de testar quais conteúdos e ofertas online são mais relevantes para os visitantes.
 
-Você pode alterar essas configurações, se necessário, com exceção da duração do cookie. Consulte seu representante de conta ao alterar as configurações de cookie.
+Altere essas configurações, se necessário, com exceção da duração do cookie. Consulte seu representante de conta ao alterar as configurações de cookie.
 
 >[!NOTE]
 >
->Os usuários do Adobe Público alvo também podem criar cookies personalizados de terceiros.
+>Os usuários do Adobe Target também podem criar cookies de terceiros personalizados.
 
 <table id="table_54B402C6E19C4A70B1E27BC9DFF776EB"> 
  <thead> 
@@ -40,11 +43,11 @@ Você pode alterar essas configurações, se necessário, com exceção da dura�
   </tr> 
   <tr> 
    <td colname="col1"> <p>Domínio do servidor </p> </td> 
-   <td colname="col2"> <p> <span class="filepath"> clientcode.tt.omtrdc.net</span>, usando o código de cliente para sua conta de Público alvo da Adobe. </p> </td> 
+   <td colname="col2"> <p> <span class="filepath"> clientcode.tt.omtrdc.net</span>, utilizando o código de cliente da sua conta do Adobe Target. </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p>Duração do cookie </p> </td> 
-   <td colname="col2"> <p>O cookie permanece no navegador do visitante dois anos após seu último login. Não é possível alterar a duração do cookie. </p> </td> 
+   <td colname="col2"> <p>O cookie permanece no navegador do visitante por dois anos após o último logon. Não é possível alterar a duração do cookie. </p> </td> 
   </tr> 
  </tbody> 
 </table>
@@ -53,7 +56,7 @@ Você pode alterar essas configurações, se necessário, com exceção da dura�
 >
 >Se qualquer um dos nomes de domínio incluir um código de país, como [!DNL mycompany.co.uk], trabalhe com os Serviços ao Cliente para configurar o [!DNL mbox.js] e suportar isto.
 
-O cookie mantém vários valores para gerenciar a experiência dos visitantes com as campanhas do Adobe Público alvo:
+O cookie mantém vários valores para gerenciar a experiência dos visitantes nas campanhas do Adobe Target:
 
 <table id="table_5245F72A2D5A4322B40ABB10B7DFB338"> 
  <thead> 
@@ -65,7 +68,7 @@ O cookie mantém vários valores para gerenciar a experiência dos visitantes co
  <tbody> 
   <tr> 
    <td colname="col1"> <p> <span class="codeph"> session ID</span> </p> </td> 
-   <td colname="col2"> <p>Uma ID exclusiva para uma sessão de usuário. Por padrão, isso dura 30 minutos. </p> </td> 
+   <td colname="col2"> <p>Uma ID exclusiva para uma sessão de usuário. Por padrão, leva 30 minutos. </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p> <span class="codeph"> pc ID</span> </p> </td> 
@@ -73,7 +76,7 @@ O cookie mantém vários valores para gerenciar a experiência dos visitantes co
   </tr> 
   <tr> 
    <td colname="col1"> <p> <span class="codeph"> check</span> </p> </td> 
-   <td colname="col2"> <p>Um valor de teste simples usado para determinar se um visitante suporta cookies. Defina cada vez que um visitante solicitar uma página. </p> </td> 
+   <td colname="col2"> <p>Um valor de teste simples usado para determinar se um visitante suporta cookies. Defina toda vez que um visitante solicitar uma página. </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p> <span class="codeph"> disable</span> </p> </td> 

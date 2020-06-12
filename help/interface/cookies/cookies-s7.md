@@ -6,36 +6,39 @@ seo-title: Cookies do Scene7
 solution: Marketing Cloud,Analytics,Adobe Target,Adobe Social
 title: Cookies do Scene7
 uuid: f9b9d13a-17e5-4139-8c84-6fe5d22c4196
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: f7ec8bf6087a18be41c9efbf05f60e6cfd24e566
+workflow-type: ht
+source-wordcount: '429'
+ht-degree: 100%
 
 ---
 
 
-# Cookies do Scene7{#scene-cookies}
+# Cookies do Scene7 {#scene-cookies}
 
 O Scene7 usa cookies para armazenar informações úteis que podem ser usadas para fornecer mídia dinâmica ao navegador.
 
 O Scene7 armazena informações localmente para alguns visualizadores mais antigos baseados em AS2 Flash.
 
-Para visualizadores AS2, cookies:
+Em visualizadores AS2, os cookies:
 
-* Rastrear o estado da sessão de um usuário, como a página atual e a imagem exibida, o nível de zoom atual etc.
-* Determine quanto tempo passou desde a sessão anterior do usuário. O visualizador usa essas informações para decidir se deseja continuar uma sessão anterior ou start uma nova. Essas informações também são enviadas para os servidores Scene7, mas não são usadas.
+* Rastreiam o estado de sessão de um usuário, como a página atual e a imagem exibida, o nível de zoom atual etc.
+* Determinam quanto tempo passou desde a sessão anterior do usuário. O visualizador usa essas informações para decidir se deseja continuar uma sessão anterior ou iniciar uma nova. Essas informações também são enviadas para os servidores do Scene7, mas não são usadas.
 
-Para o visualizador AS2 Flash eCatalog, os cookies:
+No visualizador AS2 Flash eCatalog, os cookies:
 
-* Armazene conteúdo gerado pelo usuário (principalmente conteúdo inserido pelo usuário no recurso &quot;notas adesivas&quot; do visualizador de catálogo eletrônico). Esse conteúdo é restaurado quando o usuário retoma uma sessão.
-* Quando o usuário inicia um email para compartilhar o catálogo eletrônico com outro usuário, o conteúdo das notas adesivas do segundo marcador do visualizador AS2 é copiado para nossos servidores para fornecê-lo ao recipient. Quando o recipient inicia a sessão do visualizador, o conteúdo das notas adesivas é recuperado do servidor e copiado em um cookie. Esse recurso é pouco utilizado, portanto, não expira e o conteúdo obsoleto não é removido. No momento, ela persiste nos servidores indefinidamente.
+* Armazenam conteúdo gerado pelo usuário (principalmente o conteúdo inserido pelo usuário no recurso &quot;notas adesivas&quot; do visualizador de catálogo eletrônico). Esse conteúdo é restaurado quando o usuário retoma uma sessão.
+* Quando o usuário inicia um email para compartilhar o catálogo eletrônico com outro usuário, o conteúdo das notas adesivas do segundo marcador do visualizador AS2 é copiado nos nossos servidores para fornecê-lo ao destinatário. Quando o destinatário inicia a sessão do visualizador, o conteúdo das notas adesivas é recuperado do servidor e copiado em um cookie. Esse recurso é pouco utilizado, portanto, não expira e o conteúdo obsoleto não é removido. No momento, ela persiste nos servidores indefinidamente.
 
-Os visualizadores AS3 mais recentes não implementam a persistência da sessão.
+Os visualizadores AS3 mais recentes não implementam a persistência de sessão.
 
 **Nome do cookie: VatLogin.jsp**
 
 | Atributo | Descrição |
 |---|---|
-| Informações armazenadas | Define o cookie da sessão. O AuthFilter incorporado ao IPS ImageServer (IS, IR e também aos SWFs/capas e contextos de vídeo) usa o cookie para autorização de acesso. Se presente, permite que solicitações HTTP passem. Caso contrário, retorna não autorizado. |
-| Expiração | Este cookie é um cookie de sessão. A expiração da sessão atual está definida como 45 minutos no IPS [!DNL web.xml] do Scene7. |
+| Informações armazenadas | Define o cookie da sessão. O AuthFilter incorporado ao IPS ImageServer (IS, IR e também aos SWFs/capas e contextos de vídeo) usa o cookie para autorização de acesso. Se presente, permite que solicitações HTTP sejam transmitidas. Caso contrário, retorna não autorizado. |
+| Expiração | Esse cookie é um cookie de sessão. A expiração da sessão atual está definida como 45 minutos no IPS [!DNL web.xml] do Scene7. |
 
 **Nome do cookie: s7js.flyout.InfoMessage.displayed`assetId`.state**
 

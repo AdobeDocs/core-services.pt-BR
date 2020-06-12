@@ -6,8 +6,11 @@ seo-title: Compartilhar uma pasta de ativos da Experience Cloud
 solution: Experience Cloud
 title: Compartilhar uma pasta de ativos da Experience Cloud
 uuid: 105cf627-0148-4bf8-ab6a-7afa612e198c
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: 43de353155c640b3ddc519147c94d7e9ffcafe4e
+workflow-type: ht
+source-wordcount: '321'
+ht-degree: 100%
 
 ---
 
@@ -39,7 +42,7 @@ Compartilhe uma pasta de ativos da Experience Cloud com usuários da Creative Cl
 
    ![](assets/asset_comment_cc.png)
 
-   Na Experience Cloud, clique em uma imagem e no ícone de linha do tempo para adicionar um comentário na imagem. Os comentários são sincronizados nos ativos na Creative Cloud e na Experience Cloud.
+   Na Experience Cloud, clique em uma imagem e no ícone da linha do tempo para adicionar um comentário à imagem. Os comentários são sincronizados nos ativos da Creative Cloud e da Experience Cloud.
 
    ![](assets/asset_comment_mac.png)
 
@@ -52,7 +55,7 @@ Após remover todos os usuários da Creative Cloud, o compartilhamento da pasta 
 Outras maneiras de usar um ativo compartilhado incluem:
 
 * Usar ativos no [!UICONTROL Seletor de ativo] no [!DNL Adobe Social] para postagens sociais.
-* Carregue ou troque ativos na Biblioteca [do](https://docs.adobe.com/help/en/target/using/experiences/offers/manage-content.html) Oferta [!DNL Adobe Target] para imagens no atividade.
+* Carregue ou troque ativos na [Biblioteca de ofertas](https://docs.adobe.com/help/pt-BR/target/using/experiences/offers/manage-content.html) no [!DNL Adobe Target] por imagens nas atividades.
 
 Depois de compartilhar uma pasta na Creative Cloud, você verá o logotipo da Creative Cloud na pasta.
 
@@ -60,6 +63,6 @@ Depois de compartilhar uma pasta na Creative Cloud, você verá o logotipo da Cr
 
 Ajuda relacionada:
 
-* [Ajuda da Creative Cloud - Gerenciar e sincronizar arquivos](https://helpx.adobe.com/creative-cloud/help/sync-files.html)
-* [Ajuda da Creative Cloud - Colaborar com outras pessoas](https://helpx.adobe.com/creative-cloud/help/collaboration.html)
-* [Ajuda da Creative Cloud - Perguntas frequentes sobre colaboração](https://helpx.adobe.com/creative-cloud/help/collaboration-faq.html)
+* [Ajuda da Creative Cloud - Gerenciar e sincronizar arquivos](https://helpx.adobe.com/br/creative-cloud/help/sync-files.html)
+* [Ajuda da Creative Cloud - Colaborar com outras pessoas](https://helpx.adobe.com/br/creative-cloud/help/collaboration.html)
+* [Ajuda da Creative Cloud - Perguntas frequentes sobre colaboração](https://helpx.adobe.com/br/creative-cloud/help/collaboration-faq.html)

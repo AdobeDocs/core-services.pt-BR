@@ -7,10 +7,10 @@ solution: Marketing Cloud
 title: Triggers
 uuid: dab536e3-1969-4661-919e-5b15f423fecd
 translation-type: tm+mt
-source-git-commit: fb03bf89bcc6ed4438daf18c8415de3052ba8fa4
+source-git-commit: af0bb1497252afa9bca2d6c7bacb11749cfe654c
 workflow-type: tm+mt
-source-wordcount: '669'
-ht-degree: 96%
+source-wordcount: '668'
+ht-degree: 94%
 
 ---
 
@@ -61,7 +61,7 @@ Crie um acionador e configure as condições para o acionador. Por exemplo, voc�
    | Iniciar nova sessão após | Crie um acionador para o início da sessão e outro para o término. |
 
 5. Clique em **[!UICONTROL Salvar]**.
-6. Use os acionadores para o [remarketing em tempo real](https://helpx.adobe.com/br/support/campaign/standard.html) no [!DNL Adobe Campaign].
+6. Use os acionadores para o [remarketing em tempo real](https://docs.adobe.com/content/help/en/campaign-standard/using/integrating-with-adobe-cloud/working-with-campaign-and-triggers/about-adobe-experience-cloud-triggers.html) no [!DNL Adobe Campaign].
 
 ### Exemplos de acionadores
 

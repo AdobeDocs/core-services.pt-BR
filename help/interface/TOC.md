@@ -8,7 +8,7 @@ translation-type: tm+mt
 source-git-commit: 323e562d41daa547d488497116cd5ffa783f6426
 workflow-type: tm+mt
 source-wordcount: '356'
-ht-degree: 87%
+ht-degree: 100%
 
 ---
 
@@ -18,7 +18,7 @@ ht-degree: 87%
 + [Experience Cloud e documentação do produto](experience-cloud.md)
 + Serviços principais na Experience Cloud {#about-core-services}
    + [Visão geral dos serviços principais](core-services-landing.md)
-   + [Ativar as soluções dos principais serviços](core-services/core-services.md)
+   + [Ativar as soluções dos serviços principais](core-services/core-services.md)
    + [Mapear conjuntos de relatórios para uma organização](core-services/report-suite-mapping.md)
    + [Sobre os novos nomes de nuvem na Experience Cloud](solutions-core-services.md)
 + [Integrações da Experience Cloud](marketing-cloud-integrations.md)
@@ -46,7 +46,7 @@ ht-degree: 87%
 + Experience Cloud Activation {#activation}
    + [Visão geral de Activation](activation/activation.md)
    + [Guia do usuário do Launch](https://docs.adobe.com/content/help/pt-BR/launch/using/overview.html)
-   + [Guia do usuário do Dynamic Tag Management](https://docs.adobe.com/content/help/pt-BR/dtm/using/dtm-home.html)
+   + [Guia do usuário do Gerenciador dinâmico de tags](https://docs.adobe.com/content/help/pt-BR/dtm/using/dtm-home.html)
    + [Triggers](activation/triggers.md)
 + Ativos da Experience Cloud {#assets}
    + [Visão geral de ativos da Experience Cloud](experience-cloud-assets/experience-cloud-assets.md)
@@ -61,17 +61,17 @@ ht-degree: 87%
    + [Visão geral de públicos-alvo](audience-library/audience-library.md)
    + [Criar um público-alvo](audience-library/t-audience-create.md)
    + [Publicar um segmento de público-alvo do Analytics](audience-library/t-publish-audience-segment.md)
-+ Customer Attributes in Experience Cloud {#customer-attributes}
++ Atributos do cliente na Experience Cloud {#customer-attributes}
    + [Visão geral dos atributos do cliente](attributes/attributes.md)
    + [Perguntas frequentes, limitações e práticas recomendadas](attributes/faq-crs.md)
-   + [Sobre arquivos de dados e fontes de dados para Atributos do cliente](attributes/crs-data-file.md)
-   + [Criar uma fonte de atributo do cliente e fazer upload do arquivo de dados](attributes/t-crs-usecase.md)
+   + [Sobre arquivo de dados e fonte de dados para atributos do cliente](attributes/crs-data-file.md)
+   + [Crie uma fonte de atributo do cliente e faça upload do arquivo de dados](attributes/t-crs-usecase.md)
    + [Opcional - Fazer upload do arquivo de dados via FTP](attributes/t-upload-attributes-ftp.md)
    + [Validar o esquema](attributes/validate-schema.md)
    + [Configurar assinaturas](attributes/subscription.md)
    + [Atualizar o esquema](attributes/t-update-schema.md)
-   + [Apoio ao Regulamento Geral sobre Proteção de Dados](attributes/gdpr.md)
-   + [Support for California Consumer Privacy Act](attributes/ccpa.md)
+   + [Suporte ao Regulamento Geral sobre a Proteção de Dados](attributes/gdpr.md)
+   + [Suporte à California Consumer Privacy Act](attributes/ccpa.md)
    + [Considerações de privacidade - Atributos do cliente](attributes/privacy-mac.md)
 + Notas de versão da Experience Cloud {#release-notes}
    + [Novidades da Experience Cloud](https://docs.adobe.com/content/help/pt-BR/release-notes/experience-cloud/current.html)

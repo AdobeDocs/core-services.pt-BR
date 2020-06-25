@@ -6,11 +6,11 @@ seo-title: Crie uma fonte de atributo do cliente e faça upload do arquivo de da
 solution: Experience Cloud
 title: Crie uma fonte de atributo do cliente e faça upload do arquivo de dados
 uuid: 53dca789-9a91-4385-839d-c9d1aa36b9be
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: af5201da6eac644e150783195bdbc8f93760c3f1
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '1177'
-ht-degree: 91%
+ht-degree: 100%
 
 ---
 
@@ -30,16 +30,16 @@ Crie a fonte de atributos do cliente (arquivos CSV e FIN) e faça upload dos dad
 
 Quando a fonte de dados está ativa, é possível:
 
-* [Usar atributos do cliente no Adobe Analytics](../attributes/t-crs-usecase.md#task_7EB0680540CE4B65911B2C779210915D)
-* [Usar atributos do cliente no Adobe Target](../attributes/t-crs-usecase.md#task_FC5F9D9059114027B62DB9B1C7D9E257)
+* [Usar os atributos do cliente no Adobe Analytics](../attributes/t-crs-usecase.md#task_7EB0680540CE4B65911B2C779210915D)
+* [Usar os atributos do cliente no Adobe Target](../attributes/t-crs-usecase.md#task_FC5F9D9059114027B62DB9B1C7D9E257)
 
 >[!IMPORTANT]
 >
->Para acessar este recurso, os usuários devem ser atribuídos ao perfil de produto Atributos do cliente (Atributos do cliente - Acesso padrão. Navigate to **[!UICONTROL Administration]** > **[!UICONTROL Admin Console]** > **[!UICONTROL Products]**. If *Customer Attributes* displays as one of the [!UICONTROL Product Profiles], you are ready to begin. Os usuários adicionados ao grupo Atributos do cliente verão o de menu [!UICONTROL Atributos do cliente] à esquerda da interface da Experience Cloud.
+>Para acessar este recurso, os usuários devem ser atribuídos ao perfil de produto Atributos do cliente (Atributos do cliente - Acesso padrão. Navegue até **[!UICONTROL Administração]** > **[!UICONTROL Admin Console]** > **[!UICONTROL Produtos]**. Se os *Atributos do cliente* forem exibidos como um dos [!UICONTROL Perfis de produto], você estará pronto para começar. Os usuários adicionados ao grupo Atributos do cliente verão o de menu [!UICONTROL Atributos do cliente] à esquerda da interface da Experience Cloud.
 >
 >Para usar o recurso Atributos do cliente, os usuários também devem pertencer a grupos no nível da solução (Analytics ou [!DNL Target]).
 
-See [Manage Experience Cloud users and products](../admin-getting-started/admin-getting-started.md#task_3295A85536BF48899A1AB40D207E77E9).
+Consulte [Gerenciar usuários e produtos da Experience Cloud](../admin-getting-started/admin-getting-started.md#task_3295A85536BF48899A1AB40D207E77E9).
 
 ## Criar um arquivo de dados {#task_B5FB8C0649374C7A94C45DCF2878EA1A}
 
@@ -156,7 +156,7 @@ Na página [!UICONTROL Criar nova [ou editar] fonte de atributos do cliente], en
 
 ![Resultado da etapa](assets/activate_attribute_source.png)
 
-## Use Customer Attributes in Adobe Analytics {#task_7EB0680540CE4B65911B2C779210915D}
+## Usar os atributos do cliente no Adobe Analytics {#task_7EB0680540CE4B65911B2C779210915D}
 
 Com os dados disponíveis agora em soluções como
 <keyword>
@@ -167,13 +167,13 @@ O exemplo a seguir mostra um segmento do [!DNL Analytics] com base nos atributos
 
 ![](assets/08_crs_usecase.png)
 
-Quando você publica um segmento na Experience Cloud, ele fica disponível nas Audiências da Experience Cloud e no Audience Manager.
+Ao publicar um segmento na Experience Cloud, ele fica disponível para a Experience Cloud Audiences e o Audience Manager.
 
-Consulte [Relatório de atributos do cliente](https://docs.adobe.com/help/pt-BR/analytics/components/variables/dimensions-reports/reports-customer-attributes.html) na ajuda do Analytics para obter mais informações.
+Consulte [Relatório de atributos do cliente](https://docs.adobe.com/content/help/pt-BR/core-services/interface/customer-attributes/attributes.html) na ajuda do Analytics para obter mais informações.
 
-## Use Customer Attributes in Adobe Target {#task_FC5F9D9059114027B62DB9B1C7D9E257}
+## Usar os atributos do cliente no Adobe Target {#task_FC5F9D9059114027B62DB9B1C7D9E257}
 
-No [!DNL Target], você pode selecionar um atributo do cliente na seção [!UICONTROL Perfil do visitante] ao criar um público-alvo. All Customer Attributes will have the prefix [!DNL crs.] in the list. Combine esses atributos como necessário a outros atributos de dados para construir públicos-alvo.
+No [!DNL Target], você pode selecionar um atributo do cliente na seção [!UICONTROL Perfil do visitante] ao criar um público-alvo. Todos os atributos do cliente terão o prefixo [!DNL crs.] na lista. Combine esses atributos como necessário a outros atributos de dados para construir públicos-alvo.
 
 ![](assets/crs-add-attribute-target.png)
 

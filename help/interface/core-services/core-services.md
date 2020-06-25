@@ -1,23 +1,23 @@
 ---
-description: Implemente a Experience Cloud e torne-se um administrador. Esse processo moderniza suas soluções para recursos como Atributos do cliente e audiências.
+description: Implemente a Experience Cloud e torne-se um administrador. Esse processo moderniza suas soluções para recursos como atributos do cliente e públicos.
 keywords: core services;Customer Attributes
-seo-description: Implemente a Experience Cloud e torne-se um administrador. Esse processo moderniza suas soluções para recursos como Atributos do cliente e audiências.
+seo-description: Implemente a Experience Cloud e torne-se um administrador. Esse processo moderniza suas soluções para recursos como atributos do cliente e públicos.
 seo-title: Ativar as soluções Experience Cloud dos serviços principais
 solution: Experience Cloud
 title: Ativar as soluções dos serviços principais
 index: true
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: 0bc7032d0052ba03beac1140dfbfd630e1802bfd
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '2358'
-ht-degree: 96%
+ht-degree: 100%
 
 ---
 
 
 # Ativar as soluções dos serviços principais
 
-Para clientes existentes, saiba como modernizar suas implementações de solução e implementar a Experience Cloud para que você possa usar recursos como Atributos do cliente e audiências. Para fazer isso, você deve:
+Para clientes existentes, saiba como modernizar as implementações de solução e implementar a Experience Cloud para que possa usar recursos como atributos do cliente e públicos. Para fazer isso, você deve:
 
 1. [Associar-se à Experience Cloud e tornar-se um administrador](#section_2423F0BD3DF642658103310EE5EA6154)
 1. [Implementar o Serviço da Experience Cloud ID](#section_3C9F6DF37C654D939625BB4D485E4354)
@@ -89,7 +89,7 @@ O método mais simples de habilitar os serviços principais da Experience Cloud 
 
 Para obter a ajuda completa do Serviço da Experience Cloud ID (antiga ID de visitante), acesse [aqui](https://docs.adobe.com/content/help/pt-BR/id-service/using/home.html).
 
-**Não está usando o[!UICONTROL Experience Platform Launch]ou o[!UICONTROL Dynamic Tag Management]?**
+**Não está usando o [!UICONTROL Experience Platform Launch] ou o [!UICONTROL Dynamic Tag Management]?**
 
 Se você não estiver usando o [!UICONTROL Experience Platform Launch] ou o [!UICONTROL Dynamic Tag Management], implemente o serviço de ID de forma manual pela implantação do JavaScript ([!DNL VisitorAPI.js]) da seguinte maneira:
 
@@ -120,7 +120,7 @@ Consulte a seção *Serviço da Experience Cloud ID* para obter exemplos de sint
 
 ### Ativação de atributos para dados históricos
 
-Os dados do atributo do cliente são disponibilizados depois que os visitantes fazem logon. Se você ainda não tiver implementado o Serviço da Experience Cloud ID e tiver um histórico de rastreamento de IDs do cliente em uma prop ou eVar, poderá solicitar um processo que envie logons do histórico para a Experience Cloud. Esse processo permite que você comece a usar os Atributos do cliente imediatamente.
+Os dados do atributo do cliente são disponibilizados depois que os visitantes fazem logon. Se você ainda não tiver implementado o Serviço da Experience Cloud ID e tiver um histórico de rastreamento de IDs do cliente em uma prop ou eVar, poderá solicitar um processo que envie logons do histórico para a Experience Cloud. Esse processo permite que você comece a usar os atributos do cliente imediatamente.
 
 Entre em contato com o Atendimento ao cliente para ativar os dados históricos.
 
@@ -136,7 +136,7 @@ Verifique se você está na coleção de dados regionais (RDC). Se o domínio de
 
 Recomenda-se modernizar sua implementação do Analytics ao atualizar suas bibliotecas do JavaScript, incluindo a API do visitante. A maneira simples de fazer isso é adicionar uma ferramenta do [!DNL Adobe Analytics] no Dynamic Tag Management, especificando *`Automatic`* como o método de configuração.
 
-No [!UICONTROL Dynamic Tag Management], clique em **[!UICONTROL <Web Property Name>]**>**[!UICONTROL  Visão geral ]**>**[!UICONTROL  Adicionar uma ferramenta ]**>**[!UICONTROL  Adobe Analytics ]**. Consulte[Configurações do Adobe Analytics](https://docs.adobe.com/content/help/pt-BR/dtm/using/tools/analytics-dtm.html)no Dynamic Tag Management para obter informações sobre a implantação.
+No [!UICONTROL Dynamic Tag Management], clique em **[!UICONTROL <Web Property Name>]** > **[!UICONTROL  Visão geral ]** > **[!UICONTROL  Adicionar uma ferramenta ]** > **[!UICONTROL  Adobe Analytics ]**. Consulte [Configurações do Adobe Analytics](https://docs.adobe.com/content/help/pt-BR/dtm/using/tools/analytics-dtm.html) no Dynamic Tag Management para obter informações sobre a implantação.
 
 ## Etapa 5. (Adobe Target) Atualizar a implementação do Adobe Target {#section_C2F4493C7A36406DAE2266B429A4BD24}
 
@@ -146,9 +146,9 @@ No [!UICONTROL Dynamic Tag Management], clique em **[!UICONTROL <Web Property Na
 
    >[!IMPORTANT]
    >
-   >Todos os clientes do Analytics já foram provisionados para os principais serviços, como Atributos do cliente. Se você não for um cliente do Analytics, entre em contato com o Atendimento ao cliente para solicitar o provisionamento.
+   >Todos os clientes do Analytics já foram provisionados com os serviços principais, como atributos do cliente. Se você não for um cliente do Analytics, entre em contato com o Atendimento ao cliente para solicitar o provisionamento.
 
-## Etapa 6. Verificar a implementação dos principais serviços {#section_E641782A0F4F44AF8C9C91216BE330D5}
+## Etapa 6. Verificar a implementação dos serviços principais {#section_E641782A0F4F44AF8C9C91216BE330D5}
 
 Use o processo a seguir para garantir que o Serviço da Experience Cloud ID seja implementado corretamente no site.
 

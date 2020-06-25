@@ -6,11 +6,11 @@ seo-title: Opcional - Fazer upload do arquivo de dados via FTP
 solution: Experience Cloud
 title: Opcional - Fazer upload do arquivo de dados via FTP
 uuid: 5df565dd-b6f8-420e-981f-4b6fc6f7d0e4
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: 0bc7032d0052ba03beac1140dfbfd630e1802bfd
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '294'
-ht-degree: 85%
+ht-degree: 100%
 
 ---
 
@@ -23,9 +23,9 @@ Você pode fazer upload dos dados depois de criar uma fonte de atributo do clien
 
 >[!IMPORTANT]
 >
->Review [Data file requirements for uploading Customer Attributes](../attributes/crs-data-file.md#concept_DE908F362DF24172BFEF48E1797DAF19) before uploading the file.
+>Analise [os requisitos do arquivo de dados para fazer upload dos atributos do cliente](../attributes/crs-data-file.md#concept_DE908F362DF24172BFEF48E1797DAF19) antes de fazer upload do arquivo.
 
-Os uploads de arquivos para o site FTP de atributos do cliente podem ser feitos via FTP ou SFTP.
+Os uploads de arquivo para o site FTP de atributos do cliente podem ser feitos via FTP ou SFTP.
 
 * Você precisa de um cliente compatível com conexões SFTP.
 * Você pode se conectar ao SFTP usando o nome de usuário/senha ou sem usar senha, conforme descrito [aqui](https://docs.adobe.com/help/pt-BR/analytics/export/ftp-and-sftp/secure-file-transfer-protocol/ftp-sftp-cert-auth.html).
@@ -44,4 +44,4 @@ Os uploads de arquivos para o site FTP de atributos do cliente podem ser feitos 
 
    Se o upload for bem-sucedido, ambos os arquivos serão movidos para uma pasta chamada **processados**.
 
-   See [Data file requirements for uploading Customer Attributes](../attributes/crs-data-file.md#concept_DE908F362DF24172BFEF48E1797DAF19) for important information about file names and structure.
+   Consulte [Requisitos do arquivo de dados para fazer upload dos atributos do cliente](../attributes/crs-data-file.md#concept_DE908F362DF24172BFEF48E1797DAF19) para obter informações importantes sobre os nomes dos arquivos e a estrutura.

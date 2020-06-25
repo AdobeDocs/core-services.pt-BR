@@ -1,22 +1,22 @@
 ---
-description: Saiba mais sobre o gerenciamento de usuários e produtos da Adobe Experience Cloud, Pessoas (Audiência e Atributos do cliente), Journey Orchestration, Oferta, Places, Experience Platform Launch e Mobile Services.
-seo-description: Saiba mais sobre o gerenciamento de usuários e produtos da Adobe Experience Cloud, as Pessoas (Audiência e Atributos do cliente), as Ofertas, o lançamento da plataforma Experience e os Mobile Services.
+description: Saiba mais sobre o gerenciamento de usuários e produtos da Adobe Experience Cloud, People (públicos e atributos do cliente), Journey Orchestration, Offers, Places, Experience Platform Launch e Mobile Services.
+seo-description: Saiba mais sobre o gerenciamento de usuários e de produtos da Adobe Experience Cloud, People (públicos e atributos do cliente), Offers, Experience Platform Launch e Mobile Services.
 seo-title: Serviços principais e gerenciamento de usuários da Experience Cloud
 solution: Experience Cloud
 title: Sobre os Serviços principais da Experience Cloud.
 index: true
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: a8dff138652b34c9532b87a4aae74f9d9f614580
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '511'
-ht-degree: 79%
+ht-degree: 100%
 
 ---
 
 
 # Sobre a Experience Cloud {#topic_C1087DCC538F4F9A99D983C1BB29EBE0}
 
-Adobe Experience Cloud services include the [!UICONTROL People] (Audiences and Customer Attributes), Offers, Experience Platform Launch, and Mobile Services. Você também pode acessar a ajuda sobre o gerenciamento de usuários e produtos na Experience Cloud.
+Os serviços da Adobe Experience Cloud incluem o [!UICONTROL People] (públicos e atributos do cliente), Offers, Experience Platform Launch e Mobile Services. Você também pode acessar a ajuda sobre o gerenciamento de usuários e produtos na Experience Cloud.
 
 Para acessar esses serviços na Experience Cloud, clique no menu **[!UICONTROL Experience Platform]** ![](assets/menu-icon.png).
 
@@ -36,4 +36,4 @@ Esta ajuda descreve os seguintes produtos e serviços:
 | [Serviço de localização](https://docs.adobe.com/content/help/pt-BR/places/using/home.html) | O Adobe [!UICONTROL Serviço de localização da Experience Platform] é um serviço de localização geográfica que permite que aplicativos móveis com detecção de localização compreendam o contexto de localização usando interfaces SDK avançadas e fáceis de usar acompanhadas por um banco de dados flexível de pontos de interesse (POIs). |
 | [Exchange](exchange.md) | Pesquise, navegue, selecione, pague e baixe extensões de Marketing digital por aplicativos. |
 | [Mobile Services](https://docs.adobe.com/content/help/pt-BR/mobile-services/using/home.html) | O Adobe Mobile Services reúne recursos de marketing móvel para aplicativos móveis em toda a Experience Cloud; isso permite que você entenda e aprimore a participação do usuário com seus aplicativos móveis. |
-| Pessoas | Crie uma exibição abrangente de clientes individuais ao conectar dados da Adobe e dados que não pertencem à Adobe nas soluções da Experience Cloud. Descubra o que é mais importante para eles durante a interação nos pontos de conexão. Reconheça consumidores de longa data quando eles visitarem por meio de dispositivos desconhecidos. Até mesmo agrupe usuários em Audiências para esforços de marketing direcionados.<br>[Audiência](audience-library/audience-library.md) - categorize diferentes tipos de clientes no Audiência e compartilhe-os nas soluções da Marketing Cloud.<br>[Atributos](attributes/attributes.md) do cliente - enriquecimento de audiência que permite a conexão de informações do consumidor coletadas fora da Marketing Cloud.<br>[ Gráfico do dispositivo](https://landing.adobe.com/en/na/events/summit/275658-summit-co-op.html) - Colabore com as marcas mais populares do mundo para reconhecer os consumidores conhecidos por trás de um dispositivo desconhecido. (Na versão beta, somente para membros cooperativos de dispositivo da Experience Cloud.) |
+| Pessoas | Crie uma exibição abrangente de clientes individuais ao conectar dados da Adobe e dados que não pertencem à Adobe nas soluções da Experience Cloud. Descubra o que é mais importante para eles durante a interação nos pontos de conexão. Reconheça consumidores de longa data quando eles visitarem por meio de dispositivos desconhecidos. Até mesmo agrupe usuários em públicos para esforços de marketing segmentados.<br>[Públicos](audience-library/audience-library.md) - categorize tipos diferentes de clientes em públicos, em seguida, compartilhe-os nas soluções da Experience Cloud.<br>[Atributos do cliente](attributes/attributes.md) - enriquecimento do público que permite a conexão de informações do cliente coletadas fora da Experience Cloud.<br>[ Gráfico do dispositivo](https://landing.adobe.com/en/na/events/summit/275658-summit-co-op.html) - Colabore com as marcas mais populares do mundo para reconhecer os consumidores conhecidos por trás de um dispositivo desconhecido. (Na versão beta, somente para membros cooperativos de dispositivo da Experience Cloud.) |

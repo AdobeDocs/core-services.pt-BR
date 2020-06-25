@@ -2,15 +2,15 @@
 description: Saiba mais sobre como fazer logon na Experience Cloud, gerenciar senhas e notificações, e especificar uma página de aterrissagem padrão.
 keywords: core services, sign in to Experience Cloud
 seo-description: Saiba mais sobre como fazer logon na Experience Cloud, gerenciar senhas e notificações, e especificar uma página de aterrissagem padrão.
-seo-title: Faça logon e gerencie as configurações do seu perfil
+seo-title: Fazer logon e gerenciar as configurações do seu perfil
 solution: Experience Cloud
 title: Fazer logon e gerenciar as configurações do perfil
 uuid: c1e13b99-0069-4fdb-8d72-ddcec3ed1121
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: 0bc7032d0052ba03beac1140dfbfd630e1802bfd
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '968'
-ht-degree: 97%
+ht-degree: 100%
 
 ---
 
@@ -80,7 +80,7 @@ Ajuda para usuários não administrativos que fazem logon na Experience Cloud.
 
 ## Ativar notificações {#concept_0105453AD71847B8BFCAF4A40915F157}
 
-Receba notificações (por email ou no produto) sobre atualizações do sistema, avisos de manutenção, publicações, menções e ativos compartilhados. Você também pode especificar os produtos e soluções para os quais deseja receber notificações, incluindo o status de upload dos Atributos do cliente.
+Receba notificações (por email ou no produto) sobre atualizações do sistema, avisos de manutenção, publicações, menções e ativos compartilhados. Além disso, também é possível especificar os produtos e soluções dos quais deseja receber notificações, incluindo o status de carregamento dos atributos do cliente.
 
 Para navegar até Notificações, clique no ícone **[!UICONTROL Notificações]**, ![](assets/notifications-icon.png) em seguida clique no ícone **[!UICONTROL Configurações]** ![](assets/icon_edit_board.png).
 

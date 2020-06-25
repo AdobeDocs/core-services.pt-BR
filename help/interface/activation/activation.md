@@ -6,18 +6,18 @@ seo-title: Activation
 solution: Experience Cloud
 title: Activation
 uuid: 54ada638-3592-49ee-930a-9f44bcc5e5d3
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: 0bc7032d0052ba03beac1140dfbfd630e1802bfd
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '434'
-ht-degree: 95%
+ht-degree: 100%
 
 ---
 
 
 # Activation
 
-O Activation inclui o produto de gerenciamento de tags mais recente, chamado Experience Platform Launch, Dynamic Tag Management (DTM) e Acionadores.
+O Activation inclui o produto de gerenciamento de tags mais recente, chamado Experience Platform Launch, Dynamic Tag Management (DTM) e Triggers.
 
 ## Experience Platform Launch {#section_05DF74E9EAC94518A155095C65F54568}
 
@@ -25,7 +25,7 @@ Implante e gerencie tags de análises, marketing e publicidade necessárias para
 
 Consulte [Experience Platform Launch](https://docs.adobe.com/content/help/pt-BR/launch/using/intro/get-started/quick-start.html).
 
-## Dynamic Tag Management (DTM) {#section_C7E000EEF3E6459FB4B6D4A8960DD8F0}
+## Dynamic Tag Management {#section_C7E000EEF3E6459FB4B6D4A8960DD8F0}
 
 Para iniciar o Dynamic Tag Management, clique em **[!UICONTROL Activation]** e envie uma solicitação para a equipe de provisionamento da Adobe. Você deve receber suas credenciais de logon em um ou dois dias úteis.
 
@@ -39,11 +39,11 @@ Para iniciar o Dynamic Tag Management, clique em **[!UICONTROL Activation]** e e
  <tbody> 
   <tr> 
    <td colname="col1"> <p> <a href="https://docs.adobe.com/content/help/pt-BR/dtm/using/tools/analytics-dtm.html" format="html" scope="external"> Implantar o Adobe Analytics </a> </p> </td> 
-   <td colname="col2"> <p> Instruções detalhadas sobre como adicionar o Adobe Analytics usando o Dynamic Tag Management da Adobe </p> </td> 
+   <td colname="col2"> <p> Instruções detalhadas sobre como adicionar o Adobe Analytics usando o Dynamic Tag Management da Adobe. </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p> <a href="https://docs.adobe.com/content/help/en/id-service/using/implementation-guides/implementation-guides.html" format="html" scope="external"> Guias de implementação para o serviço da Experience Cloud ID </a> </p> </td> 
-   <td colname="col2"> <p>O Serviço da Experience Cloud ID permite a funcionalidade principal nas soluções da Experience Cloud (incluindo Atributos do cliente, compartilhamento de audiências e acionadores). A Adobe recomenda a implementação do serviço de ID para aproveitar esses recursos. </p> </td> 
+   <td colname="col2"> <p>O Serviço da Experience Cloud ID habilita recursos de serviços essenciais em todas as soluções da Experience Cloud (incluindo atributos de clientes, compartilhamento de público e acionadores). A Adobe recomenda a implementação do serviço de ID para aproveitar esses recursos. </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p> <a href="https://docs.adobe.com/content/help/pt-BR/dtm/using/dtm-home.html" format="https" scope="external"> Documentação de produto do Dynamic Tag Management </a> </p> </td> 
@@ -68,7 +68,7 @@ Os *Triggers* permitem aos comerciantes definir e monitorar os principais compor
  <tbody> 
   <tr> 
    <td colname="col1"> <p> <a href="../activation/triggers.md#concept_887B30241B3E4DB0A2553B2996E2D4FB" format="dita" scope="local"> Criar Experience Cloud Triggers </a> </p> </td> 
-   <td colname="col2"> <p> Instruções detalhadas sobre somo criar Acionadores da Experience Cloud usando dados do Adobe Analytics. </p> <p>Os Acionadores da Experience Cloud estão disponíveis para uso no Adobe Campaign. </p> </td>
+   <td colname="col2"> <p> Instruções detalhadas sobre somo criar Experience Cloud Triggers usando dados do Adobe Analytics. </p> <p>Os Experience Cloud Triggers estão disponíveis para uso no Adobe Campaign. </p> </td>
   </tr>
   <tr> 
    <td colname="col1"> <p>Usar Triggers no Adobe Campaign </p> </td> 

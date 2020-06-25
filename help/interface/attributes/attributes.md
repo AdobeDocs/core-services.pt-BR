@@ -1,23 +1,23 @@
 ---
-description: Visão geral e pré-requisitos sobre como fazer upload dos Atributos do cliente na Experience Cloud.
+description: Visão geral e pré-requisitos a respeito do upload de atributos do cliente na Experience Cloud.
 keywords: core services;Customer Attributes
-seo-description: Visão geral e pré-requisitos sobre como fazer upload dos Atributos do cliente na Experience Cloud.
+seo-description: Visão geral e pré-requisitos a respeito do upload de atributos do cliente na Experience Cloud.
 seo-title: Atributos do cliente
 solution: Experience Cloud
 title: Atributos do cliente
 uuid: 1621402d-990f-46f9-981a-473280559069
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: 75d3d045964aa42f7ac6b32b25cfd77aa7f663a9
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '456'
-ht-degree: 71%
+ht-degree: 100%
 
 ---
 
 
 # Atributos do cliente
 
-Navegue até **[!DNL Experience Platform]** > **[!UICONTROL Pessoas]** > Atributos **[!UICONTROL do cliente]**
+Navegue até **[!DNL Experience Platform]** > **[!UICONTROL People]** > **[!UICONTROL Atributos do cliente]**
 
 Se você capturar os dados de clientes de empresas em um banco de dados de gerenciamento de relacionamento com o cliente (CRM), poderá fazer upload dos dados em uma fonte de dados do atributo do cliente na Experience Cloud. Depois de enviado, aproveite os dados no [!DNL Adobe Analytics] e no [!DNL Adobe Target].
 
@@ -25,15 +25,15 @@ Se você capturar os dados de clientes de empresas em um banco de dados de geren
 
 ## Pré-requisitos para fazer upload dos atributos do cliente {#section_BD38693AFBF34926BA28E964963B4EA0}
 
-* **Ativação da solução:** [Ative suas soluções para os serviços](../core-services/core-services.md#concept_07ED1D5C64234E77976E6D572E78FB9C)da plataforma Experience.
+* **Ativação da solução:** [ativar as soluções para os serviços da Experience Platform](../core-services/core-services.md#concept_07ED1D5C64234E77976E6D572E78FB9C).
 
-* **Associação a grupos:** Para carregar os dados do Atributo do cliente, os usuários devem ser membros do grupo [Atributos do](../admin-getting-started/admin-getting-started.md#task_3295A85536BF48899A1AB40D207E77E9)cliente. Você também deve pertencer a um grupo do Adobe Analytics ou do Adobe Target.
+* **Associação de grupo:** para fazer upload dos dados de atributos do cliente, os usuários devem ser membros do [grupo de Atributos do cliente](../admin-getting-started/admin-getting-started.md#task_3295A85536BF48899A1AB40D207E77E9). Você também deve pertencer a um grupo do Adobe Analytics ou do Adobe Target.
 
-   To know whether your company has access to Customer Attributes, your [!DNL Experience Cloud] administrator should log into the [Experience Cloud](https://experience.adobe.com). Navigate to **[!UICONTROL Administration]** > **[!UICONTROL Admin Console]** > **[!UICONTROL Products]**. If *Customer Attributes* displays as one of the [!UICONTROL Product Profiles], you are ready to begin.
+   Para saber se a empresa tem acesso aos atributos do cliente, o [!DNL Experience Cloud] administrador deve fazer logon na [Experience Cloud](https://experience.adobe.com). Navegue até **[!UICONTROL Administração]** > **[!UICONTROL Admin Console]** > **[!UICONTROL Produtos]**. Se os *Atributos do cliente* forem exibidos como um dos [!UICONTROL Perfis de produto], você estará pronto para começar.
 
-   Users that are added to the Customer Attributes will see the [!UICONTROL Customer Attributes] menu item on the left side of the Experience Cloud interface.
+   Os usuários adicionados aos Atributos do cliente verão o item de menu [!UICONTROL Atributos do cliente] à esquerda da interface da Experience Cloud.
 
-* **O Adobe Target** [!DNL at.js] (qualquer versão) ou a [!DNL mbox.js] versão 58 ou posterior é necessário para os Atributos do cliente.
+* O **Adobe Target** [!DNL at.js] (qualquer versão) ou [!DNL mbox.js] versão 58 ou posterior é necessário para os atributos do cliente.
 
    Consulte [Como implantar at.js](https://docs.adobe.com/content/help/pt-BR/target/using/implement-target/client-side/deploy-at-js/how-to-deployatjs.html) ou [Implementação do Mbox.js](https://docs.adobe.com/content/help/pt-BR/target/using/implement-target/client-side/mbox-implement/mbox-download.html).
 

@@ -6,11 +6,11 @@ seo-title: Notas de versão cumulativas
 solution: Experience Cloud
 title: Notas de versão cumulativas
 uuid: fcff8cc6-e587-4bf2-9a75-261d4eabc7d4
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: 1f7672f43e870c7ab66d68f451c031ea2c5af15b
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '3929'
-ht-degree: 98%
+ht-degree: 100%
 
 ---
 
@@ -62,7 +62,7 @@ Para obter as notas de versão que abrangem todas as soluções, consulte [Notas
 **Observação:** em março de 2019, a interface da Experience Cloud não será compatível com o Internet Explorer 11.
 
 * Correção de um problema que impedia que a pesquisa na ajuda exibisse resultados. (MCUI-1670)
-* Correção e melhora do gerenciamento eVar em Acionadores. (MCUI-6400)
+* Correção e melhora do gerenciamento eVar em Triggers. (MCUI-6400)
 
 ## Versão 16.5.1 - 26 de maio de 2016 {#section_3785F182BC13493F84903CA69EB6D0A8}
 
@@ -150,18 +150,18 @@ Se você acessar o Dynamic Tag Management por meio da interface **[!UICONTROL Ex
 
 ## Versão 15.9 - 10 de setembro de 2015 {#section_BCCE3E7DF62A4FF5A57B9C8FE2A5F37B}
 
-* Correção de um problema de desempenho da API do Audience Manager que causava tempos limite intermitentes ao carregar dados de Atributos do cliente. (MAC-26305)
-* Correção de um problema que impedia os usuários de adicionar até 200 Atributos do cliente a uma subscrição. (MAC-26188)
+* Correção de um problema de desempenho na API do Audience Manager que causava tempos limite intermitentes durante o upload dos dados de atributos do cliente. (MAC-26305)
+* Correção de um problema que impedia os usuários de adicionarem até 200 atributos de cliente a uma assinatura. (MAC-26188)
 * Corrigiu um problema da Biblioteca de público-alvo que evitou que o público-alvo compartilhasse da Segmentação de análise. Esse problema causou a exibição de “Dados de coleta” (0 públicos-alvo). Para evitar esse problema, a Adobe recomenda manter menos de 50 mil membros do público-alvo por segmento. (MAC-25788)
 * Correção de um problema anterior dos atributos do cliente: a página Editar esquema causava o envio de um erro Sensível a conteúdo durante a alteração de um nome de exibição. (MAC-25589, AN-103834)
 
 ## Versão 15.7 - 22 de julho de 2015 {#section_2683A152176944E48EF6C943892975B7}
 
-* Correção de um problema que impedia que as descrições de atributos especificadas na página Visualização/Editar Schema (em Atributos do cliente) fossem atualizadas nos relatórios do Analytics. (MAC-25985)
+* Correção de um erro que evitou que as descrições de atributos especificadas na página Exibir/Editar esquema (nos atributos do cliente) fossem atualizadas nos Relatórios de análise. (MAC-25985)
 * Correção de um problema que impedia a renderização de miniaturas em ativos que passaram por upload. (MAC-25863)
 * Foi corrigido um problema que impedia a disponibilização de novos segmentos criados nos relatórios e análises da Experience Cloud Audiences. (MAC-25817)
 * Correção de um problema que impedia o compartilhamento do público-alvo no Analytics quando o serviço de ID do visitante era usado. (MAC-25788, MAC-25747)
-* Adicionado suporte para caracteres multibyte nos Atributos do cliente. (MAC-25552)
+* Foi adicionado suporte para caracteres multibyte nos atributos do cliente. (MAC-25552)
 
 **Problema conhecido**
 
@@ -193,7 +193,7 @@ Nenhuma informação disponível
  </tbody> 
 </table>
 
-* Correção de um problema que impedia a sincronização dos Atributos do cliente para alguns clientes.
+* Correção de um problema que impedia a sincronização dos atributos do cliente para alguns clientes.
 * Correção de um problema que impedia a exibição da página [Documentação do produto do Adobe Target](https://docs.adobe.com/content/help/pt-BR/target/using/integrate/a4t/a4t.html) em japonês.
 * Foi corrigido um problema que impedia o uso do texto em japonês nos comentários entre a [!DNL Creative Cloud] e a [!DNL Experience Cloud].
 

@@ -5,10 +5,10 @@ user-guide-description: Adobe Experience Cloud services include the People (Audi
 user-guide-url: https://www.adobe.com
 index: true
 translation-type: tm+mt
-source-git-commit: 7a3a14fa8572444513dd0ac4753431f3c33245f0
+source-git-commit: 323e562d41daa547d488497116cd5ffa783f6426
 workflow-type: tm+mt
-source-wordcount: '361'
-ht-degree: 88%
+source-wordcount: '356'
+ht-degree: 87%
 
 ---
 
@@ -55,7 +55,6 @@ ht-degree: 88%
    + [Compartilhar uma pasta de ativos da Experience Cloud](experience-cloud-assets/t-share-creative-cloud.md)
    + [Faça upload de um ativo para uma pasta compartilhada no navegador da Creative Cloud](experience-cloud-assets/t-upload-asset-cc.md)
    + [Faça upload de um ativo para uma pasta compartilhada no desktop da Creative Cloud](experience-cloud-assets/t-cc-asset-upload-thor.md)
-   + [Desativar a sincronização de pastas compartilhadas](experience-cloud-assets/t-disable-asset-sync.md)
    + [Requisitos para compartilhamento do arquivo do ativo](experience-cloud-assets/assets-file-reqs.md)
    + [Comportamento das pastas compartilhadas](experience-cloud-assets/asset-behavior.md)
 + Públicos-alvo na Experience Cloud {#audiences}

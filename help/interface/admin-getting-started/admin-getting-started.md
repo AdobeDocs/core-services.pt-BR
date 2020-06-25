@@ -6,11 +6,11 @@ seo-title: Gerenciar usuários e produtos da Experience Cloud
 solution: Experience Cloud
 title: Gerenciar usuários e produtos da Experience Cloud
 index: true
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: 01277057733cb921ebfbb7e66a3e34cdd1e21829
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '1455'
-ht-degree: 95%
+ht-degree: 100%
 
 ---
 
@@ -53,7 +53,7 @@ Para fazer logon no Admin Console:
 1. Navegue até [https://adminconsole.adobe.com/enterprise/](https://adminconsole.adobe.com/enterprise/#).
 1. Digite sua [Adobe ID ou Enterprise ID](https://helpx.adobe.com/br/enterprise/help/identity.html) e senha.
 
-Como alternativa, no menu da Experience Cloud ( ![](assets/menu-icon.png)), clique em **[!UICONTROL Administração]** > **[!UICONTROL Iniciar o Admin Console]**.
+Como alternativa, no menu da Experience Cloud (![](assets/menu-icon.png)), clique em **[!UICONTROL Administração]** > **[!UICONTROL Iniciar o Admin Console]**.
 
 **Ajuda relacionada**
 
@@ -114,11 +114,11 @@ Consulte [Gerenciamento de usuários](https://docs.adobe.com/content/help/pt-BR/
 
 ## Experience Manager as a Cloud Service
 
-Os clientes do Adobe Enterprise são representados como Organizações IMS no Adobe Admin Console. Este é o portal usado pelos clientes da Adobe para gerenciar seus direitos de produtos para seus usuários e grupos. Os clientes do AEM podem usar o Adobe Admin Console para gerenciar seus direitos de produto e a autenticação IMS para o AEM como um serviço em nuvem.
+Os clientes do Adobe Enterprise são representados como Organizações do IMS no Adobe Admin Console. Este é o portal usado pelos clientes da Adobe para gerenciar os direitos de produto para usuários e grupos. Os clientes do AEM podem usar o Adobe Admin Console para gerenciar seus direitos de produto e a autenticação IMS para o AEM como um serviço na nuvem.
 
-See [IMS Support for AEM as a Cloud Service](https://docs.adobe.com/content/help/en/experience-manager-cloud-service/security/ims-support.html#managing-products-and-user-access-in-admin-console).
+Consulte [Suporte IMS para o AEM como Cloud Service](https://docs.adobe.com/content/help/pt-BR/experience-manager-cloud-service/security/ims-support.html#managing-products-and-user-access-in-admin-console).
 
-## Dynamic tag management {#section_3A41CF2BD5994B9891537D063571D4ED}
+## Gerenciador dinâmico de tags {#section_3A41CF2BD5994B9891537D063571D4ED}
 
 Convide usuários para o Dynamic Tag Management, atribua funções de usuário e adicione usuários a grupos.
 

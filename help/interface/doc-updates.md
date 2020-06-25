@@ -6,11 +6,11 @@ seo-title: Atualizações da documentação - Experience Cloud
 solution: Experience Cloud
 title: Atualizações da documentação - Experience Cloud
 uuid: f41c4e9f-e784-4706-8c4b-f430c953670d
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: 39e3b77f19020cffd1bc0218f120f306d676380b
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '251'
-ht-degree: 84%
+ht-degree: 100%
 
 ---
 
@@ -19,16 +19,16 @@ ht-degree: 84%
 
 Informações sobre atualizações na documentação do produto da Experience Cloud.
 
-**Atualizado: 19/05/2020**
+**Atualizado: 19/5/2020**
 
-Documentação detalhada do Gerenciamento de Ofertas.
+Documentação de gerenciamento de oferta descontinuada.
 
 **Atualizado: 15/05/2020**
 
 As seguintes páginas foram adicionadas:
 
-* [Apoio ao Regulamento Geral sobre Proteção de Dados](attributes/gdpr.md)
-* [Support for California Consumer Privacy Act](attributes/ccpa.md)
+* [Suporte ao Regulamento Geral sobre a Proteção de Dados](attributes/gdpr.md)
+* [Suporte à California Consumer Privacy Act](attributes/ccpa.md)
 
 **Atualizado: 10/3/2020**
 
@@ -44,7 +44,7 @@ Adição de como excluir um atributo do cliente. Consulte [(Opcional) Atualizar 
 
 **Atualizado: 8/6/20118**
 
-Updated [About data file and data sources for Customer Attributes](attributes/crs-data-file.md#concept_DE908F362DF24172BFEF48E1797DAF19) with information about uploading multiple files.
+Atualização [Sobre arquivo de dados e fontes de dados para atributos do cliente](attributes/crs-data-file.md#concept_DE908F362DF24172BFEF48E1797DAF19) com informações sobre o upload de vários arquivos.
 
 **Atualizado: 6/6/2018**
 
@@ -84,7 +84,7 @@ Adição de [Ativos da Experience Cloud](experience-cloud-assets/experience-clou
 
 **Atualizado: 2/3/2015**
 
-Aticação de [Ativar as soluções dos ](core-services/core-services.md#concept_07ED1D5C64234E77976E6D572E78FB9C)
+Adição de [Ativar as soluções para serviços principais](core-services/core-services.md#concept_07ED1D5C64234E77976E6D572E78FB9C).
 
 **Atualizado: 1/15/2015**
 
@@ -96,9 +96,9 @@ Adição de [Perguntas frequentes da Experience Cloud](admin-getting-started/faq
 
 **Atualizado: 22/5/2014**
 
-Adição de documentação para Públicos-alvo
+Adição de documentação para Públicos-alvo.
 
-Consulte [Públicos-alvo](audience-library/audience-library.md#topic_679810123CAA4E0CA4FA3417FB0100C7)
+Consulte [Públicos-alvo](audience-library/audience-library.md#topic_679810123CAA4E0CA4FA3417FB0100C7).
 
 **Atualizado: 22/5/2014**
 

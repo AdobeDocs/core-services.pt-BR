@@ -6,11 +6,11 @@ seo-title: Ajuda e documentação do produto da Adobe Experience Cloud e dos ser
 solution: Adobe Experience Cloud
 title: Ajuda da Experience Cloud e principais serviços
 uuid: aec6f689-e617-4876-ae6c-e961cfcb991a
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: f3d200aede4ca1739c727d799cfdece40bd24a87
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '400'
-ht-degree: 99%
+ht-degree: 100%
 
 ---
 
@@ -48,7 +48,7 @@ Esta página fornece autoajuda, suporte e documentação técnica e de produto d
 ## Administração e habilitação
 
 * [Gerenciamento de usuários e de produtos](admin-getting-started/admin-getting-started.md) (Admin Console)
-* [Ativar as soluções dos principais serviços](core-services/core-services.md)
+* [Ativar as soluções dos serviços principais](core-services/core-services.md)
 * [Perguntas frequentes](admin-getting-started/admin-getting-started.md)
 * [Organizações e vinculação de contas](admin-getting-started/organizations.md)
 * [Integrações](marketing-cloud-integrations.md)

@@ -4,11 +4,11 @@ seo-description: Saiba mais sobre como mapear um ou vários conjuntos de relató
 seo-title: Mapear conjuntos de relatórios para uma organização
 title: Mapear conjuntos de relatórios para uma organização
 uuid: b983d5a6-b3d0-4137-ac53-bc5681d3e58b
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: 5d987d60a462457afab6c1935095c7ea948b4d65
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '1201'
-ht-degree: 95%
+ht-degree: 100%
 
 ---
 
@@ -17,7 +17,7 @@ ht-degree: 95%
 
 >[!NOTE]
 >
->A funcionalidade Mapeamento do conjunto de relatórios será substituída em novembro de 2020. Mapeie todos os conjuntos de relatórios pendentes em >preparação para isso. Entre em contato com o atendimento ao cliente com qualquer pergunta.
+>A funcionalidade Mapeamento do conjunto de relatórios será substituída em novembro de 2020. Mapeie todos os conjuntos de relatórios pendentes como preparo. Entre em contato com o atendimento ao cliente com qualquer pergunta.
 
 Saiba mais sobre como mapear um ou vários conjuntos de relatórios para uma organização.
 
@@ -36,7 +36,7 @@ As organizações ficam esmaecidas caso você não tenha permissões de administ
 
 ## Mapear um conjunto de relatórios para uma organização {#task_23993FE78DF6455FA8D7BE60686EA16C}
 
-1. Navegue até Report Suites para obter o controle de dados em [!DNL Analytics] > **[!UICONTROL Admin]** > Controle **[!UICONTROL de]** dados (consulte Configuração de controle de dados do conjunto de relatórios de [Visualização/gerenciamento](https://docs.adobe.com/help/en/analytics/admin/data-governance/gdpr-view-settings.html)
+1. Navegue até Conjunto de relatórios para obter a governança de dados em [!DNL Analytics] > **[!UICONTROL Admin]** > **[!UICONTROL Governança de dados]** (consulte [Exibir/gerenciar a configuração de governança de dados do conjunto de relatórios](https://docs.adobe.com/help/pt-BR/analytics/admin/data-governance/gdpr-view-settings.html)
 
 1. Para ver as empresas de logon com acesso a cada conjunto de relatórios, clique em **[!UICONTROL Visível para empresas de logon]**.
 

@@ -6,9 +6,9 @@ seo-title: Cookies do Analytics
 solution: Marketing Cloud,Analytics,Adobe Target,Adobe Social
 title: Cookies do Analytics
 uuid: e2d3d61d-2708-48b2-a7e6-2331f2aed8e0
-translation-type: ht
-source-git-commit: f7ec8bf6087a18be41c9efbf05f60e6cfd24e566
-workflow-type: ht
+translation-type: tm+mt
+source-git-commit: bd118685e1dd65b51a171abdfa4e034dd5b9e181
+workflow-type: tm+mt
 source-wordcount: '812'
 ht-degree: 100%
 
@@ -66,7 +66,7 @@ Mais informações disponíveis na ajuda do Analytics sobre [Cookies primários]
 
 | Atributo | Descrição |
 |--- |--- |
-| Informações armazenadas | Carimbo de data/hora da ID de visitante exclusiva |
+| Informações armazenadas | Carimbo de data/hora da ID de visitante exclusiva. |
 | Expiração | 2 anos |
 | Uso | Este cookie é usado para identificar um visitante exclusivo |
 | Localização | Este cookie é armazenado no domínio da solicitação de imagem - normalmente um subdomínio específico do cliente em 2o7.net ou omtrdc.net se você estiver usando cookies de terceiros ou se o domínio estiver usando cookies primários. |
@@ -98,7 +98,9 @@ A tabela a seguir descreve os sinalizadores dos cookies do Analytics:
 | s_cc (Javascript) | Não | Não | Unset |
 | s_sq (Javascript) | Não | Não | Unset |
 
->[!NOTE] Se estiver usando um único CNAME para rastrear vários domínios ou propriedades, o SameSite deve ser definido como &quot;None&quot; para `s_vi`. Para obter ajuda sobre como alterar as configurações de cookies do Analytics, entre em contato com o Atendimento ao cliente.
+>[!NOTE]
+>
+>Se estiver usando um único CNAME para rastrear vários domínios ou propriedades, o SameSite deve ser definido como &quot;None&quot; para `s_vi`. Para obter ajuda sobre como alterar as configurações de cookies do Analytics, entre em contato com o Atendimento ao cliente.
 
 ## Cookies definidos por plug-ins {#section-a6b1cae8454945fab9eea5c7884c40fc}
 

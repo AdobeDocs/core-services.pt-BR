@@ -6,9 +6,9 @@ seo-title: Cookies do Analytics
 solution: Marketing Cloud,Analytics,Adobe Target,Adobe Social
 title: Cookies do Analytics
 uuid: e2d3d61d-2708-48b2-a7e6-2331f2aed8e0
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: bd118685e1dd65b51a171abdfa4e034dd5b9e181
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '812'
 ht-degree: 100%
 
@@ -38,8 +38,8 @@ Mais informações disponíveis na ajuda do Analytics sobre [Cookies primários]
 |--- |--- |
 | Informações armazenadas | Contém uma cópia da Experience Cloud ID (ECID) ou MID. A MID é armazenada em um par de valor principal que segue a sintaxe s_ecid=MCMID | `<ECID>` |
 | Expiração | 2 anos |
-| Uso | Esse cookie é definido pelo domínio do cliente depois que o cookie AMCV é definido pelo cliente. A finalidade deste cookie é permitir o rastreamento de ID persistente no estado próprio e ele é usado como ID de referência, se o cookie AMCV tiver expirado. Verifique o cookie AMCV aqui para obter mais detalhes. |
-| Localização | Somente para clientes CNAME. Não aplicável para cenários de terceiros. O cookie é armazenado em seu domínio, o mesmo domínio usado pelo CNAME e pela solicitação de imagem do Analytics. |
+| Uso | Esse cookie é definido pelo domínio do cliente depois que o cookie AMCV é definido pelo cliente. A finalidade deste cookie é permitir o rastreamento de ID persistente no estado próprio e ele é usado como ID de referência, se o cookie AMCV tiver expirado. Verifique o cookie AMCV aqui para obter mais detalhes |
+| Localização | Somente para clientes CNAME. Não aplicável para cenários de terceiros. O cookie é armazenado em seu domínio, o mesmo domínio usado pelo CNAME e pela solicitação de imagem do Analytics |
 | Tamanho | 45 bytes |
 
 ## Nome do cookie: s_cc {#section-03aa90aa7e36427b8cb12dc4a0f0291e}
@@ -56,7 +56,7 @@ Mais informações disponíveis na ajuda do Analytics sobre [Cookies primários]
 
 | Atributo | Descrição |
 |--- |--- |
-| Informações armazenadas | Esse cookie é definido e lido pelo código JavaScript quando a funcionalidade ClickMap ou a funcionalidade Mapa de atividades são ativadas; ele contém informações sobre o link anterior que foi clicado pelo usuário |
+| Informações armazenadas | Esse cookie é definido e lido pelo código JavaScript quando a funcionalidade ClickMap ou a funcionalidade Activity Map são ativadas; ele contém informações sobre o link anterior que foi clicado pelo usuário |
 | Expiração | Este cookie é um cookie de sessão e expira quando o navegador é fechado |
 | Uso | Somente um cookie para todas as contas |
 | Localização | Esse cookie é armazenado no domínio da página |
@@ -66,10 +66,10 @@ Mais informações disponíveis na ajuda do Analytics sobre [Cookies primários]
 
 | Atributo | Descrição |
 |--- |--- |
-| Informações armazenadas | Carimbo de data/hora da ID de visitante exclusiva. |
+| Informações armazenadas | Carimbo de data/hora da ID de visitante exclusiva |
 | Expiração | 2 anos |
 | Uso | Este cookie é usado para identificar um visitante exclusivo |
-| Localização | Este cookie é armazenado no domínio da solicitação de imagem - normalmente um subdomínio específico do cliente em 2o7.net ou omtrdc.net se você estiver usando cookies de terceiros ou se o domínio estiver usando cookies primários. |
+| Localização | Este cookie é armazenado no domínio da solicitação de imagem - normalmente um subdomínio específico do cliente em 2o7.net ou omtrdc.net se você estiver usando cookies de terceiros ou se o domínio estiver usando cookies primários |
 | Tamanho | 44 bytes |
 
 >[!NOTE]
@@ -82,8 +82,8 @@ Mais informações disponíveis na ajuda do Analytics sobre [Cookies primários]
 |--- |--- |
 | Informações armazenadas | Carimbo de data/hora da ID do visitante exclusivo de fallback |
 | Expiração | 2 anos |
-| Uso | Este cookie é usado para identificar um visitante exclusivo se o cookie `s_vi` padrão não estiver disponível devido a restrições de cookies de terceiros. Não usado para implementações que usam cookies primários. |
-| Localização | Esse cookie é armazenado em seu domínio como um cookie primário. |
+| Uso | Este cookie é usado para identificar um visitante exclusivo se o cookie `s_vi` padrão não estiver disponível devido a restrições de cookies de terceiros. Não usado para implementações que usam cookies primários |
+| Localização | Esse cookie é armazenado em seu domínio como um cookie primário |
 | Tamanho | 33 bytes |
 
 ## Sinalizadores de cookie
@@ -92,11 +92,11 @@ A tabela a seguir descreve os sinalizadores dos cookies do Analytics:
 
 | Cookie (definido por) | httpOnly | Seguro | SameSite |
 |--- |--- |--- |--- |
-| s_vi (Resposta http) | Não | Sim quando SameSite for &quot;None&quot; e a conexão usar HTTPS | &quot;Lax&quot; por padrão ao usar CNAME. &quot;None&quot; ao usar 2o7.net ou omtrdc.net. |
+| s_vi (Resposta http) | Não | Sim quando SameSite for &quot;None&quot; e a conexão usar HTTPS | &quot;Lax&quot; por padrão ao usar CNAME. &quot;None&quot; ao usar 2o7.net ou omtrdc.net |
 | s_ecid (Resposta http) | Não | Não | &quot;Lax&quot; |
-| s_fid (Javascript) | Não | Não | Unset |
-| s_cc (Javascript) | Não | Não | Unset |
-| s_sq (Javascript) | Não | Não | Unset |
+| s_fid (Javascript) | Não | Não | Não definido |
+| s_cc (Javascript) | Não | Não | Não definido |
+| s_sq (Javascript) | Não | Não | Não definido |
 
 >[!NOTE]
 >

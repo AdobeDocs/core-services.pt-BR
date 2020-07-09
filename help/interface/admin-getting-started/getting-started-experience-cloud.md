@@ -6,11 +6,11 @@ seo-title: Fazer logon e gerenciar as configurações do seu perfil
 solution: Experience Cloud
 title: Fazer logon e gerenciar as configurações do perfil
 uuid: c1e13b99-0069-4fdb-8d72-ddcec3ed1121
-translation-type: ht
-source-git-commit: 0bc7032d0052ba03beac1140dfbfd630e1802bfd
-workflow-type: ht
-source-wordcount: '968'
-ht-degree: 100%
+translation-type: tm+mt
+source-git-commit: c8d38647750747212c2b825feff600419c1f3352
+workflow-type: tm+mt
+source-wordcount: '962'
+ht-degree: 97%
 
 ---
 
@@ -27,14 +27,11 @@ Fazer logon na Experience Cloud (em vez de fazer logon em uma só solução) per
 
 Faça logon e verifique se você está na [organização](../admin-getting-started/organizations.md#topic_C31CB834F109465A82ED57FF0563B3F1) correta.
 
-1. Clique no menu suspenso da Experience Cloud (![](assets/menu-icon.png)) e depois clique em **[!UICONTROL Administração]**.
+1. Click the Experience Cloud menu ( ![](assets/menu-icon.png)), then click **[!UICONTROL Administration]**.
 
-   ![](assets/admin-link.png)
-
-   Caso o link **[!UICONTROL Administração]** não apareça, você não é um administrador da Experience Cloud para a [organização](../admin-getting-started/organizations.md#topic_C31CB834F109465A82ED57FF0563B3F1) exibida (nesse exemplo, Adobe Corp). Para obter ajuda para se tornar um administrador, entre em contato com o Atendimento ao cliente ou com um administrador atual da Experience Cloud na sua empresa.
+   If the **[!UICONTROL Administration]** link is not shown, you are not an Experience Cloud administrator for the displayed [organization](../admin-getting-started/organizations.md#topic_C31CB834F109465A82ED57FF0563B3F1). Para obter ajuda para se tornar um administrador, entre em contato com o Atendimento ao cliente ou com um administrador atual da Experience Cloud na sua empresa.
 1. Clique em **[!UICONTROL Administração]**.
 
-   ![](assets/admin-landing.png)
 1. Para continuar, clique em um dos links a seguir:
 
 | Elemento | Descrição |

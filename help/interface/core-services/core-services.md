@@ -6,9 +6,9 @@ seo-title: Ativar as soluções Experience Cloud dos serviços principais
 solution: Experience Cloud
 title: Ativar as soluções dos serviços principais
 index: true
-translation-type: ht
-source-git-commit: 0bc7032d0052ba03beac1140dfbfd630e1802bfd
-workflow-type: ht
+translation-type: tm+mt
+source-git-commit: c8d38647750747212c2b825feff600419c1f3352
+workflow-type: tm+mt
 source-wordcount: '2358'
 ht-degree: 100%
 
@@ -84,8 +84,6 @@ As seções a seguir descrevem como modernizar sua implementação. A moderniza�
 O [!UICONTROL Serviço da Experience Cloud ID] fornece uma ID comum para integração entre soluções. Ele fornece identificação de visitantes entre domínios e um caminho para segmentação e personalização entre dispositivos/navegadores com base nos dados do CRM carregados pelos [!UICONTROL Atributos do cliente].
 
 O método mais simples de habilitar os serviços principais da Experience Cloud é ativá-la automaticamente para o Analytics e o Adobe Target por meio da [extensão do Serviço da Experience Cloud ID](https://docs.adobe.com/content/help/en/launch/using/implement/solutions/idservice-save.html) no [!UICONTROL Experience Platform Launch] ou por meio da ferramenta ECID no [!UICONTROL Dynamic Tag Management]. (O Experience Platform Launch é altamente recomendado.)
-
-![](assets/menu-activation-shell.png)
 
 Para obter a ajuda completa do Serviço da Experience Cloud ID (antiga ID de visitante), acesse [aqui](https://docs.adobe.com/content/help/pt-BR/id-service/using/home.html).
 
@@ -187,20 +185,11 @@ Consulte [Gerenciamento de usuários e produtos da Experience Cloud](../admin-ge
 
 ### Atributos do cliente
 
-<!-- <p> 
- <note type="important">
-  To use the Customer Attributes feature, users must belong to the 
-  <span class="term"> Adobe Customer Attributes</span> group, and to solution-level groups (Analytics or Adobe Target). 
- </note> </p> 
- -->
-
 Os usuários adicionados ao grupo [!UICONTROL Atributos do cliente] verão o item de menu [!UICONTROL Atributos do cliente] à esquerda da interface da Experience Cloud.
 
 ## Etapa 8. Começar a usar os serviços principais {#section_960C06093623462E8EA247B3E97274A1}
 
 Tire proveito dos seguintes recursos.
-
-![](assets/menu-audiences-shell.png)
 
 ### [!UICONTROL People] > [!UICONTROL Atributos do cliente]
 

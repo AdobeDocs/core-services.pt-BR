@@ -6,9 +6,9 @@ seo-title: Ativar as soluções Experience Cloud dos serviços principais
 solution: Experience Cloud
 title: Ativar as soluções dos serviços principais
 index: true
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: c8d38647750747212c2b825feff600419c1f3352
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '2358'
 ht-degree: 100%
 
@@ -79,7 +79,7 @@ Consulte [Vincular contas na Experience Cloud](../admin-getting-started/organiza
 
 As seções a seguir descrevem como modernizar sua implementação. A modernização da implementação habilita os serviços principais na Experience Cloud.
 
-## Etapa 2: Implemente o [!UICONTROL Serviço da Experience Cloud ID] usando o [!UICONTROL Experience Platform Launch] ou o [!UICONTROL Dynamic Tag Management] {#section_3C9F6DF37C654D939625BB4D485E4354}
+## Etapa 2. Implemente o [!UICONTROL Serviço da Experience Cloud ID] usando o [!UICONTROL Experience Platform Launch] ou o [!UICONTROL Dynamic Tag Management] {#section_3C9F6DF37C654D939625BB4D485E4354}
 
 O [!UICONTROL Serviço da Experience Cloud ID] fornece uma ID comum para integração entre soluções. Ele fornece identificação de visitantes entre domínios e um caminho para segmentação e personalização entre dispositivos/navegadores com base nos dados do CRM carregados pelos [!UICONTROL Atributos do cliente].
 

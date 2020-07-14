@@ -7,11 +7,11 @@ solution: Experience Cloud,Analytics
 title: Cookies próprios
 index: y
 snippet: y
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: c8d38647750747212c2b825feff600419c1f3352
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '1464'
-ht-degree: 96%
+ht-degree: 100%
 
 ---
 
@@ -39,7 +39,7 @@ Com sua permissão, trabalharemos com a CA para emitir, implantar e gerenciar um
 
 O Adobe Managed Certificate Program é o processo recomendado para implementar um novo certificado SSL próprio para cookies próprios.
 
-O programa de certificado gerenciado da Adobe permite que você implemente um novo certificado SSL primário para cookies primários sem custo adicional (para seus primeiros 100 CNAMEs). Se você tem seu próprio certificado SSL gerenciado pelo cliente no momento, fale com o Atendimento ao cliente da Adobe sobre a migração para o Adobe Managed Certificate Program.
+O programa Adobe Managed Certificate permite implementar um novo certificado SSL próprio para cookies próprios sem custo adicional (para os primeiros 100 CNAMESs). Se você tem seu próprio certificado SSL gerenciado pelo cliente no momento, fale com o Atendimento ao cliente da Adobe sobre a migração para o Adobe Managed Certificate Program.
 
 ### Implementação
 
@@ -72,7 +72,7 @@ Os certificados SSL expiram todo ano, o que significa que a Adobe deve comprar u
 | Pergunta | Resposta |
 |---|---|
 | **Esse processo é seguro?** | Sim, o programa Adobe Managed é mais seguro que nosso método antigo, pois o certificado ou a chave privada não muda de mãos fora da Adobe e da autoridade de certificação emissora. |
-| **Como a Adobe pode comprar um certificado para o nosso domínio?** | The certificate can only be purchased when you have pointed the specified hostname (for example, `smetrics.example.com`) to an Adobe owned hostname. Essa ação basicamente delega esse nome de host à Adobe e permite que a Adobe compre o certificado em seu nome. |
+| **Como a Adobe pode comprar um certificado para o nosso domínio?** | O certificado só pode ser comprado quando você aponta o nome de host especificado (por exemplo, `smetrics.example.com`) para um nome de host da Adobe. Essa ação basicamente delega esse nome de host à Adobe e permite que a Adobe compre o certificado em seu nome. |
 | **É possível solicitar que o certificado seja revogado?** | Sim, como proprietário do domínio, você está autorizado a solicitar a revogação do certificado. Você só precisará abrir um ticket no Atendimento ao cliente para que isso seja concluído. |
 | **Esse certificado usará a criptografia SHA-2?** | Sim, a Adobe trabalhará com a DigiCert para emitir um certificado SHA-2. |
 | **Isso gera custo adicional?** | Não, a Adobe disponibiliza esse serviço para todos os clientes atuais da Adobe Digital Experience sem custo adicional. |
@@ -83,10 +83,10 @@ A equipe de operações de rede da organização deve configurar os servidores D
 
 O especialista FPC fornece os nomes de host configurados e os CNAMEs para os quais eles devem ser apontados. Por exemplo:
 
-* **Nome de host SSL**:`smetrics.mysite.com`
-* **CNAME SSL**:`mysite.com.ssl.sc.omtrdc.net`
-* **Nome de host não SSL**:`metrics.mysite.com`
-* **CNAME não SSL**:`mysite.com.sc.omtrdc.net`
+* **Nome de host SSL**: `smetrics.mysite.com`
+* **CNAME SSL**: `mysite.com.ssl.sc.omtrdc.net`
+* **Nome de host não SSL**: `metrics.mysite.com`
+* **CNAME não SSL**: `mysite.com.sc.omtrdc.net`
 
 Contanto que o código de implementação não seja alterado, esta etapa não afetará a coleta de dados e poderá ser feita a qualquer momento após a atualização do código de implementação.
 
@@ -153,12 +153,12 @@ Antes de editar o código no site para utilizar cookies próprios, preencha este
 Após verificar que o nome de host está respondendo e encaminhando para os servidores de coleta de dados da Adobe, você pode alterar a implementação para apontar para seus próprios nomes de host da coleta de dados.
 
 1. Abra seu arquivo JavaScript principal (`s_code.js/AppMeasurement.js`).
-1. Se quiser atualizar a versão de seu código, substitua o arquivo`s_code.js/AppMeasurement.js` completo pela versão mais nova e substitua todos os plug-ins ou personalizações (se houver). **Ou**, se quiser atualizar o código pertinente somente a cookies próprios, localize as variáveis s.trackingServer e s.trackingServerSecure (se estiver usando o SSL) e aponte-as para os novos nomes de host da coleta de dados. Usando o mysite.com como exemplo:`s.trackingServer = "metrics.mysite.com"` `s.trackingServerSecure = "smetrics.mysite.com"`
+1. Se quiser atualizar a versão de seu código, substitua o arquivo`s_code.js/AppMeasurement.js` completo pela versão mais nova e substitua todos os plug-ins ou personalizações (se houver). **Ou**, se quiser atualizar o código pertinente somente a cookies próprios, localize as variáveis s.trackingServer e s.trackingServerSecure (se estiver usando o SSL) e aponte-as para os novos nomes de host da coleta de dados. Usando o mysite.com como exemplo: `s.trackingServer = "metrics.mysite.com"` `s.trackingServerSecure = "smetrics.mysite.com"`
 
 1. Carregue o arquivo JavaScript principal atualizado em seu site.
 
 1. Se você estiver mudando de uma implementação que existe a muito tempo para cookies próprios ou mudando para um nome de host de coleção própria diferente, é recomendável migrar os visitantes do domínio anterior para o novo domínio.
 
-Consulte [Migração de visitantes](https://docs.adobe.com/content/help/pt-BR/analytics/technotes/visitor-identification.html) no Guia de implementação do Analytics.
+Consulte [Migração de visitantes](https://docs.adobe.com/content/help/pt-BR/analytics/components/metrics/unique-visitors.html) no Guia de implementação do Analytics.
 
 Após carregar o arquivo JavaScript, tudo é configurado para a coleta de dados de cookie próprio. É recomendável monitorar os relatórios do Analytics das próximas horas, para garantir que a coleta de dados continue normalmente. Caso contrário, verifique se todas as etapas acima foram concluídas e peça para um dos usuários suportados da organização entrar em contato com o Atendimento ao cliente.

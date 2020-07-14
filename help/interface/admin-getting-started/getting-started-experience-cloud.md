@@ -6,11 +6,11 @@ seo-title: Fazer logon e gerenciar as configurações do seu perfil
 solution: Experience Cloud
 title: Fazer logon e gerenciar as configurações do perfil
 uuid: c1e13b99-0069-4fdb-8d72-ddcec3ed1121
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: c8d38647750747212c2b825feff600419c1f3352
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '962'
-ht-degree: 97%
+ht-degree: 100%
 
 ---
 
@@ -27,9 +27,9 @@ Fazer logon na Experience Cloud (em vez de fazer logon em uma só solução) per
 
 Faça logon e verifique se você está na [organização](../admin-getting-started/organizations.md#topic_C31CB834F109465A82ED57FF0563B3F1) correta.
 
-1. Click the Experience Cloud menu ( ![](assets/menu-icon.png)), then click **[!UICONTROL Administration]**.
+1. Clique no menu suspenso da Experience Cloud (![](assets/menu-icon.png)) e depois clique em **[!UICONTROL Administration]**.
 
-   If the **[!UICONTROL Administration]** link is not shown, you are not an Experience Cloud administrator for the displayed [organization](../admin-getting-started/organizations.md#topic_C31CB834F109465A82ED57FF0563B3F1). Para obter ajuda para se tornar um administrador, entre em contato com o Atendimento ao cliente ou com um administrador atual da Experience Cloud na sua empresa.
+   Caso o link **[!UICONTROL Administration]** não apareça, você não é um administrador da Experience Cloud para a [organização](../admin-getting-started/organizations.md#topic_C31CB834F109465A82ED57FF0563B3F1) exibida. Para obter ajuda para se tornar um administrador, entre em contato com o Atendimento ao cliente ou com um administrador atual da Experience Cloud na sua empresa.
 1. Clique em **[!UICONTROL Administração]**.
 
 1. Para continuar, clique em um dos links a seguir:
@@ -39,7 +39,7 @@ Faça logon e verifique se você está na [organização](../admin-getting-start
 | [Noções básicas do Admin Console](https://helpx.adobe.com/br/marketing-cloud/how-to/first-time-setup.html) | Saiba mais sobre as etapas iniciais necessárias para começar a usar as soluções da Experience Cloud. |
 | [Configurar identidade](https://helpx.adobe.com/br/enterprise/using/set-up-identity.html) | Defina e configure um sistema de identidade com base no qual os usuários finais serão autenticados. |
 | [Gerenciamento de usuários](https://helpx.adobe.com/br/enterprise/using/users.html) | Saiba mais sobre como fazer logon no Admin Console e gerenciar permissões de usuário e perfis de produto da Experience Cloud. |
-| Clique em [Iniciar o Admin Console](../admin-getting-started/admin-getting-started.md) | O Admin Console é o local central para gerenciar usuários e direitos de produtos da Adobe em toda a organização.<br>Também é possível fazer logon no Admin Console por meio de um [link direto](https://adminconsole.adobe.com). |
+| [Iniciar o Admin Console](../admin-getting-started/admin-getting-started.md) | O Admin Console é o local central para gerenciar usuários e direitos de produtos da Adobe em toda a organização.<br>Também é possível fazer logon no Admin Console por meio de um [link direto](https://adminconsole.adobe.com). |
 | [Gerenciar usuários da Creative Cloud](../experience-cloud-assets/t-admin-add-cc-user.md) | O Experience Cloud Assets permite que os profissionais de marketing compartilhem, sincronizem e colaborem em pastas com designers e outros ativos criativos usando a Creative Cloud. Gerencie aqui os usuários da Creative Cloud aprovados para colaborar com sua organização. |
 | [Mapear os conjuntos de relatórios](../core-services/core-services.md) | (Somente no Analytics) Os serviços principais da Experience Cloud estão associados a uma organização em vez de a um conjunto de relatórios individual. Para garantir o funcionamento correto desses serviços, cada conjunto de relatórios do Analytics deve ser mapeado para uma organização. (Essa tarefa faz parte de um fluxo de trabalho mais amplo para [habilitar o Analytics para os serviço principais](../core-services/core-services.md#concept_07ED1D5C64234E77976E6D572E78FB9C)). |
 | [ID da organização](../admin-getting-started/organizations.md) | A *ID da organização* está localizada na parte inferior da página Administração. Essa ID é a ID associada à empresa provisionada pela Experience Cloud. A ID é uma sequência de 24 caracteres alfanuméricos seguidos por (e deve incluir) @AdobeOrg. |
@@ -57,7 +57,7 @@ Ajuda para usuários não administrativos que fazem logon na Experience Cloud.
 
    O administrador da Experience Cloud pode ajudar você a determinar o tipo de conta (Adobe ID ou Enterprise ID).
 
-1. Na página de aterrissagem, clique no ícone do seletor ![](assets/menu-icon.png) para acessar o menu suspenso.
+1. Na página de aterrissagem, clique no ícone do seletor ![](assets/menu-icon.png) para acessar o menu suspenso.
 
    ![](assets/experience-cloud-core-services.png)
 
@@ -79,7 +79,7 @@ Ajuda para usuários não administrativos que fazem logon na Experience Cloud.
 
 Receba notificações (por email ou no produto) sobre atualizações do sistema, avisos de manutenção, publicações, menções e ativos compartilhados. Além disso, também é possível especificar os produtos e soluções dos quais deseja receber notificações, incluindo o status de carregamento dos atributos do cliente.
 
-Para navegar até Notificações, clique no ícone **[!UICONTROL Notificações]**, ![](assets/notifications-icon.png) em seguida clique no ícone **[!UICONTROL Configurações]** ![](assets/icon_edit_board.png).
+Para navegar até Notificações, clique no ícone **[!UICONTROL Notificações]**, ![](assets/notifications-icon.png) em seguida clique no ícone **[!UICONTROL Configurações]** ![](assets/icon_edit_board.png).
 
 Você pode classificar a tela Notificações com base nos tipos de mensagens importantes para você e pesquisar por elas. Você também pode:
 

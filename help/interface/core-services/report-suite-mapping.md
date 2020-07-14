@@ -4,11 +4,11 @@ seo-description: Saiba mais sobre como mapear um ou vários conjuntos de relató
 seo-title: Mapear conjuntos de relatórios para uma organização
 title: Mapear conjuntos de relatórios para uma organização
 uuid: b983d5a6-b3d0-4137-ac53-bc5681d3e58b
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: c8d38647750747212c2b825feff600419c1f3352
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '1201'
-ht-degree: 99%
+ht-degree: 100%
 
 ---
 
@@ -17,7 +17,7 @@ ht-degree: 99%
 
 >[!NOTE]
 >
->A funcionalidade Mapeamento do conjunto de relatórios será substituída em novembro de 2020. Mapeie todos os conjuntos de relatórios pendentes em preparação para isso. Entre em contato com o atendimento ao cliente com qualquer pergunta.
+>A funcionalidade Mapeamento do conjunto de relatórios será substituída em novembro de 2020. Mapeie todos os conjuntos de relatórios pendentes como preparo. Entre em contato com o atendimento ao cliente com qualquer pergunta.
 
 Saiba mais sobre como mapear um ou vários conjuntos de relatórios para uma organização.
 

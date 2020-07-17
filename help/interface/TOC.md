@@ -5,15 +5,15 @@ user-guide-description: Adobe Experience Cloud services include the People (Audi
 user-guide-url: https://www.adobe.com
 index: true
 translation-type: tm+mt
-source-git-commit: 323e562d41daa547d488497116cd5ffa783f6426
+source-git-commit: ca03abbeebdd6c1dcf9dcb881170cc79adf1ba4a
 workflow-type: tm+mt
 source-wordcount: '356'
-ht-degree: 100%
+ht-degree: 98%
 
 ---
 
 
-# Guia do Usuário dos serviços principais {#interface}
+# Experience Cloud interface help {#interface}
 
 + [Experience Cloud e documentação do produto](experience-cloud.md)
 + Serviços principais na Experience Cloud {#about-core-services}

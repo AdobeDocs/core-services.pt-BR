@@ -6,10 +6,10 @@ seo-title: Ativar as soluções Experience Cloud dos serviços principais
 solution: Experience Cloud
 title: Ativar as soluções dos serviços principais
 index: true
-translation-type: ht
-source-git-commit: c8d38647750747212c2b825feff600419c1f3352
-workflow-type: ht
-source-wordcount: '2358'
+translation-type: tm+mt
+source-git-commit: ca03abbeebdd6c1dcf9dcb881170cc79adf1ba4a
+workflow-type: tm+mt
+source-wordcount: '2356'
 ht-degree: 100%
 
 ---
@@ -146,7 +146,7 @@ No [!UICONTROL Dynamic Tag Management], clique em **[!UICONTROL <Web Property Na
    >
    >Todos os clientes do Analytics já foram provisionados com os serviços principais, como atributos do cliente. Se você não for um cliente do Analytics, entre em contato com o Atendimento ao cliente para solicitar o provisionamento.
 
-## Etapa 6. Verificar a implementação dos serviços principais {#section_E641782A0F4F44AF8C9C91216BE330D5}
+## Etapa 6. Verifique a implementação {#section_E641782A0F4F44AF8C9C91216BE330D5}
 
 Use o processo a seguir para garantir que o Serviço da Experience Cloud ID seja implementado corretamente no site.
 

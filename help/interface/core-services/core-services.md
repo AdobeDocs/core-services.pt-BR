@@ -2,33 +2,33 @@
 description: Implemente a Experience Cloud e torne-se um administrador. Esse processo moderniza suas soluções para recursos como atributos do cliente e públicos.
 keywords: core services;Customer Attributes
 seo-description: Implemente a Experience Cloud e torne-se um administrador. Esse processo moderniza suas soluções para recursos como atributos do cliente e públicos.
-seo-title: Ativar suas soluções de Experience Cloud para atributos e audiências do cliente
+seo-title: Ativar as soluções da Experience Cloud para atributos e públicos-alvo do cliente
 solution: Experience Cloud
 title: Ativar as soluções dos serviços principais
 index: true
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: a47dc66b51758ed7e6b465f35375f979b479672f
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '2402'
-ht-degree: 96%
+ht-degree: 100%
 
 ---
 
 
-# Habilitar sua implementação para serviços entre soluções
+# Habilitar a implementação para serviços entre soluções
 
-Se você implementou recentemente o Experience Cloud usando o Experience Platform Launch, já está configurado para Atributos do cliente e Audiências Experience Cloud. Você também pode gerenciar usuários e produtos no Admin Console.
+Se você implementou a Experience Cloud recentemente usando o Experience Platform Launch, você já configurou os atributos do cliente e os públicos-alvo da Experience Cloud. Você também pode gerenciar usuários e produtos no Admin Console.
 
-Para clientes existentes, talvez seja necessário modernizar as implementações da solução e implementar o Experience Cloud. Isso permite que você aproveite os atributos do cliente e os recursos de audiência na Adobe Analytics, Audience Manager e Adobe Target. Para fazer isso, você deve:
+Para clientes atuais, talvez seja necessário modernizar as implementações da solução e implementar a Experience Cloud. Dessa forma, você aproveitará os atributos do cliente e os recursos de público-alvo no Adobe Analytics, Audience Manager e Adobe Target. Para fazer isso, você deve:
 
 1. [Associar-se à Experience Cloud e tornar-se um administrador](#section_2423F0BD3DF642658103310EE5EA6154)
 1. [Implementar o Serviço da Experience Cloud ID](#section_3C9F6DF37C654D939625BB4D485E4354)
 1. [Mapear conjuntos de relatórios para uma organização da Experience Cloud](#section_7B08516B01BA421681DF03D0E86CE3BA)
 1. [Atualizar o código AppMeasurement do Analytics](#section_1798D9D0F05C47E29816AC4EEB9A0913)
 1. [Atualizar a implementação do Adobe Target](#section_C2F4493C7A36406DAE2266B429A4BD24)
-1. [Verifique a implementação](#section_E641782A0F4F44AF8C9C91216BE330D5)
+1. [Verificar a implementação](#section_E641782A0F4F44AF8C9C91216BE330D5)
 1. [Gerenciar usuários e produtos](#section_B6E95F4E0E12483CB9DA99CBC0C5A4AF)
-1. [Começar a compartilhar dados de atributo e audiência](#section_960C06093623462E8EA247B3E97274A1)
+1. [Começar a compartilhar dados de atributo e público-alvo](#section_960C06093623462E8EA247B3E97274A1)
 
 ## Etapa 1. Associar-se à Experience Cloud e tornar-se um administrador {#section_2423F0BD3DF642658103310EE5EA6154}
 
@@ -148,7 +148,7 @@ No [!UICONTROL Dynamic Tag Management], clique em **[!UICONTROL <Web Property Na
    >
    >Todos os clientes do Analytics já foram provisionados com os serviços principais, como atributos do cliente. Se você não for um cliente do Analytics, entre em contato com o Atendimento ao cliente para solicitar o provisionamento.
 
-## Etapa 6. Verifique a implementação {#section_E641782A0F4F44AF8C9C91216BE330D5}
+## Etapa 6. Verificar a implementação {#section_E641782A0F4F44AF8C9C91216BE330D5}
 
 Use o processo a seguir para garantir que o Serviço da Experience Cloud ID seja implementado corretamente no site.
 
@@ -189,7 +189,7 @@ Consulte [Gerenciamento de usuários e produtos da Experience Cloud](../admin-ge
 
 Os usuários adicionados ao grupo [!UICONTROL Atributos do cliente] verão o item de menu [!UICONTROL Atributos do cliente] à esquerda da interface da Experience Cloud.
 
-## Etapa 8. Começar a compartilhar dados de atributo e audiência {#section_960C06093623462E8EA247B3E97274A1}
+## Etapa 8. Começar a compartilhar dados de atributo e público-alvo {#section_960C06093623462E8EA247B3E97274A1}
 
 Tire proveito dos seguintes recursos.
 

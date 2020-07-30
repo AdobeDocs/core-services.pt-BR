@@ -2,15 +2,15 @@
 description: Perguntas frequentes e respostas para administradores na Experience Cloud.
 keywords: core services, Experience Cloud, Experience Platform, Analytics, Target, user management.
 seo-description: Perguntas frequentes e respostas para administradores na Experience Cloud.
-seo-title: Perguntas frequentes sobre os serviços do Experience Cloud Core.
+seo-title: Perguntas frequentes sobre os serviços principais da Experience Cloud.
 solution: Adobe Experience Cloud
 title: Perguntas frequentes
 index: true
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: ca03abbeebdd6c1dcf9dcb881170cc79adf1ba4a
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '731'
-ht-degree: 98%
+ht-degree: 100%
 
 ---
 
@@ -28,7 +28,7 @@ Se a implementação foi provisionada para os serviços principais, consulte [At
 1. [Mapear conjuntos de relatórios para uma organização da Experience Cloud](../core-services/core-services.md#concept_apg_zq2_rw)
 1. [(Somente no Analytics) Modernizar o código do Analytics AppMeasurement](../core-services/core-services.md#section_1798D9D0F05C47E29816AC4EEB9A0913)
 1. [(Somente no Adobe Target) Modernizar a implementação do Adobe Target](../core-services/core-services.md#section_C2F4493C7A36406DAE2266B429A4BD24)
-1. [Verifique a implementação](../core-services/core-services.md#section_E641782A0F4F44AF8C9C91216BE330D5)
+1. [Verificar a implementação](../core-services/core-services.md#section_E641782A0F4F44AF8C9C91216BE330D5)
 1. [Gerenciar usuários e produtos](../core-services/core-services.md#section_B6E95F4E0E12483CB9DA99CBC0C5A4AF)
 1. [Começar a usar os serviços principais](../core-services/core-services.md#section_960C06093623462E8EA247B3E97274A1)
 
@@ -81,7 +81,7 @@ Consulte [Gerenciar contas de usuário](../admin-getting-started/organizations.m
 
 ## O que é uma organização?
 
-Uma *organização* da  é a entidade que permite ao administrador configurar grupos e usuários, além de controlar o logon único na Experience Cloud. A organização funciona como uma empresa para logon que abrange os produtos e as soluções da Experience Cloud. Frequentemente, a organização é o nome da empresa. No entanto, uma empresa pode ter muitas organizações.
+Uma *organização* é a entidade que permite ao administrador configurar grupos e usuários, além de controlar o logon único na Experience Cloud. A organização funciona como uma empresa para logon que abrange os produtos e as soluções da Experience Cloud. Frequentemente, a organização é o nome da empresa. No entanto, uma empresa pode ter muitas organizações.
 
 ## Onde posso encontrar minha ID da organização de IMS?
 

@@ -6,11 +6,11 @@ seo-title: Ajuda e documentação do produto da Adobe Experience Cloud e dos ser
 solution: Adobe Experience Cloud
 title: Ajuda da Experience Cloud e principais serviços
 uuid: aec6f689-e617-4876-ae6c-e961cfcb991a
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: ca03abbeebdd6c1dcf9dcb881170cc79adf1ba4a
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '405'
-ht-degree: 94%
+ht-degree: 100%
 
 ---
 
@@ -23,7 +23,7 @@ A Experience Cloud é a família integrada de soluções e serviços de marketin
 
 Esta página fornece acesso à documentação do produto para os seguintes recursos e serviços:
 
-* [Biblioteca de Audiências](audience-library/audience-library.md)
+* [Biblioteca de público-alvo](audience-library/audience-library.md)
 * [Atributos do cliente](attributes/attributes.md)
 * [Triggers](activation/triggers.md)
 * [Ativos da Experience Cloud](experience-cloud-assets/experience-cloud-assets.md)
@@ -41,7 +41,7 @@ Esta página fornece acesso à documentação do produto para os seguintes recur
 * [Gerenciamento de perfil na Adobe Experience Cloud](https://theblog.adobe.com/profile-management-adobe-marketing-cloud-comes-together/) (blog)
 * [Pré-busca DNS](admin-getting-started/admin-getting-started.md#concept_6BC8C6856E3644F8956D7AD0A96383B7)
 
-## Ajuda relacionada ao Experience Cloud
+## Ajuda relacionada da Experience Cloud
 
 * [Documentação do produto para todas as soluções da Experience Cloud](https://docs.adobe.com/content/help/pt-BR/experience-cloud/user-guides/home.html) - Procure ajuda na Aprendizagem e suporte da Experience Cloud
 * [Notas de versão e atualizações de produtos](https://docs.adobe.com/content/help/pt-BR/release-notes/experience-cloud/current.html) - Novidades na Experience Cloud e assinatura para obter atualizações

@@ -7,10 +7,10 @@ solution: Experience Cloud,Analytics
 title: Cookies próprios
 index: y
 snippet: y
-translation-type: ht
-source-git-commit: c8d38647750747212c2b825feff600419c1f3352
-workflow-type: ht
-source-wordcount: '1464'
+translation-type: tm+mt
+source-git-commit: f9e58c6d2054a5d53ea24831bf5979c2fc3dc53b
+workflow-type: tm+mt
+source-wordcount: '1462'
 ht-degree: 100%
 
 ---
@@ -90,7 +90,7 @@ O especialista FPC fornece os nomes de host configurados e os CNAMEs para os qua
 
 Contanto que o código de implementação não seja alterado, esta etapa não afetará a coleta de dados e poderá ser feita a qualquer momento após a atualização do código de implementação.
 
->[!NObservação:]
+>[!NOTE]
 >
 >O Serviço de ID de visitante da Experience Cloud fornece uma alternativa à configuração de um CNAME para ativar cookies primários, mas, devido a alterações recentes do ITP da Apple, ainda é recomendável alocar um CNAME mesmo quando o Serviço da Experience Cloud ID é usado.
 
@@ -104,7 +104,7 @@ Se você tiver um CNAME configurado e o certificado instalado, poderá usar o na
 
 `https://sstats.adobe.com/_check`
 
->[!NObservação:]
+>[!NOTE]
 >
 >Você verá um aviso de segurança se um certificado não estiver instalado.
 

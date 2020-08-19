@@ -6,11 +6,11 @@ seo-title: Notas de versão cumulativas
 solution: Experience Cloud
 title: Notas de versão cumulativas
 uuid: fcff8cc6-e587-4bf2-9a75-261d4eabc7d4
-translation-type: ht
-source-git-commit: 1f7672f43e870c7ab66d68f451c031ea2c5af15b
-workflow-type: ht
-source-wordcount: '3929'
-ht-degree: 100%
+translation-type: tm+mt
+source-git-commit: fa03e384d1dc878d45ef4b8d1f6fe269734ea891
+workflow-type: tm+mt
+source-wordcount: '3968'
+ht-degree: 99%
 
 ---
 
@@ -23,6 +23,12 @@ Para obter uma lista de atualizações de documentação, consulte [Experience C
 
 Para obter as notas de versão que abrangem todas as soluções, consulte [Notas de versão da Experience Cloud](https://docs.adobe.com/content/help/pt-BR/release-notes/experience-cloud/current.html).
 
+## Agosto - 2020
+
+| Recurso | Descrição |
+| -----------| ---------- |
+| Ferramenta de administração - políticas | Esta página exibe a lista completa das políticas de Experience Cloud na sua organização. Fornece informações sobre produtos, instâncias, usuários e desenvolvedores. Você pode pesquisar, classificar e filtrar visualizações personalizadas da lista de políticas. Consulte a ajuda da [Ferramenta de administração da Experience Cloud](../admin-getting-started/admin-tool-experience-cloud.md) para obter detalhes. |
+
 ## Abril - 2020
 
 * A página do [!UICONTROL Feed] da Experience Cloud foi substituída. (EXC-8505)
@@ -32,7 +38,7 @@ Para obter as notas de versão que abrangem todas as soluções, consulte [Notas
 
 | Recurso | Descrição |
 | -----------| ---------- |
-| Ferramenta de administração - exibir detalhes do usuário | Os administradores podem exibir uma lista classificável e filtrável de todos os usuários da Experience Cloud e seus detalhes na nova Ferramenta de administração. Os detalhes do usuário incluem o acesso ao produto, as funções e as últimas informações acessadas de um usuário. Consulte a ajuda da [Ferramenta de administração da Experience Cloud](https://docs.adobe.com/content/help/pt-BR/core-services/interface/manage-users-and-products/admin-tool-experience-cloud.html) para obter detalhes. |
+| Ferramenta de administração - exibir detalhes do usuário | Os administradores podem exibir uma lista classificável e filtrável de todos os usuários da Experience Cloud e seus detalhes na nova Ferramenta de administração. Os detalhes do usuário incluem o acesso ao produto, as funções e as últimas informações acessadas de um usuário. Consulte a ajuda da [Ferramenta de administração da Experience Cloud](../admin-getting-started/admin-tool-experience-cloud.md) para obter detalhes. |
 
 **Correções**
 

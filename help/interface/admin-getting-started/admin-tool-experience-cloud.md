@@ -7,23 +7,27 @@ solution: Experience Cloud
 title: 'Exibir usuários e detalhes do usuário da Experience Cloud '
 index: true
 translation-type: tm+mt
-source-git-commit: 7b34db76f3091c895863ebe771fb3c0baa05b13e
+source-git-commit: fa03e384d1dc878d45ef4b8d1f6fe269734ea891
 workflow-type: tm+mt
 source-wordcount: '1271'
-ht-degree: 54%
+ht-degree: 52%
 
 ---
 
 
 # Usuários e políticas da visualização na Ferramenta de administração
 
-Os administradores podem visualização uma lista classificável e filtrável de todos os usuários e políticas de Experience Cloud com detalhes na Ferramenta de administração. Os detalhes do usuário incluem o acesso ao produto, as funções e as últimas informações acessadas de um usuário. Os detalhes da política incluem usuário (perfil de produto), grupo, desenvolvedor, integração e lista de administração de uma política, bem como permissões e informações detalhadas sobre recursos para a política. (**Observação:** o gerenciamento de usuários e produtos está configurado no [Admin Console](admin-getting-started.md).)
+Os administradores podem visualização uma lista classificável e filtrável de todos os usuários e políticas de Experience Cloud com detalhes na Ferramenta de administração. Os detalhes do usuário incluem o acesso ao produto, as funções e as últimas informações acessadas de um usuário. Os detalhes da política incluem usuário (perfil de produto), grupo, desenvolvedor, integração e lista de administração de uma política, bem como permissões e informações detalhadas sobre recursos para a política.
+
+>[!NOTE]
+>
+>User and product management is configured in the [Admin Console](admin-getting-started.md).
 
 1. Efetue logon no `https://experience.adobe.com/.`
 
    ![](assets/admin-tool.png)
 
-1. Na página inicial da Experience Cloud, clique em **[!UICONTROL Admin Tool.]**
+1. Em Acesso [!UICONTROL rápido], clique em Ferramenta **[!UICONTROL administrativa.]**
 
    (Como alternativa, no URL da página inicial, você pode substituir _início_ por _admin._)
 
@@ -97,6 +101,8 @@ Esta seção exibe uma lista completa de todos os perfis de produtos associados 
 
 Esta página exibe a lista completa das políticas de Experience Cloud na sua organização. Fornece informações sobre produtos, instâncias, usuários e desenvolvedores. Você pode pesquisar, classificar e filtrar visualizações personalizadas da lista de políticas.
 
+![](assets/admin-tool-policies.png)
+
 | Elemento | Descrição |
 |---|---|
 | [!UICONTROL Perfil de produto] | O nome do perfil do produto. A coluna pode ser classificada como A->Z, Z->A. Clique no nome do perfil do produto para ver mais detalhes sobre a política. |
@@ -122,9 +128,16 @@ Você pode pesquisar, classificar ou filtrar as colunas para personalizar a list
 
 Na página [!UICONTROL Políticas] , para visualização dos detalhes de uma política, clique no nome do perfil do produto.
 
-Uma visualização detalhada de cada perfil de produto exibe detalhes importantes sobre os assuntos do perfil de produto (usuários, grupos etc.) e as permissões e os recursos habilitados pelo perfil de produto.  Detalhes do perfil do produto podem ser exportados para arquivos CSV.  A opção [!UICONTROL Exportar CSV] produzirá dois arquivos CSV: Detalhes do assunto (usuários, grupos de usuários, desenvolvedores, integrações, administradores) e itens de Permissões e recursos.
+![](assets/admin-tool-policy-detail.png)
 
-## Seção de resumo
+Uma visualização detalhada de cada perfil de produto exibe detalhes importantes sobre os assuntos do perfil de produto (usuários, grupos e assim por diante). Ele também exibe permissões e recursos habilitados pelo perfil do produto.
+
+Detalhes do perfil do produto podem ser exportados para arquivos CSV. A opção [!UICONTROL Exportar CSV] produz dois arquivos CSV:
+
+* Detalhes do assunto (usuários, grupos de usuários, desenvolvedores, integrações, administradores)
+* Itens de permissões e recursos
+
+## Seção Resumo
 
 Esta seção exibe um resumo do perfil do produto, incluindo:
 
@@ -135,8 +148,7 @@ Esta seção exibe um resumo do perfil do produto, incluindo:
 * Produtos associados
 * Instância
 
-
-## Lista detalhada do assunto
+## Lista detalhada
 
 Esta seção exibe uma lista completa de todos os usuários, grupos de usuários, desenvolvedores, integrações e administradores atribuídos ao perfil do produto.
 
@@ -150,5 +162,4 @@ Esta seção exibe uma lista completa de todos os usuários, grupos de usuários
 
 ## Listas detalhadas de permissões e recursos
 
-Esta seção exibe uma lista completa de permissões e recursos disponíveis para o perfil do produto. As permissões e os recursos incluídos no perfil do produto foram marcados com um &quot; ✔&quot;.  As listas de permissões e recursos foram categorizadas em guias e colunas para facilitar a visualização.  Tabulações e colunas exibem a lista de seções que se aplicam ao produto atual.
-
+Esta seção exibe uma lista completa de permissões e recursos disponíveis para o perfil do produto. As permissões e os recursos incluídos no perfil do produto foram marcados com um &quot; ✔&quot;. As listas de permissões e recursos foram categorizadas em guias e colunas para facilitar a visualização. Tabulações e colunas exibem a lista de seções que se aplicam ao produto atual.

@@ -1,7 +1,7 @@
 ---
-description: Saiba mais sobre a Ferramenta de administração de Experience Cloud, para visualização de uma lista classificável e filtrável de todos os usuários e políticas de Experience Cloud.
+description: Saiba mais sobre a Ferramenta administrativa da Experience Cloud para ver uma lista classificável e filtrável de todos os usuários e políticas da Experience Cloud.
 keywords: core services
-seo-description: Saiba mais sobre a Ferramenta de administração de Experience Cloud, para visualização de uma lista classificável e filtrável de todos os usuários e políticas de Experience Cloud.
+seo-description: Saiba mais sobre a Ferramenta administrativa da Experience Cloud para ver uma lista classificável e filtrável de todos os usuários e políticas da Experience Cloud.
 seo-title: Exibir usuários e detalhes do usuário da Experience Cloud
 solution: Experience Cloud
 title: 'Exibir usuários e detalhes do usuário da Experience Cloud '
@@ -10,14 +10,14 @@ translation-type: tm+mt
 source-git-commit: 82b0b42d8b06388e396bf2959503fe484c8b3a66
 workflow-type: tm+mt
 source-wordcount: '1271'
-ht-degree: 52%
+ht-degree: 93%
 
 ---
 
 
-# Usuários e políticas da visualização na Ferramenta de administração
+# Exibir usuários e políticas da Experience Cloud na Ferramenta administrativa
 
-Os administradores podem visualização uma lista classificável e filtrável de todos os usuários e políticas de Experience Cloud com detalhes na Ferramenta de administração. Os detalhes do usuário incluem o acesso ao produto, as funções e as últimas informações acessadas de um usuário. Os detalhes da política incluem usuário (perfil de produto), grupo, desenvolvedor, integração e lista de administração de uma política, bem como permissões e informações detalhadas sobre recursos para a política.
+Os administradores podem exibir uma lista classificável e filtrável de todos os usuários e políticas da Experience Cloud e seus detalhes na Ferramenta de administração. Os detalhes do usuário incluem o acesso ao produto, as funções e as últimas informações acessadas de um usuário. Os detalhes da política incluem usuário (perfil de produto), grupo, desenvolvedor, integração e lista de administração de uma política, bem como permissões e informações detalhadas sobre recursos da política.
 
 >[!NOTE]
 >
@@ -52,7 +52,7 @@ Esta página exibe a lista completa de usuários com acesso à Experience Cloud 
 Pesquise, classifique ou filtre as colunas para personalizar a lista de usuários.
 
 * Procure usuários por Nome ou Email. As pesquisas correspondem à cadeia de caracteres de texto digitada.
-* Classifique a coluna por valores crescentes ou decrescentes. Isso se aplica às colunas [!UICONTROL Nome,] [!UICONTROL Email] e [!UICONTROL Último logon].
+* Classifique a coluna por valores crescentes ou decrescentes. Isso se aplica às colunas [!UICONTROL Nome], [!UICONTROL Email] e [!UICONTROL Último logon].
 * Clique no ícone **[!UICONTROL Filtrar por]** para aplicar vários filtros a usuários da lista com critérios específicos. Quando várias categorias de filtro são aplicadas, as pesquisas contêm a Solução `AND` TIPO DE ID `AND` de domínio de email.
 
 | Elemento | Descrição |
@@ -97,9 +97,9 @@ Esta seção exibe uma lista completa de todos os perfis de produtos associados 
 | [!UICONTROL Atribuído por grupo] | Nome do grupo de usuários que associa o usuário a um perfil de produto. Os resultados em branco indicam que o usuário foi atribuído ao perfil do produto diretamente, não por meio de um grupo. |
 | [!UICONTROL Funções do produto] | Atribuição de função do usuário no perfil do produto. No momento, essas informações se aplicam somente aos perfis de produtos do Adobe Target. |
 
-## Página Políticas
+## Página de políticas
 
-Esta página exibe a lista completa das políticas de Experience Cloud na sua organização. Fornece informações sobre produtos, instâncias, usuários e desenvolvedores. Você pode pesquisar, classificar e filtrar visualizações personalizadas da lista de políticas.
+Esta página exibe a lista completa das políticas da Experience Cloud na sua organização. Ela fornece informações sobre produtos, instâncias, usuários e desenvolvedores. Pesquise, classifique e filtre exibições personalizadas da lista de políticas.
 
 ![](assets/admin-tool-policies.png)
 
@@ -108,25 +108,25 @@ Esta página exibe a lista completa das políticas de Experience Cloud na sua or
 | [!UICONTROL Perfil de produto] | O nome do perfil do produto. A coluna pode ser classificada como A->Z, Z->A. Clique no nome do perfil do produto para ver mais detalhes sobre a política. |
 | [!UICONTROL Produto] | O produto associado ao perfil do produto. A coluna pode ser classificada como A->Z, Z->A. |
 | [!UICONTROL Instância] | A instância (por exemplo, locatário ou empresa de login) associada ao perfil do produto. Os produtos que não têm instâncias ou locatários exclusivos exibirão um &quot; - &quot; para o valor. A coluna pode ser classificada como A->Z, Z->A. |
-| [!UICONTROL Número de usuários] | Contagem exclusiva de usuários associados ao perfil do produto, incluindo atribuição direta e atribuição de grupo. A coluna pode ser classificada de menor para maior ou maior para menor. |
-| [!UICONTROL Número de desenvolvedores] | Contagem de funções de desenvolvedor associadas ao perfil do produto. A coluna pode ser classificada de menor para maior ou maior para menor. |
+| [!UICONTROL Número de usuários] | Número exclusivo de usuários associados ao perfil do produto, incluindo atribuição direta e atribuição de grupo. A coluna pode ser classificada da menor para a maior ou da maior para a menor. |
+| [!UICONTROL Número de desenvolvedores] | Número de funções de desenvolvedor associadas ao perfil do produto. A coluna pode ser classificada da menor para a maior ou da maior para a menor. |
 
-## Personalizar a visualização de lista de políticas
+## Personalizar a exibição da lista de políticas
 
-Você pode pesquisar, classificar ou filtrar as colunas para personalizar a lista de políticas.
+Pesquise, classifique ou filtre as colunas para personalizar a lista de políticas.
 
-* Procure perfis de produtos por nome. As pesquisas correspondem à cadeia de caracteres de texto digitada.
-* Classifique a coluna por valores crescentes ou decrescentes. Isso se aplica ao Perfil [!UICONTROL do produto,] [!UICONTROL produto,] [!UICONTROL instância,] [!UICONTROL número de usuários,] e [!UICONTROL número de desenvolvedores,] colunas.
-* Click the **[!UICONTROL Filter By]** icon to apply multiple filters to list product profiles with specific criteria. Quando várias categorias de filtro são aplicadas, as pesquisas contêm Grupos associados à `AND` Solução de instância `AND` .
+* Pesquise os perfis de produto por nome. As pesquisas correspondem à cadeia de caracteres de texto digitada.
+* Classifique a coluna por valores crescentes ou decrescentes. Essa classificação se aplica às colunas [!UICONTROL Perfil do produto], [!UICONTROL Produto], [!UICONTROL Instância], [!UICONTROL Número de usuários] e [!UICONTROL Número de desenvolvedores].
+* Clique no ícone **[!UICONTROL Filtrar por]** para aplicar vários filtros para listar perfis de produto com critérios específicos. Quando várias categorias de filtro são aplicadas, as pesquisas contêm Grupos associados `AND` Instância `AND` Solução.
 
 | Elemento | Descrição |
 |---------|----------|
-| [!UICONTROL Filtro de instâncias] | Procure sequências de caracteres na coluna de instância para restringir os resultados a uma ou várias instâncias. Adicione vários filtros pressionando Enter após cada termo de pesquisa. |
+| [!UICONTROL Filtro de] instância | Pesquise por cadeias de caracteres na coluna de instâncias para restringir os resultados a uma ou várias instâncias. Adicione vários filtros pressionando Enter após cada termo de pesquisa. |
 | Filtro [!UICONTROL Solução] | Escolha dentre as soluções disponíveis. Vários filtros de solução pesquisam resultados que contêm a Solução 1 `OR` Solução 2. |
 
-## Detalhes da política de visualização
+## Exibir detalhes da política
 
-Na página [!UICONTROL Políticas] , para visualização dos detalhes de uma política, clique no nome do perfil do produto.
+Para exibir os detalhes de uma política, clique no nome do perfil do produto na página [!UICONTROL Políticas].
 
 ![](assets/admin-tool-policy-detail.png)
 
@@ -139,7 +139,7 @@ Detalhes do perfil do produto podem ser exportados para arquivos CSV. A opção 
 
 ## Seção Resumo
 
-Esta seção exibe um resumo do perfil do produto, incluindo:
+Esta seção exibe um resumo do perfil de produto com estas informações:
 
 * Nome do perfil do produto
 * Número de usuários
@@ -154,7 +154,7 @@ Esta seção exibe uma lista completa de todos os usuários, grupos de usuários
 
 | Tabulação | Descrição |
 |---------|----------|
-| [!UICONTROL Usuários] | Lista de usuários incluída no perfil do produto. A associação do grupo de usuários será exibida na coluna [!UICONTROL Atribuído por grupo] . |
+| [!UICONTROL Usuários] | Lista de usuários incluída no perfil do produto. A associação do grupo de usuários será exibida na coluna [!UICONTROL Atribuído por grupo]. |
 | [!UICONTROL Grupos de usuários] | Lista de grupos de usuários associados ao perfil do produto. |
 | [!UICONTROL Desenvolvedores] | Lista de desenvolvedores associados ao perfil do produto. |
 | [!UICONTROL Integrações] | Lista de integrações associadas ao perfil do produto. |

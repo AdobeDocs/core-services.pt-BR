@@ -6,11 +6,11 @@ seo-title: Notas de versão cumulativas
 solution: Experience Cloud
 title: Notas de versão cumulativas
 uuid: fcff8cc6-e587-4bf2-9a75-261d4eabc7d4
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: fa03e384d1dc878d45ef4b8d1f6fe269734ea891
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '3968'
-ht-degree: 99%
+ht-degree: 100%
 
 ---
 
@@ -27,7 +27,7 @@ Para obter as notas de versão que abrangem todas as soluções, consulte [Notas
 
 | Recurso | Descrição |
 | -----------| ---------- |
-| Ferramenta de administração - políticas | Esta página exibe a lista completa das políticas de Experience Cloud na sua organização. Fornece informações sobre produtos, instâncias, usuários e desenvolvedores. Você pode pesquisar, classificar e filtrar visualizações personalizadas da lista de políticas. Consulte a ajuda da [Ferramenta de administração da Experience Cloud](../admin-getting-started/admin-tool-experience-cloud.md) para obter detalhes. |
+| Ferramenta administrativa - políticas | Esta página exibe a lista completa das políticas da Experience Cloud na sua organização. Ela fornece informações sobre produtos, instâncias, usuários e desenvolvedores. Pesquise, classifique e filtre exibições personalizadas da lista de políticas. Consulte a ajuda da [Ferramenta de administração da Experience Cloud](../admin-getting-started/admin-tool-experience-cloud.md) para obter detalhes. |
 
 ## Abril - 2020
 
@@ -175,7 +175,7 @@ Um problema conhecido está causando a criação duplicada de contas geradas aut
 
 ## Versão 15.6.1 - 11 de junho de 2015 {#section_AD2019F8D2F84C9EB2B0533FAACF7043}
 
-Nenhuma informação disponível
+Nenhuma informação disponível.
 
 ## Versão 15.5.1 - 13 de maio de 2015 {#section_EF197410964E40D294D0D8024738CFBA}
 
@@ -440,8 +440,8 @@ Novos recursos e correções na colaboração e interface de compartilhamento da
 **Problemas conhecidos**
 
 * Os arquivos excluídos de [!DNL Experience Cloud] não estão sendo excluídos de [!DNL Digital Asset Management].
-* Alguns usuários do [!UICONTROL Exchange] podem ter seus nomes em forma de ID de sequência nos comentários em vez de seus nomes
-* Alguns arquivos [!DNL .png] não podem ser renderizados em um cartão
+* Alguns usuários do [!UICONTROL Exchange] podem ter seus nomes em forma de ID de sequência nos comentários em vez de seus nomes.
+* Alguns arquivos [!DNL .png] não podem ser renderizados em um cartão.
 * O carregamento de arquivos permite mais tipos de arquivos do que o método arrastar e soltar. Para obter melhores resultados, carregue usando o [!UICONTROL Assets].
 * A vinculação do [!DNL Search&Promote] não está disponível na página [!UICONTROL Organizations &amp; Product Access].
 * Usuários do [!DNL Exchange] devem limpar os cookies para melhorar o desempenho.
@@ -485,7 +485,7 @@ Novos recursos e correções na colaboração e interface de compartilhamento da
 * Os filtros aplicados aos relatórios de tendências do [!DNL Analytics] não se aplicam aos cartões na [!DNL Experience Cloud].
 * Para alguns usuários, não é possível vincular a conta de gerenciamento de público-alvo à conta da [!DNL Experience Cloud].
 * Sua sessão será encerrada após 15 minutos de inatividade. Além disso, encerrar a sessão em uma localização encerra a sessão na Experience Cloud.
-* Alguns usuários do Exchange podem ter seus nomes em forma de ID de sequência nos comentários em vez de seus nomes
+* Alguns usuários do Exchange podem ter seus nomes em forma de ID de sequência nos comentários em vez de seus nomes.
 
 **Correções**
 
@@ -568,7 +568,7 @@ Novos recursos e correções na colaboração e interface de compartilhamento da
 
 * Após adicionar uma tag personalizada a um ativo, nenhuma outra alteração nos metadados pode ser persistente.
 * Os usuários precisam atualizar o quadro para que os cartões excluídos desapareçam da exibição.
-* Quando a opção **[!UICONTROL Lembre-se de mim]** não está selecionada durante o logon, o usuário é desconectado após 15 minutos
+* Quando a opção **[!UICONTROL Lembre-se de mim]** não está selecionada durante o logon, o usuário é desconectado após 15 minutos.
 * A página de aterrissagem de soluções [!DNL Analytics] exibe erros de formatação.
 * Os usuários devem efetuar o logout e o logon novamente para que todas as permissões e alterações de direito tenham efeito.
 * Ao deletar uma imagem, os [!UICONTROL Ativos] não avisam se a imagem está sendo usada no [!DNL Adobe Target Essentials].

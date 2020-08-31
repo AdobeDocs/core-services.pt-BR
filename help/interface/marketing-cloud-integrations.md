@@ -6,11 +6,11 @@ seo-title: Integrações da Experience Cloud
 solution: Experience Cloud
 title: Integrações da Experience Cloud
 uuid: a9893c6b-bccc-4fb5-b724-724644c7def5
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: 2f3de19bed1085035785955ee72c94201270fe01
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '1523'
-ht-degree: 98%
+ht-degree: 100%
 
 ---
 
@@ -119,7 +119,7 @@ Ajuda: [Introdução](https://docs.adobelaunch.com/getting-started)
 
 Use as soluções de Experience Cloud Activation para configurar e depurar as soluções da Experience Cloud.
 
-1. Use [Experience Platform Launch](https://docs.adobe.com/content/help/pt-BR/launch/using/overview.html) or [Dynamic Tag Management](https://docs.adobe.com/content/help/pt-BR/dtm/using/dtm-home.html) to insert code that activates [Adobe Experience Cloud solutions](solutions-core-services.md#topic_BD726D3A649E4FC49063029E86B70C62) on your pages.
+1. Use o [Experience Platform Launch](https://docs.adobe.com/content/help/pt-BR/launch/using/overview.html) ou o [Dynamic Tag Management](https://docs.adobe.com/content/help/pt-BR/dtm/using/dtm-home.html) para incorporar o código que ativa as [soluções da Adobe Experience Cloud](solutions-core-services.md#topic_BD726D3A649E4FC49063029E86B70C62) nas suas páginas.
 1. Use o [Adobe Cloud Platform Auditor](https://docs.adobe.com/content/help/pt-BR/auditor/using/overview.html) para testar as implementações.
 
 Use a extensão do Adobe Experience Cloud Debugger para depurar os problemas encontrados pelo Auditor ou para examinar outras informações sobre as implementações.
@@ -150,7 +150,7 @@ Integrar o Adobe Target ao Adobe Analytics e outras soluções da Experience Clo
 
 ## Integrações do Experience Manager {#section_32FB010EF8B4429FBC63C8DC2A9BE98F}
 
-Ajuda: [Integração de soluções](https://helpx.adobe.com/br/experience-manager/6-2/sites/administering/user-guide.html?topic=/experience-manager/6-2/sites/administering/morehelp/integration.ug.js)
+Ajuda: [Integração de soluções](https://helpx.adobe.com/es/experience-manager/6-2/sites/administering/user-guide.html?topic=/experience-manager/6-2/sites/administering/morehelp/integration.ug.js)
 
 Integrar o AEM a outras soluções e serviços de terceiros.
 

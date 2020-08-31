@@ -6,9 +6,9 @@ seo-title: Gerenciar usuários e produtos da Experience Cloud
 solution: Experience Cloud
 title: Gerenciar usuários e produtos da Experience Cloud
 index: true
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: 2f3de19bed1085035785955ee72c94201270fe01
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '1455'
 ht-degree: 100%
 
@@ -53,7 +53,7 @@ Para fazer logon no Admin Console:
 1. Navegue até [https://adminconsole.adobe.com/enterprise/](https://adminconsole.adobe.com/enterprise/#).
 1. Digite sua [Adobe ID ou Enterprise ID](https://helpx.adobe.com/br/enterprise/help/identity.html) e senha.
 
-Como alternativa, no menu da Experience Cloud (![](assets/menu-icon.png)), clique em **[!UICONTROL Administração]** > **[!UICONTROL Iniciar o Admin Console]**.
+Como alternativa, no menu da Experience Cloud ( ![](assets/menu-icon.png) ), clique em **[!UICONTROL Administração]** > **[!UICONTROL Iniciar o Admin Console]**.
 
 **Ajuda relacionada**
 

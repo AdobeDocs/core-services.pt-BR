@@ -6,9 +6,9 @@ seo-title: Ativar as soluções da Experience Cloud para atributos e públicos-a
 solution: Experience Cloud
 title: Ativar as soluções dos serviços principais
 index: true
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: 2f3de19bed1085035785955ee72c94201270fe01
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '2402'
 ht-degree: 100%
 

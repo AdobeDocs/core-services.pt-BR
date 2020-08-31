@@ -6,16 +6,16 @@ seo-title: Ajuda e documentação do produto da Adobe Experience Cloud e dos ser
 solution: Adobe Experience Cloud
 title: Ajuda da Experience Cloud e principais serviços
 uuid: aec6f689-e617-4876-ae6c-e961cfcb991a
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: 8e165bb47d7e947b817c51e496c3e493cb02d4fc
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '392'
-ht-degree: 97%
+ht-degree: 100%
 
 ---
 
 
-# Experience Cloud Documentação da interface
+# Experience Cloud  Documentação da interface
 
 A Experience Cloud é a família integrada de soluções e serviços de marketing digital da Adobe. Também é uma interface intuitiva que permite acessar rapidamente as soluções em nuvem e os serviços principais.
 
@@ -37,7 +37,7 @@ Esta página fornece acesso à documentação do produto para os seguintes recur
 * [Organizações e vinculação de contas](admin-getting-started/organizations.md)
 * [Integrações](marketing-cloud-integrations.md)
 * [Integração do Adobe Target à Experience Cloud](https://docs.adobe.com/content/help/pt-BR/target/using/integrate/a4t/a4t.html)
-* [Visão geral de privacidade e segurança do Experience Cloud](assets/Adobe-Marketing-Cloud-Privacy-and-Security-Overview.pdf)
+* [Visão geral da privacidade e da segurança da Experience Cloud](assets/Adobe-Marketing-Cloud-Privacy-and-Security-Overview.pdf)
 * [Pré-busca DNS](admin-getting-started/admin-getting-started.md#concept_6BC8C6856E3644F8956D7AD0A96383B7)
 
 ## Ajuda relacionada da Experience Cloud
@@ -55,7 +55,7 @@ Esta página fornece acesso à documentação do produto para os seguintes recur
 * [Adobe Mobile](https://docs.adobe.com/content/help/pt-BR/mobile-services/using/home.html)
 * [[!UICONTROL Públicos-alvo]](https://docs.adobe.com/content/help/pt-BR/core-services/interface/audiences/audience-library.html)
 * [[!UICONTROL Atributos do cliente]](https://docs.adobe.com/content/help/pt-BR/core-services/interface/customer-attributes/attributes.html)
-* [Cooperativa de dispositivo](https://docs.adobe.com/content/help/pt-BR/device-co-op/using/home.html)
+* [Device Co-op](https://docs.adobe.com/content/help/pt-BR/device-co-op/using/home.html)
 * [Exchange](https://experiencecloud.adobeexchange.com/)
 * [Serviço da Experience Cloud ID](https://docs.adobe.com/content/help/pt-BR/id-service/using/home.html)
 * [Experience Platform Launch](https://docs.adobe.com/content/help/pt-BR/launch/using/overview.html)

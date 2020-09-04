@@ -6,11 +6,11 @@ seo-title: Crie uma fonte de atributo do cliente e faça upload do arquivo de da
 solution: Experience Cloud
 title: Crie uma fonte de atributo do cliente e faça upload do arquivo de dados
 uuid: 53dca789-9a91-4385-839d-c9d1aa36b9be
-translation-type: ht
-source-git-commit: af5201da6eac644e150783195bdbc8f93760c3f1
-workflow-type: ht
+translation-type: tm+mt
+source-git-commit: ed423c20afaefe1bd0c463d8400e772916709ba7
+workflow-type: tm+mt
 source-wordcount: '1177'
-ht-degree: 100%
+ht-degree: 97%
 
 ---
 
@@ -158,10 +158,7 @@ Na página [!UICONTROL Criar nova [ou editar] fonte de atributos do cliente], en
 
 ## Usar os atributos do cliente no Adobe Analytics {#task_7EB0680540CE4B65911B2C779210915D}
 
-Com os dados disponíveis agora em soluções como
-<keyword>
-Adobe Analytics
-</keyword>é possível relatar os dados, analisá-los e tomar as providências apropriadas em suas campanhas de marketing.
+Com os dados disponíveis agora em soluções como a Adobe Analytics, você pode criar relatórios sobre os dados, analisá-los e tomar as medidas apropriadas em suas campanhas de marketing.
 
 O exemplo a seguir mostra um segmento do [!DNL Analytics] com base nos atributos carregados. Esse segmento mostra assinantes do [!DNL Photoshop Lightroom] cujo produto mais iniciado é o Photoshop.
 

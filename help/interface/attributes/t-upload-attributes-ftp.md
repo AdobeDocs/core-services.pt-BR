@@ -6,10 +6,10 @@ seo-title: Opcional - Fazer upload do arquivo de dados via FTP
 solution: Experience Cloud
 title: Opcional - Fazer upload do arquivo de dados via FTP
 uuid: 5df565dd-b6f8-420e-981f-4b6fc6f7d0e4
-translation-type: ht
-source-git-commit: 0bc7032d0052ba03beac1140dfbfd630e1802bfd
-workflow-type: ht
-source-wordcount: '294'
+translation-type: tm+mt
+source-git-commit: ed423c20afaefe1bd0c463d8400e772916709ba7
+workflow-type: tm+mt
+source-wordcount: '293'
 ht-degree: 100%
 
 ---
@@ -34,7 +34,7 @@ Os uploads de arquivo para o site FTP de atributos do cliente podem ser feitos v
 
 1. [Crie uma fonte de atributo do cliente e faça upload do arquivo de dados...](../attributes/t-crs-usecase.md#task_BCC327B2A0EF4A1BBB2934013AB92B78).
 
-   Verifique se você está conectado no site FTP em [!DNL ftp.adobe.com/<sftpname>].
+   Verifique se você está conectado no site FTP em `ftp.adobe.com/<sftpname>`.
 
 1. Clique em **[!UICONTROL Ações]** > **[!UICONTROL Carregar arquivo]**.
 

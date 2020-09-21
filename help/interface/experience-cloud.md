@@ -6,31 +6,28 @@ seo-title: Ajuda e documentação do produto da Adobe Experience Cloud e dos ser
 solution: Adobe Experience Cloud
 title: Ajuda da Experience Cloud e principais serviços
 uuid: aec6f689-e617-4876-ae6c-e961cfcb991a
-translation-type: ht
-source-git-commit: 8e165bb47d7e947b817c51e496c3e493cb02d4fc
-workflow-type: ht
-source-wordcount: '392'
-ht-degree: 100%
+translation-type: tm+mt
+source-git-commit: 014e04cdf7e6d80909c988c6e3e961736fd30f13
+workflow-type: tm+mt
+source-wordcount: '435'
+ht-degree: 80%
 
 ---
 
 
-# Experience Cloud  Documentação da interface
+# Experience Cloud  Guia da interface
 
 A Experience Cloud é a família integrada de soluções e serviços de marketing digital da Adobe. Também é uma interface intuitiva que permite acessar rapidamente as soluções em nuvem e os serviços principais.
 
 ![Experience Cloud](assets/cloud-pulldown.png)
 
-Esta página fornece acesso à documentação do produto para os seguintes recursos e serviços:
+Este guia fornece a documentação do produto para o gerenciamento de usuários e produtos no Experience Cloud, bem como os Atributos do cliente e Audiências do Experience Cloud (Biblioteca de Audiências). Os artigos neste guia incluem:
 
 * [[!UICONTROL Biblioteca de público-alvo]](audience-library/audience-library.md)
 * [[!UICONTROL Atributos do cliente]](attributes/attributes.md)
 * [[!UICONTROL Triggers]](activation/triggers.md)
 * [[!UICONTROL Ativos da Experience Cloud]](experience-cloud-assets/experience-cloud-assets.md)
 * [Cookies da Experience Cloud](cookies/cookies-privacy.md)
-
-## Administração de usuários e produtos
-
 * [Gerenciamento de usuários e de produtos](admin-getting-started/admin-getting-started.md) (Admin Console)
 * [Ativar as soluções dos serviços principais](core-services/core-services.md)
 * [Perguntas frequentes](admin-getting-started/admin-getting-started.md)
@@ -40,7 +37,28 @@ Esta página fornece acesso à documentação do produto para os seguintes recur
 * [Visão geral da privacidade e da segurança da Experience Cloud](assets/Adobe-Marketing-Cloud-Privacy-and-Security-Overview.pdf)
 * [Pré-busca DNS](admin-getting-started/admin-getting-started.md#concept_6BC8C6856E3644F8956D7AD0A96383B7)
 
-## Ajuda relacionada da Experience Cloud
+## Guias
+
+Os guias de Experience Cloud relacionados incluem:
+
+* [Adobe Mobile](https://docs.adobe.com/content/help/pt-BR/mobile-services/using/home.html)
+* [Device Co-op](https://docs.adobe.com/content/help/pt-BR/device-co-op/using/home.html)
+* [Exchange](https://experiencecloud.adobeexchange.com/)
+* [Serviço da Experience Cloud ID](https://docs.adobe.com/content/help/pt-BR/id-service/using/home.html)
+* [Experience Platform Launch](https://docs.adobe.com/content/help/pt-BR/launch/using/overview.html)
+* [Experience Cloud Debugger](https://docs.adobe.com/content/help/pt-BR/debugger/using/experience-cloud-debugger.html)
+* [API do Regulamento Geral sobre a Proteção de Dados (GDPR)](https://www.adobe.io/apis/experiencecloud/gdpr.html)
+* [[!UICONTROL Dynamic Tag Management]](https://docs.adobe.com/content/help/pt-BR/dtm/using/dtm-home.html)
+
+## Tutoriais
+
+Tire proveito dos tutoriais de autoajuda e das opções rápidas na Experience League:
+
+* [Todos os tutoriais na Experience League](https://experienceleague.corp.adobe.com/?lang=en#quick-how-tos)
+* [Tutoriais de Experience Platform](https://experienceleague.corp.adobe.com/docs/core-services-learn/tutorials/overview.html?lang=en)
+* [Plataforma de dados do cliente em tempo real](https://experienceleague.corp.adobe.com/docs/platform-learn/tutorials/rtcdp/understanding-the-real-time-customer-data-platform.html?lang=en)
+
+## Notas de versão e ajuda relacionada ao Experience Cloud
 
 * [Documentação do produto para todas as soluções da Experience Cloud](https://docs.adobe.com/content/help/pt-BR/experience-cloud/user-guides/home.html) - Procure ajuda na Aprendizagem e suporte da Experience Cloud
 * [Notas de versão e atualizações de produtos](https://docs.adobe.com/content/help/pt-BR/release-notes/experience-cloud/current.html) - Novidades na Experience Cloud e assinatura para obter atualizações
@@ -49,16 +67,3 @@ Esta página fornece acesso à documentação do produto para os seguintes recur
 * [Educação e treinamento](https://helpx.adobe.com/br/learning.html?promoid=KAUDK) - Participe com a Adobe para garantir que obtenha o máximo de nossos produtos
 * [Blog de experiência do cliente](https://theblog.adobe.com/customer-experience/) - Leia o blog da Experience Cloud
 * [Atendimento ao cliente](https://helpx.adobe.com/br/contact/enterprise-support.ec.html) - Entre em contato com o Atendimento ao cliente da Adobe
-
-## Documentação da Experience Platform
-
-* [Adobe Mobile](https://docs.adobe.com/content/help/pt-BR/mobile-services/using/home.html)
-* [[!UICONTROL Públicos-alvo]](https://docs.adobe.com/content/help/pt-BR/core-services/interface/audiences/audience-library.html)
-* [[!UICONTROL Atributos do cliente]](https://docs.adobe.com/content/help/pt-BR/core-services/interface/customer-attributes/attributes.html)
-* [Device Co-op](https://docs.adobe.com/content/help/pt-BR/device-co-op/using/home.html)
-* [Exchange](https://experiencecloud.adobeexchange.com/)
-* [Serviço da Experience Cloud ID](https://docs.adobe.com/content/help/pt-BR/id-service/using/home.html)
-* [Experience Platform Launch](https://docs.adobe.com/content/help/pt-BR/launch/using/overview.html)
-* [Experience Cloud Debugger](https://docs.adobe.com/content/help/pt-BR/debugger/using/experience-cloud-debugger.html)
-* [API do Regulamento Geral sobre a Proteção de Dados (GDPR)](https://www.adobe.io/apis/experiencecloud/gdpr.html)
-* [[!UICONTROL Dynamic Tag Management]](https://docs.adobe.com/content/help/pt-BR/dtm/using/dtm-home.html)

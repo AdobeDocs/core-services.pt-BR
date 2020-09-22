@@ -3,12 +3,12 @@ description: Perguntas frequentes e respostas para administradores na Experience
 keywords: core services, Experience Cloud, Experience Platform, Analytics, Target, user management.
 seo-description: Perguntas frequentes e respostas para administradores na Experience Cloud.
 seo-title: Perguntas frequentes sobre os serviços principais da Experience Cloud.
-solution: Adobe Experience Cloud
+solution: Experience Cloud
 title: Perguntas frequentes
 index: true
-translation-type: ht
-source-git-commit: ca03abbeebdd6c1dcf9dcb881170cc79adf1ba4a
-workflow-type: ht
+translation-type: tm+mt
+source-git-commit: 11ce83401a12c25853cd6412413b8abf98dd6612
+workflow-type: tm+mt
 source-wordcount: '731'
 ht-degree: 100%
 

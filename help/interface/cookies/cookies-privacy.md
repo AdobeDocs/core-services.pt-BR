@@ -3,12 +3,12 @@ description: A manutenção da privacidade do cliente e da segurança de dados s
 keywords: cookies;privacy
 seo-description: A manutenção da privacidade do cliente e da segurança de dados são as principais prioridades da Adobe. A Adobe participa de várias organizações de privacidade e coopera com reguladores de privacidade e princípios autorreguladores (como o programa Digital Advertising Alliance AdChoices) para fornecer aos clientes informações sobre como suas informações são usadas e opções sobre o uso.
 seo-title: Sobre cookies e privacidade
-solution: Marketing Cloud,Analytics,Adobe Target,Adobe Social
+solution: Experience Cloud,Analytics,Target
 title: Sobre cookies e privacidade
 uuid: 7fb36845-6282-438a-bbc6-0c3cf95de1c9
-translation-type: ht
-source-git-commit: f7ec8bf6087a18be41c9efbf05f60e6cfd24e566
-workflow-type: ht
+translation-type: tm+mt
+source-git-commit: 11ce83401a12c25853cd6412413b8abf98dd6612
+workflow-type: tm+mt
 source-wordcount: '421'
 ht-degree: 100%
 

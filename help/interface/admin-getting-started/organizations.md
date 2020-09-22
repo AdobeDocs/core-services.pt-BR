@@ -3,12 +3,12 @@ description: Saiba mais sobre organizações e como vincular contas de soluçõe
 keywords: core services
 seo-description: Saiba mais sobre organizações e como vincular contas de soluções à Experience Cloud.
 seo-title: Organizações e vinculação de contas
-solution: Marketing Cloud
+solution: Experience Cloud
 title: Organizações e vinculação de contas
 uuid: ae47ad18-ac33-4efa-8b68-2bfaf77397aa
-translation-type: ht
-source-git-commit: 43de353155c640b3ddc519147c94d7e9ffcafe4e
-workflow-type: ht
+translation-type: tm+mt
+source-git-commit: 11ce83401a12c25853cd6412413b8abf98dd6612
+workflow-type: tm+mt
 source-wordcount: '399'
 ht-degree: 100%
 

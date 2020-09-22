@@ -3,12 +3,12 @@ description: Remova os usuários que bloquearam todos os cookies em navegadores 
 keywords: cookies;privacy
 seo-description: Remova os usuários que bloquearam todos os cookies em navegadores de computadores e de dispositivos móveis. Essa configuração de privacidade exclui os usuários que optam por não participar da coleta de dados do Analytics.
 seo-title: Ativar as configurações de privacidade de cookies do navegador
-solution: Marketing Cloud,Adobe Analytics,Adobe Target,Adobe Social
+solution: Experience Cloud, Analytics, Target, Social
 title: Ativar as configurações de privacidade de cookies do navegador
 uuid: f6a56e8b-b021-49db-8eb4-6c14af0c7243
-translation-type: ht
-source-git-commit: f7ec8bf6087a18be41c9efbf05f60e6cfd24e566
-workflow-type: ht
+translation-type: tm+mt
+source-git-commit: 11ce83401a12c25853cd6412413b8abf98dd6612
+workflow-type: tm+mt
 source-wordcount: '329'
 ht-degree: 100%
 

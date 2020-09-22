@@ -3,12 +3,12 @@ description: Como o suporte a cookies de terceiros se tornou cada vez mais limit
 keywords: cookies;privacy
 seo-description: Como o suporte a cookies de terceiros se tornou cada vez mais limitado nos navegadores, a Adobe tem trabalhado em novas soluções que equilibram as necessidades do cliente com seu direito de privacidade nas soluções da Adobe Experience Cloud.
 seo-title: Como as alterações no suporte a cookies de terceiros afeta os clientes
-solution: Marketing Cloud,Analytics,Adobe Target,Adobe Social
+solution: Experience Cloud,Analytics,Target
 title: Como as alterações no suporte a cookies de terceiros afeta os clientes
 uuid: 27332e0d-6932-4a6e-b97b-0adeced0b050
-translation-type: ht
-source-git-commit: f65132e291ba925ded39d75e92b24cf707d520b5
-workflow-type: ht
+translation-type: tm+mt
+source-git-commit: 11ce83401a12c25853cd6412413b8abf98dd6612
+workflow-type: tm+mt
 source-wordcount: '368'
 ht-degree: 100%
 

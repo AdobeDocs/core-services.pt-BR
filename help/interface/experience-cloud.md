@@ -1,27 +1,27 @@
 ---
-description: Autoajuda, documentação do produto e documentação técnica da Adobe Experience Cloud. A Experience Cloud é a família integrada de soluções e serviços de marketing digital da Adobe.
-keywords: core services
-seo-description: Esta página fornece autoajuda, documentação do produto e documentação técnica da Experience Cloud.
-seo-title: Ajuda e documentação do produto da Adobe Experience Cloud e dos serviços principais.
-solution: Experience Cloud
-title: Ajuda da Experience Cloud e principais serviços
+description: Autoajuda, documentação do produto e documentação técnica da Adobe Experience Cloud. Inclui a administração de usuários e produtos no Admin Console, habilitando soluções para serviços de plataforma e ajuda na Biblioteca de Audiências, Atributos do cliente, Ativos do Experience Cloud e muito mais.
+keywords: platform services
+seo-description: Ajuda sobre a administração de usuários e produtos no Admin Console, habilitando soluções para serviços de plataforma e ajuda sobre a Biblioteca de Audiências, Atributos do cliente, Ativos do Experience Cloud e muito mais.
+seo-title: Ajuda e documentação do produto dos serviços da Adobe Experience Cloud e da plataforma.
+solution: Adobe Experience Cloud
+title: Ajuda dos serviços de Experience Cloud e plataforma
 uuid: aec6f689-e617-4876-ae6c-e961cfcb991a
 translation-type: tm+mt
-source-git-commit: 11ce83401a12c25853cd6412413b8abf98dd6612
+source-git-commit: 1809543ce26ed0e6dc2bf973de46384a2ef13c32
 workflow-type: tm+mt
-source-wordcount: '434'
-ht-degree: 80%
+source-wordcount: '475'
+ht-degree: 75%
 
 ---
 
 
-# Experience Cloud  Guia da interface
+# Administração de Experience Cloud, Audiências e atributos do cliente
 
 A Experience Cloud é a família integrada de soluções e serviços de marketing digital da Adobe. Também é uma interface intuitiva que permite acessar rapidamente as soluções em nuvem e os serviços principais.
 
 ![Experience Cloud](assets/cloud-pulldown.png)
 
-O Guia de administração da Adobe Experience Cloud inclui ajuda sobre a administração de Experience Cloud, usuários e produtos, a Biblioteca de Audiências, os Atributos do cliente e os ativos Experience Cloud. Os artigos neste guia incluem:
+Este guia fornece acesso à ajuda sobre o usuário do Experience Cloud e a administração do produto no Admin Console, permitindo soluções para os serviços da plataforma. Você também pode acessar a ajuda da Biblioteca de Audiências, Atributos do cliente, Ativos da Experience Cloud e muito mais:
 
 * [[!UICONTROL Biblioteca de público-alvo]](audience-library/audience-library.md)
 * [[!UICONTROL Atributos do cliente]](attributes/attributes.md)
@@ -39,7 +39,7 @@ O Guia de administração da Adobe Experience Cloud inclui ajuda sobre a adminis
 
 ## Guias
 
-Os guias de Experience Cloud relacionados incluem:
+Os guias relacionados da Experience Cloud incluem:
 
 * [Adobe Mobile](https://docs.adobe.com/content/help/pt-BR/mobile-services/using/home.html)
 * [Device Co-op](https://docs.adobe.com/content/help/pt-BR/device-co-op/using/home.html)
@@ -52,13 +52,13 @@ Os guias de Experience Cloud relacionados incluem:
 
 ## Tutoriais
 
-Tire proveito dos tutoriais de autoajuda e das opções rápidas na Experience League:
+Aproveite os tutoriais de autoajuda e instruções rápidas na Experience League:
 
 * [Todos os tutoriais na Experience League](https://experienceleague.corp.adobe.com/?lang=en#quick-how-tos)
-* [Tutoriais de Experience Platform](https://experienceleague.corp.adobe.com/docs/core-services-learn/tutorials/overview.html?lang=en)
+* [Tutoriais da Experience Platform](https://experienceleague.corp.adobe.com/docs/core-services-learn/tutorials/overview.html?lang=en)
 * [Plataforma de dados do cliente em tempo real](https://experienceleague.corp.adobe.com/docs/platform-learn/tutorials/rtcdp/understanding-the-real-time-customer-data-platform.html?lang=en)
 
-## Notas de versão e ajuda relacionada ao Experience Cloud
+## Notas de versão e ajuda relacionada à Experience Cloud
 
 * [Documentação do produto para todas as soluções da Experience Cloud](https://docs.adobe.com/content/help/pt-BR/experience-cloud/user-guides/home.html) - Procure ajuda na Aprendizagem e suporte da Experience Cloud
 * [Notas de versão e atualizações de produtos](https://docs.adobe.com/content/help/pt-BR/release-notes/experience-cloud/current.html) - Novidades na Experience Cloud e assinatura para obter atualizações

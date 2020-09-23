@@ -6,16 +6,16 @@ seo-title: Atributos do cliente
 solution: Experience Cloud
 title: Atributos do cliente
 uuid: 1621402d-990f-46f9-981a-473280559069
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: 014e04cdf7e6d80909c988c6e3e961736fd30f13
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '457'
 ht-degree: 100%
 
 ---
 
 
-# Atributos do cliente visão geral
+# Atributos do cliente  visão geral
 
 Navegue até **[!DNL Experience Platform]** > **[!UICONTROL People]** > **[!UICONTROL Atributos do cliente]**
 

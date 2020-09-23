@@ -1,15 +1,15 @@
 ---
 audience: admin
 user-guide-title: Administração de Experience Cloud, Audiências e atributos do cliente
-breadcrumb-title: Experience Cloud Interface Guide
+breadcrumb-title: Experience Cloud Administration, Audiences, and Customer Attributes
 user-guide-description: Adobe Experience Cloud Administration Guide includes help on Experience Cloud user and product administration, the Audience Library, Customer Attributes, and Experience Cloud assets.
 user-guide-url: https://www.adobe.com
 index: true
 translation-type: tm+mt
-source-git-commit: 11ce83401a12c25853cd6412413b8abf98dd6612
+source-git-commit: 1809543ce26ed0e6dc2bf973de46384a2ef13c32
 workflow-type: tm+mt
-source-wordcount: '366'
-ht-degree: 93%
+source-wordcount: '367'
+ht-degree: 94%
 
 ---
 
@@ -28,13 +28,13 @@ ht-degree: 93%
    + [Cookies primários na Experience Cloud](cookies/cookies-first-party.md)
    + [Cookies do Analytics](cookies/cookies-analytics.md)
    + [Cookies do Audience Manager](cookies/cookies-am.md)
-   + [Cookies do [!UICONTROL Data Connectors]](cookies/cookies-dc.md)
-   + [Cookies do [!UICONTROL Data Workbench]](cookies/cookies-insight.md)
+   + Cookies do [[!UICONTROL Data Connectors]](cookies/cookies-dc.md)
+   + Cookies do [[!UICONTROL Data Workbench]](cookies/cookies-insight.md)
    + [Cookies da Experience Cloud](cookies/cookies-mc.md)
    + [Cookies da Advertising Cloud](cookies/cookies-advertising-cloud.md)
-   + [Cookies do [!DNL Scene7] ](cookies/cookies-s7.md)
-   + [Cookies do [!DNL Search and Promote] ](cookies/cookies-snp.md)
-   + [Cookies do [!DNL Target] ](cookies/cookies-target.md)
+   + Cookies do [[!DNL Scene7] ](cookies/cookies-s7.md)
+   + Cookies do [[!DNL Search and Promote] ](cookies/cookies-snp.md)
+   + Cookies do [[!DNL Target] ](cookies/cookies-target.md)
    + [Ativar as configurações de privacidade de cookies do navegador](cookies/browser-cookie-settings.md)
    + [Como as alterações no suporte a cookies de terceiros afetam os clientes](cookies/cookies-thirdparty.md)
 + Gerenciamento de usuários e de produtos {#manage-users-and-products}
@@ -58,8 +58,8 @@ ht-degree: 93%
    + [Faça upload de um ativo para uma pasta compartilhada no desktop da Creative Cloud](experience-cloud-assets/t-cc-asset-upload-thor.md)
    + [Requisitos para compartilhamento do arquivo do ativo](experience-cloud-assets/assets-file-reqs.md)
    + [Comportamento das pastas compartilhadas](experience-cloud-assets/asset-behavior.md)
-+ Públicos-alvo da Experience Cloud {#audiences}
-   + [Visão geral do Experience Cloud Audiências](audience-library/audience-library.md)
++ Biblioteca de público-alvo da Experience Cloud {#audiences}
+   + [Visão geral de públicos-alvo da Experience Cloud](audience-library/audience-library.md)
    + [Criar um público-alvo](audience-library/t-audience-create.md)
    + [Publicar um segmento de público-alvo do Analytics](audience-library/t-publish-audience-segment.md)
 + Atributos do cliente na Experience Cloud {#customer-attributes}

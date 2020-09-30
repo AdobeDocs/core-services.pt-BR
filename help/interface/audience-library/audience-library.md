@@ -5,18 +5,18 @@ seo-title: Visão geral de públicos-alvo da Experience Cloud
 solution: Experience Cloud
 title: Visão geral de públicos-alvo da Experience Cloud
 uuid: 92faf3a8-1375-4e32-905b-74cad48144d3
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: 1809543ce26ed0e6dc2bf973de46384a2ef13c32
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '837'
-ht-degree: 95%
+ht-degree: 100%
 
 ---
 
 
 # Visão geral de públicos-alvo da Experience Cloud {#topic_679810123CAA4E0CA4FA3417FB0100C7}
 
-Os públicos-alvo são coleções de visitantes (uma lista de IDs de visitante). A Biblioteca de Audiências permite gerenciar os dados de visitantes. As such, creating and managing audiences is similar to creating and using segments, with the added ability to share the audience segment to products and services in [!DNL Experience Cloud].
+Os públicos-alvo são coleções de visitantes (uma lista de IDs de visitante). A biblioteca de público-alvo da Adobe permite gerenciar a conversão dos dados do visitante em segmentação do público-alvo. Assim, criar e gerenciar públicos-alvo é como criar e usar segmentos, com a capacidade adicional de compartilhar o segmento de público-alvo e os serviços na [!DNL Experience Cloud].
 
 ![](assets/audiences.png)
 

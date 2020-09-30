@@ -1,27 +1,27 @@
 ---
-description: Autoajuda, documentação do produto e documentação técnica da Adobe Experience Cloud. Inclui a administração de usuários e produtos no Admin Console, habilitando soluções para serviços de plataforma e ajuda na Biblioteca de Audiências, Atributos do cliente, Ativos do Experience Cloud e muito mais.
+description: Autoajuda, documentação do produto e documentação técnica da Adobe Experience Cloud. Inclui a administração de usuários e produtos no Admin Console, habilitando soluções para serviços de plataforma e ajuda na Biblioteca de público-alvo, Atributos do cliente, Ativos da Experience Cloud e muito mais.
 keywords: platform services
-seo-description: Ajuda sobre a administração de usuários e produtos no Admin Console, habilitando soluções para serviços de plataforma e ajuda sobre a Biblioteca de Audiências, Atributos do cliente, Ativos do Experience Cloud e muito mais.
-seo-title: Ajuda e documentação do produto dos serviços da Adobe Experience Cloud e da plataforma.
+seo-description: Ajuda sobre a administração de usuários e produtos no Admin Console, habilitando soluções para serviços de plataforma e ajuda sobre a Biblioteca de público-alvo, Atributos do cliente, Ativos da Experience Cloud e muito mais.
+seo-title: Adobe Experience Cloud e serviços de plataforma de ajuda e documentação do produto.
 solution: Experience Cloud
-title: Ajuda dos serviços de Experience Cloud e plataforma
+title: Experience Cloud e ajuda de serviços da plataforma
 uuid: aec6f689-e617-4876-ae6c-e961cfcb991a
 translation-type: tm+mt
 source-git-commit: a32b5e9f8d3bed89b0001a40aa159591880dd84c
 workflow-type: tm+mt
-source-wordcount: '475'
-ht-degree: 75%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
 
-# Administração de Experience Cloud, Audiências e atributos do cliente
+# Administração, públicos-alvo e atributos do cliente da Experience Cloud
 
 A Experience Cloud é a família integrada de soluções e serviços de marketing digital da Adobe. Também é uma interface intuitiva que permite acessar rapidamente as soluções em nuvem e os serviços principais.
 
 ![Experience Cloud](assets/cloud-pulldown.png)
 
-Este guia fornece acesso à ajuda sobre o usuário do Experience Cloud e a administração do produto no Admin Console, permitindo soluções para os serviços da plataforma. Você também pode acessar a ajuda da Biblioteca de Audiências, Atributos do cliente, Ativos da Experience Cloud e muito mais:
+Este guia fornece acesso à ajuda sobre o usuário da Experience Cloud e a administração do produto no Admin Console, permitindo soluções para os serviços da plataforma. Você também pode acessar a ajuda da Biblioteca de público-alvo, Atributos do cliente, Ativos da Experience Cloud e muito mais:
 
 * [[!UICONTROL Biblioteca de público-alvo]](audience-library/audience-library.md)
 * [[!UICONTROL Atributos do cliente]](attributes/attributes.md)

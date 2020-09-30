@@ -10,9 +10,9 @@ getting-started-url: https://helpx.adobe.com/br/experience-cloud-core-services/g
 tutorials-title: Tutoriais
 tutorials-url: https://docs.adobe.com/content/help/en/core-services-learn/tutorials/overview.html
 git-repo: https://git.corp.adobe.com/AdobeDocs/core-services.pt-BR
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: 11ce83401a12c25853cd6412413b8abf98dd6612
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '172'
 ht-degree: 100%
 
@@ -21,7 +21,7 @@ ht-degree: 100%
 
 # Metadados para uso interno
 
-O arquivo metadata.md inclui metadados de nível de repositório transmitidos para os arquivos TOC.md do guia do usuário no repositório. Se desejar alterar o conteúdo metadata. md para qualquer guia do usuário, faça isso em qualquer arquivo TOC. md.
+O arquivo metadata.md inclui metadados de nível de repositório transmitidos para os arquivos TOC.md do guia do usuário no repositório. Se desejar alterar o conteúdo metadata.md para qualquer guia do usuário, faça isso em qualquer arquivo TOC.md.
 
 | metadata | o que faz |
 |--- |--- |

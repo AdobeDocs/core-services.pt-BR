@@ -6,9 +6,9 @@ seo-title: Organizações e vinculação de contas
 solution: Experience Cloud
 title: Organizações e vinculação de contas
 uuid: ae47ad18-ac33-4efa-8b68-2bfaf77397aa
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: 11ce83401a12c25853cd6412413b8abf98dd6612
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '399'
 ht-degree: 100%
 
@@ -21,7 +21,7 @@ Saiba mais sobre como gerenciar organizações e como vincular contas de soluç�
 
 ## Identificar a organização {#concept_384D169B0B724B799D573B8ECB5C39BF}
 
-Uma *organização* da  é a entidade que permite ao administrador configurar grupos e usuários, além de controlar o logon único na Experience Cloud. A organização funciona como uma empresa para logon que abrange os produtos e as soluções da Experience Cloud. Frequentemente, a organização é o nome da empresa. No entanto, uma empresa pode ter muitas organizações.
+Uma *organização* é a entidade que permite ao administrador configurar grupos e usuários, além de controlar o logon único na Experience Cloud. A organização funciona como uma empresa para logon que abrange os produtos e as soluções da Experience Cloud. Frequentemente, a organização é o nome da empresa. No entanto, uma empresa pode ter muitas organizações.
 
 Além disso, pode ser necessário localizar a ID da organização para fins de suporte. Você pode verificar se está na organização correta ou alternar entre organizações usando o menu **[!UICONTROL Organização]**.
 
@@ -41,7 +41,7 @@ Geralmente, os administradores da Experience Cloud concedem acesso a soluções 
 
 1. Siga as etapas no convite por email na Experience Cloud.
 1. Faça logon usando a Adobe ID ou Enterprise ID.
-1. Clique no seletor de soluções. ( ![](assets/menu-icon.png)).
+1. Clique no seletor de soluções. (![](assets/menu-icon.png)).
 
    ![](assets/solutions-active.png)
 
@@ -61,7 +61,7 @@ No seu perfil, clique em **[!UICONTROL Editar perfil]**.
 
 ![](assets/edit-profile.png)
 
-Em Organização padrão e página de aterrissagem, você pode personalizar a experiência de logon.
+Em Organização &amp; página inicial padrão, você pode personalizar a experiência de logon.
 
 ![](assets/default-organization.png)
 

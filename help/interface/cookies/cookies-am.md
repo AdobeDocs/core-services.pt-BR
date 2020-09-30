@@ -6,9 +6,9 @@ seo-title: Cookies do Audience Manager
 solution: Experience Cloud, Audience Manager
 title: Cookies do Audience Manager
 uuid: 8b384c38-b85a-4e93-b00e-41a9d3ae2b21
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: 11ce83401a12c25853cd6412413b8abf98dd6612
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '690'
 ht-degree: 100%
 
@@ -35,7 +35,7 @@ O Audience Manager depende de alguns cookies simples para executar funções dif
   </tr> 
   <tr> 
    <td colname="col1"> <p> <b>Conteúdo</b> </p> </td> 
-   <td colname="col2"> <p>O cookie <span class="wintitle">demdex</span> contém uma ID de usuário exclusiva (UUID), conforme mostrado no exemplo abaixo: </p> <p> <span class="codeph"> 06151304227769720433039235178204449977 </span> </p> <p>Consulte também <a href="https://docs.adobe.com/content/help/pt-BR/audience-manager/user-guide/reference/ids-in-aam.html" format="https" scope="external">Índice de IDs no Audience Manager </a>. </p> </td> 
+   <td colname="col2"> <p>O cookie <span class="wintitle">demdex</span> contém uma ID de usuário exclusiva (UUID), conforme mostrado no exemplo abaixo: </p> <p> <span class="codeph"> 06151304227769720433039235178204449977 </span> </p> <p>Consulte também <a href="https://docs.adobe.com/content/help/pt-BR/audience-manager/user-guide/reference/ids-in-aam.html" format="https" scope="external">Índice de IDs no Audience Manager</a>. </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p> <b>Outros atributos</b> </p> </td> 
@@ -128,7 +128,7 @@ A tabela a seguir lista e define os elementos de um cookie [!DNL dextp] por loca
  <tbody> 
   <tr> 
    <td colname="col1"> <p> <b>Propósito</b> </p> </td> 
-   <td colname="col2"> <p> O <span class="keyword">Audience Manager</span> define este cookie quando ocorre um erro ao enviar dados para um <a href="https://docs.adobe.com/content/help/pt-BR/audience-manager/user-guide/features/destinations/destinations.html#purposes" format="https" scope="external">destino </a>. </p> </td> 
+   <td colname="col2"> <p> O <span class="keyword">Audience Manager</span> define este cookie quando ocorre um erro ao enviar dados para um <a href="https://docs.adobe.com/content/help/pt-BR/audience-manager/user-guide/features/destinations/destinations.html#purposes" format="https" scope="external">destino</a>. </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p> <b>Conteúdo</b> </p> </td> 

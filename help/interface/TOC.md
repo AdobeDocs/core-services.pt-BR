@@ -1,24 +1,24 @@
 ---
 audience: admin
-user-guide-title: Experience Cloud Application Services e Administração
-breadcrumb-title: Experience Cloud Application Services and Administration
-user-guide-description: Adobe Experience Cloud Administration Guide includes help on Experience Cloud user and product administration, the Audience Library, Customer Attributes, and Experience Cloud assets.
+user-guide-title: Serviços e administração de Experience Cloud
+breadcrumb-title: Experience Cloud Services and Administration
+user-guide-description: Adobe Experience Cloud Services and Administration Guide includes help on Experience Cloud user and product administration, the Audience Library, Customer Attributes, cookies, and Experience Cloud assets.
 user-guide-url: https://www.adobe.com
 index: true
 translation-type: tm+mt
-source-git-commit: 1493c77ce1adc4bae3f70c4b0c0b82acde90ee47
+source-git-commit: 570cf3bd7cb86a701006e64d14ddf45c4cd24426
 workflow-type: tm+mt
-source-wordcount: '365'
-ht-degree: 96%
+source-wordcount: '360'
+ht-degree: 93%
 
 ---
 
 
-# Experience Cloud Application Services and Administration {#interface}
+# Experience Cloud Services and Administration {#interface}
 
-+ [Admin, públicos-alvo e atributos do cliente da Experience Cloud](experience-cloud.md)
-+ Serviços de aplicativos na Experience Cloud {#about-core-services}
-   + [Visão geral dos serviços de aplicativos](core-services-landing.md)
++ [Serviços e administração de Experience Cloud](experience-cloud.md)
++ Experience Cloud services {#about-core-services}
+   + [Visão geral dos serviços de Experience Cloud](core-services-landing.md)
    + [Habilitar a implementação para serviços entre soluções](core-services/core-services.md)
    + [Mapear conjuntos de relatórios para uma organização](core-services/report-suite-mapping.md)
    + [Sobre os novos nomes de nuvem na Experience Cloud](solutions-core-services.md)

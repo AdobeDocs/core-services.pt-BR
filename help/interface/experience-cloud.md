@@ -7,15 +7,15 @@ solution: Experience Cloud
 title: Experience Cloud e ajuda de serviços da plataforma
 uuid: aec6f689-e617-4876-ae6c-e961cfcb991a
 translation-type: tm+mt
-source-git-commit: 34c8fa5bbc7524e2193be688e9cda68e134be467
+source-git-commit: 570cf3bd7cb86a701006e64d14ddf45c4cd24426
 workflow-type: tm+mt
-source-wordcount: '476'
-ht-degree: 97%
+source-wordcount: '475'
+ht-degree: 98%
 
 ---
 
 
-# Experience Cloud Application Services e Administração
+# Serviços e administração de Experience Cloud
 
 A Experience Cloud é a família integrada de soluções e serviços de marketing digital da Adobe. Também é uma interface intuitiva que permite acessar rapidamente as soluções em nuvem e os serviços principais.
 

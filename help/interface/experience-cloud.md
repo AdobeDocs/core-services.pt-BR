@@ -10,12 +10,12 @@ translation-type: tm+mt
 source-git-commit: 570cf3bd7cb86a701006e64d14ddf45c4cd24426
 workflow-type: tm+mt
 source-wordcount: '475'
-ht-degree: 98%
+ht-degree: 100%
 
 ---
 
 
-# Serviços e administração de Experience Cloud
+# Serviços e administração da Experience Cloud
 
 A Experience Cloud é a família integrada de soluções e serviços de marketing digital da Adobe. Também é uma interface intuitiva que permite acessar rapidamente as soluções em nuvem e os serviços principais.
 
@@ -42,7 +42,7 @@ Este guia fornece acesso à ajuda sobre o usuário da Experience Cloud e a admin
 Os guias relacionados da Experience Cloud incluem:
 
 * [Adobe Mobile](https://docs.adobe.com/content/help/pt-BR/mobile-services/using/home.html)
-* [Gráfico Experience Platform Co-op](https://docs.adobe.com/content/help/pt-BR/device-co-op/using/home.html)
+* [Gráfico cooperativo da Experience Platform](https://docs.adobe.com/content/help/pt-BR/device-co-op/using/home.html)
 * [Exchange](https://experiencecloud.adobeexchange.com/)
 * [Serviço da Experience Cloud ID](https://docs.adobe.com/content/help/pt-BR/id-service/using/home.html)
 * [Experience Platform Launch](https://docs.adobe.com/content/help/pt-BR/launch/using/overview.html)

@@ -6,11 +6,11 @@ seo-title: Cookies da Experience Cloud
 solution: Experience Cloud,Analytics,Target
 title: Cookies da Experience Cloud
 uuid: a4788c1c-0402-4fc8-b894-cd24fa794f4f
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: 7bd5b20d24d6ed1bcf2ea8cd1555af217013127e
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '368'
-ht-degree: 79%
+ht-degree: 100%
 
 ---
 
@@ -39,7 +39,7 @@ A Adobe Experience Cloud usa cookies para armazenar a ID do visitante usada nas 
   </tr> 
   <tr> 
    <td colname="col1"> <p> Uso </p> </td> 
-   <td colname="col2"> <p>Esse cookie é definido pelo domínio do cliente depois que o cookie AMCV é definido pelo cliente. A finalidade desse cookie é permitir o rastreamento de ID persistente no estado próprio e ele é usado como ID de referência, se o cookie AMCV tiver expirado. Verifique o cookie AMCV aqui para obter mais detalhes </p> </td> 
+   <td colname="col2"> <p>Esse cookie é definido pelo domínio do cliente depois que o cookie AMCV é definido pelo cliente. A finalidade desse cookie é permitir o rastreamento de ID persistente no estado próprio e ele é usado como ID de referência, se o cookie AMCV tiver expirado. Verifique o cookie AMCV aqui para obter mais detalhes. </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p> Localização </p> </td> 
@@ -91,7 +91,7 @@ Consulte [Cookies e o serviço da ID](https://docs.adobe.com/content/help/pt-BR/
    <td colname="col2"> <p> Varia, a maioria dos clientes pode esperar que esse cookie tenha cerca de 200 bytes de comprimento. </p> </td> 
   </tr> 
   <tr> 
-   <td colname="col1"> <p>Nenhum valor adicionado. O Chrome assumirá como padrão o Lax. </p> </td> 
+   <td colname="col1"> <p>Nenhum valor adicionado. O Chrome assumirá Lax como padrão. </p> </td> 
    <td colname="col2"> <p> Os cookies com essa configuração só são enviados quando o domínio exibido no URL do navegador corresponde ao domínio do cookie. Este é o novo padrão para cookies no Chrome. </p> </td> 
   </tr> 
  </tbody> 

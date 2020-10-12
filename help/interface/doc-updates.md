@@ -6,9 +6,9 @@ seo-title: Atualizações da documentação - Experience Cloud
 solution: Experience Cloud
 title: Atualizações da documentação - Experience Cloud
 uuid: f41c4e9f-e784-4706-8c4b-f430c953670d
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: 570cf3bd7cb86a701006e64d14ddf45c4cd24426
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '263'
 ht-degree: 100%
 
@@ -19,7 +19,7 @@ ht-degree: 100%
 
 Informações sobre atualizações na documentação do produto da Experience Cloud.
 
-**Atualizado em:19/8/2020**
+**Atualizado: 19/8/2020**
 
 Os [detalhes do usuário da View Experience Cloud (Ferramenta administrativa)](admin-getting-started/admin-tool-experience-cloud.md) foram atualizados com informações de políticas.
 

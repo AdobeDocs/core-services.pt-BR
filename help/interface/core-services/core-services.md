@@ -6,16 +6,16 @@ seo-title: Ativar as soluções da Experience Cloud para atributos e públicos-a
 solution: Experience Cloud
 title: Ativar as soluções dos serviços principais
 index: true
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: 570cf3bd7cb86a701006e64d14ddf45c4cd24426
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '2403'
-ht-degree: 99%
+ht-degree: 100%
 
 ---
 
 
-# Habilitar sua implementação para serviços de Experience Cloud
+# Habilitar sua implementação para serviços da Experience Cloud
 
 Se você implementou a Experience Cloud recentemente usando o Experience Platform Launch, você já configurou os atributos do cliente e os públicos-alvo da Experience Cloud. Você também pode gerenciar usuários e produtos no Admin Console.
 
@@ -136,7 +136,7 @@ Verifique se você está na coleção de dados regionais (RDC). Se o domínio de
 
 Recomenda-se modernizar sua implementação do Analytics ao atualizar suas bibliotecas do JavaScript, incluindo a API do visitante. A maneira simples de fazer isso é adicionar uma ferramenta do [!DNL Adobe Analytics] no Dynamic Tag Management, especificando *`Automatic`* como o método de configuração.
 
-No [!UICONTROL Dynamic Tag Management], clique em **`<Web Property Name>`**  > **[!UICONTROL Visão geral]** > **[!UICONTROL Adicionar uma ferramenta]** > **[!UICONTROL Adobe Analytics]**. Consulte [Configurações do Adobe Analytics](https://docs.adobe.com/content/help/pt-BR/dtm/using/tools/analytics-dtm.html) no Dynamic Tag Management para obter informações sobre a implantação.
+No [!UICONTROL Dynamic Tag Management], clique em **`<Web Property Name>`** > **[!UICONTROL Visão geral]** > **[!UICONTROL Adicionar uma ferramenta]** > **[!UICONTROL Adobe Analytics]**. Consulte [Configurações do Adobe Analytics](https://docs.adobe.com/content/help/pt-BR/dtm/using/tools/analytics-dtm.html) no Dynamic Tag Management para obter informações sobre a implantação.
 
 ## Etapa 5. (Adobe Target) Atualizar a implementação do Adobe Target {#section_C2F4493C7A36406DAE2266B429A4BD24}
 

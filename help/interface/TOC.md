@@ -1,24 +1,24 @@
 ---
 audience: admin
-user-guide-title: Serviços e administração de Experience Cloud
+user-guide-title: Serviços e administração da Experience Cloud
 breadcrumb-title: Experience Cloud Services and Administration
 user-guide-description: Adobe Experience Cloud Services and Administration Guide includes help on Experience Cloud user and product administration, the Audience Library, Customer Attributes, cookies, and Experience Cloud assets.
 user-guide-url: https://www.adobe.com
 index: true
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: 570cf3bd7cb86a701006e64d14ddf45c4cd24426
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '360'
-ht-degree: 93%
+ht-degree: 100%
 
 ---
 
 
-# Experience Cloud Services and Administration {#interface}
+# Serviços e administração da Experience Cloud {#interface}
 
-+ [Serviços e administração de Experience Cloud](experience-cloud.md)
-+ Experience Cloud services {#about-core-services}
-   + [Visão geral dos serviços de Experience Cloud](core-services-landing.md)
++ [Serviços e administração da Experience Cloud](experience-cloud.md)
++ Serviços da Experience Cloud {#about-core-services}
+   + [Visão geral dos serviços da Experience Cloud](core-services-landing.md)
    + [Habilitar a implementação para serviços entre soluções](core-services/core-services.md)
    + [Mapear conjuntos de relatórios para uma organização](core-services/report-suite-mapping.md)
    + [Sobre os novos nomes de nuvem na Experience Cloud](solutions-core-services.md)
@@ -28,13 +28,13 @@ ht-degree: 93%
    + [Cookies primários na Experience Cloud](cookies/cookies-first-party.md)
    + [Cookies do Analytics](cookies/cookies-analytics.md)
    + [Cookies do Audience Manager](cookies/cookies-am.md)
-   + [Cookies do [!UICONTROL Data Connectors]](cookies/cookies-dc.md)
-   + [Cookies do [!UICONTROL Data Workbench]](cookies/cookies-insight.md)
+   + Cookies do [[!UICONTROL Data Connectors]](cookies/cookies-dc.md)
+   + Cookies do [[!UICONTROL Data Workbench]](cookies/cookies-insight.md)
    + [Cookies da Experience Cloud](cookies/cookies-mc.md)
    + [Cookies da Advertising Cloud](cookies/cookies-advertising-cloud.md)
-   + [Cookies do [!DNL Scene7]](cookies/cookies-s7.md)
-   + [Cookies do [!DNL Search and Promote]](cookies/cookies-snp.md)
-   + [Cookies do [!DNL Target]](cookies/cookies-target.md)
+   + Cookies do [[!DNL Scene7] ](cookies/cookies-s7.md)
+   + Cookies do [[!DNL Search and Promote] ](cookies/cookies-snp.md)
+   + Cookies do [[!DNL Target] ](cookies/cookies-target.md)
    + [Ativar as configurações de privacidade de cookies do navegador](cookies/browser-cookie-settings.md)
    + [Como as alterações no suporte a cookies de terceiros afetam os clientes](cookies/cookies-thirdparty.md)
 + Gerenciamento de usuários e de produtos {#manage-users-and-products}

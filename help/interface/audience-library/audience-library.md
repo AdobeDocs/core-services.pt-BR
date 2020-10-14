@@ -1,20 +1,20 @@
 ---
-description: Gerencie a conversão dos dados do visitante na segmentação de público na biblioteca de público-alvo da Experience Cloud.
-seo-description: Gerencie a conversão dos dados do visitante na segmentação de público na biblioteca de público-alvo da Experience Cloud.
-seo-title: Visão geral de públicos-alvo da Experience Cloud
+description: Gerencie a conversão de dados do visitante em segmentação de audiência no serviço de Audiência.
+seo-description: Gerencie a conversão de dados do visitante em segmentação de audiência no serviço de Audiência.
+seo-title: serviço Experience Cloud Audiência
 solution: Experience Cloud
-title: Visão geral de públicos-alvo da Experience Cloud
+title: 'Públicos-alvo da Experience Cloud '
 uuid: 92faf3a8-1375-4e32-905b-74cad48144d3
-translation-type: ht
-source-git-commit: 1809543ce26ed0e6dc2bf973de46384a2ef13c32
-workflow-type: ht
-source-wordcount: '837'
-ht-degree: 100%
+translation-type: tm+mt
+source-git-commit: 5a11e4e3d033ea36b6af10a51f29c8a94b5252f4
+workflow-type: tm+mt
+source-wordcount: '835'
+ht-degree: 96%
 
 ---
 
 
-# Visão geral de públicos-alvo da Experience Cloud {#topic_679810123CAA4E0CA4FA3417FB0100C7}
+# Públicos-alvo da Experience Cloud {#topic_679810123CAA4E0CA4FA3417FB0100C7}
 
 Os públicos-alvo são coleções de visitantes (uma lista de IDs de visitante). A biblioteca de público-alvo da Adobe permite gerenciar a conversão dos dados do visitante em segmentação do público-alvo. Assim, criar e gerenciar públicos-alvo é como criar e usar segmentos, com a capacidade adicional de compartilhar o segmento de público-alvo e os serviços na [!DNL Experience Cloud].
 

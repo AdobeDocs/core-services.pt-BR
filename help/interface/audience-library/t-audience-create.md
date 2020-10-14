@@ -6,11 +6,11 @@ seo-title: Criar um público-alvo
 solution: Experience Cloud
 title: Criar um público-alvo
 uuid: 7e622539-296e-4ff3-93b0-ec1c08b35429
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: cc523480327172c89d590065e4321cf1d5f9ab6e
-workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+workflow-type: ht
+source-wordcount: '494'
+ht-degree: 100%
 
 ---
 
@@ -35,7 +35,7 @@ Cada círculo representa uma regra que define a associação do público-alvo. V
 >
 >O público-alvo é totalmente definido após a conclusão da coleção de dados pelo período especificado.
 
-O exemplo a seguir mostra como criar as regras para um público-alvo composto. Esta audiência é composta por:
+O exemplo a seguir mostra como criar as regras para um público-alvo composto. Este público-alvo é composto de:
 
 * Seção Casa e jardim derivada dos dados da página ou dos dados brutos de análise.
 * Usuários do Chrome e do Safari derivados de um [!DNL Adobe Analytics] segmento [publicado](../audience-library/audience-library.md#task_32FEEFE0B32E4E388CD4D892D727282A) no [!DNL Experience Cloud].

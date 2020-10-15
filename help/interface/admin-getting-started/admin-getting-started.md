@@ -6,9 +6,9 @@ seo-title: Gerenciar usuários e produtos da Experience Cloud
 solution: Experience Cloud
 title: Gerenciar usuários e produtos da Experience Cloud
 index: true
-translation-type: ht
+translation-type: tm+mt
 source-git-commit: 2f3de19bed1085035785955ee72c94201270fe01
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '1455'
 ht-degree: 100%
 

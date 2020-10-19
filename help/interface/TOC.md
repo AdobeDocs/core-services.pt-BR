@@ -9,7 +9,7 @@ translation-type: tm+mt
 source-git-commit: 5a11e4e3d033ea36b6af10a51f29c8a94b5252f4
 workflow-type: tm+mt
 source-wordcount: '390'
-ht-degree: 98%
+ht-degree: 100%
 
 ---
 
@@ -28,13 +28,13 @@ ht-degree: 98%
    + [Cookies primários na Experience Cloud](cookies/cookies-first-party.md)
    + [Cookies do Analytics](cookies/cookies-analytics.md)
    + [Cookies do Audience Manager](cookies/cookies-am.md)
-   + [Cookies do [!UICONTROL Data Connectors]](cookies/cookies-dc.md)
-   + [Cookies do [!UICONTROL Data Workbench]](cookies/cookies-insight.md)
+   + Cookies do [[!UICONTROL Data Connectors]](cookies/cookies-dc.md)
+   + Cookies do [[!UICONTROL Data Workbench]](cookies/cookies-insight.md)
    + [Cookies da Experience Cloud](cookies/cookies-mc.md)
    + [Cookies da Advertising Cloud](cookies/cookies-advertising-cloud.md)
-   + [Cookies do [!DNL Scene7] ](cookies/cookies-s7.md)
-   + [Cookies do [!DNL Search and Promote] ](cookies/cookies-snp.md)
-   + [Cookies do [!DNL Target] ](cookies/cookies-target.md)
+   + Cookies do [[!DNL Scene7] ](cookies/cookies-s7.md)
+   + Cookies do [[!DNL Search and Promote] ](cookies/cookies-snp.md)
+   + Cookies do [[!DNL Target] ](cookies/cookies-target.md)
    + [Ativar as configurações de privacidade de cookies do navegador](cookies/browser-cookie-settings.md)
    + [Como as alterações no suporte a cookies de terceiros afetam os clientes](cookies/cookies-thirdparty.md)
 + Gerenciamento de usuários e de produtos {#manage-users-and-products}
@@ -59,11 +59,11 @@ ht-degree: 98%
    + [Requisitos para compartilhamento do arquivo do ativo](experience-cloud-assets/assets-file-reqs.md)
    + [Comportamento das pastas compartilhadas](experience-cloud-assets/asset-behavior.md)
 + Biblioteca de público-alvo da Experience Cloud {#audiences}
-   + [serviço Experience Cloud Audiência](audience-library/audience-library.md)
+   + [Serviço de públicos-alvo da Experience Cloud](audience-library/audience-library.md)
    + [Criar um público-alvo](audience-library/t-audience-create.md)
    + [Publicar um segmento de público-alvo do Analytics](audience-library/t-publish-audience-segment.md)
 + Atributos do cliente da Experience Cloud {#customer-attributes}
-   + [Serviço Atributos do cliente](attributes/attributes.md)
+   + [Serviço de atributos do cliente](attributes/attributes.md)
    + [Perguntas frequentes, limitações e práticas recomendadas](attributes/faq-crs.md)
    + [Sobre arquivo de dados e fonte de dados para atributos do cliente](attributes/crs-data-file.md)
    + [Crie uma fonte de atributo do cliente e faça upload do arquivo de dados](attributes/t-crs-usecase.md)

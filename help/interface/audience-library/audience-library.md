@@ -1,15 +1,15 @@
 ---
-description: Gerencie a conversão de dados do visitante em segmentação de audiência no serviço de Audiência.
-seo-description: Gerencie a conversão de dados do visitante em segmentação de audiência no serviço de Audiência.
-seo-title: serviço Experience Cloud Audiência
+description: Gerencie a conversão dos dados do visitante na segmentação de público no serviço de público-alvo da Experience Cloud.
+seo-description: Gerencie a conversão dos dados do visitante na segmentação de público no serviço de público-alvo da Experience Cloud.
+seo-title: Serviço de públicos-alvo da Experience Cloud
 solution: Experience Cloud
 title: 'Públicos-alvo da Experience Cloud '
 uuid: 92faf3a8-1375-4e32-905b-74cad48144d3
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: 5a11e4e3d033ea36b6af10a51f29c8a94b5252f4
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '835'
-ht-degree: 96%
+ht-degree: 100%
 
 ---
 

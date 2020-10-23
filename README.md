@@ -1,16 +1,16 @@
 ---
 source-git-commit: 05854701fc4de2d0657a09a070322944e713bc57
-workflow-type: tm+mt
-translation-type: tm+mt
+workflow-type: ht
+translation-type: ht
 source-wordcount: '509'
-ht-degree: 85%
+ht-degree: 100%
 
 ---
 # Contribuir com o artigo
 
 | EXL-PR | EXL | Visualização | Ativar | Publicado | Ajuda |
 |--- |--- |--- |--- |--- |--- |
-| [![Status da compilação](https://docs.ci.corp.adobe.com/view/exl-pr/job/core-services.en_pr-exl/badge/icon)](https://docs.ci.corp.adobe.com/view/exl-pr/job/core-services.en_pr-exl/lastBuild/) | [![Status da compilação](https://docs.ci.corp.adobe.com/view/exl-pr/job/core-services.en_exl/lastBuild/badge/icon)](https://docs.ci.corp.adobe.com/view/exl-pr/job/core-services.en_exl/lastBuild/lastBuild) | [URL de pré-visualização](https://experienceleague.corp.adobe.com/docs/core-services/interface/experience-cloud.html?lang=en) | [ativate-exl](https://docs.ci.corp.adobe.com/job/activate-exl/build/) | [Live URL](https://experienceleague.adobe.com/docs/core-services/interface/experience-cloud.html?lang=en) | [Guia de criação](https://experienceleague.adobe.com/docs/authoring-guide-exl/using/home.html?lang=en) |
+| [![Status da build](https://docs.ci.corp.adobe.com/view/exl-pr/job/core-services.en_pr-exl/badge/icon)](https://docs.ci.corp.adobe.com/view/exl-pr/job/core-services.en_pr-exl/lastBuild/) | [![Status da build](https://docs.ci.corp.adobe.com/view/exl-pr/job/core-services.en_exl/lastBuild/badge/icon)](https://docs.ci.corp.adobe.com/view/exl-pr/job/core-services.en_exl/lastBuild/lastBuild) | [URL de pré-visualização](https://experienceleague.corp.adobe.com/docs/core-services/interface/experience-cloud.html?lang=en) | [activate-exl](https://docs.ci.corp.adobe.com/job/activate-exl/build/) | [URL ativo](https://experienceleague.adobe.com/docs/core-services/interface/experience-cloud.html?lang=en) | [Guia de criação](https://experienceleague.adobe.com/docs/authoring-guide-exl/using/home.html?lang=en) |
 
 Aceitamos contribuições de nossa comunidade e de funcionários da Adobe que estão fora das equipes de documentação.
 

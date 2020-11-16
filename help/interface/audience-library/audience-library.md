@@ -5,11 +5,11 @@ seo-title: Serviço de públicos-alvo da Experience Cloud
 solution: Experience Cloud
 title: 'Públicos-alvo da Experience Cloud '
 uuid: 92faf3a8-1375-4e32-905b-74cad48144d3
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: e59e70b4c07a18456d9cd6651ef94029870d65f3
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '831'
-ht-degree: 96%
+ht-degree: 100%
 
 ---
 
@@ -28,7 +28,7 @@ Os públicos-alvo podem ser criados ou derivados de várias fontes, como:
 
 **Públicos-alvo em tempo real vs. históricos**
 
-Todos os públicos-alvo, independentemente de sua fonte, podem ser acessados para casos de uso de direcionamento em tempo real. No entanto, audiências compartilhadas do Analytics para o Audience Manager não podem ser acessadas para direcionamento em tempo real. O sistema avalia os públicos-alvo de duas maneiras:
+Todos os públicos-alvo, independentemente de sua fonte, podem ser acessados para casos de uso de direcionamento em tempo real. No entanto, os públicos-alvo compartilhados do Analytics para o Audience Manager não estão acessíveis para o direcionamento em tempo real. O sistema avalia os públicos-alvo de duas maneiras:
 
 * Os públicos-alvo de histórico do Analytics são avaliados a cada 4 horas. O tempo total para processar e compartilhar pode levar até 8 horas.  Os públicos-alvo de histórico sempre incluem visitantes de retorno.
 * Os públicos-alvo em tempo real são provenientes da Experience Cloud Audiences e avaliados em tempo real.
@@ -44,7 +44,7 @@ A tabela a seguir descreve como os públicos-alvo são usados nas soluções da 
 | Mobile Services | Analise o tráfego móvel usando a exibição de explosão solar no relatório [!UICONTROL Tipos de dispositivo]. |
 | [!DNL Target] | O [serviço de ID](https://docs.adobe.com/content/help/pt-BR/id-service/using/home.html) unifica as IDs de visitantes e os dados em um perfil único e acionável para uso em soluções. A caixa de seleção [Publicar na Experience Cloud](../audience-library/audience-library.md) durante o processo de criação de segmento no Adobe Analytics permite que o segmento fique disponível na biblioteca de público-alvo-alvo personalizado no Adobe Target. Um segmento criado no Analytics ou no Audience Manager pode ser usado em atividades no [!DNL Target]. Por exemplo, é possível criar atividades de campanha baseadas nas métricas de conversão do [!DNL Analytics] e nos segmentos de público-alvo criados no [!DNL Analytics]. |
 | Audience Manager | Os públicos-alvo compartilhados ficam disponíveis na segmentação do Audience Manager. Todos os públicos-alvo da Experience Cloud estão disponíveis originalmente no Audience Manager, que oferece:<ul><li>Automação integrada em relação ao modo como são compartilhados e consumidos em fluxos de trabalho de solução</li><li>Destinos externos</li><li>Modelo de semelhanças</li></ul> |
-| Campanha | <ul><li>Importar públicos-alvo compartilhados de diferentes soluções da Adobe Experience Cloud para o Adobe Campaign.</li><li>Exportar listas de destinatários em formato de públicos-alvo compartilhados. Esses públicos-alvo compartilhados podem ser usados nas diferentes soluções da Adobe Experience Cloud que você usa.</li></ul> |
+| Campaign | <ul><li>Importar públicos-alvo compartilhados de diferentes soluções da Adobe Experience Cloud para o Adobe Campaign.</li><li>Exportar listas de destinatários em formato de públicos-alvo compartilhados. Esses públicos-alvo compartilhados podem ser usados nas diferentes soluções da Adobe Experience Cloud que você usa.</li></ul> |
 | Media Optimizer | Use o público-alvo como destino. |
 
 >[!IMPORTANT]
@@ -72,6 +72,6 @@ A [!DNL Experience Cloud] oferece uma biblioteca para criar e gerenciar público
 | Novo | [Criar um público-alvo](../audience-library/audience-library.md). |
 | Título e descrição | Um cabeçalho de coluna que identifica e descreve o público-alvo. |
 | Autor | A pessoa que criou o segmento de público-alvo. |
-| Fonte | Identifica onde o público-alvo foi criado.<ul><li>**Analytics:** Um segmento criado no Adobe Analytics e, em seguida, [publicado no Experience Cloud](../audience-library/audience-library.md).</li><li>**Experience Cloud:** um novo público-alvo [criado a partir dos públicos-alvo da Experience Cloud](../audience-library/audience-library.md).</li><li>**Audience Manager:** públicos-alvo criados no Audience Manager são exibidos automaticamente nos Públicos-alvo da Experience Cloud.</li></ul> |
+| Fonte | Identifica onde o público-alvo foi criado.<ul><li>**Analytics:** um segmento criado no Adobe Analytics e, em seguida, [publicado na Experience Cloud](../audience-library/audience-library.md).</li><li>**Experience Cloud:** um novo público-alvo [criado a partir dos públicos-alvo da Experience Cloud](../audience-library/audience-library.md).</li><li>**Audience Manager:** públicos-alvo criados no Audience Manager são exibidos automaticamente nos Públicos-alvo da Experience Cloud.</li></ul> |
 | Tamanho atual | O tamanho atual do público-alvo. |
 | Ativo | O status ativo do segmento. |

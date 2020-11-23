@@ -5,11 +5,11 @@ seo-title: Serviço de públicos-alvo da Experience Cloud
 solution: Experience Cloud
 title: 'Públicos-alvo da Experience Cloud '
 uuid: 92faf3a8-1375-4e32-905b-74cad48144d3
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: a2dfb2e14fdb7173fb859f45228fb9b1c997e172
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '831'
-ht-degree: 99%
+ht-degree: 100%
 
 ---
 
@@ -26,7 +26,7 @@ Os públicos-alvo podem ser criados ou derivados de várias fontes, como:
 * Nos segmentos do [!DNL Analytics] publicados para a [!DNL Experience Cloud]
 * De [!DNL Audience Manager]
 
-**Audiências em tempo real versus históricas**
+**Públicos-alvo em tempo real vs. históricos**
 
 Todos os públicos-alvo, independentemente de sua fonte, podem ser acessados para casos de uso de direcionamento em tempo real. No entanto, os públicos-alvo compartilhados do Analytics para o Audience Manager não estão acessíveis para o direcionamento em tempo real. O sistema avalia os públicos-alvo de duas maneiras:
 

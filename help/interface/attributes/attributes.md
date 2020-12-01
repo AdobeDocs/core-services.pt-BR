@@ -1,21 +1,21 @@
 ---
-description: Visão geral e pré-requisitos a respeito do upload de atributos do cliente na Experience Cloud.
-keywords: core services;Customer Attributes
+description: An overview and prerequisites about uploading Customer Attributes to the Adobe Experience Cloud.
+keywords: core services;Customer Attributes; Adobe Experience Cloud; Analytics; Target
 seo-description: Visão geral e pré-requisitos a respeito do upload de atributos do cliente na Experience Cloud.
 seo-title: Serviço de atributos do cliente da Experience Cloud
 solution: Experience Cloud
-title: Serviço de atributos do cliente da Experience Cloud
+title: Adobe Experience Cloud - Serviço Atributos do cliente
 uuid: 1621402d-990f-46f9-981a-473280559069
-translation-type: ht
-source-git-commit: 5a11e4e3d033ea36b6af10a51f29c8a94b5252f4
-workflow-type: ht
-source-wordcount: '465'
-ht-degree: 100%
+translation-type: tm+mt
+source-git-commit: 9763e6f9c2521574e6c4e3d2bc4e96195eeec9f9
+workflow-type: tm+mt
+source-wordcount: '469'
+ht-degree: 94%
 
 ---
 
 
-# Serviço de atributos do cliente da Experience Cloud
+# Atributos do cliente no Adobe Experience Cloud
 
 Navegue até **[!DNL Experience Platform]** > **[!UICONTROL People]** > **[!UICONTROL Atributos do cliente]**
 

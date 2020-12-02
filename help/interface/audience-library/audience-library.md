@@ -1,36 +1,36 @@
 ---
-description: Gerencie a conversão dos dados do visitante na segmentação de público no serviço de público-alvo da Experience Cloud.
+description: Saiba como gerenciar a tradução de dados do visitante para a segmentação da audiência no serviço de Audiência da Adobe Experience Cloud.
 seo-description: Gerencie a conversão dos dados do visitante na segmentação de público no serviço de público-alvo da Experience Cloud.
 seo-title: Serviço de públicos-alvo da Experience Cloud
 solution: Experience Cloud
-title: 'Públicos-alvo da Experience Cloud '
+title: 'Adobe Experience Cloud Audiência '
 uuid: 92faf3a8-1375-4e32-905b-74cad48144d3
-translation-type: ht
-source-git-commit: a2dfb2e14fdb7173fb859f45228fb9b1c997e172
-workflow-type: ht
-source-wordcount: '831'
-ht-degree: 100%
+translation-type: tm+mt
+source-git-commit: e7d297820dbb666308c5906eca01a0c248e35fe3
+workflow-type: tm+mt
+source-wordcount: '832'
+ht-degree: 93%
 
 ---
 
 
 # Públicos-alvo da Experience Cloud {#topic_679810123CAA4E0CA4FA3417FB0100C7}
 
-Os públicos-alvo são coleções de visitantes (uma lista de IDs de visitante). A biblioteca de público-alvo da Adobe permite gerenciar a conversão dos dados do visitante em segmentação do público-alvo. Assim, criar e gerenciar públicos-alvo é como criar e usar segmentos, com a capacidade adicional de compartilhar o segmento de público-alvo e os serviços na [!DNL Experience Cloud].
+Os públicos-alvo são coleções de visitantes (uma lista de IDs de visitante). A biblioteca de público-alvo da Adobe permite gerenciar a conversão dos dados do visitante em segmentação do público-alvo. Dessa forma, a criação e o gerenciamento de audiências é semelhante à criação e ao uso de segmentos. Você também pode compartilhar o segmento de audiência com produtos e serviços em [!DNL Experience Cloud].
 
 ![](assets/audiences.png)
 
 Os públicos-alvo podem ser criados ou derivados de várias fontes, como:
 
 * Novos, criados na [!DNL Experience Cloud]
-* Nos segmentos do [!DNL Analytics] publicados para a [!DNL Experience Cloud]
-* De [!DNL Audience Manager]
+* [!DNL Analytics] segmentos publicados no [!DNL Experience Cloud]
+* [!DNL Audience Manager]
 
 **Públicos-alvo em tempo real vs. históricos**
 
 Todos os públicos-alvo, independentemente de sua fonte, podem ser acessados para casos de uso de direcionamento em tempo real. No entanto, os públicos-alvo compartilhados do Analytics para o Audience Manager não estão acessíveis para o direcionamento em tempo real. O sistema avalia os públicos-alvo de duas maneiras:
 
-* Os públicos-alvo de histórico do Analytics são avaliados a cada 4 horas. O tempo total para processar e compartilhar pode levar até 8 horas.  Os públicos-alvo de histórico sempre incluem visitantes de retorno.
+* Os públicos-alvo de histórico do Analytics são avaliados a cada 4 horas. O tempo total para processar e compartilhar pode levar até 8 horas. Os públicos-alvo de histórico sempre incluem visitantes de retorno.
 * Os públicos-alvo em tempo real são provenientes da Experience Cloud Audiences e avaliados em tempo real.
 
 ## Como as soluções usam os públicos-alvo {#concept_01EB9345C5344597BC94A864EDD38EE1}

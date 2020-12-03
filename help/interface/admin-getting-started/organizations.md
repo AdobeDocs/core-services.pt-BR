@@ -6,9 +6,9 @@ seo-title: Organizações e vinculação de contas
 solution: Experience Cloud
 title: Organizações e vinculação de contas
 uuid: ae47ad18-ac33-4efa-8b68-2bfaf77397aa
-translation-type: ht
+translation-type: tm+mt
 source-git-commit: 11ce83401a12c25853cd6412413b8abf98dd6612
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '399'
 ht-degree: 100%
 

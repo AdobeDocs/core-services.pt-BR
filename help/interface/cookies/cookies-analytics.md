@@ -6,9 +6,9 @@ seo-title: Cookies do Analytics
 solution: Experience Cloud,Analytics,Target
 title: Cookies do Analytics
 uuid: e2d3d61d-2708-48b2-a7e6-2331f2aed8e0
-translation-type: ht
+translation-type: tm+mt
 source-git-commit: c9d9a69193a877c553db73d230723f1c24dbfed6
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '812'
 ht-degree: 100%
 

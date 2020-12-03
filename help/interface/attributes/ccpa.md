@@ -1,9 +1,9 @@
 ---
 title: Suporte a atributos do cliente para a California Consumer Privacy Act
 description: Suporte a atributos do cliente para a California Consumer Privacy Act
-translation-type: ht
+translation-type: tm+mt
 source-git-commit: 4223f9260865756842ad43b99d2509908f4d6572
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '433'
 ht-degree: 100%
 

@@ -6,9 +6,9 @@ seo-title: Novidades da Experience Cloud
 solution: Experience Cloud
 title: Novidades da Experience Cloud
 uuid: bc1b1542-1a37-4da1-bcfd-fc86af881642
-translation-type: ht
+translation-type: tm+mt
 source-git-commit: 43de353155c640b3ddc519147c94d7e9ffcafe4e
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '635'
 ht-degree: 100%
 
@@ -78,7 +78,7 @@ Diversas notificações de manutenção sobre manutenções/atualizações de pr
 | Recurso | Descrição |
 |--- |--- |
 | Mapeamento em massa do conjunto de relatórios | Em Administração > Mapeamento do conjunto de relatórios, agora você pode selecionar vários conjuntos de relatórios e mapeá-los a uma organização. (Anteriormente, você tinha que mapeá-los individualmente.)  <br>[Mapear conjuntos de relatórios](../core-services/core-services.md) para uma única organização ajuda a habilitar recursos e serviços entre soluções na Experience Cloud. |
-| Atualizações aos públicos-alvo da Experience Cloud | **Aplicação dos conjuntos de relatórios **<br>Agora é possível aplicar um conjunto de relatórios a todas as suas [regras de público-alvo](../audience-library/t-audience-create.md). (Anteriormente, você tinha que especificar um conjunto de relatórios em cada definição de regra.)<br>**Props e variáveis**<br>Agora é possível incluir props do Analytics e variáveis padrão (além das eVars e eventos) em públicos-alvo em tempo real. |
+| Atualizações aos públicos-alvo da Experience Cloud | **Aplicação dos conjuntos de relatórios**<br> Agora é possível aplicar um conjunto de relatórios a todas as suas [regras de público-alvo](../audience-library/t-audience-create.md). (Anteriormente, você tinha que especificar um conjunto de relatórios em cada definição de regra.) <br>**Props e variáveis**<br> Agora é possível incluir props do Analytics e variáveis padrão (além das eVars e eventos) em públicos-alvo em tempo real. |
 
 ## 8 de novembro de 2016 - 16.11.1 {#section_7065A9BCCDF544C2BB37E9A7D661EA6A}
 

@@ -5,9 +5,9 @@ seo-description: Compartilhe pastas e ativos entre a Experience Cloud e a Creati
 seo-title: Compartilhar as pastas e os ativos da Experience Cloud com a Creative Cloud
 solution: Experience Cloud
 title: Compartilhar as pastas e os ativos da Experience Cloud com a Creative Cloud
-translation-type: ht
+translation-type: tm+mt
 source-git-commit: 31811e718be130612c8688e80084cb7579e94f47
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '246'
 ht-degree: 100%
 

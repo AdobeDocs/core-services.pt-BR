@@ -6,9 +6,9 @@ seo-title: Ativar as configurações de privacidade de cookies do navegador
 solution: Experience Cloud, Analytics, Target, Social
 title: Ativar as configurações de privacidade de cookies do navegador
 uuid: f6a56e8b-b021-49db-8eb4-6c14af0c7243
-translation-type: ht
+translation-type: tm+mt
 source-git-commit: 11ce83401a12c25853cd6412413b8abf98dd6612
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '329'
 ht-degree: 100%
 

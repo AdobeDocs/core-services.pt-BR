@@ -1,5 +1,5 @@
 ---
-description: An overview and prerequisites about uploading Customer Attributes to the Adobe Experience Cloud.
+description: Uma visão geral e pré-requisitos sobre como fazer upload dos Atributos do cliente para a Adobe Experience Cloud.
 keywords: core services;Customer Attributes; Adobe Experience Cloud; Analytics; Target
 seo-description: Visão geral e pré-requisitos a respeito do upload de atributos do cliente na Experience Cloud.
 seo-title: Serviço de atributos do cliente da Experience Cloud

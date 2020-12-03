@@ -6,9 +6,9 @@ seo-title: Sobre arquivo de dados e fonte de dados para atributos do cliente
 solution: Experience Cloud
 title: Sobre arquivo de dados e fonte de dados para atributos do cliente
 uuid: 9dd0e364-889b-45db-b190-85c0930a101e
-translation-type: ht
+translation-type: tm+mt
 source-git-commit: 0bc7032d0052ba03beac1140dfbfd630e1802bfd
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '1218'
 ht-degree: 100%
 

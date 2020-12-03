@@ -1,6 +1,6 @@
 ---
 description: Regras sobre como as pastas compartilhadas se comportam quando são movidas, excluídas ou restauradas.
-keywords: 'compartilhamento de ativos, Creative Cloud, '
+keywords: asset sharing;Creative Cloud;core services
 seo-description: Regras sobre como as pastas compartilhadas se comportam quando são movidas, excluídas ou restauradas.
 seo-title: Comportamento das pastas compartilhadas
 solution: Experience Cloud
@@ -8,6 +8,9 @@ title: Comportamento das pastas compartilhadas
 uuid: 86348401-f4b1-4efe-acd1-7e73a7030edf
 translation-type: tm+mt
 source-git-commit: af5339fe58ce884345804574c209907d6504a483
+workflow-type: tm+mt
+source-wordcount: '571'
+ht-degree: 51%
 
 ---
 
@@ -18,15 +21,15 @@ Regras sobre como as pastas compartilhadas se comportam quando são movidas, exc
 
 >[!NOTE]
 >
->As pastas e os ativos compartilhados da Experience Cloud são espelhados no desktop da Creative Cloud em uma relação 1:1. Se um usuário da Experience Cloud mudar uma pasta (excluir, adicionar ou remover o compartilhamento), a ação será espelhada no desktop da Creative Cloud e na Web. Assim, se o compartilhamento de uma pasta for cancelado, a pasta e os ativos serão excluídos da máquina local. Quando o compartilhamento é removido, a pasta e seu conteúdo são movidos para a lixeira do computador local, onde é possível restaurá-los manualmente para a máquina.
+>As pastas e os ativos compartilhados da Experience Cloud são espelhados no desktop da Creative Cloud em uma relação 1:1. Se um usuário da Experience Cloud mudar uma pasta (excluir, adicionar ou remover o compartilhamento), a ação será espelhada no desktop da Creative Cloud e na Web. Assim, se o compartilhamento de uma pasta for cancelado, a pasta e os ativos serão excluídos da máquina local. Depois que o compartilhamento for removido, a pasta e seu conteúdo serão movidos para a lixeira do computador local, onde você poderá restaurá-los manualmente para o computador.
 
 ## Pasta não compartilhada na pasta compartilhada {#section_A9BAC1A244A246A984AC62660E61E0C0}
 
-Você move uma pasta não compartilhada em uma pasta compartilhada:
+Você move uma pasta não compartilhada para uma pasta compartilhada:
 
 ![](assets/01_assets_move.png)
 
-**Resultado**: ambas as pastas se tornam compartilhadas.
+**Resultado**: Ambas as pastas se tornam compartilhadas.
 
 ## Pasta compartilhada na pasta não compartilhada {#section_8BA83001DCEC4CF084B980C4A660F59A}
 
@@ -38,7 +41,7 @@ Você move uma pasta compartilhada para uma pasta não compartilhada.
 
 ## Conteúdo da pasta não compartilhada na pasta compartilhada {#section_2941ED0DC52E4573AC1AB4C22313DD8E}
 
-Você move o conteúdo de uma pasta não compartilhada em uma pasta compartilhada.
+Você move o conteúdo de uma pasta não compartilhada para uma pasta compartilhada.
 
 ![](assets/03_assets_move.png)
 
@@ -46,7 +49,7 @@ Você move o conteúdo de uma pasta não compartilhada em uma pasta compartilhad
 
 ## Conteúdo compartilhado arquivado e excluído {#section_5210D5F4943A44D0BA675D8EB4EAE20F}
 
-Você arquiva ou exclui o conteúdo de uma pasta compartilhada.
+Você arquiva ou exclui o conteúdo que reside em uma pasta compartilhada.
 
 ![](assets/04_assets_move.png)
 
@@ -54,7 +57,7 @@ Você arquiva ou exclui o conteúdo de uma pasta compartilhada.
 
 ## Conteúdo compartilhado próprio em uma pasta não compartilhada {#section_3810A364B67E4B8C9CA244BC52BF91BB}
 
-Você move o conteúdo de uma pasta compartilhada que possui em uma pasta não compartilhada.
+Você move o conteúdo de uma pasta compartilhada de sua propriedade para uma pasta não compartilhada.
 
 ![](assets/05_assets_move.png)
 
@@ -68,11 +71,11 @@ Você move o conteúdo da pasta compartilhada de propriedade de outra pessoa par
 
 **Resultado:** o conteúdo aparece na pasta não compartilhada e é removido da pasta compartilhada. Os colaboradores da pasta compartilhada não têm mais acesso ao conteúdo. O conteúdo é arquivado para o proprietário da pasta compartilhada.
 
-Os proprietários e editores podem mover o conteúdo que não é de sua propriedade, mas os visualizadores não. Se os proprietários e editores moverem o conteúdo, ele não estará disponível em uma pasta compartilhada para um usuário.
+Os proprietários e editores podem mover o conteúdo que não é de sua propriedade, mas os visualizadores não. Se os proprietários e editores moverem o conteúdo, ele não estará disponível em uma pasta compartilhada para nenhum usuário.
 
 ## Pasta própria arquivada ou excluída {#section_B314B13512A5409C87C49DFDB7602E14}
 
-Você arquiva (pela Web) ou exclui (pelo desktop) uma pasta compartilhada de sua propriedade.
+Você arquiva (pela Web) ou exclui (pela área de trabalho) uma pasta compartilhada de sua propriedade.
 
 ![](assets/07_assets_move.png)
 
@@ -84,20 +87,20 @@ Você move uma pasta compartilhada de sua propriedade para outra pasta compartil
 
 ![](assets/09_assets_move.png)
 
-**Resultado:** quando a pasta é movida para a Pasta 2, ela passa a ser compartilhada com os novos colaboradores.
+**Resultado:** À medida que a pasta é movida para a Pasta 2, ela se torna compartilhada com os novos colaboradores.
 
 ## Conteúdo compartilhado em outra pasta compartilhada {#section_69F6C312792A4CD2831BD14A340F850E}
 
-Você move conteúdo de uma pasta compartilhada para outra pasta compartilhada.
+Você move o conteúdo de uma pasta compartilhada para outra pasta compartilhada.
 
 ![](assets/11_assets_move.png)
 
-**Resultado:** o conteúdo é exibido na Pasta 2 e agora é compartilhado com os novos colaboradores. O conteúdo é removido da Pasta 1 e o proprietário o visualiza como arquivado, ao passo que outros colaboradores não têm mais acesso a ele.
+**Resultado:** o conteúdo é exibido na Pasta 2 e agora é compartilhado com os novos colaboradores. O conteúdo é removido da Pasta 1 e o proprietário o vê como arquivado, enquanto os outros colaboradores não têm mais acesso a ele.
 
 ## Conteúdo restaurado no arquivo {#section_DEA990B3581741F89FBB81D18C2AB449}
 
-Você restaura o conteúdo de um arquivo que pertence a uma pasta compartilhada. Você se torna proprietário do conteúdo no momento em que ele foi arquivado.
+Você restaura o conteúdo de um arquivo que pertence a uma pasta compartilhada. Você é o proprietário do conteúdo no momento em que ele foi arquivado.
 
 ![](assets/12_assets_move.png)
 
-**Resultado:** o conteúdo é restaurado para a pasta compartilhada e todos os colaboradores podem acessá-lo novamente. Se a pasta compartilhada não existir mais, o conteúdo será colocado em uma cópia não compartilhada da pasta pai original.
+**Resultado:** o conteúdo é restaurado para a pasta compartilhada e todos os colaboradores podem acessá-lo novamente. Se a pasta compartilhada não existir mais, o conteúdo será colocado em uma cópia não compartilhada de sua pasta pai original.

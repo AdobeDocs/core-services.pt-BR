@@ -6,9 +6,9 @@ seo-title: Como as alterações no suporte a cookies de terceiros afeta os clien
 solution: Experience Cloud,Analytics,Target
 title: Como as alterações no suporte a cookies de terceiros afeta os clientes
 uuid: 27332e0d-6932-4a6e-b97b-0adeced0b050
-translation-type: ht
+translation-type: tm+mt
 source-git-commit: 11ce83401a12c25853cd6412413b8abf98dd6612
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '368'
 ht-degree: 100%
 

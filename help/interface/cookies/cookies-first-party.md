@@ -7,11 +7,11 @@ solution: Experience Cloud,Analytics
 title: Cookies próprios
 index: y
 snippet: y
-translation-type: ht
+translation-type: tm+mt
 source-git-commit: b34cec87be58b9a4df3e9b061010689e5db4adb6
-workflow-type: ht
-source-wordcount: '1462'
-ht-degree: 100%
+workflow-type: tm+mt
+source-wordcount: '1460'
+ht-degree: 99%
 
 ---
 
@@ -110,7 +110,7 @@ Se você tiver um CNAME configurado e o certificado instalado, poderá usar o na
 
 ### Validar usando o [!DNL curl]
 
-A Adobe recomenda usar [[!DNL curl]](https://curl.haxx.se/) a partir da linha de comando. (os usuários do [!DNL Windows] podem instalar [!DNL curl] de: <https://curl.haxx.se/windows/>)
+Adobe recommends using [[!DNL curl]](https://curl.haxx.se/) from the command line. (os usuários do [!DNL Windows] podem instalar [!DNL curl] de: <https://curl.haxx.se/windows/>)
 
 Se você tiver um CNAME mas nenhum certificado estiver instalado, execute:
 `curl -k https://sstats.adobe.com/_check`

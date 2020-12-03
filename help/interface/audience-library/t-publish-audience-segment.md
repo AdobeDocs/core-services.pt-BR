@@ -1,9 +1,9 @@
 ---
 title: Publicar um segmento de público-alvo do Analytics
 description: Publique um segmento de público-alvo do Analytics na Experience Cloud e no Adobe Target para as atividades de marketing do público-alvo.
-translation-type: ht
+translation-type: tm+mt
 source-git-commit: 631cf29b724c6edd8027c772789df72ae2ab5eb8
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '62'
 ht-degree: 100%
 

@@ -6,9 +6,9 @@ seo-title: Fazer logon e gerenciar as configurações do seu perfil
 solution: Experience Cloud
 title: Fazer logon e gerenciar as configurações do perfil
 uuid: c1e13b99-0069-4fdb-8d72-ddcec3ed1121
-translation-type: ht
+translation-type: tm+mt
 source-git-commit: c8d38647750747212c2b825feff600419c1f3352
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '962'
 ht-degree: 100%
 

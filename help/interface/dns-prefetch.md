@@ -1,15 +1,13 @@
 ---
-description: Implemente a pré-busca DNS para ajudar a reduzir o tempo de carregamento da página com soluções e serviços diferentes.
-seo-description: Implemente a pré-busca DNS para ajudar a reduzir o tempo de carregamento da página com soluções e serviços diferentes.
-seo-title: Uso da pré-busca DNS com diferentes soluções e serviços
+description: Como implementar a pré-busca DNS para ajudar a reduzir o tempo de carregamento da página com soluções e serviços diferentes no Adobe Experience Cloud.
 solution: Experience Cloud
-title: Uso da pré-busca DNS com diferentes soluções e serviços
+title: Uso da pré-busca DNS com soluções e serviços diferentes | Adobe Experience Cloud
 uuid: 4220e223-e00e-46b1-8bde-52248913bea1
 translation-type: tm+mt
-source-git-commit: 3e86fe7ee638158b5f9d6fa4405caaeb9b092430
+source-git-commit: 4bea0c29afa580dc63b21535ce5c275cd649c9a5
 workflow-type: tm+mt
-source-wordcount: '396'
-ht-degree: 100%
+source-wordcount: '383'
+ht-degree: 91%
 
 ---
 

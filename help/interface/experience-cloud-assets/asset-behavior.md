@@ -1,16 +1,14 @@
 ---
-description: Regras sobre como as pastas compartilhadas se comportam quando são movidas, excluídas ou restauradas.
+description: Saiba mais sobre as regras de como as pastas compartilhadas se comportam quando movidas, excluídas e restauradas no Experience Cloud.
 keywords: asset sharing;Creative Cloud;core services
-seo-description: Regras sobre como as pastas compartilhadas se comportam quando são movidas, excluídas ou restauradas.
-seo-title: Comportamento das pastas compartilhadas
 solution: Experience Cloud
-title: Comportamento das pastas compartilhadas
+title: Comportamento das pastas compartilhadas | Adobe Experience Cloud
 uuid: 86348401-f4b1-4efe-acd1-7e73a7030edf
 translation-type: tm+mt
-source-git-commit: af5339fe58ce884345804574c209907d6504a483
+source-git-commit: 4bea0c29afa580dc63b21535ce5c275cd649c9a5
 workflow-type: tm+mt
-source-wordcount: '571'
-ht-degree: 51%
+source-wordcount: '564'
+ht-degree: 46%
 
 ---
 

@@ -1,22 +1,20 @@
 ---
-description: Compartilhe pastas e ativos entre a Experience Cloud e a Creative Cloud. Colabore, anote ativos compartilhados e use-os nas soluções da Experience Cloud, como o Adobe Social e o Adobe Target. A pasta compartilhada deve se originar da Experience Cloud.
+description: 'Saiba mais sobre como compartilhar pastas e ativos entre Experience Cloud e Creative Cloud. '
 keywords: asset sharing;Creative Cloud;core services
-seo-description: Compartilhe pastas e ativos entre a Experience Cloud e a Creative Cloud. Colabore, anote ativos compartilhados e use-os nas soluções da Experience Cloud, como o Adobe Social e o Adobe Target. A pasta compartilhada deve se originar da Experience Cloud.
-seo-title: Compartilhar as pastas e os ativos da Experience Cloud com a Creative Cloud
 solution: Experience Cloud
-title: Compartilhar as pastas e os ativos da Experience Cloud com a Creative Cloud
+title: Compartilhar pastas e ativos do Experience Cloud com o Creative Cloud | Adobe Experience Cloud
 translation-type: tm+mt
-source-git-commit: 31811e718be130612c8688e80084cb7579e94f47
+source-git-commit: 4bea0c29afa580dc63b21535ce5c275cd649c9a5
 workflow-type: tm+mt
-source-wordcount: '246'
-ht-degree: 100%
+source-wordcount: '174'
+ht-degree: 75%
 
 ---
 
 
 # Compartilhar as pastas e os ativos da Experience Cloud com a Creative Cloud
 
-Compartilhe pastas e ativos entre a Experience Cloud e a Creative Cloud. Colabore, anote ativos compartilhados e use-os nas soluções da Experience Cloud, como o Adobe Social e o Adobe Target. A pasta compartilhada deve se originar da Experience Cloud.
+Compartilhe pastas e ativos entre Experience Cloud e Creative Cloud. Colabore, anote ativos compartilhados e use-os nas soluções da Experience Cloud, como o Adobe Social e o Adobe Target. A pasta compartilhada deve se originar do Experience Cloud.
 
 ## Benefícios do compartilhamento {#section_4AA9939F38064280BB181D5F9E1FDEEE}
 

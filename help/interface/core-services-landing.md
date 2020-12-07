@@ -1,15 +1,12 @@
 ---
 description: Saiba mais sobre o gerenciamento de usuários e produtos da Adobe Experience Cloud, People (públicos e atributos do cliente), Journey Orchestration, Offers, Places, Experience Platform Launch e Mobile Services.
-seo-description: Saiba mais sobre o gerenciamento de usuários e de produtos da Adobe Experience Cloud, People (públicos e atributos do cliente), Offers, Experience Platform Launch e Mobile Services.
-seo-title: Serviços e gerenciamento de usuários da Experience Cloud
 solution: Experience Cloud
-title: Sobre os serviços da Experience Cloud
-index: true
+title: Visão geral dos serviços de Experience Cloud | Adobe Experience Cloud
 translation-type: tm+mt
-source-git-commit: 570cf3bd7cb86a701006e64d14ddf45c4cd24426
+source-git-commit: 7dbf1fa59ac856d84309bff6fabe3462bf49ccf1
 workflow-type: tm+mt
-source-wordcount: '505'
-ht-degree: 100%
+source-wordcount: '481'
+ht-degree: 98%
 
 ---
 
@@ -18,7 +15,9 @@ ht-degree: 100%
 
 Os serviços da Adobe Experience Cloud incluem o [!UICONTROL People] (públicos-alvo e atributos do cliente), Experience Platform Launch e Mobile Services. Você também pode encontrar ajuda para gerenciar usuários e produtos da Experience Cloud.
 
-Para acessar esses serviços na Experience Cloud, clique no **[!UICONTROL Seletor de aplicativos]** ![](assets/menu-icon.png).
+Para acessar esses serviços na Experience Cloud, clique no **[!UICONTROL Seletor de aplicativos]**
+
+![](assets/menu-icon.png).
 
 ![](assets/platform-core-services.png)
 

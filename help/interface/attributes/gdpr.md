@@ -1,11 +1,11 @@
 ---
-title: Suporte a Atributos do cliente para o Regulamento Geral sobre a Proteção de Dados
-description: Suporte a Atributos do cliente para o Regulamento Geral sobre a Proteção de Dados
+title: Suporte a Atributos do cliente para o Regulamento Geral sobre a Proteção de Dados | Adobe Experience Cloud
+description: Saiba mais sobre o suporte a atributos do cliente para o Regulamento geral de proteção de dados
 translation-type: tm+mt
-source-git-commit: 4223f9260865756842ad43b99d2509908f4d6572
+source-git-commit: 4bea0c29afa580dc63b21535ce5c275cd649c9a5
 workflow-type: tm+mt
-source-wordcount: '430'
-ht-degree: 100%
+source-wordcount: '435'
+ht-degree: 97%
 
 ---
 

@@ -1,16 +1,14 @@
 ---
-description: O processo de validação permite mapear os nomes de exibição e as descrições aos atributos carregados (sequências, números inteiros, números e assim por diante). Um esquema é criado com base nessas configurações. O esquema é usado para validar todos os dados futuros carregados nessa fonte de dados. Esse processo de mapeamento não altera os dados originais.
-keywords: Customer Attributes;core services
-seo-description: O processo de validação permite mapear os nomes de exibição e as descrições aos atributos carregados (sequências, números inteiros, números e assim por diante). Um esquema é criado com base nessas configurações. O esquema é usado para validar todos os dados futuros carregados nessa fonte de dados. Esse processo de mapeamento não altera os dados originais.
-seo-title: Validar o esquema
+description: Saiba como validar o schema de atributo do cliente no Adobe Experience Cloud.
+keywords: Customer Attributes;Experience Cloud services
 solution: Experience Cloud
-title: Validar o esquema
+title: Como validar o schema de atributo do cliente | Adobe Experience Cloud
 uuid: 163a4dbe-d60b-4089-8ff8-65f7461fbdf7
 translation-type: tm+mt
-source-git-commit: 0bc7032d0052ba03beac1140dfbfd630e1802bfd
+source-git-commit: 4bea0c29afa580dc63b21535ce5c275cd649c9a5
 workflow-type: tm+mt
-source-wordcount: '551'
-ht-degree: 100%
+source-wordcount: '467'
+ht-degree: 95%
 
 ---
 

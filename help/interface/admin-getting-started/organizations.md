@@ -1,11 +1,11 @@
 ---
 description: Saiba mais sobre organizações e como vincular contas de soluções à Experience Cloud.
 keywords: Adobe Experience Cloud services
-solution: Adobe Experience Cloud
+solution: Experience Cloud
 title: Organizações e vinculação de contas | Adobe Experience Cloud
 uuid: ae47ad18-ac33-4efa-8b68-2bfaf77397aa
 translation-type: tm+mt
-source-git-commit: 4bea0c29afa580dc63b21535ce5c275cd649c9a5
+source-git-commit: dae4bbecc05ed6a78470354f82e4e3cd8f003660
 workflow-type: tm+mt
 source-wordcount: '388'
 ht-degree: 100%

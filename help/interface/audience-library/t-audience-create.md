@@ -1,16 +1,14 @@
 ---
-description: Saiba mais sobre como usar as regras de atributo para criar um público-alvo e definir um público-alvo composto na Experience Cloud.
+description: Saiba como usar regras de atributo para criar uma audiência e definir uma audiência composta no Adobe Experience Cloud.
 keywords: core services
-seo-description: Saiba mais sobre como usar as regras de atributo para criar um público-alvo e definir um público-alvo composto na Experience Cloud.
-seo-title: Criar um público-alvo
-solution: Experience Cloud
-title: Criar um público-alvo
+solution: Adobe Experience Cloud
+title: Criar uma audiência | Adobe Experience Cloud
 uuid: 7e622539-296e-4ff3-93b0-ec1c08b35429
 translation-type: tm+mt
-source-git-commit: cc523480327172c89d590065e4321cf1d5f9ab6e
+source-git-commit: 4bea0c29afa580dc63b21535ce5c275cd649c9a5
 workflow-type: tm+mt
-source-wordcount: '494'
-ht-degree: 100%
+source-wordcount: '475'
+ht-degree: 94%
 
 ---
 

@@ -1,23 +1,21 @@
 ---
-description: Tipos de arquivo permitidos e limites de tamanho para compartilhar ativos entre a Experience Cloud e a Creative Cloud.
+description: Saiba mais sobre os tipos de arquivos permitidos e as limitações de tamanho para compartilhar ativos entre o Adobe Experience Cloud e o Creative Cloud.
 keywords: asset sharing;Creative Cloud;core services
-seo-description: Tipos de arquivo permitidos e limites de tamanho para compartilhar ativos entre a Experience Cloud e a Creative Cloud.
-seo-title: Requisitos para compartilhamento do arquivo do ativo
 solution: Experience Cloud
-title: Requisitos para compartilhamento do arquivo do ativo
+title: Requisitos de arquivo para compartilhar ativos | Adobe Experience Cloud
 uuid: 1621accf-c407-437b-ae12-61f13cc338d0
 translation-type: tm+mt
-source-git-commit: af5339fe58ce884345804574c209907d6504a483
+source-git-commit: 4bea0c29afa580dc63b21535ce5c275cd649c9a5
 workflow-type: tm+mt
-source-wordcount: '142'
-ht-degree: 62%
+source-wordcount: '125'
+ht-degree: 20%
 
 ---
 
 
-# Requisitos para compartilhamento do arquivo do ativo
+# Requisitos de arquivo para compartilhar ativos
 
-Tipos de arquivo permitidos e limites de tamanho para compartilhar ativos entre a Experience Cloud e a Creative Cloud.
+Tipos de arquivos permitidos e limitações de tamanho para compartilhar ativos entre Experience Cloud e Creative Cloud.
 
 ## Tipos de arquivo permitidos para upload {#section_52B6A40BB00B45BC944C01C49B4BB590}
 

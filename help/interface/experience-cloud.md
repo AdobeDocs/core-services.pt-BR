@@ -1,16 +1,14 @@
 ---
-description: Autoajuda, documentação do produto e documentação técnica da Adobe Experience Cloud. Inclui a administração de usuários e produtos no Admin Console, habilitando soluções para serviços de plataforma e ajuda na Biblioteca de público-alvo, Atributos do cliente, Ativos da Experience Cloud e muito mais.
-keywords: platform services
-seo-description: Ajuda sobre a administração de usuários e produtos no Admin Console, habilitando soluções para serviços de plataforma e ajuda sobre a Biblioteca de público-alvo, Atributos do cliente, Ativos da Experience Cloud e muito mais.
-seo-title: Adobe Experience Cloud e serviços de plataforma de ajuda e documentação do produto.
+description: Saiba mais sobre a administração de usuários e produtos no Adobe Admin Console, habilite soluções para os serviços de Experience Cloud e saiba mais sobre a Biblioteca de Audiências, Atributos do cliente, Ativos do Experience Cloud e muito mais.
+keywords: Adobe Experience Cloud services, customer attributes, audiences, user and product administration
 solution: Experience Cloud
-title: Experience Cloud e ajuda de serviços da plataforma
+title: Experience Cloud e administração | Adobe Experience Cloud
 uuid: aec6f689-e617-4876-ae6c-e961cfcb991a
 translation-type: tm+mt
-source-git-commit: 570cf3bd7cb86a701006e64d14ddf45c4cd24426
+source-git-commit: 4bea0c29afa580dc63b21535ce5c275cd649c9a5
 workflow-type: tm+mt
-source-wordcount: '475'
-ht-degree: 100%
+source-wordcount: '429'
+ht-degree: 91%
 
 ---
 

@@ -1,23 +1,21 @@
 ---
-description: Atributos do cliente — perguntas frequentes e práticas recomendadas para o Adobe Analytics e o Adobe Target.
+description: Perguntas frequentes sobre os atributos do cliente no Adobe Experience Cloud, no Adobe Analytics e no Adobe Target.
 keywords: Customer Attributes
-seo-description: Perguntas frequentes e práticas recomendadas para atributos do cliente no Analytics e no Target.
-seo-title: Perguntas frequentes, limitações e práticas recomendadas
-solution: Experience Cloud
-title: Atributos do cliente — perguntas frequentes sobre a Adobe Experience Cloud
+solution: Adobe Experience Cloud
+title: Obtenha respostas para perguntas frequentes sobre os atributos do cliente | Adobe Experience Cloud
 uuid: e93eb531-23c7-4d75-92e8-75699f58546a
 translation-type: tm+mt
-source-git-commit: 9763e6f9c2521574e6c4e3d2bc4e96195eeec9f9
+source-git-commit: 4bea0c29afa580dc63b21535ce5c275cd649c9a5
 workflow-type: tm+mt
-source-wordcount: '1245'
-ht-degree: 100%
+source-wordcount: '1236'
+ht-degree: 96%
 
 ---
 
 
 # Perguntas frequentes, limitações e práticas recomendadas
 
-Perguntas frequentes e práticas recomendadas para atributos do cliente no Analytics e no Target.
+Perguntas frequentes e práticas recomendadas para Atributos do cliente no Adobe Analytics e Adobe Target.
 
 ## Práticas recomendadas e limitações {#section_7F5189B3DAA84EE6865B91D2026EE05A}
 

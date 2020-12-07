@@ -1,16 +1,14 @@
 ---
-description: Saiba mais sobre como fazer logon no Admin Console, gerenciar permissões de usuário e perfis de produto da Experience Cloud e suporte ao navegador.
-keywords: core services
-seo-description: Saiba mais sobre como fazer logon no Admin Console, gerenciar permissões de usuário e perfis de produto da Experience Cloud e suporte ao navegador.
-seo-title: Gerenciar usuários e produtos da Experience Cloud
-solution: Experience Cloud
-title: Gerenciar usuários e produtos da Experience Cloud
+description: Saiba mais sobre como fazer logon no Adobe Admin Console, gerenciar permissões de usuário do Experience Cloud, perfis de produtos e suporte ao navegador.
+keywords: Experience Cloud services
+solution: Adobe Experience Cloud
+title: Saiba como gerenciar usuários e produtos | Adobe Experience Cloud
 index: true
 translation-type: tm+mt
-source-git-commit: 2f3de19bed1085035785955ee72c94201270fe01
+source-git-commit: 4bea0c29afa580dc63b21535ce5c275cd649c9a5
 workflow-type: tm+mt
-source-wordcount: '1455'
-ht-degree: 100%
+source-wordcount: '1435'
+ht-degree: 97%
 
 ---
 

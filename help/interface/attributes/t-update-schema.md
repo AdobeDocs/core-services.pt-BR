@@ -1,14 +1,12 @@
 ---
-description: Como excluir e substituir atributos no esquema.
-seo-description: Como excluir e substituir atributos no esquema.
-seo-title: Atualizar o esquema (excluir um atributo)
-title: Atualizar o esquema (excluir um atributo)
+description: Como excluir e substituir atributos no schema no Adobe Experience Cloud.
+title: Atualizar o schema (excluir um atributo) | Adobe Experience Cloud
 uuid: a465fa89-6c7f-4c07-aa59-84c968a82917
 translation-type: tm+mt
-source-git-commit: 43de353155c640b3ddc519147c94d7e9ffcafe4e
+source-git-commit: 4bea0c29afa580dc63b21535ce5c275cd649c9a5
 workflow-type: tm+mt
-source-wordcount: '69'
-ht-degree: 100%
+source-wordcount: '61'
+ht-degree: 63%
 
 ---
 

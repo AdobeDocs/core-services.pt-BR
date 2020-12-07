@@ -1,21 +1,19 @@
 ---
 description: Saiba mais sobre fontes de dados de solução e como configurar assinaturas. As assinaturas permitem que o cliente atribua o fluxo de dados entre a Experience Cloud e as soluções (Analytics e Target).
 keywords: Customer Attributes;core services
-seo-description: Saiba mais sobre fontes de dados de solução e como configurar assinaturas. As assinaturas permitem que o cliente atribua o fluxo de dados entre a Experience Cloud e as soluções (Analytics e Target).
-seo-title: Configurar assinaturas
 solution: Experience Cloud
-title: Configurar assinaturas
+title: Como configurar o subscrição | Adobe Experience Cloud
 uuid: f74a8155-0a21-46b3-9b1e-4c838f72f24f
 translation-type: tm+mt
-source-git-commit: 0bc7032d0052ba03beac1140dfbfd630e1802bfd
+source-git-commit: 4bea0c29afa580dc63b21535ce5c275cd649c9a5
 workflow-type: tm+mt
-source-wordcount: '400'
-ht-degree: 100%
+source-wordcount: '384'
+ht-degree: 96%
 
 ---
 
 
-# Configurar assinaturas
+# Como configurar o subscrição no Experience Cloud
 
 Saiba mais sobre fontes de dados de solução e como configurar assinaturas. As assinaturas permitem que o cliente atribua o fluxo de dados entre a Experience Cloud e as soluções (Analytics e [!DNL Target]).
 

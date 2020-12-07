@@ -1,16 +1,14 @@
 ---
-description: A manutenção da privacidade do cliente e da segurança de dados são as principais prioridades da Adobe. A Adobe participa de várias organizações de privacidade e coopera com reguladores de privacidade e princípios autorreguladores (como o programa Digital Advertising Alliance AdChoices) para fornecer aos clientes informações sobre como suas informações são usadas e opções sobre o uso.
+description: Saiba mais sobre cookies e privacidade nas soluções e serviços da Adobe Experience Cloud.
 keywords: cookies;privacy
-seo-description: A manutenção da privacidade do cliente e da segurança de dados são as principais prioridades da Adobe. A Adobe participa de várias organizações de privacidade e coopera com reguladores de privacidade e princípios autorreguladores (como o programa Digital Advertising Alliance AdChoices) para fornecer aos clientes informações sobre como suas informações são usadas e opções sobre o uso.
-seo-title: Sobre cookies e privacidade
 solution: Experience Cloud,Analytics,Target
-title: Sobre cookies e privacidade
+title: Visão geral de cookies e privacidade | Adobe Experience Cloud
 uuid: 7fb36845-6282-438a-bbc6-0c3cf95de1c9
 translation-type: tm+mt
-source-git-commit: 11ce83401a12c25853cd6412413b8abf98dd6612
+source-git-commit: 4bea0c29afa580dc63b21535ce5c275cd649c9a5
 workflow-type: tm+mt
-source-wordcount: '421'
-ht-degree: 100%
+source-wordcount: '335'
+ht-degree: 94%
 
 ---
 

@@ -1,16 +1,14 @@
 ---
-description: Como o suporte a cookies de terceiros se tornou cada vez mais limitado nos navegadores, a Adobe tem trabalhado em novas soluções que equilibram as necessidades do cliente com seu direito de privacidade nas soluções da Adobe Experience Cloud.
+description: Saiba mais sobre como o suporte a cookies de terceiros se tornou cada vez mais limitado nos navegadores.
 keywords: cookies;privacy
-seo-description: Como o suporte a cookies de terceiros se tornou cada vez mais limitado nos navegadores, a Adobe tem trabalhado em novas soluções que equilibram as necessidades do cliente com seu direito de privacidade nas soluções da Adobe Experience Cloud.
-seo-title: Como as alterações no suporte a cookies de terceiros afeta os clientes
 solution: Experience Cloud,Analytics,Target
-title: Como as alterações no suporte a cookies de terceiros afeta os clientes
+title: Como as alterações no suporte a cookies de terceiros afetam os clientes | Adobe Experience Cloud
 uuid: 27332e0d-6932-4a6e-b97b-0adeced0b050
 translation-type: tm+mt
-source-git-commit: 11ce83401a12c25853cd6412413b8abf98dd6612
+source-git-commit: 4bea0c29afa580dc63b21535ce5c275cd649c9a5
 workflow-type: tm+mt
-source-wordcount: '368'
-ht-degree: 100%
+source-wordcount: '298'
+ht-degree: 91%
 
 ---
 

@@ -1,16 +1,14 @@
 ---
-description: O Audience Manager depende de alguns cookies simples para executar funções diferentes. Isso inclui coisas como atribuir IDs, gravar chamadas de dados, rastreamento de erros e testar para ver se os cookies podem ser definidos. Esta seção lista e descreve os vários cookies definidos pelo Audience Manager.
+description: Saiba mais sobre cookies de Audience Manager no Adobe Experience Cloud.
 keywords: cookies
-seo-description: O Audience Manager depende de alguns cookies simples para executar funções diferentes. Isso inclui coisas como atribuir IDs, gravar chamadas de dados, rastreamento de erros e testar para ver se os cookies podem ser definidos. Esta seção lista e descreve os vários cookies definidos pelo Audience Manager.
-seo-title: Cookies do Audience Manager
 solution: Experience Cloud, Audience Manager
-title: Cookies do Audience Manager
+title: Cookies Audience Manager | Adobe Experience Cloud
 uuid: 8b384c38-b85a-4e93-b00e-41a9d3ae2b21
 translation-type: tm+mt
-source-git-commit: 11ce83401a12c25853cd6412413b8abf98dd6612
+source-git-commit: 4bea0c29afa580dc63b21535ce5c275cd649c9a5
 workflow-type: tm+mt
-source-wordcount: '690'
-ht-degree: 100%
+source-wordcount: '611'
+ht-degree: 97%
 
 ---
 

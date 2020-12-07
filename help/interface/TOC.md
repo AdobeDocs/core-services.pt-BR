@@ -9,7 +9,7 @@ translation-type: tm+mt
 source-git-commit: 9763e6f9c2521574e6c4e3d2bc4e96195eeec9f9
 workflow-type: tm+mt
 source-wordcount: '393'
-ht-degree: 98%
+ht-degree: 100%
 
 ---
 
@@ -63,7 +63,7 @@ ht-degree: 98%
    + [Criar um público-alvo](audience-library/t-audience-create.md)
    + [Publicar um segmento de público-alvo do Analytics](audience-library/t-publish-audience-segment.md)
 + Atributos do cliente da Experience Cloud {#customer-attributes}
-   + [Atributos do cliente no Adobe Experience Cloud](attributes/attributes.md)
+   + [Atributos do cliente na Adobe Experience Cloud](attributes/attributes.md)
    + [Perguntas frequentes, limitações e práticas recomendadas](attributes/faq-crs.md)
    + [Sobre arquivo de dados e fonte de dados para atributos do cliente](attributes/crs-data-file.md)
    + [Crie uma fonte de atributo do cliente e faça upload do arquivo de dados](attributes/t-crs-usecase.md)

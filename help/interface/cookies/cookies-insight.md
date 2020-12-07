@@ -1,16 +1,14 @@
 ---
-description: Data Workbench usa cookies para analisar em tempo real grandes volumes de dados que evoluem rapidamente.
+description: Como a Datas Workbench usa cookies para analisar grandes volumes de dados em rápida evolução em tempo real.
 keywords: cookies;privacy
-seo-description: Data Workbench usa cookies para analisar em tempo real grandes volumes de dados que evoluem rapidamente.
-seo-title: Cookies de Data Workbench
 solution: Experience Cloud,Analytics,Target
-title: Cookies de Data Workbench
+title: Cookies de Data Workbench | Adobe Experience Cloud
 uuid: c15013f4-c47d-4950-aa19-be9afd25cd5f
 translation-type: tm+mt
-source-git-commit: 11ce83401a12c25853cd6412413b8abf98dd6612
+source-git-commit: 4bea0c29afa580dc63b21535ce5c275cd649c9a5
 workflow-type: tm+mt
-source-wordcount: '103'
-ht-degree: 100%
+source-wordcount: '90'
+ht-degree: 76%
 
 ---
 

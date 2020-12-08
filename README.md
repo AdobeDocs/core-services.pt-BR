@@ -1,16 +1,12 @@
 ---
-source-git-commit: 05854701fc4de2d0657a09a070322944e713bc57
-workflow-type: ht
-translation-type: ht
-source-wordcount: '509'
-ht-degree: 100%
+source-git-commit: 9ee72351a36bc545665be727120ee9fe639b9c87
+workflow-type: tm+mt
+translation-type: tm+mt
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 # Contribuir com o artigo
-
-| EXL-PR | EXL | Visualização | Ativar | Publicado | Ajuda |
-|--- |--- |--- |--- |--- |--- |
-| [![Status da build](https://docs.ci.corp.adobe.com/view/exl-pr/job/core-services.en_pr-exl/badge/icon)](https://docs.ci.corp.adobe.com/view/exl-pr/job/core-services.en_pr-exl/lastBuild/) | [![Status da build](https://docs.ci.corp.adobe.com/view/exl-pr/job/core-services.en_exl/lastBuild/badge/icon)](https://docs.ci.corp.adobe.com/view/exl-pr/job/core-services.en_exl/lastBuild/lastBuild) | [URL de pré-visualização](https://experienceleague.corp.adobe.com/docs/core-services/interface/experience-cloud.html?lang=en) | [activate-exl](https://docs.ci.corp.adobe.com/job/activate-exl/build/) | [URL ativo](https://experienceleague.adobe.com/docs/core-services/interface/experience-cloud.html?lang=en) | [Guia de criação](https://experienceleague.adobe.com/docs/authoring-guide-exl/using/home.html?lang=en) |
 
 Aceitamos contribuições de nossa comunidade e de funcionários da Adobe que estão fora das equipes de documentação.
 
@@ -24,7 +20,7 @@ Consulte o [Guia do colaborador dos documentos da Adobe](https://docs.adobe.com/
 
 A maneira como você contribui depende de quem você é e do tipo de alterações com as quais deseja contribuir:
 
-### Pequenas alterações
+### Pequenas alterações 
 
 Se você estiver contribuindo com pequenas atualizações de boa vontade, visite o artigo e clique no link **Editar** do artigo, que vai para a origem GitHub do artigo. Em seguida, use a interface do usuário do GitHub para fazer as atualizações. Consulte o [Guia do colaborador dos documentos da Adobe](https://docs.adobe.com/help/en/contributor/contributor-guide/introduction.html) para obter mais informações.
 

@@ -1,28 +1,28 @@
 ---
-description: Saiba como gerenciar a tradução de dados do visitante para a segmentação da audiência no serviço de Audiência da Adobe Experience Cloud.
+description: Saiba como gerenciar a conversão dos dados do visitante em segmentação de público-alvo no serviço de público da Adobe Experience Cloud.
 solution: Experience Cloud
 type: Documentation
-title: 'Adobe Experience Cloud Audiência '
+title: 'Públicos da Adobe Experience Cloud '
 uuid: 92faf3a8-1375-4e32-905b-74cad48144d3
 translation-type: tm+mt
 source-git-commit: 2376fa2edf0477515f6e0cfe31af4821c9c6b86c
 workflow-type: tm+mt
 source-wordcount: '814'
-ht-degree: 93%
+ht-degree: 100%
 
 ---
 
 
 # Públicos-alvo da Experience Cloud {#topic_679810123CAA4E0CA4FA3417FB0100C7}
 
-Os públicos-alvo são coleções de visitantes (uma lista de IDs de visitante). A biblioteca de público-alvo da Adobe permite gerenciar a conversão dos dados do visitante em segmentação do público-alvo. Dessa forma, a criação e o gerenciamento de audiências é semelhante à criação e ao uso de segmentos. Você também pode compartilhar o segmento de audiência com produtos e serviços em [!DNL Experience Cloud].
+Os públicos-alvo são coleções de visitantes (uma lista de IDs de visitante). A biblioteca de público-alvo da Adobe permite gerenciar a conversão dos dados do visitante em segmentação do público-alvo. Dessa forma, a criação e o gerenciamento de públicos é semelhante à criação e ao uso de segmentos. Você também pode compartilhar o segmento de público-alvo com produtos e serviços na [!DNL Experience Cloud].
 
 ![](assets/audiences.png)
 
 Os públicos-alvo podem ser criados ou derivados de várias fontes, como:
 
 * Novos, criados na [!DNL Experience Cloud]
-* [!DNL Analytics] segmentos publicados no [!DNL Experience Cloud]
+* Segmentos do [!DNL Analytics] publicados na [!DNL Experience Cloud]
 * [!DNL Audience Manager]
 
 **Públicos-alvo em tempo real vs. históricos**

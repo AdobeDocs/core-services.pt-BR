@@ -1,14 +1,13 @@
 ---
 description: Saiba como gerenciar a tradução de dados do visitante para a segmentação da audiência no serviço de Audiência da Adobe Experience Cloud.
-seo-description: Gerencie a conversão dos dados do visitante na segmentação de público no serviço de público-alvo da Experience Cloud.
-seo-title: Serviço de públicos-alvo da Experience Cloud
 solution: Experience Cloud
+type: Documentation
 title: 'Adobe Experience Cloud Audiência '
 uuid: 92faf3a8-1375-4e32-905b-74cad48144d3
 translation-type: tm+mt
-source-git-commit: e7d297820dbb666308c5906eca01a0c248e35fe3
+source-git-commit: 2376fa2edf0477515f6e0cfe31af4821c9c6b86c
 workflow-type: tm+mt
-source-wordcount: '832'
+source-wordcount: '814'
 ht-degree: 93%
 
 ---

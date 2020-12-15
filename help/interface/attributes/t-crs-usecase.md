@@ -2,13 +2,13 @@
 description: Saiba como criar a fonte de atributo do cliente e fazer upload dela para a Adobe Experience Cloud.
 keywords: Customer Attributes;core services
 solution: Experience Cloud
-title: Criar uma fonte de atributo do cliente e fazer upload do arquivo de dados | Adobe Experience Cloud
+title: 'Crie uma fonte de atributo do cliente e faça upload do arquivo de dados '
 uuid: 53dca789-9a91-4385-839d-c9d1aa36b9be
 translation-type: tm+mt
-source-git-commit: 4bea0c29afa580dc63b21535ce5c275cd649c9a5
+source-git-commit: 3f26c1af19a0838913eec2b4135304f5f3fcf0b4
 workflow-type: tm+mt
-source-wordcount: '1168'
-ht-degree: 97%
+source-wordcount: '1165'
+ht-degree: 98%
 
 ---
 

@@ -1,11 +1,11 @@
 ---
-title: Publicar um segmento de audiência do Analytics | Adobe Experience Cloud
+title: 'Publicar um segmento de público-alvo do Analytics '
 description: Como publicar um segmento de audiência do Adobe Analytics na Experience Cloud e na Adobe Target para atividades de marketing de audiências.
 translation-type: tm+mt
-source-git-commit: 4bea0c29afa580dc63b21535ce5c275cd649c9a5
+source-git-commit: 3f26c1af19a0838913eec2b4135304f5f3fcf0b4
 workflow-type: tm+mt
-source-wordcount: '68'
-ht-degree: 33%
+source-wordcount: '65'
+ht-degree: 43%
 
 ---
 

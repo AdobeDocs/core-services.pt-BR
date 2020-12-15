@@ -2,13 +2,13 @@
 description: Saiba como os Search & Promote usam cookies para entender e antecipar a intenção de pesquisa dos visitantes.
 keywords: cookies;privacy
 solution: Experience Cloud,Analytics,Target
-title: Cookies de pesquisa e promoção | Adobe Experience Cloud
+title: 'Cookies do Search&Promote '
 uuid: 65bf24e0-0564-4dc2-b652-9fd9db57d23f
 translation-type: tm+mt
-source-git-commit: 4bea0c29afa580dc63b21535ce5c275cd649c9a5
+source-git-commit: 3f26c1af19a0838913eec2b4135304f5f3fcf0b4
 workflow-type: tm+mt
-source-wordcount: '122'
-ht-degree: 83%
+source-wordcount: '119'
+ht-degree: 89%
 
 ---
 

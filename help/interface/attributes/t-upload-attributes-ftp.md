@@ -2,13 +2,13 @@
 description: Se você não fizer upload usando a função arrastar e soltar, será possível fazer upload do atributo do cliente via FTP na Experience Cloud.
 keywords: Customer Attributes;core services
 solution: Experience Cloud
-title: Fazer upload do arquivo de dados do atributo do cliente via FTP | Adobe Experience Cloud
+title: 'Fazer upload do arquivo de dados do atributo do cliente via FTP '
 uuid: 5df565dd-b6f8-420e-981f-4b6fc6f7d0e4
 translation-type: tm+mt
-source-git-commit: 4bea0c29afa580dc63b21535ce5c275cd649c9a5
+source-git-commit: 3f26c1af19a0838913eec2b4135304f5f3fcf0b4
 workflow-type: tm+mt
-source-wordcount: '271'
-ht-degree: 95%
+source-wordcount: '268'
+ht-degree: 97%
 
 ---
 
@@ -23,7 +23,7 @@ Você pode fazer upload dos dados depois de criar uma fonte de atributo do clien
 >
 >Analise [os requisitos do arquivo de dados para fazer upload dos atributos do cliente](../attributes/crs-data-file.md#concept_DE908F362DF24172BFEF48E1797DAF19) antes de fazer upload do arquivo.
 
-Os uploads de arquivo para o site FTP de atributos do cliente podem ser feitos via FTP ou SFTP.
+Os uploads de arquivo para o site FTP de atributos do cliente podem ser feitos via FTP ou SFTP:
 
 * Você precisa de um cliente compatível com conexões SFTP.
 * Você pode se conectar ao SFTP usando o nome de usuário/senha ou sem usar senha, conforme descrito [aqui](https://docs.adobe.com/help/pt-BR/analytics/export/ftp-and-sftp/secure-file-transfer-protocol/ftp-sftp-cert-auth.html).

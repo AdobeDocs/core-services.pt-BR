@@ -3,12 +3,12 @@ description: Saiba mais sobre as atualizações mais recentes das marcas de nuve
 seo-description: Saiba mais sobre as atualizações mais recentes das marcas de nuvens, como navegar pela interface e onde encontrar ajuda para soluções e os serviços principais.
 seo-title: Sobre os novos nomes de nuvem na Experience Cloud
 solution: Experience Cloud
-title: Sobre os novos nomes de nuvem na Experience Cloud | Adobe Experience Cloud
+title: 'Sobre os novos nomes de nuvem na Experience Cloud '
 uuid: 27d022ad-50fa-485e-8f94-0959112cf3d0
 translation-type: tm+mt
-source-git-commit: 4bea0c29afa580dc63b21535ce5c275cd649c9a5
+source-git-commit: 3f26c1af19a0838913eec2b4135304f5f3fcf0b4
 workflow-type: tm+mt
-source-wordcount: '670'
+source-wordcount: '667'
 ht-degree: 100%
 
 ---

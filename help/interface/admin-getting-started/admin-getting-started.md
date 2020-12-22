@@ -1,5 +1,5 @@
 ---
-description: Saiba mais sobre como fazer logon no Adobe Admin Console, gerenciar permissões de usuário do Experience Cloud, perfis de produtos e suporte ao navegador.
+description: Saiba mais sobre como fazer logon no Adobe Admin Console, gerenciar permissões de usuário e perfis de produto da Experience Cloud e suporte ao navegador.
 keywords: Experience Cloud services
 solution: Experience Cloud
 title: 'Saiba como gerenciar usuários e produtos '
@@ -8,7 +8,7 @@ translation-type: tm+mt
 source-git-commit: 3f26c1af19a0838913eec2b4135304f5f3fcf0b4
 workflow-type: tm+mt
 source-wordcount: '1432'
-ht-degree: 98%
+ht-degree: 99%
 
 ---
 
@@ -51,11 +51,11 @@ Para fazer logon no Admin Console:
 1. Navegue até [https://adminconsole.adobe.com/enterprise/](https://adminconsole.adobe.com/enterprise/#).
 1. Digite sua [Adobe ID ou Enterprise ID](https://helpx.adobe.com/br/enterprise/help/identity.html) e senha.
 
-Como alternativa, no menu da Experience Cloud ( ![](assets/menu-icon.png) ), clique em **[!UICONTROL Administração]** > **[!UICONTROL Iniciar o Admin Console]**.
+Como alternativa, no menu da Experience Cloud (![](assets/menu-icon.png)), clique em **[!UICONTROL Administração]** > **[!UICONTROL Iniciar o Admin Console]**.
 
 **Ajuda relacionada**
 
-[Guia do usuário de administração](https://helpx.adobe.com/br/enterprise/using/users.html) para a Creative Cloud e a Document Cloud. Algumas informações são relevantes para o gerenciamento de usuários da Experience Cloud, como o [gerenciamento de tipos de identidade](https://helpx.adobe.com/br/enterprise/help/identity.html).
+[Guia do usuário de administração](https://helpx.adobe.com/br/enterprise/using/users.html) para a Creative Cloud e a Document Cloud. Algumas informações são relevantes para o gerenciamento de usuários da Experience Cloud, como o [gerenciamento de tipos de identidade](https://helpx.adobe.com/enterprise/help/identity.html).
 
 [Faça logon e gerencie as configurações de perfil](../admin-getting-started/getting-started-experience-cloud.md#topic_AC564B6795334DE39359ADD87F52F2E0) para gerenciar senhas, empresas e notificações.
 
@@ -127,7 +127,7 @@ Consulte [Usuários e permissões](https://docs.adobe.com/content/help/pt-BR/dtm
 
 Crie usuários no Audience Manager e os atribua a grupos. Também é possível visualizar limites (características, segmentos, destinos e [!DNL AlgoModel]).
 
-Consulte [Administração](https://docs.adobe.com/content/help/pt-BR/dtm/using/admin/users.html) na ajuda do Audience Manager.
+Consulte [Administração](https://docs.adobe.com/content/help/en/dtm/using/admin/users.html) na ajuda do Audience Manager.
 
 ## Gerenciar produtos da Experience Cloud {#task_16335111C52D40E9BAC73D0699584DBF}
 
@@ -142,9 +142,9 @@ Ao convidar um usuário para uma organização, é possível concedê-lo acesso 
 
 Mais ajuda disponível em:
 
-* [Gerenciar produtos e perfis](https://helpx.adobe.com/br/enterprise/using/manage-products-and-profiles.html)
-* [Permissões de usuário corporativo](https://docs.adobe.com/content/help/pt-BR/target/using/administer/manage-users/enterprise/property-channel.html) na ajuda do Adobe Target para obter mais informações.
-* Vídeo: [Como configurar espaços de trabalho do Adobe Target no Adobe Admin Console](https://helpx.adobe.com/br/target/kb/how-to-configure-target-workspaces-in-adobe-admin-console0.html)
+* [Gerenciar produtos e perfis](https://helpx.adobe.com/enterprise/using/manage-products-and-profiles.html)
+* [Permissões de usuário corporativo](https://docs.adobe.com/content/help/en/target/using/administer/manage-users/enterprise/property-channel.html) na ajuda do Adobe Target para obter mais informações.
+* Vídeo: [Como configurar espaços de trabalho do Adobe Target no Adobe Admin Console](https://helpx.adobe.com/target/kb/how-to-configure-target-workspaces-in-adobe-admin-console0.html)
 
 ## Atribuir a um perfil de produto permissões de acesso ao Analytics {#task_040673FE3E3E429B9531FBCB8B6A4391}
 
@@ -195,6 +195,6 @@ Navegadores compatíveis com a Experience Cloud.
 
 ### Requisitos da solução e do produto
 
-* [Analytics](https://docs.adobe.com/content/help/pt-BR/analytics/admin/sys-reqs.html)
+* [Analytics](https://docs.adobe.com/content/help/en/analytics/admin/sys-reqs.html)
 * [Report Builder](https://docs.adobe.com/content/help/pt-BR/analytics/analyze/report-builder/report-builder-setup/system-requirements.html)
-* [Adobe Target](https://docs.adobe.com/help/pt-BR/target/using/implement-target/before-implement/supported-browsers.html)
+* [Adobe Target](https://docs.adobe.com/help/en/target/using/implement-target/before-implement/supported-browsers.html)

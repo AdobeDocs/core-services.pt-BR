@@ -55,7 +55,7 @@ A tabela a seguir descreve como os públicos-alvo são usados nas soluções da 
 | Ajuda com | Recurso |
 |--- |--- |
 | Não consegue encontrar Públicos-alvo? | Verifique se você foi provisionado. Consulte [Introdução - ativar as soluções dos serviços principais](../core-services/core-services.md).<br>Clique [aqui](https://www.adobe.com/go/audiences) para solicitar acesso a Perfis e públicos-alvo (formulário de provisionamento de integrações). |
-| Casos de uso | Para obter mais orientações sobre qual solução usar, acesse [Opções de criação de públicos-alvo](https://helpx.adobe.com/br/marketing-cloud-core/kb/People/Audience-Creation-Options.html) na Base de dados de conhecimento. |
+| Casos de uso | Para obter mais orientações sobre qual solução usar, acesse [Opções de criação de públicos-alvo](https://helpx.adobe.com/marketing-cloud-core/kb/People/Audience-Creation-Options.html) na Base de dados de conhecimento. |
 | Fórum | O [fórum de públicos-alvo](https://forums.adobe.com/community/experience-cloud/platform/core-services/people-service/audiences) é um recurso adicional para obter ajuda com os públicos-alvo. |
 
 ## Elementos de interface da biblioteca de público-alvo {#section_D04ACEF61CEF4B189AE6BA9F40D0DBF4}

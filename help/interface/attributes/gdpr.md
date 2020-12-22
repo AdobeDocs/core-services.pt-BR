@@ -1,11 +1,11 @@
 ---
 title: 'Suporte a Atributos do cliente para o Regulamento Geral sobre a Proteção de Dados '
-description: Saiba mais sobre o suporte a atributos do cliente para o Regulamento geral de proteção de dados
+description: Saiba mais sobre o Suporte a atributos do cliente para o Regulamento Geral sobre a Proteção de Dados
 translation-type: tm+mt
 source-git-commit: 3f26c1af19a0838913eec2b4135304f5f3fcf0b4
 workflow-type: tm+mt
 source-wordcount: '432'
-ht-degree: 97%
+ht-degree: 100%
 
 ---
 

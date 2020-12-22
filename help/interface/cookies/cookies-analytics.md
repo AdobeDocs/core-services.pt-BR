@@ -1,5 +1,5 @@
 ---
-description: Saiba mais sobre os cookies da Adobe Analytics no Adobe Experience Cloud.
+description: Saiba mais sobre os cookies do Adobe Analytics na Adobe Experience Cloud.
 keywords: cookies;privacy
 solution: Experience Cloud,Analytics,Target
 title: 'Como usar cookies Adobe Analytics '
@@ -8,7 +8,7 @@ translation-type: tm+mt
 source-git-commit: 3f26c1af19a0838913eec2b4135304f5f3fcf0b4
 workflow-type: tm+mt
 source-wordcount: '757'
-ht-degree: 98%
+ht-degree: 99%
 
 ---
 
@@ -36,7 +36,7 @@ Mais informações disponíveis na ajuda do Analytics sobre [Cookies primários]
 |--- |--- |
 | Informações armazenadas | Contém uma cópia da Experience Cloud ID (ECID) ou MID. A MID é armazenada em um par de valor principal que segue a sintaxe s_ecid=MCMID | `<ECID>` |
 | Expiração | 2 anos |
-| Uso | Esse cookie é definido pelo domínio do cliente depois que o cookie AMCV é definido pelo cliente. A finalidade deste cookie é permitir o rastreamento de ID persistente no estado próprio e ele é usado como ID de referência, se o cookie AMCV tiver expirado. Verifique o cookie AMCV aqui para obter mais detalhes |
+| Uso | Esse cookie é definido pelo domínio do cliente depois que o cookie AMCV é definido pelo cliente. A finalidade deste cookie é permitir o rastreamento de ID persistente no estado próprio e ele é usado como ID de referência, se o cookie AMCV tiver expirado. Verifique o cookie AMCV aqui para obter mais detalhes. |
 | Localização | Somente para clientes CNAME. Não aplicável para cenários de terceiros. O cookie é armazenado em seu domínio, o mesmo domínio usado pelo CNAME e pela solicitação de imagem do Analytics |
 | Tamanho | 45 bytes |
 

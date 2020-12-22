@@ -2,7 +2,7 @@
 audience: admin
 user-guide-title: 'Serviços e administração da Adobe Experience Cloud '
 breadcrumb-title: Serviços e administração da Experience Cloud
-user-guide-description: Saiba como gerenciar usuários e produtos na Adobe Experience Cloud e como usar os Atributos do cliente e os serviços da Biblioteca de público-alvo. Saiba mais sobre cookies e Experience Cloud Assets.
+user-guide-description: Saiba como gerenciar usuários e produtos no Adobe Experience Cloud e como usar os Atributos do cliente e os serviços da Biblioteca de público-alvo. Saiba mais sobre cookies e Experience Cloud Assets.
 user-guide-url: https://www.adobe.com
 index: true
 translation-type: tm+mt

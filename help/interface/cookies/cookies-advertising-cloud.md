@@ -1,12 +1,12 @@
 ---
-description: Saiba mais sobre os cookies da Adobe Ad Cloud para mapear eventos de envolvimento e envolvimento em eventos de conversão e, potencialmente, para usar essas informações para otimizar ofertas de anúncios.
+description: Saiba mais sobre os cookies da Adobe Ad Cloud para mapear eventos de envolvimento de anúncios em eventos de conversão e, potencialmente, usar essas informações para otimizar ofertas de anúncios.
 title: 'Cookies da Advertising Cloud '
 uuid: 2eec48a3-3e81-488e-8e30-5fd62885de0b
 translation-type: tm+mt
 source-git-commit: 3f26c1af19a0838913eec2b4135304f5f3fcf0b4
 workflow-type: tm+mt
 source-wordcount: '521'
-ht-degree: 95%
+ht-degree: 100%
 
 ---
 

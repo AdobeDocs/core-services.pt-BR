@@ -8,12 +8,12 @@ translation-type: tm+mt
 source-git-commit: 3f26c1af19a0838913eec2b4135304f5f3fcf0b4
 workflow-type: tm+mt
 source-wordcount: '381'
-ht-degree: 97%
+ht-degree: 98%
 
 ---
 
 
-# Como configurar o subscrição no Experience Cloud
+# Como configurar assinaturas na Experience Cloud
 
 Saiba mais sobre fontes de dados de solução e como configurar assinaturas. As assinaturas permitem que o cliente atribua o fluxo de dados entre a Experience Cloud e as soluções (Analytics e [!DNL Target]).
 

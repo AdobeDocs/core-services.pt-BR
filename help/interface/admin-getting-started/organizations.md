@@ -29,7 +29,7 @@ Além disso, pode ser necessário localizar a ID da organização para fins de s
 
 A **ID da organização** é a ID associada à empresa provisionada pela Experience Cloud. A ID é uma sequência de 24 caracteres alfanuméricos seguidos por (e deve incluir) @AdobeOrg.
 
-Para exibir a ID da organização, navegue até a página de aterrissagem da Experience Cloud ou clique em ( ![](assets/menu-icon.png)) e, em seguida, clique em **[!UICONTROL Administração]**. É possível encontrar a ID da organização na parte inferior da página [!UICONTROL Introdução à Experience Cloud] ou na página [!UICONTROL Administração].
+Para exibir a ID da organização, navegue até a página de aterrissagem da Experience Cloud ou clique em (![](assets/menu-icon.png)) e, em seguida, clique em **[!UICONTROL Administração]**. É possível encontrar a ID da organização na parte inferior da página [!UICONTROL Introdução à Experience Cloud] ou na página [!UICONTROL Administração].
 
 ![](assets/administration-page.png)
 

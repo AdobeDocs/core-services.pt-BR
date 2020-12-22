@@ -1,5 +1,5 @@
 ---
-description: Saiba como a Adobe Analytics usa cookies para fornecer informações sobre variáveis e componentes que não persistem entre as solicitações de imagem e as sessões do navegador.
+description: Saiba como o Adobe Analytics usa cookies para fornecer informações sobre variáveis e componentes que não persistem entre as solicitações de imagem e as sessões do navegador.
 keywords: cookies;privacy
 solution: Experience Cloud,Analytics
 title: 'Como usar cookies originais '
@@ -9,7 +9,7 @@ translation-type: tm+mt
 source-git-commit: 3f26c1af19a0838913eec2b4135304f5f3fcf0b4
 workflow-type: tm+mt
 source-wordcount: '1444'
-ht-degree: 97%
+ht-degree: 99%
 
 ---
 
@@ -37,7 +37,7 @@ Com sua permissão, trabalharemos com a CA para emitir, implantar e gerenciar um
 
 O Adobe Managed Certificate Program é o processo recomendado para implementar um novo certificado SSL próprio para cookies próprios.
 
-O programa Adobe Managed Certificate permite implementar um novo certificado SSL próprio para cookies próprios sem custo adicional (para os primeiros 100 CNAMESs). Se você tem seu próprio certificado SSL gerenciado pelo cliente no momento, fale com o Atendimento ao cliente da Adobe sobre a migração para o Adobe Managed Certificate Program.
+O programa Adobe Managed Certificate permite implementar um novo certificado SSL próprio para cookies próprios sem custo adicional (para os primeiros 100 CNAMEs). Se você tem seu próprio certificado SSL gerenciado pelo cliente no momento, fale com o Atendimento ao cliente da Adobe sobre a migração para o Adobe Managed Certificate Program.
 
 ### Implementação
 
@@ -108,7 +108,7 @@ Se você tiver um CNAME configurado e o certificado instalado, poderá usar o na
 
 ### Validar usando o [!DNL curl]
 
-Adobe recommends using [[!DNL curl]](https://curl.haxx.se/) from the command line. (os usuários do [!DNL Windows] podem instalar [!DNL curl] de: <https://curl.haxx.se/windows/>)
+A Adobe recomenda usar [[!DNL curl]](https://curl.haxx.se/) na linha de comando. (os usuários do [!DNL Windows] podem instalar [!DNL curl] de: <https://curl.haxx.se/windows/>)
 
 Se você tiver um CNAME mas nenhum certificado estiver instalado, execute:
 `curl -k https://sstats.adobe.com/_check`

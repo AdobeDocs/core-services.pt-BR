@@ -1,5 +1,5 @@
 ---
-description: Saiba mais sobre as regras de como as pastas compartilhadas se comportam quando movidas, excluídas e restauradas no Experience Cloud.
+description: Saiba mais sobre as regras de como as pastas compartilhadas se comportam quando movidas, excluídas e restauradas na Experience Cloud.
 keywords: asset sharing;Creative Cloud;core services
 solution: Experience Cloud
 title: 'Comportamento das pastas compartilhadas '
@@ -8,7 +8,7 @@ translation-type: tm+mt
 source-git-commit: 3f26c1af19a0838913eec2b4135304f5f3fcf0b4
 workflow-type: tm+mt
 source-wordcount: '561'
-ht-degree: 47%
+ht-degree: 100%
 
 ---
 
@@ -93,12 +93,12 @@ Você move o conteúdo de uma pasta compartilhada para outra pasta compartilhada
 
 ![](assets/11_assets_move.png)
 
-**Resultado:** o conteúdo é exibido na Pasta 2 e agora é compartilhado com os novos colaboradores. O conteúdo é removido da Pasta 1 e o proprietário o vê como arquivado, enquanto os outros colaboradores não têm mais acesso a ele.
+**Resultado:** o conteúdo é exibido na Pasta 2 e agora é compartilhado com os novos colaboradores. O conteúdo é removido da Pasta 1, e o proprietário o vê como arquivado, enquanto os outros colaboradores não têm mais acesso a ele.
 
 ## Conteúdo restaurado no arquivo {#section_DEA990B3581741F89FBB81D18C2AB449}
 
-Você restaura o conteúdo de um arquivo que pertence a uma pasta compartilhada. Você é o proprietário do conteúdo no momento em que ele foi arquivado.
+Você restaura o conteúdo de um arquivo que pertence a uma pasta compartilhada. Você era o proprietário do conteúdo no momento em que ele foi arquivado.
 
 ![](assets/12_assets_move.png)
 
-**Resultado:** o conteúdo é restaurado para a pasta compartilhada e todos os colaboradores podem acessá-lo novamente. Se a pasta compartilhada não existir mais, o conteúdo será colocado em uma cópia não compartilhada de sua pasta pai original.
+**Resultado:** o conteúdo é restaurado para a pasta compartilhada e todos os colaboradores podem acessá-lo novamente. Se a pasta compartilhada não existir mais, o conteúdo será colocado em uma cópia não compartilhada de sua(s) pasta(s) pai original(is).

@@ -1,5 +1,5 @@
 ---
-description: Saiba como implementar o Adobe Experience Cloud e tornar-se um administrador.
+description: Saiba como implementar a Adobe Experience Cloud e tornar-se um administrador.
 keywords: core services;Customer Attributes
 solution: Experience Cloud
 title: 'Ativar as soluções dos serviços principais '
@@ -99,7 +99,7 @@ Se você não estiver usando o [!UICONTROL Experience Platform Launch] ou o [!UI
 
 ## Analytics &amp; Adobe Target - sincronização da ID do cliente {#section_AD473A6A21C1446498E700363F9A8437}
 
-Como parte da configuração do Serviço da Experience Cloud ID, a Adobe recomenda para o Analytics e para o [!DNL Target] a sincronização das [IDs do cliente](https://docs.adobe.com/content/help/pt-BR/id-service/using/reference/authenticated-state.html) com a Experience Cloud.
+Como parte da configuração do Serviço da Experience Cloud ID, a Adobe recomenda para o Analytics e para o [!DNL Target] a sincronização das [IDs do cliente](https://docs.adobe.com/content/help/en/id-service/using/reference/authenticated-state.html) com a Experience Cloud.
 
 No Adobe Target, o `mbox3rdpartyid` deve obter a ID do cliente e enviá-la para o [!DNL Target]. (Consulte [Trabalhar com atributos do cliente](https://docs.adobe.com/content/help/pt-BR/target/using/audiences/visitor-profiles/working-with-customer-attributes.html) em [!DNL Target].)
 
@@ -225,4 +225,4 @@ Se você desejar oferecer a capacidade de não participação adequada, os visit
 
 Consulte [Adobe Experience Cloud - Implementação das opções de não participação da Adobe](https://docs.adobe.com/content/help/pt-BR/analytics/implementation/js/opt-out.html) para obter instruções.
 
-Consulte [Coletas de dados CNAMEs e Rastreamento entre domínios](https://docs.adobe.com/content/help/pt-BR/id-service/using/reference/analytics-reference/cname.html) para ativar o rastreamento entre domínios.
+Consulte [Coletas de dados CNAMEs e Rastreamento entre domínios](https://docs.adobe.com/content/help/en/id-service/using/reference/analytics-reference/cname.html) para ativar o rastreamento entre domínios.

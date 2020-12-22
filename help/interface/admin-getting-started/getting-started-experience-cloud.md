@@ -1,5 +1,5 @@
 ---
-description: Saiba como fazer logon no Adobe Experience Cloud, gerenciar senhas e notificações e especificar uma landing page padrão.
+description: Saiba mais sobre como fazer logon na Adobe Experience Cloud, gerenciar senhas e notificações e especificar uma página de aterrissagem padrão.
 keywords: core services, sign in to Experience Cloud
 solution: Experience Cloud
 title: 'Fazer logon e gerenciar as configurações do perfil '
@@ -8,7 +8,7 @@ translation-type: tm+mt
 source-git-commit: 3f26c1af19a0838913eec2b4135304f5f3fcf0b4
 workflow-type: tm+mt
 source-wordcount: '937'
-ht-degree: 97%
+ht-degree: 100%
 
 ---
 

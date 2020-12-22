@@ -1,18 +1,18 @@
 ---
-description: Saiba mais sobre os ativos Experience Cloud que você pode compartilhar nas soluções.
+description: Saiba mais sobre os assets da Experience Cloud que você pode compartilhar nas soluções.
 solution: Experience Cloud
-title: 'Visão geral dos ativos Experience Cloud '
+title: 'Visão geral dos assets da Experience Cloud '
 uuid: 97a849ec-1555-4630-9416-2ab484373f5c
 translation-type: tm+mt
 source-git-commit: 3f26c1af19a0838913eec2b4135304f5f3fcf0b4
 workflow-type: tm+mt
 source-wordcount: '334'
-ht-degree: 93%
+ht-degree: 100%
 
 ---
 
 
-# Visão geral dos ativos Experience Cloud
+# Visão geral dos assets da Experience Cloud
 
 O Experience Cloud Assets oferece um repositório único e centralizado de ativos prontos para marketing, que podem ser compartilhados entre as soluções. Um ativo é um documento digital, imagem, vídeo ou áudio (ou parte dele) que pode ter várias representações e subativos (por exemplo, camadas em um arquivo do [!DNL Photoshop], slides em um arquivo do [!DNL PowerPoint], páginas em um PDF, arquivos em um ZIP).
 
@@ -40,7 +40,7 @@ No [!UICONTROL Experience Cloud Assets], é possível:
 * [Executar relatórios de uso](../experience-cloud-assets/experience-cloud-assets.md#section_15D782FFB8D74CF4A735116CC03AD902)
 * [Compartilhamento de ativos com o Experience Manager](../experience-cloud-assets/experience-cloud-assets.md#section_45C1B72F4D274F54BC6CCB64D2580AC5)
 
-## Navegar até os Experience Cloud Assets{#section_3657039DD3524F2AA88753BFF4781125}
+## Navegar até os Experience Cloud Assets {#section_3657039DD3524F2AA88753BFF4781125}
 
 ![](assets/asset-nav.png)
 

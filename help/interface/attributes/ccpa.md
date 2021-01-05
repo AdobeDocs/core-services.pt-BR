@@ -1,9 +1,9 @@
 ---
 title: 'Suporte a atributos do cliente para a California Consumer Privacy Act '
 description: Suporte a atributos do cliente para a California Consumer Privacy Act
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: 3f26c1af19a0838913eec2b4135304f5f3fcf0b4
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '433'
 ht-degree: 100%
 
@@ -53,7 +53,7 @@ Para fazer solicitações de acesso e exclusão de dados para [!UICONTROL Atribu
 
 * &quot;key&quot;: &lt;*geralmente o nome do cliente*>
 
-* &quot;action&quot;: **acessar** ou **excluir**
+* &quot;action&quot;: **acessar** (access) ou **excluir** (delete)
 
 * &quot;user IDs&quot;:
 

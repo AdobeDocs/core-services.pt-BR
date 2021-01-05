@@ -2,13 +2,13 @@
 description: Saiba mais sobre os cookies do Adobe Analytics na Adobe Experience Cloud.
 keywords: cookies;privacy
 solution: Experience Cloud,Analytics,Target
-title: 'Como usar cookies Adobe Analytics '
+title: 'Como usar cookies do Adobe Analytics '
 uuid: e2d3d61d-2708-48b2-a7e6-2331f2aed8e0
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: 3f26c1af19a0838913eec2b4135304f5f3fcf0b4
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '757'
-ht-degree: 99%
+ht-degree: 100%
 
 ---
 
@@ -47,7 +47,7 @@ Mais informações disponíveis na ajuda do Analytics sobre [Cookies primários]
 | Informações armazenadas | Este cookie é definido e lido pelo código JavaScript para determinar se os cookies estão ativados (simplesmente definido como &quot;True&quot;) |
 | Expiração | Este cookie é um cookie de sessão e expira quando o navegador é fechado |
 | Uso | Somente um cookie para todas as contas |
-| Localização | Esse cookie é armazenado no domínio da página |
+| Localização | Esse cookie é armazenado no domínio da página. |
 | Tamanho | 4 bytes |
 
 ## Nome do cookie: s_sq {#section-8abfff3a302d494f81a3cfb91e3b09ff}
@@ -57,16 +57,16 @@ Mais informações disponíveis na ajuda do Analytics sobre [Cookies primários]
 | Informações armazenadas | Esse cookie é definido e lido pelo código JavaScript quando a funcionalidade ClickMap ou a funcionalidade Activity Map são ativadas; ele contém informações sobre o link anterior que foi clicado pelo usuário |
 | Expiração | Este cookie é um cookie de sessão e expira quando o navegador é fechado |
 | Uso | Somente um cookie para todas as contas |
-| Localização | Esse cookie é armazenado no domínio da página |
+| Localização | Esse cookie é armazenado no domínio da página. |
 | Tamanho | Varia dependendo do tamanho do URL da página, mas normalmente entre 100 e 200 bytes |
 
 ## Nome do cookie: s_vi {#section-5d50a078de444d12b7d927d68ff3b679}
 
 | Atributo | Descrição |
 |--- |--- |
-| Informações armazenadas | Carimbo de data/hora da ID de visitante exclusiva |
+| Informações armazenadas | Carimbo de data/hora da ID de visitante exclusiva. |
 | Expiração | 2 anos |
-| Uso | Este cookie é usado para identificar um visitante exclusivo |
+| Uso | Este cookie é usado para identificar um visitante exclusivo. |
 | Localização | Este cookie é armazenado no domínio da solicitação de imagem - normalmente um subdomínio específico do cliente em 2o7.net ou omtrdc.net se você estiver usando cookies de terceiros ou se o domínio estiver usando cookies primários |
 | Tamanho | 44 bytes |
 
@@ -78,7 +78,7 @@ Mais informações disponíveis na ajuda do Analytics sobre [Cookies primários]
 
 | Atributo | Descrição |
 |--- |--- |
-| Informações armazenadas | Carimbo de data/hora da ID do visitante exclusivo de fallback |
+| Informações armazenadas | Carimbo de data/hora da ID do visitante exclusivo de fallback. |
 | Expiração | 2 anos |
 | Uso | Este cookie é usado para identificar um visitante exclusivo se o cookie `s_vi` padrão não estiver disponível devido a restrições de cookies de terceiros. Não usado para implementações que usam cookies primários |
 | Localização | Esse cookie é armazenado em seu domínio como um cookie primário |

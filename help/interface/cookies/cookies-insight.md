@@ -21,7 +21,7 @@ Data Workbench usa cookies para analisar em tempo real grandes volumes de dados 
 
 | Atributo | Descrição |
 |---|---|
-| Informações armazenadas | Carimbo de data/hora da ID de visitante exclusiva |
+| Informações armazenadas | Carimbo de data/hora da ID de visitante exclusiva. |
 | Expiração | Esse é um cookie persistente. |
 | Uso | Este cookie é usado para identificar um visitante exclusivo. |
 | Localização | Este cookie é armazenado no domínio da página. |

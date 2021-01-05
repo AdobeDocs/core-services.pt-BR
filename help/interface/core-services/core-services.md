@@ -4,11 +4,11 @@ keywords: core services;Customer Attributes
 solution: Experience Cloud
 title: 'Ativar as soluções dos serviços principais '
 index: true
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: 3f26c1af19a0838913eec2b4135304f5f3fcf0b4
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '2362'
-ht-degree: 97%
+ht-degree: 100%
 
 ---
 
@@ -30,7 +30,7 @@ Para clientes atuais, talvez seja necessário modernizar as implementações da 
 
 ## Etapa 1. Associar-se à Experience Cloud e tornar-se um administrador {#section_2423F0BD3DF642658103310EE5EA6154}
 
-O que você deve fazer para se juntar ao Experience Cloud:
+O que é necessário para associar-se à Experience Cloud:
 
 ![](assets/step1_icon.png) Verifique se você tem as SKUs adequadas do Adobe Analytics ou Adobe Target.
 
@@ -99,7 +99,7 @@ Se você não estiver usando o [!UICONTROL Experience Platform Launch] ou o [!UI
 
 ## Analytics &amp; Adobe Target - sincronização da ID do cliente {#section_AD473A6A21C1446498E700363F9A8437}
 
-Como parte da configuração do Serviço da Experience Cloud ID, a Adobe recomenda para o Analytics e para o [!DNL Target] a sincronização das [IDs do cliente](https://docs.adobe.com/content/help/en/id-service/using/reference/authenticated-state.html) com a Experience Cloud.
+Como parte da configuração do Serviço da Experience Cloud ID, a Adobe recomenda para o Analytics e para o [!DNL Target] a sincronização das [IDs do cliente](https://docs.adobe.com/content/help/pt-BR/id-service/using/reference/authenticated-state.html) com a Experience Cloud.
 
 No Adobe Target, o `mbox3rdpartyid` deve obter a ID do cliente e enviá-la para o [!DNL Target]. (Consulte [Trabalhar com atributos do cliente](https://docs.adobe.com/content/help/pt-BR/target/using/audiences/visitor-profiles/working-with-customer-attributes.html) em [!DNL Target].)
 
@@ -173,7 +173,7 @@ Depois de implantar o Serviço da Experience Cloud ID, os novos visitantes não 
 
 Por exemplo, se a seção de suporte do seu site for gerenciada em um CMS diferente, você terá um arquivo JavaScript do Analytics diferente para essa seção. Se você implantar a Experience Cloud ID no site principal antes de implantar o serviço de ID no site de suporte, os novos visitantes receberão uma ID do Analytics herdada quando visitarem a seção de suporte, e as visitas que abrangem ambas as seções do site serão relatadas como visitas diferentes.
 
-A implantação do Serviço de ID de Experience Cloud em sites que usam vários arquivos JavaScript ou outras tecnologias (como o Flash) pode causar problemas de coordenação, pois você deve ativar o Serviço de ID de Experience Cloud em todas as partes do site ao mesmo tempo. Ao configurar um período de carência, os novos visitantes continuam a receber uma ID de visitante do Analytics pelo serviço de ID, portanto, os visitantes podem ser identificados consistentemente em seções do site que não foram atualizadas para usar o serviço de ID de visitante.
+Implantar o Serviço da Experience Cloud ID nos sites que usam vários arquivos JavaScript ou outras tecnologias (como Flash) pode gerar problemas de coordenação, pois é necessário ativar o Serviço da Experience Cloud ID em todas as partes do site ao mesmo tempo. Ao configurar um período de carência, os novos visitantes continuam a receber uma ID de visitante do Analytics pelo serviço de ID, portanto, os visitantes podem ser identificados consistentemente em seções do site que não foram atualizadas para usar o serviço de ID de visitante.
 
 ## Etapa 7. Gerenciar usuários e produtos {#section_B6E95F4E0E12483CB9DA99CBC0C5A4AF}
 
@@ -225,4 +225,4 @@ Se você desejar oferecer a capacidade de não participação adequada, os visit
 
 Consulte [Adobe Experience Cloud - Implementação das opções de não participação da Adobe](https://docs.adobe.com/content/help/pt-BR/analytics/implementation/js/opt-out.html) para obter instruções.
 
-Consulte [Coletas de dados CNAMEs e Rastreamento entre domínios](https://docs.adobe.com/content/help/en/id-service/using/reference/analytics-reference/cname.html) para ativar o rastreamento entre domínios.
+Consulte [Coletas de dados CNAMEs e Rastreamento entre domínios](https://docs.adobe.com/content/help/pt-BR/id-service/using/reference/analytics-reference/cname.html) para ativar o rastreamento entre domínios.

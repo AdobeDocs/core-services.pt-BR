@@ -51,7 +51,7 @@ Para fazer solicitações de acesso e exclusão de dados para [!UICONTROL Atribu
 
 * &quot;key&quot;: &lt;*geralmente o nome do cliente*>
 
-* &quot;action&quot;: **acessar** ou **excluir**
+* &quot;action&quot;: **acessar** (access) ou **excluir** (delete)
 
 * &quot;user IDs&quot;:
 

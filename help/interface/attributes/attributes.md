@@ -1,11 +1,11 @@
 ---
-title: O que são os atributos do cliente?
+title: Atributos do cliente como fazer
 description: Saiba mais sobre o serviço Atributos do cliente na Adobe Experience Cloud. Descubra como fazer upload dos dados de atributos do cliente para uso no Adobe Analytics e no Adobe Target.
 solution: Experience Cloud
 feature: Experience Cloud Customer Attributes
 role: Administrator
 translation-type: tm+mt
-source-git-commit: 9aebc0221b4d35c31968394ebb159f10f82960bd
+source-git-commit: 10635b4eda2fff32ef04878178be3ac88fa32756
 workflow-type: tm+mt
 source-wordcount: '482'
 ht-degree: 93%

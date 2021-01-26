@@ -3,10 +3,10 @@ description: Saiba mais sobre como mapear um ou vários conjuntos de relatórios
 title: 'Mapear conjuntos de relatórios para uma organização '
 uuid: b983d5a6-b3d0-4137-ac53-bc5681d3e58b
 translation-type: tm+mt
-source-git-commit: 3f26c1af19a0838913eec2b4135304f5f3fcf0b4
+source-git-commit: 56301935a3f3e20633294d29cc01e4bcfb7924d5
 workflow-type: tm+mt
-source-wordcount: '1186'
-ht-degree: 100%
+source-wordcount: '1163'
+ht-degree: 98%
 
 ---
 
@@ -15,9 +15,7 @@ ht-degree: 100%
 
 >[!NOTE]
 >
->A funcionalidade Mapeamento do conjunto de relatórios será substituída em novembro de 2020. Mapeie todos os conjuntos de relatórios pendentes como preparo. Entre em contato com o atendimento ao cliente com qualquer pergunta.
-
-Saiba mais sobre como mapear um ou vários conjuntos de relatórios para uma organização.
+>A funcionalidade Mapeamento do conjunto de relatórios foi substituída em novembro de 2020. Entre em contato com o Suporte ao cliente se tiver dúvidas.
 
 Os serviços da Experience Cloud (como o Serviço da Experience Cloud ID e [!UICONTROL People]) estão associados a uma organização em vez de a um conjunto de relatórios individual. Para garantir o funcionamento correto desses serviços, cada conjunto de relatórios do Analytics deve ser mapeado para uma organização. O processo de mapeamento:
 

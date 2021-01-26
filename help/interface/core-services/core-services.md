@@ -5,10 +5,10 @@ solution: Experience Cloud
 title: 'Ativar as soluções dos serviços principais '
 index: true
 translation-type: tm+mt
-source-git-commit: 56301935a3f3e20633294d29cc01e4bcfb7924d5
+source-git-commit: d8b4f8c5ff963fce48adf7cd312543a98955828c
 workflow-type: tm+mt
-source-wordcount: '2351'
-ht-degree: 96%
+source-wordcount: '2352'
+ht-degree: 95%
 
 ---
 
@@ -32,21 +32,21 @@ Para clientes atuais, talvez seja necessário modernizar as implementações da 
 
 O que é necessário para associar-se à Experience Cloud:
 
-![](assets/step1_icon.png) Verifique se você tem as SKUs adequadas do Adobe Analytics ou Adobe Target.
+1. Verifique se você tem as SKUs adequadas do Adobe Analytics ou Adobe Target.
 
-* **Adobe Analytics:** Standard ou Premium (não o SKU do [!DNL SiteCatalyst] herdado).
-* **Adobe Target:** Standard ou Premium.
+   * **Adobe Analytics:** Standard ou Premium (não o SKU do [!DNL SiteCatalyst] herdado).
+   * **Adobe Target:** Standard ou Premium.
 
->[!NOTE]
->
->No [!DNL Target], migre para at.js a partir do [!DNL mbox.js]. Consulte [Atualização do at.js 1.x para o at.js 2.x](https://docs.adobe.com/content/help/pt-BR/target/using/implement-target/client-side/upgrading-from-atjs-1x-to-atjs-20.html).
+   >[!NOTE]
+   >
+   >No [!DNL Target], migre para at.js a partir do [!DNL mbox.js]. Consulte [Atualização do at.js 1.x para o at.js 2.x](https://docs.adobe.com/content/help/pt-BR/target/using/implement-target/client-side/upgrading-from-atjs-1x-to-atjs-20.html).
 
-![](assets/step2_icon.png) Modernize sua implementação e consiga um administrador.
+1. Modernize sua implementação e consiga um administrador.
 
-1. Siga as etapas abaixo em [Implantar o [!UICONTROL Serviço da Experience Cloud ID]](../core-services/core-services.md#section_3C9F6DF37C654D939625BB4D485E4354).
-1. Entre em contato com o Gerente de contas e comece o processo de provisionamento da Experience Cloud.
+   * Siga as etapas abaixo em [Implemente o [!UICONTROL serviço de ID do Experience Cloud]](../core-services/core-services.md#section_3C9F6DF37C654D939625BB4D485E4354).
+   * Entre em contato com o Gerente de contas e comece o processo de provisionamento da Experience Cloud.
 
-![](assets/step3_icon.png) Gerenciar usuários e produtos no [!UICONTROL Admin Console].
+1. Gerenciar usuários e produtos no [!UICONTROL Admin Console].
 
 ### Logon do administrador
 
@@ -54,18 +54,18 @@ Depois de se tornar um administrador, faça logon em [experiencecloud.adobe.com]
 
 Você verá o link **[!UICONTROL Administração]** no menu de navegação da Experience Cloud.
 
-Consulte [Administração de usuários e produtos da Experience Cloud](../admin-getting-started/admin-getting-started.md#topic_3FCB4099640647E3B2411ADBFCE81909) para obter ajuda.
+Consulte [Administração de usuários e produtos do Experience Cloud](../admin-getting-started/admin-getting-started.md#topic_3FCB4099640647E3B2411ADBFCE81909) para obter mais informações.
 
 ### Logon do usuário
 
 Para fazer logon na Experience Cloud, os usuários devem:
 
-1. Ter uma Adobe ID (ou Enterprise ID para sua empresa).
-1. Faça logon em [experiencecloud.adobe.com](https://experiencecloud.adobe.com).
-1. Pertencer a um grupo de soluções mapeado para um grupo corporativo.
-1. Se necessário, vincule suas contas da solução à Adobe ID (descrito abaixo).
+* Ter uma Adobe ID (ou Enterprise ID para sua empresa).
+* Faça logon em [experiencecloud.adobe.com](https://experiencecloud.adobe.com).
+* Pertencer a um grupo de soluções mapeado para um grupo corporativo.
+* Se necessário, vincule suas contas da solução à Adobe ID (descrito abaixo).
 
-![](assets/step4_icon.png) Opcional: vincular contas de usuário existentes.
+### Opcional: vincular contas de usuário existentes.
 
 Provavelmente, há usuários que já são membros de grupos de soluções, como um grupo do Analytics gerenciado anteriormente em [!UICONTROL Analytics] > [!UICONTROL Ferramentas administrativas].
 

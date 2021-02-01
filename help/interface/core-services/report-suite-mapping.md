@@ -2,11 +2,11 @@
 description: Saiba mais sobre como mapear um ou vários conjuntos de relatórios para uma organização na Experience Cloud.
 title: 'Mapear conjuntos de relatórios para uma organização '
 uuid: b983d5a6-b3d0-4137-ac53-bc5681d3e58b
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: 56301935a3f3e20633294d29cc01e4bcfb7924d5
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '1163'
-ht-degree: 98%
+ht-degree: 100%
 
 ---
 
@@ -15,7 +15,7 @@ ht-degree: 98%
 
 >[!NOTE]
 >
->A funcionalidade Mapeamento do conjunto de relatórios foi substituída em novembro de 2020. Entre em contato com o Suporte ao cliente se tiver dúvidas.
+>A funcionalidade Mapeamento do conjunto de relatórios foi descontinuada em novembro de 2020. Entre em contato com o Suporte ao cliente para esclarecer dúvidas.
 
 Os serviços da Experience Cloud (como o Serviço da Experience Cloud ID e [!UICONTROL People]) estão associados a uma organização em vez de a um conjunto de relatórios individual. Para garantir o funcionamento correto desses serviços, cada conjunto de relatórios do Analytics deve ser mapeado para uma organização. O processo de mapeamento:
 
@@ -60,7 +60,7 @@ Esta seção contém dicas para ajudar a selecionar a organização da Experienc
 
 ### Qual organização devo escolher?
 
-Se o Serviço da Experience Cloud ID estiver implantado no conjunto de relatórios, verifique se a organização selecionada na ferramenta de Mapeamento de conjuntos de relatórios é a mesma organização especificada no arquivo [!DNL visitorAPI.js] do site. Use as instruções em [Testar e verificar o Serviço da Experience Cloud ID](https://docs.adobe.com/content/help/en/id-service/using/implementation-guides/test-verify.html) para encontrar a ID da organização em uso pelo serviço de ID de visitante.
+Se o Serviço da Experience Cloud ID estiver implantado no conjunto de relatórios, verifique se a organização selecionada na ferramenta de Mapeamento de conjuntos de relatórios é a mesma organização especificada no arquivo [!DNL visitorAPI.js] do site. Use as instruções em [Testar e verificar o Serviço da Experience Cloud ID](https://docs.adobe.com/content/help/pt-BR/id-service/using/implementation-guides/test-verify.html) para encontrar a ID da organização em uso pelo serviço de ID de visitante.
 
 Se o serviço de ID do visitante ainda não estiver implantado nos sites que coletam dados para o conjunto de relatórios e você implantar o serviço de ID do visitante da Experience Cloud futuramente, será necessário assegurar-se de que a implantação corresponde à organização selecionada na ferramenta Mapeamento de conjuntos de relatórios.
 

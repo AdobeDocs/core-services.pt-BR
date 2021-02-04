@@ -1,14 +1,13 @@
 ---
-description: Saiba mais sobre como fazer logon no Adobe Admin Console, gerenciar permissões de usuário e perfis de produto da Experience Cloud e suporte ao navegador.
-keywords: Experience Cloud services
-solution: Experience Cloud
-title: 'Saiba como gerenciar usuários e produtos '
+description: Saiba como gerenciar permissões de usuário e perfis de produto do Adobe Experience Cloud. Saiba mais sobre como fazer logon no Adobe Admin Console e sobre o suporte do navegador para o Experience Cloud.
+solution: Admin
+title: 'Como gerenciar usuários e produtos '
 index: true
 translation-type: tm+mt
-source-git-commit: 3f26c1af19a0838913eec2b4135304f5f3fcf0b4
+source-git-commit: 119bbd98e78fe55ae30ef874e2125fa196221363
 workflow-type: tm+mt
-source-wordcount: '1432'
-ht-degree: 100%
+source-wordcount: '1421'
+ht-degree: 92%
 
 ---
 
@@ -23,7 +22,7 @@ Saiba mais sobre como fazer logon no Admin Console, gerenciar permissões de usu
 
 ## Novidades no gerenciamento de usuários da Experience Cloud {#concept_06A0A13362F644FB90F947238407637A}
 
-Saiba mais sobre os recursos mais recentes do gerenciamento de usuários da Experience Cloud.
+Saiba mais sobre os recursos mais recentes no gerenciamento de usuários e produtos do Experience Cloud.
 
 <!-- ### Business ID type
 
@@ -44,7 +43,7 @@ Os administradores podem exibir uma lista classificável e filtrável de todos o
 
 ## Fazer logon no Admin Console {#section_705072FD4EBE4B70BC69EC81F2BB8669}
 
-Administradores não gerenciam mais os usuários nas soluções. O gerenciamento de usuários e de produtos da Experience Cloud agora acontece no Admin Console.
+Os administradores não gerenciam mais usuários em soluções de produtos específicos. O gerenciamento de usuários e de produtos da Experience Cloud agora acontece no Admin Console.
 
 Para fazer logon no Admin Console:
 
@@ -57,17 +56,17 @@ Como alternativa, no menu da Experience Cloud (![](assets/menu-icon.png)), cliqu
 
 [Guia do usuário de administração](https://helpx.adobe.com/br/enterprise/using/users.html) para a Creative Cloud e a Document Cloud. Algumas informações são relevantes para o gerenciamento de usuários da Experience Cloud, como o [gerenciamento de tipos de identidade](https://helpx.adobe.com/enterprise/help/identity.html).
 
-[Faça logon e gerencie as configurações de perfil](../admin-getting-started/getting-started-experience-cloud.md#topic_AC564B6795334DE39359ADD87F52F2E0) para gerenciar senhas, empresas e notificações.
+[Fazer logon e gerenciar as configurações do seu perfil](../admin-getting-started/getting-started-experience-cloud.md#topic_AC564B6795334DE39359ADD87F52F2E0).
 
 ## Grupos e perfis de produto {#section_AB50558124D541CF80A0D3D76D35A4BF}
 
 A adição dos perfis de produto marca uma mudança em como os produtos e serviços das soluções eram gerenciados anteriormente (com o uso de grupos). No Admin Console, as permissões são baseadas em perfis de produto, que são grupos de produtos e serviços que você pode atribuir aos usuários.
 
-Por exemplo, no Analytics é possível configurar uma coleção de ferramentas de relatório, como a Analysis Workspace e o Report Builder, além de conjuntos de relatórios, métricas, dimensões e outros. É possível permitir que usuários acessem um perfil de produto ao adicioná-los ao perfil. Consulte [Atribuir a um perfil de produto permissões de acesso ao Analytics](../admin-getting-started/admin-getting-started.md#task_040673FE3E3E429B9531FBCB8B6A4391).
+Por exemplo, no Analytics é possível configurar uma coleção de ferramentas de relatório, como a Analysis Workspace e o Report Builder, além de conjuntos de relatórios, métricas, dimensões e outros. É possível permitir que usuários acessem um perfil de produto ao adicioná-los ao perfil. Consulte [Atribuir permissões de acesso do Analytics a um perfil de produto](../admin-getting-started/admin-getting-started.md#task_040673FE3E3E429B9531FBCB8B6A4391) nesta página.
 
-**Ajuda relacionada**
+**Delegação de direitos administrativos**
 
-[Delegar privilégios de administração limitados](../admin-getting-started/admin-getting-started.md#task_3A072C4AA9734BC59FFA7E015271BC7E)
+Consulte [Delegar privilégios de administração limitados](../admin-getting-started/admin-getting-started.md#task_3A072C4AA9734BC59FFA7E015271BC7E) nesta página.
 
 ## Analytics {#section_97DE101F92CD494AB073893680992F1A}
 
@@ -117,17 +116,17 @@ Os clientes do Adobe Enterprise são representados como Organizações do IMS no
 
 Consulte [Suporte IMS para o AEM as a Cloud Service](https://docs.adobe.com/content/help/pt-BR/experience-manager-cloud-service/security/ims-support.html#managing-products-and-user-access-in-admin-console).
 
-## Gerenciador dinâmico de tags {#section_3A41CF2BD5994B9891537D063571D4ED}
+## Experience Platform Launch {#section_3A41CF2BD5994B9891537D063571D4ED}
 
-Convide usuários para o Dynamic Tag Management, atribua funções de usuário e adicione usuários a grupos.
+Convide usuários para [!UICONTROL Inicialização de plataforma] e atribua funções e direitos de usuário.
 
-Consulte [Usuários e permissões](https://docs.adobe.com/content/help/pt-BR/dtm/using/admin/users.html) para obter informações sobre como convidar usuários para o Dynamic Tag Management, atribuir funções de usuário e adicionar usuários a grupos.
+Consulte [Permissões de usuário](https://experienceleague.adobe.com/docs/launch/using/admin/user-permissions.html?lang=en#admin).
 
 ## Audience Manager {#section_C31E3FA8A1E14463B1B3E07235F1983C}
 
 Crie usuários no Audience Manager e os atribua a grupos. Também é possível visualizar limites (características, segmentos, destinos e [!DNL AlgoModel]).
 
-Consulte [Administração](https://docs.adobe.com/content/help/en/dtm/using/admin/users.html) na ajuda do Audience Manager.
+Consulte [Administração](https://docs.adobe.com/content/help/pt-BR/dtm/using/admin/users.html) na ajuda do Audience Manager.
 
 ## Gerenciar produtos da Experience Cloud {#task_16335111C52D40E9BAC73D0699584DBF}
 

@@ -1,13 +1,13 @@
 ---
 description: Saiba como implementar a Adobe Experience Cloud e tornar-se um administrador.
-keywords: core services;Customer Attributes
+keywords: principais serviços;Atributos do cliente
 solution: Experience Cloud
 title: 'Ativar as soluções dos serviços principais '
 index: true
 translation-type: tm+mt
 source-git-commit: d8b4f8c5ff963fce48adf7cd312543a98955828c
 workflow-type: tm+mt
-source-wordcount: '2352'
+source-wordcount: '2356'
 ht-degree: 99%
 
 ---
@@ -43,7 +43,7 @@ O que é necessário para associar-se à Experience Cloud:
 
 1. Modernize sua implementação e consiga um administrador.
 
-   * Siga as etapas abaixo em [Implemente o [!UICONTROL serviço de ID do Experience Cloud]](../core-services/core-services.md#section_3C9F6DF37C654D939625BB4D485E4354).
+   * Siga as etapas abaixo em [Implementar o [!UICONTROL Serviço da Experience Cloud ID]](../core-services/core-services.md#section_3C9F6DF37C654D939625BB4D485E4354).
    * Entre em contato com o Gerente de contas e comece o processo de provisionamento da Experience Cloud.
 
 1. Gerenciar usuários e produtos no [!UICONTROL Admin Console].
@@ -54,7 +54,7 @@ Depois de se tornar um administrador, faça logon em [experiencecloud.adobe.com]
 
 Você verá o link **[!UICONTROL Administração]** no menu de navegação da Experience Cloud.
 
-Consulte [Administração de usuários e produtos do Experience Cloud](../admin-getting-started/admin-getting-started.md#topic_3FCB4099640647E3B2411ADBFCE81909) para obter mais informações.
+Consulte [Administração de usuários e produtos da Experience Cloud](../admin-getting-started/admin-getting-started.md#topic_3FCB4099640647E3B2411ADBFCE81909) para obter mais informações.
 
 ### Logon do usuário
 

@@ -3,10 +3,10 @@ description: Saiba mais sobre os cookies da Adobe Ad Cloud para mapear eventos d
 title: 'Cookies da Advertising Cloud '
 uuid: 2eec48a3-3e81-488e-8e30-5fd62885de0b
 translation-type: tm+mt
-source-git-commit: 3f26c1af19a0838913eec2b4135304f5f3fcf0b4
+source-git-commit: 26b2af2196253632f1590efc3e5d1e208436b7d6
 workflow-type: tm+mt
-source-wordcount: '521'
-ht-degree: 100%
+source-wordcount: '538'
+ht-degree: 96%
 
 ---
 
@@ -97,7 +97,7 @@ A Advertising Cloud usa cookies para mapear eventos de envolvimento de anúncios
   </tr> 
   <tr> 
    <td colname="col1"> <p>Expiração </p> </td> 
-   <td colname="col2"> <p>2 anos </p> </td> 
+   <td colname="col2"> <p>Os cookies definidos em 24 de fevereiro de 2021 ou anterior expiram após 730 dias. Os cookies definidos em 25 de fevereiro de 2021 ou posterior expiram após 364 dias.</p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p>Uso </p> </td> 

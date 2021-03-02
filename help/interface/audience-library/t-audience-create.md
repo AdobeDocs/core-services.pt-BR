@@ -1,14 +1,14 @@
 ---
 description: Saiba mais sobre como usar as regras de atributo para criar um público-alvo e definir um público composto na Adobe Experience Cloud.
-keywords: core services
+keywords: principais serviços
 solution: Experience Cloud
 title: 'Criar um público-alvo '
 uuid: 7e622539-296e-4ff3-93b0-ec1c08b35429
 translation-type: tm+mt
-source-git-commit: 3f26c1af19a0838913eec2b4135304f5f3fcf0b4
+source-git-commit: 450a2e5252f7ee14b9af3043b2eaf3c41bf30e7b
 workflow-type: tm+mt
-source-wordcount: '472'
-ht-degree: 100%
+source-wordcount: '474'
+ht-degree: 97%
 
 ---
 

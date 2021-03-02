@@ -1,14 +1,18 @@
 ---
 description: Saiba mais sobre a compatibilidade com o navegador e consulte perguntas e respostas comuns para administradores na Adobe Experience Cloud.
-keywords: core services, Experience Cloud, Experience Platform, Analytics, Target, user management.
+keywords: principais serviços, Experience Cloud, Experience Platform, Analytics, Target, gerenciamento de usuários.
 solution: Experience Cloud
 title: 'Perguntas frequentes sobre a Experience Cloud '
 index: true
+feature: Admin Console
+topic: Administração
+role: Administrador
+level: Experienciado
 translation-type: tm+mt
-source-git-commit: 3f26c1af19a0838913eec2b4135304f5f3fcf0b4
+source-git-commit: 61d60273e933c637dfe4400da78257e1c80015b3
 workflow-type: tm+mt
-source-wordcount: '767'
-ht-degree: 100%
+source-wordcount: '782'
+ht-degree: 98%
 
 ---
 

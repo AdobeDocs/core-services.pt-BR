@@ -1,14 +1,18 @@
 ---
-description: Se você não fizer upload usando a função arrastar e soltar, será possível fazer upload do atributo do cliente via FTP na Experience Cloud.
-keywords: Customer Attributes;core services
+description: Saiba como fazer upload dos dados de atributos do cliente via FTP na Experience Cloud.
+keywords: Atributos do cliente, principais serviços
 solution: Experience Cloud
 title: 'Fazer upload do arquivo de dados do atributo do cliente via FTP '
 uuid: 5df565dd-b6f8-420e-981f-4b6fc6f7d0e4
-translation-type: ht
-source-git-commit: 3f26c1af19a0838913eec2b4135304f5f3fcf0b4
-workflow-type: ht
-source-wordcount: '268'
-ht-degree: 100%
+feature: 'Atributos do cliente '
+topic: Administração
+role: Administrador
+level: Experienciado
+translation-type: tm+mt
+source-git-commit: 61d60273e933c637dfe4400da78257e1c80015b3
+workflow-type: tm+mt
+source-wordcount: '271'
+ht-degree: 93%
 
 ---
 

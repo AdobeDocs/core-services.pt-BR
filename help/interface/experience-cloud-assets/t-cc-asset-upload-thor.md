@@ -1,14 +1,18 @@
 ---
 description: Saiba como fazer upload de um ativo para uma pasta compartilhada do desktop da Creative Cloud para a Experience Cloud.
-keywords: asset sharing;Creative Cloud;core services
+keywords: 'compartilhamento de ativos, Creative Cloud, '
 solution: Experience Cloud
 title: 'Faça upload de um ativo para uma pasta compartilhada no desktop da Creative Cloud '
 uuid: 88e97e4d-cf9e-4b26-923b-ee60583cae1a
-translation-type: ht
-source-git-commit: 3f26c1af19a0838913eec2b4135304f5f3fcf0b4
-workflow-type: ht
-source-wordcount: '65'
-ht-degree: 100%
+feature: Assets
+topic: Administração
+role: Administrador
+level: Experienciado
+translation-type: tm+mt
+source-git-commit: 61d60273e933c637dfe4400da78257e1c80015b3
+workflow-type: tm+mt
+source-wordcount: '75'
+ht-degree: 98%
 
 ---
 

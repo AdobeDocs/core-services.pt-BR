@@ -1,14 +1,18 @@
 ---
 description: Saiba mais sobre fontes de dados de solução e como configurar assinaturas. As assinaturas permitem que o cliente atribua o fluxo de dados entre a Experience Cloud e as soluções (Analytics e Target).
-keywords: Customer Attributes;core services
+keywords: Atributos do cliente, principais serviços
 solution: Experience Cloud
 title: 'Como configurar assinaturas '
 uuid: f74a8155-0a21-46b3-9b1e-4c838f72f24f
+feature: 'Atributos do cliente '
+topic: Administração
+role: Administrador
+level: Experienciado
 translation-type: tm+mt
-source-git-commit: 3f26c1af19a0838913eec2b4135304f5f3fcf0b4
+source-git-commit: 61d60273e933c637dfe4400da78257e1c80015b3
 workflow-type: tm+mt
-source-wordcount: '381'
-ht-degree: 100%
+source-wordcount: '390'
+ht-degree: 98%
 
 ---
 

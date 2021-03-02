@@ -1,13 +1,17 @@
 ---
 description: 'Saiba mais sobre como compartilhar pastas e assets entre a Experience Cloud e a Creative Cloud. '
-keywords: asset sharing;Creative Cloud;core services
+keywords: 'compartilhamento de ativos, Creative Cloud, '
 solution: Experience Cloud
 title: 'Compartilhar as pastas e os ativos da Experience Cloud com a Creative Cloud '
+feature: Assets
+topic: Administração
+role: Administrador
+level: Experienciado
 translation-type: tm+mt
-source-git-commit: 3f26c1af19a0838913eec2b4135304f5f3fcf0b4
+source-git-commit: 61d60273e933c637dfe4400da78257e1c80015b3
 workflow-type: tm+mt
-source-wordcount: '171'
-ht-degree: 100%
+source-wordcount: '181'
+ht-degree: 99%
 
 ---
 

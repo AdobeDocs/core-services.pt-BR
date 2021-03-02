@@ -1,14 +1,18 @@
 ---
 description: Como o Adobe Scene7 usa cookies para armazenar informações úteis que podem ser usadas para entrega de dynamic media ao navegador.
-keywords: cookies;privacy
+keywords: cookies; privacidade
 solution: Experience Cloud,Analytics,Target
 title: 'Cookies do Scene7 '
 uuid: f9b9d13a-17e5-4139-8c84-6fe5d22c4196
+feature: Cookies
+topic: Administração
+role: Administrador
+level: Experienciado
 translation-type: tm+mt
-source-git-commit: 3f26c1af19a0838913eec2b4135304f5f3fcf0b4
+source-git-commit: 61d60273e933c637dfe4400da78257e1c80015b3
 workflow-type: tm+mt
-source-wordcount: '411'
-ht-degree: 100%
+source-wordcount: '417'
+ht-degree: 99%
 
 ---
 

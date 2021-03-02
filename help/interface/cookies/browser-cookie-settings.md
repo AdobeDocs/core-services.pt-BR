@@ -1,14 +1,18 @@
 ---
-description: Remova os usuários que bloquearam todos os cookies em navegadores de computadores e de dispositivos móveis. Essa configuração de privacidade exclui os usuários que optam por não participar da coleta de dados do Analytics.
-keywords: cookies;privacy
+description: Saiba como ativar as configurações de privacidade de cookies do navegador. É possível remover os usuários que bloquearam todos os cookies em navegadores de computadores e de dispositivos móveis.
+keywords: cookies; privacidade
 solution: Experience Cloud, Analytics, Target, Social
-title: 'Como ativar as configurações de privacidade para cookies do navegador '
+title: 'Configurações de privacidade de cookies do navegador '
 uuid: f6a56e8b-b021-49db-8eb4-6c14af0c7243
-translation-type: ht
-source-git-commit: 3f26c1af19a0838913eec2b4135304f5f3fcf0b4
-workflow-type: ht
-source-wordcount: '302'
-ht-degree: 100%
+feature: Cookies
+topic: Administração
+role: Administrador
+level: Experienciado
+translation-type: tm+mt
+source-git-commit: 61d60273e933c637dfe4400da78257e1c80015b3
+workflow-type: tm+mt
+source-wordcount: '304'
+ht-degree: 95%
 
 ---
 

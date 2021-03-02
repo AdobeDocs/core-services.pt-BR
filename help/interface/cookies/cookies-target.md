@@ -1,14 +1,18 @@
 ---
 description: Saiba como o Adobe Target usa cookies para fornecer aos operadores de site a capacidade de testar quais conteúdos e ofertas online são mais relevantes para os visitantes.
-keywords: cookies;privacy
+keywords: cookies; privacidade
 solution: Experience Cloud,Analytics,Target,Social
-title: 'Como usar cookies do Adobe Target '
+title: 'Cookies do Adobe Target  '
 uuid: 44f7e32e-8d99-4682-8b54-8364d001b403
+feature: Cookies
+topic: Administração
+role: Administrador
+level: Experienciado
 translation-type: tm+mt
-source-git-commit: 3f26c1af19a0838913eec2b4135304f5f3fcf0b4
+source-git-commit: 61d60273e933c637dfe4400da78257e1c80015b3
 workflow-type: tm+mt
-source-wordcount: '269'
-ht-degree: 100%
+source-wordcount: '272'
+ht-degree: 99%
 
 ---
 
@@ -66,7 +70,7 @@ O cookie mantém vários valores para gerenciar a experiência dos visitantes na
  <tbody> 
   <tr> 
    <td colname="col1"> <p> <span class="codeph"> session ID</span> </p> </td> 
-   <td colname="col2"> <p>Uma ID exclusiva para uma sessão de usuário. Por padrão, leva 30 minutos. </p> </td> 
+   <td colname="col2"> <p>Um identificador exclusivo para uma sessão de usuário. Por padrão, leva 30 minutos. </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p> <span class="codeph"> pc ID</span> </p> </td> 

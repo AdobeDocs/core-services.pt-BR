@@ -1,14 +1,18 @@
 ---
 description: Saiba como o Data Connectors da Adobe usam cookies para fornecer aos anunciantes métricas de desempenho de campanha e conversão otimizadas em vários canais de publicidade.
-keywords: cookies;privacy
+keywords: cookies; privacidade
 solution: Experience Cloud, Analytics, Target
 title: 'Cookies de Data Connectors '
 uuid: 5d27ba66-e640-4513-befc-69e8502de941
-translation-type: ht
-source-git-commit: 3f26c1af19a0838913eec2b4135304f5f3fcf0b4
-workflow-type: ht
-source-wordcount: '72'
-ht-degree: 100%
+feature: Cookies
+topic: Administração
+role: Administrador
+level: Experienciado
+translation-type: tm+mt
+source-git-commit: 61d60273e933c637dfe4400da78257e1c80015b3
+workflow-type: tm+mt
+source-wordcount: '78'
+ht-degree: 98%
 
 ---
 

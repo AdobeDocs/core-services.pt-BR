@@ -1,14 +1,18 @@
 ---
 description: Saiba mais sobre os cookies do Adobe Analytics na Adobe Experience Cloud.
-keywords: cookies;privacy
+keywords: cookies; privacidade
 solution: Experience Cloud,Analytics,Target
-title: 'Como usar cookies do Adobe Analytics '
+title: 'Cookies do Analytics '
 uuid: e2d3d61d-2708-48b2-a7e6-2331f2aed8e0
-translation-type: ht
-source-git-commit: 3f26c1af19a0838913eec2b4135304f5f3fcf0b4
-workflow-type: ht
-source-wordcount: '757'
-ht-degree: 100%
+feature: Cookies
+topic: Administração
+role: Administrador
+level: Experienciado
+translation-type: tm+mt
+source-git-commit: 61d60273e933c637dfe4400da78257e1c80015b3
+workflow-type: tm+mt
+source-wordcount: '759'
+ht-degree: 99%
 
 ---
 
@@ -64,9 +68,9 @@ Mais informações disponíveis na ajuda do Analytics sobre [Cookies primários]
 
 | Atributo | Descrição |
 |--- |--- |
-| Informações armazenadas | Carimbo de data/hora da ID de visitante exclusiva. |
+| Informações armazenadas | Carimbo de data/hora do identificador de visitante único |
 | Expiração | 2 anos |
-| Uso | Este cookie é usado para identificar um visitante exclusivo. |
+| Uso | Este cookie é usado para identificar um visitante único. |
 | Localização | Este cookie é armazenado no domínio da solicitação de imagem - normalmente um subdomínio específico do cliente em 2o7.net ou omtrdc.net se você estiver usando cookies de terceiros ou se o domínio estiver usando cookies primários |
 | Tamanho | 44 bytes |
 
@@ -78,9 +82,9 @@ Mais informações disponíveis na ajuda do Analytics sobre [Cookies primários]
 
 | Atributo | Descrição |
 |--- |--- |
-| Informações armazenadas | Carimbo de data/hora da ID do visitante exclusivo de fallback. |
+| Informações armazenadas | Carimbo de data/hora da ID do visitante único de fallback |
 | Expiração | 2 anos |
-| Uso | Este cookie é usado para identificar um visitante exclusivo se o cookie `s_vi` padrão não estiver disponível devido a restrições de cookies de terceiros. Não usado para implementações que usam cookies primários |
+| Uso | Este cookie é usado para identificar um visitante único se o cookie `s_vi` padrão não estiver disponível devido a restrições de cookies de terceiros. Não usado para implementações que usam cookies primários |
 | Localização | Esse cookie é armazenado em seu domínio como um cookie primário |
 | Tamanho | 33 bytes |
 

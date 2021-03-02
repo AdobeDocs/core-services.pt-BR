@@ -1,14 +1,14 @@
 ---
 description: Como compartilhar uma pasta de ativos da Experience Cloud com usuários da Creative Cloud.
-keywords: asset sharing;Creative Cloud;core services
+keywords: 'compartilhamento de ativos, Creative Cloud, '
 solution: Experience Cloud
 title: 'Compartilhar uma pasta de ativos da Experience Cloud '
 uuid: 105cf627-0148-4bf8-ab6a-7afa612e198c
-translation-type: ht
-source-git-commit: 3f26c1af19a0838913eec2b4135304f5f3fcf0b4
-workflow-type: ht
-source-wordcount: '307'
-ht-degree: 100%
+translation-type: tm+mt
+source-git-commit: 450a2e5252f7ee14b9af3043b2eaf3c41bf30e7b
+workflow-type: tm+mt
+source-wordcount: '313'
+ht-degree: 84%
 
 ---
 
@@ -44,13 +44,13 @@ Compartilhe uma pasta de ativos da Experience Cloud com usuários da Creative Cl
 
    ![](assets/asset_comment_mac.png)
 
-1. Para cancelar o compartilhamento de uma pasta, clique em **[!UICONTROL Compartilhar usando a Creative Cloud]** (semelhante à [Etapa 3](../experience-cloud-assets/t-share-creative-cloud.md#step_BA17CFA185284641A9B878BA29551996)), remova os usuários clicando no X e depois clique em **[!UICONTROL Compartilhar]**.
+1. Para cancelar o compartilhamento de uma pasta, clique em **[!UICONTROL Compartilhar usando a Creative Cloud]** (semelhante a [Etapa 3](../experience-cloud-assets/t-share-creative-cloud.md#step_BA17CFA185284641A9B878BA29551996)), remova os usuários clicando no X e clique em **[!UICONTROL Compartilhar]**.
 
 ![](assets/asset_remove_user.png)
 
-Após remover todos os usuários da Creative Cloud, o compartilhamento da pasta será cancelado e os usuários da Creative Cloud não terão mais acesso.
+Depois de remover todos os usuários da Creative Cloud, o compartilhamento da pasta não será mais realizado e os usuários da Creative Cloud não terão mais acesso.
 
-Outras maneiras de usar um ativo compartilhado incluem:
+Mais maneiras de usar um ativo compartilhado incluem:
 
 * Usar ativos no [!UICONTROL Seletor de ativo] no [!DNL Adobe Social] para postagens sociais.
 * Carregue ou troque ativos na [Biblioteca de ofertas](https://docs.adobe.com/help/pt-BR/target/using/experiences/offers/manage-content.html) no [!DNL Adobe Target] por imagens nas atividades.

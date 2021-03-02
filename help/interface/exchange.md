@@ -1,14 +1,18 @@
 ---
 description: Conheça o Exchange Marketplace, o único local onde você pode pesquisar, navegar, selecionar, pagar e baixar extensões de marketing digital por meio de aplicativos.
-keywords: core services
+keywords: principais serviços
 solution: Experience Cloud
 title: 'Exchange Marketplace '
 uuid: 73db5cc5-5fb2-43a2-a164-5cbca9e9a206
-translation-type: ht
-source-git-commit: 3f26c1af19a0838913eec2b4135304f5f3fcf0b4
-workflow-type: ht
-source-wordcount: '132'
-ht-degree: 100%
+feature: '"Atributos do cliente, Biblioteca de público-alvo, Admin Console"'
+topic: Administração
+role: Administrador
+level: Experienciado
+translation-type: tm+mt
+source-git-commit: 61d60273e933c637dfe4400da78257e1c80015b3
+workflow-type: tm+mt
+source-wordcount: '143'
+ht-degree: 95%
 
 ---
 

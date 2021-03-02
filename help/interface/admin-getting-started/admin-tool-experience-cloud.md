@@ -1,14 +1,18 @@
 ---
-description: Saiba mais sobre a Ferramenta administrativa da Experience Cloud para ver uma lista classificável e filtrável de todos os usuários e políticas da Experience Cloud.
-keywords: core services
+description: Saiba mais sobre a Ferramenta administrativa da Experience Cloud. Exiba uma lista classificável e filtrável de todos os usuários e políticas da Experience Cloud.
+keywords: principais serviços
 solution: Experience Cloud
 title: 'Exibir usuários e detalhes do usuário da Experience Cloud '
 index: true
-translation-type: ht
-source-git-commit: 4bea0c29afa580dc63b21535ce5c275cd649c9a5
-workflow-type: ht
-source-wordcount: '1243'
-ht-degree: 100%
+feature: Admin Console
+topic: Administração
+role: Administrador
+level: Experienciado
+translation-type: tm+mt
+source-git-commit: 61d60273e933c637dfe4400da78257e1c80015b3
+workflow-type: tm+mt
+source-wordcount: '1249'
+ht-degree: 98%
 
 ---
 
@@ -75,7 +79,7 @@ Esta seção exibe um resumo da conta do usuário incluindo:
 * Nome
 * Email
 * Nome de usuário (contas Federated ID podem ter nomes de usuário diferentes do endereço de email)
-* [Tipo de ID](https://helpx.adobe.com/br/enterprise/using/identity.html)
+* [Tipo de ID](https://helpx.adobe.com/enterprise/using/identity.html)
 * País
 * Último logon
 
@@ -106,7 +110,7 @@ Esta página exibe a lista completa das políticas da Experience Cloud na sua or
 | [!UICONTROL Perfil de produto] | O nome do perfil do produto. A coluna pode ser classificada como A->Z, Z->A. Clique no nome do perfil do produto para ver mais detalhes sobre a política. |
 | [!UICONTROL Produto] | O produto associado ao perfil do produto. A coluna pode ser classificada como A->Z, Z->A. |
 | [!UICONTROL Instância] | A instância (por exemplo, locatário ou empresa de login) associada ao perfil do produto. Os produtos que não têm instâncias ou locatários exclusivos exibirão um &quot; - &quot; para o valor. A coluna pode ser classificada como A->Z, Z->A. |
-| [!UICONTROL Número de usuários] | Número exclusivo de usuários associados ao perfil do produto, incluindo atribuição direta e atribuição de grupo. A coluna pode ser classificada da menor para a maior ou da maior para a menor. |
+| [!UICONTROL Número de usuários] | Contagem específica de usuários associados ao perfil do produto, incluindo atribuição direta e atribuição de grupo. A coluna pode ser classificada da menor para a maior ou da maior para a menor. |
 | [!UICONTROL Número de desenvolvedores] | Número de funções de desenvolvedor associadas ao perfil do produto. A coluna pode ser classificada da menor para a maior ou da maior para a menor. |
 
 ## Personalizar a exibição da lista de políticas

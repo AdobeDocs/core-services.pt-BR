@@ -1,15 +1,18 @@
 ---
-description: Os administradores podem saber mais sobre os requisitos e o que esperar ao atualizar para o Analytics Premium e onde encontrar ajuda como administrador da Experience Cloud.
-keywords: Adobe Analytics Premium upgrade
+description: Saiba mais sobre os requisitos e o que esperar ao atualizar para o Analytics Premium.
+keywords: Atualização do Adobe Analytics Premium
 solution: Experience Cloud
-title: 'Como atualizar para o Analytics Premium e a Experience Cloud '
-topic: Premium
+title: 'Atualizar para o Analytics Premium e a Experience Cloud '
+topic: Administração
 uuid: 450a601c-d199-4e90-b525-19bd9f9576d2
-translation-type: ht
-source-git-commit: 3f26c1af19a0838913eec2b4135304f5f3fcf0b4
-workflow-type: ht
-source-wordcount: '641'
-ht-degree: 100%
+feature: Admin Console
+role: Administrador
+level: Experienciado
+translation-type: tm+mt
+source-git-commit: 61d60273e933c637dfe4400da78257e1c80015b3
+workflow-type: tm+mt
+source-wordcount: '636'
+ht-degree: 95%
 
 ---
 
@@ -52,9 +55,9 @@ Atualizar para Inteligência preditiva permite o [Analytics Premium](../admin-ge
 
 | Produto | Atualizações |
 |---|---|
-| Reports &amp; Analytics | [Análise de contribuição](https://docs.adobe.com/content/help/pt-BR/analytics/analyze/analysis-workspace/virtual-analyst/contribution-analysis/ca-tokens.html) |
+| Reports &amp; Analytics | [Análise de contribuição](https://docs.adobe.com/content/help/en/analytics/analyze/analysis-workspace/virtual-analyst/contribution-analysis/ca-tokens.html) |
 | Data Workbench | Espaços de trabalho pré-criados para qualificações de público-alvo e marketing preditivo |
-| Analytics Platform | Live Stream (painéis e acionadores) |
+| Plataforma do Analytics | Live Stream (painéis e acionadores) |
 
 ## Visão completa do cliente {#section_3B2AC245388248688067DC9A48957AFB}
 
@@ -64,7 +67,7 @@ Atualização para ofertas do Customer 360 no [Analytics Premium](../admin-getti
 |--- |--- |
 | [Atributos do cliente](../attributes/attributes.md) | Atributos do cliente (análise e compartilhamento de segmentos) |
 | Data Workbench | <ul><li>Atributos derivados do cliente</li><li>Espaços de trabalho pré-criados para descoberta de públicos-alvo</li></ul> |
-| Analytics Platform | [Atributos do cliente](../attributes/attributes.md) |
+| Plataforma do Analytics | [Atributos do cliente](../attributes/attributes.md) |
 
 ## Atribuição avançada {#section_9E4986A8389946CCAA7D003268343296}
 

@@ -1,14 +1,18 @@
 ---
 description: Perguntas frequentes sobre os atributos do cliente na Adobe Experience Cloud, no Adobe Analytics e no Adobe Target.
-keywords: Customer Attributes
+keywords: 'Atributos do cliente '
 solution: Experience Cloud
 title: 'Obtenha respostas para perguntas frequentes sobre os atributos do cliente '
 uuid: e93eb531-23c7-4d75-92e8-75699f58546a
-translation-type: ht
-source-git-commit: 3f26c1af19a0838913eec2b4135304f5f3fcf0b4
-workflow-type: ht
-source-wordcount: '1233'
-ht-degree: 100%
+feature: 'Atributos do cliente '
+topic: Administração
+role: Administrador
+level: Experienciado
+translation-type: tm+mt
+source-git-commit: 61d60273e933c637dfe4400da78257e1c80015b3
+workflow-type: tm+mt
+source-wordcount: '1240'
+ht-degree: 99%
 
 ---
 
@@ -36,7 +40,7 @@ Orientação e limitações ao usar [!UICONTROL atributos do cliente].
 | É possível receber notificações sobre o status de upload de atributos do cliente? | Sim. Consulte [Gerenciar notificações](https://docs.adobe.com/content/help/pt-BR/core-services/interface/manage-users-and-products/organizations.html#concept_0105453AD71847B8BFCAF4A40915F157). |
 | O que devo fazer para começar a usar os atributos do cliente? | <ol><li>Seja provisionado. Se você for um cliente do Analytics, a Adobe está provisionando para os atributos do cliente. Se você usar somente o Adobe Target e não tiver o Analytics, solicite o provisionamento para os serviços principais entrando em contato com o Atendimento ao cliente.</li> <li>Conversar com a equipe de CRM. Descubra que tipo de dados do cliente estão disponíveis e que você gostaria de usar no Analytics e em toda a Experience Cloud.</li><li>Implementar os serviços principais. Consulte [Ativar as soluções para os serviços principais](https://docs.adobe.com/content/help/pt-BR/core-services/interface/about-core-services/core-services.html) para obter etapas sobre como modernizar a implementação. (Consulte a seção sobre sincronização de IDs de clientes para obter informações importantes.)</li></ol> **Observação:** as perguntas frequentes do administrador para implementar os serviços principais estão disponíveis [aqui](https://docs.adobe.com/content/help/pt-BR/core-services/interface/manage-users-and-products/faq.html#concept_13219B4E51784577B6FF78AAA203DE91). |
 | Quantos atributos do cliente eu posso usar? | Você pode fazer upload de centenas de colunas de `.csv` para o serviço de atributos do cliente. No entanto, ao configurar assinaturas e selecionar atributos, os seguintes limites poderão ser aplicados (por conjunto de relatórios), dependendo das suas soluções:  <ul><li>Foundation: 0</li><li>Select: 3</li><li>Prime: 15</li><li>Ultimate: 200</li><li>Standard: total de 3</li><li>Premium: 200</li><li>Adobe Target Standard: 5</li><li>Adobe Target Premium: 200</li></ul> |
-| É necessário migrar para o Serviço da Experience Cloud ID? | A migração depende das soluções que você usa. <ul><li>Adobe Analytics: recomendado </li><li>Adobe Target: obrigatório. </li></ul><br>O uso do serviço da Experience Cloud ID permite a funcionalidade mais recente da Experience Cloud, incluindo públicos em tempo real, a modernização do Adobe Target, a integração do Analytics e o rastreamento de pulsação de vídeo. <br> Para obter mais detalhes, consulte [Ativar as soluções para os serviços principais](https://docs.adobe.com/content/help/pt-BR/core-services/interface/about-core-services/core-services.html). <br>**Observação:** o [Serviço da Experience Cloud ID](https://docs.adobe.com/content/help/pt-BR/id-service/using/intro/overview.html) é a implementação modernizada do que era conhecido como _Serviço de ID de visitante do Analytics._ |
+| É necessário migrar para o Serviço da Experience Cloud ID? | A migração depende das soluções que você usa. <ul><li>Adobe Analytics: recomendado </li><li>Adobe Target: obrigatório. </li></ul><br>O uso do serviço da Experience Cloud ID permite a funcionalidade mais recente da Experience Cloud, incluindo públicos em tempo real, a modernização do Adobe Target, a integração do Analytics e o rastreamento de pulsação de vídeo. <br> Para obter mais detalhes, consulte [Ativar as soluções para os serviços principais](https://docs.adobe.com/content/help/en/core-services/interface/about-core-services/core-services.html). <br>**Observação:** o [Serviço da Experience Cloud ID](https://docs.adobe.com/content/help/pt-BR/id-service/using/intro/overview.html) é a implementação modernizada do que era conhecido como _Serviço de ID de visitante do Analytics._ |
 | Como a funcionalidade de atributo do cliente está relacionada ao Adobe Audience Manager? | Embora o Audience Manager possa receber dados para identificar o público, ele não pode executar a funcionalidade de análise que vincula os atributos aos dados comportamentais históricos. Ele também não fornece os recursos de relatórios, análise e segmentação disponíveis no Adobe Analytics. O recurso [!UICONTROL People] permite que dados avançados de várias soluções sejam vinculados e associados a uma única ID para uso na Experience Cloud. <br>No Adobe Target, os atributos do cliente aparecem como atributos individuais que podem ser combinados com outras regras para construir públicos. Os públicos-alvo compartilhados com o serviço [!UICONTROL People] são públicos-alvo completos que não podem ser modificados. |
 | **(Somente no Analytics)** Como essa funcionalidade difere do que é fornecido no Analytics Premium? | Antes, os clientes interessados em combinar os dados de atributo do cliente com os dados do Analytics dependiam muito da ferramenta de Data Workbench para essa funcionalidade. Os atributos do cliente expõem essa funcionalidade para um público maior ao fornecer atributos do cliente como dimensões e métricas nos relatórios e análises, na análise ad hoc e no construtor de relatórios. Os clientes do Analytics Standard terão acesso aos atributos do cliente, mas com recursos limitados. O recurso completo está disponível para os clientes do Analytics Premium. |
 | **(Somente no Adobe Target)** É possível pré-carregar ou carregar dados para clientes que o Adobe Target nunca viu? | Sim. Quando o visitante fizer sua primeira solicitação para o Adobe Target, o sistema buscará as informações existentes sobre ele nos Atributos do cliente e usará esses dados para a segmentação. **Observação:** a recuperação desses dados pode demorar até 20 minutos a partir da primeira interação com o Adobe Target. |

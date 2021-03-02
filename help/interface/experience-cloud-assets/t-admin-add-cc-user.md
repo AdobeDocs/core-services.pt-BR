@@ -1,14 +1,18 @@
 ---
 description: 'Saiba mais sobre as ferramentas administrativas para gerenciar usuários aprovados da Creative Cloud na Experience Cloud. '
-keywords: asset sharing;Creative Cloud;core services
+keywords: 'compartilhamento de ativos, Creative Cloud, '
 solution: Experience Cloud
 title: 'Gerenciar usuários da Creative Cloud '
 uuid: 11c4de67-40c5-4438-92fc-e23761be3f18
-translation-type: ht
-source-git-commit: 3f26c1af19a0838913eec2b4135304f5f3fcf0b4
-workflow-type: ht
-source-wordcount: '119'
-ht-degree: 100%
+feature: Assets
+topic: Administração
+role: Administrador
+level: Experienciado
+translation-type: tm+mt
+source-git-commit: 61d60273e933c637dfe4400da78257e1c80015b3
+workflow-type: tm+mt
+source-wordcount: '129'
+ht-degree: 99%
 
 ---
 

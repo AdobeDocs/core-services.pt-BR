@@ -1,14 +1,18 @@
 ---
-description: A Adobe Experience Cloud usa cookies para armazenar a ID do visitante usada nas Soluções da Experience Cloud.
-keywords: cookies;privacy
+description: Saiba como os serviços de ID são armazenados e usados nas Soluções da Experience Cloud.
+keywords: cookies; privacidade
 solution: Experience Cloud,Analytics,Target
 title: 'Cookies da Experience Cloud '
 uuid: a4788c1c-0402-4fc8-b894-cd24fa794f4f
-translation-type: ht
-source-git-commit: 3f26c1af19a0838913eec2b4135304f5f3fcf0b4
-workflow-type: ht
-source-wordcount: '348'
-ht-degree: 100%
+feature: Cookies
+topic: Administração
+role: Administrador
+level: Experienciado
+translation-type: tm+mt
+source-git-commit: 61d60273e933c637dfe4400da78257e1c80015b3
+workflow-type: tm+mt
+source-wordcount: '350'
+ht-degree: 96%
 
 ---
 
@@ -56,7 +60,7 @@ A Adobe Experience Cloud usa cookies para armazenar a ID do visitante usada nas 
 
 **Nome do cookie: AMCV_###@AdobeOrg**
 
-O [Serviço de ID da Experience Platform](https://docs.adobe.com/content/help/pt-BR/id-service/using/home.html) usa o JavaScript para armazenar uma ID de visitante exclusiva em um cookie `AMCV_###@AdobeOrg` no domínio do site atual, onde `###` representa uma cadeia aleatória de caracteres, como `AMCV_1FD6776A524453CC0A490D44%40AdobeOrg.`
+O [Serviço de ID da Experience Platform](https://docs.adobe.com/content/help/pt-BR/id-service/using/home.html) usa o JavaScript para armazenar um identificador de visitante único em um cookie `AMCV_###@AdobeOrg` no domínio do site atual, onde `###` representa uma cadeia aleatória de caracteres, como `AMCV_1FD6776A524453CC0A490D44%40AdobeOrg.`
 
 Consulte [Cookies e o serviço da ID](https://docs.adobe.com/content/help/pt-BR/id-service/using/intro/cookies.html).
 
@@ -70,7 +74,7 @@ Consulte [Cookies e o serviço da ID](https://docs.adobe.com/content/help/pt-BR/
  <tbody> 
   <tr> 
    <td colname="col1"> <p>Informações armazenadas </p> </td> 
-   <td colname="col2"> <p> IDs de visitantes únicos usadas pelas Soluções da Experience Cloud. </p> </td> 
+   <td colname="col2"> <p> Identificadores de visitante único usados pelas Soluções da Experience Cloud. </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p> Expiração </p> </td> 
@@ -78,7 +82,7 @@ Consulte [Cookies e o serviço da ID](https://docs.adobe.com/content/help/pt-BR/
   </tr> 
   <tr> 
    <td colname="col1"> <p> Uso </p> </td> 
-   <td colname="col2"> <p> Este cookie é usado para identificar um visitante exclusivo. </p> </td> 
+   <td colname="col2"> <p> Este cookie é usado para identificar um visitante único. </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p> Localização </p> </td> 

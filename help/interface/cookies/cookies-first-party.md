@@ -1,15 +1,19 @@
 ---
 description: Saiba como o Adobe Analytics usa cookies para fornecer informações sobre variáveis e componentes que não persistem entre as solicitações de imagem e as sessões do navegador.
-keywords: cookies;privacy
+keywords: cookies; privacidade
 solution: Experience Cloud,Analytics
-title: 'Como usar cookies originais '
+title: '"Cookies próprios "'
 index: y
 snippet: y
+feature: Cookies
+topic: Administração
+role: Administrador
+level: Experienciado
 translation-type: tm+mt
-source-git-commit: 3f26c1af19a0838913eec2b4135304f5f3fcf0b4
+source-git-commit: 61d60273e933c637dfe4400da78257e1c80015b3
 workflow-type: tm+mt
-source-wordcount: '1444'
-ht-degree: 100%
+source-wordcount: '1447'
+ht-degree: 99%
 
 ---
 

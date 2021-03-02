@@ -1,12 +1,12 @@
 ---
 solution: Experience Cloud
-type: Documentation
+type: Documentação
 title: 'Públicos da Adobe Experience Cloud '
 uuid: 92faf3a8-1375-4e32-905b-74cad48144d3
-translation-type: ht
-source-git-commit: 7ad0ea1692ca73fce91af931dc80f0e1dc2347a1
-workflow-type: ht
-source-wordcount: '796'
+translation-type: tm+mt
+source-git-commit: 450a2e5252f7ee14b9af3043b2eaf3c41bf30e7b
+workflow-type: tm+mt
+source-wordcount: '797'
 ht-degree: 100%
 
 ---
@@ -43,7 +43,7 @@ A tabela a seguir descreve como os públicos-alvo são usados nas soluções da 
 | [!DNL Target] | O [serviço de ID](https://docs.adobe.com/content/help/pt-BR/id-service/using/home.html) unifica as IDs de visitantes e os dados em um perfil único e acionável para uso em soluções. A caixa de seleção [Publicar na Experience Cloud](../audience-library/audience-library.md) durante o processo de criação de segmento no Adobe Analytics permite que o segmento fique disponível na biblioteca de público-alvo-alvo personalizado no Adobe Target. Um segmento criado no Analytics ou no Audience Manager pode ser usado em atividades no [!DNL Target]. Por exemplo, é possível criar atividades de campanha baseadas nas métricas de conversão do [!DNL Analytics] e nos segmentos de público-alvo criados no [!DNL Analytics]. |
 | Audience Manager | Os públicos-alvo compartilhados ficam disponíveis na segmentação do Audience Manager. Todos os públicos-alvo da Experience Cloud estão disponíveis originalmente no Audience Manager, que oferece:<ul><li>Automação integrada em relação ao modo como são compartilhados e consumidos em fluxos de trabalho de solução</li><li>Destinos externos</li><li>Modelo de semelhanças</li></ul> |
 | Campaign | <ul><li>Importar públicos-alvo compartilhados de diferentes soluções da Adobe Experience Cloud para o Adobe Campaign.</li><li>Exportar listas de destinatários em formato de públicos-alvo compartilhados. Esses públicos-alvo compartilhados podem ser usados nas diferentes soluções da Adobe Experience Cloud que você usa.</li></ul> |
-| Media Optimizer | Use o público-alvo como destino. |
+| Advertising Cloud | Use o público-alvo como destino. |
 
 >[!IMPORTANT]
 >
@@ -54,7 +54,7 @@ A tabela a seguir descreve como os públicos-alvo são usados nas soluções da 
 | Ajuda com | Recurso |
 |--- |--- |
 | Não consegue encontrar Públicos-alvo? | Verifique se você foi provisionado. Consulte [Introdução - ativar as soluções dos serviços principais](../core-services/core-services.md).<br>Clique [aqui](https://www.adobe.com/go/audiences) para solicitar acesso a Perfis e públicos-alvo (formulário de provisionamento de integrações). |
-| Casos de uso | Para obter mais orientações sobre qual solução usar, acesse [Opções de criação de públicos-alvo](https://helpx.adobe.com/br/marketing-cloud-core/kb/People/Audience-Creation-Options.html) na Base de dados de conhecimento. |
+| Casos de uso | Para obter mais orientações sobre qual solução usar, acesse [Opções de criação de públicos-alvo](https://helpx.adobe.com/marketing-cloud-core/kb/People/Audience-Creation-Options.html) na Base de dados de conhecimento. |
 | Fórum | O [fórum de públicos-alvo](https://forums.adobe.com/community/experience-cloud/platform/core-services/people-service/audiences) é um recurso adicional para obter ajuda com os públicos-alvo. |
 
 ## Elementos de interface da biblioteca de público-alvo {#section_D04ACEF61CEF4B189AE6BA9F40D0DBF4}

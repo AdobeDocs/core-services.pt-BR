@@ -10,7 +10,7 @@ translation-type: tm+mt
 source-git-commit: 6eab2decc39f250d48e3355b8c63c5a0c868944c
 workflow-type: tm+mt
 source-wordcount: '542'
-ht-degree: 96%
+ht-degree: 99%
 
 ---
 
@@ -101,7 +101,7 @@ A Advertising Cloud usa cookies para mapear eventos de envolvimento de anúncios
   </tr> 
   <tr> 
    <td colname="col1"> <p>Expiração </p> </td> 
-   <td colname="col2"> <p>Os cookies definidos em 24 de fevereiro de 2021 ou anterior expiram após 730 dias. Os cookies definidos em 25 de fevereiro de 2021 ou posterior expiram após 364 dias.</p> </td> 
+   <td colname="col2"> <p>Os cookies definidos em 24 de fevereiro de 2021 ou antes expiram após 730 dias. Os cookies definidos em 25 de fevereiro de 2021 ou depois expiram após 364 dias.</p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p>Uso </p> </td> 

@@ -1,18 +1,18 @@
 ---
 description: Saiba como validar o esquema de atributo do cliente na Adobe Experience Cloud.
-keywords: Atributos do cliente, serviços da Experience Cloud
+keywords: Atributos do cliente;serviços da Experience Cloud
 solution: Experience Cloud
 title: 'Como validar o esquema de atributo do cliente '
 uuid: 163a4dbe-d60b-4089-8ff8-65f7461fbdf7
 feature: 'Atributos do cliente '
 topic: Administração
 role: Administrador
-level: Experienciado
-translation-type: tm+mt
+level: Experiente
+translation-type: ht
 source-git-commit: 61d60273e933c637dfe4400da78257e1c80015b3
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '474'
-ht-degree: 98%
+ht-degree: 100%
 
 ---
 

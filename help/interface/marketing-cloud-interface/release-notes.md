@@ -1,5 +1,5 @@
 ---
-description: '"Recursos, notas de versão e problemas conhecidos mais recentes dos serviços da Experience Cloud, como atributos do cliente, públicos-alvo e gerenciamento de usuários."'
+description: '"Recursos, notas de versão e problemas conhecidos mais recentes dos serviços da Experience Cloud, como atributos do cliente, públicos e gerenciamento de usuários."'
 keywords: principais serviços
 solution: Experience Cloud
 title: 'Notas de versão cumulativas '
@@ -7,12 +7,12 @@ uuid: fcff8cc6-e587-4bf2-9a75-261d4eabc7d4
 feature: '"Atributos do cliente, Biblioteca de público-alvo, Admin Console"'
 topic: Administração
 role: Administrador
-level: Experienciado
-translation-type: tm+mt
+level: Experiente
+translation-type: ht
 source-git-commit: 61d60273e933c637dfe4400da78257e1c80015b3
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '3973'
-ht-degree: 99%
+ht-degree: 100%
 
 ---
 

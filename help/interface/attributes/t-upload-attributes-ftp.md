@@ -1,18 +1,18 @@
 ---
 description: Saiba como fazer upload dos dados de atributos do cliente via FTP na Experience Cloud.
-keywords: Atributos do cliente, principais serviços
+keywords: Atributos do cliente;serviços principais
 solution: Experience Cloud
 title: 'Fazer upload do arquivo de dados do atributo do cliente via FTP '
 uuid: 5df565dd-b6f8-420e-981f-4b6fc6f7d0e4
 feature: 'Atributos do cliente '
 topic: Administração
 role: Administrador
-level: Experienciado
-translation-type: tm+mt
+level: Experiente
+translation-type: ht
 source-git-commit: 61d60273e933c637dfe4400da78257e1c80015b3
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '271'
-ht-degree: 93%
+ht-degree: 100%
 
 ---
 

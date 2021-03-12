@@ -1,24 +1,24 @@
 ---
 description: Saiba mais sobre os assets da Experience Cloud que você pode compartilhar nas soluções.
 solution: Experience Cloud
-title: Visão geral dos ativos
+title: Visão geral de assets
 uuid: 97a849ec-1555-4630-9416-2ab484373f5c
 feature: Assets
 topic: Administração
 role: Administrador
-level: Experienciado
-translation-type: tm+mt
+level: Experiente
+translation-type: ht
 source-git-commit: 61d60273e933c637dfe4400da78257e1c80015b3
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '336'
-ht-degree: 82%
+ht-degree: 100%
 
 ---
 
 
 # Visão geral dos assets da Experience Cloud
 
-O Experience Cloud Assets oferece um repositório único e centralizado de ativos prontos para marketing, que podem ser compartilhados entre as soluções. Um ativo é um documento digital, imagem, vídeo ou áudio (ou parte dele) que pode ter várias representações e subativos (por exemplo, camadas em um arquivo [!DNL Photoshop], slides em um arquivo [!DNL PowerPoint], páginas em um PDF, arquivos em um ZIP).
+O Experience Cloud Assets oferece um repositório único e centralizado de ativos prontos para marketing, que podem ser compartilhados entre as soluções. Um ativo é um documento digital, imagem, vídeo ou áudio (ou parte dele) que pode ter várias representações e subativos (por exemplo, camadas em um arquivo do [!DNL Photoshop], slides em um arquivo do [!DNL PowerPoint], páginas em um PDF, arquivos em um ZIP).
 
 Os serviços de ativos incluem:
 

@@ -7,12 +7,12 @@ uuid: 7e622539-296e-4ff3-93b0-ec1c08b35429
 feature: Biblioteca de público-alvo
 topic: Administração
 role: Administrador
-level: Experienciado
-translation-type: tm+mt
+level: Experiente
+translation-type: ht
 source-git-commit: 61d60273e933c637dfe4400da78257e1c80015b3
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '479'
-ht-degree: 97%
+ht-degree: 100%
 
 ---
 
@@ -80,7 +80,7 @@ Os *Visitantes do Chrome e do Safari* são um segmento de público-alvo comparti
 
 ![](assets/chrome_safari.png)
 
-Para comparar, adicione uma regra *OU* para ver todos os visitantes de uma seção do site como Patio &amp; Furniture.
+Para comparar, adicione uma regra *OR* para ver todos os visitantes de uma seção do site como Patio &amp; Furniture.
 
 ![](assets/audiences_rule_patio.png)
 
@@ -93,4 +93,4 @@ A regra resultante é um público-alvo definido pela inclusão dos usuários do 
 
 Depois que a coleta de dados é concluída pelo período especificado, os círculos se combinam para mostrar uma audiência definida.
 
-Quando salvo, o público-alvo fica disponível para outras soluções. Por exemplo, você pode incluir um público-alvo compartilhado em uma atividade do Adobe Target.
+Quando salvo, o público-alvo fica disponível para outras soluções. Por exemplo, você pode incluir uma audiência compartilhada em uma atividade do Adobe Target.

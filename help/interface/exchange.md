@@ -7,12 +7,12 @@ uuid: 73db5cc5-5fb2-43a2-a164-5cbca9e9a206
 feature: '"Atributos do cliente, Biblioteca de público-alvo, Admin Console"'
 topic: Administração
 role: Administrador
-level: Experienciado
-translation-type: tm+mt
+level: Experiente
+translation-type: ht
 source-git-commit: 61d60273e933c637dfe4400da78257e1c80015b3
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '143'
-ht-degree: 95%
+ht-degree: 100%
 
 ---
 

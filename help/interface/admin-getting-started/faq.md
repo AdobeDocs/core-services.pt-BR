@@ -1,18 +1,18 @@
 ---
 description: Saiba mais sobre a compatibilidade com o navegador e consulte perguntas e respostas comuns para administradores na Adobe Experience Cloud.
-keywords: principais serviços, Experience Cloud, Experience Platform, Analytics, Target, gerenciamento de usuários.
+keywords: serviços principais, Experience Cloud, Experience Platform, Analytics, Target, User Management.
 solution: Experience Cloud
 title: 'Perguntas frequentes sobre a Experience Cloud '
 index: true
 feature: Admin Console
 topic: Administração
 role: Administrador
-level: Experienciado
-translation-type: tm+mt
+level: Experiente
+translation-type: ht
 source-git-commit: 61d60273e933c637dfe4400da78257e1c80015b3
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '782'
-ht-degree: 98%
+ht-degree: 100%
 
 ---
 
@@ -54,7 +54,7 @@ A funcionalidade fornecida pela interface da Experience Cloud agrega novo valor 
 
 ## Como resolver problemas sobre como migrar minha empresa?
 
-[Entre em contato com o Suporte da Adobe](https://helpx.adobe.com/marketing-cloud/contact-support.html).
+[Entre em contato com o Suporte da Adobe](https://helpx.adobe.com/br/marketing-cloud/contact-support.html).
 
 ## O que é _provisionamento?_
 
@@ -77,7 +77,7 @@ O provisionamento na Experience Cloud significa que:
 
 Os administradores do Admin Console podem conceder acesso aos usuários. Os usuários recebem emails com instruções de logon.
 
-Talvez seja necessário [Entrar em contato com o suporte da Adobe](https://helpx.adobe.com/marketing-cloud/contact-support.html) para verificar se a empresa foi totalmente provisionada.
+Talvez seja necessário [Entrar em contato com o suporte da Adobe](https://helpx.adobe.com/br/marketing-cloud/contact-support.html) para verificar se a empresa foi totalmente provisionada.
 
 ## Onde um usuário pode gerenciar a vinculação de contas?
 

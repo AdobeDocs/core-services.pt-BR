@@ -1,18 +1,18 @@
 ---
-description: Considerações e práticas recomendadas relacionadas às informações de identificação pessoal (PII) carregadas e usadas na Experience Cloud.
-keywords: Atributos do cliente, principais serviços
+description: Considerações e práticas recomendadas relacionadas às informações de identificação pessoal (PII) carregadas e usadas na Adobe Experience Cloud.
+keywords: Atributos do cliente;serviços principais
 solution: Experience Cloud
 title: 'Considerações de privacidade para atributos do cliente '
 uuid: 5666dc4e-55fa-4196-9985-cf530cfb9247
 feature: 'Atributos do cliente '
 topic: Administração
 role: Administrador
-level: Experienciado
-translation-type: tm+mt
+level: Experiente
+translation-type: ht
 source-git-commit: 61d60273e933c637dfe4400da78257e1c80015b3
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '522'
-ht-degree: 96%
+ht-degree: 100%
 
 ---
 
@@ -36,7 +36,7 @@ A Adobe sabe que esses tipos de decisões de marketing e publicidade podem ter i
 
 ## Práticas recomendadas
 
-Ao fazer upload das PII para o Adobe Analytics ou o Adobe Target, a Adobe recomenda que o cliente coloque as PII com hash antes de fazer upload dessas informações para a Adobe. As informações com hash também podem ser usadas para fins de análise e marketing. Lembrando que a Adobe proíbe que os anunciantes enviem informações pessoais confidenciais para o Adobe Analytics e o Adobe Target, como registros médicos, informações de conta financeira e informações sobre menores..
+Ao fazer upload das PII para o Adobe Analytics ou o Adobe Target, a Adobe recomenda que o cliente coloque as PII com hash antes de fazer upload dessas informações para a Adobe. As informações com hash também podem ser usadas para fins de análise e marketing. Lembrando que a Adobe proíbe que os anunciantes enviem informações pessoais confidenciais para o Adobe Analytics e o Adobe Target, como registros médicos, informações de conta financeira e informações sobre menores.
 
 A Adobe recomenda que seus anunciantes considerem cuidadosamente quais informações são apropriadas para uso para fins de marketing e em quais circunstâncias o anunciante tem permissão para usar essas informações.
 

@@ -7,12 +7,12 @@ uuid: e2d3d61d-2708-48b2-a7e6-2331f2aed8e0
 feature: Cookies
 topic: Administração
 role: Administrador
-level: Experienciado
-translation-type: tm+mt
+level: Experiente
+translation-type: ht
 source-git-commit: 61d60273e933c637dfe4400da78257e1c80015b3
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '759'
-ht-degree: 99%
+ht-degree: 100%
 
 ---
 
@@ -68,7 +68,7 @@ Mais informações disponíveis na ajuda do Analytics sobre [Cookies primários]
 
 | Atributo | Descrição |
 |--- |--- |
-| Informações armazenadas | Carimbo de data/hora do identificador de visitante único |
+| Informações armazenadas | Carimbo de data/hora do identificador de visitante único. |
 | Expiração | 2 anos |
 | Uso | Este cookie é usado para identificar um visitante único. |
 | Localização | Este cookie é armazenado no domínio da solicitação de imagem - normalmente um subdomínio específico do cliente em 2o7.net ou omtrdc.net se você estiver usando cookies de terceiros ou se o domínio estiver usando cookies primários |

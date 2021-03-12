@@ -3,17 +3,17 @@ description: Saiba mais sobre as atualizações mais recentes das marcas de nuve
 seo-description: Saiba mais sobre as atualizações mais recentes das marcas de nuvens, como navegar pela interface e onde encontrar ajuda para soluções e os serviços principais.
 seo-title: Sobre os novos nomes de nuvem na Experience Cloud
 solution: Experience Cloud
-title: 'Sobre os nomes de nuvem na Experience Cloud '
+title: 'Sobre os novos nomes de nuvem na Experience Cloud '
 uuid: 27d022ad-50fa-485e-8f94-0959112cf3d0
 feature: Admin Console
 topic: Administração
 role: Administrador
-level: Experienciado
-translation-type: tm+mt
+level: Experiente
+translation-type: ht
 source-git-commit: 61d60273e933c637dfe4400da78257e1c80015b3
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '671'
-ht-degree: 98%
+ht-degree: 100%
 
 ---
 
@@ -88,7 +88,7 @@ O Adobe Target se integra ao Analytics e a outros serviços principais da Experi
 
 Como solução de gerenciamento de conteúdo, o Adobe Experience Manager facilita o gerenciamento de ativos e conteúdo para seus sites, aplicativos móveis, comunidades e formulários.
 
-Consulte [Adobe Experience Manager 6.5](https://helpx.adobe.com/support/experience-manager/6-5.html) para obter ajuda.
+Consulte [Adobe Experience Manager 6.5](https://helpx.adobe.com/br/support/experience-manager/6-5.html) para obter ajuda.
 
 [Adobe Audience Manager](https://docs.adobe.com/content/help/pt-BR/audience-manager/user-guide/aam-home.html)
 

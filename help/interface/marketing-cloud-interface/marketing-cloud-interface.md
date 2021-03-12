@@ -6,11 +6,11 @@ seo-title: Novidades da Experience Cloud
 solution: Experience Cloud
 title: 'Novidades da Experience Cloud '
 uuid: bc1b1542-1a37-4da1-bcfd-fc86af881642
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: 450a2e5252f7ee14b9af3043b2eaf3c41bf30e7b
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '638'
-ht-degree: 97%
+ht-degree: 100%
 
 ---
 

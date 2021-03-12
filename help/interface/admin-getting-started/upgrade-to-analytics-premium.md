@@ -2,17 +2,17 @@
 description: Saiba mais sobre os requisitos e o que esperar ao atualizar para o Analytics Premium.
 keywords: Atualização do Adobe Analytics Premium
 solution: Experience Cloud
-title: 'Atualizar para o Analytics Premium e a Experience Cloud '
+title: 'Atualização para o Analytics Premium e a Experience Cloud '
 topic: Administração
 uuid: 450a601c-d199-4e90-b525-19bd9f9576d2
 feature: Admin Console
 role: Administrador
-level: Experienciado
-translation-type: tm+mt
+level: Experiente
+translation-type: ht
 source-git-commit: 61d60273e933c637dfe4400da78257e1c80015b3
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '636'
-ht-degree: 95%
+ht-degree: 100%
 
 ---
 
@@ -55,9 +55,9 @@ Atualizar para Inteligência preditiva permite o [Analytics Premium](../admin-ge
 
 | Produto | Atualizações |
 |---|---|
-| Reports &amp; Analytics | [Análise de contribuição](https://docs.adobe.com/content/help/en/analytics/analyze/analysis-workspace/virtual-analyst/contribution-analysis/ca-tokens.html) |
+| Reports &amp; Analytics | [Análise de contribuição](https://docs.adobe.com/content/help/pt-BR/analytics/analyze/analysis-workspace/virtual-analyst/contribution-analysis/ca-tokens.html) |
 | Data Workbench | Espaços de trabalho pré-criados para qualificações de público-alvo e marketing preditivo |
-| Plataforma do Analytics | Live Stream (painéis e acionadores) |
+| Analytics Platform | Live Stream (painéis e acionadores) |
 
 ## Visão completa do cliente {#section_3B2AC245388248688067DC9A48957AFB}
 
@@ -67,7 +67,7 @@ Atualização para ofertas do Customer 360 no [Analytics Premium](../admin-getti
 |--- |--- |
 | [Atributos do cliente](../attributes/attributes.md) | Atributos do cliente (análise e compartilhamento de segmentos) |
 | Data Workbench | <ul><li>Atributos derivados do cliente</li><li>Espaços de trabalho pré-criados para descoberta de públicos-alvo</li></ul> |
-| Plataforma do Analytics | [Atributos do cliente](../attributes/attributes.md) |
+| Analytics Platform | [Atributos do cliente](../attributes/attributes.md) |
 
 ## Atribuição avançada {#section_9E4986A8389946CCAA7D003268343296}
 

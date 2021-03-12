@@ -7,12 +7,12 @@ uuid: f41c4e9f-e784-4706-8c4b-f430c953670d
 feature: '"Atributos do cliente, Biblioteca de público-alvo, Admin Console, Ativos"'
 topic: Administração
 role: Administrador
-level: Experienciado
-translation-type: tm+mt
+level: Experiente
+translation-type: ht
 source-git-commit: 61d60273e933c637dfe4400da78257e1c80015b3
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '262'
-ht-degree: 96%
+ht-degree: 100%
 
 ---
 

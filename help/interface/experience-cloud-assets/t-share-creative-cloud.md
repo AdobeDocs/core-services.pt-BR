@@ -7,12 +7,12 @@ uuid: 105cf627-0148-4bf8-ab6a-7afa612e198c
 feature: Assets
 topic: Administração
 role: Administrador
-level: Experienciado
-translation-type: tm+mt
+level: Experiente
+translation-type: ht
 source-git-commit: 61d60273e933c637dfe4400da78257e1c80015b3
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '317'
-ht-degree: 83%
+ht-degree: 100%
 
 ---
 
@@ -48,13 +48,13 @@ Compartilhe uma pasta de ativos da Experience Cloud com usuários da Creative Cl
 
    ![](assets/asset_comment_mac.png)
 
-1. Para cancelar o compartilhamento de uma pasta, clique em **[!UICONTROL Compartilhar usando a Creative Cloud]** (semelhante a [Etapa 3](../experience-cloud-assets/t-share-creative-cloud.md#step_BA17CFA185284641A9B878BA29551996)), remova os usuários clicando no X e clique em **[!UICONTROL Compartilhar]**.
+1. Para deixar de compartilhar uma pasta, clique em **[!UICONTROL Compatilhar usando a Creative Cloud]** (semelhante à [Etapa 3](../experience-cloud-assets/t-share-creative-cloud.md#step_BA17CFA185284641A9B878BA29551996)), remova os usuários clicando no X e clique em **[!UICONTROL Compartilhar]**.
 
 ![](assets/asset_remove_user.png)
 
-Depois de remover todos os usuários da Creative Cloud, o compartilhamento da pasta não será mais realizado e os usuários da Creative Cloud não terão mais acesso.
+Após a remoção de todos os usuários da Creative Cloud, o compartilhamento da pasta será cancelado e os usuários da Creative Cloud não terão mais acesso.
 
-Mais maneiras de usar um ativo compartilhado incluem:
+Outras maneiras de usar um ativo compartilhado:
 
 * Usar ativos no [!UICONTROL Seletor de ativo] no [!DNL Adobe Social] para postagens sociais.
 * Carregue ou troque ativos na [Biblioteca de ofertas](https://docs.adobe.com/help/pt-BR/target/using/experiences/offers/manage-content.html) no [!DNL Adobe Target] por imagens nas atividades.

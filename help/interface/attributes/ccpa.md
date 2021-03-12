@@ -1,15 +1,15 @@
 ---
 title: 'Suporte a atributos do cliente para a California Consumer Privacy Act '
-description: Saiba mais sobre o suporte a Atributos do cliente para a California Consumer Privacy Act
+description: Saiba mais sobre o suporte de Atributos do cliente para o California Consumer Privacy Act.
 feature: 'Atributos do cliente '
 topic: Administração
 role: Administrador
-level: Experienciado
-translation-type: tm+mt
+level: Experiente
+translation-type: ht
 source-git-commit: 61d60273e933c637dfe4400da78257e1c80015b3
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '440'
-ht-degree: 97%
+ht-degree: 100%
 
 ---
 

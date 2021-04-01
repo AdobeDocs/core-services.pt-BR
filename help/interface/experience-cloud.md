@@ -8,16 +8,16 @@ feature: '"Atributos do cliente, Biblioteca de público-alvo, Admin Console"'
 topic: Administração
 role: Administrador
 level: Experiente
-translation-type: ht
-source-git-commit: 61d60273e933c637dfe4400da78257e1c80015b3
-workflow-type: ht
-source-wordcount: '446'
-ht-degree: 100%
+translation-type: tm+mt
+source-git-commit: b466cffbbb37eec39266d90cb6a849562d608cd9
+workflow-type: tm+mt
+source-wordcount: '447'
+ht-degree: 98%
 
 ---
 
 
-# Serviços e administração da Experience Cloud
+# Guia de administração e serviços do Experience Cloud
 
 A Experience Cloud é a família integrada de soluções e serviços de marketing digital da Adobe. Também é uma interface intuitiva que permite acessar rapidamente as soluções em nuvem e os serviços principais.
 

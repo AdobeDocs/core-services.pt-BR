@@ -6,16 +6,16 @@ feature: 'Atributos do cliente '
 role: Administrador
 topic: Administração
 level: Experiente
-translation-type: ht
-source-git-commit: 61d60273e933c637dfe4400da78257e1c80015b3
-workflow-type: ht
-source-wordcount: '488'
+translation-type: tm+mt
+source-git-commit: b466cffbbb37eec39266d90cb6a849562d608cd9
+workflow-type: tm+mt
+source-wordcount: '486'
 ht-degree: 100%
 
 ---
 
 
-# Atributos do cliente na Experience Cloud
+# Atributos do cliente  visão geral
 
 Atributos do cliente na Adobe Experience Cloud permitem que você faça o upload dos dados corporativos capturados de um banco de dados do gerenciamento de relacionamento com o cliente (CRM). Você pode fazer upload dos dados em uma fonte de dados de atributo do cliente na Experience Cloud e, em seguida, usar os dados no Adobe Analytics e no Adobe Target.
 

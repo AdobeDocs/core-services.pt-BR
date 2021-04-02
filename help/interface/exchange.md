@@ -4,14 +4,14 @@ keywords: principais serviços
 solution: Experience Cloud
 title: 'Exchange Marketplace '
 uuid: 73db5cc5-5fb2-43a2-a164-5cbca9e9a206
-feature: '"Atributos do cliente, Biblioteca de público-alvo, Admin Console"'
+feature: '"Atributos do cliente"'
 topic: Administração
 role: Administrador
 level: Experiente
-translation-type: ht
-source-git-commit: 61d60273e933c637dfe4400da78257e1c80015b3
-workflow-type: ht
-source-wordcount: '143'
+translation-type: tm+mt
+source-git-commit: ea8f36313940d7c5c12d753084a4fb8d0a4379bc
+workflow-type: tm+mt
+source-wordcount: '139'
 ht-degree: 100%
 
 ---

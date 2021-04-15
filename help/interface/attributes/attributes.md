@@ -3,19 +3,23 @@ title: Como usar atributos do cliente
 description: Saiba mais sobre o serviço Atributos do cliente na Adobe Experience Cloud. Descubra como fazer upload dos dados do atributo do cliente para uso no Adobe Analytics e Adobe Target.
 solution: Experience Cloud
 feature: 'Atributos do cliente '
-role: Administrador
+role: Administrator
 topic: Administração
-level: Experiente
+level: Experienced
+exl-id: fe8ad013-76da-49f8-aa51-dc5f6c1b1d79
 translation-type: tm+mt
-source-git-commit: b466cffbbb37eec39266d90cb6a849562d608cd9
+source-git-commit: 67203aa4f9442ec9c6ada1f1b031677802c416fe
 workflow-type: tm+mt
-source-wordcount: '486'
-ht-degree: 100%
+source-wordcount: '494'
+ht-degree: 97%
 
 ---
 
-
 # Atributos do cliente  visão geral
+
+>[!NOTE]
+>
+>Atributos do cliente é um serviço principal herdado, agora em manutenção.
 
 Atributos do cliente na Adobe Experience Cloud permitem que você faça o upload dos dados corporativos capturados de um banco de dados do gerenciamento de relacionamento com o cliente (CRM). Você pode fazer upload dos dados em uma fonte de dados de atributo do cliente na Experience Cloud e, em seguida, usar os dados no Adobe Analytics e no Adobe Target.
 

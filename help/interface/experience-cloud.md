@@ -4,10 +4,10 @@ keywords: Serviços, atributos do cliente, públicos, administração de usuári
 solution: Experience Cloud
 title: 'Serviços e administração da Experience Cloud '
 uuid: aec6f689-e617-4876-ae6c-e961cfcb991a
-feature: '"Atributos do cliente"'
-topic: Administração
-role: Administrador
-level: Experiente
+feature: "Customer Attributes"
+topic: Administration
+role: Administrator
+level: Experienced
 translation-type: tm+mt
 source-git-commit: ea8f36313940d7c5c12d753084a4fb8d0a4379bc
 workflow-type: tm+mt

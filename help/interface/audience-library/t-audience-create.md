@@ -4,10 +4,10 @@ keywords: principais serviços
 solution: Experience Cloud
 title: 'Criar um público-alvo '
 uuid: 7e622539-296e-4ff3-93b0-ec1c08b35429
-feature: Biblioteca de público-alvo
-topic: Administração
-role: Administrador
-level: Experiente
+feature: Audience Library
+topic: Administration
+role: Administrator
+level: Experienced
 translation-type: ht
 source-git-commit: 61d60273e933c637dfe4400da78257e1c80015b3
 workflow-type: ht

@@ -5,9 +5,9 @@ solution: Experience Cloud,Analytics,Target
 title: 'Cookies da Experience Cloud '
 uuid: a4788c1c-0402-4fc8-b894-cd24fa794f4f
 feature: Cookies
-topic: Administração
-role: Administrador
-level: Experiente
+topic: Administration
+role: Administrator
+level: Experienced
 translation-type: ht
 source-git-commit: 61d60273e933c637dfe4400da78257e1c80015b3
 workflow-type: ht

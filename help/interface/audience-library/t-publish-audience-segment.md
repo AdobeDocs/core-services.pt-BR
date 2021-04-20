@@ -1,10 +1,10 @@
 ---
 title: 'Publicar um segmento de público-alvo do Analytics '
 description: Como publicar um segmento de público do Adobe Analytics na Experience Cloud e no Adobe Target para as atividades de marketing do público-alvo.
-feature: Biblioteca de público-alvo
-topic: Administração
-role: Administrador
-level: Experiente
+feature: Audience Library
+topic: Administration
+role: Administrator
+level: Experienced
 translation-type: ht
 source-git-commit: 61d60273e933c637dfe4400da78257e1c80015b3
 workflow-type: ht

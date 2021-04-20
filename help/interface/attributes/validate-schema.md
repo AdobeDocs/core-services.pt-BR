@@ -4,10 +4,10 @@ keywords: Atributos do cliente;serviços da Experience Cloud
 solution: Experience Cloud
 title: 'Como validar o esquema de atributo do cliente '
 uuid: 163a4dbe-d60b-4089-8ff8-65f7461fbdf7
-feature: 'Atributos do cliente '
-topic: Administração
-role: Administrador
-level: Experiente
+feature: Customer Attributes
+topic: Administration
+role: Administrator
+level: Experienced
 translation-type: ht
 source-git-commit: 61d60273e933c637dfe4400da78257e1c80015b3
 workflow-type: ht

@@ -1,13 +1,13 @@
 ---
 solution: Experience Cloud
-type: Documentação
+type: Documentation
 title: 'Públicos da Adobe Experience Cloud '
 uuid: 92faf3a8-1375-4e32-905b-74cad48144d3
 description: Saiba como gerenciar a conversão dos dados do visitante em segmentação de público-alvo no serviço de público da Experience Cloud.
-feature: Biblioteca de público-alvo
-topic: Administração
-role: Administrador
-level: Experiente
+feature: Audience Library
+topic: Administration
+role: Administrator
+level: Experienced
 translation-type: ht
 source-git-commit: 61d60273e933c637dfe4400da78257e1c80015b3
 workflow-type: ht

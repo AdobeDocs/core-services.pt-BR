@@ -4,10 +4,10 @@ keywords: Atributos do cliente;serviços principais
 solution: Experience Cloud
 title: 'Crie uma fonte de atributo do cliente e faça upload do arquivo de dados '
 uuid: 53dca789-9a91-4385-839d-c9d1aa36b9be
-feature: 'Atributos do cliente '
-topic: Administração
-role: Administrador
-level: Experiente
+feature: Customer Attributes
+topic: Administration
+role: Administrator
+level: Experienced
 translation-type: ht
 source-git-commit: 61d60273e933c637dfe4400da78257e1c80015b3
 workflow-type: ht

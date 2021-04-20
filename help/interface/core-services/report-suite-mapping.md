@@ -3,9 +3,9 @@ description: Saiba mais sobre como mapear um ou vários conjuntos de relatórios
 title: 'Mapear conjuntos de relatórios para uma organização '
 uuid: b983d5a6-b3d0-4137-ac53-bc5681d3e58b
 feature: Admin Console
-topic: Administração
-role: Administrador
-level: Experiente
+topic: Administration
+role: Administrator
+level: Experienced
 translation-type: ht
 source-git-commit: 61d60273e933c637dfe4400da78257e1c80015b3
 workflow-type: ht

@@ -4,10 +4,10 @@ keywords: Atributos do cliente;serviços principais
 solution: Experience Cloud
 title: 'Saiba mais sobre arquivos de dados e fontes de dados para Atributos do cliente '
 uuid: 9dd0e364-889b-45db-b190-85c0930a101e
-feature: 'Atributos do cliente '
-topic: Administração
-role: Administrador
-level: Experiente
+feature: Customer Attributes
+topic: Administration
+role: Administrator
+level: Experienced
 translation-type: ht
 source-git-commit: 61d60273e933c637dfe4400da78257e1c80015b3
 workflow-type: ht

@@ -5,9 +5,9 @@ solution: Experience Cloud,Analytics,Target
 title: 'Como as alterações no suporte a cookies de terceiros afetam os clientes '
 uuid: 27332e0d-6932-4a6e-b97b-0adeced0b050
 feature: Cookies
-topic: Administração
-role: Administrador
-level: Experiente
+topic: Administration
+role: Administrator
+level: Experienced
 translation-type: ht
 source-git-commit: 61d60273e933c637dfe4400da78257e1c80015b3
 workflow-type: ht

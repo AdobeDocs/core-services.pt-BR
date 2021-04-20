@@ -4,10 +4,10 @@ keywords: Atributos do cliente;serviços principais
 solution: Experience Cloud
 title: 'Como configurar assinaturas '
 uuid: f74a8155-0a21-46b3-9b1e-4c838f72f24f
-feature: 'Atributos do cliente '
-topic: Administração
-role: Administrador
-level: Experiente
+feature: Customer Attributes
+topic: Administration
+role: Administrator
+level: Experienced
 translation-type: ht
 source-git-commit: 61d60273e933c637dfe4400da78257e1c80015b3
 workflow-type: ht

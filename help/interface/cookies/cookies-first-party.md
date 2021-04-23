@@ -6,7 +6,7 @@ title: '"Cookies próprios "'
 index: y
 snippet: y
 feature: Cookies
-topic: Administration
+topic: Administração
 role: Administrator
 level: Experienced
 exl-id: e15abde5-8027-4aed-a0c1-8a6fc248db5e
@@ -14,7 +14,7 @@ translation-type: tm+mt
 source-git-commit: 4e3d6e605df4d1861f1dffb4cde5311eea283ee3
 workflow-type: tm+mt
 source-wordcount: '1499'
-ht-degree: 86%
+ht-degree: 91%
 
 ---
 
@@ -31,7 +31,7 @@ Há duas opções disponíveis para implementar cookies próprios:
 
 >[!NOTE]
 >
->Para ambas as opções, o programa Intelligent Tracking Prevention (ITP) da Apple tornará os cookies primários com vida curta em navegadores regidos pela ITP, que incluem o Safari no MacOS e todos os navegadores no iOS e iPadOS. A partir de novembro de 2020, ambos os tipos de cookies têm um prazo de sete dias. Esta expiração está sujeita a alterações.
+>Para ambas as opções, o programa Intelligent Tracking Prevention (ITP) da Apple tornará os cookies primários com vida curta em navegadores regidos pela ITP, que incluem o Safari no macOS e todos os navegadores no iOS e iPadOS. A partir de novembro de 2020, ambos os tipos de cookies têm um prazo de sete dias. Essa expiração está sujeita a alterações.
 
 Na segunda opção usando um CNAME, se o site tiver páginas seguras usando o protocolo HTTPS, você poderá trabalhar com a Adobe para obter um certificado SSL para implementar cookies primários. A Adobe recomenda que use exclusivamente HTTPS para a coleta de dados, pois desativaremos o suporte para a coleta HTTP na segunda metade de 2020.
 
@@ -102,7 +102,7 @@ Contanto que o código de implementação não seja alterado, esta etapa não af
 
 >[!NOTE]
 >
->O serviço de ID de visitante do Experience Cloud fornece uma alternativa para configurar um CNAME para ativar cookies próprios.
+>O serviço de ID de visitante da Experience Cloud oferece uma alternativa para configurar um CNAME para ativar cookies primários.
 
 ## Validar o encaminhamento do nome do host {#validate}
 

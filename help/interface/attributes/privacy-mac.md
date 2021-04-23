@@ -4,18 +4,18 @@ keywords: Atributos do cliente;serviços principais
 solution: Experience Cloud
 title: 'Considerações de privacidade para atributos do cliente '
 uuid: 5666dc4e-55fa-4196-9985-cf530cfb9247
-feature: Customer Attributes
-topic: Administration
+feature: 'Atributos do cliente '
+topic: Administração
 role: Administrator
 level: Experienced
-translation-type: tm+mt
-source-git-commit: b466cffbbb37eec39266d90cb6a849562d608cd9
-workflow-type: tm+mt
-source-wordcount: '519'
+exl-id: 27c026ff-198b-4f49-9718-f25f77a9e716
+translation-type: ht
+source-git-commit: f4add6d5e64678c6b578237c18ceda9ee2245033
+workflow-type: ht
+source-wordcount: '517'
 ht-degree: 100%
 
 ---
-
 
 # Considerações de privacidade para atributos do cliente
 

@@ -5,17 +5,17 @@ solution: Experience Cloud,Analytics,Target
 title: 'Cookies de Data Workbench '
 uuid: c15013f4-c47d-4950-aa19-be9afd25cd5f
 feature: Cookies
-topic: Administration
+topic: Administração
 role: Administrator
 level: Experienced
+exl-id: f00cbf4d-ece0-4827-a65f-e3b7068d680c
 translation-type: ht
-source-git-commit: 61d60273e933c637dfe4400da78257e1c80015b3
+source-git-commit: f4add6d5e64678c6b578237c18ceda9ee2245033
 workflow-type: ht
-source-wordcount: '93'
+source-wordcount: '91'
 ht-degree: 100%
 
 ---
-
 
 # Cookies de Data Workbench {#data-workbench-cookies}
 
@@ -30,4 +30,3 @@ Data Workbench usa cookies para analisar em tempo real grandes volumes de dados 
 | Uso | Este cookie é usado para identificar um visitante único. |
 | Localização | Este cookie é armazenado no domínio da página. |
 | Tamanho | 8 bytes ou 13 bytes, se incluindo a parte &quot;name =&quot; (v1st=). |
-

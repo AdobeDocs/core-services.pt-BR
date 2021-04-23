@@ -5,17 +5,17 @@ solution: Experience Cloud,Analytics,Target
 title: 'Como as alterações no suporte a cookies de terceiros afetam os clientes '
 uuid: 27332e0d-6932-4a6e-b97b-0adeced0b050
 feature: Cookies
-topic: Administration
+topic: Administração
 role: Administrator
 level: Experienced
+exl-id: 3d12a1b1-c952-4b42-815d-f64b31429cec
 translation-type: ht
-source-git-commit: 61d60273e933c637dfe4400da78257e1c80015b3
+source-git-commit: f4add6d5e64678c6b578237c18ceda9ee2245033
 workflow-type: ht
-source-wordcount: '301'
+source-wordcount: '299'
 ht-degree: 100%
 
 ---
-
 
 # Como as alterações no suporte a cookies de terceiros afetam os clientes {#how-changes-to-third-party-cookie-support-impacts-customers}
 

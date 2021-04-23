@@ -5,17 +5,17 @@ solution: Experience Cloud
 title: 'Faça upload de um ativo para uma pasta compartilhada no desktop da Creative Cloud '
 uuid: 88e97e4d-cf9e-4b26-923b-ee60583cae1a
 feature: Assets
-topic: Administration
+topic: Administração
 role: Administrator
 level: Experienced
+exl-id: 3fd747e5-38f8-40cc-a255-7a0130b1e32f
 translation-type: ht
-source-git-commit: 61d60273e933c637dfe4400da78257e1c80015b3
+source-git-commit: f4add6d5e64678c6b578237c18ceda9ee2245033
 workflow-type: ht
-source-wordcount: '75'
+source-wordcount: '73'
 ht-degree: 100%
 
 ---
-
 
 # Faça upload de um ativo para uma pasta compartilhada no desktop da Creative Cloud
 

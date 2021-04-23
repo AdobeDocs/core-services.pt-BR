@@ -4,18 +4,18 @@ keywords: serviços principais;Atributos do cliente
 solution: Experience Cloud
 title: Ativar as soluções para serviços entre soluções
 index: true
-feature: Customer Attributes
-topic: Administration
+feature: 'Atributos do cliente '
+topic: Administração
 role: Administrator
 level: Experienced
+exl-id: 48e79e23-b339-4143-b3b1-969c370efeff
 translation-type: ht
-source-git-commit: 042f7caed2f1bace05f59c6c2824c286a13934fe
+source-git-commit: f4add6d5e64678c6b578237c18ceda9ee2245033
 workflow-type: ht
-source-wordcount: '2369'
+source-wordcount: '2367'
 ht-degree: 100%
 
 ---
-
 
 # Habilitar sua implementação para serviços da Experience Cloud
 

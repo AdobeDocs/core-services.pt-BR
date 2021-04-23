@@ -3,17 +3,17 @@ description: Saiba mais sobre os cookies da Adobe Ad Cloud para mapear eventos d
 title: 'Cookies da Advertising Cloud '
 uuid: 2eec48a3-3e81-488e-8e30-5fd62885de0b
 feature: Cookies
-topic: Administration
+topic: Administração
 role: Administrator
 level: Experienced
+exl-id: 6818edea-31b1-49fc-bca2-32828c7ca78d
 translation-type: ht
-source-git-commit: 6eab2decc39f250d48e3355b8c63c5a0c868944c
+source-git-commit: f4add6d5e64678c6b578237c18ceda9ee2245033
 workflow-type: ht
-source-wordcount: '542'
+source-wordcount: '540'
 ht-degree: 100%
 
 ---
-
 
 # Cookies da Advertising Cloud {#advertising-cloud-cookies}
 

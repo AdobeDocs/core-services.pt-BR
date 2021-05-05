@@ -8,11 +8,11 @@ topic: Administração
 role: Administrator
 level: Experienced
 exl-id: 643c878f-c2f3-4c1d-ae3e-6a75c95520b4
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: e8fa9e9dc4de694d37012f6fb45eb8d3527d49f5
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '343'
-ht-degree: 97%
+ht-degree: 100%
 
 ---
 
@@ -20,7 +20,7 @@ ht-degree: 97%
 
 >[!NOTE]
 >
->Os ativos são um serviço principal herdado, agora em sustentabilidade.
+>Os ativos são um serviço principal herdado, agora em manutenção.
 
 O Experience Cloud Assets oferece um repositório único e centralizado de ativos prontos para marketing, que podem ser compartilhados entre as soluções. Um ativo é um documento digital, imagem, vídeo ou áudio (ou parte dele) que pode ter várias representações e subativos (por exemplo, camadas em um arquivo do [!DNL Photoshop], slides em um arquivo do [!DNL PowerPoint], páginas em um PDF, arquivos em um ZIP).
 

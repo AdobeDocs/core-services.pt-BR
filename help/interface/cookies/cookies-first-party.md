@@ -14,7 +14,7 @@ translation-type: tm+mt
 source-git-commit: 4e3d6e605df4d1861f1dffb4cde5311eea283ee3
 workflow-type: tm+mt
 source-wordcount: '1499'
-ht-degree: 91%
+ht-degree: 100%
 
 ---
 
@@ -53,15 +53,15 @@ A seguir, veja como implementar um novo certificado SSL próprio para cookies pr
 
 2. Crie registros CNAME (consulte as instruções abaixo).
 
-   Ao receber o bilhete, um representante do Atendimento ao cliente deve fornecer um registro CNAME. Esses registros devem ser configurados no servidor DNS da empresa antes que a Adobe possa comprar o certificado em seu nome. O CNAME será semelhante ao seguinte:
+   Ao receber a solicitação, um representante do Atendimento ao cliente deve fornecer a você um registro CNAME. Esses registros devem ser configurados no servidor DNS da empresa antes que a Adobe possa comprar o certificado em seu nome. O CNAME será semelhante ao seguinte:
 
    **Seguro** - por exemplo, o nome de host `smetrics.example.com` aponta para: `example.com.adobedc.net`.
 
 >[!NOTE]
-> Anteriormente, recomendamos que os clientes configurem dois CNAME um para HTTPS e um para HTTP. Como é uma prática recomendada criptografar o tráfego e a maioria dos navegadores está desencorajando o HTTP, não recomendamos mais configurar um CNAME para HTTP. Se precisar, seria assim:
->    **Não seguro** — o nome de host `metrics.example.com` aponta para: `example.com.adobedc.net`.
+> Anteriormente, recomendávamos que os clientes configurassem dois CNAMEs, um para HTTPS e outro para HTTP. Como é uma prática recomendada criptografar o tráfego e a maioria dos navegadores desencoraja expressamente o uso de HTTP, deixamos de recomendar a configuração de um CNAME para HTTP. Se necessário, seria assim:
+>    **Não seguro** — o nome do host `metrics.example.com` aponta para: `example.com.adobedc.net`.
 
-1. Quando o CNAME estiver em vigor, o Adobe trabalhará com a DigiCert para comprar e instalar um certificado nos servidores Adobe Production.
+1. Quando o CNAME estiver em vigor, a Adobe trabalhará com a DigiCert para comprar e instalar um certificado nos servidores de produção da Adobe.
 
    Se tiver uma implementação existente, considere a Migração do visitante para manter os visitantes existentes. Depois que o certificado for enviado ao ambiente de produção da Adobe, você poderá atualizar as variáveis do servidor de rastreamento para os novos nomes de host. Ou seja, se o site não for seguro (HTTP), atualize o `s.trackingServer`. Se o site for seguro (HTTPS), atualize as variáveis `s.trackingServer` e `s.trackingServerSecure`.
 
@@ -87,13 +87,13 @@ Os certificados SSL expiram todo ano, o que significa que a Adobe deve comprar u
 
 A equipe de operações de rede da organização deve configurar os servidores DNS criando novos registros CNAME. Cada nome de host encaminha os dados para os servidores de coleta de dados da Adobe.
 
-O especialista FPC fornece o nome de host configurado e para qual CNAME ele deve ser apontado. Por exemplo:
+O especialista em FPC fornece o nome de host configurado e o CNAME para o qual ele deve ser apontado. Por exemplo:
 
 * **Nome de host SSL**: `smetrics.mysite.com`
 * **CNAME SSL**: `mysite.com.adobedc.net`
 
 >[!NOTE]
-> Se você ainda usar não seguro, o terá esta aparência.
+> Se você ainda usar um não seguro, ele terá esta aparência.
 > * **Nome de host não SSL**: `metrics.mysite.com`
 > * **CNAME não SSL**: `mysite.com.adobedc.net`
 

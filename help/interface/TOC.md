@@ -5,9 +5,8 @@ breadcrumb-title: Serviços e administração da Experience Cloud
 user-guide-description: Saiba como gerenciar usuários e produtos no Adobe Experience Cloud e como usar os Atributos do cliente e os serviços da Biblioteca de público-alvo. Saiba mais sobre cookies e Experience Cloud Assets.
 user-guide-url: https://www.adobe.com
 index: true
-translation-type: ht
-source-git-commit: b466cffbbb37eec39266d90cb6a849562d608cd9
-workflow-type: ht
+source-git-commit: 6b6dd0fd0ac51d485877e20bd94322415e80e65e
+workflow-type: tm+mt
 source-wordcount: '381'
 ht-degree: 100%
 
@@ -32,9 +31,9 @@ ht-degree: 100%
    + [Cookies do [!UICONTROL Data Workbench]](cookies/cookies-insight.md)
    + [Cookies da Experience Cloud](cookies/cookies-mc.md)
    + [Cookies da Advertising Cloud](cookies/cookies-advertising-cloud.md)
-   + [Cookies do [!DNL Scene7] ](cookies/cookies-s7.md)
-   + [Cookies do [!DNL Search and Promote] ](cookies/cookies-snp.md)
-   + [Cookies do [!DNL Target] ](cookies/cookies-target.md)
+   + [[!DNL Scene7] cookies](cookies/cookies-s7.md)
+   + [[!DNL Search and Promote] cookies](cookies/cookies-snp.md)
+   + [[!DNL Target] cookies](cookies/cookies-target.md)
    + [Ativar as configurações de privacidade de cookies do navegador](cookies/browser-cookie-settings.md)
    + [Como as alterações no suporte a cookies de terceiros afetam os clientes](cookies/cookies-thirdparty.md)
 + Gerenciamento de usuários e de produtos {#manage-users-and-products}
@@ -54,7 +53,7 @@ ht-degree: 100%
    + [Compartilhar as pastas e os ativos da Experience Cloud com a Creative Cloud](experience-cloud-assets/creative-cloud.md)
    + [Gerenciar usuários da Creative Cloud](experience-cloud-assets/t-admin-add-cc-user.md)
    + [Compartilhar uma pasta de ativos da Experience Cloud](experience-cloud-assets/t-share-creative-cloud.md)
-   + [Faça upload de um ativo para uma pasta compartilhada no navegador da Creative Cloud](experience-cloud-assets/t-upload-asset-cc.md)
+   + [Fazer upload de um ativo para uma pasta compartilhada no navegador da Creative Cloud](experience-cloud-assets/t-upload-asset-cc.md)
    + [Faça upload de um ativo para uma pasta compartilhada no desktop da Creative Cloud](experience-cloud-assets/t-cc-asset-upload-thor.md)
    + [Requisitos para compartilhamento do arquivo do ativo](experience-cloud-assets/assets-file-reqs.md)
    + [Comportamento das pastas compartilhadas](experience-cloud-assets/asset-behavior.md)
@@ -63,7 +62,7 @@ ht-degree: 100%
    + [Criar um público-alvo](audience-library/t-audience-create.md)
    + [Publicar um segmento de público-alvo do Analytics](audience-library/t-publish-audience-segment.md)
 + Atributos do cliente da Experience Cloud {#customer-attributes}
-   + [Visão geral dos atributos do cliente](attributes/attributes.md)
+   + [Atributos do cliente  visão geral](attributes/attributes.md)
    + [Perguntas frequentes sobre atributos do cliente](attributes/faq-crs.md)
    + [Sobre arquivo de dados e fonte de dados para atributos do cliente](attributes/crs-data-file.md)
    + [Crie uma fonte de atributo do cliente e faça upload do arquivo de dados](attributes/t-crs-usecase.md)
@@ -80,5 +79,6 @@ ht-degree: 100%
 + Mais recursos {#more-resources}
    + [Fórum](https://forums.adobe.com/community/experience-cloud)
    + [Terminologia](terms.md)
-   + [Uso da pré-busca DNS com diferentes soluções e Serviços](dns-prefetch.md)
+   + [Uso da pré-busca DNS com diferentes soluções e serviços](dns-prefetch.md)
    + [Atualizações de documentação](doc-updates.md)
+

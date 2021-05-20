@@ -9,11 +9,10 @@ topic: Administração
 role: Administrator
 level: Experienced
 exl-id: b71d144c-a097-4cdb-9721-671519d38aff
-translation-type: ht
-source-git-commit: f4add6d5e64678c6b578237c18ceda9ee2245033
-workflow-type: ht
-source-wordcount: '3964'
-ht-degree: 100%
+source-git-commit: 6b6dd0fd0ac51d485877e20bd94322415e80e65e
+workflow-type: tm+mt
+source-wordcount: '4111'
+ht-degree: 96%
 
 ---
 
@@ -24,6 +23,16 @@ Recursos, notas de versão e problemas conhecidos da interface da Experience Clo
 Para obter uma lista de atualizações de documentação, consulte [Experience Cloud](../doc-updates.md#concept_4C8983FCD23848A4B1E4C2D99ED82784).
 
 Para obter as notas de versão que abrangem todas as soluções, consulte [Notas de versão da Experience Cloud](https://docs.adobe.com/content/help/pt-BR/release-notes/experience-cloud/current.html).
+
+## Maio - 2021
+
+| Recurso | Data | Descrição |
+| ------- | ------- | ------- |
+| Cabeçalho e navegação do Experience Cloud | 20 de maio de 2021 | As atualizações do Adobe Experience Cloud incluem uma alteração no tema claro do cabeçalho, com a capacidade de alternar facilmente para o tema escuro e um link para controlar preferências adicionais do avatar do usuário no cabeçalho do Experience Cloud. Embora nem todos os aplicativos no Experience Cloud sejam compatíveis com temas, esse recurso desbloqueia o suporte a temas futuros. |
+| Pesquisa global Experience Cloud | 20 de maio de 2021 | Com esta versão, a pesquisa global do Experience Cloud permite pesquisar qualquer documentação, cursos e tutoriais do [Experience League](https://experienceleague.adobe.com/?lang=pt-BR#home). (Atualmente, a pesquisa global está disponível somente para usuários do Experience Platform. A pesquisa global por [!UICONTROL Platform] permite procurar qualquer objeto comercial no Experience Cloud, como segmentos, conjuntos de dados, esquemas e muito mais.) |
+| Preferências de idioma Experience Cloud | 20 de maio de 2021 | Esta atualização inclui a capacidade de definir seus idiomas preferidos no Experience Cloud [Preferências](https://experience.adobe.com/preferences). |
+
+{style=&quot;table-layout:auto&quot;}
 
 ## Agosto - 2020
 

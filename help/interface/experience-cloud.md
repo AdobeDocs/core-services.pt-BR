@@ -9,11 +9,11 @@ topic: Administração
 role: Administrator
 level: Experienced
 exl-id: aedad5cb-3282-4a97-8e7e-6d65f7b75ba9
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: 30989be46132eef4d8bcf5ccaf3032f0606c7de4
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '441'
-ht-degree: 95%
+ht-degree: 100%
 
 ---
 
@@ -56,9 +56,9 @@ Os guias relacionados da Experience Cloud incluem:
 
 Aproveite os tutoriais de autoajuda e instruções rápidas na Experience League:
 
-* [Todos os tutoriais na Experience League](https://experienceleague.adobe.com/?lang=en#quick-how-tos)
+* [Todos os tutoriais na Experience League](https://experienceleague.adobe.com/?lang=pt-BR#quick-how-tos)
 * [Tutoriais da Experience Platform](https://experienceleague.adobe.com/docs/core-services-learn/tutorials/overview.html?lang=en)
-* [Plataforma de dados do cliente em tempo real](https://experienceleague.adobe.com/docs/platform-learn/tutorials/rtcdp/understanding-the-real-time-customer-data-platform.html?lang=en)
+* [Plataforma de dados do cliente em tempo real](https://experienceleague.adobe.com/docs/platform-learn/tutorials/rtcdp/understanding-the-real-time-customer-data-platform.html?lang=pt-BR)
 
 ## Notas de versão e ajuda relacionada à Experience Cloud
 

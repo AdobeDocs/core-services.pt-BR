@@ -10,24 +10,25 @@ topic: Administração
 role: Administrator
 level: Experienced
 exl-id: e15abde5-8027-4aed-a0c1-8a6fc248db5e
-translation-type: tm+mt
-source-git-commit: 4e3d6e605df4d1861f1dffb4cde5311eea283ee3
+source-git-commit: 05548387f82e58a87d5133254da30215fbd6c827
 workflow-type: tm+mt
-source-wordcount: '1499'
-ht-degree: 100%
+source-wordcount: '1629'
+ht-degree: 83%
 
 ---
 
 # Sobre cookies próprios
 
-O Analytics usa cookies para fornecer informações sobre variáveis e componentes que não persistem entre as solicitações de imagem e as sessões do navegador. Esses cookies inofensivos, que se originam de um domínio hospedado pela Adobe, são conhecidos como cookies de terceiros.
+O Analytics usa cookies para fornecer informações sobre variáveis e componentes que não persistem entre as solicitações de imagem e as sessões do navegador. Sempre que possível, o Adobe usa cookies primários para registrar atividades no site. Para registrar a atividade em sites diferentes, como em outros domínios pertencentes a você, são necessários cookies de terceiros.
 
-Muitos navegadores e aplicativos antispyware foram projetados para rejeitar e excluir cookies de terceiros, inclusive aqueles usados na coleta de dados do Analytics. Para oferecer suporte ao rastreamento de como os visitantes interagem com o site, você pode implementar cookies primários.
+Muitos navegadores e aplicativos antispyware foram projetados para rejeitar e excluir cookies de terceiros, inclusive aqueles usados na coleta de dados do Analytics. Para ser compatível com o rastreamento de como seus visitantes interagem com o site, verifique se você configurou a coleta de dados para usar cookies primários:
 
 Há duas opções disponíveis para implementar cookies próprios:
 
-* O Serviço de ID da Experience Platform. O serviço de ID pode definir o cookie no contexto próprio usando JavaScript.
-* As entradas DNS no servidor DNS da empresa para configurar um alias CNAME para um domínio hospedado pela Adobe. Observe que, embora vários produtos da Adobe sejam compartíveis com o uso de um CNAME, em todos os casos o CNAME é usado para criar um endpoint de terceiros confiável para um cliente específico, e é de sua propriedade. Se o cliente controlar vários domínios, ele poderá usar um único endpoint CNAME para rastrear usuários em seus domínios, mas como isso requer cookies de terceiros para todos os domínios fora do domínio do CNAME, ele não funcionará quando cookies de terceiros estiverem bloqueados e, portanto, não é recomendado. Os CNAMEs da Adobe nunca são usados para rastrear um indivíduo ou dispositivo nos domínios de propriedade de clientes diferentes.
+* Se você estiver usando o Experience Platform Identity Service (também conhecido como ECID Service), ele definirá automaticamente os cookies no contexto primário usando JavaScript.
+* Se estiver usando identificadores herdados do Analytics (também conhecido como cookie &quot;s_vi&quot;), isso dependerá de como você configurou seu servidor de coleta de dados. Se o servidor de coleta de dados corresponder ao domínio do site, os cookies serão definidos como primários. Se o servidor de coleta não corresponder ao seu domínio atual, os cookies serão definidos como de terceiros. Nesse caso, se cookies de terceiros estiverem bloqueados, o Analytics definirá um [id de fallback (&quot;s_fid&quot;)](https://experienceleague.adobe.com/docs/core-services/interface/ec-cookies/cookies-analytics.html?lang=en#section-65e33f9bfc264959ac1513e2f4b10ac7) próprio em vez do cookie &quot;s_vi&quot; padrão.
+
+Para garantir que o servidor de coleta corresponda ao domínio do site, você pode usar uma implementação CNAME à qual permitirá que os cookies sejam definidos em um contexto próprio. Isso envolve alterações nas configurações de DNS da empresa para configurar um alias CNAME para apontar para um domínio hospedado pelo Adobe. Observe que, embora vários produtos da Adobe sejam compartíveis com o uso de um CNAME, em todos os casos o CNAME é usado para criar um endpoint de terceiros confiável para um cliente específico, e é de sua propriedade. Se você controlar vários domínios, eles poderão usar um único endpoint CNAME para rastrear usuários em seus domínios, mas sempre que o domínio do site não corresponder aos cookies de domínio CNAME será definido como terceiro.
 
 >[!NOTE]
 >

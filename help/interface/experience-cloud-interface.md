@@ -6,9 +6,9 @@ feature: '"Componentes da interface central"'
 topic: Administração
 role: Administrator, User
 level: Beginner, Intermediate, Experienced
-source-git-commit: c3ce6e07c17e126cd2becdf65c40ccbe9398f012
+source-git-commit: a2fd27582268ae2865e6074b8c84d55f8c31fb8a
 workflow-type: tm+mt
-source-wordcount: '415'
+source-wordcount: '412'
 ht-degree: 2%
 
 ---
@@ -44,7 +44,7 @@ O menu [!UICONTROL Ajuda] também dá acesso a:
 * **[!UICONTROL Suporte]:** crie um tíquete de suporte ou entre em contato com o   Suporte usando o Twitter.
 * **[!UICONTROL Feedback]:** entre em contato com o Adobe usando Feedback e nos informe sobre o que você acha.
 * **[!UICONTROL Status]:** acesse  `https://status.adobe.com/experience_cloud` e verifique o status operacional do produto e  [!UICONTROL Gerenciar Assinaturas].
-* **[!UICONTROL Developer Connection]:** Navegação para  [Adobe I/](adobe.io) Oe encontrar a documentação do desenvolvedor.
+* **[!UICONTROL Developer Connection]:** navegue  `adobe.io` e localize a documentação do desenvolvedor.
 
 ## ![](assets/preferences-icon.png) Preferências da conta  {#account-menu}
 

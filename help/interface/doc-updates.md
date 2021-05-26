@@ -9,17 +9,20 @@ topic: Administração
 role: Administrator
 level: Experienced
 exl-id: 11cc5005-8ec0-4308-bc94-0f78666ea645
-translation-type: ht
-source-git-commit: f4add6d5e64678c6b578237c18ceda9ee2245033
-workflow-type: ht
-source-wordcount: '251'
-ht-degree: 100%
+source-git-commit: ea7db50d4af151ff47049fc648b8e77c11ec2ee4
+workflow-type: tm+mt
+source-wordcount: '240'
+ht-degree: 93%
 
 ---
 
 # Atualizações da documentação - Experience Cloud
 
 Informações sobre atualizações na documentação do produto da Experience Cloud.
+
+**Atualizado: 26/5/2021**
+
+Adição de [Experience Cloud interface](experience-cloud-interface.md) para obter ajuda sobre como acessar o Experience Cloud, a pesquisa global, as preferências e as notificações.
 
 **Atualizado: 19/8/2020**
 
@@ -55,10 +58,6 @@ Atualização [Sobre arquivo de dados e fontes de dados para atributos do client
 **Atualizado: 6/6/2018**
 
 Atualizações gerais no conteúdo e nas telas.
-
-**Atualizado: 2/6/2018**
-
-Atualizações para [Gerenciar usuários e produtos da Experience Cloud](admin-getting-started/admin-getting-started.md#topic_3FCB4099640647E3B2411ADBFCE81909).
 
 **Atualizado: 1/17/2018**
 
@@ -105,7 +104,3 @@ Adição de [Perguntas frequentes da Experience Cloud](admin-getting-started/faq
 Adição de documentação para Públicos-alvo.
 
 Consulte [Públicos-alvo](audience-library/audience-library.md#topic_679810123CAA4E0CA4FA3417FB0100C7).
-
-**Atualizado: 22/5/2014**
-
-Atualização de [usuários e produtos da Experience Cloud](admin-getting-started/admin-getting-started.md#topic_3FCB4099640647E3B2411ADBFCE81909) para obter informações sobre como tornar-se um administrador na Experience Cloud.

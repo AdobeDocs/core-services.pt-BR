@@ -6,22 +6,34 @@ feature: '"Componentes da interface central"'
 topic: Administração
 role: Administrator, User
 level: Beginner, Intermediate, Experienced
-source-git-commit: a2fd27582268ae2865e6074b8c84d55f8c31fb8a
+source-git-commit: c0a01f126e7ccdd8e6f320a449935c282dc1ca8c
 workflow-type: tm+mt
-source-wordcount: '412'
-ht-degree: 2%
+source-wordcount: '464'
+ht-degree: 6%
 
 ---
 
-# Componentes da interface Experience Cloud central
+# Interface da Experience Cloud 
 
-Os componentes da interface central no Experience Cloud incluem recursos que permitem:
+Os componentes do Experience Cloud incluem:
 
-* Acesse seus aplicativos e serviços
+* Fazer logon e acessar seus aplicativos e serviços
 * Encontrar ajuda e objetos de negócios do produto usando uma pesquisa global
 * Gerenciar suas preferências de conta (alertas, notificações e assinaturas)
 
-## ![](assets/menu-icon.png) Acessar aplicativos Experience Cloud {#navigation}
+## Faça logon na Experience Cloud
+
+Faça logon e verifique se você está na [organização](admin-getting-started/organizations.md) correta.
+
+1. Navegue até [Adobe Experience Cloud](https://experiencecloud.adobe.com/exc-content/login.html).
+1. Clique em **[!UICONTROL Fazer logon com uma Adobe ID]**.
+1. Na Adobe Experience Cloud, clique em sua organização.
+
+   ![](assets/organizations-menu.png)
+
+   O administrador pode ajudá-lo a verificar se você está na [organização](admin-getting-started/organizations.md) correta.
+
+## Acessar aplicativos Experience Cloud {#navigation}
 
 Após fazer logon no Experience Cloud, você pode acessar rapidamente todos os aplicativos, serviços e organizações a partir do cabeçalho unificado.
 
@@ -29,7 +41,7 @@ Clique no seletor de aplicativos ![](assets/menu-icon.png) para acessar os servi
 
 ![](assets/platform-core-services.png)
 
-## ![](assets/help-icon.png) Pesquisa e suporte no Experience Cloud {#search}
+## Pesquisa e suporte no Experience Cloud {#search}
 
 A pesquisa no Experience Cloud permite procurar ajuda (documentação, tutoriais e cursos) no [Experience League](https://experienceleague.adobe.com/?lang=pt-BR#home). Também é possível pesquisar objetos comerciais, como segmentos, conjuntos de dados, esquemas e muito mais.
 
@@ -46,7 +58,7 @@ O menu [!UICONTROL Ajuda] também dá acesso a:
 * **[!UICONTROL Status]:** acesse  `https://status.adobe.com/experience_cloud` e verifique o status operacional do produto e  [!UICONTROL Gerenciar Assinaturas].
 * **[!UICONTROL Developer Connection]:** navegue  `adobe.io` e localize a documentação do desenvolvedor.
 
-## ![](assets/preferences-icon.png) Preferências da conta  {#account-menu}
+## Preferências da conta {#account-menu}
 
 No menu de preferências da conta, é possível:
 
@@ -73,6 +85,10 @@ Em [!UICONTROL Experience Cloud preferences], você pode configurar os seguintes
 | [!UICONTROL Alertas] | Selecione as notificações para as quais deseja ver alertas exibidos em seu navegador. Os alertas são exibidos no canto superior direito da janela por alguns segundos. |
 | Emails | Especifique a frequência com que deseja receber emails de notificação. (Não enviado, instantâneo, diário ou semanal.) |
 
-## ![](assets/notifications.png) Notificações e anúncios
+## Notificações e anúncios
 
-**** Notificações e  **[!UICONTROL anúncios]:** consulte as notificações importantes para você e os anúncios do Adobe. Você pode configurar notificações em [Experience Cloud preferences](#preferences).
+Clique em **[!UICONTROL Notificações]** para ver as notificações que são importantes para você e os anúncios do Adobe.
+
+![](assets/notifications-menu-small.png)
+
+Você pode configurar notificações em [Experience Cloud preferences](#preferences).

@@ -5,7 +5,7 @@ breadcrumb-title: Serviços e administração da Experience Cloud
 user-guide-description: Saiba como gerenciar usuários e produtos no Adobe Experience Cloud e como usar os Atributos do cliente e os serviços da Biblioteca de público-alvo. Saiba mais sobre cookies e Experience Cloud Assets.
 user-guide-url: https://www.adobe.com
 index: true
-source-git-commit: c30f510951e01abd5ec06822547b3048ea32a3c2
+source-git-commit: 6744ddeeaad42054497230e1214033f36746b8e3
 workflow-type: tm+mt
 source-wordcount: '0'
 ht-degree: 0%
@@ -81,4 +81,3 @@ ht-degree: 0%
    + [Terminologia](terms.md)
    + [Uso da pré-busca DNS com diferentes soluções e serviços](dns-prefetch.md)
    + [Atualizações de documentação](doc-updates.md)
-

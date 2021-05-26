@@ -5,10 +5,10 @@ breadcrumb-title: Serviços e administração da Experience Cloud
 user-guide-description: Saiba como gerenciar usuários e produtos no Adobe Experience Cloud e como usar os Atributos do cliente e os serviços da Biblioteca de público-alvo. Saiba mais sobre cookies e Experience Cloud Assets.
 user-guide-url: https://www.adobe.com
 index: true
-source-git-commit: 35072268615b7a657cdabacfe7dbcd5fd3ffc81f
+source-git-commit: c30f510951e01abd5ec06822547b3048ea32a3c2
 workflow-type: tm+mt
-source-wordcount: '377'
-ht-degree: 100%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -41,7 +41,6 @@ ht-degree: 100%
    + [Gerenciar a identidade de usuário e os produtos da Experience Cloud (Admin Console)](admin-getting-started/admin-getting-started.md)
    + [Exibir detalhes do usuário da Experience Cloud (Ferramenta administrativa)](admin-getting-started/admin-tool-experience-cloud.md)
    + [Perguntas frequentes](admin-getting-started/faq.md)
-
    + [Organizações e vinculação de contas](admin-getting-started/organizations.md)
    + [Atualização para o Analytics Premium e a Experience Cloud](admin-getting-started/upgrade-to-analytics-premium.md)
 + Experience Cloud Activation {#activation}

@@ -9,9 +9,8 @@ feature: Admin Console
 role: Administrator
 level: Experienced
 exl-id: 746d396d-9629-42db-8c55-07d2d24e4611
-translation-type: ht
-source-git-commit: f4add6d5e64678c6b578237c18ceda9ee2245033
-workflow-type: ht
+source-git-commit: 5a9b2f287253d8a405e6a530a3b91cfdad7f092a
+workflow-type: tm+mt
 source-wordcount: '634'
 ht-degree: 100%
 
@@ -55,9 +54,9 @@ Atualizar para Inteligência preditiva permite o [Analytics Premium](../admin-ge
 
 | Produto | Atualizações |
 |---|---|
-| Reports &amp; Analytics | [Análise de contribuição](https://docs.adobe.com/content/help/pt-BR/analytics/analyze/analysis-workspace/virtual-analyst/contribution-analysis/ca-tokens.html) |
+| Reports &amp; Analytics | [Análise de contribuição](https://docs.adobe.com/content/help/en/analytics/analyze/analysis-workspace/virtual-analyst/contribution-analysis/ca-tokens.html) |
 | Data Workbench | Espaços de trabalho pré-criados para qualificações de público-alvo e marketing preditivo |
-| Analytics Platform | Live Stream (painéis e acionadores) |
+| Plataforma do Analytics | Live Stream (painéis e acionadores) |
 
 ## Visão completa do cliente {#section_3B2AC245388248688067DC9A48957AFB}
 
@@ -67,7 +66,7 @@ Atualização para ofertas do Customer 360 no [Analytics Premium](../admin-getti
 |--- |--- |
 | [Atributos do cliente](../attributes/attributes.md) | Atributos do cliente (análise e compartilhamento de segmentos) |
 | Data Workbench | <ul><li>Atributos derivados do cliente</li><li>Espaços de trabalho pré-criados para descoberta de públicos-alvo</li></ul> |
-| Analytics Platform | [Atributos do cliente](../attributes/attributes.md) |
+| Plataforma do Analytics | [Atributos do cliente](../attributes/attributes.md) |
 
 ## Atribuição avançada {#section_9E4986A8389946CCAA7D003268343296}
 
@@ -85,7 +84,7 @@ Qualquer software que estiver sendo executado no local deverá ser desativado. I
 
 A Experience Cloud e os serviços principais estão disponíveis para usuários do Analytics Standard e Premium, desde que você tenha seguido a modernização de implementação descrita na [Introdução - ative as soluções para os serviços principais](../core-services/core-services.md#concept_07ED1D5C64234E77976E6D572E78FB9C). (Esse processo ajuda a modernizar a implementação e permitirá que você se torne um administrador na Experience Cloud.)
 
-Após associar-se à Experience Cloud, é possível fazer logon por meio da Experience Cloud em [!DNL experiencecloud.adobe.com] e começar a usar os principais serviços (inclusive os atributos do cliente, os públicos-alvo e a análise de aplicativos móveis).
+Após associar-se à Experience Cloud, é possível fazer logon por meio da Experience Cloud em [!DNL experience.adobe.com] e começar a usar os principais serviços (inclusive os atributos do cliente, os públicos-alvo e a análise de aplicativos móveis).
 
 ### Administre usuários e grupos
 

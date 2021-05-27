@@ -9,11 +9,10 @@ topic: Administração
 role: Administrator
 level: Experienced
 exl-id: 48e79e23-b339-4143-b3b1-969c370efeff
-translation-type: ht
-source-git-commit: f4add6d5e64678c6b578237c18ceda9ee2245033
-workflow-type: ht
-source-wordcount: '2367'
-ht-degree: 100%
+source-git-commit: 5a9b2f287253d8a405e6a530a3b91cfdad7f092a
+workflow-type: tm+mt
+source-wordcount: '2368'
+ht-degree: 98%
 
 ---
 
@@ -24,11 +23,11 @@ Se você implementou a Experience Cloud recentemente usando o Experience Platfor
 Para clientes atuais, talvez seja necessário modernizar as implementações da solução e implementar a Experience Cloud. Dessa forma, você aproveitará os atributos do cliente e os recursos de público-alvo no Adobe Analytics, Audience Manager e Adobe Target. Para fazer esta implementação, você deve:
 
 1. [Associar-se à Experience Cloud e tornar-se um administrador](#section_2423F0BD3DF642658103310EE5EA6154)
-1. [Implementar o Serviço da Experience Cloud ID](#section_3C9F6DF37C654D939625BB4D485E4354)
+1. [Implementar o Experience Cloud ID Service](#section_3C9F6DF37C654D939625BB4D485E4354)
 1. [Mapear conjuntos de relatórios para uma organização da Experience Cloud](#section_7B08516B01BA421681DF03D0E86CE3BA)
 1. [Atualizar o código AppMeasurement do Analytics](#section_1798D9D0F05C47E29816AC4EEB9A0913)
 1. [Atualizar a implementação do Adobe Target](#section_C2F4493C7A36406DAE2266B429A4BD24)
-1. [Verificar a implementação](#section_E641782A0F4F44AF8C9C91216BE330D5)
+1. [Verifique a implementação](#section_E641782A0F4F44AF8C9C91216BE330D5)
 1. [Gerenciar usuários e produtos](#section_B6E95F4E0E12483CB9DA99CBC0C5A4AF)
 1. [Começar a compartilhar dados de atributo e público-alvo](#section_960C06093623462E8EA247B3E97274A1)
 
@@ -54,9 +53,9 @@ O que é necessário para associar-se à Experience Cloud:
 
 ### Logon do administrador
 
-Depois de se tornar um administrador, faça logon em [experiencecloud.adobe.com](https://experiencecloud.adobe.com)
+Depois de se tornar um administrador, faça logon em [experience.adobe.com](https://experience.adobe.com).
 
-Você verá o link **[!UICONTROL Administração]** no menu de navegação da Experience Cloud.
+Você verá o link **[!UICONTROL Admin Console]** no menu de navegação do Experience Cloud.
 
 Consulte [Administração de usuários e produtos da Experience Cloud](../admin-getting-started/admin-getting-started.md#topic_3FCB4099640647E3B2411ADBFCE81909) para obter mais informações.
 
@@ -65,7 +64,7 @@ Consulte [Administração de usuários e produtos da Experience Cloud](../admin-
 Para fazer logon na Experience Cloud, os usuários devem:
 
 * Ter uma Adobe ID (ou Enterprise ID para sua empresa).
-* Faça logon em [experiencecloud.adobe.com](https://experiencecloud.adobe.com).
+* Faça logon em [experience.adobe.com](https://experience.adobe.com).
 * Pertencer a um grupo de soluções mapeado para um grupo corporativo.
 * Se necessário, vincule suas contas da solução à Adobe ID (descrito abaixo).
 
@@ -103,7 +102,7 @@ Se você não estiver usando o [!UICONTROL Experience Platform Launch] ou o [!UI
 
 ### Analytics &amp; Adobe Target - sincronização da ID do cliente {#section_AD473A6A21C1446498E700363F9A8437}
 
-Como parte da configuração do Serviço da Experience Cloud ID, a Adobe recomenda para o Analytics e para o [!DNL Target] a sincronização das [IDs do cliente](https://docs.adobe.com/content/help/pt-BR/id-service/using/reference/authenticated-state.html) com a Experience Cloud.
+Como parte da configuração do Serviço da Experience Cloud ID, a Adobe recomenda para o Analytics e para o [!DNL Target] a sincronização das [IDs do cliente](https://docs.adobe.com/content/help/en/id-service/using/reference/authenticated-state.html) com a Experience Cloud.
 
 No Adobe Target, o `mbox3rdpartyid` deve obter a ID do cliente e enviá-la para o [!DNL Target]. (Consulte [Trabalhar com atributos do cliente](https://docs.adobe.com/content/help/pt-BR/target/using/audiences/visitor-profiles/working-with-customer-attributes.html) em [!DNL Target].)
 
@@ -154,7 +153,7 @@ No [!UICONTROL Dynamic Tag Management], clique em **`<Web Property Name>`** > **
    >
    >Todos os clientes do Analytics já foram provisionados com os serviços principais, como atributos do cliente. Se você não for um cliente do Analytics, entre em contato com o Atendimento ao cliente para solicitar o provisionamento.
 
-## Verificar a implementação {#section_E641782A0F4F44AF8C9C91216BE330D5}
+## Verifique a implementação {#section_E641782A0F4F44AF8C9C91216BE330D5}
 
 Use o processo a seguir para garantir que o Serviço da Experience Cloud ID seja implementado corretamente no site.
 
@@ -233,4 +232,4 @@ Se você desejar oferecer a capacidade de não participação adequada, os visit
 
 Consulte [Adobe Experience Cloud - Implementação das opções de não participação da Adobe](https://docs.adobe.com/content/help/pt-BR/analytics/implementation/js/opt-out.html) para obter instruções.
 
-Consulte [Coletas de dados CNAMEs e Rastreamento entre domínios](https://docs.adobe.com/content/help/pt-BR/id-service/using/reference/analytics-reference/cname.html) para ativar o rastreamento entre domínios.
+Consulte [Coletas de dados CNAMEs e Rastreamento entre domínios](https://docs.adobe.com/content/help/en/id-service/using/reference/analytics-reference/cname.html) para ativar o rastreamento entre domínios.

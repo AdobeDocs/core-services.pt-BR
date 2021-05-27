@@ -9,7 +9,7 @@ topic: Administração
 role: Administrator
 level: Experienced
 exl-id: b71d144c-a097-4cdb-9721-671519d38aff
-source-git-commit: 6b6dd0fd0ac51d485877e20bd94322415e80e65e
+source-git-commit: 5a9b2f287253d8a405e6a530a3b91cfdad7f092a
 workflow-type: tm+mt
 source-wordcount: '4111'
 ht-degree: 96%
@@ -395,7 +395,7 @@ Novos recursos e correções na colaboração e interface de compartilhamento da
 
 **Correções e melhorias**
 
-* Ao entrar no [!DNL experiencecloud.adobe.com], você verá que a experiência de logon agora é compatível com o logon Creative Cloud da Adobe.
+* Ao entrar no [!DNL experience.adobe.com], você verá que a experiência de logon agora é compatível com o logon Creative Cloud da Adobe.
 * Na página Gerenciar organizações, a experiência de vinculação (após o recebimento de um convite) agora é consistente para cada solução.
 
 **Problemas conhecidos**

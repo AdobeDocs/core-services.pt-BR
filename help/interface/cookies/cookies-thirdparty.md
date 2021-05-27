@@ -9,11 +9,10 @@ topic: Administração
 role: Administrator
 level: Experienced
 exl-id: 3d12a1b1-c952-4b42-815d-f64b31429cec
-translation-type: ht
-source-git-commit: f4add6d5e64678c6b578237c18ceda9ee2245033
-workflow-type: ht
-source-wordcount: '299'
-ht-degree: 100%
+source-git-commit: ef6196c3096ac7b26633eb4b1b9b2db26237732a
+workflow-type: tm+mt
+source-wordcount: '275'
+ht-degree: 84%
 
 ---
 
@@ -25,8 +24,7 @@ A seguinte lista descreve como o suporte a cookies de terceiros afeta as impleme
 
 ## Adobe Analytics e Adobe Target
 
-* Clientes com uma [implementação própria](/help/interface/cookies/cookies-first-party.md) permaneceriam praticamente inalterados.
-* Os clientes que não usam implementação própria podem implementar o [Serviço de ID da Experience Platform](https://docs.adobe.com/content/help/pt-BR/id-service/using/implementation/implementation-guides.html) para armazenar o cookie da ID como um cookie próprio, sem uma implementação própria.
+* O Analytics e o Target não serão afetados, pois a mesma atividade do site depende apenas de cookies próprios. Cookies de terceiros são necessários para entender a atividade do usuário em vários domínios. Para navegadores onde cookies de terceiros são bloqueados, o rastreamento entre domínios não será possível usando cookies.
 
 ## Adobe Experience Manager
 
@@ -49,8 +47,3 @@ A seguinte lista descreve como o suporte a cookies de terceiros afeta as impleme
    * A exibição também depende muito da disponibilidade de vários cookies de rede de publicidade para sincronização.
    * O impacto geral é desconhecido. No entanto, de acordo com o primeiro ponto, a exibição é afetada mais do que outros serviços.
    * Estamos trabalhando internamente e com nossos parceiros de publicidade para avaliar a extensão total do impacto na entrega de anúncios.
-
-* Social:
-
-   * Não há impacto nos anúncios do Facebook market-place.
-   * O Facebook Exchange (FBX) será afetado da mesma forma que a entrega de anúncios de exibição.

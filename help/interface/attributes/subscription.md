@@ -9,17 +9,16 @@ topic: Administração
 role: Administrator
 level: Experienced
 exl-id: cfa2aa5c-337f-401e-80eb-cbe36cb1d41e
-translation-type: ht
-source-git-commit: f4add6d5e64678c6b578237c18ceda9ee2245033
-workflow-type: ht
-source-wordcount: '388'
-ht-degree: 100%
+source-git-commit: f720e37b693da2c657cb1efab45620c60bfa81a4
+workflow-type: tm+mt
+source-wordcount: '386'
+ht-degree: 96%
 
 ---
 
 # Como configurar assinaturas na Experience Cloud
 
-Saiba mais sobre fontes de dados de solução e como configurar assinaturas. As assinaturas permitem que o cliente atribua o fluxo de dados entre a Experience Cloud e as soluções (Analytics e [!DNL Target]).
+Saiba mais sobre fontes de dados de solução e como configurar assinaturas. As assinaturas permitem que o cliente atribua o fluxo de dados entre o Experience Cloud e as soluções ([!DNL Analytics] e [!DNL Target]).
 
 Por exemplo, uma assinatura do Adobe Analytics permite atribuir dados em relatórios. Se você usar o Adobe Target, é possível fazer upload de atributos do cliente para direcionamento e segmentação.
 

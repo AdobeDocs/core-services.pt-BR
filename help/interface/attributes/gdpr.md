@@ -6,29 +6,28 @@ topic: Administração
 role: Administrator
 level: Experienced
 exl-id: 02417c0c-6780-4699-9470-f1685c3cd25d
-translation-type: ht
-source-git-commit: f4add6d5e64678c6b578237c18ceda9ee2245033
-workflow-type: ht
-source-wordcount: '435'
-ht-degree: 100%
+source-git-commit: f720e37b693da2c657cb1efab45620c60bfa81a4
+workflow-type: tm+mt
+source-wordcount: '434'
+ht-degree: 95%
 
 ---
 
 # Suporte a Atributos do cliente para o Regulamento Geral sobre a Proteção de Dados
 
-Esta página descreve como os Atributos do cliente oferecem suporte ao Regulamento Geral sobre a Proteção de Dados (GDPR).
+Esta página descreve como os [!UICONTROL Atributos do cliente] oferecem suporte ao Regulamento Geral sobre a Proteção de Dados (GDPR).
 
 >[!IMPORTANT]
 >
 >O conteúdo deste documento não é um aconselhamento jurídico e não se destina a substituir tal aconselhamento. Consulte seu advogado para obter recomendações sobre o GDPR.
 
-O [Regulamento Geral sobre a Proteção de Dados](https://www.adobe.com/br/privacy/general-data-protection-regulation/what-is-gdpr.html), uma lei em vigor desde 25 de maio de 2018 concede a todos os indivíduos (titulares de dados) dentro das fronteiras da União Europeia (UE) o controle de seus dados pessoais. Também simplifica o ambiente regulamentar para as empresas internacionais. Esta lei se aplica a todas as empresas (controladores de dados) que oferecem bens ou serviços para monitorar o comportamento ou coletar dados pessoais de indivíduos dentro das fronteiras da UE no momento em que seus dados pessoais são processados, independentemente da localização comercial do controlador de dados.
+O [Regulamento Geral sobre a Proteção de Dados](https://business.adobe.com/privacy/general-data-protection-regulation.html), uma lei em vigor desde 25 de maio de 2018 concede a todos os indivíduos (titulares de dados) dentro das fronteiras da União Europeia (UE) o controle de seus dados pessoais. Também simplifica o ambiente regulamentar para as empresas internacionais. Esta lei se aplica a todas as empresas (controladores de dados) que oferecem bens ou serviços para monitorar o comportamento ou coletar dados pessoais de indivíduos dentro das fronteiras da UE no momento em que seus dados pessoais são processados, independentemente da localização comercial do controlador de dados.
 
 A Adobe Experience Cloud atua como um processador de dados para todos os dados pessoais que recebe e armazena em nome de seus clientes. Como o controlador de dados, você determinará os dados pessoais que a Adobe Experience Cloud processa e armazena em seu nome.
 
 Este documento descreve como os [!UICONTROL Atributos do cliente] oferecem suporte aos direitos de acesso e exclusão de dados do GDPR de seus titulares de dados usando a Adobe Experience Platform Privacy Service API e a interface do usuário do Privacy Service.
 
-Para obter mais informações sobre o que o GDPR significa para sua empresa, consulte [GDPR e sua empresa](https://www.adobe.com/br/privacy/general-data-protection-regulation.html).
+Para obter mais informações sobre o que o GDPR significa para sua empresa, consulte [GDPR e sua empresa](https://business.adobe.com/privacy/general-data-protection-regulation.html).
 
 ## Configuração necessária para enviar solicitações para [!UICONTROL Atributos do cliente]
 

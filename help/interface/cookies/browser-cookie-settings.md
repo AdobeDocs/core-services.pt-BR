@@ -9,11 +9,10 @@ topic: Administração
 role: Administrator
 level: Experienced
 exl-id: 5d852e0e-4004-4f94-a6f7-3a14a96cd42f
-translation-type: ht
-source-git-commit: f4add6d5e64678c6b578237c18ceda9ee2245033
-workflow-type: ht
-source-wordcount: '302'
-ht-degree: 100%
+source-git-commit: f720e37b693da2c657cb1efab45620c60bfa81a4
+workflow-type: tm+mt
+source-wordcount: '296'
+ht-degree: 60%
 
 ---
 
@@ -29,10 +28,10 @@ ht-degree: 100%
 
 >[!IMPORTANT]
 >
->Observe que muitos aplicativos móveis (como o navegador interno do Facebook ou do Twitter) podem parecer navegadores de dispositivos móveis padrão, mas não permitem todos os cookies. Ativar esse recurso poderia excluir uma grande parte do tráfego móvel dos relatórios do Analytics.
+>Muitos aplicativos móveis (como o navegador interno do Facebook ou Twitter) podem parecer navegadores de dispositivos móveis padrão, mas não permitem todos os cookies. Ativar esse recurso poderia excluir uma grande parte do tráfego móvel dos relatórios do Analytics.
 
 **Sobre as configurações de privacidade do navegador**
 
-As orientações legislativas e regulamentares expressaram que a ação de um usuário de bloquear cookies é a mesma ação de um usuário de não participar na criação de perfis. Ao ativar esse recurso, os dados coletados em navegadores de desktop, nos quais o usuário definiu o navegador para bloquear todos os cookies, serão excluídos dos relatórios do Analytics. Se a Adobe não reconhecer o navegador da Web, os dados serão incluídos nos relatórios do Analytics.
+As orientações legislativas e regulamentares expressaram que a ação de um usuário de bloquear cookies é a mesma ação de um usuário de não participar na criação de perfis. Ao ativar esse recurso, os dados coletados em navegadores de desktop, onde o usuário definiu o navegador para bloquear todos os cookies, são excluídos dos relatórios do Analytics. Se o Adobe não conseguir reconhecer o navegador da Web, os dados serão incluídos nos relatórios [!DNL Analytics].
 
-Legisladores de todo o mundo declararam (tanto em orientações quanto em acordos) que as configurações de cookies do navegador são uma indicação da preferência do usuário em não participar da definição de perfis. Especificamente, esses legisladores declararam que a configuração do navegador para bloquear cookies de terceiros é uma solicitação de não participação no rastreamento de terceiros (entre sites). Bloquear todos os cookies é uma solicitação de não participação para todo o rastreamento. Embora os identificadores do lado do servidor (como endereço IP ou agente do usuário) possam ser uma opção desejável que ignora as configurações do navegador de cookies, alguns legisladores os veem como uma evasão da escolha do usuário.
+Legisladores de todo o mundo declararam (tanto em orientações quanto em acordos) que as configurações de cookies do navegador são uma indicação da preferência do usuário em não participar da definição de perfis. Especificamente, esses legisladores declararam que a configuração do navegador para bloquear cookies de terceiros é uma solicitação de não participação no rastreamento de terceiros (entre sites). Bloquear todos os cookies é uma solicitação de não participação para todo o rastreamento. Embora identificadores do lado do servidor (como endereço IP ou agente do usuário) possam ser uma opção desejável que ignore as configurações de cookies do navegador, alguns legisladores os consideram uma evasão da escolha do usuário.

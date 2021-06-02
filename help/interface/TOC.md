@@ -4,10 +4,10 @@ user-guide-title: 'Componentes da interface central do Experience Cloud '
 breadcrumb-title: Componentes da interface central do Experience Cloud
 user-guide-description: Saiba mais sobre a interface do Experience Cloud, configure as preferências e pesquise objetos comerciais. Obtenha ajuda sobre o gerenciamento de usuários e produtos, atributos do cliente, biblioteca de público-alvo, cookies e ativos do Experience Cloud.
 index: true
-source-git-commit: 9a1dea42b5ae6ab4ea822d56c14cdb330bb8ef95
+source-git-commit: 51137ed0eb8cced37cc5779ca327a33ebf30e65a
 workflow-type: tm+mt
-source-wordcount: '372'
-ht-degree: 86%
+source-wordcount: '370'
+ht-degree: 77%
 
 ---
 
@@ -43,8 +43,8 @@ ht-degree: 86%
    + [Atualização para o Analytics Premium e a Experience Cloud](admin-getting-started/upgrade-to-analytics-premium.md)
 + Experience Cloud Activation {#activation}
    + [Visão geral de Activation](activation/activation.md)
-   + [Guia do usuário da Experience Platform Launch](https://docs.adobe.com/content/help/pt-BR/launch/using/overview.html)
-   + [Guia do usuário do Gerenciador dinâmico de tags](https://docs.adobe.com/content/help/pt-BR/dtm/using/dtm-home.html)
+   + [Guia do usuário da Experience Platform Launch](https://experienceleague.adobe.com/docs/launch/using/overview.html?lang=en)
+   + [Guia do usuário do Gerenciador dinâmico de tags](https://experienceleague.adobe.com/docs/dtm/using/dtm-home.html?lang=en)
    + [Triggers](activation/triggers.md)
 + Ativos da Experience Cloud {#assets}
    + [Visão geral de ativos da Experience Cloud](experience-cloud-assets/experience-cloud-assets.md)
@@ -72,10 +72,10 @@ ht-degree: 86%
    + [Suporte à California Consumer Privacy Act](attributes/ccpa.md)
    + [Considerações de privacidade para atributos do cliente](attributes/privacy-mac.md)
 + Notas de versão da Experience Cloud {#release-notes}
-   + [Novidades da Experience Cloud](https://docs.adobe.com/content/help/pt-BR/release-notes/experience-cloud/current.html)
+   + [Novidades da Experience Cloud](https://experienceleague.adobe.com/docs/release-notes/experience-cloud/current.html?lang=en)
    + [Notas de versão cumulativas](marketing-cloud-interface/release-notes.md)
 + Mais recursos {#more-resources}
-   + [Fórum](https://forums.adobe.com/community/experience-cloud)
+   + [Fórum](https://experienceleaguecommunities.adobe.com/)
    + [Terminologia](terms.md)
    + [Uso da pré-busca DNS com diferentes soluções e serviços](dns-prefetch.md)
    + [Atualizações de documentação](doc-updates.md)

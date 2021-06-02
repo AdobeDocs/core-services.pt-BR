@@ -9,17 +9,16 @@ topic: Administração
 role: Administrator
 level: Experienced
 exl-id: b65a12f5-fa89-400a-b279-13c381cd6c22
-translation-type: ht
-source-git-commit: f4add6d5e64678c6b578237c18ceda9ee2245033
-workflow-type: ht
-source-wordcount: '477'
-ht-degree: 100%
+source-git-commit: f720e37b693da2c657cb1efab45620c60bfa81a4
+workflow-type: tm+mt
+source-wordcount: '476'
+ht-degree: 94%
 
 ---
 
 # Criar um público-alvo
 
-Saiba mais sobre como usar as regras de atributo para criar um público-alvo e definir um público-alvo composto na Experience Cloud.
+Saiba mais sobre como usar as regras de atributo para criar um público-alvo e definir um público composto na Experience Cloud.
 
 Este artigo ajuda você a entender como:
 
@@ -52,7 +51,7 @@ O exemplo a seguir mostra como criar as regras para um público-alvo composto. E
 1. Na página [!UICONTROL Criar novo público-alvo], especifique um título e uma descrição.
 1. Em [!UICONTROL Regras], selecione uma fonte de atributo:
 
-   * **[!UICONTROL Dados do Real-Time Analytics (ou dados brutos):]** são dados de atributos derivados de solicitações de imagens real-time Analytics e incluem dados como eVars e eventos. Você deve selecionar um conjunto de relatórios ao usar essa fonte de atributo e definir a dimensão ou evento que será incluído. Essa seleção de conjunto de relatórios fornece a estrutura variável usada pelo conjunto de relatórios.
+   * **[!UICONTROL Dados do Real-Time Analytics:]**  (ou dados brutos) são dados de atributos derivados de solicitações de imagem do Real-Time Analytics e incluem dados como eVars e eventos. Você deve selecionar um conjunto de relatórios ao usar essa fonte de atributo e definir a dimensão ou evento que será incluído. Essa seleção de conjunto de relatórios fornece a estrutura variável usada pelo conjunto de relatórios.
    >[!NOTE]
    >
    >Devido a questões relacionadas ao cache, conjuntos de relatórios excluídos no Analytics permanecem exibidos na Experience Cloud por 12 horas após a exclusão.

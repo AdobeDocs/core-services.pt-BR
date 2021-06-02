@@ -9,11 +9,10 @@ topic: Administração
 role: Administrator
 level: Experienced
 exl-id: ecb8d17f-f752-44ca-8877-44752c28dc70
-translation-type: ht
-source-git-commit: f4add6d5e64678c6b578237c18ceda9ee2245033
-workflow-type: ht
-source-wordcount: '415'
-ht-degree: 100%
+source-git-commit: f720e37b693da2c657cb1efab45620c60bfa81a4
+workflow-type: tm+mt
+source-wordcount: '413'
+ht-degree: 98%
 
 ---
 
@@ -31,7 +30,7 @@ Em visualizadores AS2, os cookies:
 No visualizador AS2 Flash eCatalog, os cookies:
 
 * Armazenam conteúdo gerado pelo usuário (principalmente o conteúdo inserido pelo usuário no recurso &quot;notas adesivas&quot; do visualizador de catálogo eletrônico). Esse conteúdo é restaurado quando o usuário retoma uma sessão.
-* Quando o usuário inicia um email para compartilhar o catálogo eletrônico com outro usuário, o conteúdo das notas adesivas do segundo marcador do visualizador AS2 é copiado nos nossos servidores para fornecê-lo ao destinatário. Quando o destinatário inicia a sessão do visualizador, o conteúdo das notas adesivas é recuperado do servidor e copiado em um cookie. Esse recurso é pouco utilizado, portanto, não expira e o conteúdo obsoleto não é removido. No momento, ela persiste nos servidores indefinidamente.
+* Quando o usuário inicia um email para compartilhar o catálogo eletrônico com outro usuário, o conteúdo das notas adesivas do segundo marcador do visualizador AS2 é copiado nos nossos servidores para fornecê-lo ao destinatário. Quando o destinatário inicia a sessão do visualizador, o conteúdo das notas adesivas é recuperado do servidor e copiado em um cookie. Esse recurso é pouco utilizado, portanto, não expira e o conteúdo obsoleto não é removido. Atualmente, ela persiste nos servidores indefinidamente.
 
 Os visualizadores AS3 mais recentes não implementam a persistência de sessão.
 

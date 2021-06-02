@@ -1,19 +1,18 @@
 ---
 audience: administrator
-user-guide-title: 'Serviços e administração da Adobe Experience Cloud '
-breadcrumb-title: Serviços e administração da Experience Cloud
-user-guide-description: Saiba como gerenciar usuários e produtos no Adobe Experience Cloud e como usar os Atributos do cliente e os serviços da Biblioteca de público-alvo. Saiba mais sobre cookies e Experience Cloud Assets.
-user-guide-url: https://www.adobe.com
+user-guide-title: 'Componentes da interface central do Experience Cloud '
+breadcrumb-title: Componentes da interface central do Experience Cloud
+user-guide-description: Saiba mais sobre a interface do Experience Cloud, configure as preferências e pesquise objetos comerciais. Obtenha ajuda sobre o gerenciamento de usuários e produtos, atributos do cliente, biblioteca de público-alvo, cookies e ativos do Experience Cloud.
 index: true
-source-git-commit: b80ee031d4cfa7083a91140d7f5b0b78d21fb931
+source-git-commit: 9a1dea42b5ae6ab4ea822d56c14cdb330bb8ef95
 workflow-type: tm+mt
-source-wordcount: '374'
-ht-degree: 98%
+source-wordcount: '372'
+ht-degree: 86%
 
 ---
 
 
-# Serviços e administração da Experience Cloud {#interface}
+# Componentes da interface central do Experience Cloud {#interface}
 
 + [Componentes da interface central do Experience Cloud](experience-cloud.md)
 + Serviços da Experience Cloud {#about-core-services}

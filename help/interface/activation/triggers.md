@@ -11,19 +11,20 @@ topic: Administração
 role: Administrator
 level: Experienced
 exl-id: 9dc26e2f-479b-49a5-93ce-b877559fea43
-translation-type: ht
-source-git-commit: f4add6d5e64678c6b578237c18ceda9ee2245033
-workflow-type: ht
-source-wordcount: '676'
-ht-degree: 100%
+source-git-commit: f720e37b693da2c657cb1efab45620c60bfa81a4
+workflow-type: tm+mt
+source-wordcount: '705'
+ht-degree: 72%
 
 ---
 
-# Triggers
+# Experience Cloud Triggers
+
+ Triggerins no Experience Cloud permite identificar, definir e monitorar os comportamentos dos principais consumidores e gerar comunicação entre soluções para atrair os visitantes novamente.
 
 ## Visão geral do Triggers {#topic_4F21FCE9A64E46E8B6D51F494FA652A7}
 
-Triggers permitem identificar, definir e monitorar os comportamentos dos principais consumidores e gerar comunicação entre soluções para atrair os visitantes novamente. Você pode usar acionadores em personalizações e decisões em tempo real.
+Você pode usar acionadores em personalizações e decisões em tempo real. Por exemplo:
 
 * Configure o remarketing com rapidez em abandonos de carrinho ou em abandonos de carrinho com produtos removidos
 * Formulários e aplicativos incompletos
@@ -31,9 +32,13 @@ Triggers permitem identificar, definir e monitorar os comportamentos dos princip
 
 ![](assets/trigger-abandonment-2.png)
 
+>[!NOTE]
+>
+>Mais informações sobre o uso de [!UICONTROL Triggers] estão disponíveis em [Campaign Standard](https://experienceleague.adobe.com/docs/campaign-standard/using/integrating-with-adobe-cloud/working-with-campaign-and-triggers/using-triggers-in-campaign.html?lang=en).
+
 ### Tipos de Triggers
 
-Geralmente, um acionador pode levar 15 a 90 minutos para iniciar uma campanha de marketing. Isso varia dependendo da implementação da coleção de dados, carga no pipeline, configuração personalizada do acionador definido e do fluxo de trabalho no Adobe Campaign.
+Geralmente, um acionador pode levar 15 a 90 minutos para iniciar uma campanha de marketing. Esse atraso varia dependendo da implementação da coleta de dados, do carregamento no pipeline, da configuração personalizada do acionador definido e do fluxo de trabalho no Adobe Campaign.
 
 * **Abandono:** é possível criar um acionador para ser disparado quando um visitante visualizar um produto, mas não fizer adições ao carrinho.
 * **Ação:** por exemplo, você pode criar acionadores para serem disparados depois de inscrições em newsletters, assinaturas por email ou aplicações para cartões de crédito (confirmações). Se você for um varejista, crie um acionador para um visitante que se inscreve em um programa de fidelidade. Em mídia e entretenimento, crie acionadores para visitantes que assistem a um certo programa que talvez você queira que respondam a uma pesquisa.
@@ -47,8 +52,8 @@ Crie um acionador e configure as condições para ele. Por exemplo, você pode e
 >
 >No momento, há um limite técnico de 100 acionadores.
 
-1. Na Experience Cloud, clique em ![](assets/menu-icon.png) e depois em **[!UICONTROL Launch]**.
-2. Encontre o cartão [!UICONTROL Triggers] e clique em **[!UICONTROL Gerenciar acionadores]**.
+1. No Experience Cloud, clique em ![](assets/menu-icon.png) e em **[!UICONTROL Coleta de dados/Inicialização]**.
+2. No cartão [!UICONTROL Triggers], clique em **[!UICONTROL Gerenciar acionadores]**.
 3. Clique em **[!UICONTROL Novo acionador]** e especifique o tipo de acionador:
 
    ![Resultado da etapa](assets/add-trigger.png)
@@ -57,15 +62,15 @@ Crie um acionador e configure as condições para ele. Por exemplo, você pode e
 
    | Elemento | Descrição |
    |--- |--- |
-   | Nome | O nome amigável deste acionador. |
-   | Descrição | A descrição deste acionador, como você irá usá-lo etc. |
-   | Conjunto de relatórios | O [conjunto de relatórios](https://docs.adobe.com/content/help/pt-BR/analytics/admin/manage-report-suites/report-suites-admin.html) do Analytics usado para esse acionador. Esta configuração identifica os dados de relatório que serão usados. |
-   | A visita deve incluir o acionador<br>A visita não deve incluir<br>depois de nenhuma ação<br>Incluir metadados | Você pode definir critérios ou comportamentos de usuário que você deseja que ocorram, além de comportamentos que você não deseja que ocorram.  Por exemplo, as regras para um acionador de um simples abandono de carrinho de compras podem ser:<ul><li>A visita deve incluir: Adição ao carrinho (métrica) e Existe. (Mais tarde, você pode redefinir a regra com uma visualização de produto específica ou dimensões como Tipos de navegador.)</li><li>A visita não deve incluir: Check-out.</li><li>Acionar depois de nenhuma ação por: 10 minutos.</li><li>Incluir metadados: permite que você adicione uma dimensão de Campanha específica ou variáveis relevantes ao comportamento do visitante. Este campo pode ser útil ao criar o email de remarketing correto no Adobe Campaign.</li></ul><br>Você pode especificar a lógica Qualquer, E ou Ou dentro ou entre contêineres, dependendo dos critérios que determinar que são importantes para a regra. |
-   | Contêiner | Nos contêineres você pode configurar e armazenar regras, condições ou filtros que definem um acionador. Se você desejar que eventos sejam executados ao mesmo tempo, coloque-os no mesmo contêiner. Ou seja, cada contêiner é processado de maneira independente no nível da ocorrência.  Por exemplo, se você tiver dois contêineres unidos pelo operador AND, poderá esperar que as regras se qualifiquem quando duas ocorrências atenderem aos requisitos. |
+   | [!UICONTROL Nome] | O nome amigável deste acionador. |
+   | [!UICONTROL Descrição] | A descrição deste acionador, como você irá usá-lo etc. |
+   | [!UICONTROL Conjunto de relatórios] | O [conjunto de relatórios](https://experienceleague.adobe.com/docs/analytics/implementation/analytics-basics/ref-reports-report-suites.html?lang=en) do Analytics usado para esse acionador. Esta configuração identifica os dados de relatório que serão usados. |
+   | A visita deve incluir o acionador<br>A visita não deve incluir<br>depois de nenhuma ação<br>Incluir metadados | Você pode definir critérios ou comportamentos de usuário que você deseja que ocorram, além de comportamentos que você não deseja que ocorram. Por exemplo, as regras para um acionador de um simples abandono de carrinho de compras podem ser:<ul><li>A visita deve incluir: [!UICONTROL Adição ao carrinho] (métrica) e [!UICONTROL Existe]. (Mais tarde, você pode redefinir a regra com uma visualização de produto específica ou dimensões como Tipos de navegador.)</li><li>A visita não deve incluir:  [!UICONTROL Check-out].</li><li>Acionar depois de nenhuma ação por: 10 minutos.</li><li>[!UICONTROL Incluir metadados]: Permite adicionar uma  [!DNL Campaign] dimensão ou variáveis específicas relevantes para o comportamento de um visitante. Este campo pode ser útil ao criar o email de remarketing correto no Adobe Campaign.</li></ul><br>Você pode especificar   [!UICONTROL Qualquer],    Andor    Orlogic dentro ou entre contêineres, dependendo dos critérios que determinar que são importantes para a regra. |
+   | [!UICONTROL Contêiner] | [!UICONTROL Nos contêineres você pode configurar e armazenar regras, condições ou filtros que definem um acionador. ] Se você desejar que eventos sejam executados ao mesmo tempo, coloque-os no mesmo contêiner. Ou seja, cada contêiner é processado de maneira independente no nível da ocorrência. Por exemplo, se você tiver dois contêineres unidos pelo operador AND, poderá esperar que as regras se qualifiquem quando duas ocorrências atenderem aos requisitos. |
    | Iniciar nova sessão após | Crie um acionador para o início da sessão e outro para o término. |
 
 5. Clique em **[!UICONTROL Salvar]**.
-6. Use os acionadores para o [remarketing em tempo real](https://docs.adobe.com/content/help/pt-BR/campaign-standard/using/integrating-with-adobe-cloud/working-with-campaign-and-triggers/about-adobe-experience-cloud-triggers.html) no [!DNL Adobe Campaign].
+6. Use os acionadores para o [remarketing em tempo real](https://experienceleague.adobe.com/docs/campaign-standard/using/integrating-with-adobe-cloud/working-with-campaign-and-triggers/about-adobe-experience-cloud-triggers.html?lang=en) no [!DNL Adobe Campaign].
 
 ### Exemplos de acionadores
 
@@ -73,7 +78,7 @@ Exemplos de Experience Cloud Triggers:
 
 #### Acionador de abandono do carrinho
 
-Por exemplo, a página a seguir mostra regras que você poderia usar em um acionador de Abandono de carrinho, com base em produtos visualizados durante uma visita.
+Por exemplo, a página a seguir mostra regras que você pode usar para um acionador de [!UICONTROL Abandono do carrinho], com base em produtos visualizados durante uma visita.
 
 ![](assets/abandonment-trigger.png)
 

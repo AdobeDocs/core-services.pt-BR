@@ -9,11 +9,10 @@ topic: Administração
 role: Administrator
 level: Experienced
 exl-id: 27c026ff-198b-4f49-9718-f25f77a9e716
-translation-type: ht
-source-git-commit: f4add6d5e64678c6b578237c18ceda9ee2245033
-workflow-type: ht
+source-git-commit: f720e37b693da2c657cb1efab45620c60bfa81a4
+workflow-type: tm+mt
 source-wordcount: '517'
-ht-degree: 100%
+ht-degree: 89%
 
 ---
 
@@ -46,4 +45,4 @@ Como a legislação de privacidade do cliente permanece em constante mudança, a
 1. Diga o que você faz (em sua política de privacidade).
 1. Não surpreenda seus clientes.
 
-Com essas expectativas em mente, a Adobe recomenda que quando um anunciante associar as atividades de navegação com as PII, forneça avisos ou personalização indicando que o cliente está autenticado. Um exemplo disso inclui uma saudação no cabeçalho do site. A Adobe também recomenda que os anunciantes descrevam em sua política de privacidade o tipo de informações de navegação que ela associa com as PII e sob quais circunstâncias as informações de navegação se relacionam com as PII. Por fim, a Adobe recomenda enfaticamente que os anunciantes analisem as opções de não participação oferecidas aos consumidores para que entendam se e como eles podem usar a opção de não participação de publicação de informações de perfil não autenticado.
+Com essas expectativas em mente, a Adobe recomenda que quando um anunciante associar as atividades de navegação com as PII, forneça avisos ou personalização indicando que o cliente está autenticado. Um exemplo disso inclui uma saudação no cabeçalho do site. A Adobe também recomenda que os anunciantes descrevam em sua política de privacidade o tipo de informações de navegação que ela associa com as PII e sob quais circunstâncias as informações de navegação se relacionam com as PII. Por fim, o Adobe recomenda enfaticamente que os anunciantes analisem as opções de não participação oferecidas aos consumidores para que entendam se e como eles podem usar informações de perfil não autenticadas na opção de não participação.

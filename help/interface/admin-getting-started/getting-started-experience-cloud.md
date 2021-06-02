@@ -9,16 +9,16 @@ topic: Administração
 role: Administrator
 level: Experienced
 exl-id: 12addbb6-a29b-4d20-ac8f-77e0846150b5
-source-git-commit: 5a9b2f287253d8a405e6a530a3b91cfdad7f092a
+source-git-commit: f720e37b693da2c657cb1efab45620c60bfa81a4
 workflow-type: tm+mt
-source-wordcount: '944'
-ht-degree: 99%
+source-wordcount: '952'
+ht-degree: 89%
 
 ---
 
 # Fazer logon e gerenciar as configurações do perfil
 
-Fazer logon na Experience Cloud (em vez de fazer logon em uma só solução) permite o logon único em todas as soluções e serviços que você possui. Esta ajuda descreve como fazer logon na Experience Cloud, gerenciar senhas e notificações e especificar uma página de aterrissagem padrão.
+Fazer logon no Experience Cloud (em vez de fazer logon em uma única solução) permite o logon único em todas as soluções e serviços que você possui. Esta ajuda descreve como fazer logon na Experience Cloud, gerenciar senhas e notificações e especificar uma página de aterrissagem padrão.
 
 >[!IMPORTANT]
 >
@@ -37,11 +37,11 @@ Faça logon e verifique se você está na [organização](../admin-getting-start
 
 | Elemento | Descrição |
 |--- |--- |
-| [Noções básicas do Admin Console](https://helpx.adobe.com/br/marketing-cloud/how-to/first-time-setup.html) | Saiba mais sobre as etapas iniciais necessárias para começar a usar as soluções da Experience Cloud. |
+| [Noções básicas do Admin Console](https://experienceleague.adobe.com/docs/core-services/interface/experience-cloud.html) | Saiba mais sobre as etapas iniciais necessárias para começar a usar as soluções do Experience Cloud. |
 | [Configurar identidade](https://helpx.adobe.com/br/enterprise/using/set-up-identity.html) | Defina e configure um sistema de identidade com base no qual os usuários finais serão autenticados. |
 | [Gerenciamento de usuários](https://helpx.adobe.com/br/enterprise/using/users.html) | Saiba mais sobre como fazer logon no Admin Console e gerenciar permissões de usuário e perfis de produto da Experience Cloud. |
 | [Iniciar o Admin Console](../admin-getting-started/admin-getting-started.md) | O Admin Console é o local central para gerenciar usuários e direitos de produtos da Adobe em toda a organização.<br>Também é possível fazer logon no Admin Console por meio de um [link direto](https://adminconsole.adobe.com). |
-| [Gerenciar usuários da Creative Cloud](../experience-cloud-assets/t-admin-add-cc-user.md) | O Experience Cloud Assets permite que os profissionais de marketing compartilhem, sincronizem e colaborem em pastas com designers e outros ativos criativos usando a Creative Cloud. Gerencie aqui os usuários da Creative Cloud aprovados para colaborar com sua organização. |
+| [Gerenciar usuários da Creative Cloud](../experience-cloud-assets/t-admin-add-cc-user.md) | Os ativos Experience Cloud permitem que os profissionais de marketing compartilhem, sincronizem e colaborem em pastas com designers e outros ativos criativos usando o Creative Cloud. Gerencie aqui os usuários da Creative Cloud aprovados para colaborar com sua organização. |
 | [Mapear os conjuntos de relatórios](../core-services/core-services.md) | (Somente no Analytics) Os serviços principais da Experience Cloud estão associados a uma organização em vez de a um conjunto de relatórios individual. Para garantir o funcionamento correto desses serviços, cada conjunto de relatórios do Analytics deve ser mapeado para uma organização. (Essa tarefa faz parte de um fluxo de trabalho mais amplo para [habilitar o Analytics para os serviço principais](../core-services/core-services.md#concept_07ED1D5C64234E77976E6D572E78FB9C)). |
 | [ID da organização](../admin-getting-started/organizations.md) | A *ID da organização* está localizada na parte inferior da página Administração. Essa ID é a ID associada à empresa provisionada pela Experience Cloud. A ID é uma sequência de 24 caracteres alfanuméricos seguidos por (e deve incluir) @AdobeOrg. |
 
@@ -151,5 +151,5 @@ Amostra do URL:
 | Parâmetro | Descrição | Exemplo | Obrigatório / Opcional |
 |--- |--- |--- |--- |
 | tenantId | Nome do locatário ao qual o usuário deve se conectar. | aem62tenant | Opcional |
-| destURL | O URL completo do local para o qual o usuário deve ser direcionado. | https://sc.omniture.com/x/1_7xxzf | Opcional |
+| destURL | O URL completo do local para o qual o usuário deve ser direcionado. | https://sc.omniture.com/login?r=%2Fx%2F1_7xxzf&amp;tenantId=obuengsc&amp;company=OBU+Eng+SC | Opcional |
 | solutionname | Nome da Solução MAC proprietária do parâmetro destURL. É usado para verificar se o usuário tem acesso à solução proprietária do URL.  As soluções são responsáveis por verificar se solutionname está sincronizado com o parâmetro destURL.  Por exemplo: se o URL contiver solutionname como social e o destURL fornecido for um URL do Analytics, o usuário será redirecionado para o URL mesmo se ele não tiver acesso ao Analytics. O MAC NÃO verifica se o proprietário do destURL está sincronizado com o nome da solução. | analytics | Obrigatório se o parâmetro destURL for usado. |

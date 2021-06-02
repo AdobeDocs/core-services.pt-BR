@@ -9,17 +9,16 @@ topic: Administração
 role: Administrator
 level: Experienced
 exl-id: 169b5c67-aab6-4b2a-832e-c5998d796bf7
-translation-type: ht
-source-git-commit: f4add6d5e64678c6b578237c18ceda9ee2245033
-workflow-type: ht
-source-wordcount: '334'
-ht-degree: 100%
+source-git-commit: f720e37b693da2c657cb1efab45620c60bfa81a4
+workflow-type: tm+mt
+source-wordcount: '335'
+ht-degree: 85%
 
 ---
 
 # Sobre cookies e privacidade {#about-cookies-and-privacy}
 
-A manutenção da privacidade do cliente e da segurança de dados são as principais prioridades da Adobe. A Adobe participa de várias organizações de privacidade e coopera com reguladores de privacidade e princípios autorreguladores (como o programa Digital Advertising Alliance AdChoices) para fornecer aos clientes informações sobre como suas informações são usadas e opções sobre o uso.
+A manutenção da privacidade do cliente e da segurança de dados são as principais prioridades da Adobe. O Adobe participa de várias organizações de privacidade e coopera com reguladores de privacidade e princípios autorreguladores. Essa cooperação inclui o programa Digital Advertising Alliance AdChoices para fornecer aos clientes informações sobre como as informações são usadas e opções sobre o uso.
 
 A maioria dos cookies definida pelos produtos da Experience Cloud não contém informações pessoalmente identificáveis. Esses cookies e dados associados são seguros e usados apenas para seus relatórios de empresa e para fornecer conteúdo e anúncios relevantes. Os dados não estão disponíveis para terceiros ou outros clientes da Adobe, a menos que sejam usados em relatórios agregados do setor. Por exemplo, a [!DNL Digital Marketing Insight Report] analisa dados agregados e anônimos entre varejistas.
 

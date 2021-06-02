@@ -9,17 +9,16 @@ topic: Administração
 role: Administrator
 level: Experienced
 exl-id: 776d1fd3-c733-4970-a76b-4c3c0119ee77
-translation-type: ht
-source-git-commit: f4add6d5e64678c6b578237c18ceda9ee2245033
-workflow-type: ht
+source-git-commit: f720e37b693da2c657cb1efab45620c60bfa81a4
+workflow-type: tm+mt
 source-wordcount: '472'
-ht-degree: 100%
+ht-degree: 89%
 
 ---
 
 # Validar o esquema
 
-O processo de validação permite mapear os nomes de exibição e as descrições aos atributos carregados (sequências, números inteiros, números e assim por diante). Um esquema é criado com base nessas configurações. O esquema é usado para validar todos os dados futuros carregados nessa fonte de dados. Esse processo de mapeamento não altera os dados originais.
+O processo de validação permite mapear os nomes de exibição e as descrições aos atributos carregados (sequências, números inteiros, números e assim por diante). Um esquema é criado com base nessas configurações. O esquema é usado para validar todos os dados futuros carregados nessa fonte de dados. O processo de mapeamento não altera os dados originais.
 
 >[!NOTE]
 >
@@ -47,9 +46,9 @@ Na página [!UICONTROL Validar esquema], cada linha do esquema representa uma co
 
    * **[!UICONTROL AVID (ID de visitante do Analytics):]** exibe se você usa uma prop ou eVar para fazer upload das CIDs. Se essas IDs forem transmitidas para a Experience Cloud, todas as IDs de visitante associadas à CID inseridas serão exibidas aqui.
 
-Também é possível fazer upload dos dados via FTP após criar uma fonte de atributo do cliente e uma conta FTP na Experience Cloud. É possível criar uma conta FTP por fonte de atributo. Os arquivos carregados são armazenados na pasta raiz dessa conta. Os dados devem estar em formato .csv, com um segundo arquivo .fin para indicar que o upload foi concluído.
+Também é possível fazer upload dos dados via FTP após criar uma fonte de atributo do cliente e uma conta FTP na Experience Cloud. É possível criar uma conta FTP por fonte de atributo. Os arquivos carregados são armazenados na pasta raiz dessa conta. Os dados devem estar no formato `.csv`, com um segundo arquivo `.fin` para indicar que o upload foi concluído
 
-Os nomes aplicados às sequências, números inteiros e números são usados para criar as métricas do [!DNL Analytics]. Consulte [Relatórios de atributos do cliente](https://docs.adobe.com/content/help/pt-BR/core-services/interface/customer-attributes/attributes.html) na ajuda do [!DNL Analytics] para obter mais informações.
+Os nomes aplicados às sequências, números inteiros e números são usados para criar as métricas do [!DNL Analytics]. Consulte [Relatórios de atributos do cliente](https://experienceleague.adobe.com/docs/analytics/components/variables/dimensions-reports/reports-customer-attributes.html?lang=en) na ajuda do [!DNL Analytics] para obter mais informações.
 
 * **[!UICONTROL Atributo:]** Os dados do atributo lidos no arquivo `.csv` carregado.
 
@@ -61,6 +60,6 @@ Os nomes aplicados às sequências, números inteiros e números são usados par
 
    * **Números:** pode ter até duas casas decimais.
 
-* **[!UICONTROL Nome de exibição:]** Um nome amigável para o atributo. Por exemplo, você pode alterar a idade de um atributo *idade do cliente* para *Cliente desde*.
+* **[!UICONTROL Nome de exibição:]** Um nome amigável para o atributo. Por exemplo, você pode alterar um atributo *idade do cliente* para *Cliente desde*.
 
 * **[!UICONTROL Descrição:]** Uma descrição amigável do atributo.

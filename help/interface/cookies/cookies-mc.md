@@ -9,11 +9,10 @@ topic: Administração
 role: Administrator
 level: Experienced
 exl-id: bd9bea58-9987-40d6-84e0-da185388bbbb
-translation-type: ht
-source-git-commit: f4add6d5e64678c6b578237c18ceda9ee2245033
-workflow-type: ht
-source-wordcount: '348'
-ht-degree: 100%
+source-git-commit: f720e37b693da2c657cb1efab45620c60bfa81a4
+workflow-type: tm+mt
+source-wordcount: '347'
+ht-degree: 96%
 
 ---
 
@@ -60,9 +59,9 @@ A Adobe Experience Cloud usa cookies para armazenar a ID do visitante usada nas 
 
 **Nome do cookie: AMCV_###@AdobeOrg**
 
-O [Serviço de ID da Experience Platform](https://docs.adobe.com/content/help/pt-BR/id-service/using/home.html) usa o JavaScript para armazenar um identificador de visitante único em um cookie `AMCV_###@AdobeOrg` no domínio do site atual, onde `###` representa uma cadeia aleatória de caracteres, como `AMCV_1FD6776A524453CC0A490D44%40AdobeOrg.`
+O [Serviço de ID da Experience Platform](https://experienceleague.adobe.com/docs/id-service/using/home.html?lang=en) usa o JavaScript para armazenar um identificador de visitante único em um cookie `AMCV_###@AdobeOrg` no domínio do site atual, onde `###` representa uma cadeia aleatória de caracteres, como `AMCV_1FD6776A524453CC0A490D44%40AdobeOrg.`
 
-Consulte [Cookies e o serviço da ID](https://docs.adobe.com/content/help/pt-BR/id-service/using/intro/cookies.html).
+Consulte [Cookies e o serviço da ID](https://experienceleague.adobe.com/docs/id-service/using/intro/cookies.html?lang=en).
 
 <table id="table_1883C0836C1E4AF5A262FBF5000C1B11"> 
  <thead> 
@@ -93,7 +92,7 @@ Consulte [Cookies e o serviço da ID](https://docs.adobe.com/content/help/pt-BR/
    <td colname="col2"> <p> Varia, a maioria dos clientes pode esperar que esse cookie tenha cerca de 200 bytes de comprimento. </p> </td> 
   </tr> 
   <tr> 
-   <td colname="col1"> <p>Nenhum valor adicionado. O Chrome assumirá Lax como padrão. </p> </td> 
+   <td colname="col1"> <p>Nenhum valor adicionado. O padrão do Chrome é Lax. </p> </td> 
    <td colname="col2"> <p> Os cookies com essa configuração só são enviados quando o domínio exibido no URL do navegador corresponde ao domínio do cookie. Este é o novo padrão para cookies no Chrome. </p> </td> 
   </tr> 
  </tbody> 

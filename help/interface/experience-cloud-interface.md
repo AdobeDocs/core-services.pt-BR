@@ -6,7 +6,7 @@ feature: '"Componentes da interface central"'
 topic: Administração
 role: Administrator, User
 level: Beginner, Intermediate, Experienced
-source-git-commit: 5a9b2f287253d8a405e6a530a3b91cfdad7f092a
+source-git-commit: b6282dfdfc37e2767802d4ce50bdd734141b521e
 workflow-type: tm+mt
 source-wordcount: '434'
 ht-degree: 7%
@@ -23,7 +23,7 @@ Os componentes do Experience Cloud incluem:
 
 ## Faça logon na Experience Cloud
 
-Faça logon e verifique se você está na [organização](admin-getting-started/organizations.md) correta.
+Faça logon e verifique se você está na [organização](organizations.md) correta.
 
 1. Navegue até [Adobe Experience Cloud](https://experience.adobe.com).
 1. Clique em **[!UICONTROL Fazer logon com uma Adobe ID]**.
@@ -31,7 +31,7 @@ Faça logon e verifique se você está na [organização](admin-getting-started/
 
    ![](assets/organizations-menu.png)
 
-   O administrador pode ajudá-lo a verificar se você está na [organização](admin-getting-started/organizations.md) correta.
+   O administrador pode ajudá-lo a verificar se você está na [organização](organizations.md) correta.
 
 ## Acessar aplicativos Experience Cloud {#navigation}
 
@@ -59,7 +59,7 @@ O menu [!UICONTROL Ajuda] também dá acesso a:
 No menu de preferências da conta, é possível:
 
 * Especifique um tema escuro (nem todas as aplicações suportam este tema)
-* Pesquisar por [Organizações](admin-getting-started/organizations.md)
+* Pesquisar por [Organizações](organizations.md)
 * Fazer logoff
 * Configurar as preferências, notificações e assinaturas [da conta](#preferences)
 
@@ -75,7 +75,7 @@ Em [!UICONTROL Experience Cloud preferences], você pode configurar os seguintes
 
 | Recurso | Descrição |
 |--- |--- |
-| Padrão [organização](admin-getting-started/organizations.md) | Selecione a organização que deseja ver ao iniciar o Experience Cloud. |
+| Padrão [organização](organizations.md) | Selecione a organização que deseja ver ao iniciar o Experience Cloud. |
 | [!UICONTROL Subscrições] | Selecione os produtos e categorias que deseja assinar. Notificações no pop-over [!UICONTROL Notificações] e em seu email. |
 | [!UICONTROL Priority] | Selecione as categorias que você deseja que sejam consideradas de alta prioridade. Essas categorias são marcadas com uma tag High e podem ser configuradas para entrega, como alertas. |
 | [!UICONTROL Alertas] | Selecione as notificações para as quais deseja ver alertas exibidos em seu navegador. Os alertas são exibidos no canto superior direito da janela por alguns segundos. |

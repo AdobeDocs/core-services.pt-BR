@@ -9,10 +9,10 @@ topic: Administração
 role: Administrator
 level: Experienced
 exl-id: e2dfe10d-7003-4afa-a5e6-57703d74efd4
-source-git-commit: ebefd433e96da422674e7ee71c8988d4011fed11
+source-git-commit: eef7326f9f04f68eefb60b5d9fd4cc91cbe52119
 workflow-type: tm+mt
 source-wordcount: '1198'
-ht-degree: 78%
+ht-degree: 69%
 
 ---
 
@@ -36,7 +36,7 @@ Os atributos do cliente foram criados para lidar com alguns arquivos por dia. Pa
  <tbody> 
   <tr> 
    <td colname="col1"> <p> <span class="filepath"> .csv </span> </p> </td> 
-   <td colname="col2"> <p>Um arquivo de valores separados por vírgula (como um criado no Excel). Esse arquivo contém os dados do atributo do cliente. </p> <p> <b>Requisitos de nomenclatura:</b> verifique se as extensões de nome do arquivo não contêm espaços em branco. </p> </td> 
+   <td colname="col2"> <p>Um arquivo de valores separados por vírgula (como um criado no Excel). Esse arquivo contém os dados do Atributo do cliente. </p> <p> <b>Requisitos de nomenclatura:</b> verifique se as extensões de nome do arquivo não contêm espaços em branco. </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p> <span class="filepath"> .fin </span> </p> </td> 
@@ -85,7 +85,7 @@ O mesmo arquivo exibido em um editor de texto:
   </tr> 
   <tr> 
    <td colname="col1"> <p>Limites do atributo </p> </td> 
-   <td colname="col2"> <p>Você pode fazer upload de centenas de colunas de <span class="filepath">.csv</span> para o serviço de atributos do cliente na Experience Cloud. No entanto, ao configurar assinaturas e selecionar atributos, os seguintes limites poderão ser aplicados dependendo das suas soluções: </p> <p> 
+   <td colname="col2"> <p>Você pode fazer upload de centenas de colunas de <span class="filepath"> .csv </span> para o serviço de Atributo do cliente no Experience Cloud. No entanto, ao configurar assinaturas e selecionar atributos, os seguintes limites poderão ser aplicados dependendo das suas soluções: </p> <p> 
      <ul id="ul_2BB85067918D4BB3B59394F3E3E37A6D"> 
       <li id="li_93703988B9934384B4B94A839D028380"> <b>Analytics Standard</b>: 3 total </li> 
       <li id="li_D1E5E7BD24C54591B14D15DE97447835"> <b>Analytics Premium</b>: 200 por conjunto de relatórios </li> 
@@ -121,7 +121,7 @@ O mesmo arquivo exibido em um editor de texto:
   </tr> 
   <tr> 
    <td colname="col1"> <p>Vários arquivos </p> </td> 
-   <td colname="col2"> <p>Ao carregar os dados do atributo do cliente, se você tiver vários arquivos que deseja fazer upload rapidamente e, em particular, se os arquivos forem grandes, verifique se o arquivo anterior foi processado antes de fazer upload do próximo arquivo. Você pode monitorar isso verificando quando o arquivo anterior foi movido para a pasta processada ou com falha na conta FTP da [!UICONTROL Customer Attributes]. </p> <p> Dividir um arquivo grande em arquivos menores e enviá-los rapidamente pode, na verdade, atrasar o processamento, a menos que seja possível garantir que cada arquivo seja processado antes de enviar o próximo. </p> </td> 
+   <td colname="col2"> <p>Ao fazer upload dos dados de Atributo do cliente, se você tiver vários arquivos que deseja fazer upload rapidamente e, especialmente, se os arquivos forem grandes, verifique se o arquivo anterior foi processado antes de fazer upload do próximo arquivo. Você pode monitorar isso verificando quando o arquivo anterior foi movido para a pasta processada ou com falha na conta FTP da [!UICONTROL Customer Attributes]. </p> <p> Dividir um arquivo grande em arquivos menores e enviá-los rapidamente pode, na verdade, atrasar o processamento, a menos que seja possível garantir que cada arquivo seja processado antes de enviar o próximo. </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p>Codificação de caracteres </p> </td> 
@@ -140,9 +140,9 @@ O mesmo arquivo exibido em um editor de texto:
 
 ## Uso de várias fontes de dados {#section_76DEB6001C614F4DB8BCC3E5D05088CB}
 
-Ao criar, modificar ou excluir fontes de atributos do cliente, ocorre um atraso de até uma hora antes de as IDs começarem a sincronizar com a nova fonte de dados.
+Ao criar, modificar ou excluir fontes de atributos do cliente, ocorre um atraso de cerca de uma hora antes de as IDs começarem a sincronizar com a nova fonte de dados.
 
-A ID do alias de cada fonte de atributo do cliente deve ser exclusiva. Se você tiver várias fontes de dados que usam a mesma ID, elas poderão ser configuradas da seguinte maneira:
+A ID de alias de cada fonte de atributo do cliente deve ser exclusiva. Se você tiver várias fontes de dados que usam a mesma ID, elas poderão ser configuradas da seguinte maneira:
 
 **Em VisitorAPI.js ou na ferramenta da Experience Cloud ID no Dynamic Tag Management:**
 
@@ -159,4 +159,4 @@ Visitor.setCustomerIDs({
 
 Em **[!UICONTROL Experience Cloud]** > **[!UICONTROL People]** > **[!UICONTROL Atributos do cliente]**:
 
-Crie duas fontes de atributos de clientes usando IDs de aliases exclusivos que correspondentes às IDs de cliente apresentadas acima. Usar este método permite que a mesma ID de referência seja enviada para diversas fontes de atributos do cliente.
+Crie duas fontes de atributos de clientes usando IDs de aliases exclusivos que correspondentes às IDs de cliente apresentadas acima. Usar esse método permite que a mesma ID de referência seja enviada para várias fontes de atributos do cliente.

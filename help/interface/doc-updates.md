@@ -9,10 +9,10 @@ topic: Administração
 role: Administrator
 level: Experienced
 exl-id: 11cc5005-8ec0-4308-bc94-0f78666ea645
-source-git-commit: 7732fe63bdaa71446e06b3045de1cc632a844a0d
+source-git-commit: eef7326f9f04f68eefb60b5d9fd4cc91cbe52119
 workflow-type: tm+mt
 source-wordcount: '247'
-ht-degree: 89%
+ht-degree: 86%
 
 ---
 
@@ -53,7 +53,7 @@ Adição de [Exibir detalhes do usuário da Experience Cloud (Ferramenta adminis
 
 **Atualizado: 5/9/2018**
 
-Adição de como excluir um atributo do cliente. Consulte [(Opcional) Atualizar o esquema (excluir atributos)](t-crs-usecase.md#task_6568898BB7C44A42ABFB86532B89063C).
+Adição de como excluir um Atributo do cliente. Consulte [(Opcional) Atualizar o esquema (excluir atributos)](t-crs-usecase.md#task_6568898BB7C44A42ABFB86532B89063C).
 
 **Atualizado: 8/6/20118**
 

@@ -7,14 +7,14 @@ topic: Administração
 role: Administrator
 level: Experienced
 exl-id: 020a6478-13ef-42c0-80de-7867cfe0c937
-source-git-commit: 7732fe63bdaa71446e06b3045de1cc632a844a0d
+source-git-commit: eef7326f9f04f68eefb60b5d9fd4cc91cbe52119
 workflow-type: tm+mt
 source-wordcount: '430'
 ht-degree: 69%
 
 ---
 
-# Sobre a Experience Cloud {#topic_C1087DCC538F4F9A99D983C1BB29EBE0}
+# Serviços da Experience Cloud {#topic_C1087DCC538F4F9A99D983C1BB29EBE0}
 
 Os serviços da Adobe Experience Cloud incluem o [!UICONTROL People] (públicos-alvo e atributos do cliente), Experience Platform Launch e Mobile Services. Você também pode encontrar ajuda para gerenciar usuários e produtos da Experience Cloud.
 

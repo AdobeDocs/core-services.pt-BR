@@ -1,5 +1,5 @@
 ---
-description: Saiba como fazer upload dos dados de atributos do cliente via FTP na Experience Cloud.
+description: Saiba como fazer upload dos dados de atributos do cliente via FTP para o Experience Cloud.
 keywords: Atributos do cliente;serviços principais
 solution: Experience Cloud
 title: 'Fazer upload do arquivo de dados do atributo do cliente via FTP '
@@ -9,18 +9,18 @@ topic: Administração
 role: Administrator
 level: Experienced
 exl-id: ed9e4a8f-493a-4a0f-a87e-674c7da95b99
-source-git-commit: ebefd433e96da422674e7ee71c8988d4011fed11
+source-git-commit: eef7326f9f04f68eefb60b5d9fd4cc91cbe52119
 workflow-type: tm+mt
 source-wordcount: '271'
-ht-degree: 90%
+ht-degree: 67%
 
 ---
 
 # Opcional - Fazer upload do arquivo de dados via FTP
 
-Se você não fizer upload usando a função arrastar e soltar, será possível fazer upload do atributo do cliente via FTP na Experience Cloud.
+Se você não fizer upload usando o recurso arrastar e soltar, será possível fazer upload dos dados de atributos do cliente via FTP no Experience Cloud.
 
-Você pode fazer upload dos dados depois de criar uma fonte de atributo do cliente e uma conta FTP na Experience Cloud. É possível criar uma conta FTP por fonte de atributo. Os arquivos carregados são armazenados na pasta raiz dessa conta. Os dados devem estar no formato `.csv`, com um segundo arquivo `.fin` para indicar que o upload foi concluído.
+Você pode fazer upload dos dados depois de criar uma fonte de atributos do cliente e uma conta FTP no Experience Cloud. É possível criar uma conta FTP por fonte de atributo. Os arquivos carregados são armazenados na pasta raiz dessa conta. Os dados devem estar no formato `.csv`, com um segundo arquivo `.fin` para indicar que o upload foi concluído.
 
 >[!IMPORTANT]
 >

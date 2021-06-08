@@ -1,18 +1,18 @@
 ---
-description: Saiba como validar o esquema de atributo do cliente na Adobe Experience Cloud.
+description: Saiba como validar o esquema Atributo do cliente no Adobe Experience Cloud.
 keywords: Atributos do cliente;serviços da Experience Cloud
 solution: Experience Cloud
-title: 'Como validar o esquema de atributo do cliente '
+title: 'Como validar o esquema Atributo do cliente '
 uuid: 163a4dbe-d60b-4089-8ff8-65f7461fbdf7
 feature: 'Atributos do cliente '
 topic: Administração
 role: Administrator
 level: Experienced
 exl-id: 776d1fd3-c733-4970-a76b-4c3c0119ee77
-source-git-commit: ebefd433e96da422674e7ee71c8988d4011fed11
+source-git-commit: eef7326f9f04f68eefb60b5d9fd4cc91cbe52119
 workflow-type: tm+mt
 source-wordcount: '453'
-ht-degree: 91%
+ht-degree: 82%
 
 ---
 
@@ -46,7 +46,7 @@ Na página [!UICONTROL Validar esquema], cada linha do esquema representa uma co
 
    * **[!UICONTROL AVID (ID de visitante do Analytics):]** exibe se você usa uma prop ou eVar para fazer upload das CIDs. Se essas IDs forem transmitidas para a Experience Cloud, todas as IDs de visitante associadas à CID inseridas serão exibidas aqui.
 
-Também é possível fazer upload dos dados via FTP após criar uma fonte de atributo do cliente e uma conta FTP na Experience Cloud. É possível criar uma conta FTP por fonte de atributo. Os arquivos carregados são armazenados na pasta raiz dessa conta. Os dados devem estar no formato `.csv`, com um segundo arquivo `.fin` para indicar que o upload foi concluído.
+Também é possível fazer upload dos dados via FTP após criar uma fonte de atributos do cliente e uma conta FTP no Experience Cloud. É possível criar uma conta FTP por fonte de atributo. Os arquivos carregados são armazenados na pasta raiz dessa conta. Os dados devem estar no formato `.csv`, com um segundo arquivo `.fin` para indicar que o upload foi concluído.
 
 Os nomes aplicados às sequências, números inteiros e números são usados para criar as métricas do [!DNL Analytics]. 
 

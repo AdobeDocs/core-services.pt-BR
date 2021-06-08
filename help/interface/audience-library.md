@@ -9,14 +9,14 @@ topic: Administração
 role: Administrator
 level: Experienced
 exl-id: 1c6e54ac-4886-46ed-9df7-201d2df31847
-source-git-commit: ebefd433e96da422674e7ee71c8988d4011fed11
+source-git-commit: eef7326f9f04f68eefb60b5d9fd4cc91cbe52119
 workflow-type: tm+mt
 source-wordcount: '819'
-ht-degree: 87%
+ht-degree: 86%
 
 ---
 
-# Públicos-alvo da Experience Cloud {#topic_679810123CAA4E0CA4FA3417FB0100C7}
+# Experience Cloud audiences {#topic_679810123CAA4E0CA4FA3417FB0100C7}
 
 Os públicos-alvo são coleções de visitantes (uma lista de IDs de visitante). A biblioteca de público-alvo da Adobe permite gerenciar a conversão dos dados do visitante em segmentação do público-alvo. Dessa forma, a criação e o gerenciamento de públicos é semelhante à criação e ao uso de segmentos. Você também pode compartilhar o segmento de público-alvo com produtos e serviços na [!DNL Experience Cloud].
 
@@ -28,7 +28,7 @@ Os públicos-alvo podem ser criados ou derivados de várias fontes, como:
 * Segmentos do [!DNL Analytics] publicados na [!DNL Experience Cloud]
 * [!DNL Audience Manager]
 
-**Públicos-alvo em tempo real vs. históricos**
+**Públicos-alvo em tempo real versus históricos**
 
 Todos os públicos-alvo, independentemente de sua fonte, podem ser acessados para casos de uso de direcionamento em tempo real. No entanto, os públicos-alvo compartilhados do Analytics para o Audience Manager não estão acessíveis para o direcionamento em tempo real. O sistema avalia os públicos-alvo de duas maneiras:
 

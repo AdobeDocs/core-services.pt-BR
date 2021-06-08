@@ -8,11 +8,10 @@ topic: Administração
 role: Administrator
 level: Experienced
 exl-id: caf2ff76-2076-436d-a5a7-aff531464480
-translation-type: ht
-source-git-commit: f4add6d5e64678c6b578237c18ceda9ee2245033
-workflow-type: ht
-source-wordcount: '383'
-ht-degree: 100%
+source-git-commit: c7ed1324015beb7ebcf7a4ee21b05601e36e608f
+workflow-type: tm+mt
+source-wordcount: '384'
+ht-degree: 88%
 
 ---
 
@@ -22,7 +21,7 @@ Implemente a pré-busca DNS para ajudar a reduzir o tempo de carregamento da pá
 
 ## Noções básicas da pré-busca DNS {#section_772BF9CB7C4141DE9B0355146E2CD962}
 
-Os navegadores usam a pré-busca DNS para resolver automaticamente os nomes de domínio vinculados em uma página da Web aos endereços IP correspondentes. O processo de pré-busca é inciado quando o navegador carrega uma página da Web. Como exemplo, considere que sua página contém um link clicável para `www.adobe.com`. Quando um navegador carrega essa página, ele usa o [sistema DNS](https://www.networksolutions.com/support/what-is-a-domain-name-server-dns-and-how-does-it-work/) para buscar o nome do domínio vinculado e resolvê-lo em um endereço IP numérico correspondente. A pré-busca DNS ajuda a melhorar o desempenho da página porque o nome do domínio já está resolvido a um endereço IP antes que um visitante do site clique nesse link ou botão. O processo de pré-busca DNS é transparente para os usuários.
+Os navegadores usam a pré-busca DNS para resolver automaticamente os nomes de domínio vinculados em uma página da Web aos endereços IP correspondentes. O processo de pré-busca é inciado quando o navegador carrega uma página da Web. Como exemplo, suponha que sua página contenha um link clicável para `www.adobe.com`. Quando um navegador carrega essa página, ele usa o [sistema DNS](https://www.networksolutions.com/support/what-is-a-domain-name-server-dns-and-how-does-it-work/) para buscar o nome do domínio vinculado e resolvê-lo em um endereço IP numérico correspondente. A pré-busca DNS ajuda a melhorar o desempenho da página porque o nome do domínio já está resolvido a um endereço IP antes que um visitante do site clique nesse link ou botão. O processo de pré-busca DNS é transparente para os usuários.
 
 ## Pré-busca DNS e soluções da Adobe Experience Cloud {#section_202A07F9F79F4ABDA44B98BA1DDCD516}
 
@@ -35,7 +34,7 @@ No entanto, é possível implementar a pré-busca DNS manualmente com as soluç�
 
 ## Amostras de código de pré-busca DNS {#section_E886F7B2861E48BA9EF3D8B3CE32B345}
 
-Os seguintes exemplos mostram como fazer chamadas de pré-busca DNS para soluções e serviços diferentes da [!DNL Experience Cloud]. Algumas chamadas de pré-busca exigem a ID da organização da [!DNL Adobe] ou as informações do servidor de rastreamento. Nesses exemplos, o código em *itálico* representa um espaço reservado de variável. Você pode substituir esse código pela sua ID de parceiro da [!DNL Adobe], pelo código do cliente ou pelas informações do servidor de rastreamento etc.
+Os seguintes exemplos mostram como fazer chamadas de pré-busca DNS para soluções e serviços diferentes da [!DNL Experience Cloud]. Algumas chamadas de pré-busca exigem a ID da organização da [!DNL Adobe] ou as informações do servidor de rastreamento. Nesses exemplos, o código em *itálico* representa um espaço reservado de variável. Você substituiria esse código pela sua ID de parceiro [!DNL Adobe], pelo código do cliente ou pelas informações do servidor de rastreamento etc.
 
 * **Analytics:** `<link rel="dns-prefetch" href="//insert tracking server name here">`.
 
@@ -45,9 +44,9 @@ Os seguintes exemplos mostram como fazer chamadas de pré-busca DNS para soluç�
 
 * **Serviço da Experience Cloud ID:** `<link rel="dns-prefetch" href="//fast. *`insira a ID do parceiro aqui`*.demdex.net">`
 
-* **Gerenciador dinâmico de tags** (DTM): Não obrigatório. Os links de DTM estão disponíveis assim que a página é carregada.
+* **Gerenciador dinâmico de tags** (DTM): Não obrigatório. Os links do DTM estão disponíveis quando a página é carregada.
 
-* **Media Optimizer (Ad Cloud):**
+* **Media Otimizer (Advertising Cloud):**
 
    * `<link rel="dns-prefetch" href="//pixel.everesttech.net">`
    * `<link rel="dns-prefetch" href="//cm.everesttechnet">`

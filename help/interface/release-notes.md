@@ -9,20 +9,27 @@ topic: Administração
 role: Administrator
 level: Experienced
 exl-id: b71d144c-a097-4cdb-9721-671519d38aff
-source-git-commit: eef7326f9f04f68eefb60b5d9fd4cc91cbe52119
+source-git-commit: f28f7f7824981b76fd05b8fb4eab874b04312712
 workflow-type: tm+mt
-source-wordcount: '4094'
-ht-degree: 90%
+source-wordcount: '4189'
+ht-degree: 88%
 
 ---
 
 # Notas de versão cumulativas
 
-Recursos, notas de versão e problemas conhecidos da interface da Experience Cloud.
+Recursos, notas de versão e problemas conhecidos dos Componentes da interface central do Experience Cloud.
 
 Para obter uma lista de atualizações de documentação, consulte [Experience Cloud](doc-updates.md#concept_4C8983FCD23848A4B1E4C2D99ED82784).
 
 Para obter as notas de versão que abrangem todas as soluções, consulte [Notas de versão da Experience Cloud](https://experienceleague.adobe.com/docs/release-notes/experience-cloud/current.html?lang=en).
+
+## Junho - 2021
+
+| Recurso | Data | Descrição |
+| ------- | ------- | ------- |
+| Suporte para logon único para Adobe Federated IDs | 17 de junho de 2021 | Se você usa Federated IDs, é possível fazer logon no Experience Cloud sem precisar inserir um endereço de email ou senha. Para usar esse recurso, adicione `#/sso:@domain` ao URL do Experience Cloud. <br>Por exemplo, suponha que você seja o proprietário do domínio  `adobecustomer.com` e queira fazer logon no Adobe Analytics. O URL seria: `https://experience.adobe.com/#/sso:@adobecustomer.com/analytics`. |
+| Pesquisa Experience League | 1 de junho de 2021 | A pesquisa da documentação do Experience League foi aprimorada. Navegue até [Experience League](https://experienceleague.corp.adobe.com/docs/?lang=en) e use o campo **[!UICONTROL Pesquisar]** para localizar tutoriais, documentação, cursos e muito mais. |
 
 ## Maio - 2021
 

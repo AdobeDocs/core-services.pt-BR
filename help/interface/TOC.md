@@ -7,7 +7,7 @@ index: true
 source-git-commit: 62c49148ec5dfc945f946cea9a5948a8be781111
 workflow-type: tm+mt
 source-wordcount: '344'
-ht-degree: 78%
+ht-degree: 80%
 
 ---
 
@@ -23,7 +23,7 @@ ht-degree: 78%
       + [Criar um público-alvo](t-audience-create.md)
       + [Publicar um segmento de público-alvo do Analytics](t-publish-audience-segment.md)
    + Atributos do cliente da Experience Cloud {#customer-attributes}
-      + [Atributos do cliente  visão geral](attributes.md)
+      + [Atributos do cliente visão geral](attributes.md)
       + [Perguntas frequentes sobre atributos do cliente](faq-crs.md)
       + [Sobre arquivo de dados e fonte de dados para atributos do cliente](crs-data-file.md)
       + [Crie uma fonte de atributo do cliente e faça upload do arquivo de dados](t-crs-usecase.md)
@@ -36,7 +36,7 @@ ht-degree: 78%
       + [Considerações de privacidade para atributos do cliente](privacy-mac.md)
    + Experience Cloud Activation {#activation}
       + [Visão geral de Activation](activation.md)
-      + [Guia do usuário da Experience Platform Launch](https://experienceleague.adobe.com/docs/launch/using/home.html?lang=en)
+      + [Guia do usuário da Experience Platform Launch](https://experienceleague.adobe.com/docs/launch/using/home.html?lang=pt-BR)
       + [Triggers](triggers.md)
    + Ativos da Experience Cloud {#assets}
       + [Visão geral de ativos da Experience Cloud](experience-cloud-assets.md)
@@ -64,9 +64,9 @@ ht-degree: 78%
       + [Cookies do [!UICONTROL Data Workbench]](cookies-insight.md)
       + [Cookies da Experience Cloud](cookies-mc.md)
       + [Cookies da Advertising Cloud](cookies-advertising-cloud.md)
-      + [[!DNL Scene7] cookies](cookies-s7.md)
-      + [[!DNL Search and Promote] cookies](cookies-snp.md)
-      + [[!DNL Target] cookies](cookies-target.md)
+      + [Cookies do [!DNL Scene7]](cookies-s7.md)
+      + [Cookies do [!DNL Search and Promote]](cookies-snp.md)
+      + [Cookies do [!DNL Target]](cookies-target.md)
       + [Ativar as configurações de privacidade de cookies do navegador](browser-cookie-settings.md)
       + [Como as alterações no suporte a cookies de terceiros afetam os clientes ](cookies-thirdparty.md)
 + Notas de versão da interface do usuário do Experience Cloud {#release-notes}

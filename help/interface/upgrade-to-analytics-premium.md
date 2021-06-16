@@ -9,10 +9,10 @@ feature: Admin Console
 role: Administrator
 level: Experienced
 exl-id: 746d396d-9629-42db-8c55-07d2d24e4611
-source-git-commit: ebefd433e96da422674e7ee71c8988d4011fed11
+source-git-commit: 145040facf70c6bde5c6c3fae9c7ed7f520c188d
 workflow-type: tm+mt
-source-wordcount: '616'
-ht-degree: 70%
+source-wordcount: '625'
+ht-degree: 72%
 
 ---
 
@@ -27,7 +27,7 @@ A atualização para o Adobe Analytics Premium oferece todos os recursos ou prod
 O Analytics Premium oferece:
 
 * Acesso a 250 variáveis de conversão (eVars)
-* [Análise de aplicativos móveis](https://experienceleague.adobe.com/docs/mobile-services/using/home.html?lang=en)
+* [Análise de aplicativos móveis](https://experienceleague.adobe.com/docs/mobile-services/using/home.html?lang=pt-BR)
 * Data Workbench (consulta de dados visuais; atribuição baseada em regras; análise entre canais)
 
 >[!NOTE]
@@ -48,6 +48,8 @@ No Analytics Premium completo, você obtém todos os recursos do [Analytics Prem
 | Data Workbench | <ul><li>Atribuição algorítmica</li><li>Espaços de trabalho pré-criados</li></ul> |
 | Analytics Platform | [Live Stream](https://github.com/AdobeDocs/analytics-1.4-apis/blob/master/docs/live-stream-api/index.md) (dados brutos, painéis, acionadores) |
 
+{style=&quot;table-layout:auto&quot;}
+
 ## Inteligência preditiva {#section_B407932C07A7476F83FB0275C3FB63DC}
 
 Atualizar para Inteligência preditiva permite o [Analytics Premium](upgrade-to-analytics-premium.md#section_7F50AD7906544F899B844BE31D3BB507) e:
@@ -58,6 +60,8 @@ Atualizar para Inteligência preditiva permite o [Analytics Premium](upgrade-to-
 | Data Workbench | Espaços de trabalho pré-criados para qualificações de público-alvo e marketing preditivo |
 | Plataforma do Analytics | Live Stream (painéis e acionadores) |
 
+{style=&quot;table-layout:auto&quot;}
+
 ## Visão completa do cliente {#section_3B2AC245388248688067DC9A48957AFB}
 
 Atualização para ofertas do Customer 360 no [Analytics Premium](upgrade-to-analytics-premium.md#section_7F50AD7906544F899B844BE31D3BB507) e:
@@ -67,6 +71,8 @@ Atualização para ofertas do Customer 360 no [Analytics Premium](upgrade-to-ana
 | [Atributos do cliente](attributes.md) | Atributos do cliente (análise e compartilhamento de segmentos) |
 | Data Workbench | <ul><li>Atributos derivados do cliente</li><li>Espaços de trabalho pré-criados para descoberta de públicos-alvo</li></ul> |
 | Plataforma do Analytics | [Atributos do cliente](attributes.md) |
+
+{style=&quot;table-layout:auto&quot;}
 
 ## Atribuição avançada {#section_9E4986A8389946CCAA7D003268343296}
 

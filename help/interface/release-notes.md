@@ -9,10 +9,10 @@ topic: Administração
 role: Administrator
 level: Experienced
 exl-id: b71d144c-a097-4cdb-9721-671519d38aff
-source-git-commit: 5e8e5a0f70393460442be247b2d9bf7548a32114
+source-git-commit: 145040facf70c6bde5c6c3fae9c7ed7f520c188d
 workflow-type: tm+mt
-source-wordcount: '4190'
-ht-degree: 88%
+source-wordcount: '4199'
+ht-degree: 89%
 
 ---
 
@@ -31,13 +31,15 @@ Para obter as notas de versão que abrangem todas as soluções, consulte [Notas
 | Suporte para logon único para Adobe Federated IDs | 17 de junho de 2021 | Se você usa Federated IDs, é possível fazer logon no Experience Cloud sem precisar inserir um endereço de email ou senha. Para usar esse recurso, adicione `#/sso:@domain` ao URL do Experience Cloud. <br>Por exemplo, suponha que você seja o proprietário do domínio  `adobecustomer.com` e queira fazer logon no Adobe Analytics. O URL seria: `https://experience.adobe.com/#/sso:@adobecustomer.com/analytics`. |
 | Pesquisa Experience League | 1 de junho de 2021 | A pesquisa da documentação do Experience League foi aprimorada. Navegue até [Experience League](https://experienceleague.corp.adobe.com/docs/?lang=en) e use o campo **[!UICONTROL Pesquisar]** para localizar tutoriais, documentação, cursos e muito mais. |
 
+{style=&quot;table-layout:auto&quot;}
+
 ## Maio - 2021
 
 | Recurso | Data | Descrição |
 | ------- | ------- | ------- |
-| Cabeçalho e navegação da Experience Cloud | 20 de maio de 2021 | As atualizações do Adobe Experience Cloud incluem uma alteração no tema claro do cabeçalho, com a capacidade de alternar facilmente para o tema escuro e um link para controlar preferências adicionais do avatar do usuário no cabeçalho do Experience Cloud. Embora nem todos os aplicativos na Experience Cloud sejam compatíveis com temas, esse recurso desbloqueia o suporte a temas futuros. |
-| Pesquisa global da Experience Cloud | 20 de maio de 2021 | Com esta versão, a pesquisa global da Experience Cloud permite pesquisar qualquer documentação, cursos e tutoriais da [Experience League](https://experienceleague.adobe.com/?lang=pt-BR#home). (Atualmente, a pesquisa global está disponível somente para usuários da Experience Platform. A pesquisa global da [!UICONTROL Plataforma] permite procurar qualquer objeto comercial na Experience Cloud, como segmentos, conjuntos de dados, esquemas e muito mais.) |
-| Preferências de idioma da Experience Cloud | 20 de maio de 2021 | Esta atualização inclui a capacidade de definir seus idiomas preferidos na Experience Cloud [Preferências](https://experience.adobe.com/preferences). |
+| Cabeçalho e navegação da Experience Cloud | 20 de maio de 2021 | As atualizações da Adobe Experience Cloud incluem uma alteração no tema claro do cabeçalho, com a capacidade de alternar facilmente para o tema escuro e um link para controlar preferências adicionais do avatar do usuário no cabeçalho da Experience Cloud. Embora nem todos os aplicativos na Experience Cloud sejam compatíveis com temas, esse recurso desbloqueia o suporte a temas futuros. |
+| Pesquisa global da Experience Cloud | 20 de maio de 2021 | Com esta versão, a pesquisa global da Experience Cloud permite pesquisar qualquer documentação, cursos e tutoriais dao [Experience League](https://experienceleague.adobe.com/?lang=pt-BR#home). (Atualmente, a pesquisa global está disponível somente para usuários da Experience Platform. A pesquisa global por [!UICONTROL Platforma] permite procurar qualquer objeto comercial na Experience Cloud, como segmentos, conjuntos de dados, esquemas e muito mais.) |
+| Preferências de idioma da Experience Cloud | 20 de maio de 2021 | Essa atualização inclui a capacidade de definir seus idiomas preferidos nas [Preferências](https://experience.adobe.com/preferences) da Experience Cloud. |
 
 {style=&quot;table-layout:auto&quot;}
 
@@ -46,6 +48,8 @@ Para obter as notas de versão que abrangem todas as soluções, consulte [Notas
 | Recurso | Descrição |
 | -----------| ---------- |
 | Ferramenta administrativa - políticas | Esta página exibe a lista completa das políticas da Experience Cloud na sua organização. Ela fornece informações sobre produtos, instâncias, usuários e desenvolvedores. Pesquise, classifique e filtre exibições personalizadas da lista de políticas. Consulte a ajuda da [Ferramenta de administração da Experience Cloud](admin-tool-experience-cloud.md) para obter detalhes. |
+
+{style=&quot;table-layout:auto&quot;}
 
 ## Abril - 2020
 
@@ -57,6 +61,8 @@ Para obter as notas de versão que abrangem todas as soluções, consulte [Notas
 | Recurso | Descrição |
 | -----------| ---------- |
 | Ferramenta de administração - exibir detalhes do usuário | Os administradores podem exibir uma lista classificável e filtrável de todos os usuários da Experience Cloud e seus detalhes na nova Ferramenta de administração. Os detalhes do usuário incluem o acesso ao produto, as funções e as últimas informações acessadas de um usuário. Consulte a ajuda da [Ferramenta de administração da Experience Cloud](admin-tool-experience-cloud.md) para obter detalhes. |
+
+{style=&quot;table-layout:auto&quot;}
 
 **Correções**
 
@@ -183,7 +189,7 @@ Se você acessar o Dynamic Tag Management por meio da interface **[!UICONTROL Ex
 
 * Correção de um erro que evitou que as descrições de atributos especificadas na página Exibir/Editar esquema (nos atributos do cliente) fossem atualizadas nos Relatórios de análise. (MAC-25985)
 * Correção de um problema que impedia a renderização de miniaturas em ativos que passaram por upload. (MAC-25863)
-* Foi corrigido um problema que impedia a disponibilização de novos segmentos criados nos relatórios e análises da Experience Cloud Audiences. (MAC-25817)
+* Foi corrigido um problema que impedia a disponibilização de novos segmentos criados nos Reports &amp; Analytics da Experience Cloud Audiences. (MAC-25817)
 * Correção de um problema que impedia o compartilhamento do público-alvo no Analytics quando o serviço de ID do visitante era usado. (MAC-25788, MAC-25747)
 * Foi adicionado suporte para caracteres multibyte nos atributos do cliente. (MAC-25552)
 
@@ -218,7 +224,7 @@ Nenhuma informação disponível.
 </table>
 
 * Correção de um problema que impedia a sincronização dos atributos do cliente para alguns clientes.
-* Correção de um problema que impedia a exibição da página [Documentação do produto do Adobe Target](https://experienceleague.adobe.com/docs/target/using/integrate/a4t/a4t.html?lang=en) em japonês.
+* Correção de um problema que impedia a exibição da página [Documentação do produto do Adobe Target](https://experienceleague.adobe.com/docs/target/using/integrate/a4t/a4t.html?lang=pt-BR) em japonês.
 * Foi corrigido um problema que impedia o uso do texto em japonês nos comentários entre a [!DNL Creative Cloud] e a [!DNL Experience Cloud].
 
 ## Versão 15.4.1 - 8 de abril de 2015 {#section_75634120CC934B3381EDEA7F6F976F0A}

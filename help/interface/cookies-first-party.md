@@ -1,6 +1,6 @@
 ---
 description: Saiba como o Adobe Analytics usa cookies para fornecer informações sobre variáveis e componentes que não persistem entre as solicitações de imagem e as sessões do navegador.
-keywords: cookies; privacidade
+keywords: cookies;privacidade
 solution: Experience Cloud,Analytics
 title: '"Cookies próprios "'
 index: y
@@ -10,25 +10,25 @@ topic: Administração
 role: Administrator
 level: Experienced
 exl-id: e15abde5-8027-4aed-a0c1-8a6fc248db5e
-source-git-commit: 11b999ef0c0d4f258e8665eb9c5bf427f5d618c4
+source-git-commit: 145040facf70c6bde5c6c3fae9c7ed7f520c188d
 workflow-type: tm+mt
-source-wordcount: '1576'
-ht-degree: 55%
+source-wordcount: '1579'
+ht-degree: 60%
 
 ---
 
 # Sobre cookies próprios
 
-O Analytics usa cookies para fornecer informações sobre variáveis e componentes que não persistem entre as solicitações de imagem e as sessões do navegador. Sempre que possível, o Adobe usa cookies primários para registrar atividades no site. Para registrar a atividade em sites diferentes, como em outros domínios pertencentes a você, são necessários cookies de terceiros.
+O Analytics usa cookies para fornecer informações sobre variáveis e componentes que não persistem entre as solicitações de imagem e as sessões do navegador. Sempre que possível, a Adobe usa cookies primários para registrar atividades no site. Para registrar a atividade em sites diferentes, como em outros domínios pertencentes a você, são necessários cookies de terceiros.
 
-Muitos navegadores e aplicativos antispyware foram projetados para rejeitar e excluir cookies de terceiros, incluindo cookies usados na coleta de dados [!DNL Analytics]. Para ser compatível com o rastreamento de como seus visitantes interagem com o site, verifique se você configurou a coleta de dados para usar cookies primários:
+Muitos navegadores e aplicativos antispyware foram projetados para rejeitar e excluir cookies de terceiros, incluindo cookies usados na coleta de dados [!DNL Analytics]. Para apoiar o rastreamento de como os visitantes interagem com o seu site, você deve garantir que configurou a coleção de dados para usar cookies primários:
 
 Há duas opções disponíveis para implementar cookies próprios:
 
 * Se você estiver usando o Experience Platform Identity Service (Serviço ECID), ele define cookies automaticamente no contexto primário usando JavaScript.
 * Se estiver usando [!DNL Analytics] identificadores herdados (também conhecido como cookie `s_vi`), isso dependerá de como você configurou seu servidor de coleta de dados. Se o servidor de coleta de dados corresponder ao domínio do site, os cookies serão definidos como primários. Se o servidor de coleta não corresponder ao seu domínio atual, os cookies serão definidos como de terceiros. Nesse caso, se cookies de terceiros estiverem bloqueados, [!DNL Analytics] definirá um [id de fallback (s_fid)](cookies-analytics.md) próprio em vez do cookie &quot;s_vi&quot; padrão.
 
-Para garantir que o servidor de coleta corresponda ao domínio do site, você pode usar uma implementação CNAME na qual os cookies sejam definidos em um contexto próprio. Isso envolve alterações nas configurações de DNS da empresa para configurar um alias CNAME para apontar para um domínio hospedado pelo Adobe. Observe que, embora vários produtos da Adobe sejam compartíveis com o uso de um CNAME, em todos os casos o CNAME é usado para criar um endpoint de terceiros confiável para um cliente específico, e é de sua propriedade. Se você controlar vários domínios, eles poderão usar um único endpoint CNAME para rastrear usuários em seus domínios, mas sempre que o domínio do site não corresponder aos cookies de domínio CNAME for definido como terceiros.
+Para garantir que o servidor de coleta corresponda ao domínio do site, você pode usar uma implementação CNAME na qual os cookies sejam definidos em um contexto próprio. Isso envolve alterações nas configurações de DNS da empresa para configurar um alias CNAME para apontar para um domínio hospedado pela Adobe. Observe que, embora vários produtos da Adobe sejam compartíveis com o uso de um CNAME, em todos os casos o CNAME é usado para criar um endpoint de terceiros confiável para um cliente específico, e é de sua propriedade. Se você controlar vários domínios, eles poderão usar um único endpoint CNAME para rastrear usuários em seus domínios, mas sempre que o domínio do site não corresponder aos cookies de domínio CNAME for definido como terceiros.
 
 >[!NOTE]
 >
@@ -83,6 +83,8 @@ Os certificados SSL expiram todo ano, o que significa que a Adobe deve comprar u
 | **É possível solicitar que o certificado seja revogado?** | Sim, como proprietário do domínio, você está autorizado a solicitar a revogação do certificado. Você só precisará abrir um ticket no Atendimento ao cliente para que isso seja concluído. |
 | **Esse certificado usará a criptografia SHA-2?** | Sim, a Adobe trabalhará com a DigiCert para emitir um certificado SHA-2. |
 | **Isso gera custo adicional?** | Não, a Adobe disponibiliza esse serviço para todos os clientes atuais da Adobe Digital Experience sem custo adicional. |
+
+{style=&quot;table-layout:auto&quot;}
 
 ## Criar registros CNAME
 

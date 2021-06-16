@@ -6,10 +6,10 @@ seo-title: Novidades da Experience Cloud
 solution: Experience Cloud
 title: 'Novidades da Experience Cloud '
 uuid: bc1b1542-1a37-4da1-bcfd-fc86af881642
-source-git-commit: ebefd433e96da422674e7ee71c8988d4011fed11
+source-git-commit: 145040facf70c6bde5c6c3fae9c7ed7f520c188d
 workflow-type: tm+mt
-source-wordcount: '639'
-ht-degree: 89%
+source-wordcount: '651'
+ht-degree: 91%
 
 ---
 
@@ -53,6 +53,8 @@ Novos recursos e correções na interface da [!DNL Adobe Experience Cloud].
 |--- |--- |
 | Nova página de aterrissagem de administração | Ao fazer logon na Experience Cloud e navegar até a página de administração, uma nova interface intuitiva está disponível para ajudá-lo a acessar rapidamente as soluções da Experience Cloud e Core Services. |
 
+{style=&quot;table-layout:auto&quot;}
+
 **Correções**
 
 * Correção de um problema em que o upload da imagem falhava devido a uma atualização do Scene7. (CORE-12746)
@@ -70,7 +72,9 @@ Diversas notificações de manutenção sobre manutenções/atualizações de pr
 |--- |--- |
 | Notificações - Configurações granulares | É possível habilitar notificações sobre atividades e eventos de soluções e produtos e de atividades de upload de [Atributos de clientes](attributes.md). |
 | Notificações - Notificações de manutenção | Nas configurações de Notificações, você pode habilitar notificações de manutenção para produtos e soluções. |
-| Admin Console para usuários da Experience Cloud | Os novos clientes da Experience Cloud podem começar a usar o Admin Console, um local central para gerenciar os direitos da Adobe em toda a organização.<br>A migração para o Admin Console no gerenciamento de usuários acontecerá em etapas. O Adobe entra em contato com você (administradores do sistema) quando chegar a hora de migrar.<br>Administradores do Analytics, consultem [Migração do Analytics](https://experienceleague.adobe.com/docs/analytics/admin/user-product-management/user-management/migrate-users/c-migration-tool.html?lang=en). |
+| Admin Console para usuários da Experience Cloud | Os novos clientes da Experience Cloud podem começar a usar o Admin Console, um local central para gerenciar os direitos da Adobe em toda a organização.<br>A migração para o Admin Console no gerenciamento de usuários acontecerá em etapas. O Adobe entra em contato com você (administradores do sistema) quando chegar a hora de migrar.<br>Administradores do Analytics, consultem [Migração do Analytics](https://experienceleague.adobe.com/docs/analytics/admin/user-product-management/user-management/migrate-users/c-migration-tool.html?lang=pt-BR). |
+
+{style=&quot;table-layout:auto&quot;}
 
 ## 22 de maio de 2017 {#section_242FE649FA1B4BFA88EC6E353D175ACC}
 
@@ -79,11 +83,15 @@ Diversas notificações de manutenção sobre manutenções/atualizações de pr
 | Mapeamento em massa do conjunto de relatórios | Em Administração > Mapeamento do conjunto de relatórios, agora você pode selecionar vários conjuntos de relatórios e mapeá-los a uma organização. (Anteriormente, você tinha que mapeá-los individualmente.)  <br>[Mapear conjuntos de relatórios](core-services.md) para uma única organização ajuda a habilitar recursos e serviços entre soluções na Experience Cloud. |
 | Atualizações aos públicos-alvo da Experience Cloud | **Aplicação dos conjuntos de relatórios**<br> Agora é possível aplicar um conjunto de relatórios a todas as suas [regras de público-alvo](t-audience-create.md). (Anteriormente, você tinha que especificar um conjunto de relatórios em cada definição de regra.) <br>**Props e variáveis**<br> Agora é possível incluir props do Analytics e variáveis padrão (além das eVars e eventos) em públicos-alvo em tempo real. |
 
+{style=&quot;table-layout:auto&quot;}
+
 ## 8 de novembro de 2016 - 16.11.1 {#section_7065A9BCCDF544C2BB37E9A7D661EA6A}
 
 | Recurso | Descrição |
 |--- |--- |
 | Atualização de Perfil e senhas | Não é mais possível editar informações de perfil IMS na seção Detalhes pessoais em Editar perfil > Perfil e senhas. Em vez disso, os usuários são direcionados para `accounts.adobe.com`. Esta atualização se aplica a todos os tipos de identidade (Adobe ID, Enterprise e Federated). |
+
+{style=&quot;table-layout:auto&quot;}
 
 **Correções**
 

@@ -9,9 +9,9 @@ topic: Administração
 role: Administrator
 level: Experienced
 exl-id: 6031e544-822b-4843-b3d8-98a36a3c40e8
-source-git-commit: eef7326f9f04f68eefb60b5d9fd4cc91cbe52119
+source-git-commit: 145040facf70c6bde5c6c3fae9c7ed7f520c188d
 workflow-type: tm+mt
-source-wordcount: '1175'
+source-wordcount: '1181'
 ht-degree: 69%
 
 ---
@@ -32,6 +32,8 @@ Orientação e limitações ao usar [!UICONTROL atributos do cliente].
 | ID personalizada do Analytics (`s.visitorID`) | Definir uma ID do cliente usando `s.visitorID` é um método para identificar usuários no Analytics. No entanto, as integrações em que [!DNL Analytics] dados são exportados ou importados usando o Serviço de ID não funcionam quando um visitante é identificado usando `s.visitorID.`<br>Isso inclui, mas não se limita a, públicos compartilhados, [!DNL Analytics] para Adobe Target (A4T) e [!UICONTROL Atributos do cliente].<br>Para essas integrações, não há suporte para uma ID personalizada do Analytics. |
 | Limitações de comprimento de caracteres no [!DNL Analytics] | Ao criar uma assinatura [!DNL Analytics], os comprimentos de campo dos arquivos carregados são truncados para 255. |
 
+{style=&quot;table-layout:auto&quot;}
+
 ## Perguntas frequentes sobre atributos do cliente {#section_E47866EEA83348E09FE43CEC5E44C461}
 
 | Pergunta | Resposta |
@@ -49,3 +51,5 @@ Orientação e limitações ao usar [!UICONTROL atributos do cliente].
 | **(Somente no Adobe Target)** É possível segmentar os dados carregados nos atributos do cliente imediatamente após o visitante ser identificado pela ID do cliente? | Sim. Na chamada do servidor para o Adobe Target, que inclui a ID de terceiros da mbox, todos os dados de Atributo do cliente estão disponíveis. |
 | **(Somente Adobe Target)** O que a coluna  **** Sincronizar status representa para os arquivos carregados na fonte de atributos do cliente? | O número de registros publicados e sincronizados pelo Adobe Target pode ser visualizado ao clicar no ícone Sincronizar status de um arquivo de atributo específico. `Sync %` é uma métrica em tempo real que especifica a % de perfis que foram sincronizados no Adobe Target.<br> **Observação:** pode levar até 24 horas para que os atributos sincronizem com o Adobe Target. |
 | O que as métricas de carregamento de arquivo representam na Fonte de atributos do cliente? | Verifique o status dos atributos carregados nos Atributos do cliente com a ajuda das seguintes métricas: <ul><li>Registros: número de registros no arquivo de atributos.</li><li>**Novos registros:** número de novos registros presentes no arquivo de atributos.</li> <li>**Registros atualizados:** número de registros que existem nos Atributos do cliente com valores atualizados no arquivo.</li><li>**Todos os dados (registros):** número total de registros carregados com êxito nos Atributos do cliente.</li></ul> |
+
+{style=&quot;table-layout:auto&quot;}

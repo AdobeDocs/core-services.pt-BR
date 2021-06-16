@@ -9,9 +9,9 @@ topic: Administração
 role: Administrator
 level: Experienced
 exl-id: 48e79e23-b339-4143-b3b1-969c370efeff
-source-git-commit: 0069c8b06cbacca6cd9fbdb898d4445931384ebb
+source-git-commit: 145040facf70c6bde5c6c3fae9c7ed7f520c188d
 workflow-type: tm+mt
-source-wordcount: '2272'
+source-wordcount: '2275'
 ht-degree: 72%
 
 ---
@@ -99,6 +99,8 @@ Se você não estiver usando o [!UICONTROL Experience Platform Launch] ou o [!UI
 | [Implementar o serviço da Experience Cloud ID no Analytics](https://experienceleague.adobe.com/docs/id-service/using/implementation/setup-analytics.html?lang=en) | A Adobe também recomenda configurar outras [IDs do cliente](https://experienceleague.adobe.com/docs/id-service/using/reference/authenticated-state.html?lang=en). Essas IDs estão associadas a cada visitante e ativam a funcionalidade atual e futura da Experience Cloud. |
 | Atualize seu [!DNL s_code] existente para a versão H.27.3 ou superior, ou seu [!DNL AppMeasurement.js] existente para a versão 1.4 ou superior. | Esses arquivos estão disponíveis para download no [Gerenciador de código](https://experienceleague.adobe.com/docs/analytics/admin/admin-tools/code-manager-admin.html?lang=en) nas Ferramentas de administração do Analytics. (O guia [Implementação do JavaScript](https://experienceleague.adobe.com/docs/analytics/implementation/js/overview.html?lang=en#js) está disponível se você precisar de mais informações sobre o [!DNL AppMeasurement.js].) |
 | Sincronizar a ID do cliente para o Analytics | Consulte [Analytics - sincronização da ID do cliente](core-services.md#section_AD473A6A21C1446498E700363F9A8437) (abaixo) |
+
+{style=&quot;table-layout:auto&quot;}
 
 ### Analytics &amp; Adobe Target - sincronização da ID do cliente {#section_AD473A6A21C1446498E700363F9A8437}
 

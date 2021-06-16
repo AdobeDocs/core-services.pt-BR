@@ -2,23 +2,23 @@
 title: Como usar atributos do cliente
 description: Saiba mais sobre o serviço Atributos do cliente na Adobe Experience Cloud. Saiba como fazer upload dos dados de atributos do cliente para uso no Adobe Analytics e no Adobe Target.
 solution: Experience Cloud
-feature: 'Atributos do cliente '
+feature: Atributos do cliente
 role: Administrator
 topic: Administração
 level: Experienced
 exl-id: fe8ad013-76da-49f8-aa51-dc5f6c1b1d79
-source-git-commit: eef7326f9f04f68eefb60b5d9fd4cc91cbe52119
+source-git-commit: 145040facf70c6bde5c6c3fae9c7ed7f520c188d
 workflow-type: tm+mt
-source-wordcount: '491'
-ht-degree: 73%
+source-wordcount: '494'
+ht-degree: 75%
 
 ---
 
-# Atributos do cliente  visão geral
+# Atributos do cliente visão geral
 
 >[!IMPORTANT]
 >
->[!UICONTROL Os ] Atributos do cliente são um serviço herdado, agora em manutenção.
+>[!UICONTROL Atributos do cliente é um serviço legado, agora em manutenção.]
 
 [!UICONTROL Atributos do cliente na Experience Cloud permitem que você faça o upload dos dados corporativos capturados de um banco de dados do gerenciamento de relacionamento com o cliente (CRM). ] Você pode fazer upload dos dados em uma fonte de dados de Atributo do cliente no Experience Cloud e, em seguida, usar os dados no Adobe Analytics e no Adobe Target.
 
@@ -62,3 +62,5 @@ Por exemplo:
 |--- |--- |
 | Adobe Analytics | Profissionais de marketing e analistas podem entender:<ul><li>As campanhas online que são mais eficazes com seus clientes de nível gold.</li><li>Os produtos que os clientes de nível gold procuram em relação aos que os clientes de nível platinum procuram.</li><li>Se a reformulação do site está afetando positivamente as taxas de conversão de clientes mais antigos.</li><li>Os produtos que os clientes com um valor de vida útil baixo tendem a pesquisar no meu site.</li></ul> |
 | Adobe Target | Os dados de atributo permitem que os usuários do Adobe Target:<ul><li>Mostrem descontos e ofertas especiais para membros do clube de fidelidade.</li><li>Recomendem produtos mais caros para seus clientes de luxo.</li><li>Para clientes que já recebem emails, mostrem uma oferta de venda adicional no espaço normalmente reservado para inscrições em email.</li></ul> |
+
+{style=&quot;table-layout:auto&quot;}

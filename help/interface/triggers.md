@@ -11,9 +11,9 @@ topic: Administração
 role: Administrator
 level: Experienced
 exl-id: 9dc26e2f-479b-49a5-93ce-b877559fea43
-source-git-commit: cd0f9a975732c6c8c3db8ddca6e702449b0efeed
+source-git-commit: 145040facf70c6bde5c6c3fae9c7ed7f520c188d
 workflow-type: tm+mt
-source-wordcount: '702'
+source-wordcount: '705'
 ht-degree: 71%
 
 ---
@@ -68,6 +68,8 @@ Crie um acionador e configure as condições para ele. Por exemplo, você pode e
    | A visita deve incluir o acionador<br>A visita não deve incluir<br>depois de nenhuma ação<br>Incluir metadados | Você pode definir critérios ou comportamentos de usuário que você deseja que ocorram, além de comportamentos que você não deseja que ocorram. Por exemplo, as regras para um acionador de um simples abandono de carrinho de compras podem ser:<ul><li>A visita deve incluir: [!UICONTROL Adição ao carrinho] (métrica) e [!UICONTROL Existe]. (Mais tarde, você pode redefinir a regra com uma visualização de produto específica ou dimensões como Tipos de navegador.)</li><li>A visita não deve incluir:  [!UICONTROL Check-out].</li><li>Acionar depois de nenhuma ação por: 10 minutos.</li><li>[!UICONTROL Incluir metadados]: Permite adicionar uma  [!DNL Campaign] dimensão ou variáveis específicas relevantes para o comportamento de um visitante. Este campo pode ser útil ao criar o email de remarketing correto no Adobe Campaign.</li></ul><br>Você pode especificar   [!UICONTROL Qualquer],    Andor    Orlogic dentro ou entre contêineres, dependendo dos critérios que determinar que são importantes para a regra. |
    | [!UICONTROL Contêiner] | [!UICONTROL Nos contêineres você pode configurar e armazenar regras, condições ou filtros que definem um acionador. ] Se você desejar que eventos sejam executados ao mesmo tempo, coloque-os no mesmo contêiner. Ou seja, cada contêiner é processado de maneira independente no nível da ocorrência. Por exemplo, se você tiver dois contêineres unidos pelo operador AND, poderá esperar que as regras se qualifiquem quando duas ocorrências atenderem aos requisitos. |
    | Iniciar nova sessão após | Crie um acionador para o início da sessão e outro para o término. |
+
+   {style=&quot;table-layout:auto&quot;}
 
 5. Clique em **[!UICONTROL Salvar]**.
 6. Use os acionadores para o [remarketing em tempo real](https://experienceleague.adobe.com/docs/campaign-standard/using/integrating-with-adobe-cloud/working-with-campaign-and-triggers/about-adobe-experience-cloud-triggers.html?lang=en) no [!DNL Adobe Campaign].

@@ -7,7 +7,7 @@ topic: Administração
 role: Administrator
 level: Experienced
 exl-id: 4e9f0f7a-8e16-4473-af4a-3e74ad50c044
-source-git-commit: 11b999ef0c0d4f258e8665eb9c5bf427f5d618c4
+source-git-commit: 978f2214cd802562880a3aff82677e033229c0a4
 workflow-type: tm+mt
 source-wordcount: '1119'
 ht-degree: 68%
@@ -63,7 +63,7 @@ Esta seção contém dicas para ajudar a selecionar a organização da Experienc
 
 ### Qual organização devo escolher?
 
-Se o Serviço de ID do Experience Cloud for implantado no conjunto de relatórios, verifique se a organização selecionada na ferramenta de Mapeamento de conjuntos de relatórios é a mesma organização especificada no arquivo [!DNL visitorAPI.js] do seu site. Use as instruções em [Testar e verificar o Serviço da Experience Cloud ID](https://experienceleague.adobe.com/docs/id-service/using/implementation/test-verify.html) para encontrar a ID da organização em uso pelo serviço de ID de visitante.
+Se o Serviço de ID do Experience Cloud for implantado no conjunto de relatórios, verifique se a organização selecionada na ferramenta de Mapeamento de conjuntos de relatórios é a mesma organização especificada no arquivo [!DNL visitorAPI.js] do seu site. Use as instruções em [Testar e verificar o Serviço da Experience Cloud ID](https://experienceleague.corp.adobe.com/docs/id-service/using/implementation/test-verify.html) para encontrar a ID da organização em uso pelo serviço de ID de visitante.
 
 Certifique-se de que a implantação corresponde à organização selecionada na ferramenta Mapeamento de conjuntos de relatórios .
 

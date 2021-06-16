@@ -9,9 +9,9 @@ topic: Administração
 role: Administrator
 level: Experienced
 exl-id: c4399cc0-8333-47b8-b830-2ba7359f464a
-source-git-commit: c7ed1324015beb7ebcf7a4ee21b05601e36e608f
+source-git-commit: 145040facf70c6bde5c6c3fae9c7ed7f520c188d
 workflow-type: tm+mt
-source-wordcount: '408'
+source-wordcount: '414'
 ht-degree: 83%
 
 ---
@@ -33,6 +33,8 @@ O Adobe Target usa cookies para fornecer aos operadores de site a capacidade de 
 | Domínio do servidor | `clientcode.tt.omtrdc.net`, utilizando o código de cliente de sua [!DNL Adobe Target] conta. |
 | Duração do cookie | O cookie permanece no navegador do visitante por dois anos após o último logon. Não é possível alterar a duração do cookie. |
 
+{style=&quot;table-layout:auto&quot;}
+
 >[!NOTE]
 >
 >Se qualquer um dos nomes de domínio incluir um código de país, como `mycompany.co.uk`, trabalhe com os Serviços ao Cliente para configurar o `at.js` para suportar este código.
@@ -46,3 +48,4 @@ O cookie mantém alguns valores para gerenciar a experiência de seus visitantes
 | check | Um valor de teste simples usado para determinar se um visitante suporta cookies. Defina toda vez que um visitante solicitar uma página. |
 | disable | Definido se o tempo de carregamento do visitante exceder o tempo limite configurado no arquivo at.js. Por padrão, esse tempo limite dura 1 hora. |
 
+{style=&quot;table-layout:auto&quot;}

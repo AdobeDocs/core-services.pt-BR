@@ -9,9 +9,9 @@ topic: Administração
 role: Administrator
 level: Experienced
 exl-id: 7f8fa610-32f0-4b18-8054-3ba05436a10e
-source-git-commit: eef7326f9f04f68eefb60b5d9fd4cc91cbe52119
+source-git-commit: 145040facf70c6bde5c6c3fae9c7ed7f520c188d
 workflow-type: tm+mt
-source-wordcount: '1406'
+source-wordcount: '1396'
 ht-degree: 77%
 
 ---
@@ -127,7 +127,7 @@ Ajuda: [Introdução](https://experienceleague.adobe.com/docs/launch/using/get-s
 
 Use as soluções de Experience Cloud Activation para configurar e depurar as soluções da Experience Cloud.
 
-1. Use [Experience Platform Launch](https://experienceleague.adobe.com/docs/launch/using/home.html?lang=pt-BR) ou [Dynamic Tag Management](https://experienceleague.adobe.com/docs/dtm/using/dtm-home.html?lang=pt-BR) para inserir o código que ativa os aplicativos Experience Cloud nas suas páginas.
+1. Use [Experience Platform Launch](https://experienceleague.adobe.com/docs/launch/using/home.html?lang=pt-BR) para inserir o código que ativa os aplicativos do Experience Cloud em suas páginas.
 1. Use o [Adobe Cloud Platform Auditor](https://experienceleague.adobe.com/docs/auditor/using/overview.html?lang=pt-BR) para testar as implementações.
 
 Use a extensão do Adobe Experience Cloud Debugger para depurar os problemas encontrados pelo Auditor ou para examinar outras informações sobre as implementações.
@@ -135,7 +135,7 @@ Use a extensão do Adobe Experience Cloud Debugger para depurar os problemas enc
 **Soluções ou serviços aplicáveis**
 
 * [Analytics](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/home.html?lang=pt-BR)
-* [Audience Manager](https://experienceleague.adobe.com/docs/dtm/using/tools/audiencemgmt.html?lang=pt-BR)
+* [Audience Manager](https://experienceleague.adobe.com/docs/launch/using/extensions-ref/adobe-extension/audience-manager/overview.html?lang=en)
 * [Media Optimizer](https://experienceleague.adobe.com/docs/dtm/using/tools/media-optimizer.html?lang=pt-BR)
 * [Adobe Target](https://experienceleague.adobe.com/docs/dtm/using/tools/target.html?lang=pt-BR)
 * [Serviço MAC ID](https://experienceleague.adobe.com/docs/dtm/using/tools/macid.html?lang=pt-BR)

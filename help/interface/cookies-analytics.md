@@ -9,9 +9,9 @@ topic: Administração
 role: Administrator
 level: Experienced
 exl-id: bc8ce894-f98c-4475-8a07-d74ae76f7451
-source-git-commit: c714a5549bc5377c584721404b11a394625c519f
+source-git-commit: 145040facf70c6bde5c6c3fae9c7ed7f520c188d
 workflow-type: tm+mt
-source-wordcount: '751'
+source-wordcount: '769'
 ht-degree: 84%
 
 ---
@@ -43,6 +43,8 @@ Mais informações disponíveis na ajuda do Analytics sobre [Cookies primários]
 | Localização | Somente para clientes CNAME. Não aplicável para cenários de terceiros. O cookie é armazenado em seu domínio, o mesmo domínio usado pelo CNAME e pela solicitação de imagem do Analytics |
 | Tamanho | 45 bytes |
 
+{style=&quot;table-layout:auto&quot;}
+
 ## Nome do cookie: s_cc {#section-03aa90aa7e36427b8cb12dc4a0f0291e}
 
 | Atributo | Descrição |
@@ -52,6 +54,8 @@ Mais informações disponíveis na ajuda do Analytics sobre [Cookies primários]
 | Uso | Somente um cookie para todas as contas |
 | Localização | Esse cookie é armazenado no domínio da página. |
 | Tamanho | 4 bytes |
+
+{style=&quot;table-layout:auto&quot;}
 
 ## Nome do cookie: s_sq {#section-8abfff3a302d494f81a3cfb91e3b09ff}
 
@@ -63,6 +67,8 @@ Mais informações disponíveis na ajuda do Analytics sobre [Cookies primários]
 | Localização | Esse cookie é armazenado no domínio da página. |
 | Tamanho | Varia dependendo do tamanho do URL da página, mas normalmente entre 100 e 200 bytes |
 
+{style=&quot;table-layout:auto&quot;}
+
 ## Nome do cookie: s_vi {#section-5d50a078de444d12b7d927d68ff3b679}
 
 | Atributo | Descrição |
@@ -72,6 +78,8 @@ Mais informações disponíveis na ajuda do Analytics sobre [Cookies primários]
 | Uso | Este cookie é usado para identificar um visitante único. |
 | Localização | Este cookie é armazenado no domínio da solicitação de imagem - normalmente um subdomínio específico do cliente em 2o7.net ou omtrdc.net se você estiver usando cookies de terceiros ou se o domínio estiver usando cookies primários |
 | Tamanho | 44 bytes |
+
+{style=&quot;table-layout:auto&quot;}
 
 >[!NOTE]
 >
@@ -87,6 +95,8 @@ Mais informações disponíveis na ajuda do Analytics sobre [Cookies primários]
 | Localização | Esse cookie é armazenado em seu domínio como um cookie primário |
 | Tamanho | 33 bytes |
 
+{style=&quot;table-layout:auto&quot;}
+
 ## Sinalizadores de cookie
 
 A tabela a seguir descreve os sinalizadores dos cookies do Analytics:
@@ -98,6 +108,8 @@ A tabela a seguir descreve os sinalizadores dos cookies do Analytics:
 | s_fid (Javascript) | Não | Não | Não definido |
 | s_cc (Javascript) | Não | Não | Não definido |
 | s_sq (Javascript) | Não | Não | Não definido |
+
+{style=&quot;table-layout:auto&quot;}
 
 >[!NOTE]
 >

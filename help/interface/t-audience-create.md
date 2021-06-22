@@ -9,10 +9,10 @@ topic: Administração
 role: Administrator
 level: Experienced
 exl-id: b65a12f5-fa89-400a-b279-13c381cd6c22
-source-git-commit: ebefd433e96da422674e7ee71c8988d4011fed11
+source-git-commit: d2ff52ce1a591c7c607598b5f2892dbcca74594b
 workflow-type: tm+mt
-source-wordcount: '476'
-ht-degree: 94%
+source-wordcount: '480'
+ht-degree: 95%
 
 ---
 
@@ -42,6 +42,8 @@ O exemplo a seguir mostra como criar as regras para um público-alvo composto. E
 * Usuários do Chrome e do Safari derivados de um [!DNL Adobe Analytics] segmento [publicado](audience-library.md#task_32FEEFE0B32E4E388CD4D892D727282A) no [!DNL Experience Cloud].
 
    ![](assets/audience_create.png)
+
+**Para criar um público-alvo**
 
 1. Na [!DNL Experience Cloud], em [!DNL Experience Platform], clique em **[!UICONTROL Pessoas]** > **[!UICONTROL Biblioteca de públicos-alvo].**
 1. Na página [!UICONTROL Públicos-alvo], clique em **[!UICONTROL Novo]**. ![](assets/add_icon_small.png)

@@ -9,7 +9,7 @@ topic: Administração
 role: Administrator
 level: Experienced
 exl-id: b71d144c-a097-4cdb-9721-671519d38aff
-source-git-commit: 145040facf70c6bde5c6c3fae9c7ed7f520c188d
+source-git-commit: 55cbcc6663ca22bbcd13e76411433912d6132eed
 workflow-type: tm+mt
 source-wordcount: '4199'
 ht-degree: 89%
@@ -22,7 +22,7 @@ Recursos, notas de versão e problemas conhecidos dos Componentes da interface c
 
 Para obter uma lista de atualizações de documentação, consulte [Experience Cloud](doc-updates.md#concept_4C8983FCD23848A4B1E4C2D99ED82784).
 
-Para obter as notas de versão que abrangem todas as soluções, consulte [Notas de versão da Experience Cloud](https://experienceleague.adobe.com/docs/release-notes/experience-cloud/current.html?lang=en).
+Para obter as notas de versão que abrangem todas as soluções, consulte [Notas de versão da Experience Cloud](https://experienceleague.adobe.com/docs/release-notes/experience-cloud/current.html?lang=pt-BR).
 
 ## Junho - 2021
 

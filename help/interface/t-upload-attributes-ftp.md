@@ -4,15 +4,15 @@ keywords: Atributos do cliente;serviços principais
 solution: Experience Cloud
 title: 'Fazer upload do arquivo de dados do atributo do cliente via FTP '
 uuid: 5df565dd-b6f8-420e-981f-4b6fc6f7d0e4
-feature: 'Atributos do cliente '
+feature: Atributos do cliente
 topic: Administração
 role: Administrator
 level: Experienced
 exl-id: ed9e4a8f-493a-4a0f-a87e-674c7da95b99
-source-git-commit: eef7326f9f04f68eefb60b5d9fd4cc91cbe52119
+source-git-commit: 93f5eda7229990e3645b54efa2a172d7b57dcb9b
 workflow-type: tm+mt
 source-wordcount: '271'
-ht-degree: 67%
+ht-degree: 66%
 
 ---
 
@@ -37,7 +37,7 @@ Os uploads de arquivo para o site FTP de atributos do cliente podem ser feitos v
 
    Verifique se você está conectado no site FTP em `ftp.adobe.com/<sftpname>`.
 
-1. Clique em **[!UICONTROL Ações]** > **[!UICONTROL Carregar arquivo]**.
+1. Selecione **[!UICONTROL Actions]** > **[!UICONTROL File Upload]**.
 
 1. Faça upload de um arquivo `.fin`, para que o arquivo possa ser recuperado.
 

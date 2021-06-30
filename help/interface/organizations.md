@@ -9,10 +9,10 @@ topic: Administração
 role: Administrator
 level: Experienced
 exl-id: 6eb58530-2a7a-48c7-9a5b-48a6e980a034
-source-git-commit: c7ed1324015beb7ebcf7a4ee21b05601e36e608f
+source-git-commit: 93f5eda7229990e3645b54efa2a172d7b57dcb9b
 workflow-type: tm+mt
 source-wordcount: '393'
-ht-degree: 100%
+ht-degree: 90%
 
 ---
 
@@ -32,7 +32,7 @@ Além disso, pode ser necessário localizar a ID da organização para fins de s
 
 A **ID da organização** é a ID associada à empresa provisionada pela Experience Cloud. A ID é uma sequência de 24 caracteres alfanuméricos seguidos por (e deve incluir) @AdobeOrg.
 
-Para exibir a ID da organização, navegue até a página de aterrissagem da Experience Cloud ou clique em (![](assets/menu-icon.png)) e, em seguida, clique em **[!UICONTROL Administração]**. É possível encontrar a ID da organização na parte inferior da página [!UICONTROL Introdução à Experience Cloud] ou na página [!UICONTROL Administração].
+Para exibir a ID da organização, navegue até a página de aterrissagem do Experience Cloud ou selecione ( ![](assets/menu-icon.png)) e selecione **[!UICONTROL Administração]**. É possível encontrar a ID da organização na parte inferior da página [!UICONTROL Introdução à Experience Cloud] ou na página [!UICONTROL Administração].
 
 ![](assets/administration-page.png)
 
@@ -42,23 +42,23 @@ Geralmente, os administradores da Experience Cloud concedem acesso a soluções 
 
 1. Siga as etapas no convite por email na Experience Cloud.
 1. Faça logon usando a Adobe ID ou Enterprise ID.
-1. Clique no seletor de soluções. (![](assets/menu-icon.png)).
+1. Selecione o seletor de soluções. ( ![](assets/menu-icon.png)).
 
    ![](assets/solutions-active.png)
 
    As soluções que você pode acessar são coloridas.
-1. Clique na solução desejada.
+1. Selecione a solução desejada.
 
    ![](assets/analytics-link-accounts.png)
 
    Esse tipo de mensagem será exibido se você fizer parte do grupo adequado (e tiver permissões para a solução), mas ainda não vinculou as credenciais da conta à Adobe ID.
-1. Clique em **[!UICONTROL Vincular conta]**, em seguida, forneça suas credenciais.
+1. Selecione **[!UICONTROL Vincular conta]** e forneça suas credenciais.
 
 ## Especificar uma organização e uma página de aterrissagem padrões {#concept_6A191B42A9874A9780882903BA18F071}
 
 Você pode especificar uma organização padrão e uma página de aterrissagem para usar ao fazer o logon.
 
-No seu perfil, clique em **[!UICONTROL Editar perfil]**.
+No seu perfil, selecione **[!UICONTROL Editar perfil]**.
 
 ![](assets/edit-profile.png)
 

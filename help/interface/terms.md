@@ -11,10 +11,10 @@ topic: Administração
 role: Administrator
 level: Experienced
 exl-id: 3799f806-2794-43ab-9e70-06ee693871e7
-source-git-commit: 145040facf70c6bde5c6c3fae9c7ed7f520c188d
+source-git-commit: 93f5eda7229990e3645b54efa2a172d7b57dcb9b
 workflow-type: tm+mt
 source-wordcount: '1471'
-ht-degree: 74%
+ht-degree: 73%
 
 ---
 
@@ -40,7 +40,7 @@ Uma referência de terminologia para usuários da Experience Cloud e como esses 
 | [!UICONTROL Serviço de identificação da Experience Platform] | Nenhum uso especial. | O serviço que vincula identidades. É o serviço de vinculação de dispositivos para o gerenciamento de experiências baseado em pessoas. |
 | Vinculação | Nenhum uso especial. A vinculação refere-se à navegação de hyperlink e aos itens de vinculação como fontes, propriedades, camadas e assim por diante. | Na Experience Cloud, a vinculação normalmente se refere à vinculação de diferentes contas de solução à interface.<br>Consulte [Organizações e vinculação de contas](organizations.md).<br>Vinculação também se refere aos URLs padrão para os relatórios do Analytics enviados para outros usuários. |
 | Localizações | Na Creative Cloud, localização refere-se aos locais do arquivo ou a um local em uma imagem ou documento aberto. | Na Experience Cloud, os locais são onde o conteúdo é visualizado (e pode receber interação) pelo Público-alvo. A associação entre os locais e o conteúdo pode ser mais ou menos estática, ou gerenciada dinamicamente de acordo com as regras de uma campanha. Um local sempre pertence a um Canal específico que determina como o Conteúdo pode ser entregue e como as Métricas podem ser coletadas.<br>São exemplos:<ul><li>Sites</li><li>Propriedades (Social)</li><li>Exibir inventário</li><li>Páginas de aterrissagem</li><li>Aplicativos móveis</li><li>Slots (vídeo)</li></ul> |
-| Métricas | Não usado no Creative Cloud. | Números agregados sobre conceitos e objetivos principais. No Analytics, as métricas são informações quantitativas sobre a atividade do visitante, como Visualizações, Cliques, Recarregamentos, Tempo médio gasto, Unidades, Pedidos e Receita. Consulte [Descrições de métricas](https://experienceleague.adobe.com/docs/analytics/components/variables/metrics/metricslist.html?lang=en). |
+| Métricas | Não usado no Creative Cloud. | Números agregados sobre conceitos e objetivos principais. No Analytics, as métricas são informações quantitativas sobre a atividade do visitante, como Exibições, Selecionar click-throughs, Recarregamentos, Tempo médio gasto, Unidades, Pedidos e Receita. Consulte [Descrições de métricas](https://experienceleague.adobe.com/docs/analytics/components/variables/metrics/metricslist.html?lang=en). |
 | Organização | Não usado no Creative Cloud. | Uma organização é uma entidade do Experience Cloud que permite ao administrador configurar usuários e produtos e controlar o logon único no Experience Cloud. Geralmente, a organização é a empresa de cobrança. |
 | Portfólio | Um conjunto de vários arquivos ou ativos. | Um contêiner de campanhas. |
 | Perfil de produto | Consulte [Gerenciar produtos e perfis](https://helpx.adobe.com/enterprise/using/manage-products.html). | Para que um usuário tenha direito a usar um produto ou serviço, ele deve fazer parte de um perfil de produto. O Administrador de produto atribui licenças a um perfil de produto ao associá-lo a um plano adquirido.<br>Um usuário pode pertencer a diversos perfis de produto, cada um com licenças diferentes para o usuário. A qualificação final de um usuário é a união de todas as licenças conferidas por cada perfil de produto a esse usuário. |

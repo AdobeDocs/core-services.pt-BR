@@ -7,10 +7,10 @@ topic: Administração
 role: Administrator
 level: Experienced
 exl-id: 4e9f0f7a-8e16-4473-af4a-3e74ad50c044
-source-git-commit: 978f2214cd802562880a3aff82677e033229c0a4
+source-git-commit: 93f5eda7229990e3645b54efa2a172d7b57dcb9b
 workflow-type: tm+mt
 source-wordcount: '1119'
-ht-degree: 68%
+ht-degree: 64%
 
 ---
 
@@ -35,17 +35,17 @@ As organizações ficam esmaecidas caso você não tenha permissões de administ
 
 1. Navegue até Conjunto de relatórios para obter a governança de dados em [!DNL Analytics] > **[!UICONTROL Admin]** > **[!UICONTROL Governança de dados]** (consulte [Exibir/gerenciar a configuração de governança de dados do conjunto de relatórios](https://experienceleague.adobe.com/docs/analytics/admin/data-governance/gdpr-view-settings.html?lang=en)
 
-1. Para ver as empresas de logon com acesso a cada conjunto de relatórios, clique em **[!UICONTROL Visível para empresas de logon]**.
+1. Para ver as empresas de logon com acesso a cada conjunto de relatórios, selecione **[!UICONTROL Visível para empresas de logon]**.
 
    Essa exibição ajuda você a tomar decisões informadas sobre o mapeamento.
 
-1. Clique no menu suspenso na coluna **[!UICONTROL Organização mapeada]** ao lado de um conjunto de relatórios e selecione a organização para a qual você deseja mapear.
+1. Selecione o menu suspenso na coluna **[!UICONTROL Organização mapeada]** ao lado de um conjunto de relatórios e selecione a organização para a qual deseja mapear.
 
    Consulte a próxima seção para obter dicas sobre como selecionar uma organização da Experience Cloud.
 
 ## Mapear diversos conjuntos de relatórios para uma organização {#task_94955B0D8ABA4CB1A38746ECF8E32711}
 
-1. Clique em **[!UICONTROL Experience Cloud]** > **[!UICONTROL Administração]** > **[!UICONTROL Mapeamento de conjuntos de relatórios]**.
+1. Selecione **[!UICONTROL Experience Cloud]** > **[!UICONTROL Administração]** > **[!UICONTROL Mapeamento de conjuntos de relatórios]**.
 
 1. Selecione os conjuntos de relatórios que você deseja mapear.
 
@@ -55,7 +55,7 @@ As organizações ficam esmaecidas caso você não tenha permissões de administ
 
    Consulte a próxima seção para obter dicas sobre como selecionar uma organização da Experience Cloud.
 
-1. Clique em **[!UICONTROL Salvar mapeamento]**.
+1. Selecione **[!UICONTROL Salvar mapeamento]**.
 
 ## Dicas para selecionar uma organização da Experience Cloud {#mapping-tips}
 

@@ -9,7 +9,7 @@ topic: Administração
 role: Administrator
 level: Experienced
 exl-id: b71d144c-a097-4cdb-9721-671519d38aff
-source-git-commit: 55cbcc6663ca22bbcd13e76411433912d6132eed
+source-git-commit: 93f5eda7229990e3645b54efa2a172d7b57dcb9b
 workflow-type: tm+mt
 source-wordcount: '4199'
 ht-degree: 89%
@@ -28,8 +28,8 @@ Para obter as notas de versão que abrangem todas as soluções, consulte [Notas
 
 | Recurso | Data | Descrição |
 | ------- | ------- | ------- |
-| Suporte para logon único para Adobe Federated IDs | 17 de junho de 2021 | Se você usa Federated IDs, é possível fazer logon no Experience Cloud sem precisar inserir um endereço de email ou senha. Para usar esse recurso, adicione `#/sso:@domain` ao URL do Experience Cloud. <br>Por exemplo, suponha que você seja o proprietário do domínio  `adobecustomer.com` e queira fazer logon no Adobe Analytics. O URL seria: `https://experience.adobe.com/#/sso:@adobecustomer.com/analytics`. |
-| Pesquisa Experience League | 1 de junho de 2021 | A pesquisa da documentação do Experience League foi aprimorada. Navegue até [Experience League](https://experienceleague.corp.adobe.com/docs/?lang=en) e use o campo **[!UICONTROL Pesquisar]** para localizar tutoriais, documentação, cursos e muito mais. |
+| Suporte para logon único para Adobe Federated IDs | 17 de junho de 2021 | Se você usa Federated IDs, é possível fazer logon no Experience Cloud sem precisar inserir um endereço de email ou uma senha. Para usar esse recurso, adicione `#/sso:@domain` ao URL do Experience Cloud. <br>Por exemplo, suponha que você seja o proprietário do domínio `adobecustomer.com` e queira fazer logon no Adobe Analytics. O URL seria: `https://experience.adobe.com/#/sso:@adobecustomer.com/analytics`. |
+| Pesquisa do Experience League | 1 de junho de 2021 | A pesquisa de documentação do Experience League foi aprimorada. Navegue até [Experience League](https://experienceleague.corp.adobe.com/docs/?lang=en) e utilize o campo **[!UICONTROL Pesquisar]** para localizar tutoriais, documentação, cursos e muito mais. |
 
 {style=&quot;table-layout:auto&quot;}
 
@@ -294,7 +294,7 @@ Nenhuma informação disponível.
   </tr> 
   <tr> 
    <td colname="col1"> <p>Activation </p> </td> 
-   <td colname="col2"> <p> <a href="activation.md#concept_EE756B6B0A0643DAB8CA3A00E665406C" format="dita" scope="local">Activation</a> agora é exibida na navegação à esquerda na <span class="keyword">Experience Cloud</span>. <span class="wintitle"> </span> Ativation é um serviço da  <span class="keyword"> Experience </span> Cloud e atualmente é composto pela tecnologia de gerenciamento dinâmico de tags, que direciona você ao clicar. </p> </td> 
+   <td colname="col2"> <p> <a href="activation.md#concept_EE756B6B0A0643DAB8CA3A00E665406C" format="dita" scope="local">Activation</a> agora é exibida na navegação à esquerda na <span class="keyword">Experience Cloud</span>. <span class="wintitle"> </span> Ativation é um serviço da  <span class="keyword"> Experience </span> Cloud e atualmente é composto pela tecnologia de gerenciamento dinâmico de tags, que direciona você ao ser selecionado. </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p>Atualizações de documentação - Serviços principais </p> </td> 
@@ -382,7 +382,7 @@ Novos recursos e correções na colaboração e interface de compartilhamento da
    <td colname="col1"> <p>Editar permissões de usuário </p> </td> 
    <td colname="col2"> <p>Os proprietários de um quadro agora podem editar as permissões do usuário no determinado quadro. </p> <p> 
      <ol id="ol_B12251C510744538AF9BCE60ACB04016"> 
-      <li id="li_87B3EDE9542B47CEBE0BE7F2D1DE844D">No quadro, clique em <span class="uicontrol">Configurações</span>. </li> 
+      <li id="li_87B3EDE9542B47CEBE0BE7F2D1DE844D">No quadro, selecione <span class="uicontrol"> Configurações</span>. </li> 
       <li id="li_0F4786B0E1E743069D082E7DC488A031">Ao lado de cada proprietário, especifique o <span class="uicontrol">Proprietário</span>, <span class="uicontrol">Visualizador</span> ou <span class="uicontrol">Editor</span>. </li> 
      </ol> </p> </td> 
   </tr> 
@@ -553,7 +553,7 @@ Novos recursos e correções na colaboração e interface de compartilhamento da
 * A [!DNL Experience Cloud] não era vinculada ao [!DNL Adobe Target]. Esse problema ocorria se o login do [!DNL Adobe Target] pudesse ser usado em vários servidores do [!DNL Target].
 * O [!DNL Adobe Media Optimizer] não criava automaticamente usuários quando eles eram criados na [!DNL Experience Cloud].
 * As opções usadas para adicionar temporariamente novos usuários nas caixas de combo desaparecem enquanto você estiver digitando.
-* O link Comentários não era clicável na exibição do cartão de ativos.
+* O link Comentários não era selecionável na exibição do cartão de ativos.
 * Após adicionar uma tag personalizada a um ativo, nenhuma outra alteração nos metadados persiste.
 * Ao deletar uma imagem, os Ativos não avisam se a imagem está sendo usada no Adobe Target Essentials.
 * Desaceleração do desempenho da interface da [!UICONTROL Experience Cloud] quando usada em paralelo por muitos usuários.
@@ -580,9 +580,9 @@ Novos recursos e correções na colaboração e interface de compartilhamento da
    <td colname="col1"> <p>Criar cartões a partir de tópicos de ajuda </p> </td> 
    <td colname="col2"> <p>Depois de ativar o recurso Compartilhar na Adobe Experience Cloud na barra de favoritos do navegador, você pode compartilhar páginas de ajuda do URL do microsite. </p> <p> <b>Para compartilhar um tópico de ajuda</b> </p> 
     <ol id="ol_F94B816121494B0FA16CC07B0E96AED8"> 
-     <li id="li_F47187D4B5FE46D3A51D257DD569B4D6"> <p>Na <span class="keyword">Experience Cloud</span>, clique em <span class="uicontrol">Administração</span>. </p> </li> 
+     <li id="li_F47187D4B5FE46D3A51D257DD569B4D6"> <p>No Experience Cloud <span class="keyword"></span>, selecione <span class="uicontrol"> Administração</span>. </p> </li> 
      <li id="li_94EF58E7A4974B63951E14F72A710183"> <p>Arraste o botão <span class="uicontrol">Compartilhar para a Adobe Experience Cloud</span> até a barra de marcadores. </p> </li> 
-     <li id="li_69EEC4F25D8F4AD7AA106A10B7F50FF6"> <p>Navegue até uma página de ajuda (ou continue nessa), e então clique em <span class="uicontrol">Compartilhar para a Adobe Experience Cloud</span> na barra de marcadores do seu navegador. </p> <p>Essa etapa cria um cartão, que pode ser visto na <span class="wintitle">Experience Cloud</span>. </p> </li> 
+     <li id="li_69EEC4F25D8F4AD7AA106A10B7F50FF6"> <p>Navegue até uma página de ajuda (ou continue nessa), e então selecione <span class="uicontrol"> Compartilhar para a Adobe Experience Cloud</span> na barra de marcadores do seu navegador. </p> <p>Essa etapa cria um cartão, que pode ser visto na <span class="wintitle">Experience Cloud</span>. </p> </li> 
     </ol> </td> 
   </tr> 
  </tbody> 
@@ -596,7 +596,7 @@ Novos recursos e correções na colaboração e interface de compartilhamento da
 * A página de aterrissagem de soluções [!DNL Analytics] exibe erros de formatação.
 * Os usuários devem efetuar o logout e o logon novamente para que todas as permissões e alterações de direito tenham efeito.
 * Ao deletar uma imagem, os [!UICONTROL Ativos] não avisam se a imagem está sendo usada no [!DNL Adobe Target Essentials].
-* O link Comentários não é clicável na exibição do cartão de ativos.
+* O link Comentários na exibição do cartão de ativos não é selecionável.
 * As opções para adicionar temporariamente novos usuários nas caixas de combo desaparecem enquanto você estiver digitando.
 * Fazer logon na [!DNL Experience Cloud] demora mais de um segundo.
 * Dados compartilhados pelo [!DNL Media Optimizer] são mal representados na [!DNL Experience Cloud].
@@ -629,7 +629,7 @@ A versão 14.3.1 é uma versão de manutenção com foco na velocidade, estabili
 * Os usuários devem efetuar o logout e o logon novamente para que todas as permissões e alterações de direito tenham efeito.
 * Quando *`Remember me`* não for selecionado durante o logon, a sessão do usuário será encerrada após 15 minutos.
 * A página de aterrissagem de soluções [!DNL Analytics] exibe erros de formatação.
-* O link Comentários não é clicável na exibição do cartão de ativos.
+* O link Comentários não é selecionável na exibição do cartão de ativos.
 * A interface da Experience Cloud pode ficar lenta caso seja usada de modo paralelo por muitos usuários.
 * A Experience Cloud não pode ser vinculada ao [!DNL Adobe Target] caso o logon do [!DNL Adobe Target] seja utilizado em vários servidores do Target.
 * Fazer logon na Experience Cloud demora mais de um segundo.
@@ -673,5 +673,5 @@ A versão 14.3.1 é uma versão de manutenção com foco na velocidade, estabili
 
 * Corrigido um problema que evitava que relatórios do [!DNL Analytics] compartilhados aplicassem filtros de segmento.
 * Corrigido um problema que fazia com que as soluções fossem exibidas na página de [!UICONTROL Soluções da Experience Cloud] como vinculadas, mesmo se as contas de solução não estivessem vinculadas.
-* Corrigido um problema que evitava que os clientes [!DNL Adobe Target] na Ásia pudessem clicar o botão **[!UICONTROL Seguir para a Experience Cloud]** na página de vinculação.
+* Correção de um problema que impedia que [!DNL Adobe Target] clientes na Ásia pudessem selecionar o botão **[!UICONTROL Continuar para Experience Cloud]** na página de vinculação.
 * Corrigido um problema que não permitia o compartilhamento de vídeos do YouTube.

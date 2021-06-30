@@ -9,10 +9,10 @@ topic: Administração
 role: Administrator
 level: Experienced
 exl-id: 21ed7c35-aac9-46f1-a50c-84e7c075209c
-source-git-commit: 0069c8b06cbacca6cd9fbdb898d4445931384ebb
+source-git-commit: 93f5eda7229990e3645b54efa2a172d7b57dcb9b
 workflow-type: tm+mt
 source-wordcount: '1152'
-ht-degree: 75%
+ht-degree: 73%
 
 ---
 
@@ -67,13 +67,13 @@ Siga essas etapas na página Criar nova fonte de atributo do cliente na Experien
 >
 >Ao criar, modificar ou excluir fontes de atributos do cliente, ocorre um atraso de até uma hora antes de as IDs começarem a sincronizar com a nova fonte de dados. Você deve ter direitos administrativos no Audience Manager para criar ou modificar as fontes de atributos do cliente. Entre em contato com o Atendimento ao cliente do Audience Manager ou consulte para obter direitos administrativos.
 
-1. No [!DNL Experience Cloud], clique no ícone ![](assets/menu-icon.png) do Menu.
-1. Em **[!DNL Experience Platform]**, clique em **[!UICONTROL People]** > **[!UICONTROL Atributos do cliente]**.
+1. No [!DNL Experience Cloud], selecione o ícone Menu ![](assets/menu-icon.png).
+1. Em **[!DNL Experience Platform]**, selecione **[!UICONTROL People]** > **[!UICONTROL Atributos do cliente]**.
 
    A página [!UICONTROL Atributos do cliente] é o local para gerenciar e editar as fontes de dados do atributo existentes.
 
    ![Resultado da etapa](assets/03_crs_usecase.png)
-1. Clique em **[!UICONTROL Novo]**.
+1. Selecione **[!UICONTROL New]**.
 
    ![Resultado da etapa](assets/04_crs_usecase.png)
 1. Na página [!UICONTROL Editar fonte de atributo do cliente], configure os seguintes campos:
@@ -153,7 +153,7 @@ Consulte [Configurar subscrições](subscription.md#concept_ECA3C44FA6D540C89CC0
 
 **Para ativar uma fonte de atributo**
 
-Na página [!UICONTROL Criar nova [ou editar] fonte de atributos do cliente], encontre o cabeçalho [!UICONTROL Ativar] e clique em **[!UICONTROL Ativo]**.
+Na página [!UICONTROL Criar novo [ou Editar] Fonte de Atributo do Cliente], localize o cabeçalho [!UICONTROL Ativar] e selecione **[!UICONTROL Ativo]**.
 
 ![Resultado da etapa](assets/activate_attribute_source.png)
 

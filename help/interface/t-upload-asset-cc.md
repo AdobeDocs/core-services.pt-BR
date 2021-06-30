@@ -9,10 +9,10 @@ topic: Administração
 role: Administrator
 level: Experienced
 exl-id: e26fb61f-4a7f-4c02-ba80-87a9c0edea86
-source-git-commit: cd0f9a975732c6c8c3db8ddca6e702449b0efeed
+source-git-commit: 93f5eda7229990e3645b54efa2a172d7b57dcb9b
 workflow-type: tm+mt
 source-wordcount: '91'
-ht-degree: 83%
+ht-degree: 80%
 
 ---
 
@@ -22,5 +22,5 @@ Consulte [https://helpx.adobe.com/creative-cloud/help/sync-creative-cloud-files.
 
 1. Inicie o navegador da [!DNL Creative Cloud] e navegue até [!UICONTROL Arquivos da Creative Cloud].
 1. Abra a pasta compartilhada.
-1. Clique em **[!UICONTROL Ações]** > **[!UICONTROL Upload]**.
+1. Selecione **[!UICONTROL Actions]** > **[!UICONTROL Upload]**.
 1. Use a navegação de arquivo do seu sistema operacional para selecionar ou mover ativos.

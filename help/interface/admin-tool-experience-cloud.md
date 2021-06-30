@@ -9,10 +9,10 @@ topic: Administração
 role: Administrator
 level: Experienced
 exl-id: 127eecdd-3862-48ba-8cf6-a8082d2b7bae
-source-git-commit: 40fd81f8a293dc5bca3b41e8f6e708d1be4bae5d
+source-git-commit: 93f5eda7229990e3645b54efa2a172d7b57dcb9b
 workflow-type: tm+mt
 source-wordcount: '1248'
-ht-degree: 87%
+ht-degree: 82%
 
 ---
 
@@ -28,7 +28,7 @@ Os administradores podem exibir uma lista classificável e filtrável de todos o
 
    ![](assets/admin-tool.png)
 
-1. Em [!UICONTROL Acesso rápido], clique em **[!UICONTROL Ferramenta administrativa.]**
+1. Em [!UICONTROL Acesso rápido], selecione **[!UICONTROL Ferramenta de administração.]**
 
    (Como alternativa, no URL da página inicial, você pode substituir _início_ por _admin._)
 
@@ -42,7 +42,7 @@ Esta página exibe a lista completa de usuários com acesso à Experience Cloud 
 
 | Elemento | Descrição |
 |---|---|
-| [!UICONTROL Nome] | O nome e sobrenome do usuário. É possível classificar essa coluna de A a Z e Z a A. Clique no nome de um usuário para ver mais detalhes sobre ele. |
+| [!UICONTROL Nome] | O nome e sobrenome do usuário. Você pode classificar essa coluna de A a Z e Z a A. Selecione o nome de um usuário para ver mais detalhes sobre ele. |
 | [!UICONTROL Email] | O endereço de email associado ao usuário. A coluna pode ser classificada como A->Z, Z->A. |
 | [!UICONTROL Tipo de ID] | O tipo de identidade da conta do usuário. O filtro pode ser aplicado a tipos de ID específicos da exibição. Consulte [Gerenciar tipos de identidade](https://helpx.adobe.com/br/enterprise/using/identity.html) para obter mais informações. |
 | [!UICONTROL Soluções] | Resumo das soluções da Experience Cloud que o usuário pode acessar. Aplique filtros para restringir a lista de usuários com acesso específico à solução. |
@@ -54,7 +54,7 @@ Pesquise, classifique ou filtre as colunas para personalizar a lista de usuário
 
 * Procure usuários por Nome ou Email. As pesquisas correspondem à cadeia de caracteres de texto digitada.
 * Classifique a coluna por valores crescentes ou decrescentes. Essa classificação se aplica às colunas [!UICONTROL Nome,] [!UICONTROL Email,] e [!UICONTROL Último logon].
-* Para aplicar vários filtros a usuários da lista com critérios específicos, clique no ícone **[!UICONTROL Filtrar por]**. Quando várias categorias de filtro são aplicadas, as pesquisas contêm a Solução `AND` TIPO DE ID `AND` de domínio de email.
+* Para aplicar vários filtros a usuários da lista com critérios específicos, selecione o ícone **[!UICONTROL Filtrar por]**. Quando várias categorias de filtro são aplicadas, as pesquisas contêm a Solução `AND` TIPO DE ID `AND` de domínio de email.
 
 | Elemento | Descrição |
 |---------|----------|
@@ -64,7 +64,7 @@ Pesquise, classifique ou filtre as colunas para personalizar a lista de usuário
 
 ## Visualizar detalhes do usuário
 
-Na página [!UICONTROL Usuários], para visualizar os detalhes do usuário, clique no email do usuário.
+Na página [!UICONTROL Users], para visualizar os detalhes do usuário, selecione o email do usuário.
 
 ![](assets/admin-tool-user-details.png)
 
@@ -106,7 +106,7 @@ Esta página exibe a lista completa das políticas da Experience Cloud na sua or
 
 | Elemento | Descrição |
 |---|---|
-| [!UICONTROL Perfil de produto] | O nome do perfil do produto. A coluna pode ser classificada como A->Z, Z->A. Para ver mais detalhes sobre a política, clique no nome de um perfil de produto. |
+| [!UICONTROL Perfil de produto] | O nome do perfil do produto. A coluna pode ser classificada como A->Z, Z->A. Para ver mais detalhes sobre a política, selecione o nome do perfil de produto. |
 | [!UICONTROL Produto] | O produto associado ao perfil do produto. A coluna pode ser classificada como A->Z, Z->A. |
 | [!UICONTROL Instância] | A instância (por exemplo, locatário ou empresa de logon) associada ao perfil do produto. Os produtos que não têm instâncias ou locatários exclusivos exibem um &quot; - &quot; para o valor. A coluna pode ser classificada como A->Z, Z->A. |
 | [!UICONTROL Número de usuários] | Contagem específica de usuários associados ao perfil do produto, incluindo atribuição direta e atribuição de grupo. A coluna pode ser classificada da menor para a maior ou da maior para a menor. |
@@ -118,7 +118,7 @@ Pesquise, classifique ou filtre as colunas para personalizar a lista de polític
 
 * Pesquise os perfis de produto por nome. As pesquisas correspondem à cadeia de caracteres de texto digitada.
 * Classifique a coluna por valores crescentes ou decrescentes. Essa classificação se aplica ao [!UICONTROL Perfil do produto,] [!UICONTROL Produto,] [!UICONTROL Instância,] [!UICONTROL Número de usuários,] e [!UICONTROL Número de desenvolvedores,] Colunas.
-* Clique no ícone **[!UICONTROL Filtrar por]** para aplicar vários filtros para listar perfis de produto com critérios específicos. Quando várias categorias de filtro são aplicadas, as pesquisas contêm Grupos associados `AND` Instância `AND` Solução.
+* Selecione o ícone **[!UICONTROL Filtrar por]** para aplicar vários filtros para listar perfis de produto com critérios específicos. Quando várias categorias de filtro são aplicadas, as pesquisas contêm Grupos associados `AND` Instância `AND` Solução.
 
 | Elemento | Descrição |
 |---------|----------|
@@ -127,7 +127,7 @@ Pesquise, classifique ou filtre as colunas para personalizar a lista de polític
 
 ## Exibir detalhes da política
 
-Para exibir os detalhes de uma política, clique no nome do perfil do produto na página [!UICONTROL Políticas].
+Na página [!UICONTROL Policies], para visualizar os detalhes de uma política, selecione o nome do perfil de produto.
 
 ![](assets/admin-tool-policy-detail.png)
 

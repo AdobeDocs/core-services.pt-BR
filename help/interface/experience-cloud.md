@@ -8,10 +8,10 @@ topic: Administração
 role: Administrator
 level: Experienced
 exl-id: aedad5cb-3282-4a97-8e7e-6d65f7b75ba9
-source-git-commit: 145040facf70c6bde5c6c3fae9c7ed7f520c188d
+source-git-commit: 93f5eda7229990e3645b54efa2a172d7b57dcb9b
 workflow-type: tm+mt
-source-wordcount: '914'
-ht-degree: 63%
+source-wordcount: '915'
+ht-degree: 62%
 
 ---
 
@@ -33,8 +33,8 @@ No cabeçalho do Experience Cloud, você pode:
 Faça logon e verifique se você está na [organização](organizations.md) correta.
 
 1. Acesse a [Adobe Experience Cloud](https://experience.adobe.com).
-1. Clique em **[!UICONTROL Fazer logon com uma Adobe ID]**.
-1. Na Adobe Experience Cloud, clique em sua organização.
+1. Selecione **[!UICONTROL Fazer logon com uma Adobe ID]**.
+1. Na Adobe Experience Cloud, selecione sua organização.
 
    ![](assets/organizations-menu.png)
 
@@ -44,7 +44,7 @@ Faça logon e verifique se você está na [organização](organizations.md) corr
 
 Após fazer logon na Experience Cloud, você pode acessar rapidamente todos os aplicativos, serviços e organizações pelo cabeçalho unificado.
 
-Para acessar os serviços do Experience Cloud que você possui, clique no seletor de aplicativos ![](assets/menu-icon.png).
+Para acessar os serviços do Experience Cloud que você possui, acesse o seletor de aplicativos ![](assets/menu-icon.png).
 
 ![](assets/platform-core-services.png)
 
@@ -79,7 +79,7 @@ As preferências da Experience Cloud incluem notificações, assinaturas e alert
 * Fazer logoff
 * Configurar as preferências, notificações e assinaturas da conta
 
-Para gerenciar preferências, clique em **[!UICONTROL Preferências]** no menu da conta ![](assets/preferences-icon-sm.png).
+Para gerenciar preferências, selecione **[!UICONTROL Preferências]** no menu da conta ![](assets/preferences-icon-sm.png).
 
 ![](assets/preferences-page.png)
 
@@ -97,7 +97,7 @@ Em [!UICONTROL Preferências da Experience Cloud], você pode configurar os segu
 
 ## Notificações e anúncios {#notifications}
 
-Clique em **[!UICONTROL Notificações]** para ser avisado sobre atualizações relevantes e acionáveis, incluindo versões de produtos, avisos de manutenção, itens compartilhados e solicitações de aprovação.
+Selecione **[!UICONTROL Notificações]** para ser alertado sobre atualizações relevantes e acionáveis, incluindo versões de produtos, avisos de manutenção, itens compartilhados e solicitações de aprovação.
 
 ![](assets/notifications-menu-small.png)
 
@@ -142,8 +142,8 @@ Aproveite os tutoriais de autoajuda e instruções rápidas na Experience League
 
 ## Notas de versão e ajuda relacionada à Experience Cloud
 
-* [Documentação do produto para todas as soluções da Experience Cloud](https://experienceleague.adobe.com/docs/home.html?lang=en) - Procure ajuda na Aprendizagem e suporte da Experience Cloud
-* [Notas de versão e atualizações de produtos](https://experienceleague.adobe.com/docs/release-notes/experience-cloud/current.html?lang=en) - Novidades na Experience Cloud e assinatura para obter atualizações
+* [Documentação do produto para todas as soluções da Experience Cloud](https://experienceleague.adobe.com/docs/home.html?lang=pt-BR) - Procure ajuda na Aprendizagem e suporte da Experience Cloud
+* [Notas de versão e atualizações de produtos](https://experienceleague.adobe.com/docs/release-notes/experience-cloud/current.html?lang=pt-BR) - Novidades na Experience Cloud e assinatura para obter atualizações
 * [Tutoriais para implementar os serviços principais](https://experienceleague.adobe.com/docs/launch-learn/tutorials/overview.html?lang=en) - Explore vídeos e tutoriais sobre os serviços principais
 * [Ajuda de especialistas na Experience League](https://experienceleague.adobe.com/?lang=pt-BR) - Obtenha um aprendizado orientado de especialistas e da comunidade
 * [Educação e treinamento](https://helpx.adobe.com/br/learning.html?promoid=KAUDK)  - Participe com o Adobe para garantir que você obtenha o máximo dos produtos Adobe.

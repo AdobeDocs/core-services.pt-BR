@@ -7,14 +7,14 @@ topic: Administração
 role: Administrator
 level: Experienced
 exl-id: 6818edea-31b1-49fc-bca2-32828c7ca78d
-source-git-commit: 40fd81f8a293dc5bca3b41e8f6e708d1be4bae5d
+source-git-commit: 93f5eda7229990e3645b54efa2a172d7b57dcb9b
 workflow-type: tm+mt
 source-wordcount: '538'
-ht-degree: 96%
+ht-degree: 84%
 
 ---
 
-# Cookies da Advertising Cloud {#advertising-cloud-cookies}
+# Cookies da Advertising Cloud{#advertising-cloud-cookies}
 
 A Advertising Cloud usa cookies para mapear eventos de envolvimento de anúncios a eventos de conversão e, possivelmente, para usar essas informações para otimizar ofertas de anúncios.
 
@@ -30,7 +30,7 @@ A Advertising Cloud usa cookies para mapear eventos de envolvimento de anúncios
  <tbody> 
   <tr> 
    <td colname="col1"> <p>Informações armazenadas </p> </td> 
-   <td colname="col2"> <p>IDs e carimbos de data e hora (no formato aaaammdd) dos cliques de exibição</p> </td> 
+   <td colname="col2"> <p>IDs e carimbos de data e hora (no formato aaaammdd) das seleções de exibição</p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p>Expiração </p> </td> 
@@ -38,7 +38,7 @@ A Advertising Cloud usa cookies para mapear eventos de envolvimento de anúncios
   </tr> 
   <tr> 
    <td colname="col1"> <p>Uso </p> </td> 
-   <td colname="col2"> <p>Um cookie de terceiros usado para determinar se um evento de cliques em um anúncio de exibição se aplica a uma ocorrência do Adobe Analytics </p> </td> 
+   <td colname="col2"> <p>Um cookie de terceiros usado para determinar se um evento selecionado em um anúncio de exibição se aplica a uma ocorrência do Adobe Analytics </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p>Localização </p> </td> 
@@ -96,7 +96,7 @@ A Advertising Cloud usa cookies para mapear eventos de envolvimento de anúncios
  <tbody> 
   <tr> 
    <td colname="col1"> <p>Informações armazenadas </p> </td> 
-   <td colname="col2"> <p>Os carimbos de data e hora da última visita ao site do anunciante e o último clique de pesquisa, e a ef_id criada quando o usuário clicou em um anúncio</p> </td> 
+   <td colname="col2"> <p>Os carimbos de data e hora da última visita ao site do anunciante e a última seleção de pesquisa do surfer, e a ef_id criada quando o usuário selecionou um anúncio</p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p>Expiração </p> </td> 

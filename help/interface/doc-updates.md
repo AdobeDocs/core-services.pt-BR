@@ -4,12 +4,12 @@ keywords: Serviços da Experience Cloud
 solution: Experience Cloud
 title: Atualizações de documentação
 uuid: f41c4e9f-e784-4706-8c4b-f430c953670d
-feature: 'Atributos do cliente '
+feature: Atributos do cliente
 topic: Administração
-role: Administrator
+role: Admin
 level: Experienced
 exl-id: 11cc5005-8ec0-4308-bc94-0f78666ea645
-source-git-commit: eef7326f9f04f68eefb60b5d9fd4cc91cbe52119
+source-git-commit: 1fb1abc7311573f976f7e6b6ae67f60ada10a3e7
 workflow-type: tm+mt
 source-wordcount: '247'
 ht-degree: 86%

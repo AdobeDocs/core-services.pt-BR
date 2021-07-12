@@ -6,13 +6,13 @@ title: 'Perguntas frequentes sobre a Experience Cloud '
 index: true
 feature: Admin Console
 topic: Administração
-role: Administrator
+role: Admin
 level: Experienced
 exl-id: 062576da-328e-4b46-9e71-5a25733d607a
-source-git-commit: ebefd433e96da422674e7ee71c8988d4011fed11
+source-git-commit: 1fb1abc7311573f976f7e6b6ae67f60ada10a3e7
 workflow-type: tm+mt
 source-wordcount: '777'
-ht-degree: 87%
+ht-degree: 88%
 
 ---
 
@@ -70,7 +70,7 @@ O provisionamento na Experience Cloud significa que:
 
 * Os direitos do usuário e o gerenciamento de produtos são executados no [Adobe Admin Console](https://adminconsole.adobe.com/enterprise) (link do produto).
 
-* **Importante:** administradores do Analytics, consultem [Gerenciar usuários do Analytics no Admin Console](https://experienceleague.adobe.com/docs/analytics/admin/user-product-management/user-management/migrate-users/c-migration-tool.html?lang=en) sobre como migrar IDs de usuários das Ferramentas administrativas do Analytics para o Admin Console.
+* **Importante:** administradores do Analytics, consultem [Gerenciar usuários do Analytics no Admin Console](https://experienceleague.adobe.com/docs/analytics/admin/user-product-management/user-management/migrate-users/c-migration-tool.html?lang=pt-BR) sobre como migrar IDs de usuários das Ferramentas administrativas do Analytics para o Admin Console.
 
 ## Como proceder se alguém não conseguir fazer logon na Experience Cloud?
 

@@ -9,10 +9,10 @@ topic: Administração
 role: Admin
 level: Experienced
 exl-id: b71d144c-a097-4cdb-9721-671519d38aff
-source-git-commit: 1fb1abc7311573f976f7e6b6ae67f60ada10a3e7
+source-git-commit: 31cfb3a85c255b72cbe5599aca09494c22fe4301
 workflow-type: tm+mt
-source-wordcount: '4199'
-ht-degree: 89%
+source-wordcount: '4224'
+ht-degree: 88%
 
 ---
 
@@ -23,6 +23,10 @@ Recursos, notas de versão e problemas conhecidos dos Componentes da interface c
 Para obter uma lista de atualizações de documentação, consulte [Experience Cloud](doc-updates.md#concept_4C8983FCD23848A4B1E4C2D99ED82784).
 
 Para obter as notas de versão que abrangem todas as soluções, consulte [Notas de versão da Experience Cloud](https://experienceleague.adobe.com/docs/release-notes/experience-cloud/current.html?lang=pt-BR).
+
+## Julho - 2021
+
+A Pesquisa unificada é atualizada para estar disponível para Journey Optimizer, Ofertas e Experience League. Anteriormente, esse recurso estava disponível somente para usuários do Experience Platform.
 
 ## Junho - 2021
 

@@ -9,10 +9,10 @@ topic: Administração
 role: Admin
 level: Experienced
 exl-id: 7f8fa610-32f0-4b18-8054-3ba05436a10e
-source-git-commit: 1fb1abc7311573f976f7e6b6ae67f60ada10a3e7
+source-git-commit: aa50cf84ce4e1406d1222f416d9193ff2361fbee
 workflow-type: tm+mt
-source-wordcount: '1396'
-ht-degree: 77%
+source-wordcount: '1378'
+ht-degree: 76%
 
 ---
 
@@ -70,10 +70,6 @@ Crie e gerencie público na Biblioteca de público-alvo da Experience Cloud. Os 
 
 Ajuda: [Atributos do cliente](attributes.md#concept_ACFEE7C8B8E94875BA0825CDF4913AF1)
 
->[!NOTE]
->
->Atributos do cliente é um serviço legado, agora em manutenção.
-
 Se você capturar os dados de clientes de empresas em um banco de dados do gerenciamento de relacionamento com o cliente (CRM), é possível fazer upload dos dados em uma fonte de dados do Atributo do cliente no Experience Cloud. Após o upload, use os dados em [!DNL Adobe Analytics] e [!DNL Adobe Target].
 
 **Soluções ou serviços aplicáveis**
@@ -84,10 +80,6 @@ Se você capturar os dados de clientes de empresas em um banco de dados do geren
 ## Ativos da Experience Cloud {#section_92BC5DFDB0E0499CB0DD34B85E06F79A}
 
 Ajuda: [Compartilhar pastas da Experience Cloud com a Creative Cloud](creative-cloud.md)
-
->[!NOTE]
->
->Os ativos são um serviço principal herdado, agora em manutenção.
 
 Compartilhe pastas e ativos entre a Experience Cloud e a Creative Cloud. Colabore, anote ativos compartilhados e use-os nas soluções da Experience Cloud, como o [!DNL Social] e o [!DNL Target].
 

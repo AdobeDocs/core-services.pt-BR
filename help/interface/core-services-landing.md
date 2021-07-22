@@ -7,10 +7,10 @@ topic: Administração
 role: Admin
 level: Experienced
 exl-id: 020a6478-13ef-42c0-80de-7867cfe0c937
-source-git-commit: 1fb1abc7311573f976f7e6b6ae67f60ada10a3e7
+source-git-commit: aa50cf84ce4e1406d1222f416d9193ff2361fbee
 workflow-type: tm+mt
-source-wordcount: '372'
-ht-degree: 56%
+source-wordcount: '364'
+ht-degree: 58%
 
 ---
 
@@ -33,7 +33,7 @@ Esta ajuda descreve os seguintes produtos e serviços:
 | [Pessoas - Atributos do cliente](attributes.md) | Crie casos de uso de orquestração em tempo real usando dados contextuais armazenados em eventos ou fontes de dados. O [!UICONTROL Journey Orchestration] é um serviço de aplicativos integrado à Experience Platform. |
 | [Serviço de localização](https://experienceleague.adobe.com/docs/places/using/home.html?lang=pt-BR) | O Adobe [!UICONTROL Experience Platform Location Service] é um serviço de localização geográfica. Ele permite que aplicativos móveis com percepção de localização compreendam o contexto de localização usando interfaces SDK avançadas e fáceis de usar, acompanhadas por um banco de dados flexível de pontos de interesse (POIs). |
 | [Activation](activation.md) | A Ativation inclui o produto de gerenciamento de tags mais recente, chamado Experience Platform Data Collection (Launch) e Experience Cloud Triggers. |
-| [Assets](experience-cloud-assets.md) | O Experience Cloud Assets oferece um repositório único e centralizado de ativos prontos para marketing, que podem ser compartilhados entre as soluções. (Os ativos são um serviço herdado, agora em manutenção.) |
+| [Assets](experience-cloud-assets.md) | Os ativos da Experience Cloud oferecem um repositório único e centralizado dos ativos prontos para marketing, que podem ser compartilhados entre as soluções. |
 | [Administração](admin-getting-started.md) | Saiba mais sobre como fazer logon no Admin Console, gerenciar permissões de usuário e perfis de produto da Experience Cloud e suporte ao navegador. |
 | [Cookies](cookies-privacy.md) | A manutenção da privacidade do cliente e da segurança de dados são as principais prioridades da Adobe. O Adobe participa de várias organizações de privacidade e coopera com reguladores de privacidade e princípios autorreguladores. |
 

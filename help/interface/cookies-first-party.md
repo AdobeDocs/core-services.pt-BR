@@ -10,10 +10,10 @@ topic: Administração
 role: Admin
 level: Experienced
 exl-id: e15abde5-8027-4aed-a0c1-8a6fc248db5e
-source-git-commit: 1fb1abc7311573f976f7e6b6ae67f60ada10a3e7
+source-git-commit: 9a232162008524d900e3655716a84961c287c773
 workflow-type: tm+mt
-source-wordcount: '1579'
-ht-degree: 60%
+source-wordcount: '1617'
+ht-degree: 46%
 
 ---
 
@@ -21,20 +21,18 @@ ht-degree: 60%
 
 O Analytics usa cookies para fornecer informações sobre variáveis e componentes que não persistem entre as solicitações de imagem e as sessões do navegador. Sempre que possível, a Adobe usa cookies primários para registrar atividades no site. Para registrar a atividade em sites diferentes, como em outros domínios pertencentes a você, são necessários cookies de terceiros.
 
-Muitos navegadores e aplicativos antispyware foram projetados para rejeitar e excluir cookies de terceiros, incluindo cookies usados na coleta de dados [!DNL Analytics]. Para apoiar o rastreamento de como os visitantes interagem com o seu site, você deve garantir que configurou a coleção de dados para usar cookies primários:
+Muitos navegadores e aplicativos antispyware foram projetados para rejeitar e excluir cookies de terceiros. O Adobe garante que os cookies sempre possam ser definidos, mesmo que os cookies de terceiros estejam bloqueados. O comportamento específico varia dependendo se você está usando o serviço de identidade do Experience Platform (serviço ECID) ou os identificadores herdados do Analytics (também conhecidos como o cookie s_vi):
 
-Há duas opções disponíveis para implementar cookies próprios:
+* O [Experience Platform Identity Service (ECID Service)](https://experienceleague.adobe.com/docs/id-service/using/intro/overview.html?lang=en) definirá cookies primários automaticamente, independentemente de o domínio de coleta corresponder ao domínio do site. Se não corresponderem, o Serviço de identidade usará o JavaScript para definir cookies no domínio do site.
+* Se estiver usando [Identificadores herdados do Analytics](https://experienceleague.adobe.com/docs/core-services/interface/administration/ec-cookies/cookies-analytics.html?lang=en) (também conhecido como cookie `s_vi`), isso dependerá de como você configurou seu servidor de coleta de dados. Se o servidor de coleta de dados corresponder ao domínio do site, os cookies serão definidos como primários. Se o servidor de coleta não corresponder ao seu domínio atual, os cookies serão definidos como de terceiros. Nesse caso, se cookies de terceiros estiverem bloqueados, o Analytics definirá um [id de fallback (s_fid)](cookies-analytics.md) próprio em vez do cookie &quot;s_vi&quot; padrão.
 
-* Se você estiver usando o Experience Platform Identity Service (Serviço ECID), ele define cookies automaticamente no contexto primário usando JavaScript.
-* Se estiver usando [!DNL Analytics] identificadores herdados (também conhecido como cookie `s_vi`), isso dependerá de como você configurou seu servidor de coleta de dados. Se o servidor de coleta de dados corresponder ao domínio do site, os cookies serão definidos como primários. Se o servidor de coleta não corresponder ao seu domínio atual, os cookies serão definidos como de terceiros. Nesse caso, se cookies de terceiros estiverem bloqueados, [!DNL Analytics] definirá um [id de fallback (s_fid)](cookies-analytics.md) próprio em vez do cookie &quot;s_vi&quot; padrão.
-
-Para garantir que o servidor de coleta corresponda ao domínio do site, você pode usar uma implementação CNAME na qual os cookies sejam definidos em um contexto próprio. Isso envolve alterações nas configurações de DNS da empresa para configurar um alias CNAME para apontar para um domínio hospedado pela Adobe. Observe que, embora vários produtos da Adobe sejam compartíveis com o uso de um CNAME, em todos os casos o CNAME é usado para criar um endpoint de terceiros confiável para um cliente específico, e é de sua propriedade. Se você controlar vários domínios, eles poderão usar um único endpoint CNAME para rastrear usuários em seus domínios, mas sempre que o domínio do site não corresponder aos cookies de domínio CNAME for definido como terceiros.
+Se quiser garantir que o servidor de coleta corresponda ao domínio do site, você poderá usar uma implementação CNAME que habilitará o encaminhamento de um domínio personalizado especificado na implementação CNAME para os servidores de coleta do Adobe. Isso envolve alterações nas configurações de DNS da empresa para configurar um alias CNAME para apontar para um domínio hospedado pelo Adobe. Observe que, embora vários produtos da Adobe sejam compartíveis com o uso de um CNAME, em todos os casos o CNAME é usado para criar um endpoint de terceiros confiável para um cliente específico, e é de sua propriedade. Se você controlar vários domínios, eles poderão usar um único endpoint CNAME para rastrear usuários em seus domínios, mas sempre que o domínio do site não corresponder aos cookies de domínio CNAME for definido como terceiros.
 
 >[!NOTE]
 >
->Para ambas as opções, o programa Intelligent Tracking Prevention (ITP) da Apple torna os cookies primários com vida curta em navegadores regidos pela ITP, que incluem o Safari no macOS e todos os navegadores no iOS e iPadOS. A partir de novembro de 2020, ambos os tipos de cookies têm um prazo de sete dias. Essa expiração está sujeita a alterações.
+>Independentemente de o domínio de coleta corresponder ao domínio do site, o programa de Prevenção de Rastreamento Inteligente (ITP) da Apple faz com que os cookies primários definidos pela Adobe tenham vida curta em navegadores regidos pela ITP, que incluem o Safari no macOS e todos os navegadores no iOS e iPadOS. A partir de novembro de 2020, os cookies definidos por CNAME também terão a mesma expiração dos cookies definidos pelo JavaScript. Essa expiração está sujeita a alterações.
 
-Na segunda opção usando um CNAME, se o site tiver páginas seguras usando o protocolo HTTPS, você poderá trabalhar com a Adobe para obter um certificado SSL para implementar cookies primários. O Adobe recomenda que você use exclusivamente HTTPS para coleta de dados, já que o Adobe está removendo o suporte para coleta HTTP na segunda metade de 2020.
+Se quiser estabelecer um CNAME para a coleta de dados e se o site tiver páginas seguras usando o protocolo HTTPS, poderá trabalhar com o Adobe para obter um certificado SSL.
 
 Muitas vezes o processo de emissão do certificado SSL pode ser confuso e demorado. Como resultado, a Adobe estabeleceu uma parceria com a DigiCert, uma Autoridade de Certificação (CA) líder do setor, e desenvolveu um processo integrado pelo qual a compra e o gerenciamento desses certificados são automatizados.
 
@@ -42,15 +40,15 @@ Com sua permissão, trabalhamos com CA para emitir, implantar e gerenciar um nov
 
 ## Programa de certificado Adobe Managed
 
-O Adobe Managed Certificate Program é o processo recomendado para implementar um novo certificado SSL próprio para cookies próprios.
+O Adobe Managed Certificate Program é o processo recomendado para configurar o certificado SSL próprio necessário para uma implementação CNAME, o que garante que o servidor de coleta de Adobe corresponde ao domínio do site.
 
-O programa Adobe Managed Certificate permite implementar um novo certificado SSL próprio para cookies próprios sem custo adicional (para os primeiros 100 CNAMEs). Caso tenha seu próprio certificado SSL gerenciado pelo cliente no momento, fale com o Atendimento ao cliente do Adobe sobre a migração para o Adobe-Managed Certificate Program.
+O programa Adobe Managed Certificate permite implementar um novo certificado SSL próprio sem custo adicional (para seus primeiros 100 CNAMEs). Caso tenha seu próprio certificado SSL gerenciado pelo cliente no momento, fale com o Atendimento ao cliente do Adobe sobre a migração para o Adobe-Managed Certificate Program.
 
 ### Implementação
 
-A seguir, veja como implementar um novo certificado SSL próprio para cookies próprios:
+Veja como implementar um novo certificado SSL próprio para coleta de dados primários:
 
-1. Preencha o [Formulário de solicitação de cookie primário](/help/interface/cookies/assets/First_Part_Domain_Request_Form.xlsx) e abra um ticket no Atendimento ao cliente, solicitando a configuração de cookies próprios no programa Adobe-Managed. Cada campo é descrito no documento com exemplos.
+1. Preencha o [Formulário de solicitação de domínio próprio](/help/interface/cookies/assets/First_Part_Domain_Request_Form.xlsx) e abra um ticket no Atendimento ao cliente, solicitando a configuração da coleta de dados primários no programa Adobe-Managed. Cada campo é descrito no documento com exemplos.
 
 2. Crie registros CNAME (consulte as instruções abaixo).
 
@@ -103,10 +101,6 @@ O especialista em FPC fornece o nome de host configurado e o CNAME para o qual e
 
 Contanto que o código de implementação não seja alterado, esta etapa não afetará a coleta de dados e poderá ser feita a qualquer momento após a atualização do código de implementação.
 
->[!NOTE]
->
->O serviço de ID de visitante da Experience Cloud oferece uma alternativa para configurar um CNAME para ativar cookies primários.
-
 ## Validar o encaminhamento do nome do host {#validate}
 
 Os seguintes métodos estão disponíveis para validação:
@@ -157,7 +151,7 @@ Address: 54.187.216.46
 
 ## Atualizar código de implementação {#update}
 
-Antes de editar o código no site para usar cookies primários, conclua estes pré-requisitos:
+Antes de editar o código no site para usar a coleta de dados primária, preencha estes pré-requisitos:
 
 * Solicite um certificado SSL seguindo as etapas descritas acima, na seção *Implementar* do [Programa de certificado Adobe-gerenciado](#adobe-managed-certificate-program).
 * Criar registros CNAME (veja acima).
@@ -166,12 +160,12 @@ Antes de editar o código no site para usar cookies primários, conclua estes pr
 Após verificar que os nomes de host estão respondendo e encaminhando para os servidores de coleta de dados do Adobe, é possível alterar a implementação para apontar para seus próprios nomes de host da coleta de dados.
 
 1. Abra seu arquivo JavaScript principal (`s_code.js/AppMeasurement.js`).
-1. Se quiser atualizar a versão de seu código, substitua o arquivo`s_code.js/AppMeasurement.js` completo pela versão mais nova e substitua todos os plug-ins ou personalizações (se houver). **Ou**, se quiser atualizar o código pertinente somente a cookies próprios, localize as variáveis s.trackingServer e s.trackingServerSecure (se estiver usando o SSL) e aponte-as para os novos nomes de host da coleta de dados. Usando o mysite.com como exemplo: `s.trackingServer = "metrics.mysite.com"` `s.trackingServerSecure = "smetrics.mysite.com"`
+1. Se quiser atualizar a versão de seu código, substitua o arquivo`s_code.js/AppMeasurement.js` completo pela versão mais nova e substitua todos os plug-ins ou personalizações (se houver). **Ou**, se quiser atualizar o código pertinente somente à coleta de dados primária, localize as variáveis s.trackingServer e s.trackingServerSecure (se estiver usando o SSL) e aponte-as para os novos nomes de host da coleta de dados. Usando o mysite.com como exemplo: `s.trackingServer = "metrics.mysite.com"` `s.trackingServerSecure = "smetrics.mysite.com"`
 
 1. Carregue o arquivo JavaScript principal atualizado em seu site.
 
-1. Se você estiver mudando de uma implementação antiga para cookies próprios ou mudando para um nome de host de coleção própria diferente, o Adobe recomenda migrar os visitantes do domínio anterior para o novo domínio.
+1. Se estiver mudando para a coleta de dados primários a partir de uma implementação antiga ou mudando para um nome de host de coleção própria diferente, o Adobe recomenda migrar os visitantes do domínio anterior para o novo domínio.
 
 Consulte [Migração de visitantes](https://experienceleague.adobe.com/docs/analytics/implementation/javascript-implementation/visitor-migration.html?lang=en) no Guia de implementação do Analytics.
 
-Após carregar o arquivo JavaScript, tudo é configurado para a coleta de dados de cookie próprio. O Adobe recomenda monitorar os relatórios do Analytics das próximas horas para garantir que a coleta de dados continue normalmente. Caso contrário, verifique se todas as etapas acima foram concluídas e peça para um dos usuários suportados da organização entrar em contato com o Atendimento ao cliente.
+Após carregar o arquivo JavaScript, tudo é configurado para a coleta de dados de próprio. O Adobe recomenda monitorar os relatórios do Analytics das próximas horas para garantir que a coleta de dados continue normalmente. Caso contrário, verifique se todas as etapas acima foram concluídas e peça para um dos usuários suportados da organização entrar em contato com o Atendimento ao cliente.

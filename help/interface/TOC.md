@@ -4,10 +4,10 @@ user-guide-title: 'Componentes da interface central da Experience Cloud '
 breadcrumb-title: Componentes da interface central da Experience Cloud
 user-guide-description: Saiba mais sobre a interface do Experience Cloud, configure as preferências e pesquise objetos comerciais. Obtenha ajuda sobre o gerenciamento de usuários e produtos, atributos do cliente, biblioteca de público-alvo, cookies e ativos do Experience Cloud.
 index: true
-source-git-commit: 62c49148ec5dfc945f946cea9a5948a8be781111
+source-git-commit: 21701779b0a502b39791a59104182fc5d3323f7b
 workflow-type: tm+mt
 source-wordcount: '344'
-ht-degree: 80%
+ht-degree: 81%
 
 ---
 
@@ -36,7 +36,7 @@ ht-degree: 80%
       + [Considerações de privacidade para atributos do cliente](privacy-mac.md)
    + Experience Cloud Activation {#activation}
       + [Visão geral de Activation](activation.md)
-      + [Guia do usuário da Experience Platform Launch](https://experienceleague.adobe.com/docs/launch/using/home.html?lang=pt-BR)
+      + [Guia do usuário da Experience Platform Launch](https://experienceleague.adobe.com/docs/experience-platform/tags/home.html?lang=en)
       + [Triggers](triggers.md)
    + Ativos da Experience Cloud {#assets}
       + [Visão geral de ativos da Experience Cloud](experience-cloud-assets.md)
@@ -47,7 +47,7 @@ ht-degree: 80%
       + [Faça upload de um ativo para uma pasta compartilhada no desktop da Creative Cloud](t-cc-asset-upload-thor.md)
       + [Requisitos para compartilhamento do arquivo do ativo](assets-file-reqs.md)
       + [Comportamento das pastas compartilhadas](asset-behavior.md)
-+ Administração de Experience Cloud {#administration}
++ Experience Cloud administração {#administration}
    + [Gerenciar a identidade de usuário e os produtos da Experience Cloud (Admin Console)](admin-getting-started.md)
    + [Exibir detalhes do usuário da Experience Cloud (Ferramenta administrativa)](admin-tool-experience-cloud.md)
    + [Perguntas frequentes](faq.md)
@@ -71,7 +71,7 @@ ht-degree: 80%
       + [Como as alterações no suporte a cookies de terceiros afetam os clientes ](cookies-thirdparty.md)
 + Notas de versão da interface do usuário do Experience Cloud {#release-notes}
    + [Notas de versão para componentes da interface central](release-notes.md)
-   + [Notas de versão para todo o Experience Cloud](https://experienceleague.adobe.com/docs/release-notes/experience-cloud/current.html?lang=en)
+   + [Notas de versão para todo o Experience Cloud](https://experienceleague.adobe.com/docs/release-notes/experience-cloud/current.html?lang=pt-BR)
 + Mais recursos {#more-resources}
    + [Fórum](https://experienceleaguecommunities.adobe.com/)
    + [Terminologia](terms.md)

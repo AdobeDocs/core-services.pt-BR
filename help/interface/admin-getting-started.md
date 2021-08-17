@@ -8,10 +8,10 @@ topic: Administração
 role: Admin
 level: Experienced
 exl-id: af9eda5b-d984-44b7-a7b3-52dfc4e03d8f
-source-git-commit: 1fb1abc7311573f976f7e6b6ae67f60ada10a3e7
+source-git-commit: 2419501884d5cdfc4b418973c52045330abc562f
 workflow-type: tm+mt
-source-wordcount: '1275'
-ht-degree: 94%
+source-wordcount: '1274'
+ht-degree: 93%
 
 ---
 
@@ -147,7 +147,7 @@ A coleção de dados da [!UICONTROL Experience Platform] ([!UICONTROL Launch]) �
 
 Convide usuários para o [!UICONTROL Platform Launch] e atribua funções e direitos de usuário.
 
-Consulte [Permissões de usuário](https://experienceleague.adobe.com/docs/launch/using/admin/user-permissions.html?lang=pt-BR#admin) para obter informações sobre as permissões do usuário no Admin Console e sobre a configuração de opções específicas do Launch, incluindo a atribuição de direitos aos perfis.
+Consulte [Permissões de usuário](https://experienceleague.adobe.com/docs/experience-platform/tags/admin/user-permissions.html?lang=en) para obter informações sobre as permissões do usuário no Admin Console e sobre a configuração de opções específicas do Launch, incluindo a atribuição de direitos aos perfis.
 
 ## Experience Manager as a Cloud Service
 

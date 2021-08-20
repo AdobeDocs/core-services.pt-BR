@@ -7,16 +7,20 @@ topic: Administração
 role: Admin
 level: Experienced
 exl-id: 6818edea-31b1-49fc-bca2-32828c7ca78d
-source-git-commit: 1fb1abc7311573f976f7e6b6ae67f60ada10a3e7
+source-git-commit: 1f2dd42b4803517e6c513038c00b2070c08a51bb
 workflow-type: tm+mt
-source-wordcount: '538'
-ht-degree: 84%
+source-wordcount: '571'
+ht-degree: 81%
 
 ---
 
 # Cookies da Advertising Cloud{#advertising-cloud-cookies}
 
 A Advertising Cloud usa cookies para mapear eventos de envolvimento de anúncios a eventos de conversão e, possivelmente, para usar essas informações para otimizar ofertas de anúncios.
+
+>[!NOTE]
+>
+>A tag beta do Javascript Advertising Cloud que usa o [Adobe Experience Cloud ID (ECID) Service](https://experienceleague.adobe.com/docs/id-service/using/intro/overview.html?lang=pt-BR) cria [cookies próprios Experience Cloud s_ecid](cookies-first-party.md), não cookies Advertising Cloud.
 
 ## Nome do cookie: _lcc
 

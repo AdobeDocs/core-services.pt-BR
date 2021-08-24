@@ -12,7 +12,7 @@ exl-id: ab6de845-99ea-4cd8-b7cd-012fb641403f
 source-git-commit: 1fb1abc7311573f976f7e6b6ae67f60ada10a3e7
 workflow-type: tm+mt
 source-wordcount: '611'
-ht-degree: 92%
+ht-degree: 100%
 
 ---
 
@@ -32,11 +32,11 @@ O Audience Manager depende de alguns cookies simples para executar funções dif
  <tbody> 
   <tr> 
    <td colname="col1"> <p> <b>Propósito</b> </p> </td> 
-   <td colname="col2"> <p> O <span class="keyword">Audience Manager</span> define este cookie para atribuir um identificador exclusivo a um visitante do site. O cookie <span class="wintitle"> demdex </span> ajuda o <span class="keyword"> Audience Manager </span> a executar funções básicas, como a identificação do visitante, a sincronização de ID, a segmentação, a modelagem, a geração de relatórios e assim por diante. </p> </td> 
+   <td colname="col2"> <p> O <span class="keyword">Audience Manager</span> define este cookie para atribuir um identificador exclusivo a um visitante do site. O cookie <span class="wintitle">demdex</span> auxilia o <span class="keyword">Audience Manager</span> na execução de funções básicas, como a identificação do visitante, a sincronização de ID, a segmentação, a modelagem, a geração de relatórios etc. </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p> <b>Conteúdo</b> </p> </td> 
-   <td colname="col2"> <p>O cookie <span class="wintitle">demdex</span> contém um identificador de usuário único (UUID), conforme mostrado no exemplo abaixo: </p> <p> <span class="codeph"> 06151304227769720433039235178204449977 </span> </p> <p>Consulte também <a href="https://experienceleague.adobe.com/docs/audience-manager/user-guide/reference/ids-in-aam.html?lang=en" format="https" scope="external">Índice de IDs no Audience Manager</a>. </p> </td> 
+   <td colname="col2"> <p>O cookie <span class="wintitle">demdex</span> contém um identificador de usuário único (UUID), conforme mostrado no exemplo abaixo: </p> <p> <span class="codeph"> 06151304227769720433039235178204449977 </span> </p> <p>Consulte também <a href="https://experienceleague.adobe.com/docs/audience-manager/user-guide/reference/ids-in-aam.html?lang=pt-BR" format="https" scope="external">Índice de IDs no Audience Manager</a>. </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p> <b>Outros atributos</b> </p> </td> 
@@ -129,7 +129,7 @@ A tabela a seguir lista e define os elementos de um cookie `dextp` por localiza�
  <tbody> 
   <tr> 
    <td colname="col1"> <p> <b>Propósito</b> </p> </td> 
-   <td colname="col2"> <p> O <span class="keyword">Audience Manager</span> define este cookie quando ocorre um erro ao enviar dados para um <a href="https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/destinations/destinations.html?lang=en" format="https" scope="external">destino</a>. </p> </td> 
+   <td colname="col2"> <p> O <span class="keyword">Audience Manager</span> define este cookie quando ocorre um erro ao enviar dados para um <a href="https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/destinations/destinations.html?lang=pt-BR" format="https" scope="external">destino</a>. </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p> <b>Conteúdo</b> </p> </td> 

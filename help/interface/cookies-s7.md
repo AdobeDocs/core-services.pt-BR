@@ -12,11 +12,11 @@ exl-id: ecb8d17f-f752-44ca-8877-44752c28dc70
 source-git-commit: 1fb1abc7311573f976f7e6b6ae67f60ada10a3e7
 workflow-type: tm+mt
 source-wordcount: '415'
-ht-degree: 85%
+ht-degree: 100%
 
 ---
 
-# Cookies do Scene7{#scene-cookies}
+# Cookies do Scene7 {#scene-cookies}
 
 O Scene7 usa cookies para armazenar informações úteis que podem ser usadas para fornecer mídia dinâmica ao navegador.
 
@@ -24,13 +24,13 @@ O Scene7 armazena informações localmente para alguns visualizadores mais antig
 
 Em visualizadores AS2, os cookies:
 
-* Rastreie o estado da sessão de um usuário, como a página atual e a imagem exibida, o nível de zoom atual e assim por diante.
+* Rastreiam o estado de sessão de um usuário, como a página atual e a imagem exibida, o nível de zoom atual etc.
 * Determinam quanto tempo passou desde a sessão anterior do usuário. O visualizador usa essas informações para decidir se deseja continuar uma sessão anterior ou iniciar uma nova. Essas informações também são enviadas para os servidores do Scene7, mas não são usadas.
 
 No visualizador AS2 Flash eCatalog, os cookies:
 
 * Armazenam conteúdo gerado pelo usuário (principalmente o conteúdo inserido pelo usuário no recurso &quot;notas adesivas&quot; do visualizador de catálogo eletrônico). Esse conteúdo é restaurado quando o usuário retoma uma sessão.
-* Quando o usuário cria um email para compartilhar o catálogo eletrônico com outro usuário, o conteúdo das notas adesivas do segundo marcador do visualizador AS2 é copiado para os servidores Adobe iniciantes para fornecê-lo ao destinatário. Quando o destinatário inicia a sessão do visualizador, o conteúdo das notas adesivas é recuperado do servidor e copiado em um cookie. Esse recurso é pouco utilizado, portanto, não expira e o conteúdo obsoleto não é removido. Atualmente, ela persiste nos servidores indefinidamente.
+* Quando o usuário inicia um email para compartilhar o catálogo eletrônico com outro usuário, o conteúdo das notas adesivas do segundo marcador de visualizadores AS2 é copiado para os nossos servidores e, em seguida, é fornecido ao destinatário. Quando o destinatário inicia a sessão do visualizador, o conteúdo das notas adesivas é recuperado do servidor e copiado em um cookie. Esse recurso é pouco utilizado, portanto, não expira e o conteúdo obsoleto não é removido. Atualmente, ela persiste nos servidores indefinidamente.
 
 Os visualizadores AS3 mais recentes não implementam a persistência de sessão.
 

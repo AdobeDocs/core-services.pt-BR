@@ -1,6 +1,6 @@
 ---
 description: 'Saiba mais sobre como compartilhar pastas e assets entre a Experience Cloud e a Creative Cloud. '
-keywords: 'compartilhamento de ativos, Creative Cloud, '
+keywords: compartilhamento de ativos, Creative Cloud,
 solution: Experience Cloud
 title: 'Compartilhar as pastas e os ativos da Experience Cloud com a Creative Cloud '
 feature: Assets
@@ -11,7 +11,7 @@ exl-id: 41290ea3-86ce-4e9d-8c3c-bbe30c337c4c
 source-git-commit: 1fb1abc7311573f976f7e6b6ae67f60ada10a3e7
 workflow-type: tm+mt
 source-wordcount: '180'
-ht-degree: 94%
+ht-degree: 100%
 
 ---
 
@@ -33,4 +33,4 @@ Antes de os usuários da Creative Cloud terem acesso aos ativos, eles devem esta
 
 Ao criar atividades no [!DNL Adobe Target], você pode usar um ativo de imagem compartilhada ao trocar imagens na [!UICONTROL Biblioteca de ofertas].
 
-Consulte [Biblioteca de ofertas](https://experienceleague.adobe.com/docs/target/using/experiences/offers/manage-content.html?lang=en) na Ajuda do [!DNL Target].
+Consulte [Biblioteca de ofertas](https://experienceleague.adobe.com/docs/target/using/experiences/offers/manage-content.html?lang=pt-BR) na Ajuda do [!DNL Target].

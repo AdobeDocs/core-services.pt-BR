@@ -4,7 +4,7 @@ keywords: Atributos do cliente;serviços principais
 solution: Experience Cloud
 title: 'Saiba mais sobre arquivos de dados e fontes de dados para Atributos do cliente '
 uuid: 9dd0e364-889b-45db-b190-85c0930a101e
-feature: 'Atributos do cliente '
+feature: Atributos do cliente
 topic: Administração
 role: Admin
 level: Experienced
@@ -12,17 +12,17 @@ exl-id: e2dfe10d-7003-4afa-a5e6-57703d74efd4
 source-git-commit: 1fb1abc7311573f976f7e6b6ae67f60ada10a3e7
 workflow-type: tm+mt
 source-wordcount: '1198'
-ht-degree: 69%
+ht-degree: 100%
 
 ---
 
 # Sobre arquivo de dados e fonte de dados para atributos do cliente
 
-Os requisitos do arquivo de dados e várias fontes de dados para fazer upload dos atributos do cliente no Experience Cloud.
+As exigências de arquivos de dados e várias fontes de dados para fazer upload dos atributos do cliente na Experience Cloud.
 
-Você precisa acessar o CRM ou dados semelhantes da sua empresa. Os dados dos quais você fez upload na Experience Cloud devem ser um arquivo `.csv`. Ao fazer upload via FTP ou sFTP, você também fará upload de um arquivo `.fin`.
+Você precisará acessar o CRM ou dados semelhantes da sua empresa. Os dados dos quais você fez upload na Experience Cloud devem ser um arquivo `.csv`. Ao fazer upload via FTP ou sFTP, você também fará upload de um arquivo `.fin`.
 
-Os atributos do cliente foram criados para lidar com alguns arquivos por dia. Para atenuar o problema de ter muitos arquivos pequenos atrasando o processamento, os arquivos enviados em 30 minutos de um lote anterior da mesma organização são roteados para uma fila de prioridade mais baixa.
+Os atributos do cliente foram criados para lidar com alguns arquivos por dia. Para mitigar o problema de um grande número de arquivos pequenos que atrasam o processamento, os arquivos enviados dentro de 30 minutos após o envio de um lote anterior da mesma organização são encaminhados para uma fila de prioridade mais baixa.
 
 ## Tipos de arquivo permitidos e requisitos de nomenclatura {#section_6F64FA02ACCC4215B0862CB6A1821FBF}
 
@@ -85,7 +85,7 @@ O mesmo arquivo exibido em um editor de texto:
   </tr> 
   <tr> 
    <td colname="col1"> <p>Limites do atributo </p> </td> 
-   <td colname="col2"> <p>Você pode fazer upload de centenas de colunas de <span class="filepath"> .csv </span> para o serviço de Atributo do cliente no Experience Cloud. No entanto, ao configurar assinaturas e selecionar atributos, os seguintes limites poderão ser aplicados dependendo das suas soluções: </p> <p> 
+   <td colname="col2"> <p>Você pode fazer upload de centenas de colunas de <span class="filepath">.csv</span> para o serviço de atributos do cliente na Experience Cloud. No entanto, ao configurar assinaturas e selecionar atributos, os seguintes limites poderão ser aplicados dependendo das suas soluções: </p> <p> 
      <ul id="ul_2BB85067918D4BB3B59394F3E3E37A6D"> 
       <li id="li_93703988B9934384B4B94A839D028380"> <b>Analytics Standard</b>: 3 total </li> 
       <li id="li_D1E5E7BD24C54591B14D15DE97447835"> <b>Analytics Premium</b>: 200 por conjunto de relatórios </li> 
@@ -121,7 +121,7 @@ O mesmo arquivo exibido em um editor de texto:
   </tr> 
   <tr> 
    <td colname="col1"> <p>Vários arquivos </p> </td> 
-   <td colname="col2"> <p>Ao fazer upload dos dados de Atributo do cliente, se você tiver vários arquivos que deseja fazer upload rapidamente e, especialmente, se os arquivos forem grandes, verifique se o arquivo anterior foi processado antes de fazer upload do próximo arquivo. Você pode monitorar isso verificando quando o arquivo anterior foi movido para a pasta processada ou com falha na conta FTP da [!UICONTROL Customer Attributes]. </p> <p> Dividir um arquivo grande em arquivos menores e enviá-los rapidamente pode, na verdade, atrasar o processamento, a menos que seja possível garantir que cada arquivo seja processado antes de enviar o próximo. </p> </td> 
+   <td colname="col2"> <p>Ao fazer upload dos dados do atributo do cliente, se você tiver vários arquivos dos quais deseja fazer upload rapidamente e, sobretudo, se os arquivos forem grandes, verifique se o arquivo anterior foi processado antes de fazer upload do próximo arquivo. Sendo assim, os [!UICONTROL atributos do cliente] estão associados ao visitante por toda a vida útil do perfil do visitante no [!DNL Analytics]. </p> <p> Na verdade, dividir um arquivo grande em arquivos menores e enviá-los rapidamente pode atrasar o processamento, a menos que seja possível garantir que cada arquivo seja completamente processado antes do envio do próximo. </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p>Codificação de caracteres </p> </td> 
@@ -129,7 +129,7 @@ O mesmo arquivo exibido em um editor de texto:
   </tr> 
    <tr> 
    <td colname="col1"> <p>Dados históricos </p> </td> 
-   <td colname="col2"> <p> Os atributos do cliente estão vinculados ao perfil de visitante subjacente no [!DNL Analytics]. Dessa forma, [!UICONTROL Atributos do cliente] são associados ao visitante por toda a vida do perfil do visitante no [!DNL Analytics]. Esse perfil inclui o comportamento ocorrido antes que o cliente tenha feito logon pela primeira vez. </p> <p> Se você usar o método de preenchimento retroativo do Data Warehouse, os dados serão vinculados a um post_visid_high/low com base na ID do Analytics (AID). Se estiver usando o Serviço da Experience Cloud ID, os dados serão vinculados a um post_visid_high/low com base na Experience Cloud ID (MID). </p> </td> 
+   <td colname="col2"> <p> Os atributos do cliente estão ligados ao perfil de visitante subjacente no [!DNL Analytics]. Sendo assim, os [!UICONTROL atributos do cliente] estão associados ao visitante por toda a vida útil do perfil do visitante no [!DNL Analytics]. Isso inclui comportamentos registrados antes do primeiro logon do cliente. </p> <p> Se você usa o método de preenchimento retroativo do Data Warehouse, os dados são ligados a um post_visid_high/low com base na ID do Analytics (AID). Se estiver usando o Serviço da Experience Cloud ID, os dados serão vinculados a um post_visid_high/low com base na Experience Cloud ID (MID). </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p>Feeds de dados </p> </td> 
@@ -138,15 +138,15 @@ O mesmo arquivo exibido em um editor de texto:
  </tbody> 
 </table>
 
-## Uso de várias fontes de dados {#section_76DEB6001C614F4DB8BCC3E5D05088CB}
+## Uso de múltiplas fontes de dados {#section_76DEB6001C614F4DB8BCC3E5D05088CB}
 
-Ao criar, modificar ou excluir fontes de atributos do cliente, ocorre um atraso de cerca de uma hora antes de as IDs começarem a sincronizar com a nova fonte de dados.
+Ao criar, modificar ou excluir fontes de atributos do cliente, ocorre um atraso de até uma hora antes de as IDs começarem a ser sincronizadas com a nova fonte de dados.
 
-A ID de alias de cada fonte de atributo do cliente deve ser exclusiva. Se você tiver várias fontes de dados que usam a mesma ID, elas poderão ser configuradas da seguinte maneira:
+A ID do alias de cada fonte de atributo do cliente deve ser exclusiva. Se você tiver múltiplas fontes de dados que utilizam a mesma ID, elas deverão ser configuradas da seguinte maneira:
 
 **Em VisitorAPI.js ou na ferramenta da Experience Cloud ID no Dynamic Tag Management:**
 
-Defina duas IDs do cliente que correspondem às fontes de dados apropriadas:
+Defina duas IDs do cliente que correspondam às fontes de dados apropriadas:
 
 ```
 Visitor.setCustomerIDs({ 
@@ -155,8 +155,8 @@ Visitor.setCustomerIDs({
 });
 ```
 
-(Consulte [IDs do cliente e Estados de autenticação](https://experienceleague.adobe.com/docs/id-service/using/reference/authenticated-state.html?lang=en) para obter mais informações.)
+(Consulte [IDs do cliente e Estados de autenticação](https://experienceleague.adobe.com/docs/id-service/using/reference/authenticated-state.html?lang=pt-BR) para obter mais informações.)
 
 Em **[!UICONTROL Experience Cloud]** > **[!UICONTROL People]** > **[!UICONTROL Atributos do cliente]**:
 
-Crie duas fontes de atributos de clientes usando IDs de aliases exclusivos que correspondentes às IDs de cliente apresentadas acima. Usar esse método permite que a mesma ID de referência seja enviada para várias fontes de atributos do cliente.
+Crie duas fontes de atributos de clientes usando IDs de aliases exclusivos que correspondentes às IDs de cliente apresentadas acima. Usar este método permite que a mesma ID de referência seja enviada para diversas fontes de atributo do cliente.

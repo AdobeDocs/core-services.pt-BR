@@ -1,5 +1,5 @@
 ---
-description: Saiba como criar a fonte de atributo do cliente e carregá-la na Adobe Experience Cloud.
+description: Saiba como criar a fonte de atributo do cliente e fazer o upload dela para a Adobe Experience Cloud.
 keywords: Atributos do cliente;serviços principais
 solution: Experience Cloud
 title: 'Crie uma fonte de atributo do cliente e faça upload do arquivo de dados '
@@ -12,22 +12,22 @@ exl-id: 21ed7c35-aac9-46f1-a50c-84e7c075209c
 source-git-commit: 2419501884d5cdfc4b418973c52045330abc562f
 workflow-type: tm+mt
 source-wordcount: '1151'
-ht-degree: 72%
+ht-degree: 91%
 
 ---
 
 # Crie uma fonte de atributo do cliente e faça upload do arquivo de dados
 
-Crie a fonte de atributos do cliente (arquivos CSV e FIN) e faça upload dos dados. É possível ativar a fonte de dados quando você estiver preparado. Quando a fonte de dados estiver ativa, compartilhe os dados de atributo no Analytics e no Target.
+Crie a fonte de atributo do cliente (arquivos CSV e FIN) e faça upload dos dados. É possível ativar a fonte de dados quando você estiver preparado. Quando a fonte de dados estiver ativa, compartilhe os dados de atributo no Analytics e no Target.
 
-## Fluxo de trabalho Atributos do cliente {#concept_BF0AF88E9EF841219ED4D10754CD7154}
+## Fluxo de trabalho dos atributos do cliente {#concept_BF0AF88E9EF841219ED4D10754CD7154}
 
 ![](assets/crs.png)
 
 1. [Criar um arquivo de dados](t-crs-usecase.md#task_B5FB8C0649374C7A94C45DCF2878EA1A)
 1. [Criar a fonte de atributo e fazer upload do arquivo de dados](t-crs-usecase.md#task_09DAC0F2B76141E491721C1E679AABC8)
 1. [Validar o esquema](t-crs-usecase.md#task_09DAC0F2B76141E491721C1E679AABC8)
-1. [Configurar assinaturas e ativar a fonte de atributo](t-crs-usecase.md#task_1ACA21198F0E46A897A320C244DFF6EA)
+1. [Configurar assinaturas e ativar a origem do atributo](t-crs-usecase.md#task_1ACA21198F0E46A897A320C244DFF6EA)
 
 Quando a fonte de dados está ativa, é possível:
 
@@ -36,7 +36,7 @@ Quando a fonte de dados está ativa, é possível:
 
 >[!IMPORTANT]
 >
->Para acessar este recurso, os usuários devem ser atribuídos ao perfil de produto Atributos do cliente (Atributos do cliente - Acesso padrão. Navegue até **[!UICONTROL Administração]** > **[!UICONTROL Admin Console]** > **[!UICONTROL Produtos]**. Se os *Atributos do cliente* forem exibidos como um dos [!UICONTROL Perfis de produto], você estará pronto para começar. Os usuários adicionados ao grupo Atributos do cliente visualizam o menu [!UICONTROL Atributos do cliente] no lado esquerdo da interface do Experience Cloud.
+>Para acessar este recurso, os usuários devem ser atribuídos ao perfil de produto Atributos do cliente (Atributos do cliente - Acesso padrão. Navegue até **[!UICONTROL Administração]** > **[!UICONTROL Admin Console]** > **[!UICONTROL Produtos]**. Se os *Atributos do cliente* forem exibidos como um dos [!UICONTROL Perfis de produto], você estará pronto para começar. Os usuários adicionados ao grupo Atributos do cliente verão o menu [!UICONTROL Atributos do cliente] à esquerda da interface da Experience Cloud.
 >
 >Para usar o recurso Atributos do cliente, os usuários também devem pertencer a grupos no nível da solução (Analytics ou [!DNL Target]).
 
@@ -50,7 +50,7 @@ Esses dados são os dados do cliente da empresa no seu CRM. Os dados podem inclu
 
    >[!NOTE]
    >
-   >Em uma parte posterior do processo, você arrasta e solta o `.csv` para fazer upload do arquivo. Contudo, se você [fizer upload via FTP](t-upload-attributes-ftp.md#task_591C3B6733424718A62453D2F8ADF73B), também precisará de um arquivo `.fin` com o mesmo nome do `.csv`.
+   >Em uma parte posterior do processo, você arrastará e soltará o `.csv` para fazer upload do arquivo. Contudo, se você [fizer upload via FTP](t-upload-attributes-ftp.md#task_591C3B6733424718A62453D2F8ADF73B), também precisará de um arquivo `.fin` com o mesmo nome do `.csv`.
 
    Arquivo de dados do cliente de empresa modelo:
 
@@ -65,7 +65,7 @@ Siga essas etapas na página Criar nova fonte de atributo do cliente na Experien
 
 >[!IMPORTANT]
 >
->Ao criar, modificar ou excluir fontes de atributos do cliente, ocorre um atraso de até uma hora antes de as IDs começarem a sincronizar com a nova fonte de dados. Você deve ter direitos administrativos no Audience Manager para criar ou modificar as fontes de atributos do cliente. Entre em contato com o Atendimento ao cliente do Audience Manager ou consulte para obter direitos administrativos.
+>Ao criar, modificar ou excluir fontes de atributo do cliente, ocorre um atraso de cerca de uma hora antes de as IDs começarem a realizar a sincronização com a nova fonte de dados. Você deve ter direitos administrativos no Audience Manager para criar ou modificar fontes de atributo do cliente. Entre em contato com o Atendimento ao cliente do Audience Manager ou consulte para obter direitos administrativos.
 
 1. No [!DNL Experience Cloud], selecione o ícone Menu ![](assets/menu-icon.png).
 1. Em **[!DNL Experience Platform]**, selecione **[!UICONTROL People]** > **[!UICONTROL Atributos do cliente]**.
@@ -82,13 +82,13 @@ Siga essas etapas na página Criar nova fonte de atributo do cliente na Experien
 
    * **[!UICONTROL Descrição:]** (opcional) uma descrição da fonte de atributos de dados.
 
-   * **[!UICONTROL ID de alias:]** representa uma fonte de dados do Atributo do cliente, como um sistema de CRM específico. [!UICONTROL A ] ID de alias é uma ID exclusiva usada no código da Fonte de atributo do cliente. O identificador deve ser único, estar com letras minúsculas e sem espaços. O valor inserido no campo [!UICONTROL ID de alias] para uma fonte de atributo do cliente no Experience Cloud deve corresponder aos valores que estão sendo passados na implementação (seja via Coleta de dados (Launch), Dynamic Tag Management ou JavaScript do SDK móvel).
+   * **[!UICONTROL ID de alias:]** representa uma fonte de dados do atributo do cliente, como um sistema de CRM específico. [!UICONTROL A ] ID de alias é uma ID exclusiva usada no código da Fonte de atributo do cliente. O identificador deve ser único, estar com letras minúsculas e sem espaços. O valor inserido no campo [!UICONTROL ID de alias] para uma fonte de atributo do cliente no Experience Cloud deve corresponder aos valores que estão sendo passados na implementação (seja via Coleta de dados (Launch), Dynamic Tag Management ou JavaScript do SDK móvel).
 
       A ID de alias corresponde a determinadas áreas em que você definiu outros valores da ID do cliente. Por exemplo:
 
       * **Dynamic tag management:** a ID de alias corresponde ao valor do *Código de integração* nas [!UICONTROL Configurações do cliente], na ferramenta [Serviço da Experience Cloud ID](https://experienceleague.adobe.com/docs/experience-platform/tags/home.html?lang=en).
 
-      * **API do Visitante:** a ID de alias corresponde às [IDs do cliente](https://experienceleague.adobe.com/docs/id-service/using/reference/authenticated-state.html?lang=en) adicionais que você pode associar a cada visitante.
+      * **API do Visitante:** a ID de alias corresponde às [IDs do cliente](https://experienceleague.adobe.com/docs/id-service/using/reference/authenticated-state.html?lang=pt-BR) adicionais que você pode associar a cada visitante.
 
          Por exemplo, *&quot;crm_ id&quot;* em:
 
@@ -96,13 +96,13 @@ Siga essas etapas na página Criar nova fonte de atributo do cliente na Experien
          "crm_id":"67312378756723456"
          ```
 
-      * **iOS:** a ID de alias corresponde a *&quot;idType&quot;* em [visitorSyncIdentifiers:identifiers](https://experienceleague.adobe.com/docs/mobile-services/ios/overview.html?lang=en).
+      * **iOS:** a ID de alias corresponde a *&quot;idType&quot;* em [visitorSyncIdentifiers:identifiers](https://experienceleague.adobe.com/docs/mobile-services/ios/overview.html?lang=pt-BR).
 
          Por exemplo:
 
          `[ADBMobile visitorSyncIdentifiers:@{@<`**`"idType"`**`:@"idValue"}];`
 
-      * **Android™:** A ID de alias corresponde a  *&quot;idType&quot;* em  [syncIdentifiers](https://experienceleague.adobe.com/docs/mobile-services/android/overview.html?lang=en).
+      * **Android™:** a ID de alias corresponde a *&quot;idType&quot;* no [syncIdentifiers](https://experienceleague.adobe.com/docs/mobile-services/android/overview.html?lang=pt-BR).
 
          Por exemplo:
 
@@ -126,7 +126,7 @@ Siga essas etapas na página Criar nova fonte de atributo do cliente na Experien
 
    * **[!UICONTROL IDs fornecidas pelo cliente com alias para IDs de visitante da Experience Cloud:]** Exibe quantas IDs receberam alias para as IDs de visitante da Experience Cloud.
 
-   * **[!UICONTROL IDs fornecidas pelo cliente com altas contagens de alias:]** Exibe a contagem de IDs fornecidas pelo cliente com 500 ou mais IDs de visitante da Experience Cloud com alias. Essas IDs fornecidas pelo cliente provavelmente não representam indivíduos, mas um tipo de logon compartilhado. O sistema distribui os atributos associados a essas IDs para as 500 IDs de visitante da Experience Cloud com alias mais recentes, até a contagem de alias chegar a 10.000. Em seguida, o sistema invalida a ID fornecida pelo cliente e não distribui mais os atributos associados.
+   * **[!UICONTROL IDs fornecidas pelo cliente com altas contagens de alias:]** Exibe a contagem de IDs fornecidas pelo cliente com 500 ou mais IDs de visitante da Experience Cloud com alias. Essas IDs fornecidas pelo cliente provavelmente não representam indivíduos, mas um tipo de logon compartilhado. O sistema distribui os atributos associados a essas IDs para as 500 IDs de visitante da Experience Cloud com alias mais recentes, até a contagem de alias chegar a 10.000. Nesse momento, o sistema invalida a ID fornecida pelo cliente e não distribui mais os atributos associados.
 
 
 
@@ -169,8 +169,8 @@ Ao publicar um segmento na Experience Cloud, ele fica disponível para a Experie
 
 ## Usar os atributos do cliente no Adobe Target {#task_FC5F9D9059114027B62DB9B1C7D9E257}
 
-Em [!DNL Target], você pode selecionar um Atributo do cliente na seção [!UICONTROL Perfil do visitante] ao criar um público-alvo. Todos os atributos do cliente têm o prefixo `crs.` na lista. Combine esses atributos como necessário a outros atributos de dados para construir públicos-alvo.
+No [!DNL Target], você pode selecionar um atributo do cliente na seção [!UICONTROL Perfil do visitante] ao criar um público-alvo. Todos os atributos do cliente têm o prefixo `crs.` na lista. Combine esses atributos como necessário a outros atributos de dados para construir públicos-alvo.
 
 ![](assets/crs-add-attribute-target.png)
 
-Consulte [Criação de um novo público-alvo](https://experienceleague.adobe.com/docs/target/using/audiences/create-audiences/audiences.html?lang=en) na ajuda do [!DNL Target].
+Consulte [Criação de um novo público-alvo](https://experienceleague.adobe.com/docs/target/using/audiences/create-audiences/audiences.html?lang=pt-BR) na ajuda do [!DNL Target].

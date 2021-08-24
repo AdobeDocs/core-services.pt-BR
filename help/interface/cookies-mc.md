@@ -1,5 +1,5 @@
 ---
-description: Saiba como o serviço de ID é armazenado e usado em aplicativos Experience Cloud.
+description: Saiba como o serviço de ID é armazenado e usado nos aplicativos do Experience Cloud.
 keywords: cookies; privacidade
 solution: Experience Cloud,Analytics,Target
 title: 'Cookies da Experience Cloud '
@@ -12,13 +12,13 @@ exl-id: bd9bea58-9987-40d6-84e0-da185388bbbb
 source-git-commit: 1fb1abc7311573f976f7e6b6ae67f60ada10a3e7
 workflow-type: tm+mt
 source-wordcount: '349'
-ht-degree: 81%
+ht-degree: 100%
 
 ---
 
 # Cookies da Experience Cloud{#experience-cloud-cookies}
 
-A Adobe Experience Cloud usa cookies para armazenar a ID de visitante usada em aplicativos Experience Cloud.
+O Adobe Experience Cloud utiliza cookies para armazenar um ID de visitante que é usado nos aplicativos do Experience Cloud.
 
 **Nome do cookie: s_ecid**
 
@@ -52,7 +52,7 @@ A Adobe Experience Cloud usa cookies para armazenar a ID de visitante usada em a
   </tr> 
   <tr> 
    <td colname="col1"> <p> SameSite=Lax </p> </td> 
-   <td colname="col2"> <p>Os cookies com essa configuração só são enviados quando o domínio exibido no URL do navegador corresponde ao domínio do cookie. Esta é a nova configuração padrão para cookies no Chrome.</p> </td> 
+   <td colname="col2"> <p>Os cookies com essa configuração só são enviados quando o domínio exibido no URL do navegador corresponde ao domínio do cookie. Este é o novo padrão para cookies no Chrome.</p> </td> 
   </tr> 
  </tbody> 
 </table>
@@ -61,7 +61,7 @@ A Adobe Experience Cloud usa cookies para armazenar a ID de visitante usada em a
 
 O [Serviço de ID da Experience Platform](https://experienceleague.adobe.com/docs/id-service/using/home.html?lang=pt-BR) usa o JavaScript para armazenar um identificador de visitante único em um cookie `AMCV_###@AdobeOrg` no domínio do site atual, onde `###` representa uma cadeia aleatória de caracteres, como `AMCV_1FD6776A524453CC0A490D44%40AdobeOrg.`
 
-Consulte [Cookies e o serviço da ID](https://experienceleague.adobe.com/docs/id-service/using/intro/cookies.html?lang=en).
+Consulte [Cookies e o serviço da ID](https://experienceleague.adobe.com/docs/id-service/using/intro/cookies.html?lang=pt-BR).
 
 <table id="table_1883C0836C1E4AF5A262FBF5000C1B11"> 
  <thead> 
@@ -92,8 +92,8 @@ Consulte [Cookies e o serviço da ID](https://experienceleague.adobe.com/docs/id
    <td colname="col2"> <p> Varia, a maioria dos clientes pode esperar que esse cookie tenha cerca de 200 bytes de comprimento. </p> </td> 
   </tr> 
   <tr> 
-   <td colname="col1"> <p>Nenhum valor adicionado. O padrão do Chrome é Lax. </p> </td> 
-   <td colname="col2"> <p> Os cookies com essa configuração só são enviados quando o domínio exibido no URL do navegador corresponde ao domínio do cookie. Esta é a nova configuração padrão para cookies no Chrome. </p> </td> 
+   <td colname="col1"> <p>Nenhum valor adicionado. O padrão do Chrome é o Lax. </p> </td> 
+   <td colname="col2"> <p> Os cookies com essa configuração só são enviados quando o domínio exibido no URL do navegador corresponde ao domínio do cookie. Este é o novo padrão para cookies no Chrome. </p> </td> 
   </tr> 
  </tbody> 
 </table>

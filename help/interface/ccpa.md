@@ -1,7 +1,7 @@
 ---
 title: 'Suporte a atributos do cliente para a California Consumer Privacy Act '
 description: Saiba mais sobre o suporte de Atributos do cliente para o California Consumer Privacy Act.
-feature: 'Atributos do cliente '
+feature: Atributos do cliente
 topic: Administração
 role: Admin
 level: Experienced
@@ -9,7 +9,7 @@ exl-id: 320defc7-2cd5-4481-955d-77cf6fbfef6d
 source-git-commit: 1fb1abc7311573f976f7e6b6ae67f60ada10a3e7
 workflow-type: tm+mt
 source-wordcount: '437'
-ht-degree: 66%
+ht-degree: 100%
 
 ---
 
@@ -21,13 +21,13 @@ Esta página descreve o suporte dos [!UICONTROL atributos do cliente] para a Cal
 >
 >O conteúdo deste documento não é um aconselhamento jurídico e não se destina a substituir tal aconselhamento. Consulte seu advogado para obter recomendações sobre a (CCPA).
 
-A CCPA é a nova lei de privacidade da Califórnia, que entrou em vigor em 1º de janeiro de 2020. A CCPA fornece aos moradores da Califórnia novos direitos sobre suas informações pessoais e impõe responsabilidades de proteção de dados a determinadas entidades que exercem negócios na Califórnia. A CCPA dá aos consumidores o direito de acessar e apagar suas informações pessoais e o direito de recusar certas atividades qualificadas como &quot;venda&quot; de informações pessoais a terceiros.
+A CCPA é a nova lei de privacidade da Califórnia, que entrou em vigor em 1º de janeiro de 2020. A CCPA fornece aos moradores da Califórnia novos direitos sobre suas informações pessoais e impõe responsabilidades de proteção de dados a determinadas entidades que exercem negócios na Califórnia. A CCPA dá aos consumidores o direito de acessar e apagar suas informações pessoais, bem como o direito de optar pela não participação em certas atividades qualificadas como “venda” de informações pessoais a terceiros.
 
 Como empresa, você determinará os dados pessoais que a Adobe Experience Cloud processa e armazena em seu nome.
 
-Como seu provedor de serviços, a Adobe Experience Cloud fornece suporte para que sua empresa cumpra as obrigações da CCPA aplicáveis ao uso de produtos e serviços de Experience Cloud. Este suporte inclui o gerenciamento de solicitações para acessar e excluir informações pessoais.
+Como seu provedor de serviço, a Adobe Experience Cloud fornece suporte para que sua empresa cumpra as obrigações da CCPA aplicáveis ao uso de produtos e serviços da Experience Cloud. Isto inclui o gerenciamento de solicitações para acessar e excluir informações pessoais.
 
-Este documento descreve como os [!UICONTROL Atributos do cliente] oferecem suporte aos direitos de acesso e exclusão de dados da CCPA dos titulares de dados usando a API do Adobe Experience Platform Privacy Service e a interface do usuário do Privacy Service.
+Este documento descreve como os [!UICONTROL Atributos do cliente] oferecem suporte aos direitos de acesso e exclusão de dados da CCPA dos titulares de dados usando a API do Serviço de privacidade e interface do serviço de privacidade da Adobe Experience Platform.
 
 Para obter mais informações sobre os serviços de privacidade da Adobe para CCPA, consulte o [Centro de privacidade da Adobe](https://www.adobe.com/privacy/ccpa.html).
 
@@ -41,7 +41,7 @@ Para fazer solicitações de acesso e exclusão de dados para [!UICONTROL Atribu
    * ID de alias da Fonte de dados CRS na qual você deseja agir
    * ID do CRM do perfil no qual você deseja agir
 
-   Uma ID de organização IMS é uma sequência de 24 caracteres alfanuméricos anexada com @AdobeOrg. Se a sua equipe de marketing ou o administrador interno do sistema da Adobe não souber a ID de organização IMS, entre em contato com o Atendimento ao cliente da Adobe em gdprsupport@adobe.com. Você precisará da ID da organização IMS para enviar solicitações à API de privacidade.
+   Uma ID de organização IMS é uma sequência de 24 caracteres alfanuméricos anexada com @AdobeOrg. Se a sua equipe de marketing ou o administrador interno do sistema da Adobe não souber a ID de organização IMS, entre em contato com o Atendimento ao cliente da Adobe em gdprsupport@adobe.com. Você precisará da ID de organização IMS para enviar solicitações à API de privacidade.
 
 1. No [!UICONTROL Privacy Service], você pode enviar solicitações de acesso e exclusão aos Atributos do cliente e verificar o status das solicitações existentes.
 

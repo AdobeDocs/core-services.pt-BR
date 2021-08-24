@@ -1,5 +1,5 @@
 ---
-description: Saiba como fazer upload dos dados de atributos do cliente via FTP para o Experience Cloud.
+description: Saiba como fazer upload dos dados de atributos do cliente via FTP para a Experience Cloud.
 keywords: Atributos do cliente;serviços principais
 solution: Experience Cloud
 title: 'Fazer upload do arquivo de dados do atributo do cliente via FTP '
@@ -12,15 +12,15 @@ exl-id: ed9e4a8f-493a-4a0f-a87e-674c7da95b99
 source-git-commit: 1fb1abc7311573f976f7e6b6ae67f60ada10a3e7
 workflow-type: tm+mt
 source-wordcount: '271'
-ht-degree: 66%
+ht-degree: 98%
 
 ---
 
 # Opcional - Fazer upload do arquivo de dados via FTP
 
-Se você não fizer upload usando o recurso arrastar e soltar, será possível fazer upload dos dados de atributos do cliente via FTP no Experience Cloud.
+Se você não fizer upload usando a função arrastar e soltar, será possível fazer upload do atributo do cliente via FTP para a Experience Cloud.
 
-Você pode fazer upload dos dados depois de criar uma fonte de atributos do cliente e uma conta FTP no Experience Cloud. É possível criar uma conta FTP por fonte de atributo. Os arquivos carregados são armazenados na pasta raiz dessa conta. Os dados devem estar no formato `.csv`, com um segundo arquivo `.fin` para indicar que o upload foi concluído.
+Você pode fazer upload dos dados depois de criar uma fonte de atributo do cliente e uma conta FTP na Experience Cloud. É possível criar uma conta FTP por fonte de atributo. Os arquivos carregados são armazenados na pasta raiz dessa conta. Os dados devem estar em formato `.csv`, com um segundo arquivo `.fin` para indicar que o upload foi concluído.
 
 >[!IMPORTANT]
 >
@@ -29,7 +29,7 @@ Você pode fazer upload dos dados depois de criar uma fonte de atributos do clie
 Os uploads de arquivo para o site FTP de atributos do cliente podem ser feitos via FTP ou SFTP:
 
 * Você precisa de um cliente compatível com conexões SFTP.
-* Você pode se conectar ao SFTP usando o nome de usuário/senha ou sem usar senha, conforme descrito [aqui](https://experienceleague.adobe.com/docs/analytics/export/ftp-and-sftp/secure-file-transfer-protocol/ftp-sftp-cert-auth.html?lang=en).
+* Você pode se conectar ao SFTP usando o nome de usuário/senha ou sem usar senha, conforme descrito [aqui](https://experienceleague.adobe.com/docs/analytics/export/ftp-and-sftp/secure-file-transfer-protocol/ftp-sftp-cert-auth.html?lang=pt-BR).
 
 **Para fazer upload do arquivo de dados via FTP**
 

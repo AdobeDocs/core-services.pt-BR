@@ -10,7 +10,7 @@ exl-id: 6818edea-31b1-49fc-bca2-32828c7ca78d
 source-git-commit: 1f2dd42b4803517e6c513038c00b2070c08a51bb
 workflow-type: tm+mt
 source-wordcount: '571'
-ht-degree: 81%
+ht-degree: 84%
 
 ---
 
@@ -135,11 +135,11 @@ A Advertising Cloud usa cookies para mapear eventos de envolvimento de anúncios
  <tbody> 
   <tr> 
    <td colname="col1"> <p>Informações armazenadas </p> </td> 
-   <td colname="col2"> <p>A data em que a sincronização é executada, no formato aaaammdd </p> </td> 
+   <td colname="col2"> <p>A data em que a sincronização será realizada, no formato aaaammdd </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p>Expiração </p> </td> 
-   <td colname="col2"> <p>A data em que a sincronização é executada, no formato aaaammdd </p> </td> 
+   <td colname="col2"> <p>A data em que a sincronização será realizada, no formato aaaammdd </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p>Uso </p> </td> 

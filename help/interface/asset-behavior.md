@@ -1,6 +1,6 @@
 ---
 description: Saiba mais sobre as regras de como as pastas compartilhadas se comportam quando movidas, excluídas e restauradas na Experience Cloud.
-keywords: 'compartilhamento de ativos, Creative Cloud, '
+keywords: compartilhamento de ativos, Creative Cloud,
 solution: Experience Cloud
 title: 'Comportamento das pastas compartilhadas '
 uuid: 86348401-f4b1-4efe-acd1-7e73a7030edf

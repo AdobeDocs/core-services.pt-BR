@@ -12,7 +12,7 @@ exl-id: b65a12f5-fa89-400a-b279-13c381cd6c22
 source-git-commit: 1fb1abc7311573f976f7e6b6ae67f60ada10a3e7
 workflow-type: tm+mt
 source-wordcount: '480'
-ht-degree: 91%
+ht-degree: 96%
 
 ---
 
@@ -53,7 +53,7 @@ O exemplo a seguir mostra como criar as regras para um público-alvo composto. E
 1. Na página [!UICONTROL Criar novo público-alvo], especifique um título e uma descrição.
 1. Em [!UICONTROL Regras], selecione uma fonte de atributo:
 
-   * **[!UICONTROL Dados do Real-Time Analytics:]**  (ou dados brutos) são dados de atributos derivados de solicitações de imagem do Real-Time Analytics e incluem dados como eVars e eventos. Você deve selecionar um conjunto de relatórios ao usar essa fonte de atributo e definir a dimensão ou evento que será incluído. Essa seleção de conjunto de relatórios fornece a estrutura variável usada pelo conjunto de relatórios.
+   * **[!UICONTROL Dados de Real-Time Analytics:]** (ou dados brutos) são dados de atributos derivados de solicitações de imagens em tempo real do Analytics e incluem dados como eVars e eventos. Você deve selecionar um conjunto de relatórios ao usar essa fonte de atributo e definir a dimensão ou evento que será incluído. Essa seleção de conjunto de relatórios fornece a estrutura variável usada pelo conjunto de relatórios.
    >[!NOTE]
    >
    >Devido a questões relacionadas ao cache, conjuntos de relatórios excluídos no Analytics permanecem exibidos na Experience Cloud por 12 horas após a exclusão.
@@ -64,7 +64,7 @@ O exemplo a seguir mostra como criar as regras para um público-alvo composto. E
 
 >[!NOTE]
 >
->Você deve conhecer suas variáveis de implementação ao criar essas regras.
+>Você deve conhecer suas variáveis de implementação ao criar essas regras de público-alvo.
 
 Em [!UICONTROL Regras], defina as *`Home & Garden`* seleções de atributo:
 
@@ -92,6 +92,6 @@ A regra resultante é um público-alvo definido pela inclusão dos usuários do 
 * **Estimativa do histórico:** (círculo pontilhado) representa as regras criadas com base nos dados do [!DNL Analytics].
 * **Público-alvo real:** (círculo contínuo) toda regra criada com 30 dias de dados no Audience Manager. Quando os dados do Audience Manager atingem 30 dias, a linha se torna sólida e representa os números reais.
 
-Depois que a coleta de dados é concluída pelo período especificado, os círculos se combinam para mostrar uma audiência definida.
+Depois que a coleta de dados é concluída pelo período especificado, os círculos se combinam para mostrar um público-alvo definido. 
 
-Quando salvo, o público-alvo fica disponível para outras soluções. Por exemplo, você pode incluir uma audiência compartilhada em uma atividade do Adobe Target.
+Quando salvo, o público-alvo fica disponível para outras soluções. Por exemplo, você pode incluir um público-alvo compartilhado em uma atividade do Adobe Target.

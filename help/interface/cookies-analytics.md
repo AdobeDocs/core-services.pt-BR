@@ -12,15 +12,15 @@ exl-id: bc8ce894-f98c-4475-8a07-d74ae76f7451
 source-git-commit: 1fb1abc7311573f976f7e6b6ae67f60ada10a3e7
 workflow-type: tm+mt
 source-wordcount: '769'
-ht-degree: 79%
+ht-degree: 95%
 
 ---
 
 # Cookies do Analytics{#analytics-cookies}
 
-O Adobe Analytics usa cookies para diferenciar solicitações de navegadores diferentes e armazenar informações úteis que um aplicativo pode usar posteriormente. Eles também podem ser usados para associar informações de navegação a registros do cliente.
+O Adobe Analytics usa cookies para diferenciar solicitações de navegadores diferentes e armazenar informações úteis que um aplicativo pode usar posteriormente. Eles também podem ser usados para associar informações de navegação a registros de clientes.
 
-O Analytics usa cookies para definir novos visitantes anonimamente, ajudar a analisar dados de sequência de cliques e rastrear a atividade do histórico no site, como a resposta a campanhas específicas ou a duração do ciclo de vendas.
+O Analytics utiliza cookies para definir novos visitantes anonimamente, além de ajudar a analisar dados de sequência de cliques e rastrear a atividade do histórico no site, como a resposta a campanhas específicas ou a duração do ciclo de vendas.
 
 * [Nome do cookie: s_ecid](cookies-mc.md#section-32fd753c3fa54452acd62b021434919a)
 * [Nome do cookie: AMCV_###@AdobeOrg](cookies-mc.md#section-a12aa2a9296940ae82d8921b381b8fb0)
@@ -49,7 +49,7 @@ Mais informações disponíveis na ajuda do Analytics sobre [Cookies primários]
 
 | Atributo | Descrição |
 |--- |--- |
-| Informações armazenadas | Este cookie é definido e lido pelo código JavaScript para determinar se os cookies estão ativados (definido como &quot;Verdadeiro&quot;) |
+| Informações armazenadas | Este cookie é definido e lido pelo código JavaScript para determinar se os cookies estão habilitados (definido como &quot;True&quot;) |
 | Expiração | Este cookie é um cookie de sessão e expira quando o navegador é fechado |
 | Uso | Somente um cookie para todas as contas |
 | Localização | Esse cookie é armazenado no domínio da página. |
@@ -113,10 +113,10 @@ A tabela a seguir descreve os sinalizadores dos cookies do Analytics:
 
 >[!NOTE]
 >
->Se estiver usando um único CNAME para rastrear vários domínios ou propriedades, o SameSite deve ser definido como &quot;None&quot; para `s_vi`. Para obter ajuda com a alteração das configurações de cookies do Analytics, entre em contato com o Atendimento ao cliente.
+>Se estiver usando um único CNAME para rastrear vários domínios ou propriedades, o SameSite deve ser definido como &quot;None&quot; para `s_vi`. Para obter ajuda sobre como alterar as configurações de cookies do Analytics, entre em contato com o Atendimento ao cliente.
 
 ## Cookies definidos por plug-ins {#section-a6b1cae8454945fab9eea5c7884c40fc}
 
-Cookies adicionais podem ser definidos dependendo do uso de plug-ins do Analytics. Esses cookies são trechos de código disponíveis para o cliente para uso em várias circunstâncias. Essas circunstâncias incluem: recuperar valores do URL; concatenar valores a serem transmitidos para o Analytics; capturar o abandono de formulário e assim por diante. Para obter detalhes específicos sobre cookies definidos por cada plug-in, entre em contato com ClientCare. Um exemplo seria o cookie [!DNL s_vh] usado com os plug-ins *Definir uma vez por* e *Definir e obter último valor*.
+Cookies adicionais podem ser definidos dependendo do uso de plug-ins do Analytics. Esses cookies são fragmentos de código disponíveis ao cliente para uso em várias circunstâncias. Essas circunstâncias incluem: recuperar valores do URL; concatenar valores a serem transmitidos para o Analytics; capturar o abandono de formulário e assim por diante. Para obter detalhes específicos sobre cookies definidos por cada plug-in, entre em contato com ClientCare. Um exemplo seria o cookie [!DNL s_vh] usado com os plug-ins *Definir uma vez por* e *Definir e obter último valor*.
 
-As variáveis de conversão (eVarX) passadas em uma solicitação de imagem sem JavaScript, como o código colocado em um email, são atribuídos apropriadamente somente se o cliente de email e o navegador compartilharem o espaço do cookie.
+As variáveis de conversão (eVarX) passadas em uma solicitação de imagem sem JavaScript, como o código colocado em um email, serão atribuídos apropriadamente apenas se o cliente de email e o navegador compartilharem o mesmo espaço de cookie.

@@ -12,13 +12,13 @@ exl-id: 54f77e67-1bcf-4d01-b70b-af85bac3f449
 source-git-commit: 1fb1abc7311573f976f7e6b6ae67f60ada10a3e7
 workflow-type: tm+mt
 source-wordcount: '76'
-ht-degree: 76%
+ht-degree: 100%
 
 ---
 
 # Cookies de Data Connectors{#data-connectors-cookies}
 
-[!UICONTROL Os Data ] Connectors usam cookies para fornecer aos anunciantes medidas de desempenho de campanha e conversão otimizadas em vários canais de publicidade.
+Os [!UICONTROL Data Connectors] utilizam cookies para fornecer aos anunciantes métricas de desempenho de campanha e conversão otimizadas em vários canais de publicidade.
 
 <table id="table_54B402C6E19C4A70B1E27BC9DFF776EB"> 
  <thead> 

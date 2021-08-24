@@ -9,7 +9,7 @@ uuid: bc1b1542-1a37-4da1-bcfd-fc86af881642
 source-git-commit: 145040facf70c6bde5c6c3fae9c7ed7f520c188d
 workflow-type: tm+mt
 source-wordcount: '651'
-ht-degree: 91%
+ht-degree: 100%
 
 ---
 
@@ -72,7 +72,7 @@ Diversas notificações de manutenção sobre manutenções/atualizações de pr
 |--- |--- |
 | Notificações - Configurações granulares | É possível habilitar notificações sobre atividades e eventos de soluções e produtos e de atividades de upload de [Atributos de clientes](attributes.md). |
 | Notificações - Notificações de manutenção | Nas configurações de Notificações, você pode habilitar notificações de manutenção para produtos e soluções. |
-| Admin Console para usuários da Experience Cloud | Os novos clientes da Experience Cloud podem começar a usar o Admin Console, um local central para gerenciar os direitos da Adobe em toda a organização.<br>A migração para o Admin Console no gerenciamento de usuários acontecerá em etapas. O Adobe entra em contato com você (administradores do sistema) quando chegar a hora de migrar.<br>Administradores do Analytics, consultem [Migração do Analytics](https://experienceleague.adobe.com/docs/analytics/admin/user-product-management/user-management/migrate-users/c-migration-tool.html?lang=pt-BR). |
+| Admin Console para usuários da Experience Cloud | Os novos clientes da Experience Cloud podem começar a usar o Admin Console, um local central para gerenciar os direitos da Adobe em toda a organização.<br>A migração para o Admin Console no gerenciamento de usuários acontecerá em etapas. A Adobe entrará em contato com vocês (administradores do sistema) quando chegar o momento de migrar.<br>Administradores do Analytics, consultem [Migração do Analytics](https://experienceleague.adobe.com/docs/analytics/admin/user-product-management/user-management/migrate-users/c-migration-tool.html?lang=pt-BR). |
 
 {style=&quot;table-layout:auto&quot;}
 
@@ -85,11 +85,11 @@ Diversas notificações de manutenção sobre manutenções/atualizações de pr
 
 {style=&quot;table-layout:auto&quot;}
 
-## 8 de novembro de 2016 - 16.11.1 {#section_7065A9BCCDF544C2BB37E9A7D661EA6A}
+## 8 de novembro de 2016 — 16.11.1 {#section_7065A9BCCDF544C2BB37E9A7D661EA6A}
 
 | Recurso | Descrição |
 |--- |--- |
-| Atualização de Perfil e senhas | Não é mais possível editar informações de perfil IMS na seção Detalhes pessoais em Editar perfil > Perfil e senhas. Em vez disso, os usuários são direcionados para `accounts.adobe.com`. Esta atualização se aplica a todos os tipos de identidade (Adobe ID, Enterprise e Federated). |
+| Atualização de Perfil e senhas | Não é mais possível editar informações de perfil IMS na seção Detalhes pessoais em Editar perfil > Perfil e senhas. Em vez disso, os usuários são direcionados para `accounts.adobe.com`. Essa atualização aplica-se a todos os tipos de identidade (Adobe ID, Enterprise e Federated). |
 
 {style=&quot;table-layout:auto&quot;}
 

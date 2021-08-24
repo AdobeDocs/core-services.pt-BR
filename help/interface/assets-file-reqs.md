@@ -1,6 +1,6 @@
 ---
 description: Saiba mais sobre os tipos de arquivo permitidos e as limitações de tamanho para compartilhar assets entre a Adobe Experience Cloud e a Creative Cloud.
-keywords: 'compartilhamento de ativos, Creative Cloud, '
+keywords: compartilhamento de ativos, Creative Cloud,
 solution: Experience Cloud
 title: 'Requisitos de arquivo para compartilhar assets '
 uuid: 1621accf-c407-437b-ae12-61f13cc338d0
@@ -28,7 +28,7 @@ Os tipos de arquivos que você pode fazer upload incluem a maioria das imagens, 
 
 As limitações de tamanho de arquivo vêm do navegador e podem variar de um navegador para outro:
 
-| Browser | Upload (tamanho total) | Baixar (por arquivo) |
+| Navegador | Upload (tamanho total) | Baixar (por arquivo) |
 |--- |--- |--- |
 | Internet Explorer 6 | 2 GB | 2 GB a 4 GB para transferências fragmentadas ou com conexão fechada. |
 | Internet Explorer 7 | 2 GB | 4 GB |

@@ -11,14 +11,14 @@ level: Experienced
 source-git-commit: 1fb1abc7311573f976f7e6b6ae67f60ada10a3e7
 workflow-type: tm+mt
 source-wordcount: '136'
-ht-degree: 89%
+ht-degree: 100%
 
 ---
 
 
 # Exchange Marketplace
 
-O Exchange Marketplace é o único local onde você pode pesquisar, navegar, selecionar, pagar e baixar extensões de marketing digital através de aplicativos. Os aplicativos incluem conectores de dados, configurações personalizadas para aplicativos Adobe Core, aplicativos de terceiros e relatórios.
+O Exchange Marketplace é o único local onde você pode pesquisar, navegar, selecionar, pagar e baixar extensões de marketing digital através de aplicativos. Os aplicativos incluem conectores de dados, configurações personalizadas para o produto principal da Adobe, aplicativos de terceiros e relatórios.
 
 **[!UICONTROL Experience Cloud]** > **[!UICONTROL Ajuda]** > **[!UICONTROL Exchange]**
 

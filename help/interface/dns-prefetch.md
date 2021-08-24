@@ -11,7 +11,7 @@ exl-id: caf2ff76-2076-436d-a5a7-aff531464480
 source-git-commit: 1fb1abc7311573f976f7e6b6ae67f60ada10a3e7
 workflow-type: tm+mt
 source-wordcount: '384'
-ht-degree: 88%
+ht-degree: 96%
 
 ---
 
@@ -34,7 +34,7 @@ No entanto, é possível implementar a pré-busca DNS manualmente com as soluç�
 
 ## Amostras de código de pré-busca DNS {#section_E886F7B2861E48BA9EF3D8B3CE32B345}
 
-Os seguintes exemplos mostram como fazer chamadas de pré-busca DNS para soluções e serviços diferentes da [!DNL Experience Cloud]. Algumas chamadas de pré-busca exigem a ID da organização da [!DNL Adobe] ou as informações do servidor de rastreamento. Nesses exemplos, o código em *itálico* representa um espaço reservado de variável. Você substituiria esse código pela sua ID de parceiro [!DNL Adobe], pelo código do cliente ou pelas informações do servidor de rastreamento etc.
+Os seguintes exemplos mostram como fazer chamadas de pré-busca DNS para soluções e serviços diferentes da [!DNL Experience Cloud]. Algumas chamadas de pré-busca exigem a ID da organização da [!DNL Adobe] ou as informações do servidor de rastreamento. Nesses exemplos, o código em *itálico* representa um espaço reservado de variável. Você pode substituir esse código pela sua ID de parceiro do [!DNL Adobe], pelo código do cliente, pelas informações do servidor de rastreamento e assim por diante.
 
 * **Analytics:** `<link rel="dns-prefetch" href="//insert tracking server name here">`.
 
@@ -44,9 +44,9 @@ Os seguintes exemplos mostram como fazer chamadas de pré-busca DNS para soluç�
 
 * **Serviço da Experience Cloud ID:** `<link rel="dns-prefetch" href="//fast. *`insira a ID do parceiro aqui`*.demdex.net">`
 
-* **Gerenciador dinâmico de tags** (DTM): Não obrigatório. Os links do DTM estão disponíveis quando a página é carregada.
+* **Gerenciador dinâmico de tags** (DTM): Não obrigatório. Os links do DTM ficam disponíveis quando a página é carregada.
 
-* **Media Otimizer (Advertising Cloud):**
+* **Media Optimizer (Advertising Cloud):**
 
    * `<link rel="dns-prefetch" href="//pixel.everesttech.net">`
    * `<link rel="dns-prefetch" href="//cm.everesttechnet">`

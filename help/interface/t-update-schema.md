@@ -2,7 +2,7 @@
 description: Como excluir e substituir atributos no esquema na Adobe Experience Cloud.
 title: 'Atualizar o esquema (excluir um atributo) '
 uuid: a465fa89-6c7f-4c07-aa59-84c968a82917
-feature: 'Atributos do cliente '
+feature: Atributos do cliente
 topic: Administração
 role: Admin
 level: Experienced

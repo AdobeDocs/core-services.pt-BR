@@ -12,7 +12,7 @@ exl-id: 11cc5005-8ec0-4308-bc94-0f78666ea645
 source-git-commit: 9a232162008524d900e3655716a84961c287c773
 workflow-type: tm+mt
 source-wordcount: '252'
-ht-degree: 84%
+ht-degree: 98%
 
 ---
 
@@ -24,13 +24,13 @@ Informações sobre atualizações na documentação do produto da Experience Cl
 
 Atualização de [Cookies próprios](cookies-first-party.md).
 
-**Atualizado: 4/6/2021**
+**Atualizado: 04/06/2021**
 
-Estrutura do guia reorganizada, índice.
+A estrutura do manual e o índice foram reorganizados.
 
-**Atualizado: 1°/6/2021**
+**Atualizado: 01/06/2021**
 
-Atualização da [landing page](experience-cloud.md) com nova ajuda sobre como acessar o Experience Cloud, pesquisa global, preferências e notificações.
+As [páginas de aterrisagem](experience-cloud.md) foram atualizadas com uma nova ajuda para o acesso ao Experience Cloud, pesquisa global, preferências e notificações.
 
 **Atualizado: 19/8/2020**
 
@@ -38,7 +38,7 @@ Os [detalhes do usuário da View Experience Cloud (Ferramenta administrativa)](a
 
 **Atualizado: 19/5/2020**
 
-Documentação de Gerenciamento de ofertas obsoleta.
+A documentação de gerenciamento de oferta foi descontinuada.
 
 **Atualizado: 15/05/2020**
 
@@ -57,7 +57,7 @@ Adição de [Exibir detalhes do usuário da Experience Cloud (Ferramenta adminis
 
 **Atualizado: 5/9/2018**
 
-Adição de como excluir um Atributo do cliente. Consulte [(Opcional) Atualizar o esquema (excluir atributos)](t-crs-usecase.md#task_6568898BB7C44A42ABFB86532B89063C).
+Foram adicionadas instruções sobre como excluir um atributo de cliente. Consulte [(Opcional) Atualizar o esquema (excluir atributos)](t-crs-usecase.md#task_6568898BB7C44A42ABFB86532B89063C).
 
 **Atualizado: 8/6/20118**
 

@@ -12,7 +12,7 @@ exl-id: 062576da-328e-4b46-9e71-5a25733d607a
 source-git-commit: 2419501884d5cdfc4b418973c52045330abc562f
 workflow-type: tm+mt
 source-wordcount: '777'
-ht-degree: 88%
+ht-degree: 98%
 
 ---
 
@@ -22,7 +22,7 @@ Saiba mais sobre a compatibilidade com o navegador e consulte perguntas e respos
 
 ## Quais navegadores são compatíveis com a Experience Cloud?
 
-* Microsoft® Edge (versão atual e duas posteriores)
+* Microsoft® Edge (versão atual e as duas anteriores)
 * Google Chrome (versão atual e duas posteriores)
 * Mozilla Firefox (versão atual e duas posteriores)
 * Safari (versão atual e duas posteriores)
@@ -49,7 +49,7 @@ Não. A Experience Cloud está incluída sem custos adicionais. No entanto, cert
 
 ## Por que minha empresa precisa fazer logon na interface da Experience Cloud?
 
-A funcionalidade fornecida pela interface da Experience Cloud agrega novo valor à empresa. Também é o caminho padrão para acessar as soluções avançadas, substituindo outros fluxos de logon de solução individual em algum momento. Fazer logon pelo Experience Cloud facilita uma transição mais suave posteriormente.
+A funcionalidade fornecida pela interface da Experience Cloud agrega novo valor à empresa. Também é o caminho padrão para acessar as soluções de avanço, eventualmente substituindo outros fluxos de logon de solução individual. Fazer logon pela Experience Cloud possibilitará uma transição mais suave posteriormente.
 
 ## Como resolver problemas sobre como migrar minha empresa?
 
@@ -68,7 +68,7 @@ O provisionamento na Experience Cloud significa que:
 
 * Consulte o [Guia do usuário do Admin Console](https://helpx.adobe.com/br/enterprise/admin-guide.html) para obter ajuda.
 
-* Os direitos do usuário e o gerenciamento de produtos são executados no [Adobe Admin Console](https://adminconsole.adobe.com/enterprise) (link do produto).
+* O gerenciamento de produtos e direitos do usuário é executado no [Adobe Admin Console](https://adminconsole.adobe.com/enterprise) (link do produto).
 
 * **Importante:** administradores do Analytics, consultem [Gerenciar usuários do Analytics no Admin Console](https://experienceleague.adobe.com/docs/analytics/admin/user-product-management/user-management/migrate-users/c-migration-tool.html?lang=pt-BR) sobre como migrar IDs de usuários das Ferramentas administrativas do Analytics para o Admin Console.
 
@@ -98,13 +98,13 @@ Consulte [Localização da ID da organização](organizations.md).
 
 A ID da organização é exibida na página de aterrissagem da Experience Cloud e na [página de aterrissagem do Admin Console](https://adminconsole.adobe.com).
 
-Como alternativa, os administradores podem fazer logon no Admin Console (acesse [https://adminconsole.adobe.com](https://adminconsole.adobe.com#)) de uma organização específica e você pode visualizar a ID da organização de IMS no URL.
+Como alternativa, os administradores podem fazer logon no Admin Console (acesse [https://adminconsole.adobe.com](https://adminconsole.adobe.com#)) de uma organização específica e você verá sua ID da organização de IMS no URL.
 
 Por exemplo, no URL a seguir:
 
 `https://adminconsole.adobe.com/C538193582390300A495CC9@AdobeOrg/overview`
 
-A ID é:
+a ID é:
 
 `C538193582390300A495CC9@AdobeOrg`
 

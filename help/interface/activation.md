@@ -14,23 +14,23 @@ exl-id: d57f168b-6beb-48f2-b0d2-92593ceee62e
 source-git-commit: 2419501884d5cdfc4b418973c52045330abc562f
 workflow-type: tm+mt
 source-wordcount: '266'
-ht-degree: 60%
+ht-degree: 96%
 
 ---
 
 # Ativation
 
-A Ativation inclui o produto de gerenciamento de tags mais recente chamado Experience Platform [!UICONTROL Data Collection] ([!UICONTROL Launch]) e Experience Cloud [!UICONTROL Triggers].
+A Activation inclui o produto de gerenciamento de tags mais recente denominado Experience Platform [!UICONTROL Data Collection] ([!UICONTROL Launch]) e Experience Cloud [!UICONTROL Triggers].
 
 ## Experience Platform Launch {#section_05DF74E9EAC94518A155095C65F54568}
 
 Implante e gerencie tags de análises, marketing e publicidade necessárias para potencializar experiências relevantes do cliente.
 
-Consulte [Guia de início rápido do Experience Platform Launch](https://experienceleague.adobe.com/docs/experience-platform/tags/get-started/quick-start.html?lang=en).
+Consulte o [Guia de início rápido do Experience Platform Launch](https://experienceleague.adobe.com/docs/experience-platform/tags/get-started/quick-start.html?lang=en).
 
-## Experience Cloud [!UICONTROL Triggers] {#section_EEA3A8B5EFCB4F8BABC4ADAF3DD41831}
+## [!UICONTROL Acionadores] da Experience Cloud {#section_EEA3A8B5EFCB4F8BABC4ADAF3DD41831}
 
-[!UICONTROL Experience Cloud ] Aciona os profissionais de marketing a definir e monitorar os principais comportamentos do consumidor e gerar comunicação entre soluções para uso em decisões e personalização em tempo real.
+Os [!UICONTROL Acionadores da Experience Cloud] permitem aos profissionais do marketing definir e monitorar os principais comportamentos do consumidor, além de gerar comunicação entre soluções para uso em decisões em tempo real e personalizações.
 
 <table id="table_AF6842470172429EA97C9B02163BD0C3"> 
  <thead> 
@@ -46,7 +46,7 @@ Consulte [Guia de início rápido do Experience Platform Launch](https://experie
   </tr>
   <tr> 
    <td colname="col1"> <p>Usar Triggers no Adobe Campaign </p> </td> 
-   <td colname="col2"> <p> O Adobe Campaign Standard 16.7 apresenta uma integração com o novo serviço Acionador. Esse serviço permite que usuários empresariais definam acionadores facilmente, com base em dados de comportamento online capturados no Adobe Analytics. Depois que o acionador é definido, ele está disponível no Adobe Campaign para oferecer suporte a mensagens de remarketing que impulsionam a participação e as conversões. Esse novo recurso permite que profissionais de marketing acionem mensagens de remarketing na hora certa, com base em eventos online como abandono de carrinho de compras, visualizações de páginas e vídeos assistidos. </p> </td>
+   <td colname="col2"> <p> O Adobe Campaign Standard 16.7 apresenta uma integração com o novo serviço Acionador. Esse serviço permite que usuários empresariais definam acionadores facilmente, com base em dados de comportamento online capturados no Adobe Analytics. Depois que o acionador é definido, ele é disponibilizado no Adobe Campaign para oferecer suporte a mensagens de remarketing que impulsionam o engajamento e as conversões. Esse novo recurso permite que os profissionais de marketing acionem mensagens de remarketing na hora certa, com base em eventos online como abandono de carrinho de compras, visualizações de página e vídeos assistidos. </p> </td>
   </tr>
  </tbody>
 </table>

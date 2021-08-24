@@ -1,6 +1,6 @@
 ---
 title: Como usar atributos do cliente
-description: Saiba mais sobre o serviço Atributos do cliente na Adobe Experience Cloud. Saiba como fazer upload dos dados de atributos do cliente para uso no Adobe Analytics e no Adobe Target.
+description: Saiba mais sobre o serviço Atributos do cliente na Adobe Experience Cloud. Descubra como fazer upload dos dados do atributo do cliente para uso no Adobe Analytics e no Adobe Target.
 solution: Experience Cloud
 feature: Atributos do cliente
 role: Admin
@@ -10,13 +10,13 @@ exl-id: fe8ad013-76da-49f8-aa51-dc5f6c1b1d79
 source-git-commit: a19887e3160faa0ef91bd975fc6e1e08a0a9d948
 workflow-type: tm+mt
 source-wordcount: '485'
-ht-degree: 74%
+ht-degree: 100%
 
 ---
 
 # Atributos do cliente visão geral
 
-[!UICONTROL Atributos do cliente na Experience Cloud permitem que você faça o upload dos dados corporativos capturados de um banco de dados do gerenciamento de relacionamento com o cliente (CRM). ] Você pode fazer upload dos dados em uma fonte de dados de Atributo do cliente no Experience Cloud e, em seguida, usar os dados no Adobe Analytics e no Adobe Target.
+[!UICONTROL Atributos do cliente] na Experience Cloud permitem que você faça o upload dos dados corporativos capturados de um banco de dados do gerenciamento de relacionamento com o cliente (CRM). Você pode fazer upload dos dados em uma fonte de dados de atributo do cliente no Experience Cloud e, em seguida, usar os dados no Adobe Analytics e no Adobe Target.
 
 Para localizar este recurso, navegue até **[!DNL Experience Platform]** > **[!UICONTROL Pessoas]** > **[!UICONTROL Atributos do cliente]**
 
@@ -30,11 +30,11 @@ Para localizar este recurso, navegue até **[!DNL Experience Platform]** > **[!U
 
    Para saber se a empresa tem acesso aos atributos do cliente, o [!DNL Experience Cloud] administrador deve fazer logon na [Experience Cloud](https://experience.adobe.com). Navegue até **[!UICONTROL Administração]** > **[!UICONTROL Admin Console]** > **[!UICONTROL Produtos]**. Se os *Atributos do cliente* forem exibidos como um dos [!UICONTROL Perfis de produto], você estará pronto para começar.
 
-   Os usuários adicionados aos Atributos do cliente veem o item de menu [!UICONTROL Atributos do cliente] à esquerda da interface do Experience Cloud.
+   Os usuários adicionados aos atributos do cliente verão o item de menu [!UICONTROL atributos do cliente] à esquerda da interface do Experience Cloud.
 
 * O **Adobe Target** `at.js` (qualquer versão) ou `mbox.js` versão 58 ou posterior é necessário para os atributos do cliente.
 
-   Consulte [Como implantar at.js](https://experienceleague.adobe.com/docs/target/using/implement-target/client-side/deploy-at-js/how-to-deployatjs.html?lang=en) ou [Implementação do Mbox.js](https://experienceleague.adobe.com/docs/target/using/implement-target/client-side/mbox-implement/mbox-download.html?lang=en).
+   Consulte [Como implantar at.js](https://experienceleague.adobe.com/docs/target/using/implement-target/client-side/deploy-at-js/how-to-deployatjs.html?lang=pt-BR) ou [Implementação do Mbox.js](https://experienceleague.adobe.com/docs/target/using/implement-target/client-side/mbox-implement/mbox-download.html?lang=pt-BR).
 
 ## O que são os dados de clientes de empresas? {#section_6F34C29F11414842AA57D2B1248FA3C6}
 
@@ -44,7 +44,7 @@ A imagem a seguir é um exemplo de um arquivo de dados que mostra os dados do as
 
 ![](assets/01_crs_usecase.png)
 
-Após criar o arquivo de dados, faça upload dele para a fonte de atributos do cliente que você cria em **[!UICONTROL Experience Cloud]** > **[!UICONTROL Atributos do cliente]**.
+Após a criação do arquivo de dados, faça upload dele para a fonte de atributos do cliente que você cria em **[!UICONTROL Experience Cloud]** > **[!UICONTROL atributos do cliente]**.
 
 Consulte [Fazer upload dos dados de atributos do cliente](t-crs-usecase.md#task_BCC327B2A0EF4A1BBB2934013AB92B78) para conhecer esse fluxo de trabalho.
 
@@ -56,7 +56,7 @@ Por exemplo:
 
 | Solução | Vantagens e casos de uso |
 |--- |--- |
-| Adobe Analytics | Profissionais de marketing e analistas podem entender:<ul><li>As campanhas online que são mais eficazes com seus clientes de nível gold.</li><li>Os produtos que os clientes de nível gold procuram em relação aos que os clientes de nível platinum procuram.</li><li>Se a reformulação do site está afetando positivamente as taxas de conversão de clientes mais antigos.</li><li>Os produtos que os clientes com um valor de vida útil baixo tendem a pesquisar no meu site.</li></ul> |
+| Adobe Analytics | Profissionais de marketing e analistas podem entender:<ul><li>As campanhas online que são mais eficazes com seus clientes de nível gold.</li><li>Os produtos que os clientes de nível gold procuram em relação aos que os clientes de nível platinum procuram.</li><li>Se a reformulação do site está afetando positivamente as taxas de conversão de clientes mais antigos.</li><li>Quais produtos os clientes com baixo valor vitalício tendem a pesquisar no meu site.</li></ul> |
 | Adobe Target | Os dados de atributo permitem que os usuários do Adobe Target:<ul><li>Mostrem descontos e ofertas especiais para membros do clube de fidelidade.</li><li>Recomendem produtos mais caros para seus clientes de luxo.</li><li>Para clientes que já recebem emails, mostrem uma oferta de venda adicional no espaço normalmente reservado para inscrições em email.</li></ul> |
 
 {style=&quot;table-layout:auto&quot;}

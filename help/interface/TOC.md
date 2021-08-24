@@ -2,24 +2,24 @@
 audience: administrator
 user-guide-title: 'Componentes da interface central da Experience Cloud '
 breadcrumb-title: Componentes da interface central da Experience Cloud
-user-guide-description: Saiba mais sobre a interface do Experience Cloud, configure as preferências e pesquise objetos comerciais. Obtenha ajuda sobre o gerenciamento de usuários e produtos, atributos do cliente, biblioteca de público-alvo, cookies e ativos do Experience Cloud.
+user-guide-description: Saiba mais sobre a interface do Experience Cloud, configure as preferências, pesquise e descubra objetos comerciais. Obtenha ajuda sobre o gerenciamento de usuários e produtos, atributos do cliente, biblioteca de público-alvo, cookies e ativos da Experience Cloud.
 index: true
 source-git-commit: 21701779b0a502b39791a59104182fc5d3323f7b
 workflow-type: tm+mt
 source-wordcount: '344'
-ht-degree: 81%
+ht-degree: 97%
 
 ---
 
 
 # Componentes da interface central da Experience Cloud {#interface}
 
-+ [Guia de componentes da interface central do Experience Cloud](experience-cloud.md)
++ [Guia de componentes de interface central do Experience Cloud](experience-cloud.md)
 + Serviços da Experience Cloud {#services}
    + [Serviços da Experience Cloud](core-services-landing.md)
    + [Habilitar a implementação para serviços entre soluções](core-services.md)
    + Biblioteca de público-alvo da Experience Cloud {#audiences}
-      + [Experience Cloud audiences](audience-library.md)
+      + [Públicos-alvo da Experience Cloud](audience-library.md)
       + [Criar um público-alvo](t-audience-create.md)
       + [Publicar um segmento de público-alvo do Analytics](t-publish-audience-segment.md)
    + Atributos do cliente da Experience Cloud {#customer-attributes}
@@ -47,7 +47,7 @@ ht-degree: 81%
       + [Faça upload de um ativo para uma pasta compartilhada no desktop da Creative Cloud](t-cc-asset-upload-thor.md)
       + [Requisitos para compartilhamento do arquivo do ativo](assets-file-reqs.md)
       + [Comportamento das pastas compartilhadas](asset-behavior.md)
-+ Experience Cloud administração {#administration}
++ Administração da Experience Cloud {#administration}
    + [Gerenciar a identidade de usuário e os produtos da Experience Cloud (Admin Console)](admin-getting-started.md)
    + [Exibir detalhes do usuário da Experience Cloud (Ferramenta administrativa)](admin-tool-experience-cloud.md)
    + [Perguntas frequentes](faq.md)
@@ -68,10 +68,10 @@ ht-degree: 81%
       + [Cookies do [!DNL Search and Promote]](cookies-snp.md)
       + [Cookies do [!DNL Target]](cookies-target.md)
       + [Ativar as configurações de privacidade de cookies do navegador](browser-cookie-settings.md)
-      + [Como as alterações no suporte a cookies de terceiros afetam os clientes ](cookies-thirdparty.md)
-+ Notas de versão da interface do usuário do Experience Cloud {#release-notes}
+      + [Como as alterações no suporte a cookies de terceiros afetam os clientes](cookies-thirdparty.md)
++ Notas de versão da interface de usuário da Experience Cloud {#release-notes}
    + [Notas de versão para componentes da interface central](release-notes.md)
-   + [Notas de versão para todo o Experience Cloud](https://experienceleague.adobe.com/docs/release-notes/experience-cloud/current.html?lang=pt-BR)
+   + [Notas de versão para toda a Experience Cloud](https://experienceleague.adobe.com/docs/release-notes/experience-cloud/current.html?lang=pt-BR)
 + Mais recursos {#more-resources}
    + [Fórum](https://experienceleaguecommunities.adobe.com/)
    + [Terminologia](terms.md)

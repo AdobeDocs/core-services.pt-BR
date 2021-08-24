@@ -14,13 +14,13 @@ exl-id: 9dc26e2f-479b-49a5-93ce-b877559fea43
 source-git-commit: 1fb1abc7311573f976f7e6b6ae67f60ada10a3e7
 workflow-type: tm+mt
 source-wordcount: '705'
-ht-degree: 70%
+ht-degree: 96%
 
 ---
 
 # Experience Cloud Triggers
 
- Triggerins no Experience Cloud permite identificar, definir e monitorar os comportamentos dos principais consumidores e gerar comunicação entre soluções para atrair os visitantes novamente.
+Os [!UICONTROL Acionadores] permitem identificar, definir e monitorar os comportamentos principais dos consumidores e gerar comunicação entre soluções para reengajar os visitantes.
 
 ## Visão geral do Triggers {#topic_4F21FCE9A64E46E8B6D51F494FA652A7}
 
@@ -34,11 +34,11 @@ Você pode usar acionadores em personalizações e decisões em tempo real. Por 
 
 >[!NOTE]
 >
->Mais informações sobre o uso de [!UICONTROL Triggers] estão disponíveis em [Campaign Standard](https://experienceleague.adobe.com/docs/campaign-standard/using/integrating-with-adobe-cloud/working-with-campaign-and-triggers/using-triggers-in-campaign.html?lang=en).
+>Mais informações sobre o uso de [!UICONTROL Acionadores] estão disponíveis em [Campaign Standard](https://experienceleague.adobe.com/docs/campaign-standard/using/integrating-with-adobe-cloud/working-with-campaign-and-triggers/using-triggers-in-campaign.html?lang=pt-BR).
 
 ### Tipos de Triggers
 
-Geralmente, um acionador pode levar 15 a 90 minutos para iniciar uma campanha de marketing. Esse atraso varia dependendo da implementação da coleta de dados, do carregamento no pipeline, da configuração personalizada do acionador definido e do fluxo de trabalho no Adobe Campaign.
+Geralmente, um acionador pode levar 15 a 90 minutos para iniciar uma campanha de marketing. Esse atraso varia dependendo da implementação da coleção de dados, da carga no pipeline, da configuração personalizada do acionador definido e do fluxo de trabalho no Adobe Campaign.
 
 * **Abandono:** é possível criar um acionador para ser disparado quando um visitante visualizar um produto, mas não fizer adições ao carrinho.
 * **Ação:** por exemplo, você pode criar acionadores para serem disparados depois de inscrições em newsletters, assinaturas por email ou aplicações para cartões de crédito (confirmações). Se você for um varejista, crie um acionador para um visitante que se inscreve em um programa de fidelidade. Em mídia e entretenimento, crie acionadores para visitantes que assistem a um certo programa que talvez você queira que respondam a uma pesquisa.
@@ -63,16 +63,16 @@ Crie um acionador e configure as condições para ele. Por exemplo, você pode e
    | Elemento | Descrição |
    |--- |--- |
    | [!UICONTROL Nome] | O nome amigável deste acionador. |
-   | [!UICONTROL Descrição] | A descrição deste acionador, como você o usa e assim por diante. |
-   | [!UICONTROL Conjunto de relatórios] | O [conjunto de relatórios](https://experienceleague.adobe.com/docs/analytics/admin/manage-report-suites/report-suites-admin.html) do Analytics usado para esse acionador. Esta configuração identifica os dados de relatório que serão usados. |
-   | A visita deve incluir o acionador<br>A visita não deve incluir<br>depois de nenhuma ação<br>Incluir metadados | Você pode definir critérios ou comportamentos de usuário que você deseja que ocorram, além de comportamentos que você não deseja que ocorram. Por exemplo, as regras para um acionador de um simples abandono de carrinho de compras podem ser:<ul><li>A visita deve incluir: [!UICONTROL Adição ao carrinho] (métrica) e [!UICONTROL Existe]. (Mais tarde, você pode redefinir a regra com uma visualização de produto específica ou dimensões como Tipos de navegador.)</li><li>A visita não deve incluir:  [!UICONTROL Check-out].</li><li>Acionar depois de nenhuma ação por: 10 minutos.</li><li>[!UICONTROL Incluir metadados]: Permite adicionar uma  [!DNL Campaign] dimensão ou variáveis específicas relevantes para o comportamento de um visitante. Este campo pode ser útil ao criar o email de remarketing correto no Adobe Campaign.</li></ul><br>Você pode especificar   [!UICONTROL Qualquer],    Andor    Orlogic dentro ou entre contêineres, dependendo dos critérios que determinar que são importantes para a regra. |
-   | [!UICONTROL Contêiner] | [!UICONTROL Nos contêineres você pode configurar e armazenar regras, condições ou filtros que definem um acionador. ] Se você desejar que eventos sejam executados ao mesmo tempo, coloque-os no mesmo contêiner. Ou seja, cada contêiner é processado de maneira independente no nível da ocorrência. Por exemplo, se você tiver dois contêineres unidos pelo operador AND, poderá esperar que as regras se qualifiquem quando duas ocorrências atenderem aos requisitos. |
+   | [!UICONTROL Descrição] | A descrição deste acionador, como você o usará etc. |
+   | [!UICONTROL Conjunto de relatórios] | O [conjunto de relatórios](https://experienceleague.adobe.com/docs/analytics/admin/manage-report-suites/report-suites-admin.html?lang=pt-BR) do Analytics usado para esse acionador. Esta configuração identifica os dados de relatório que serão usados. |
+   | A visita deve incluir o acionador<br>A visita não deve incluir<br>depois de nenhuma ação<br>Incluir metadados | Você pode definir critérios ou comportamentos de usuário que você deseja que ocorram, além de comportamentos que você não deseja que ocorram. Por exemplo, as regras para o acionador de um simples abandono de carrinho de compras podem ser:<ul><li>A visita deve incluir: [!UICONTROL Adição ao carrinho] (métrica) e [!UICONTROL Existe]. (Mais tarde, você pode redefinir a regra com uma visualização de produto específica ou dimensões como Tipos de navegador.)</li><li>A visita não deve incluir: [!UICONTROL Check-out].</li><li>Acionar depois de nenhuma ação por: 10 minutos.</li><li>[!UICONTROL Incluir metadados]: permite adicionar uma dimensão do [!DNL Campaign] específica ou variáveis relevantes ao comportamento do visitante. Este campo pode ser útil ao criar o email de remarketing correto no Adobe Campaign.</li></ul><br>Você pode especificar a lógica [!UICONTROL Qualquer], [!UICONTROL E] ou [!UICONTROL Ou] dentro de ou entre contêineres, dependendo dos critérios que você determinar como importantes para a regra. |
+   | [!UICONTROL Contêiner] | [!UICONTROL Nos contêineres] você pode configurar e armazenar regras, condições ou filtros que definem um acionador. Se você desejar que eventos sejam executados ao mesmo tempo, coloque-os no mesmo contêiner. Ou seja, cada contêiner é processado de maneira independente no nível da ocorrência. Por exemplo, se você tiver dois contêineres unidos pelo operador AND, poderá esperar que as regras se qualifiquem quando duas ocorrências atenderem aos requisitos. |
    | Iniciar nova sessão após | Crie um acionador para o início da sessão e outro para o término. |
 
    {style=&quot;table-layout:auto&quot;}
 
 5. Selecione **[!UICONTROL Salvar]**.
-6. Use os acionadores para o [remarketing em tempo real](https://experienceleague.adobe.com/docs/campaign-standard/using/integrating-with-adobe-cloud/working-with-campaign-and-triggers/about-adobe-experience-cloud-triggers.html?lang=en) no [!DNL Adobe Campaign].
+6. Use os acionadores para o [remarketing em tempo real](https://experienceleague.adobe.com/docs/campaign-standard/using/integrating-with-adobe-cloud/working-with-campaign-and-triggers/about-adobe-experience-cloud-triggers.html?lang=pt-BR) no [!DNL Adobe Campaign].
 
 ### Exemplos de acionadores
 
@@ -80,7 +80,7 @@ Exemplos de Experience Cloud Triggers:
 
 #### Acionador de abandono do carrinho
 
-Por exemplo, a página a seguir mostra regras que você pode usar para um acionador de [!UICONTROL Abandono do carrinho], com base em produtos visualizados durante uma visita.
+Por exemplo, a página a seguir mostra regras que você poderia usar em um acionador de [!UICONTROL Abandono de carrinho], com base em produtos visualizados durante uma visita.
 
 ![](assets/abandonment-trigger.png)
 

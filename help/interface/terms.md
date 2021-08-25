@@ -1,19 +1,19 @@
 ---
 description: Saiba mais sobre os termos na Adobe Experience Cloud e como eles são diferentes na Creative Cloud.
 keywords: compartilhamento de ativos, serviços do público-alvo, Creative Cloud, serviços principais
-seo-description: 'null'
-seo-title: Terminologia
+seo-description: null
+seo-title: Terminology
 solution: Experience Cloud
 title: 'Terminologia '
 uuid: 30253c0d-944b-4e15-b9af-093afa3ddc17
-feature: '"Atributos do cliente"'
-topic: Administração
+feature: Customer Attributes
+topic: Administration
 role: Admin
 level: Experienced
 exl-id: 3799f806-2794-43ab-9e70-06ee693871e7
-source-git-commit: 2419501884d5cdfc4b418973c52045330abc562f
+source-git-commit: 1e7c4c02b08a17b2666afc7a82ea44d598675b3c
 workflow-type: tm+mt
-source-wordcount: '1471'
+source-wordcount: '1453'
 ht-degree: 98%
 
 ---
@@ -40,7 +40,7 @@ Uma referência de terminologia para usuários da Experience Cloud e como esses 
 | [!UICONTROL Serviço de identificação da Experience Platform] | Nenhum uso especial. | O serviço que vincula identidades. É o serviço de vinculação de dispositivos para o gerenciamento de experiências baseado em pessoas. |
 | Vinculação | Nenhum uso especial. A vinculação refere-se à navegação de hyperlink e aos itens de vinculação como fontes, propriedades, camadas e assim por diante. | Na Experience Cloud, a vinculação normalmente se refere à vinculação de diferentes contas de solução à interface.<br>Consulte [Organizações e vinculação de contas](organizations.md).<br>Vinculação também se refere aos URLs padrão para os relatórios do Analytics enviados para outros usuários. |
 | Localizações | Na Creative Cloud, local se refere a locais de arquivos ou a um local em uma imagem ou documento aberto. | Na Experience Cloud, os locais são onde o conteúdo é visualizado (e pode receber interação) pelo Público-alvo. A associação entre os locais e o conteúdo pode ser mais ou menos estática, ou gerenciada dinamicamente de acordo com as regras de uma campanha. Um local sempre pertence a um Canal específico que determina como o Conteúdo pode ser entregue e como as Métricas podem ser coletadas.<br>São exemplos:<ul><li>Sites</li><li>Propriedades (Social)</li><li>Exibir inventário</li><li>Páginas de aterrissagem</li><li>Aplicativos móveis</li><li>Slots (vídeo)</li></ul> |
-| Métricas | Não usado na Creative Cloud. | Números agregados sobre conceitos e objetivos principais. No Analytics, as métricas são informações quantitativas sobre a atividade do visitante, como Exibições, Selecionar click-throughs, Recarregamentos, Tempo médio gasto, Unidades, Pedidos e Receita. Consulte [Descrições de métricas](https://experienceleague.adobe.com/docs/analytics/components/variables/metrics/metricslist.html?lang=pt-BR). |
+| Métricas | Não usado na Creative Cloud. | Números agregados sobre conceitos e objetivos principais. No Analytics, as métricas são informações quantitativas sobre a atividade do visitante, como Exibições, Selecionar click-throughs, Recarregamentos, Tempo médio gasto, Unidades, Pedidos e Receita. |
 | Organização | Não usado na Creative Cloud. | Uma organização é uma entidade da Experience Cloud que permite ao administrador configurar usuários e produtos, além de controlar o logon único na Experience Cloud. Geralmente, a organização é a empresa de cobrança. |
 | Portfólio | Um conjunto de vários arquivos ou ativos. | Um contêiner de campanhas. |
 | Perfil de produto | Consulte [Gerenciar produtos e perfis](https://helpx.adobe.com/br/enterprise/using/manage-products.html). | Para que um usuário tenha direito a usar um produto ou serviço, ele precisa fazer parte de um perfil de produto. O Administrador de produto atribui licenças a um perfil de produto ao associá-lo a um plano adquirido.<br>Um usuário pode pertencer a diversos perfis de produto, cada um com licenças diferentes para o usuário. A qualificação final de um usuário é a união de todas as licenças conferidas por cada perfil de produto a esse usuário. |

@@ -6,14 +6,14 @@ title: '"Cookies próprios "'
 index: y
 snippet: y
 feature: Cookies
-topic: Administração
+topic: Administration
 role: Admin
 level: Experienced
 exl-id: e15abde5-8027-4aed-a0c1-8a6fc248db5e
-source-git-commit: 9a232162008524d900e3655716a84961c287c773
+source-git-commit: 1e7c4c02b08a17b2666afc7a82ea44d598675b3c
 workflow-type: tm+mt
-source-wordcount: '1617'
-ht-degree: 71%
+source-wordcount: '1614'
+ht-degree: 70%
 
 ---
 
@@ -166,6 +166,6 @@ Após verificar que os nomes de host estão respondendo e encaminhando para os s
 
 1. Se estiver mudando para a coleta de dados primários a partir de uma implementação antiga ou mudando para um nome de host de coleção própria diferente, o Adobe recomenda migrar os visitantes do domínio anterior para o novo domínio.
 
-Consulte [Migração de visitantes](https://experienceleague.adobe.com/docs/analytics/implementation/javascript-implementation/visitor-migration.html?lang=pt-BR) no Guia de implementação do Analytics.
+Consulte [Migração de visitantes](https://experienceleague.adobe.com/docs/analytics/technotes/visitor-migration.html?lang=en) no Guia de implementação do Analytics.
 
 Após carregar o arquivo JavaScript, tudo é configurado para a coleta de dados de próprio. A Adobe recomenda monitorar os relatórios do Analytics das próximas horas, para garantir que a coleção de dados continue normalmente. Caso contrário, verifique se todas as etapas acima foram concluídas e peça para um dos usuários suportados da organização entrar em contato com o Atendimento ao cliente.

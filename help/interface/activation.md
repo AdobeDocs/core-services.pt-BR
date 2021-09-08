@@ -12,13 +12,13 @@ role: Admin
 level: Experienced
 exl-id: d57f168b-6beb-48f2-b0d2-92593ceee62e
 source-git-commit: 2419501884d5cdfc4b418973c52045330abc562f
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '266'
-ht-degree: 96%
+ht-degree: 100%
 
 ---
 
-# Ativation
+# Activation
 
 A Activation inclui o produto de gerenciamento de tags mais recente denominado Experience Platform [!UICONTROL Data Collection] ([!UICONTROL Launch]) e Experience Cloud [!UICONTROL Triggers].
 
@@ -26,7 +26,7 @@ A Activation inclui o produto de gerenciamento de tags mais recente denominado E
 
 Implante e gerencie tags de análises, marketing e publicidade necessárias para potencializar experiências relevantes do cliente.
 
-Consulte o [Guia de início rápido do Experience Platform Launch](https://experienceleague.adobe.com/docs/experience-platform/tags/get-started/quick-start.html?lang=en).
+Consulte o [Guia de início rápido do Experience Platform Launch](https://experienceleague.adobe.com/docs/experience-platform/tags/get-started/quick-start.html?lang=pt-BR).
 
 ## [!UICONTROL Acionadores] da Experience Cloud {#section_EEA3A8B5EFCB4F8BABC4ADAF3DD41831}
 

@@ -7,7 +7,7 @@ role: Admin
 level: Experienced
 exl-id: 02417c0c-6780-4699-9470-f1685c3cd25d
 source-git-commit: 1fb1abc7311573f976f7e6b6ae67f60ada10a3e7
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '433'
 ht-degree: 100%
 
@@ -27,7 +27,7 @@ A Adobe Experience Cloud atua como um processador de dados para todos os dados p
 
 Este documento descreve como os [!UICONTROL Atributos do cliente] oferecem suporte aos direitos de acesso e exclusão de dados do GDPR de seus titulares de dados usando a Adobe Experience Platform Privacy Service API e a interface do usuário do Privacy Service.
 
-Para obter mais informações sobre o que o GDPR significa para sua empresa, consulte [GDPR e sua empresa](https://business.adobe.com/privacy/general-data-protection-regulation.html).
+Para obter mais informações sobre o que o GDPR significa para sua empresa, consulte [GDPR e sua empresa](https://business.adobe.com/br/privacy/general-data-protection-regulation.html).
 
 ## Configuração necessária para enviar solicitações para [!UICONTROL Atributos do cliente]
 

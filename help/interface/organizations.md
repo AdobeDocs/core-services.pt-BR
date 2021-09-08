@@ -11,8 +11,8 @@ level: Experienced
 exl-id: 6eb58530-2a7a-48c7-9a5b-48a6e980a034
 source-git-commit: ec724555c3799eeca350592498267d0b71b4ff04
 workflow-type: tm+mt
-source-wordcount: '506'
-ht-degree: 64%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -38,7 +38,7 @@ Talvez seja necessário localizar a ID da organização para fins de suporte. Vo
 
 A **ID da organização** é a ID associada à empresa provisionada pela Experience Cloud. A ID é uma sequência de 24 caracteres alfanuméricos seguidos por (e deve incluir) @AdobeOrg.
 
-Para exibir a ID da organização, navegue até a página de aterrissagem do Experience Cloud ou selecione ( ![](assets/menu-icon.png)) e selecione **[!UICONTROL Administração]**. É possível encontrar a ID da organização na parte inferior da página [!UICONTROL Introdução à Experience Cloud] ou na página [!UICONTROL Administração].
+Para exibir a ID da organização, navegue até a página de aterrissagem da Experience Cloud ou selecione ( ![](assets/menu-icon.png)) e, em seguida, **[!UICONTROL Administração]**. É possível encontrar a ID da organização na parte inferior da página [!UICONTROL Introdução à Experience Cloud] ou na página [!UICONTROL Administração].
 
 ![](assets/administration-page.png)
 
@@ -48,12 +48,12 @@ Geralmente, os administradores da Experience Cloud concedem acesso a soluções 
 
 1. Siga as etapas no convite por email na Experience Cloud.
 1. Faça logon usando a Adobe ID ou Enterprise ID.
-1. Selecione o seletor de soluções. ( ![](assets/menu-icon.png)).
+1. Escolha o seletor de soluções. ( ![](assets/menu-icon.png)).
 
    ![](assets/solutions-active.png)
 
    As soluções que você pode acessar são coloridas.
-1. Selecione a solução desejada.
+1. Clique na solução desejada.
 
    ![](assets/analytics-link-accounts.png)
 
@@ -64,7 +64,7 @@ Geralmente, os administradores da Experience Cloud concedem acesso a soluções 
 
 Você pode especificar uma organização padrão e uma página de aterrissagem para usar ao fazer o logon.
 
-No seu perfil, selecione **[!UICONTROL Editar perfil]**.
+Em seu perfil, selecione **[!UICONTROL Editar perfil]**.
 
 ![](assets/edit-profile.png)
 

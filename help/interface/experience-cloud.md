@@ -3,15 +3,15 @@ description: Saiba mais sobre os componentes de interface central para o Experie
 solution: Experience Cloud
 title: Ajuda e documentação da interface do Experience Cloud
 uuid: aec6f689-e617-4876-ae6c-e961cfcb991a
-feature: '"Atributos do cliente"'
-topic: Administração
+feature: Customer Attributes
+topic: Administration
 role: Admin
 level: Experienced
 exl-id: aedad5cb-3282-4a97-8e7e-6d65f7b75ba9
 source-git-commit: 4534f764ea821576c3ac5cd1959d387a3689e837
 workflow-type: tm+mt
-source-wordcount: '1306'
-ht-degree: 63%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -140,7 +140,7 @@ Em [!UICONTROL Preferências da Experience Cloud], você pode configurar os segu
 
 ## Notificações e anúncios {#notifications}
 
-Selecione **[!UICONTROL Notificações]** para ser alertado sobre atualizações relevantes e acionáveis, incluindo versões de produtos, avisos de manutenção, itens compartilhados e solicitações de aprovação.
+Selecione **[!UICONTROL Notificações]** para ser alertado de atualizações relevantes e práticas, incluindo lançamentos de produtos, avisos de manutenção, itens compartilhados e solicitações de aprovação.
 
 ![](assets/notifications-menu-small.png)
 
@@ -184,7 +184,7 @@ Os guias relacionados da Experience Cloud incluem:
 * [Coleta de dados do Experience Platform/Launch](https://experienceleague.adobe.com/docs/launch.html?lang=pt-BR)
 * [Experience Cloud Debugger](https://experienceleague.adobe.com/docs/debugger/using/experience-cloud-debugger.html?lang=pt-BR)
 * [API do Regulamento Geral sobre a Proteção de Dados (GDPR)](https://www.adobe.io/apis/experiencecloud/gdpr.html)
-* [[!UICONTROL Dynamic Tag Management]](https://experienceleague.adobe.com/docs/experience-platform/tags/home.html?lang=en)
+* [[!UICONTROL Dynamic Tag Management]](https://experienceleague.adobe.com/docs/experience-platform/tags/home.html?lang=pt-BR)
 
 ## Tutoriais
 

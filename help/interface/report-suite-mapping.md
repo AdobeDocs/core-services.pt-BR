@@ -8,9 +8,9 @@ role: Admin
 level: Experienced
 exl-id: 4e9f0f7a-8e16-4473-af4a-3e74ad50c044
 source-git-commit: 1fb1abc7311573f976f7e6b6ae67f60ada10a3e7
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '1119'
-ht-degree: 94%
+ht-degree: 100%
 
 ---
 
@@ -39,13 +39,13 @@ As organizações ficam esmaecidas caso você não tenha permissões de administ
 
    Essa exibição ajuda você a tomar decisões informadas sobre o mapeamento.
 
-1. Selecione o menu suspenso na coluna **[!UICONTROL Organização mapeada]** ao lado de um conjunto de relatórios e selecione a organização para a qual deseja mapear.
+1. Selecione o menu suspenso na coluna **[!UICONTROL Organização mapeada]** ao lado de um conjunto de relatórios e selecione a organização para a qual você deseja mapear.
 
    Consulte a próxima seção para obter dicas sobre como selecionar uma organização da Experience Cloud.
 
 ## Mapear diversos conjuntos de relatórios para uma organização {#task_94955B0D8ABA4CB1A38746ECF8E32711}
 
-1. Selecione **[!UICONTROL Experience Cloud]** > **[!UICONTROL Administração]** > **[!UICONTROL Mapeamento de conjuntos de relatórios]**.
+1. Selecione **[!UICONTROL Experience Cloud]** > **[!UICONTROL Administração]** > **[!UICONTROL Mapeamento de conjunto de relatórios]**.
 
 1. Selecione os conjuntos de relatórios que você deseja mapear.
 

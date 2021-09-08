@@ -10,9 +10,9 @@ role: Admin
 level: Experienced
 exl-id: 21ed7c35-aac9-46f1-a50c-84e7c075209c
 source-git-commit: 2419501884d5cdfc4b418973c52045330abc562f
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '1151'
-ht-degree: 91%
+ht-degree: 100%
 
 ---
 
@@ -67,13 +67,13 @@ Siga essas etapas na página Criar nova fonte de atributo do cliente na Experien
 >
 >Ao criar, modificar ou excluir fontes de atributo do cliente, ocorre um atraso de cerca de uma hora antes de as IDs começarem a realizar a sincronização com a nova fonte de dados. Você deve ter direitos administrativos no Audience Manager para criar ou modificar fontes de atributo do cliente. Entre em contato com o Atendimento ao cliente do Audience Manager ou consulte para obter direitos administrativos.
 
-1. No [!DNL Experience Cloud], selecione o ícone Menu ![](assets/menu-icon.png).
-1. Em **[!DNL Experience Platform]**, selecione **[!UICONTROL People]** > **[!UICONTROL Atributos do cliente]**.
+1. Na [!DNL Experience Cloud], selecione o ícone Menu ![](assets/menu-icon.png).
+1. Na **[!DNL Experience Platform]**, selecione **[!UICONTROL Pessoas]** > **[!UICONTROL Atributos de cliente]**.
 
    A página [!UICONTROL Atributos do cliente] é o local para gerenciar e editar as fontes de dados do atributo existentes.
 
    ![Resultado da etapa](assets/03_crs_usecase.png)
-1. Selecione **[!UICONTROL New]**.
+1. Selecione **[!UICONTROL Novo]**.
 
    ![Resultado da etapa](assets/04_crs_usecase.png)
 1. Na página [!UICONTROL Editar fonte de atributo do cliente], configure os seguintes campos:
@@ -82,11 +82,11 @@ Siga essas etapas na página Criar nova fonte de atributo do cliente na Experien
 
    * **[!UICONTROL Descrição:]** (opcional) uma descrição da fonte de atributos de dados.
 
-   * **[!UICONTROL ID de alias:]** representa uma fonte de dados do atributo do cliente, como um sistema de CRM específico. [!UICONTROL A ] ID de alias é uma ID exclusiva usada no código da Fonte de atributo do cliente. O identificador deve ser único, estar com letras minúsculas e sem espaços. O valor inserido no campo [!UICONTROL ID de alias] para uma fonte de atributo do cliente no Experience Cloud deve corresponder aos valores que estão sendo passados na implementação (seja via Coleta de dados (Launch), Dynamic Tag Management ou JavaScript do SDK móvel).
+   * **[!UICONTROL ID de alias:]** representa uma fonte de dados do atributo do cliente, como um sistema de CRM específico. [!UICONTROL ID de alias] é um identificador exclusivo que é usado em seu código da Fonte de atributo do cliente O identificador deve ser único, estar com letras minúsculas e sem espaços. O valor inserido no campo [!UICONTROL ID de alias] para uma fonte de atributo do cliente na interface da Experience Cloud deve corresponder aos valores que estão sendo transmitidos na implementação (via Coleção de dados (Launch), Dynamic Tag Management ou JavaScript do SDK móvel).
 
       A ID de alias corresponde a determinadas áreas em que você definiu outros valores da ID do cliente. Por exemplo:
 
-      * **Dynamic tag management:** a ID de alias corresponde ao valor do *Código de integração* nas [!UICONTROL Configurações do cliente], na ferramenta [Serviço da Experience Cloud ID](https://experienceleague.adobe.com/docs/experience-platform/tags/home.html?lang=en).
+      * **Dynamic tag management:** a ID de alias corresponde ao valor do *Código de integração* nas [!UICONTROL Configurações do cliente], na ferramenta [Serviço da Experience Cloud ID](https://experienceleague.adobe.com/docs/experience-platform/tags/home.html?lang=pt-BR).
 
       * **API do Visitante:** a ID de alias corresponde às [IDs do cliente](https://experienceleague.adobe.com/docs/id-service/using/reference/authenticated-state.html?lang=pt-BR) adicionais que você pode associar a cada visitante.
 
@@ -153,7 +153,7 @@ Consulte [Configurar subscrições](subscription.md#concept_ECA3C44FA6D540C89CC0
 
 **Para ativar uma fonte de atributo**
 
-Na página [!UICONTROL Criar novo [ou Editar] Fonte de Atributo do Cliente], localize o cabeçalho [!UICONTROL Ativar] e selecione **[!UICONTROL Ativo]**.
+Na página [!UICONTROL Criar novo [ou Editar] Origem de atributo do cliente], localize o cabeçalho [!UICONTROL Ativar] e selecione **[!UICONTROL Ativar]**.
 
 ![Resultado da etapa](assets/activate_attribute_source.png)
 

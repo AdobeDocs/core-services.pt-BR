@@ -9,9 +9,9 @@ role: Admin
 level: Experienced
 exl-id: 643c878f-c2f3-4c1d-ae3e-6a75c95520b4
 source-git-commit: aa50cf84ce4e1406d1222f416d9193ff2361fbee
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '334'
-ht-degree: 84%
+ht-degree: 100%
 
 ---
 
@@ -49,7 +49,7 @@ No [!UICONTROL Experience Cloud Assets], é possível:
 
 ## Acessar a barra de ferramentas {#section_EC2E401D225148818F3753248556BE6B}
 
-Navegue até um ativo (ou diretório de ativo) e selecione **[!UICONTROL Selecionar]**.
+Navegue até um ativo (ou diretório de ativo) e escolha **[!UICONTROL Selecionar]**.
 
 A barra de ferramentas fornece acesso rápido aos recursos, incluindo Pesquisa, Linha do tempo, Representações, Edição, Anotação e Download.
 
@@ -73,13 +73,13 @@ Você pode pesquisar por palavra-chave, tipo de arquivo, tamanho, última modifi
 
 ## Anotar ativos {#section_67FE1DFAAB744DA5B1CD3AD3CCEABF7A}
 
-Selecione **[!UICONTROL Anotar]** ao desenhar círculos ou setas em uma imagem, e anotar o ativo para análise pelos colegas de trabalho.
+Selecione **[!UICONTROL Anotar]** desenhando círculos ou setas em uma imagem e anotando o ativo para análise pelos colegas de trabalho.
 
 ![](assets/assets-annotate.png)
 
 ## Exibir ativos de tela inteira e utilizar o zoom {#section_A9F50D7D6BE341A2AB8244A4E42A4EF7}
 
-Selecione **[!UICONTROL Views]** > **[!UICONTROL Image]** para visualizar a imagem de ativo completa e ativar o zoom.
+Selecione **[!UICONTROL Exibições]** > **[!UICONTROL Imagem]** para exibir a imagem de ativo completa e ativar o zoom.
 
 ![](assets/asset-zoom.png)
 

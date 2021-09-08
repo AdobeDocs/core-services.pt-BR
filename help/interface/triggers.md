@@ -12,9 +12,9 @@ role: Admin
 level: Experienced
 exl-id: 9dc26e2f-479b-49a5-93ce-b877559fea43
 source-git-commit: 1fb1abc7311573f976f7e6b6ae67f60ada10a3e7
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '705'
-ht-degree: 96%
+ht-degree: 100%
 
 ---
 
@@ -52,8 +52,8 @@ Crie um acionador e configure as condições para ele. Por exemplo, você pode e
 >
 >No momento, há um limite técnico de 100 acionadores.
 
-1. No Experience Cloud, selecione ![](assets/menu-icon.png) e selecione **[!UICONTROL Coleta de dados/Launch]**.
-2. No cartão [!UICONTROL Triggers], selecione **[!UICONTROL Gerenciar acionadores]**.
+1. Na Experience Cloud, selecione ![](assets/menu-icon.png) e, em seguida, selecione **[!UICONTROL Coleção de dados/Launch]**.
+2. No cartão [!UICONTROL Acionadores], selecione **[!UICONTROL Gerenciar acionadores]**.
 3. Selecione **[!UICONTROL Novo acionador]** e especifique o tipo de acionador:
 
    ![Resultado da etapa](assets/add-trigger.png)

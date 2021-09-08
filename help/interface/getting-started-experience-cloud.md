@@ -10,9 +10,9 @@ role: Admin
 level: Experienced
 exl-id: 12addbb6-a29b-4d20-ac8f-77e0846150b5
 source-git-commit: 1fb1abc7311573f976f7e6b6ae67f60ada10a3e7
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '939'
-ht-degree: 90%
+ht-degree: 100%
 
 ---
 
@@ -28,12 +28,12 @@ Fazer logon no Experience Cloud (em vez de fazer logon em uma única solução) 
 
 Faça logon e verifique se você está na [organização](organizations.md#topic_C31CB834F109465A82ED57FF0563B3F1) correta.
 
-1. Selecione o menu Experience Cloud ( ![](assets/menu-icon.png)) e selecione **[!UICONTROL Administração]**.
+1. Selecione o menu Experience Cloud ( ![](assets/menu-icon.png)) e, em seguida, **[!UICONTROL Administração]**.
 
    Caso o link **[!UICONTROL Administration]** não apareça, você não é um administrador da Experience Cloud para a [organização](organizations.md#topic_C31CB834F109465A82ED57FF0563B3F1) exibida. Para obter ajuda para se tornar um administrador, entre em contato com o Atendimento ao cliente ou com um administrador atual da Experience Cloud na sua empresa.
-1. Selecione **[!UICONTROL Administration]**.
+1. Selecione **[!UICONTROL Administração]**.
 
-1. Para continuar, selecione um dos links a seguir:
+1. Para continuar, clique em um dos links a seguir:
 
 | Elemento | Descrição |
 |--- |--- |
@@ -56,7 +56,7 @@ Ajuda para usuários não administrativos que fazem logon na Experience Cloud.
 
 
 1. Acesse a [Adobe Experience Cloud](https://experience.adobe.com) ([!DNL experience.adobe.com]).
-1. Selecione **[!UICONTROL Fazer logon com Adobe ID]**.
+1. Selecione **[!UICONTROL Fazer logon com a Adobe ID]**.
 
    O administrador da Experience Cloud pode ajudar você a determinar o tipo de conta (Adobe ID ou Enterprise ID).
 
@@ -76,13 +76,13 @@ Ajuda para usuários não administrativos que fazem logon na Experience Cloud.
 1. Selecione **[!UICONTROL Editar perfil]**.
 
    ![](assets/default-organization.png)
-1. Continue configurando e editando informações pessoais e selecione **[!UICONTROL Salvar alterações]**.
+1. Continue a configurar e editar as informações pessoais e, em seguida, selecione **[!UICONTROL Salvar alterações]**.
 
 ## Ativar notificações {#concept_0105453AD71847B8BFCAF4A40915F157}
 
 Receba notificações (por email ou no produto) sobre atualizações do sistema, avisos de manutenção, publicações, menções e ativos compartilhados. Além disso, também é possível especificar os produtos e soluções dos quais deseja receber notificações, incluindo o status de carregamento dos atributos do cliente.
 
-Para navegar até Notificações, selecione o ícone **[!UICONTROL Notificações]** ![](assets/notifications-icon.png) e selecione o ícone **[!UICONTROL Configurações]** ![](assets/icon_edit_board.png).
+Para navegar até Notificações, selecione o ícone **[!UICONTROL Notificações]** ![](assets/notifications-icon.png) e, em seguida, o ícone **[!UICONTROL Configurações]** ![](assets/icon_edit_board.png).
 
 Você pode classificar a tela Notificações com base nos tipos de mensagens importantes para você e pesquisar por elas. Você também pode:
 
@@ -115,7 +115,7 @@ Você pode editar o perfil da Experience Cloud, especificar uma organização pa
 
 1. Faça logon na Experience Cloud.
 
-1. No Experience Cloud, selecione a imagem do perfil.
+1. Na Experience Cloud, selecione sua imagem de perfil.
 
    ![](assets/edit-profile.png)
 1. Selecione **[!UICONTROL Editar perfil]**.
@@ -125,7 +125,7 @@ Você pode editar o perfil da Experience Cloud, especificar uma organização pa
 ## Recuperar sua senha {#task_46541A2806164CB1A4AE8239604E4EB1}
 
 1. Navegue até a página de logon da solução.
-1. Selecione **[!UICONTROL Esqueceu a senha]**.
+1. Selecione **[!UICONTROL Esqueci a senha]**.
 
    Redefinir a senha da solução resolverá os problemas com a vinculação de senha da Experience Cloud.
 

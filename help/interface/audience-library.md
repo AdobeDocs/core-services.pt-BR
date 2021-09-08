@@ -10,9 +10,9 @@ role: Admin
 level: Experienced
 exl-id: 1c6e54ac-4886-46ed-9df7-201d2df31847
 source-git-commit: 1fb1abc7311573f976f7e6b6ae67f60ada10a3e7
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '828'
-ht-degree: 98%
+ht-degree: 100%
 
 ---
 
@@ -59,8 +59,8 @@ A tabela a seguir descreve como os públicos-alvo são usados nas soluções da 
 
 | Ajuda com | Recurso |
 |--- |--- |
-| Não consegue encontrar Públicos-alvo? | Verifique se você foi provisionado. Consulte [Introdução - ativar as soluções dos serviços principais](core-services.md).<br>Vá  [](https://adobe.allegiancetech.com/cgi-bin/qwebcorporate.dll?idx=X8SVES) para solicitar acesso a Perfis e públicos-alvo (formulário de provisionamento de integrações). |
-| Casos de uso | Para obter mais orientações sobre qual solução usar, acesse [Opções de criação de públicos-alvo](https://experienceleague.adobe.com/docs/experience-cloud-kcs/kbarticles/KA-16471.html?lang=en) na Base de dados de conhecimento. |
+| Não consegue encontrar Públicos-alvo? | Verifique se você foi provisionado. Consulte [Introdução - ativar as soluções dos serviços principais](core-services.md).<br>Solicite [aqui](https://adobe.allegiancetech.com/cgi-bin/qwebcorporate.dll?idx=X8SVES) acesso a Perfis e públicos (formulário de provisionamento de integrações). |
+| Casos de uso | Para obter mais orientações sobre qual solução usar, acesse [Opções de criação de públicos-alvo](https://experienceleague.adobe.com/docs/experience-cloud-kcs/kbarticles/KA-16471.html?lang=pt-BR) na Base de dados de conhecimento. |
 | Fórum | O [fórum de públicos-alvo](https://experienceleaguecommunities.adobe.com/t5/Adobe-Experience-Cloud-Audiences/ct-p/experience-cloud-audiences-community) é mais um recurso para obter ajuda com os públicos-alvo. |
 
 {style=&quot;table-layout:auto&quot;}

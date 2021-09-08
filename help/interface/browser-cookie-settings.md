@@ -10,20 +10,20 @@ role: Admin
 level: Experienced
 exl-id: 5d852e0e-4004-4f94-a6f7-3a14a96cd42f
 source-git-commit: 1fb1abc7311573f976f7e6b6ae67f60ada10a3e7
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '297'
-ht-degree: 97%
+ht-degree: 100%
 
 ---
 
-# Ativar as configurações de privacidade de cookies do navegador{#enable-privacy-settings-for-browser-cookies}
+# Ativar as configurações de privacidade de cookies do navegador {#enable-privacy-settings-for-browser-cookies}
 
 É possível remover os usuários que bloquearam todos os cookies em navegadores de computadores e de dispositivos móveis. Esse recurso é uma configuração de privacidade que exclui usuários que optam por não participar da coleção de dados, permitindo que você respeite a intenção de um usuário de interromper o processamento do Analytics.
 
 **Para ativar as configurações de privacidade de cookies do navegador**
 
 1. Navegue até **[!UICONTROL Ferramentas administrativas]** > **[!UICONTROL Conjuntos de relatórios]**.
-1. Vá para **[!UICONTROL Editar configurações]** > **[!UICONTROL Geral]** > **[!UICONTROL Configurações de privacidade]**.
+1. Selecione **[!UICONTROL Editar configurações]** > **[!UICONTROL Geral]** > **[!UICONTROL Configurações de privacidade]**.
 1. Ativar as **[!UICONTROL Configurações de privacidade]** (para desktop ou dispositivos móveis).
 
 >[!IMPORTANT]

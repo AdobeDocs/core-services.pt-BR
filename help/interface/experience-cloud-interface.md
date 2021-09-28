@@ -1,15 +1,15 @@
 ---
-description: 'Saiba como fazer logon e sobre os componentes da interface central no Experience Cloud. Saiba mais sobre pesquisa global, suas preferências de conta e como navegar na interface e obter ajuda. '
+description: 'Saiba como fazer logon e sobre os componentes da interface central na Experience Cloud. Saiba mais sobre pesquisa global, suas preferências de conta, como navegar na interface e obter ajuda. '
 solution: Experience Cloud
 title: 'Componentes da interface do usuário central da Experience Cloud '
-feature: '"Componentes da interface central"'
-topic: Administração
+feature: Central Interface Components
+topic: Administration
 role: Admin, User
 level: Beginner, Intermediate, Experienced
 source-git-commit: c9a6059b0af9c6229fd72580f997c1c6f2dfbbe4
-workflow-type: tm+mt
-source-wordcount: '718'
-ht-degree: 50%
+workflow-type: ht
+source-wordcount: '714'
+ht-degree: 100%
 
 ---
 
@@ -21,9 +21,9 @@ Os componentes da interface central da Experience Cloud incluem recursos que per
 * Encontrar ajuda e objetos de negócios do produto usando uma pesquisa global
 * Gerenciar suas preferências de conta (alertas, notificações e assinaturas)
 
-## Suporte ao navegador no Experience Cloud {#browser}
+## Suporte ao navegador na Experience Cloud {#browser}
 
-Para obter o melhor desempenho, o Experience Cloud é otimizado para os navegadores mais populares, incluindo a versão mais recente, além das duas versões anteriores.
+Para obter o melhor desempenho, a Experience Cloud é otimizada para os navegadores mais populares, incluindo a versão mais recente, além das duas versões anteriores.
 
 * Google Chrome
 * Edge
@@ -35,11 +35,11 @@ Se o seu navegador não estiver listado, talvez ainda seja suportado, mas é rec
 
 >[!NOTE]
 >
->Nem todos os aplicativos em execução no domínio Experience Cloud suportam todos os navegadores. Se não tiver certeza, verifique a documentação de um aplicativo específico.
+>Nem todos os aplicativos em execução no domínio Experience Cloud dão suporte a todos os navegadores. Se não tiver certeza, confira a documentação de um aplicativo específico.
 
-## Suporte de idiomas no Experience Cloud {#languages}
+## Suporte de idiomas na Experience Cloud {#languages}
 
-O Experience Cloud oferece suporte a idiomas preferenciais para cada usuário, conforme definido nas preferências da conta de usuário do Adobe. Os idiomas suportados atualmente são:
+A Experience Cloud oferece suporte a idiomas preferenciais para cada usuário, conforme definido nas preferências de sua conta de usuário da Adobe. Os idiomas suportados atualmente são:
 
 * Chinês
 * Inglês
@@ -50,9 +50,9 @@ O Experience Cloud oferece suporte a idiomas preferenciais para cada usuário, c
 * Coreano
 * Português
 * Espanhol
-* Taiwan
+* Mandarim taiwanês
 
-Embora todas as equipes de aplicativos estejam comprometidas com o suporte a idiomas globais, nem todos os aplicativos são oferecidos em todos os idiomas anotados acima. Se o seu idioma primário não for suportado em um aplicativo Experience Cloud, você também poderá definir um idioma secundário como padrão quando aplicável. Isso pode ser feito em [Experience Cloud user preferences](https://experience.adobe.com/preferences).
+Embora todas as equipes de aplicativos estejam comprometidas com o suporte global aos idiomas, nem todos os aplicativos são oferecidos em cada um dos idiomas indicados acima. Se o seu idioma principal não tiver suporte em um aplicativo Experience Cloud, também será possível definir um idioma secundário como padrão, quando aplicável. Isso pode ser feito em [Preferências de usuário da Experience Cloud](https://experience.adobe.com/preferences).
 
 ## Faça logon na Experience Cloud {#signin}
 
@@ -64,17 +64,17 @@ Faça logon e verifique se você está na [organização](organizations.md) corr
 
    ![](assets/organizations-menu.png)
 
-   Para verificar se você fez logon no [Organization](organizations.md) correto, clique no avatar do perfil para ver o nome da organização. Se você tiver acesso a mais de uma organização, também poderá visualizar e alternar para outra organização diretamente na barra de cabeçalho.
+   Para verificar se você fez logon na [organização](organizations.md) correta, clique no avatar do perfil para ver o nome da organização. Se você tiver acesso a mais de uma organização, também poderá visualizar e mudar para outra organização diretamente na barra do cabeçalho.
 
-   Se sua organização usa Federated IDs, o Experience Cloud permite fazer logon com o logon único de sua organização sem precisar digitar o endereço de email e a senha. Para fazer isso, adicione `#/sso:@domain` ao URL de Experience Cloud (`https://experience.adobe.com`).
+   Se sua organização usa Federated IDs, a Experience Cloud permite fazer logon com o logon único de sua organização sem precisar digitar o endereço de email e a senha. Para usar esse recurso, adicione `#/sso:@domain` ao URL da Experience Cloud (`https://experience.adobe.com`).
 
-   Por exemplo, para uma organização com Federated IDs e o domínio `adobecustomer.com`, defina o link do URL para `https://experience.adobe.com/#/sso:@adobecustomer.com`. Você também pode ir diretamente para um aplicativo específico marcando esse URL, anexado com o caminho do aplicativo. (Por exemplo, para Adobe Analytics, `https://experience.adobe.com/#/sso:@adobecustomer.com/analytics`.)
+   Por exemplo, para uma organização com Federated IDs e o domínio `adobecustomer.com`, defina o link do URL como `https://experience.adobe.com/#/sso:@adobecustomer.com`. Você também pode ir diretamente para um aplicativo específico marcando esse URL, anexado com o caminho do aplicativo. (por exemplo, para o Adobe Analytics, `https://experience.adobe.com/#/sso:@adobecustomer.com/analytics`.)
 
 ## Acessar aplicativos da Experience Cloud {#navigation}
 
 Após fazer logon na Experience Cloud, você pode acessar rapidamente todos os aplicativos, serviços e organizações pelo cabeçalho unificado.
 
-Selecione o seletor de aplicativos ![](assets/menu-icon.png) para acessar os serviços do Experience Cloud que você possui.
+Selecione o seletor de aplicativos ![](assets/menu-icon.png) para acessar os serviços da Experience Cloud que você tem.
 
 ![](assets/platform-core-services.png)
 
@@ -104,7 +104,7 @@ No menu de preferências da conta, é possível:
 
 As preferências da Experience Cloud incluem notificações, assinaturas e alertas.
 
-Selecione **[!UICONTROL Preferências]** no menu da sua conta ![](assets/preferences-icon-sm.png) para gerenciar preferências.
+Selecione **[!UICONTROL Preferências]** no menu da conta ![](assets/preferences-icon-sm.png) para gerenciar as preferências.
 
 ![](assets/preferences-page.png)
 
@@ -122,7 +122,7 @@ Em [!UICONTROL Preferências da Experience Cloud], você pode configurar os segu
 
 ## Notificações e anúncios {#notifications}
 
-Selecione **[!UICONTROL Notificações]** para ver notificações importantes para você e anúncios do Adobe.
+Selecione **[!UICONTROL Notificações]** para ver as notificações que são importantes para você e os anúncios da Adobe.
 
 ![](assets/notifications-menu-small.png)
 

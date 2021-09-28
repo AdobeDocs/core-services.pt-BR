@@ -10,8 +10,8 @@ level: Experienced
 exl-id: aedad5cb-3282-4a97-8e7e-6d65f7b75ba9
 source-git-commit: 4534f764ea821576c3ac5cd1959d387a3689e837
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '1303'
+ht-degree: 100%
 
 ---
 
@@ -40,9 +40,9 @@ Faça logon e verifique se você está na [organização](organizations.md) corr
 
    **Verificar sua organização**
 
-   Para verificar se você fez logon no [Organization](organizations.md) correto, clique no avatar do perfil para ver o nome da organização. Se você tiver acesso a mais de uma organização, também poderá visualizar e alternar para outra organização diretamente na barra de cabeçalho.
+   Para verificar se você fez logon na [organização](organizations.md) correta, clique no avatar do perfil para ver o nome da organização. Se você tiver acesso a mais de uma organização, também poderá visualizar e mudar para outra organização diretamente na barra do cabeçalho.
 
-   Se sua organização usa Federated IDs, o Experience Cloud permite fazer logon com o logon único de sua organização sem precisar digitar o endereço de email e a senha. Para fazer isso, adicione `#/sso:@domain` ao URL de Experience Cloud (`https://experience.adobe.com`).
+   Se sua organização usa Federated IDs, a Experience Cloud permite fazer logon com o logon único de sua organização sem precisar digitar o endereço de email e a senha. Para usar esse recurso, adicione `#/sso:@domain` ao URL da Experience Cloud (`https://experience.adobe.com`).
 
    Por exemplo, para uma organização com Federated IDs e o domínio `adobecustomer.com`, defina o link do URL para `https://experience.adobe.com/#/sso:@adobecustomer.com`. Você também pode ir diretamente para um aplicativo específico marcando esse URL, anexado com o caminho do aplicativo. (Por exemplo, para Adobe Analytics, `https://experience.adobe.com/#/sso:@adobecustomer.com/analytics`.)
 
@@ -54,9 +54,9 @@ Para acessar os aplicativos e serviços do Experience Cloud fornecidos para voc�
 
 ![](assets/platform-core-services.png)
 
-## Suporte ao navegador no Experience Cloud {#browser}
+## Suporte ao navegador na Experience Cloud {#browser}
 
-Para obter o melhor desempenho, o Experience Cloud é otimizado para os navegadores mais populares, incluindo a versão mais recente, além das duas versões anteriores.
+Para obter o melhor desempenho, a Experience Cloud é otimizada para os navegadores mais populares, incluindo a versão mais recente, além das duas versões anteriores.
 
 * Google Chrome
 * Edge
@@ -68,11 +68,11 @@ Se o seu navegador não estiver listado, talvez ainda seja suportado, mas é rec
 
 >[!NOTE]
 >
->Nem todos os aplicativos em execução no domínio Experience Cloud suportam todos os navegadores. Se não tiver certeza, verifique a documentação de um aplicativo específico.
+>Nem todos os aplicativos em execução no domínio Experience Cloud dão suporte a todos os navegadores. Se não tiver certeza, confira a documentação de um aplicativo específico.
 
-## Suporte de idiomas no Experience Cloud {#languages}
+## Suporte de idiomas na Experience Cloud {#languages}
 
-O Experience Cloud oferece suporte a idiomas preferenciais para cada usuário, conforme definido nas preferências da conta de usuário do Adobe. Os idiomas suportados atualmente são:
+A Experience Cloud oferece suporte a idiomas preferenciais para cada usuário, conforme definido nas preferências de sua conta de usuário da Adobe. Os idiomas suportados atualmente são:
 
 * Chinês
 * Inglês
@@ -83,9 +83,9 @@ O Experience Cloud oferece suporte a idiomas preferenciais para cada usuário, c
 * Coreano
 * Português
 * Espanhol
-* Taiwan
+* Mandarim taiwanês
 
-Embora todas as equipes de aplicativos estejam comprometidas com o suporte a idiomas globais, nem todos os aplicativos são oferecidos em todos os idiomas anotados acima. Se o seu idioma primário não for suportado em um aplicativo Experience Cloud, você também poderá definir um idioma secundário como padrão quando aplicável. Isso pode ser feito em [Experience Cloud user preferences](https://experience.adobe.com/preferences).
+Embora todas as equipes de aplicativos estejam comprometidas com o suporte global aos idiomas, nem todos os aplicativos são oferecidos em cada um dos idiomas indicados acima. Se o seu idioma principal não tiver suporte em um aplicativo Experience Cloud, também será possível definir um idioma secundário como padrão, quando aplicável. Isso pode ser feito em [Preferências de usuário da Experience Cloud](https://experience.adobe.com/preferences).
 
 ## Obter ajuda e suporte {#support}
 
@@ -108,7 +108,7 @@ A pesquisa global permite encontrar objetos ou entidades comerciais pesquisávei
 
 >[!NOTE]
 >
->A pesquisa global não está disponível em todos os aplicativos Experience Cloud, mas como mais conteúdo é indexado, ele será adicionado aos aplicativos relevantes. Disponibilidade a partir de julho de 2021:
+>A pesquisa global não está disponível em todos os aplicativos Experience Cloud, mas, à medida que mais conteúdo for indexado, ele será adicionado aos aplicativos relevantes. Disponibilidade a partir de julho de 2021:
 
 * Experience Platform
 * Journey Optimizer
@@ -146,13 +146,13 @@ Selecione **[!UICONTROL Notificações]** para ser alertado de atualizações re
 
 ## Domínios Experience Cloud {#domains}
 
-O Experience Cloud usa os seguintes hosts para fornecer o aplicativo, melhorar o desempenho e a experiência do produto. O Adobe recomenda adicionar esses domínios à lista de permissões do firewall para obter uma experiência ideal. Domínios adicionais também podem estar em uso para aplicativos Experience Cloud específicos, como o Adobe Analytics. Consulte a documentação desses aplicativos para obter mais informações.
+O Experience Cloud usa os hosts a seguir para fornecer o aplicativo, melhorar o desempenho e a experiência do produto. A Adobe recomenda adicionar esses domínios à lista de permissões do firewall para obter uma experiência ideal. Domínios adicionais também podem estar em uso para aplicativos Experience Cloud específicos, como o Adobe Analytics. Consulte a documentação desses aplicativos para obter mais informações.
 
 | Tecnologia | Domínios |
 |--- |--- |
-| Domínios Adobe Experience Cloud | `adobe.com`, `adobe.net`, `adobe.io` |
+| Domínios da Adobe Experience Cloud | `adobe.com`, `adobe.net`, `adobe.io` |
 | Adobe Identity Management Service (IMS) | `adobelogin.com` |
-| Experience Cloud fonts | `typekit.net` |
+| Fontes da Experience Cloud | `typekit.net` |
 | Gainsight (para orientação e ajuda do produto) | `esp.aptrinsic.com` |
 
 ## Obter ajuda sobre administração e serviços entre aplicativos

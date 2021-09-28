@@ -10,9 +10,9 @@ role: Admin
 level: Experienced
 exl-id: 062576da-328e-4b46-9e71-5a25733d607a
 source-git-commit: 399a3ddb47deb83481bcdfb0c578804b2bbfbae8
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '774'
-ht-degree: 98%
+ht-degree: 100%
 
 ---
 
@@ -33,7 +33,7 @@ Saiba mais sobre a compatibilidade com o navegador e consulte perguntas e respos
 Se a implementação foi provisionada para os serviços principais, consulte [Ativar as soluções para serviços principais](core-services.md#concept_07ED1D5C64234E77976E6D572E78FB9C), que descreve como:
 
 1. [Associar-se à Experience Cloud e tornar-se um administrador](core-services.md#section_2423F0BD3DF642658103310EE5EA6154)
-1. [Implementar o Serviço da Experience Cloud ID usando o Experience Platform Launch](https://experienceleague.adobe.com/docs/experience-platform/tags/get-started/quick-start.html?lang=en).
+1. [Implementar o Serviço da Experience Cloud ID usando o Experience Platform Launch](https://experienceleague.adobe.com/docs/experience-platform/tags/get-started/quick-start.html?lang=pt-BR).
 1. [Mapear conjuntos de relatórios para uma organização da Experience Cloud](core-services.md#concept_apg_zq2_rw)
 1. [(Somente no Analytics) Modernizar o código do Analytics AppMeasurement](core-services.md#section_1798D9D0F05C47E29816AC4EEB9A0913)
 1. [(Somente no Adobe Target) Modernizar a implementação do Adobe Target](core-services.md#section_C2F4493C7A36406DAE2266B429A4BD24)
@@ -53,7 +53,7 @@ A funcionalidade fornecida pela interface da Experience Cloud agrega novo valor 
 
 ## Como resolver problemas sobre como migrar minha empresa?
 
-[Entre em contato com o Suporte da Adobe](https://experienceleague.adobe.com/?support-solution=General#support).
+[Entre em contato com o Suporte da Adobe](https://experienceleague.adobe.com/?support-solution=General&amp;lang=pt-BR#support).
 
 ## O que é _provisionamento?_
 
@@ -76,7 +76,7 @@ O provisionamento na Experience Cloud significa que:
 
 Os administradores do Admin Console podem conceder acesso aos usuários. Os usuários recebem emails com instruções de logon.
 
-Talvez seja necessário [Entrar em contato com o suporte da Adobe](https://experienceleague.adobe.com/?support-solution=General#support) para verificar se a empresa foi totalmente provisionada.
+Talvez seja necessário [Entrar em contato com o suporte da Adobe](https://experienceleague.adobe.com/?support-solution=General&amp;lang=pt-BR#support) para verificar se a empresa foi totalmente provisionada.
 
 ## Onde um usuário pode gerenciar a vinculação de contas?
 

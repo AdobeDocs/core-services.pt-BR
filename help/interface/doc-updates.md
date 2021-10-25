@@ -9,16 +9,33 @@ topic: Administration
 role: Admin
 level: Experienced
 exl-id: 11cc5005-8ec0-4308-bc94-0f78666ea645
-source-git-commit: 12d5a76eaffd2aff43f23e56de44879199d0a4fe
+source-git-commit: 29af6733b7964a0e98bb664366d4c92bebdceddb
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '516'
+ht-degree: 83%
 
 ---
 
 # Atualizações da documentação - Experience Cloud
 
 Informações sobre atualizações na documentação do produto da Experience Cloud.
+
+**Atualizado em 28/10/2021**
+
+| Recurso | Descrição |
+| ------- | ------- |
+| Página inicial | As informações do rodapé da página inicial do Experience Cloud foram movidas para o cartão de perfil do usuário, incluindo Avisos legais e seleção de idioma em Preferências. |
+| Painéis AEP | [!DNL Helios Lite] O fornece recomendações de gráfico no fluxo de trabalho de criação do widget Experience Platform. Dada uma seleção de dados (atualmente uma seleção de dados de variável única), o helios recomenda uma visualização apropriada para acompanhar essa seleção de dados. |
+| Painéis AEP | [!DNL Instory] fornece narração escrita e legendas com base em ML para gráficos. Ele decora gráficos na página Painéis da AEP com pontos de marcador relevantes, chamando grandes alterações e incidentes nos dados em gráfico. |
+
+**Atualizado em 13/10/2021**
+
+| Recurso | Descrição |
+| ------- | ------- |
+| Pesquisa unificada | A Pesquisa unificada continua a adicionar tipos de objetos ao índice de pesquisa. Nesta atualização, a pesquisa global agora busca em todo o conteúdo da Experience League e nos seguintes tipos de objetos do Journey Optimizer: <ul><li>Conjuntos de dados</li><li>Destinos</li><li>Consultas</li><li>Esquemas</li><li>Segmentos</li><li>Fontes</li><li>Ofertas</li><li>Componentes</li><li>Mensagens</li><li>Jornadas</li></ul> |
+| Consentimento de dados de uso do produto | Após um logon inicial, você é solicitado a enviar preferências sobre como a Adobe pode fornecer conteúdo útil e personalizado de tutoriais, guias, dicas rápidas, recomendações, vídeos instrutivos e muito mais, com base nos dados de uso do produto da Experience Cloud. Essa solicitação também inclui uma atualização das suas preferências para a coleta e uso desses dados em <https://experience.adobe.com/preferences>. |
+| Navegação do Experience Cloud [!UICONTROL Triggers] | O [Experience Cloud Triggers](https://experienceleague.adobe.com/docs/core-services/interface/services/activation/triggers.html?lang=pt-BR) está disponível para navegação direta a partir do alternador do aplicativo no cabeçalho para usuários provisionados. |
+| **Aviso:** previsão de atualização de navegação da interface | Em novembro de 2021, o recurso de navegação _[!UICONTROL Ir para Launch/Coleção de dados]_ será removido de <https://experience.adobe.com/implement>. |
 
 **Atualizado em 24/08/2021**
 

@@ -10,9 +10,9 @@ role: Admin
 level: Experienced
 exl-id: 11cc5005-8ec0-4308-bc94-0f78666ea645
 source-git-commit: 29af6733b7964a0e98bb664366d4c92bebdceddb
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '516'
-ht-degree: 83%
+ht-degree: 100%
 
 ---
 
@@ -20,13 +20,13 @@ ht-degree: 83%
 
 Informações sobre atualizações na documentação do produto da Experience Cloud.
 
-**Atualizado em 28/10/2021**
+**Atualizado em: 28/10/2021**
 
 | Recurso | Descrição |
 | ------- | ------- |
-| Página inicial | As informações do rodapé da página inicial do Experience Cloud foram movidas para o cartão de perfil do usuário, incluindo Avisos legais e seleção de idioma em Preferências. |
-| Painéis AEP | [!DNL Helios Lite] O fornece recomendações de gráfico no fluxo de trabalho de criação do widget Experience Platform. Dada uma seleção de dados (atualmente uma seleção de dados de variável única), o helios recomenda uma visualização apropriada para acompanhar essa seleção de dados. |
-| Painéis AEP | [!DNL Instory] fornece narração escrita e legendas com base em ML para gráficos. Ele decora gráficos na página Painéis da AEP com pontos de marcador relevantes, chamando grandes alterações e incidentes nos dados em gráfico. |
+| Página inicial | As informações do rodapé da página inicial da Experience Cloud foram movidas para o cartão de perfil do usuário, incluindo os Avisos legais e a seleção de idioma em Preferências. |
+| Painéis AEP | O [!DNL Helios Lite] fornece recomendações de gráfico no fluxo de trabalho de criação do dispositivo da Experience Platform. Dada uma seleção de dados (atualmente uma seleção de dados de variável única), o helios recomenda uma visualização apropriada para acompanhar essa seleção de dados. |
+| Painéis AEP | O [!DNL Instory] fornece narração escrita e legendas com base em aprendizado de máquina para gráficos. Ele decora gráficos na página Painéis AEP com pontos de marcador relevantes, trazendo grandes alterações e incidentes para os dados do gráfico. |
 
 **Atualizado em 13/10/2021**
 

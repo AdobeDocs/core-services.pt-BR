@@ -3,13 +3,13 @@ description: Saiba mais sobre como mapear um ou vários conjuntos de relatórios
 title: 'Mapear conjuntos de relatórios para uma organização '
 uuid: b983d5a6-b3d0-4137-ac53-bc5681d3e58b
 feature: Admin Console
-topic: Administração
+topic: Administration
 role: Admin
 level: Experienced
 exl-id: 4e9f0f7a-8e16-4473-af4a-3e74ad50c044
-source-git-commit: 1fb1abc7311573f976f7e6b6ae67f60ada10a3e7
-workflow-type: ht
-source-wordcount: '1119'
+source-git-commit: c073b3bacf5505c01017d4ba2507621df8ef877e
+workflow-type: tm+mt
+source-wordcount: '1131'
 ht-degree: 100%
 
 ---
@@ -49,7 +49,7 @@ As organizações ficam esmaecidas caso você não tenha permissões de administ
 
 1. Selecione os conjuntos de relatórios que você deseja mapear.
 
-   ![](assets/rs-mapping-multiple.png)
+   ![Selecione os conjuntos de relatórios que você deseja mapear](assets/rs-mapping-multiple.png)
 
 1. Selecione a organização (Outdoors Inc, nesse exemplo) e clique em **[!UICONTROL Selecionar]**.
 
@@ -71,7 +71,7 @@ Verifique se a implantação corresponde à organização selecionada na ferrame
 
 Isso indica que você não tem privilégios suficientes para realizar o mapeamento para o conjunto de relatórios esmaecido. Considere o exemplo a seguir:
 
-![](assets/rs-mapping.png)
+![Por que algumas organizações estão esmaecidas?](assets/rs-mapping.png)
 
 Nesse diagrama, a tecla azul indica privilégios de administrador. As linhas cinzas indicam visibilidade.
 

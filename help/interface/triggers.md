@@ -1,26 +1,26 @@
 ---
 description: Como configurar Experience Cloud Triggers.
 keywords: integrações, Triggers
-seo-description: Como configurar o Experience Cloud Triggers.
+seo-description: How to configure Experience Cloud Triggers.
 seo-title: Triggers
 solution: Experience Cloud
 title: 'Visão geral dos Triggers '
 uuid: dab536e3-1969-4661-919e-5b15f423fecd
 feature: Admin Console
-topic: Administração
+topic: Administration
 role: Admin
 level: Experienced
 exl-id: 9dc26e2f-479b-49a5-93ce-b877559fea43
-source-git-commit: 1fb1abc7311573f976f7e6b6ae67f60ada10a3e7
-workflow-type: ht
-source-wordcount: '705'
-ht-degree: 100%
+source-git-commit: ae14748aa7b0f0d803d48fe980a6743f53d996ab
+workflow-type: tm+mt
+source-wordcount: '702'
+ht-degree: 96%
 
 ---
 
 # Experience Cloud Triggers
 
-Os [!UICONTROL Acionadores] permitem identificar, definir e monitorar os comportamentos principais dos consumidores e gerar comunicação entre soluções para reengajar os visitantes.
+[!UICONTROL Triggers] no Experience Cloud permite identificar, definir e monitorar os comportamentos dos principais consumidores e gerar comunicação entre aplicativos para atrair os visitantes novamente.
 
 ## Visão geral do Triggers {#topic_4F21FCE9A64E46E8B6D51F494FA652A7}
 
@@ -30,7 +30,7 @@ Você pode usar acionadores em personalizações e decisões em tempo real. Por 
 * Formulários e aplicativos incompletos
 * Qualquer ação ou sequência de ações no site
 
-![](assets/trigger-abandonment-2.png)
+![Exemplo de acionador](assets/trigger-abandonment-2.png)
 
 >[!NOTE]
 >
@@ -82,10 +82,10 @@ Exemplos de Experience Cloud Triggers:
 
 Por exemplo, a página a seguir mostra regras que você poderia usar em um acionador de [!UICONTROL Abandono de carrinho], com base em produtos visualizados durante uma visita.
 
-![](assets/abandonment-trigger.png)
+![Acionador de abandono de carrinho](assets/abandonment-trigger.png)
 
 #### Acionador referenciador
 
 O acionador a seguir é disparado quando uma ocorrência acompanhar o produto de Botas masculinas e um referenciador do Facebook. Para que os dois critérios (*produtos* e *referenciador*) sejam avaliados na mesma ocorrência, eles devem ser adicionados ao mesmo contêiner.
 
-![](assets/fb-boots-promo.png)
+![Acionador do referenciador](assets/fb-boots-promo.png)

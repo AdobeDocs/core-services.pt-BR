@@ -1,30 +1,30 @@
 ---
-description: Saiba mais sobre os assets da Experience Cloud que você pode compartilhar nas soluções.
+description: Saiba mais sobre os ativos do Experience Cloud que você pode compartilhar entre aplicativos.
 solution: Experience Cloud
 title: Visão geral de assets
 uuid: 97a849ec-1555-4630-9416-2ab484373f5c
 feature: Assets
-topic: Administração
+topic: Administration
 role: Admin
 level: Experienced
 exl-id: 643c878f-c2f3-4c1d-ae3e-6a75c95520b4
-source-git-commit: aa50cf84ce4e1406d1222f416d9193ff2361fbee
-workflow-type: ht
-source-wordcount: '334'
-ht-degree: 100%
+source-git-commit: ae14748aa7b0f0d803d48fe980a6743f53d996ab
+workflow-type: tm+mt
+source-wordcount: '356'
+ht-degree: 83%
 
 ---
 
 # Visão geral dos assets da Experience Cloud
 
-O Experience Cloud Assets oferece um repositório único e centralizado de ativos prontos para marketing, que podem ser compartilhados entre as soluções. Um ativo é um documento digital, imagem, vídeo ou áudio (ou parte dele) que pode ter várias representações e subativos (por exemplo, camadas em um arquivo do [!DNL Photoshop], slides em um arquivo do [!DNL PowerPoint], páginas em um PDF, arquivos em um ZIP).
+Os Experience Cloud Assets fornecem um repositório único e centralizado de ativos prontos para marketing, que podem ser compartilhados entre aplicativos. Um ativo é um documento digital, imagem, vídeo ou áudio (ou parte dele) que pode ter várias representações e subativos (por exemplo, camadas em um arquivo do [!DNL Photoshop], slides em um arquivo do [!DNL PowerPoint], páginas em um PDF, arquivos em um ZIP).
 
 Os serviços de ativos incluem:
 
-* Armazenamento de ativos, interface de gestão, interface de seleção incorporada (acessada por meio de soluções).
-* Integrações com a Creative Cloud, colaboração da Experience Cloud e soluções da Experience Cloud.
+* Armazenamento de ativos, interface de gerenciamento, interface de seleção incorporada (acessada por meio de aplicativos).
+* Integrações com aplicativos Creative Cloud, Experience Cloud colaborações e Experience Cloud.
 
-Usar ativos melhora a consistência e a conformidade da marca, além de acelerar o tempo de comercialização. Você pode dinamizar fluxos de trabalho nas soluções:
+Usar ativos melhora a consistência e a conformidade da marca, além de acelerar o tempo de comercialização. Você pode simplificar os fluxos de trabalho nos aplicativos:
 
 * **[!DNL Social]**: publique nas propriedades sociais, Facebook, Twitter, LinkedIn, Google+.
 * **[!DNL Target]**: crie experiências para testes A/B e multivariados.
@@ -45,7 +45,7 @@ No [!UICONTROL Experience Cloud Assets], é possível:
 
 ## Navegar até os Experience Cloud Assets {#section_3657039DD3524F2AA88753BFF4781125}
 
-![](assets/asset-nav.png)
+![Navegar até os Experience Cloud Assets](assets/asset-nav.png)
 
 ## Acessar a barra de ferramentas {#section_EC2E401D225148818F3753248556BE6B}
 
@@ -53,7 +53,7 @@ Navegue até um ativo (ou diretório de ativo) e escolha **[!UICONTROL Seleciona
 
 A barra de ferramentas fornece acesso rápido aos recursos, incluindo Pesquisa, Linha do tempo, Representações, Edição, Anotação e Download.
 
-![](assets/asset-tools.png)
+![Acessar a barra de ferramentas](assets/asset-tools.png)
 
 ## Editar ativos {#section_CD3C55A9D4574455B94D0955391C8FEC}
 
@@ -63,25 +63,25 @@ Editar um ativo habilita recursos, incluindo:
 * Girar
 * Inverter
 
-![](assets/asset-edit.png)
+![Editar ativos](assets/asset-edit.png)
 
 ## Pesquisar por ativos {#section_50FE049010B446FC9640AA6A30E5A730}
 
 Você pode pesquisar por palavra-chave, tipo de arquivo, tamanho, última modificação, status de publicação, orientação e estilo.
 
-![](assets/asset-search.png)
+![Pesquisar por ativos](assets/asset-search.png)
 
 ## Anotar ativos {#section_67FE1DFAAB744DA5B1CD3AD3CCEABF7A}
 
 Selecione **[!UICONTROL Anotar]** desenhando círculos ou setas em uma imagem e anotando o ativo para análise pelos colegas de trabalho.
 
-![](assets/assets-annotate.png)
+![Anotar ativos](assets/assets-annotate.png)
 
 ## Exibir ativos de tela inteira e utilizar o zoom {#section_A9F50D7D6BE341A2AB8244A4E42A4EF7}
 
 Selecione **[!UICONTROL Exibições]** > **[!UICONTROL Imagem]** para exibir a imagem de ativo completa e ativar o zoom.
 
-![](assets/asset-zoom.png)
+![Exibir ativos em tela inteira](assets/asset-zoom.png)
 
 ## Exibir propriedades de ativos {#section_FED28711DAB14E1BBEEA7CA890EE9573}
 
@@ -89,7 +89,7 @@ Escolha entre exibição de cartão com propriedades, de lista e de coluna para 
 
 Selecione **[!UICONTROL Exibições]** > **[!UICONTROL Propriedades]** para exibir as propriedades de um ativo:
 
-![](assets/asset-properties.png)
+![Exibir propriedades de ativos](assets/asset-properties.png)
 
 ## Executar relatórios de uso {#section_15D782FFB8D74CF4A735116CC03AD902}
 
@@ -97,4 +97,4 @@ Consulte a quantidade de usuários, armazenamento usado e total de ativos.
 
 Selecione **[!UICONTROL Ferramentas]** > **[!UICONTROL Relatórios]** > **[!UICONTROL Relatório de uso]**
 
-![](assets/assets-usage-report.png)
+![Executar relatórios de uso](assets/assets-usage-report.png)

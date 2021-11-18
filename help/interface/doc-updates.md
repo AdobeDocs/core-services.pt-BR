@@ -9,10 +9,10 @@ topic: Administration
 role: Admin
 level: Experienced
 exl-id: 11cc5005-8ec0-4308-bc94-0f78666ea645
-source-git-commit: 29af6733b7964a0e98bb664366d4c92bebdceddb
-workflow-type: ht
+source-git-commit: ae14748aa7b0f0d803d48fe980a6743f53d996ab
+workflow-type: tm+mt
 source-wordcount: '516'
-ht-degree: 100%
+ht-degree: 98%
 
 ---
 
@@ -26,7 +26,7 @@ Informações sobre atualizações na documentação do produto da Experience Cl
 | ------- | ------- |
 | Página inicial | As informações do rodapé da página inicial da Experience Cloud foram movidas para o cartão de perfil do usuário, incluindo os Avisos legais e a seleção de idioma em Preferências. |
 | Painéis AEP | O [!DNL Helios Lite] fornece recomendações de gráfico no fluxo de trabalho de criação do dispositivo da Experience Platform. Dada uma seleção de dados (atualmente uma seleção de dados de variável única), o helios recomenda uma visualização apropriada para acompanhar essa seleção de dados. |
-| Painéis AEP | O [!DNL Instory] fornece narração escrita e legendas com base em aprendizado de máquina para gráficos. Ele decora gráficos na página Painéis AEP com pontos de marcador relevantes, trazendo grandes alterações e incidentes para os dados do gráfico. |
+| Painéis AEP | O [!DNL Instory] fornece narração escrita e legendas para gráficos com base em aprendizado de máquina. Ele decora gráficos na página Painéis AEP com pontos de marcador relevantes, trazendo grandes alterações e incidentes para os dados do gráfico. |
 
 **Atualizado em 13/10/2021**
 
@@ -118,7 +118,7 @@ Adição de [Ativos da Experience Cloud](experience-cloud-assets.md#concept_DDA5
 
 **Atualizado: 2/3/2015**
 
-Adição de [Ativar as soluções para serviços principais](core-services.md#concept_07ED1D5C64234E77976E6D572E78FB9C).
+Adicionado [Ativar os aplicativos dos serviços principais](core-services.md#concept_07ED1D5C64234E77976E6D572E78FB9C)
 
 **Atualizado: 1/15/2015**
 

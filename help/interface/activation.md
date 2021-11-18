@@ -1,20 +1,20 @@
 ---
 description: Conheça o produto de gerenciamento de tags mais recente, chamado Experience Platform Launch.
 keywords: principais serviços
-seo-description: O Activation inclui o produto de gerenciamento de tags mais recente, denominado Experience Platform Launch. Dynamic Tag Management (DTM); e Triggers.
+seo-description: Activation includes the latest tag management product called Experience Platform Launch. Dynamic Tag Management (DTM);and Triggers.
 seo-title: Activation
 solution: Experience Cloud Services
 title: Serviços de Activation na Experience Cloud
 uuid: 54ada638-3592-49ee-930a-9f44bcc5e5d3
 feature: Admin Console
-topic: Administração
+topic: Administration
 role: Admin
 level: Experienced
 exl-id: d57f168b-6beb-48f2-b0d2-92593ceee62e
-source-git-commit: 2419501884d5cdfc4b418973c52045330abc562f
-workflow-type: ht
-source-wordcount: '266'
-ht-degree: 100%
+source-git-commit: ae14748aa7b0f0d803d48fe980a6743f53d996ab
+workflow-type: tm+mt
+source-wordcount: '245'
+ht-degree: 80%
 
 ---
 
@@ -30,7 +30,7 @@ Consulte o [Guia de início rápido do Experience Platform Launch](https://exper
 
 ## [!UICONTROL Acionadores] da Experience Cloud {#section_EEA3A8B5EFCB4F8BABC4ADAF3DD41831}
 
-Os [!UICONTROL Acionadores da Experience Cloud] permitem aos profissionais do marketing definir e monitorar os principais comportamentos do consumidor, além de gerar comunicação entre soluções para uso em decisões em tempo real e personalizações.
+[!UICONTROL Experience Cloud Triggers] O permite que os profissionais de marketing definam e monitorem os principais comportamentos do consumidor, além de gerar comunicação entre aplicativos para uso em decisões e personalização em tempo real.
 
 <table id="table_AF6842470172429EA97C9B02163BD0C3"> 
  <thead> 
@@ -54,6 +54,6 @@ Os [!UICONTROL Acionadores da Experience Cloud] permitem aos profissionais do ma
 
 ## Experience Cloud Debugger {#section_682FCF8A22ED47D0ACF94204AB94B444}
 
-A extensão do Depurador da Adobe Experience Cloud para Chrome avalia as páginas da Web e ajuda a encontrar problemas na implementação das soluções da Experience Cloud.
+A extensão do Adobe Experience Cloud Debugger para Chrome avalia as páginas da Web e ajuda a encontrar problemas na implementação dos aplicativos do Experience Cloud.
 
 Consulte [Experience Cloud Debugger](https://experienceleague.adobe.com/docs/debugger/using/experience-cloud-debugger.html?lang=pt-BR) para obter ajuda.

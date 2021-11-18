@@ -5,14 +5,14 @@ solution: Experience Cloud,Analytics,Target
 title: 'Cookies e privacidade '
 uuid: 7fb36845-6282-438a-bbc6-0c3cf95de1c9
 feature: Cookies
-topic: Administração
+topic: Administration
 role: Admin
 level: Experienced
 exl-id: 169b5c67-aab6-4b2a-832e-c5998d796bf7
-source-git-commit: 1fb1abc7311573f976f7e6b6ae67f60ada10a3e7
-workflow-type: ht
-source-wordcount: '335'
-ht-degree: 100%
+source-git-commit: c073b3bacf5505c01017d4ba2507621df8ef877e
+workflow-type: tm+mt
+source-wordcount: '347'
+ht-degree: 95%
 
 ---
 
@@ -30,8 +30,8 @@ Por exemplo, os dados contidos em cookies definidos no site Adobe.com não podem
 
 O diagrama a seguir ilustra o uso de cookies em uma solicitação de imagem padrão:
 
-![](assets/CookiesProcessGraphic-01.png)
+![Uso de cookies para uma solicitação de imagem padrão](assets/CookiesProcessGraphic-01.png)
 
 O diagrama a seguir ilustra o uso de cookies em uma solicitação de imagem direta (usada em cenários nos quais um arquivo JS não é carregado):
 
-![](assets/CookiesProcessGraphic2.png)
+![Uso de cookies para uma solicitação de imagem direta](assets/CookiesProcessGraphic2.png)

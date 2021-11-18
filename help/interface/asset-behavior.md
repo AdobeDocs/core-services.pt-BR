@@ -5,13 +5,13 @@ solution: Experience Cloud
 title: 'Comportamento das pastas compartilhadas '
 uuid: 86348401-f4b1-4efe-acd1-7e73a7030edf
 feature: Assets
-topic: Administração
+topic: Administration
 role: Admin
 level: Experienced
 exl-id: 5ddcb2f0-b491-466d-b357-aeacbfcf0b8e
-source-git-commit: 1fb1abc7311573f976f7e6b6ae67f60ada10a3e7
-workflow-type: ht
-source-wordcount: '569'
+source-git-commit: c073b3bacf5505c01017d4ba2507621df8ef877e
+workflow-type: tm+mt
+source-wordcount: '623'
 ht-degree: 100%
 
 ---
@@ -28,7 +28,7 @@ Regras sobre como as pastas compartilhadas se comportam quando são movidas, exc
 
 Você move uma pasta não compartilhada para uma pasta compartilhada:
 
-![](assets/01_assets_move.png)
+![Pasta não compartilhada na pasta compartilhada](assets/01_assets_move.png)
 
 **Resultado**: Ambas as pastas se tornam compartilhadas.
 
@@ -36,7 +36,7 @@ Você move uma pasta não compartilhada para uma pasta compartilhada:
 
 Você move uma pasta compartilhada para uma pasta não compartilhada.
 
-![](assets/02_assets_move.png)
+![Pasta compartilhada na pasta não compartilhada](assets/02_assets_move.png)
 
 **Resultado**: a pasta não compartilhada permanece não compartilhada. A pasta compartilhada permanece compartilhada.
 
@@ -44,7 +44,7 @@ Você move uma pasta compartilhada para uma pasta não compartilhada.
 
 Você move o conteúdo de uma pasta não compartilhada para uma pasta compartilhada.
 
-![](assets/03_assets_move.png)
+![Conteúdo da pasta não compartilhada na pasta compartilhada](assets/03_assets_move.png)
 
 **Resultado:** o conteúdo agora é compartilhado e todos os colaboradores podem visualizá-lo. O armazenamento aumenta de acordo com o tamanho do conteúdo.
 
@@ -52,7 +52,7 @@ Você move o conteúdo de uma pasta não compartilhada para uma pasta compartilh
 
 Você arquiva ou exclui o conteúdo que reside em uma pasta compartilhada.
 
-![](assets/04_assets_move.png)
+![Conteúdo compartilhado arquivado e excluído](assets/04_assets_move.png)
 
 **Resultado:** o conteúdo é arquivado para o proprietário da pasta. Os colaboradores que não possuem o conteúdo não podem mais acessá-lo.
 
@@ -60,7 +60,7 @@ Você arquiva ou exclui o conteúdo que reside em uma pasta compartilhada.
 
 Você move o conteúdo de uma pasta compartilhada de sua propriedade para uma pasta não compartilhada.
 
-![](assets/05_assets_move.png)
+![Conteúdo compartilhado próprio em uma pasta não compartilhada](assets/05_assets_move.png)
 
 **Resultado:** o conteúdo agora não é compartilhado. Os colaboradores da pasta compartilhada não têm mais acesso ao conteúdo.
 
@@ -68,7 +68,7 @@ Você move o conteúdo de uma pasta compartilhada de sua propriedade para uma pa
 
 Você move o conteúdo da pasta compartilhada de propriedade de outra pessoa para uma pasta não compartilhada.
 
-![](assets/06_assets_move.png)
+![Conteúdo não próprio em uma pasta não compartilhada](assets/06_assets_move.png)
 
 **Resultado:** o conteúdo aparece na pasta não compartilhada e é removido da pasta compartilhada. Os colaboradores da pasta compartilhada não têm mais acesso ao conteúdo. O conteúdo é arquivado para o proprietário da pasta compartilhada.
 
@@ -78,7 +78,7 @@ Os proprietários e editores podem mover o conteúdo que não é de sua propried
 
 Você arquiva (pela Web) ou exclui (pela área de trabalho) uma pasta compartilhada de sua propriedade.
 
-![](assets/07_assets_move.png)
+![Pasta própria arquivada ou excluída](assets/07_assets_move.png)
 
 **Resultado:** a pasta não é compartilhada e é arquivada. Os colaboradores não têm mais acesso à pasta.
 
@@ -86,7 +86,7 @@ Você arquiva (pela Web) ou exclui (pela área de trabalho) uma pasta compartilh
 
 Você move uma pasta compartilhada de sua propriedade para outra pasta compartilhada de sua propriedade ou não.
 
-![](assets/09_assets_move.png)
+![Pasta compartilhada em outra pasta compartilhada](assets/09_assets_move.png)
 
 **Resultado:** À medida que a pasta é movida para a Pasta 2, ela se torna compartilhada com os novos colaboradores.
 
@@ -94,7 +94,7 @@ Você move uma pasta compartilhada de sua propriedade para outra pasta compartil
 
 Você move o conteúdo de uma pasta compartilhada para outra pasta compartilhada.
 
-![](assets/11_assets_move.png)
+![Conteúdo compartilhado em outra pasta compartilhada](assets/11_assets_move.png)
 
 **Resultado:** o conteúdo é exibido na Pasta 2 e agora é compartilhado com os novos colaboradores. O conteúdo é removido da Pasta 1, e o proprietário o vê como arquivado, enquanto os outros colaboradores não têm mais acesso a ele.
 
@@ -102,6 +102,6 @@ Você move o conteúdo de uma pasta compartilhada para outra pasta compartilhada
 
 Você restaura o conteúdo de um arquivo que pertence a uma pasta compartilhada. Você era o proprietário do conteúdo no momento em que ele foi arquivado.
 
-![](assets/12_assets_move.png)
+![Conteúdo restaurado no arquivo](assets/12_assets_move.png)
 
 **Resultado:** o conteúdo é restaurado para a pasta compartilhada e todos os colaboradores podem acessá-lo novamente. Se a pasta compartilhada não existir mais, o conteúdo será colocado em uma cópia não compartilhada de sua(s) pasta(s) pai original(is).

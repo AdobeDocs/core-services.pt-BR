@@ -4,10 +4,10 @@ user-guide-title: 'Componentes da interface central da Experience Cloud '
 breadcrumb-title: Componentes da interface central da Experience Cloud
 user-guide-description: Saiba mais sobre a interface do Experience Cloud, configure as preferências, pesquise e descubra objetos comerciais. Obtenha ajuda sobre o gerenciamento de usuários e produtos, atributos do cliente, biblioteca de público-alvo, cookies e ativos da Experience Cloud.
 index: true
-source-git-commit: 21701779b0a502b39791a59104182fc5d3323f7b
-workflow-type: ht
+source-git-commit: ae14748aa7b0f0d803d48fe980a6743f53d996ab
+workflow-type: tm+mt
 source-wordcount: '344'
-ht-degree: 100%
+ht-degree: 95%
 
 ---
 
@@ -17,7 +17,7 @@ ht-degree: 100%
 + [Guia de componentes de interface central do Experience Cloud](experience-cloud.md)
 + Serviços da Experience Cloud {#services}
    + [Serviços da Experience Cloud](core-services-landing.md)
-   + [Habilitar a implementação para serviços entre soluções](core-services.md)
+   + [Habilitar sua implementação para serviços entre aplicativos](core-services.md)
    + Biblioteca de público-alvo da Experience Cloud {#audiences}
       + [Públicos-alvo da Experience Cloud](audience-library.md)
       + [Criar um público-alvo](t-audience-create.md)
@@ -54,7 +54,7 @@ ht-degree: 100%
    + [Organizações e vinculação de contas](organizations.md)
    + [Atualização para o Analytics Premium e a Experience Cloud](upgrade-to-analytics-premium.md)
    + [Integrações da Experience Cloud](marketing-cloud-integrations.md)
-   + [Uso da pré-busca DNS com diferentes soluções e serviços](dns-prefetch.md)
+   + [Uso da pré-busca DNS com diferentes aplicativos e serviços](dns-prefetch.md)
    + Cookies da Experience Cloud {#ec-cookies}
       + [Visão geral de cookies da Experience Cloud](cookies-privacy.md)
       + [Cookies primários na Experience Cloud](cookies-first-party.md)

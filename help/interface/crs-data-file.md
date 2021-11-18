@@ -4,15 +4,15 @@ keywords: Atributos do cliente;serviços principais
 solution: Experience Cloud
 title: 'Saiba mais sobre arquivos de dados e fontes de dados para Atributos do cliente '
 uuid: 9dd0e364-889b-45db-b190-85c0930a101e
-feature: Atributos do cliente
-topic: Administração
+feature: Customer Attributes
+topic: Administration
 role: Admin
 level: Experienced
 exl-id: e2dfe10d-7003-4afa-a5e6-57703d74efd4
-source-git-commit: 1fb1abc7311573f976f7e6b6ae67f60ada10a3e7
-workflow-type: ht
-source-wordcount: '1198'
-ht-degree: 100%
+source-git-commit: ae14748aa7b0f0d803d48fe980a6743f53d996ab
+workflow-type: tm+mt
+source-wordcount: '1203'
+ht-degree: 98%
 
 ---
 
@@ -55,11 +55,11 @@ Os atributos do cliente foram criados para lidar com alguns arquivos por dia. Pa
 
 O arquivo CSV deve seguir o seguinte formato:
 
-![](assets/cvs.png)
+![Requisitos para os arquivos de dados do atributo](assets/cvs.png)
 
 O mesmo arquivo exibido em um editor de texto:
 
-![](assets/csv_txt.png)
+![Requisitos para os arquivos de dados do atributo](assets/csv_txt.png)
 
 **Diretrizes**
 
@@ -77,7 +77,7 @@ O mesmo arquivo exibido em um editor de texto:
   </tr> 
   <tr> 
    <td colname="col1"> <p>Coluna ID do cliente </p> </td> 
-   <td colname="col2"> <p> A primeira coluna deve ser um identificador exclusivo do cliente. A ID usada deve corresponder à ID transmitida ao Serviço da Experience Cloud ID. </p> <p>No Analytics, a ID que está sendo armazenada em uma prop ou eVar. </p> <p>Para o Target, o valor setCustomerID. (Consulte <a href="core-services.md#section_AD473A6A21C1446498E700363F9A8437" format="dita" scope="local"> Analytics &amp; Adobe Target - sincronização da ID do cliente </a>) </p> <p> Essa ID do cliente é o identificador exclusivo que seu CRM usa para cada pessoa no banco de dados. As outras colunas são atributos provenientes do seu CRM. Você escolhe quantos atributos serão carregados. </p> <p>Recomendamos usar nomes amigáveis e legíveis nos cabeçalhos da coluna, embora isso não seja obrigatório. Ao validar o esquema após o carregamento, é possível mapear nomes amigáveis para as linhas e colunas carregadas. </p> <p> <b>Sobre as IDs do cliente</b> </p> <p>Normalmente, uma empresa usa uma ID do cliente de um sistema de CRM. Essa ID é definida ao utilizar a chamada <span class="codeph">setCustomerIDs</span> quando uma pessoa faz logon. Essa ID também é usada como a chave do arquivo CRM que é carregado para a Experience Cloud. <a href="t-crs-usecase.md#task_09DAC0F2B76141E491721C1E679AABC8" format="dita" scope="local">ID alias</a> é um nome amigável para um armazenamento de dados no Audience Manager, onde os dados do alias são armazenados. O sistema envia aliases para esse armazenamento de dados (via setCustomerIDs). O arquivo CRM é aplicado aos dados nesse armazenamento de dados. </p> <p>Para obter informações sobre <span class="codeph">setCustomerIDs</span>, consulte <a href="https://experienceleague.adobe.com/docs/id-service/using/reference/authenticated-state.html?lang=pt-BR" format="https" scope="external">IDs do cliente e estados de autenticação</a>. </p> </td> 
+   <td colname="col2"> <p> A primeira coluna deve ser um identificador exclusivo do cliente. A ID usada deve corresponder à ID transmitida ao Serviço da Experience Cloud ID. </p> <p>No Analytics, a ID que está sendo armazenada em uma prop ou eVar. </p> <p>Para o Target, o valor setCustomerID. (Consulte <a href="core-services.md#section_AD473A6A21C1446498E700363F9A8437" format="dita" scope="local"> Analytics &amp; Adobe Target - sincronização da ID do cliente </a>) </p> <p> Essa ID do cliente é o identificador exclusivo que seu CRM usa para cada pessoa no banco de dados. As outras colunas são atributos provenientes do seu CRM. Você escolhe quantos atributos serão carregados. </p> <p>Recomendamos usar nomes amigáveis e legíveis nos cabeçalhos da coluna, embora isso não seja obrigatório. Ao validar o esquema após o carregamento, é possível mapear nomes amigáveis para as linhas e colunas carregadas. </p> <p> <b>Sobre as IDs do cliente</b> </p> <p>Normalmente, uma empresa usa uma ID do cliente de um sistema de CRM. Essa ID é definida ao utilizar a chamada <span class="codeph">setCustomerIDs</span> quando uma pessoa faz logon. Essa ID também é usada como a chave do arquivo CRM que é carregado para a Experience Cloud. <a href="t-crs-usecase.md#task_09DAC0F2B76141E491721C1E679AABC8" format="dita" scope="local">ID alias</a> é um nome amigável para um armazenamento de dados no Audience Manager, onde os dados do alias são armazenados. O sistema envia aliases para esse armazenamento de dados (via setCustomerIDs). O arquivo CRM é aplicado aos dados nesse armazenamento de dados. </p> <p>Para obter informações sobre <span class="codeph">setCustomerIDs</span>, consulte <a href="https://experienceleague.adobe.com/docs/id-service/using/reference/authenticated-state.html?lang=en" format="https" scope="external">IDs do cliente e estados de autenticação</a>. </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p>Cabeçalhos e colunas subsequentes </p> </td> 
@@ -85,7 +85,7 @@ O mesmo arquivo exibido em um editor de texto:
   </tr> 
   <tr> 
    <td colname="col1"> <p>Limites do atributo </p> </td> 
-   <td colname="col2"> <p>Você pode fazer upload de centenas de colunas de <span class="filepath">.csv</span> para o serviço de atributos do cliente na Experience Cloud. No entanto, ao configurar assinaturas e selecionar atributos, os seguintes limites poderão ser aplicados dependendo das suas soluções: </p> <p> 
+   <td colname="col2"> <p>Você pode fazer upload de centenas de colunas de <span class="filepath">.csv</span> para o serviço de atributos do cliente na Experience Cloud. No entanto, ao configurar assinaturas e selecionar atributos, os seguintes limites poderão ser aplicados dependendo dos seus aplicativos: </p> <p> 
      <ul id="ul_2BB85067918D4BB3B59394F3E3E37A6D"> 
       <li id="li_93703988B9934384B4B94A839D028380"> <b>Analytics Standard</b>: 3 total </li> 
       <li id="li_D1E5E7BD24C54591B14D15DE97447835"> <b>Analytics Premium</b>: 200 por conjunto de relatórios </li> 

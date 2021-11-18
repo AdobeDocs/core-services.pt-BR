@@ -3,16 +3,16 @@ description: Saiba mais sobre os requisitos e o que esperar ao atualizar para o 
 keywords: Atualização do Adobe Analytics Premium
 solution: Experience Cloud
 title: 'Atualização para o Analytics Premium e a Experience Cloud '
-topic: Administração
+topic: Administration
 uuid: 450a601c-d199-4e90-b525-19bd9f9576d2
 feature: Admin Console
 role: Admin
 level: Experienced
 exl-id: 746d396d-9629-42db-8c55-07d2d24e4611
-source-git-commit: 1fb1abc7311573f976f7e6b6ae67f60ada10a3e7
-workflow-type: ht
-source-wordcount: '625'
-ht-degree: 100%
+source-git-commit: ae14748aa7b0f0d803d48fe980a6743f53d996ab
+workflow-type: tm+mt
+source-wordcount: '622'
+ht-degree: 86%
 
 ---
 
@@ -56,9 +56,9 @@ Atualizar para Inteligência preditiva permite o [Analytics Premium](upgrade-to-
 
 | Produto | Atualizações |
 |---|---|
-| Reports &amp; Analytics | [Análise de contribuição](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/virtual-analyst/contribution-analysis/ca-tokens.html?lang=pt-BR) |
+| Reports &amp; Analytics | [Análise de contribuição](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/virtual-analyst/contribution-analysis/ca-tokens.html?lang=en) |
 | Data Workbench | Espaços de trabalho pré-criados para qualificações de público-alvo e marketing preditivo |
-| Analytics Platform | Live Stream (painéis e acionadores) |
+| Plataforma do Analytics | Live Stream (painéis e acionadores) |
 
 {style=&quot;table-layout:auto&quot;}
 
@@ -70,7 +70,7 @@ Atualização para ofertas do Customer 360 no [Analytics Premium](upgrade-to-ana
 |--- |--- |
 | [Atributos do cliente](attributes.md) | Atributos do cliente (análise e compartilhamento de segmentos) |
 | Data Workbench | <ul><li>Atributos derivados do cliente</li><li>Espaços de trabalho pré-criados para descoberta de públicos-alvo</li></ul> |
-| Analytics Platform | [Atributos do cliente](attributes.md) |
+| Plataforma do Analytics | [Atributos do cliente](attributes.md) |
 
 {style=&quot;table-layout:auto&quot;}
 
@@ -88,7 +88,7 @@ Qualquer software que estiver sendo executado no local deverá ser desativado. E
 
 ## Experience Cloud - Administrar usuários e produtos {#section_6471C54454024301B2E0B687F79F6738}
 
-A Experience Cloud e os serviços principais estão disponíveis para usuários do Analytics Standard e Premium, desde que você tenha seguido a modernização de implementação descrita na [Introdução — habilitar as soluções para os serviços principais](core-services.md#concept_07ED1D5C64234E77976E6D572E78FB9C). (Esse processo ajuda a modernizar a implementação e permitirá que você se torne um administrador na Experience Cloud.)
+O Experience Cloud e os serviços principais estão disponíveis para usuários do Analytics Standard e Premium, se você tiver seguido a modernização de implementação descrita em [Introdução - ativar os aplicativos dos serviços principais](core-services.md#concept_07ED1D5C64234E77976E6D572E78FB9C). (Esse processo ajuda a modernizar a implementação e permitirá que você se torne um administrador na Experience Cloud.)
 
 Após associar-se à Experience Cloud, é possível fazer logon por meio da Experience Cloud em [!DNL experience.adobe.com] e começar a usar os principais serviços (inclusive os atributos do cliente, os públicos-alvo e a análise de aplicativos móveis).
 
@@ -96,8 +96,8 @@ Após associar-se à Experience Cloud, é possível fazer logon por meio da Expe
 
 O gerenciamento de usuários é executado no [Adobe Admin Console](https://helpx.adobe.com/br/enterprise/using/admin-console.html) (link do produto).
 
-Você pode configurar um mapeamento 1:1 entre um grupo criado no Adobe Admin Console e um grupo de soluções (como o Adobe Analytics). Consequentemente, um novo usuário incluído no grupo do Admin Console mapeado terá uma conta de solução do Analytics automaticamente criada e vinculada à Adobe ID do usuário. (Os usuários existentes devem vincular manualmente as credenciais da conta da solução para acessar as soluções por meio do logon da Experience Cloud.)
+Você pode configurar um mapeamento 1:1 entre um grupo criado no Adobe Admin Console e um grupo de soluções (como o Adobe Analytics). Consequentemente, um novo usuário adicionado ao grupo Admin Console mapeado tem uma conta de aplicativo do Analytics criada automaticamente e vinculada ao Adobe ID do usuário. (Os usuários existentes devem vincular manualmente as credenciais da conta do aplicativo para acessar os aplicativos por meio do login do Experience Cloud.)
 
 >[!NOTE]
 >
->Você pode mapear diversos grupos de solução para um grupo do Admin Console. No entanto, Adobe recomenda o mapeamento de 1:1. Mapear os grupos antecipadamente permite convidar, criar, permitir e adicionar vários usuários carregando um CSV.
+>Você pode mapear vários grupos de aplicativos para um grupo de Admin Console. No entanto, Adobe recomenda o mapeamento de 1:1. Mapear os grupos antecipadamente permite convidar, criar, permitir e adicionar vários usuários carregando um CSV.

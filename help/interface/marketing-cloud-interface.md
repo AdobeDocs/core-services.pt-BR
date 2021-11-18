@@ -1,15 +1,15 @@
 ---
 description: Uma visão geral de novos recursos e atualizações na Experience Cloud.
 keywords: principais serviços
-seo-description: Uma visão geral de novos recursos e atualizações na Experience Cloud.
-seo-title: Novidades da Experience Cloud
+seo-description: An overview of new features and updates in the Experience Cloud.
+seo-title: What's new in the Experience Cloud
 solution: Experience Cloud
 title: 'Novidades da Experience Cloud '
 uuid: bc1b1542-1a37-4da1-bcfd-fc86af881642
-source-git-commit: 145040facf70c6bde5c6c3fae9c7ed7f520c188d
-workflow-type: ht
-source-wordcount: '651'
-ht-degree: 100%
+source-git-commit: ae14748aa7b0f0d803d48fe980a6743f53d996ab
+workflow-type: tm+mt
+source-wordcount: '634'
+ht-degree: 87%
 
 ---
 
@@ -51,7 +51,7 @@ Novos recursos e correções na interface da [!DNL Adobe Experience Cloud].
 
 | Recurso | Descrição |
 |--- |--- |
-| Nova página de aterrissagem de administração | Ao fazer logon na Experience Cloud e navegar até a página de administração, uma nova interface intuitiva está disponível para ajudá-lo a acessar rapidamente as soluções da Experience Cloud e Core Services. |
+| Nova página de aterrissagem de administração | Ao fazer logon no Experience Cloud e navegar até a página de Administração, uma nova interface intuitiva está disponível para ajudá-lo a acessar rapidamente os aplicativos do Experience Cloud e os Serviços principais. |
 
 {style=&quot;table-layout:auto&quot;}
 
@@ -70,8 +70,8 @@ Diversas notificações de manutenção sobre manutenções/atualizações de pr
 
 | Recurso | Descrição |
 |--- |--- |
-| Notificações - Configurações granulares | É possível habilitar notificações sobre atividades e eventos de soluções e produtos e de atividades de upload de [Atributos de clientes](attributes.md). |
-| Notificações - Notificações de manutenção | Nas configurações de Notificações, você pode habilitar notificações de manutenção para produtos e soluções. |
+| Notificações - Configurações granulares | Você pode ativar notificações sobre atividades e eventos de produtos e aplicativos, incluindo notificações sobre [Atributos do cliente](attributes.md) atividade de upload. |
+| Notificações - Notificações de manutenção | Nas configurações de Notificação, você pode habilitar notificações de manutenção para produtos e aplicativos. |
 | Admin Console para usuários da Experience Cloud | Os novos clientes da Experience Cloud podem começar a usar o Admin Console, um local central para gerenciar os direitos da Adobe em toda a organização.<br>A migração para o Admin Console no gerenciamento de usuários acontecerá em etapas. A Adobe entrará em contato com vocês (administradores do sistema) quando chegar o momento de migrar.<br>Administradores do Analytics, consultem [Migração do Analytics](https://experienceleague.adobe.com/docs/analytics/admin/user-product-management/user-management/migrate-users/c-migration-tool.html?lang=pt-BR). |
 
 {style=&quot;table-layout:auto&quot;}
@@ -80,7 +80,7 @@ Diversas notificações de manutenção sobre manutenções/atualizações de pr
 
 | Recurso | Descrição |
 |--- |--- |
-| Mapeamento em massa do conjunto de relatórios | Em Administração > Mapeamento do conjunto de relatórios, agora você pode selecionar vários conjuntos de relatórios e mapeá-los a uma organização. (Anteriormente, você tinha que mapeá-los individualmente.)  <br>[Mapear conjuntos de relatórios](core-services.md) para uma única organização ajuda a habilitar recursos e serviços entre soluções na Experience Cloud. |
+| Mapeamento em massa do conjunto de relatórios | Em Administração > Mapeamento do conjunto de relatórios, agora você pode selecionar vários conjuntos de relatórios e mapeá-los a uma organização. (Anteriormente, você tinha que mapeá-los individualmente.)  <br>[Mapeamento de conjuntos de relatórios](core-services.md) para uma única organização ajuda a habilitar recursos e serviços entre aplicativos no Experience Cloud. |
 | Atualizações aos públicos-alvo da Experience Cloud | **Aplicação dos conjuntos de relatórios**<br> Agora é possível aplicar um conjunto de relatórios a todas as suas [regras de público-alvo](t-audience-create.md). (Anteriormente, você tinha que especificar um conjunto de relatórios em cada definição de regra.) <br>**Props e variáveis**<br> Agora é possível incluir props do Analytics e variáveis padrão (além das eVars e eventos) em públicos-alvo em tempo real. |
 
 {style=&quot;table-layout:auto&quot;}

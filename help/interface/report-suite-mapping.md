@@ -8,7 +8,7 @@ role: Admin
 level: Experienced
 exl-id: 4e9f0f7a-8e16-4473-af4a-3e74ad50c044
 source-git-commit: c073b3bacf5505c01017d4ba2507621df8ef877e
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '1131'
 ht-degree: 100%
 
@@ -47,9 +47,9 @@ As organizações ficam esmaecidas caso você não tenha permissões de administ
 
 1. Selecione **[!UICONTROL Experience Cloud]** > **[!UICONTROL Administração]** > **[!UICONTROL Mapeamento de conjunto de relatórios]**.
 
-1. Selecione os conjuntos de relatórios que você deseja mapear.
+1. Selecione os conjuntos de relatórios que deseja mapear.
 
-   ![Selecione os conjuntos de relatórios que você deseja mapear](assets/rs-mapping-multiple.png)
+   ![Selecione os conjuntos de relatórios que deseja mapear](assets/rs-mapping-multiple.png)
 
 1. Selecione a organização (Outdoors Inc, nesse exemplo) e clique em **[!UICONTROL Selecionar]**.
 

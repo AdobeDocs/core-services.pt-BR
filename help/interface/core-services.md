@@ -1,8 +1,8 @@
 ---
-description: Modernize seus aplicativos Adobe Analytics e Adobe Target para serviços entre aplicativos. Saiba como começar a usar os serviços da Experience Cloud.
+description: Modernize seus aplicativos do Adobe Analytics e do Adobe Target para executar serviços entre aplicativos. Saiba como começar a usar os serviços da Experience Cloud.
 keywords: serviços principais;Atributos do cliente
 solution: Experience Cloud
-title: Ativar os aplicativos para serviços entre aplicativos
+title: Habilite seus aplicativos para executarem serviços entre aplicativos
 index: true
 feature: Customer Attributes
 topic: Administration
@@ -10,9 +10,9 @@ role: Admin
 level: Experienced
 exl-id: 48e79e23-b339-4143-b3b1-969c370efeff
 source-git-commit: ae14748aa7b0f0d803d48fe980a6743f53d996ab
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '2294'
-ht-degree: 92%
+ht-degree: 100%
 
 ---
 
@@ -20,7 +20,7 @@ ht-degree: 92%
 
 Se você implementou a Experience Cloud recentemente usando o Experience Platform Launch, você já configurou os atributos do cliente e os públicos-alvo da Experience Cloud. Você também pode gerenciar usuários e produtos no Admin Console.
 
-Os clientes atuais podem modernizar suas implementações de aplicativo e implementar o Experience Cloud. Dessa forma, você aproveitará os atributos do cliente e os recursos de público-alvo no Adobe Analytics, no Audience Manager e no Adobe Target. Para fazer esta implementação, você deve:
+Os clientes existentes podem modernizar suas implementações de aplicativo e implementar a Experience Cloud. Dessa forma, você aproveitará os atributos do cliente e os recursos de público-alvo no Adobe Analytics, no Audience Manager e no Adobe Target. Para fazer esta implementação, você deve:
 
 1. [Associar-se à Experience Cloud e tornar-se um administrador](#section_2423F0BD3DF642658103310EE5EA6154)
 1. [Implementar o Experience Cloud ID Service](#section_3C9F6DF37C654D939625BB4D485E4354)
@@ -66,25 +66,25 @@ Para fazer logon na Experience Cloud, os usuários devem:
 * Ter uma Adobe ID (ou Enterprise ID para sua empresa).
 * Faça logon em [experience. adobe.com](https://experience.adobe.com).
 * Pertencer a um grupo de aplicativos mapeado para um grupo corporativo.
-* Se necessário, vincule suas contas de aplicativo à Adobe ID (descrito abaixo).
+* Se necessário, vincule as contas dos aplicativos deles à sua respectiva Adobe ID (descrito abaixo).
 
 ### Opcional: vincular contas de usuário existentes.
 
-Provavelmente, há usuários que já são membros de grupos de aplicativos, como um grupo do Analytics gerenciado anteriormente no [!UICONTROL Analytics] > [!UICONTROL Ferramentas administrativas].
+Provavelmente, há usuários que já são membros de grupos de aplicativos, como um grupo do Analytics que anteriormente era gerenciado em [!UICONTROL Ferramentas administrativas] > [!UICONTROL Analytics].
 
-Quando você mapeia esses grupos para grupos corporativos do Experience Cloud, esses usuários devem vincular manualmente suas credenciais de conta de aplicativo à Adobe ID.
+Quando você mapeia tais grupos para grupos corporativos da Experience Cloud, esses usuários devem vincular manualmente suas respectivas credenciais de conta do aplicativo à respectiva Adobe ID.
 
 Consulte [Vincular contas na Experience Cloud](organizations.md#topic_C31CB834F109465A82ED57FF0563B3F1)
 
 >[!NOTE]
 >
->Após mapear os grupos de aplicativos e corporativos, os novos usuários são vinculados automaticamente. (As credenciais da solução são criadas e vinculadas automaticamente à Adobe ID.)
+>Depois de mapear os grupos corporativos e de aplicativos, os novos usuários são vinculados automaticamente. (As credenciais da solução são criadas e vinculadas automaticamente à Adobe ID.)
 
 As seções a seguir descrevem como modernizar sua implementação. A modernização da implementação habilita os serviços principais na Experience Cloud.
 
 ## Implementar o [!UICONTROL Experience Cloud ID Service] {#section_3C9F6DF37C654D939625BB4D485E4354}
 
-O [!UICONTROL Serviço de ID de Experience Cloud] O fornece uma ID comum para integração entre aplicativos. Ele fornece identificação de visitantes entre domínios e um caminho para segmentação e personalização entre dispositivos/navegadores com base nos dados do CRM carregados pelos [!UICONTROL Atributos do cliente].
+O [!UICONTROL Serviço da Experience Cloud ID] fornece uma ID comum para integração entre aplicativos. Ele fornece identificação de visitantes entre domínios e um caminho para direcionamento e personalização entre dispositivos/navegadores com base nos dados do CRM carregados pelos [!UICONTROL Atributos do cliente].
 
 O método mais simples de habilitar os serviços principais da Experience Cloud é ativá-la automaticamente para o Analytics e o Adobe Target por meio da [extensão do Experience Cloud ID Service](https://experienceleague.adobe.com/docs/experience-platform/tags/extensions/adobe/id-service/overview.html?lang=pt-BR) no [!UICONTROL Experience Platform Launch].
 
@@ -104,7 +104,7 @@ Se você não estiver usando o [!UICONTROL Experience Platform Launch] ou o [!UI
 
 ### Analytics &amp; Adobe Target - sincronização da ID do cliente {#section_AD473A6A21C1446498E700363F9A8437}
 
-Como parte da configuração do Serviço da Experience Cloud ID, a Adobe recomenda para o Analytics e para o [!DNL Target] a sincronização das [IDs do cliente](https://experienceleague.adobe.com/docs/id-service/using/reference/authenticated-state.html?lang=en) com a Experience Cloud.
+Como parte da configuração do Serviço da Experience Cloud ID, a Adobe recomenda para o Analytics e para o [!DNL Target] a sincronização das [IDs do cliente](https://experienceleague.adobe.com/docs/id-service/using/reference/authenticated-state.html?lang=pt-BR) com a Experience Cloud.
 
 No Adobe Target, o `mbox3rdpartyid` deve obter a ID do cliente e enviá-la para o [!DNL Target]. (Consulte [Trabalhar com atributos do cliente](https://experienceleague.adobe.com/docs/target/using/audiences/visitor-profiles/working-with-customer-attributes.html?lang=pt-BR) em [!DNL Target].)
 
@@ -143,9 +143,9 @@ Recomenda-se modernizar sua implementação do Analytics ao atualizar suas bibli
 
 ## Atualizar a implementação do Adobe Target {#section_C2F4493C7A36406DAE2266B429A4BD24}
 
-* É recomendável adicionar uma [Extensão do Adobe Target](https://experienceleague.adobe.com/docs/experience-platform/tags/extensions/adobe/target-v2/overview.html?lang=pt-BR) ao [!UICONTROL Experience Platform Launch], para que a recuperação da biblioteca seja automática. Você também pode configurar a variável [Extensão do Experience Cloud ID Service](https://experienceleague.adobe.com/docs/experience-platform/tags/extensions/adobe/id-service/overview.html?lang=en) para Adobe Target (e outros aplicativos) usando [!UICONTROL Experience Platform Launch]. A atualização do [!UICONTROL Serviço da Experience Cloud ID] **é necessária** para que o Adobe Target use os serviços principais.
+* É recomendável adicionar uma [Extensão do Adobe Target](https://experienceleague.adobe.com/docs/experience-platform/tags/extensions/adobe/target-v2/overview.html?lang=pt-BR) ao [!UICONTROL Experience Platform Launch], para que a recuperação da biblioteca seja automática. Você também pode configurar a [extensão do Serviço da Experience Cloud ID](https://experienceleague.adobe.com/docs/experience-platform/tags/extensions/adobe/id-service/overview.html?lang=pt-BR) para o Adobe Target (e outros aplicativos) usando o [!UICONTROL Experience Platform Launch]. A atualização do [!UICONTROL Serviço da Experience Cloud ID] **é necessária** para que o Adobe Target use os serviços principais.
 * Se você não estiver usando o [!UICONTROL Experience Platform Launch], [atualize a biblioteca mbox](https://experienceleague.adobe.com/docs/target/using/implement-target/client-side/implement-target-for-client-side-web.html?lang=pt-BR) manualmente.
-* Solicite acesso para usar o Adobe Analytics como a fonte de relatórios para o [!DNL Adobe Target]. [!DNL Target] e [!DNL Analytics] Os dados do são combinados na mesma chamada de servidor durante o processamento para que os visitantes sejam conectados entre os dois aplicativos. Consulte [Implementação do Analytics for Target](https://experienceleague.adobe.com/docs/target/using/integrate/a4t/a4t.html?lang=pt-BR).
+* Solicite acesso para usar o Adobe Analytics como fonte de relatórios para o [!DNL Adobe Target]. Os dados do [!DNL Target] e do [!DNL Analytics] são combinados na mesma chamada de servidor durante o processamento para que os visitantes sejam conectados entre os dois aplicativos. Consulte [Implementação do Analytics for Target](https://experienceleague.adobe.com/docs/target/using/integrate/a4t/a4t.html?lang=pt-BR).
 
    >[!IMPORTANT]
    >
@@ -184,7 +184,7 @@ Implantar o Serviço de Experience Cloud ID nos sites que usam vários arquivos 
 
 Quando tudo estiver funcionando, navegue até o [Admin Console](https://adminconsole.adobe.com/), onde é possível gerenciar usuários e perfis de produto.
 
-![Admin Console de acesso](assets/menu-administration-shell.png)
+![Acessar o Admin Console](assets/menu-administration-shell.png)
 
 Consulte [Gerenciamento de usuários e produtos da Experience Cloud](admin-getting-started.md#topic_3FCB4099640647E3B2411ADBFCE81909).
 
@@ -230,4 +230,4 @@ Se você desejar oferecer a capacidade de não participação adequada, os visit
 
 Consulte [Adobe Experience Cloud - Implementação das opções de não participação da Adobe](https://experienceleague.adobe.com/docs/analytics/implementation/js/opt-out.html?lang=pt-BR) para obter instruções.
 
-Consulte [Coletas de dados CNAMEs e Rastreamento entre domínios](https://experienceleague.adobe.com/docs/id-service/using/reference/analytics-reference/cname.html?lang=en) para ativar o rastreamento entre domínios.
+Consulte [Coletas de dados CNAMEs e Rastreamento entre domínios](https://experienceleague.adobe.com/docs/id-service/using/reference/analytics-reference/cname.html?lang=pt-BR) para ativar o rastreamento entre domínios.

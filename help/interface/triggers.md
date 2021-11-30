@@ -4,7 +4,7 @@ keywords: integrações, Triggers
 seo-description: How to configure Experience Cloud Triggers.
 seo-title: Triggers
 solution: Experience Cloud
-title: 'Visão geral dos Triggers '
+title: 'Visão geral do Triggers '
 uuid: dab536e3-1969-4661-919e-5b15f423fecd
 feature: Admin Console
 topic: Administration
@@ -12,15 +12,15 @@ role: Admin
 level: Experienced
 exl-id: 9dc26e2f-479b-49a5-93ce-b877559fea43
 source-git-commit: ae14748aa7b0f0d803d48fe980a6743f53d996ab
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '702'
-ht-degree: 96%
+ht-degree: 100%
 
 ---
 
 # Experience Cloud Triggers
 
-[!UICONTROL Triggers] no Experience Cloud permite identificar, definir e monitorar os comportamentos dos principais consumidores e gerar comunicação entre aplicativos para atrair os visitantes novamente.
+Os [!UICONTROL Triggers] na Experience Cloud permitem identificar, definir e monitorar os comportamentos principais dos consumidores e gerar comunicação entre aplicativos para reengajar os visitantes.
 
 ## Visão geral do Triggers {#topic_4F21FCE9A64E46E8B6D51F494FA652A7}
 
@@ -34,7 +34,7 @@ Você pode usar acionadores em personalizações e decisões em tempo real. Por 
 
 >[!NOTE]
 >
->Mais informações sobre o uso de [!UICONTROL Acionadores] estão disponíveis em [Campaign Standard](https://experienceleague.adobe.com/docs/campaign-standard/using/integrating-with-adobe-cloud/working-with-campaign-and-triggers/using-triggers-in-campaign.html?lang=pt-BR).
+>Mais informações sobre o uso de [!UICONTROL Triggers] estão disponíveis em [Campaign Standard](https://experienceleague.adobe.com/docs/campaign-standard/using/integrating-with-adobe-cloud/working-with-campaign-and-triggers/using-triggers-in-campaign.html?lang=pt-BR).
 
 ### Tipos de Triggers
 
@@ -82,7 +82,7 @@ Exemplos de Experience Cloud Triggers:
 
 Por exemplo, a página a seguir mostra regras que você poderia usar em um acionador de [!UICONTROL Abandono de carrinho], com base em produtos visualizados durante uma visita.
 
-![Acionador de abandono de carrinho](assets/abandonment-trigger.png)
+![Acionador de Abandono do carrinho](assets/abandonment-trigger.png)
 
 #### Acionador referenciador
 

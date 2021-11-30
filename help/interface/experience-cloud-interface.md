@@ -7,9 +7,9 @@ topic: Administration
 role: Admin, User
 level: Beginner, Intermediate, Experienced
 source-git-commit: c073b3bacf5505c01017d4ba2507621df8ef877e
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '733'
-ht-degree: 99%
+ht-degree: 100%
 
 ---
 
@@ -106,7 +106,7 @@ As preferências da Experience Cloud incluem notificações, assinaturas e alert
 
 Selecione **[!UICONTROL Preferências]** no menu da conta ![](assets/preferences-icon-sm.png) para gerenciar as preferências.
 
-![Gerenciar Experience Cloud](assets/preferences-page.png)
+![Gerenciar a Experience Cloud](assets/preferences-page.png)
 
 Em [!UICONTROL Preferências da Experience Cloud], você pode configurar os seguintes recursos:
 
@@ -114,7 +114,7 @@ Em [!UICONTROL Preferências da Experience Cloud], você pode configurar os segu
 |--- |--- |
 | Organização [padrão](organizations.md) | Selecione a organização que você deseja ver ao iniciar a Experience Cloud. |
 | [!UICONTROL Subscrições] | Selecione os produtos e categorias que deseja assinar. Notificações no pop-over [!UICONTROL Notificações] e por email. |
-| [!UICONTROL Priority] | Selecione as categorias que você deseja que sejam consideradas de alta prioridade. Essas categorias são marcadas com uma tag Alta e podem ser configuradas para entrega, como alertas. |
+| [!UICONTROL Prioridade] | Selecione as categorias que você deseja que sejam consideradas de alta prioridade. Essas categorias são marcadas com uma tag Alta e podem ser configuradas para entrega, como alertas. |
 | [!UICONTROL Alertas] | Selecione as notificações para as quais deseja que alertas sejam exibidos no navegador. Os alertas são exibidos no canto superior direito da janela por alguns segundos. |
 | Emails | Especifique a frequência com que deseja receber emails de notificação. (Não enviar, instantâneo, diário ou semanal.) |
 
@@ -126,4 +126,4 @@ Selecione **[!UICONTROL Notificações]** para ver as notificações que são im
 
 ![Notificações e anúncios](assets/notifications-menu-small.png)
 
-Você pode configurar notificações em [Preferências da Experience Cloud](#preferences).
+É possível configurar as notificações em [Preferências da Experience Cloud](#preferences).

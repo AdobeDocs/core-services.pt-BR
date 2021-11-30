@@ -10,9 +10,9 @@ role: Admin
 level: Experienced
 exl-id: 127eecdd-3862-48ba-8cf6-a8082d2b7bae
 source-git-commit: ae14748aa7b0f0d803d48fe980a6743f53d996ab
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '1270'
-ht-degree: 90%
+ht-degree: 100%
 
 ---
 
@@ -36,16 +36,16 @@ Os administradores podem exibir uma lista classificável e filtrável de todos o
 
 ## Página Usuários
 
-Esta página exibe a lista completa de usuários com acesso à Experience Cloud na organização. Ele fornece informações sobre o direito e o último logon do aplicativo. Pesquise, classifique e filtre exibições personalizadas da lista de usuários.
+Esta página exibe a lista completa de usuários com acesso à Experience Cloud na organização. Fornece informações sobre os direitos e o último logon do aplicativo. Pesquise, classifique e filtre exibições personalizadas da lista de usuários.
 
-![Página Usuários do Admin Console](assets/admin-tool-users.png)
+![Página de usuários do Admin Console](assets/admin-tool-users.png)
 
 | Elemento | Descrição |
 |---|---|
 | [!UICONTROL Nome] | O nome e sobrenome do usuário. É possível classificar essa coluna de A a Z e Z a A. Selecione o nome de um usuário para ver mais detalhes sobre ele. |
 | [!UICONTROL Email] | O endereço de email associado ao usuário. A coluna pode ser classificada como A->Z, Z->A. |
 | [!UICONTROL Tipo de ID] | O tipo de identidade da conta do usuário. O filtro pode ser aplicado a tipos de ID específicos da exibição. Consulte [Gerenciar tipos de identidade](https://helpx.adobe.com/br/enterprise/using/identity.html) para obter mais informações. |
-| [!UICONTROL Soluções] | Resumo dos aplicativos do Experience Cloud que o usuário pode acessar. É possível aplicar filtros para restringir a lista de usuários com acesso específico ao aplicativo. |
+| [!UICONTROL Soluções] | Resumo dos aplicativos da Experience Cloud que o usuário pode acessar. Aplique filtros para restringir a lista de usuários com acesso específico ao aplicativo. |
 | [!UICONTROL Último logon] | Hora e data do logon mais recente do usuário na Experience Cloud. Essa coluna pode ser classificada por datas crescentes ou decrescentes. <br> **Importante:** a partir de 13 de janeiro de 2020, os últimos dados de logon do usuário serão mantidos por 365 dias. Essas informações são destinadas a mostrar a atividade de logon atual na Experience Cloud e não são uma recomendação para tomar medidas em contas inativas antes de 13 de janeiro de 2020. |
 
 ## Personalizar a exibição da lista de usuários
@@ -62,13 +62,13 @@ Pesquise, classifique ou filtre as colunas para personalizar a lista de usuário
 | Filtro [!UICONTROL Tipo de ID] | Escolha dentre os Tipos de ID disponíveis. Vários tipos de ID podem ser usados como filtro. |
 | Filtro [!UICONTROL Solução] | Escolha dentre os aplicativos disponíveis. Vários filtros de aplicativo pesquisam resultados que contêm a Solução 1 `OR` Solução 2. |
 
-## Visualizar detalhes do usuário
+## Exibir detalhes do usuário
 
 Na página [!UICONTROL Usuários], para visualizar os detalhes do usuário, selecione o email do usuário.
 
 ![Exibir detalhes do usuário no Admin Console](assets/admin-tool-user-details.png)
 
-Uma exibição detalhada de cada usuário exibe detalhes importantes sobre o acesso ao aplicativo do usuário, as funções de administrador e de produto e as informações acessadas pela última vez.
+Uma exibição detalhada de cada usuário mostra detalhes importantes sobre o seu acesso ao aplicativo, as funções de administrador e de produto, além das informações acessadas recentemente.
 
 ## Seção Sobre
 
@@ -78,13 +78,13 @@ Esta seção exibe um resumo da conta do usuário incluindo:
 * Nome
 * Email
 * Nome de usuário (contas do Federated ID podem ter nomes de usuário diferentes do endereço de email)
-* [Tipo de ID](https://helpx.adobe.com/enterprise/using/identity.html)
+* [Tipo de ID](https://helpx.adobe.com/br/enterprise/using/identity.html)
 * País
 * Último logon
 
 ## Resumo das soluções
 
-Esta seção exibe um resumo dos aplicativos do Experience Cloud que o usuário pode acessar. Inclui a função administrativa do produto quando aplicável.
+Esta seção exibe um resumo dos aplicativos da Experience Cloud que o usuário pode acessar. Inclui a função administrativa do produto quando aplicável.
 
 ## Lista detalhada de acesso ao produto
 
@@ -102,7 +102,7 @@ Esta seção exibe uma lista completa de todos os perfis de produtos associados 
 
 Esta página exibe a lista completa das políticas da Experience Cloud na sua organização. Ela fornece informações sobre produtos, instâncias, usuários e desenvolvedores. Pesquise, classifique e filtre exibições personalizadas da lista de políticas.
 
-![Página Políticas no Admin Console](assets/admin-tool-policies.png)
+![Página de Políticas no Admin Console](assets/admin-tool-policies.png)
 
 | Elemento | Descrição |
 |---|---|
@@ -123,7 +123,7 @@ Pesquise, classifique ou filtre as colunas para personalizar a lista de polític
 | Elemento | Descrição |
 |---------|----------|
 | [!UICONTROL Filtro de] instância | Pesquise por cadeias de caracteres na coluna de instâncias para restringir os resultados a uma ou várias instâncias. Adicione vários filtros pressionando Enter após cada termo de pesquisa. |
-| Filtro [!UICONTROL Solução] | Escolha dentre os aplicativos disponíveis. Vários filtros de aplicativo pesquisam resultados que contêm a Solução 1 `OR` Solução 2. |
+| Filtro de [!UICONTROL Solução] | Escolha dentre os aplicativos disponíveis. Vários filtros de aplicação pesquisam resultados que contêm a Solução 1 `OR` Solução 2. |
 
 ## Exibir detalhes da política
 

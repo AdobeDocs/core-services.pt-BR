@@ -10,15 +10,15 @@ role: Admin
 level: Experienced
 exl-id: 3d12a1b1-c952-4b42-815d-f64b31429cec
 source-git-commit: ae14748aa7b0f0d803d48fe980a6743f53d996ab
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '265'
-ht-degree: 90%
+ht-degree: 100%
 
 ---
 
 # Como as alterações no suporte a cookies de terceiros afetam os clientes {#how-changes-to-third-party-cookie-support-impacts-customers}
 
-O suporte a cookies de terceiros se tornou mais limitado em navegadores. Assim, o Adobe tem trabalhado em novos aplicativos que equilibram as necessidades do cliente com o direito do consumidor à privacidade em todos os aplicativos de Experience Cloud.
+O suporte a cookies de terceiros se tornou mais limitado em navegadores. Assim, a Adobe tem trabalhado em novos aplicativos que equilibram com cuidado as necessidades do cliente com o direito do consumidor à privacidade nos aplicativos da Experience Cloud.
 
 A seguinte lista descreve como o suporte a cookies de terceiros afeta as implementações atuais dos aplicativos do Experience Cloud:
 

@@ -8,7 +8,7 @@ topic: Administration
 level: Experienced
 exl-id: fe8ad013-76da-49f8-aa51-dc5f6c1b1d79
 source-git-commit: c073b3bacf5505c01017d4ba2507621df8ef877e
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '490'
 ht-degree: 100%
 
@@ -42,7 +42,7 @@ Os dados da empresa ficam em outros sistemas. Eles podem ser complexos e ter dif
 
 A imagem a seguir é um exemplo de um arquivo de dados que mostra os dados do assinante para produtos, incluindo IDs de membro, produtos autorizados, produtos mais iniciados e assim por diante.
 
-![O que são os dados de clientes de empresas?](assets/01_crs_usecase.png)
+![O que são os dados de clientes corporativos?](assets/01_crs_usecase.png)
 
 Após a criação do arquivo de dados, faça upload dele para a fonte de atributos do cliente que você cria em **[!UICONTROL Experience Cloud]** > **[!UICONTROL atributos do cliente]**.
 

@@ -10,7 +10,7 @@ role: Admin
 level: Experienced
 exl-id: 5ddcb2f0-b491-466d-b357-aeacbfcf0b8e
 source-git-commit: c073b3bacf5505c01017d4ba2507621df8ef877e
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '623'
 ht-degree: 100%
 
@@ -26,31 +26,31 @@ Regras sobre como as pastas compartilhadas se comportam quando são movidas, exc
 
 ## Pasta não compartilhada na pasta compartilhada {#section_A9BAC1A244A246A984AC62660E61E0C0}
 
-Você move uma pasta não compartilhada para uma pasta compartilhada:
+Movimenta uma pasta não compartilhada para uma pasta compartilhada:
 
-![Pasta não compartilhada na pasta compartilhada](assets/01_assets_move.png)
+![Pasta não compartilhada para a pasta compartilhada](assets/01_assets_move.png)
 
-**Resultado**: Ambas as pastas se tornam compartilhadas.
+**Resultado**: ambas as pastas se tornam compartilhadas.
 
 ## Pasta compartilhada na pasta não compartilhada {#section_8BA83001DCEC4CF084B980C4A660F59A}
 
-Você move uma pasta compartilhada para uma pasta não compartilhada.
+Movimenta uma pasta compartilhada para uma pasta não compartilhada.
 
-![Pasta compartilhada na pasta não compartilhada](assets/02_assets_move.png)
+![Pasta compartilhada para a pasta não compartilhada](assets/02_assets_move.png)
 
 **Resultado**: a pasta não compartilhada permanece não compartilhada. A pasta compartilhada permanece compartilhada.
 
 ## Conteúdo da pasta não compartilhada na pasta compartilhada {#section_2941ED0DC52E4573AC1AB4C22313DD8E}
 
-Você move o conteúdo de uma pasta não compartilhada para uma pasta compartilhada.
+Movimenta o conteúdo de uma pasta não compartilhada para uma pasta compartilhada.
 
-![Conteúdo da pasta não compartilhada na pasta compartilhada](assets/03_assets_move.png)
+![Conteúdo da pasta não compartilhada para a pasta compartilhada](assets/03_assets_move.png)
 
 **Resultado:** o conteúdo agora é compartilhado e todos os colaboradores podem visualizá-lo. O armazenamento aumenta de acordo com o tamanho do conteúdo.
 
 ## Conteúdo compartilhado arquivado e excluído {#section_5210D5F4943A44D0BA675D8EB4EAE20F}
 
-Você arquiva ou exclui o conteúdo que reside em uma pasta compartilhada.
+Arquiva ou exclui o conteúdo presente em uma pasta compartilhada.
 
 ![Conteúdo compartilhado arquivado e excluído](assets/04_assets_move.png)
 
@@ -58,17 +58,17 @@ Você arquiva ou exclui o conteúdo que reside em uma pasta compartilhada.
 
 ## Conteúdo compartilhado próprio em uma pasta não compartilhada {#section_3810A364B67E4B8C9CA244BC52BF91BB}
 
-Você move o conteúdo de uma pasta compartilhada de sua propriedade para uma pasta não compartilhada.
+Movimenta o conteúdo de uma pasta compartilhada de sua propriedade para uma pasta não compartilhada.
 
-![Conteúdo compartilhado próprio em uma pasta não compartilhada](assets/05_assets_move.png)
+![Conteúdo compartilhado próprio para uma pasta não compartilhada](assets/05_assets_move.png)
 
 **Resultado:** o conteúdo agora não é compartilhado. Os colaboradores da pasta compartilhada não têm mais acesso ao conteúdo.
 
 ## Conteúdo não próprio em uma pasta não compartilhada {#section_310766EBF0DC4C0BB4AB3E8A4DAEBE07}
 
-Você move o conteúdo da pasta compartilhada de propriedade de outra pessoa para uma pasta não compartilhada.
+Movimenta o conteúdo de uma pasta compartilhada de propriedade de outra pessoa para uma pasta não compartilhada.
 
-![Conteúdo não próprio em uma pasta não compartilhada](assets/06_assets_move.png)
+![Conteúdo não proprietário para uma pasta não compartilhada](assets/06_assets_move.png)
 
 **Resultado:** o conteúdo aparece na pasta não compartilhada e é removido da pasta compartilhada. Os colaboradores da pasta compartilhada não têm mais acesso ao conteúdo. O conteúdo é arquivado para o proprietário da pasta compartilhada.
 
@@ -76,7 +76,7 @@ Os proprietários e editores podem mover o conteúdo que não é de sua propried
 
 ## Pasta própria arquivada ou excluída {#section_B314B13512A5409C87C49DFDB7602E14}
 
-Você arquiva (pela Web) ou exclui (pela área de trabalho) uma pasta compartilhada de sua propriedade.
+Arquiva (pela Web) ou exclui (pelo desktop) uma pasta compartilhada de sua propriedade.
 
 ![Pasta própria arquivada ou excluída](assets/07_assets_move.png)
 
@@ -84,17 +84,17 @@ Você arquiva (pela Web) ou exclui (pela área de trabalho) uma pasta compartilh
 
 ## Pasta compartilhada em outra pasta compartilhada {#section_0A3F203D048D4D1586E9850DC92C51E9}
 
-Você move uma pasta compartilhada de sua propriedade para outra pasta compartilhada de sua propriedade ou não.
+Movimenta uma pasta compartilhada de sua propriedade para outra pasta compartilhada, de sua propriedade ou não.
 
-![Pasta compartilhada em outra pasta compartilhada](assets/09_assets_move.png)
+![Pasta compartilhada para outra pasta compartilhada](assets/09_assets_move.png)
 
 **Resultado:** À medida que a pasta é movida para a Pasta 2, ela se torna compartilhada com os novos colaboradores.
 
 ## Conteúdo compartilhado em outra pasta compartilhada {#section_69F6C312792A4CD2831BD14A340F850E}
 
-Você move o conteúdo de uma pasta compartilhada para outra pasta compartilhada.
+Movimenta o conteúdo de uma pasta compartilhada para outra pasta compartilhada.
 
-![Conteúdo compartilhado em outra pasta compartilhada](assets/11_assets_move.png)
+![Conteúdo compartilhado para outra pasta compartilhada](assets/11_assets_move.png)
 
 **Resultado:** o conteúdo é exibido na Pasta 2 e agora é compartilhado com os novos colaboradores. O conteúdo é removido da Pasta 1, e o proprietário o vê como arquivado, enquanto os outros colaboradores não têm mais acesso a ele.
 
@@ -102,6 +102,6 @@ Você move o conteúdo de uma pasta compartilhada para outra pasta compartilhada
 
 Você restaura o conteúdo de um arquivo que pertence a uma pasta compartilhada. Você era o proprietário do conteúdo no momento em que ele foi arquivado.
 
-![Conteúdo restaurado no arquivo](assets/12_assets_move.png)
+![Conteúdo restaurado a partir do arquivo](assets/12_assets_move.png)
 
 **Resultado:** o conteúdo é restaurado para a pasta compartilhada e todos os colaboradores podem acessá-lo novamente. Se a pasta compartilhada não existir mais, o conteúdo será colocado em uma cópia não compartilhada de sua(s) pasta(s) pai original(is).

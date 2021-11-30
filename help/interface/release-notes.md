@@ -10,9 +10,9 @@ role: Admin
 level: Experienced
 exl-id: b71d144c-a097-4cdb-9721-671519d38aff
 source-git-commit: ae14748aa7b0f0d803d48fe980a6743f53d996ab
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '4276'
-ht-degree: 94%
+ht-degree: 100%
 
 ---
 
@@ -22,7 +22,7 @@ Recursos, notas de versão e problemas conhecidos dos Componentes da interface c
 
 Para obter uma lista de atualizações de documentação, consulte [Experience Cloud](doc-updates.md#concept_4C8983FCD23848A4B1E4C2D99ED82784).
 
-Para obter as notas de versão que abrangem todos os aplicativos, consulte [Notas de versão do Experience Cloud](https://experienceleague.adobe.com/docs/release-notes/experience-cloud/current.html?lang=pt-BR).
+Para obter notas de versão que abrangem todos os aplicativos, consulte [Notas de versão da Experience Cloud](https://experienceleague.adobe.com/docs/release-notes/experience-cloud/current.html?lang=pt-BR).
 
 ## Agosto - 2021
 
@@ -92,7 +92,7 @@ A Pesquisa unificada foi atualizada para estar disponível no Journey Optimizer,
 
 ## Abril - 2019
 
-* Atualização do alternador de aplicativos para incluir o Marketo no conjunto de aplicativos do Experience Cloud e atualizações de marca no Experience Platform. (MCUI-6529)
+* Atualização do alternador de aplicativo para incluir o Marketo no conjunto de aplicativos da Experience Cloud, além de atualizações de marca na Experience Platform. (MCUI-6529)
 * Atualização da tela inicial da Experience Cloud para incluir links de navegação ao Feed e páginas de administração. (MCUI-6682)
 * Correção de um problema na definição de [!UICONTROL Acionador] para um uso correto da cláusula “curtir”. (MCUI-6611)
 * Melhorias nos atributos do cliente para um melhor logon no serviço de assinatura. (MCUI-6519)
@@ -147,7 +147,7 @@ A Pesquisa unificada foi atualizada para estar disponível no Journey Optimizer,
   </tr> 
   <tr> 
    <td colname="col1"> <p>Melhorias na vinculação de contas </p> </td> 
-   <td colname="col2"> <p>O fluxo de trabalho de interface foi aprimorado para vinculação de contas de aplicativos com o Experience Cloud (Adobe ID). Esse novo fluxo de trabalho localiza todas as contas de usuário associadas a uma organização e permite que você escolha a qual conta vincular. Também simplificamos a experiência de vinculação de conta, para que você não precise mais acessar a página Gerenciar organizações para vincular contas manualmente. </p> </td> 
+   <td colname="col2"> <p>O fluxo de trabalho da interface foi aprimorado para vinculação de contas de aplicativos com a Experience Cloud (Adobe ID). Esse novo fluxo de trabalho localiza todas as contas de usuário associadas a uma organização e permite que você escolha a qual conta vincular. Também simplificamos a experiência de vinculação de conta, para que você não precise mais acessar a página Gerenciar organizações para vincular contas manualmente. </p> </td> 
   </tr> 
  </tbody> 
 </table>
@@ -197,7 +197,7 @@ Se você acessar o Dynamic Tag Management por meio da interface **[!UICONTROL Ex
 
 ## Versão 15.7 - 22 de julho de 2015 {#section_2683A152176944E48EF6C943892975B7}
 
-* Correção de um erro que evitou que as descrições de atributos especificadas na página Exibir/Editar esquema (nos atributos do cliente) fossem atualizadas nos Relatórios de análise. (MAC-25985)
+* Correção de um erro da Biblioteca de públicos-alvo que evitava o compartilhamento de públicos em uma segmentação de análise. (MAC-25985)
 * Correção de um problema que impedia a renderização de miniaturas em ativos que passaram por upload. (MAC-25863)
 * Foi corrigido um problema que impedia a disponibilização de novos segmentos criados nos Reports &amp; Analytics da Experience Cloud Audiences. (MAC-25817)
 * Correção de um problema que impedia o compartilhamento do público-alvo no Analytics quando o serviço de ID do visitante era usado. (MAC-25788, MAC-25747)
@@ -223,11 +223,11 @@ Nenhuma informação disponível.
  <tbody> 
   <tr> 
    <td colname="col1"> <p> </p> </td> 
-   <td colname="col2"> <p>Os menus de navegação à esquerda foram atualizados e organizados para fornecer acesso a todos os serviços e aplicativos principais. As mudanças notáveis incluem: </p> 
+   <td colname="col2"> <p>Os menus de navegação à esquerda foram atualizados e organizados para fornecer acesso a todos os aplicativos e serviços principais. As mudanças notáveis incluem: </p> 
     <ul id="ul_5BEBAB86B9234A239C4E2DAF8826D8E3"> 
      <li id="li_7FA9F64CE69144B8A8A92746BF40E5A1">As seleções de menu <span class="term">Biblioteca de públicos-alvo</span> e <span class="term">Atributos do cliente</span> agora estão localizadas em <span class="term">Públicos-alvo</span>. </li> 
      <li id="li_95D62A43AE6243DBB2A65EDB830D05C4">A seleção de menu <span class="term">Exchage </span>foi movida do menu suspenso Ajuda para o painel de navegação esquerdo. </li> 
-     <li id="li_0443FD50C78446CD8AA27A4F272CAD31"> As <span class="term">soluções</span> do foram removidas. Você pode iniciar todos os aplicativos na metade inferior do painel de navegação. </li> 
+     <li id="li_0443FD50C78446CD8AA27A4F272CAD31"> As <span class="term">soluções</span> do foram removidas. Agora, é possível iniciar todos os aplicativos a partir da seção inferior do painel de navegação. </li> 
     </ul> </td> 
   </tr> 
  </tbody> 
@@ -279,7 +279,7 @@ Nenhuma informação disponível.
  <tbody> 
   <tr> 
    <td colname="col1"> <p>Atributos do cliente </p> </td> 
-   <td colname="col2"> <p>Se você capturar os dados de clientes empresariais em um banco de dados de gerenciamento de relacionamento com o cliente (CRM), poderá fazer upload dos dados em uma fonte de dados do atributo do cliente na Experience Cloud. Depois que os dados forem carregados, você poderá executar os relatórios <span class="uicontrol">Perfil do visitante</span> &gt; <span class="uicontrol">Atributos do cliente</span> no Analytics. </p> <p>Também é possível usar os dados carregados como um segmento do público-alvo no <span class="keyword">Adobe Target</span>. </p> <p>Consulte <a href="attributes.md#concept_ACFEE7C8B8E94875BA0825CDF4913AF1" format="dita" scope="local"> documentação do produto</a> Atributos do cliente. </p> <p> Para obter informações sobre como modernizar seus aplicativos para os serviços principais, consulte <a href="core-services.md#concept_07ED1D5C64234E77976E6D572E78FB9C" format="dita" scope="local"> Ativar os aplicativos dos serviços principais</a>. </p> </td> 
+   <td colname="col2"> <p>Se você capturar os dados de clientes empresariais em um banco de dados de gerenciamento de relacionamento com o cliente (CRM), poderá fazer upload dos dados em uma fonte de dados do atributo do cliente na Experience Cloud. Depois que os dados forem carregados, você poderá executar os relatórios <span class="uicontrol">Perfil do visitante</span> &gt; <span class="uicontrol">Atributos do cliente</span> no Analytics. </p> <p>Também é possível usar os dados carregados como um segmento do público-alvo no <span class="keyword">Adobe Target</span>. </p> <p>Consulte <a href="attributes.md#concept_ACFEE7C8B8E94875BA0825CDF4913AF1" format="dita" scope="local"> documentação do produto</a> Atributos do cliente. </p> <p> Para obter informações sobre como modernizar seus aplicativos para os serviços principais, consulte <a href="core-services.md#concept_07ED1D5C64234E77976E6D572E78FB9C" format="dita" scope="local">Habilitar os aplicativos para os serviços principais</a>. </p> </td> 
   </tr> 
  </tbody> 
 </table>
@@ -296,19 +296,19 @@ Nenhuma informação disponível.
  <tbody> 
   <tr> 
    <td colname="col1"> <p>Mapeamento de grupo </p> </td> 
-   <td colname="col2"> <p>A página Gerenciamento de grupo foi reprojetada como uma interface administrativa que permite criar grupos, adicionar usuários a grupos e aplicar permissões em aplicativos Experience Cloud. </p> </td> 
+   <td colname="col2"> <p>A página de Gerenciamento de grupo foi reprojetada como uma interface administrativa que permite criar grupos, adicionar usuários aos grupos e aplicar permissões entre os aplicativos da Experience Cloud. </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p>Mapeamento de um para muitos </p> </td> 
-   <td colname="col2"> <p>Caso tenha vários aplicativos e empresas, poderá mapear vários produtos e serviços para uma única organização ao vincular contas de aplicativos no Experience Cloud. </p> </td> 
+   <td colname="col2"> <p>Caso tenha vários aplicativos e empresas, agora é possível mapear vários produtos e serviços para uma única empresa ao vincular contas do aplicativo na Experience Cloud. </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p>Activation </p> </td> 
-   <td colname="col2"> <p> <a href="activation.md#concept_EE756B6B0A0643DAB8CA3A00E665406C" format="dita" scope="local">Activation</a> agora é exibida na navegação à esquerda na <span class="keyword">Experience Cloud</span>. <span class="wintitle"> Ativação</span> é um serviço da <span class="keyword"> Experience Cloud</span> atualmente composto pela tecnologia de gerenciamento dinâmico de tags, que o orienta quando selecionado. </p> </td> 
+   <td colname="col2"> <p> <a href="activation.md#concept_EE756B6B0A0643DAB8CA3A00E665406C" format="dita" scope="local">Activation</a> agora é exibida na navegação à esquerda na <span class="keyword">Experience Cloud</span>. <span class="wintitle"> Activation</span> é um serviço da <span class="keyword"> Experience Cloud</span> atualmente composto pela tecnologia de gerenciamento dinâmico de tags, que o orienta quando selecionado. </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p>Atualizações de documentação - Serviços principais </p> </td> 
-   <td colname="col2"> <p>Adição do tópico <a href="core-services.md#concept_07ED1D5C64234E77976E6D572E78FB9C" format="dita" scope="local"> Ativar os aplicativos dos serviços principais</a> para auxiliar você com a implementação dos principais serviços. </p> </td> 
+   <td colname="col2"> <p>Adição do tópico <a href="core-services.md#concept_07ED1D5C64234E77976E6D572E78FB9C" format="dita" scope="local">Habilitar os aplicativos para os serviços principais</a> que auxilia na implementação dos serviços principais. </p> </td> 
   </tr> 
  </tbody> 
 </table>
@@ -419,7 +419,7 @@ Novos recursos e correções na colaboração e interface de compartilhamento da
 **Correções e melhorias**
 
 * Ao entrar no [!DNL experience.adobe.com], você verá que a experiência de logon agora é compatível com o logon Creative Cloud da Adobe.
-* Na página Gerenciar organizações , a experiência de vinculação (após o recebimento de um convite) agora é consistente para cada aplicativo.
+* Na página Gerenciar organizações, a experiência de vinculação (após o recebimento de um convite) agora é consistente em cada aplicativo.
 
 **Problemas conhecidos**
 
@@ -603,7 +603,7 @@ Novos recursos e correções na colaboração e interface de compartilhamento da
 * Após adicionar uma tag personalizada a um ativo, nenhuma outra alteração nos metadados pode ser persistente.
 * Os usuários precisam atualizar o quadro para que os cartões excluídos desapareçam da exibição.
 * Quando a opção **[!UICONTROL Lembre-se de mim]** não está selecionada durante o logon, o usuário é desconectado após 15 minutos.
-* [!DNL Analytics] a landing page do aplicativo mostra erros de formatação.
+* A página de aterrissagem do aplicativo do [!DNL Analytics] exibe erros de formatação.
 * Os usuários devem efetuar o logout e o logon novamente para que todas as permissões e alterações de direito tenham efeito.
 * Ao deletar uma imagem, os [!UICONTROL Ativos] não avisam se a imagem está sendo usada no [!DNL Adobe Target Essentials].
 * O link Comentários não pode ser selecionado na exibição do cartão de ativos.
@@ -638,7 +638,7 @@ A versão 14.3.1 é uma versão de manutenção com foco na agilidade, na estabi
 * Atualizar um cartão do [!DNL Analytics] pode, às vezes, levar a um gráfico vazio no cartão expandido.
 * Os usuários devem efetuar o logout e o logon novamente para que todas as permissões e alterações de direito tenham efeito.
 * Quando *`Remember me`* não for selecionado durante o logon, a sessão do usuário será encerrada após 15 minutos.
-* [!DNL Analytics] a landing page do aplicativo mostra erros de formatação.
+* A página de aterrissagem do aplicativo do [!DNL Analytics] exibe erros de formatação.
 * O link Comentários não pode ser selecionado na exibição do cartão de ativos.
 * A interface da Experience Cloud pode ficar lenta caso seja usada de modo paralelo por muitos usuários.
 * A Experience Cloud não pode ser vinculada ao [!DNL Adobe Target] caso o logon do [!DNL Adobe Target] seja utilizado em vários servidores do Target.
@@ -674,7 +674,7 @@ A versão 14.3.1 é uma versão de manutenção com foco na agilidade, na estabi
   <tr> 
    <td colname="col1"> <p>Atualizar dados </p> </td> 
    <td colname="col2"> <p> 
-     <!--MAC-18174-->O <span class="uicontrol"> Atualizar dados</span> ícone para um gráfico em um cartão agora está oculto, se o aplicativo não permite atualização de dados. </p> </td> 
+     <!--MAC-18174-->O ícone <span class="uicontrol">Atualizar dados</span> de um gráfico de cartão agora fica oculto, caso o aplicativo não permita a atualização de dados. </p> </td> 
   </tr> 
  </tbody> 
 </table>
@@ -682,6 +682,6 @@ A versão 14.3.1 é uma versão de manutenção com foco na agilidade, na estabi
 **Correções**
 
 * Corrigido um problema que evitava que relatórios do [!DNL Analytics] compartilhados aplicassem filtros de segmento.
-* Correção de um problema que fazia com que os aplicativos fossem exibidos no [!UICONTROL Soluções Experience Cloud] como vinculada, mesmo se as contas de aplicativos não estivessem vinculadas.
+* Corrigido um problema que fazia com que os aplicativos fossem exibidos na página de [!UICONTROL Soluções da Experience Cloud] como vinculados, mesmo se as contas de aplicativos não estivessem vinculadas.
 * Correção de um erro que impedia [!DNL Adobe Target] clientes na Ásia de selecionar o botão **[!UICONTROL Seguir para a Experience Cloud]** na página de vinculação.
 * Corrigido um problema que não permitia o compartilhamento de vídeos do YouTube.

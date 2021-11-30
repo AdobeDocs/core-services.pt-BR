@@ -10,9 +10,9 @@ role: Admin
 level: Experienced
 exl-id: 776d1fd3-c733-4970-a76b-4c3c0119ee77
 source-git-commit: c073b3bacf5505c01017d4ba2507621df8ef877e
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '459'
-ht-degree: 98%
+ht-degree: 100%
 
 ---
 
@@ -30,7 +30,7 @@ O processo de validação permite mapear os nomes de exibição e as descriçõe
 
 Na página [!UICONTROL Validar esquema], cada linha do esquema representa uma coluna do arquivo CSV carregado.
 
-![Validar a página do esquema no Experience Cloud](assets/06_crs_usecase.png)
+![Página Validar esquema na Experience Cloud](assets/06_crs_usecase.png)
 
 * **[!UICONTROL Adicionar dados:]** Faça upload dos novos dados do atributo para essa fonte de dados.
 

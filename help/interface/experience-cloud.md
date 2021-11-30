@@ -9,9 +9,9 @@ role: Admin
 level: Experienced
 exl-id: aedad5cb-3282-4a97-8e7e-6d65f7b75ba9
 source-git-commit: ae14748aa7b0f0d803d48fe980a6743f53d996ab
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '1333'
-ht-degree: 96%
+ht-degree: 100%
 
 ---
 
@@ -89,7 +89,7 @@ Embora todas as equipes de aplicativos estejam comprometidas com o suporte globa
 
 ## Obter ajuda e suporte {#support}
 
-Acesse o aprendizado e a ajuda usando o ícone Ajuda (![asset](assets/help-icon.png)) no cabeçalho, incluindo o conteúdo da ajuda (documentação, tutoriais e cursos) em [Experience League](https://experienceleague.adobe.com/?lang=pt-BR#home), bem como recursos adicionais para aplicativos individuais. Você também pode enviar feedbacks e criar tíquetes de suporte priorizados.
+Acesse o aprendizado e a ajuda usando o ícone Ajuda (![asset](assets/help-icon.png)) no cabeçalho, incluindo o conteúdo da ajuda (documentação, tutoriais e cursos) em [Experience League](https://experienceleague.adobe.com/?lang=pt-BR#home), bem como recursos adicionais para aplicativos individuais. Você também pode enviar feedback aberto e criar tíquetes de suporte priorizados.
 
 ![Obter ajuda e suporte](assets/search-menu.png)
 
@@ -132,7 +132,7 @@ Em [!UICONTROL Preferências da Experience Cloud], você pode configurar os segu
 |--- |--- |
 | Organização [padrão](organizations.md) | Selecione a organização que você deseja ver ao iniciar a Experience Cloud. |
 | [!UICONTROL Subscrições] | Selecione os produtos e categorias que deseja assinar. Notificações no pop-over [!UICONTROL Notificações] e por email. |
-| [!UICONTROL Priority] | Selecione as categorias que você deseja que sejam consideradas de alta prioridade. Essas categorias são marcadas com uma tag Alta e podem ser configuradas para entrega, como alertas. |
+| [!UICONTROL Prioridade] | Selecione as categorias que você deseja que sejam consideradas de alta prioridade. Essas categorias são marcadas com uma tag Alta e podem ser configuradas para entrega, como alertas. |
 | [!UICONTROL Alertas] | Selecione as notificações para as quais deseja que alertas sejam exibidos no navegador. Os alertas são exibidos no canto superior direito da janela por alguns segundos. |
 | Emails | Especifique a frequência com que deseja receber emails de notificação. (Não enviar, instantâneo, diário ou semanal.) |
 
@@ -157,7 +157,7 @@ O Experience Cloud usa os hosts a seguir para fornecer o aplicativo, melhorar o 
 
 ## Obter ajuda sobre administração e serviços entre aplicativos
 
-Este guia fornece acesso à ajuda sobre o usuário do Experience Cloud e a administração do produto no Admin Console, habilitando aplicativos para serviços de plataforma. Você também pode acessar a ajuda da Biblioteca de público-alvo, Atributos do cliente, Ativos da Experience Cloud e muito mais:
+Este guia fornece acesso à ajuda sobre o usuário da Experience Cloud e a administração do produto no Admin Console, habilitando os aplicativos a realizarem serviços de plataforma. Você também pode acessar a ajuda da Biblioteca de público-alvo, Atributos do cliente, Ativos da Experience Cloud e muito mais:
 
 * [[!UICONTROL Biblioteca de público-alvo]](audience-library.md)
 * [[!UICONTROL Atributos do cliente]](attributes.md)
@@ -165,7 +165,7 @@ Este guia fornece acesso à ajuda sobre o usuário do Experience Cloud e a admin
 * [[!UICONTROL Ativos] da Experience Cloud](experience-cloud-assets.md)
 * [Cookies da Experience Cloud](cookies-privacy.md)
 * [Gerenciamento de usuários e de produtos](admin-getting-started.md) (Admin Console)
-* [Ativar os aplicativos dos serviços principais](core-services.md)
+* [Habilitar os aplicativos para os serviços principais](core-services.md)
 * [Perguntas frequentes](admin-getting-started.md)
 * [Organizações e vinculação de contas](organizations.md)
 * [Integrações](marketing-cloud-integrations.md)
@@ -196,9 +196,9 @@ Aproveite os tutoriais de autoajuda e instruções rápidas na Experience League
 
 ## Notas de versão e ajuda relacionada à Experience Cloud
 
-* [Documentação do produto para todos os aplicativos Experience Cloud](https://experienceleague.adobe.com/docs/home.html?lang=pt-BR) - Procurar ajuda no Experience Cloud Learn &amp; Support
+* [Documentação de produto de todos os aplicativos da Experience Cloud](https://experienceleague.adobe.com/docs/home.html?lang=pt-BR) - Buscar ajuda na Aprendizagem e Suporte da Experience Cloud
 * [Notas de versão e atualizações de produtos](https://experienceleague.adobe.com/docs/release-notes/experience-cloud/current.html?lang=pt-BR) - Novidades na Experience Cloud e assinatura para obter atualizações
-* [Tutoriais para implementar os serviços principais](https://experienceleague.adobe.com/docs/launch-learn/tutorials/overview.html?lang=en) - Explore vídeos e tutoriais sobre os serviços principais
+* [Tutoriais para implementar os serviços principais](https://experienceleague.adobe.com/docs/launch-learn/tutorials/overview.html?lang=pt-BR) - Explore vídeos e tutoriais sobre os serviços principais
 * [Ajuda de especialistas na Experience League](https://experienceleague.adobe.com/?lang=pt-BR) - Obtenha um aprendizado orientado de especialistas e da comunidade
 * [Educação e treinamento](https://helpx.adobe.com/br/learning.html?promoid=KAUDK) — interaja com a Adobe para garantir o aproveitamento máximo de nossos produtos
 * [Blog de experiência do cliente](https://blog.adobe.com/br/topics/digital-transformation.html) - Leia o blog da Experience Cloud

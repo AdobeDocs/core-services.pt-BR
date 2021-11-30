@@ -10,9 +10,9 @@ role: Admin
 level: Experienced
 exl-id: 6eb58530-2a7a-48c7-9a5b-48a6e980a034
 source-git-commit: c073b3bacf5505c01017d4ba2507621df8ef877e
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '524'
-ht-degree: 75%
+ht-degree: 100%
 
 ---
 
@@ -22,7 +22,7 @@ Saiba mais sobre como gerenciar e trocar organizações na Experience Cloud.
 
 ## Identificar a organização {#concept_384D169B0B724B799D573B8ECB5C39BF}
 
-Uma *organização* é a entidade que permite ao administrador configurar grupos e usuários, além de controlar o logon único na Experience Cloud. A organização funciona como uma empresa de login que abrange todos os produtos e aplicativos do Experience Cloud. Frequentemente, a organização é o nome da empresa. No entanto, uma empresa pode ter muitas organizações.
+Uma *organização* é a entidade que permite ao administrador configurar grupos e usuários, além de controlar o logon único na Experience Cloud. A organização funciona como uma empresa para logon que abrange todos os produtos e os aplicativos da Experience Cloud. Frequentemente, a organização é o nome da empresa. No entanto, uma empresa pode ter muitas organizações.
 
 Para verificar se você fez logon na organização correta, clique no avatar do perfil para ver o nome da organização. Se você tiver acesso a mais de uma organização, também poderá visualizar e mudar para outra organização diretamente na barra do cabeçalho.
 
@@ -44,20 +44,20 @@ Para exibir a ID da organização, navegue até a página de aterrissagem da Exp
 
 ## Vincular uma conta do aplicativo a uma Adobe ID {#task_FD389E78640848919E247AC5E95B8369}
 
-Normalmente, os administradores do Experience Cloud concedem acesso a aplicativos e serviços. Em raras circunstâncias, pode ser necessário vincular credenciais de aplicativo a uma Adobe ID.
+Geralmente, os administradores da Experience Cloud concedem acesso a aplicativos e serviços. Em raras circunstâncias, talvez seja necessário vincular as credenciais do aplicativo a uma Adobe ID.
 
 1. Siga as etapas no convite por email na Experience Cloud.
 1. Faça logon usando a Adobe ID ou Enterprise ID.
-1. Selecione o seletor de aplicativos. ( ![](assets/menu-icon.png)).
+1. Escolha o seletor de aplicativos. (![](assets/menu-icon.png)).
 
    ![Vincular uma conta do aplicativo a uma Adobe ID](assets/solutions-active.png)
 
-   Os aplicativos aos quais você tem acesso são coloridos.
+   Os aplicativos que você pode acessar são coloridos.
 1. Selecione o aplicativo desejado.
 
    ![Selecione o aplicativo desejado](assets/analytics-link-accounts.png)
 
-   Esse tipo de mensagem será exibido se você fizer parte do grupo apropriado (e tiver permissão para o aplicativo), mas ainda não vinculou suas credenciais de conta à Adobe ID.
+   Esse tipo de mensagem será exibido se você fizer parte do grupo adequado (e tiver permissão para o aplicativo), mas ainda não tiver vinculado as credenciais da conta à Adobe ID.
 1. Selecione **[!UICONTROL Vincular conta]** e forneça suas credenciais.
 
 ## Especificar uma organização e uma página de aterrissagem padrões {#concept_6A191B42A9874A9780882903BA18F071}
@@ -68,9 +68,9 @@ Em seu perfil, selecione **[!UICONTROL Editar perfil]**.
 
 ![Editar perfil](assets/edit-profile.png)
 
-Em Organização &amp; página inicial padrão, você pode personalizar a experiência de logon.
+Em Organização padrão e Página de aterrissagem, é possível personalizar a experiência de logon.
 
-![Organização padrão e página de aterrissagem](assets/default-organization.png)
+![Organização padrão e Página de aterrissagem](assets/default-organization.png)
 
 ## Solução de problemas de vinculação de contas {#concept_DFCB29A3B4834FC59AA29E0BBA301584}
 
@@ -79,4 +79,4 @@ Ajuda sobre problemas que surgem da vinculação de contas.
 Normalmente, a vinculação de contas falha porque a Adobe ID está vinculada a um usuário anterior. Quando a vinculação de contas falhar, você poderá:
 
 * [Entrar em contato com o Suporte da Adobe](https://experienceleague.adobe.com/?support-solution=General&amp;lang=pt-BR#support).
-* Acesse seu aplicativo usando o logon padrão enquanto o problema estiver sendo resolvido.
+* Acesse o aplicativo através do logon padrão enquanto o problema estiver sendo resolvido.

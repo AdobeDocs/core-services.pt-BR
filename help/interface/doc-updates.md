@@ -10,9 +10,9 @@ role: Admin
 level: Experienced
 exl-id: 11cc5005-8ec0-4308-bc94-0f78666ea645
 source-git-commit: ae14748aa7b0f0d803d48fe980a6743f53d996ab
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '516'
-ht-degree: 98%
+ht-degree: 100%
 
 ---
 
@@ -118,7 +118,7 @@ Adição de [Ativos da Experience Cloud](experience-cloud-assets.md#concept_DDA5
 
 **Atualizado: 2/3/2015**
 
-Adicionado [Ativar os aplicativos dos serviços principais](core-services.md#concept_07ED1D5C64234E77976E6D572E78FB9C)
+Adição do tópico [Habilitar os aplicativos para os serviços principais](core-services.md#concept_07ED1D5C64234E77976E6D572E78FB9C)
 
 **Atualizado: 1/15/2015**
 

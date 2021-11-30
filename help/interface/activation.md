@@ -12,9 +12,9 @@ role: Admin
 level: Experienced
 exl-id: d57f168b-6beb-48f2-b0d2-92593ceee62e
 source-git-commit: ae14748aa7b0f0d803d48fe980a6743f53d996ab
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '245'
-ht-degree: 80%
+ht-degree: 100%
 
 ---
 
@@ -28,9 +28,9 @@ Implante e gerencie tags de análises, marketing e publicidade necessárias para
 
 Consulte o [Guia de início rápido do Experience Platform Launch](https://experienceleague.adobe.com/docs/experience-platform/tags/get-started/quick-start.html?lang=pt-BR).
 
-## [!UICONTROL Acionadores] da Experience Cloud {#section_EEA3A8B5EFCB4F8BABC4ADAF3DD41831}
+## [!UICONTROL Triggers] da Experience Cloud {#section_EEA3A8B5EFCB4F8BABC4ADAF3DD41831}
 
-[!UICONTROL Experience Cloud Triggers] O permite que os profissionais de marketing definam e monitorem os principais comportamentos do consumidor, além de gerar comunicação entre aplicativos para uso em decisões e personalização em tempo real.
+O [!UICONTROL Experience Cloud Triggers] permite aos profissionais do marketing definir e monitorar os principais comportamentos do consumidor, além de gerar comunicação entre aplicativos para uso em decisões em tempo real e personalização.
 
 <table id="table_AF6842470172429EA97C9B02163BD0C3"> 
  <thead> 
@@ -54,6 +54,6 @@ Consulte o [Guia de início rápido do Experience Platform Launch](https://exper
 
 ## Experience Cloud Debugger {#section_682FCF8A22ED47D0ACF94204AB94B444}
 
-A extensão do Adobe Experience Cloud Debugger para Chrome avalia as páginas da Web e ajuda a encontrar problemas na implementação dos aplicativos do Experience Cloud.
+A extensão do Adobe Experience Cloud Debugger para o Chrome examina as páginas da web e ajuda a encontrar problemas no modo como os aplicativos da Experience Cloud são implementados.
 
 Consulte [Experience Cloud Debugger](https://experienceleague.adobe.com/docs/debugger/using/experience-cloud-debugger.html?lang=pt-BR) para obter ajuda.

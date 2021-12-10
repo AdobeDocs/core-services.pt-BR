@@ -9,7 +9,7 @@ role: Admin
 level: Experienced
 exl-id: af9eda5b-d984-44b7-a7b3-52dfc4e03d8f
 source-git-commit: 3507af336715eb3664f8ce5176ddaf74ecbd7bcd
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '1281'
 ht-degree: 100%
 
@@ -32,7 +32,7 @@ Você pode ver uma lista classificável e filtrável de todos os usuários da Ex
 Por exemplo, no Analytics é possível configurar uma coleção de ferramentas de relatório, como o Analysis Workspace e o Report Builder, além de conjuntos de relatórios, métricas e dimensões. Você pode conceder permissão a um perfil de produto adicionando usuários ao perfil.
 
 * Consulte [Atribuir permissões de acesso ao Analytics a um perfil de produto](admin-getting-started.md#task_040673FE3E3E429B9531FBCB8B6A4391) nesta página.
-* Consulte [Delegar funções administrativas a usuários](#delegate-rights) nesta página
+* Consulte [Delegar funções administrativas a usuários](#delegate-rights) nesta página.
 
 ## Gerenciar perfis de produto da Experience Cloud {#task_16335111C52D40E9BAC73D0699584DBF}
 
@@ -86,7 +86,7 @@ Ao usar essas funções, você pode delegar simultaneamente o gerenciamento a ou
 
    ![Direitos administrativos no Admin Console](assets/edit-admin-rights.png)
 
-1. Selecione **[!UICONTROL Editar direitos do administrador]**.
+1. Selecione **[!UICONTROL Editar direitos administrativos]**.
 
    ![Editar direitos administrativos no Admin Console](assets/edit-admin-rights-page.png)
 
@@ -129,9 +129,9 @@ No Adobe Target, um espaço de trabalho é um perfil de produto. Ele permite que
 
 Consulte:
 
-* [Permissões de usuário empresarial](https://experienceleague.adobe.com/docs/target/using/administer/manage-users/enterprise/property-channel.html?lang=en)
-* [Gerenciar produtos e perfis](https://helpx.adobe.com/enterprise/admin-guide.html/enterprise/using/manage-products.ug.html)
-* Vídeo: [Como configurar espaços de trabalho do Adobe Target no Adobe Admin Console](https://helpx.adobe.com/target/kb/how-to-configure-target-workspaces-in-adobe-admin-console0.html)
+* [Permissões de usuário empresarial](https://experienceleague.adobe.com/docs/target/using/administer/manage-users/enterprise/property-channel.html?lang=pt-BR)
+* [Gerenciar produtos e perfis](https://helpx.adobe.com/br/enterprise/admin-guide.html/br/enterprise/using/manage-products.ug.html)
+* Vídeo: [Como configurar espaços de trabalho do Adobe Target no Adobe Admin Console](https://helpx.adobe.com/br/target/kb/how-to-configure-target-workspaces-in-adobe-admin-console0.html)
 
 ## Gerenciar perfis de produtos, locatários e grupos de segurança do Campaign {#section_09CDF75366444CF5810CF321B7C712F3}
 
@@ -173,6 +173,6 @@ Consulte [Administração](https://experienceleague.adobe.com/docs/audience-mana
 
 ### Requisitos da solução e do produto
 
-* [Analytics](https://experienceleague.adobe.com/docs/analytics/admin/sys-reqs.html?lang=en)
+* [Analytics](https://experienceleague.adobe.com/docs/analytics/admin/sys-reqs.html?lang=pt-BR)
 * [Report Builder](https://experienceleague.adobe.com/docs/analytics/analyze/report-builder/report-builder-setup/system-requirements.html?lang=pt-BR)
-* [Adobe Target](https://experienceleague.adobe.com/docs/target/using/implement-target/before-implement/supported-browsers.html?lang=en)
+* [Adobe Target](https://experienceleague.adobe.com/docs/target/using/implement-target/before-implement/supported-browsers.html?lang=pt-BR)

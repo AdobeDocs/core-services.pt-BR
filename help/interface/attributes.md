@@ -8,9 +8,9 @@ topic: Administration
 level: Experienced
 exl-id: fe8ad013-76da-49f8-aa51-dc5f6c1b1d79
 source-git-commit: 087db5e8d9dd066567797fb426797e746cd7fe2c
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '490'
-ht-degree: 98%
+ht-degree: 100%
 
 ---
 
@@ -44,9 +44,9 @@ A imagem a seguir é um exemplo de um arquivo de dados que mostra os dados do as
 
 ![O que são os dados de clientes corporativos?](assets/01_crs_usecase.png)
 
-Após a criação do arquivo de dados, faça upload dele para a fonte de atributos do cliente que você cria em **[!UICONTROL Experience Cloud]** > **[!UICONTROL atributos do cliente]**.
+Após a criação do arquivo de dados, é possível fazer upload dele para a fonte de Atributos do cliente que foi criada em **[!UICONTROL Experience Cloud]** > **[!UICONTROL Atributos do cliente]**.
 
-Consulte [Fazer upload dos dados de atributos do cliente](t-crs-usecase.md#task_BCC327B2A0EF4A1BBB2934013AB92B78) para conhecer esse fluxo de trabalho.
+Consulte [Fazer upload dos dados de Atributos do cliente](t-crs-usecase.md#task_BCC327B2A0EF4A1BBB2934013AB92B78) para conhecer esse fluxo de trabalho.
 
 ## Exemplos de atributos do cliente no Analytics e no Target {#section_4E77650F6CEE4C4ABCD0B3221A5AE5D9}
 

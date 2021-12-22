@@ -10,9 +10,9 @@ role: Admin
 level: Experienced
 exl-id: 11cc5005-8ec0-4308-bc94-0f78666ea645
 source-git-commit: 3650e57eaaddbda74cd4af913a37b8dedb8b1933
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '537'
-ht-degree: 96%
+ht-degree: 100%
 
 ---
 
@@ -22,7 +22,7 @@ Informações sobre atualizações na documentação do produto da Experience Cl
 
 **Atualizado em 13/12/2021**
 
-Atualização do [perguntas frequentes sobre administração](faq.md) com informações sobre como o Adobe Support pode acessar o ambiente de nuvem do Adobe para solucionar um problema.
+Atualização das [perguntas frequentes sobre administração](faq.md) com informações sobre como o Adobe Support pode acessar o ambiente de nuvem da Adobe para solucionar um problema.
 
 **Atualizado em: 28/10/2021**
 
@@ -41,19 +41,19 @@ Atualização do [perguntas frequentes sobre administração](faq.md) com inform
 | Navegação do Experience Cloud [!UICONTROL Triggers] | O [Experience Cloud Triggers](https://experienceleague.adobe.com/docs/core-services/interface/services/activation/triggers.html?lang=pt-BR) está disponível para navegação direta a partir do alternador do aplicativo no cabeçalho para usuários provisionados. |
 | **Aviso:** previsão de atualização de navegação da interface | Em novembro de 2021, o recurso de navegação _[!UICONTROL Ir para Launch/Coleção de dados]_ será removido de <https://experience.adobe.com/implement>. |
 
-**Atualizado em 24/08/2021**
+**Atualizado em 24/8/2021**
 
 Atualização da página [Componentes centrais](experience-cloud.md) (página de aterrissagem deste guia). Adição de suporte a navegador e idioma, atualizações para organizações, logon e adição de informações sobre domínios.
 
-**Atualizado em 06/08/2021**
+**Atualizado em 6/8/2021**
 
 Atualização de [Cookies próprios](cookies-first-party.md).
 
-**Atualizado: 04/06/2021**
+**Atualizado: 4/6/2021**
 
 A estrutura do manual e o índice foram reorganizados.
 
-**Atualizado: 01/06/2021**
+**Atualizado: 1/6/2021**
 
 As [páginas de aterrisagem](experience-cloud.md) foram atualizadas com uma nova ajuda para o acesso ao Experience Cloud, pesquisa global, preferências e notificações.
 
@@ -65,7 +65,7 @@ Os [detalhes do usuário da View Experience Cloud (Ferramenta administrativa)](a
 
 A documentação de gerenciamento de oferta foi descontinuada.
 
-**Atualizado: 15/05/2020**
+**Atualizado: 15/5/2020**
 
 As seguintes páginas foram adicionadas:
 
@@ -76,7 +76,7 @@ As seguintes páginas foram adicionadas:
 
 Atualização do [encaminhamento de validação do nome do host](cookies-first-party.md#validate) na seção de cookies primários.
 
-**Atualizado: 20/02/2020**
+**Atualizado: 20/2/2020**
 
 Adição de [Exibir detalhes do usuário da Experience Cloud (Ferramenta administrativa)](admin-tool-experience-cloud.md).
 

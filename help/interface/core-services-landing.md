@@ -8,15 +8,15 @@ role: Admin
 level: Experienced
 exl-id: 020a6478-13ef-42c0-80de-7867cfe0c937
 source-git-commit: a4a1914856001a93967c6a63ad4d389138b33217
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '366'
-ht-degree: 90%
+ht-degree: 100%
 
 ---
 
 # Serviços da Experience Cloud {#topic_C1087DCC538F4F9A99D983C1BB29EBE0}
 
-Esta documentação se aplica a recursos do cabeçalho Experience Cloud unificado, como o [!UICONTROL Pessoas] Serviço (públicos-alvo e atributos do cliente), gerenciamento de usuários e produtos para o Experience Cloud, cookies, preferências de conta, notificações e assim por diante.
+Essa documentação se aplica a recursos do cabeçalho unificado da Experience Cloud, como o serviço de [!UICONTROL Pessoas] (públicos-alvo e atributos do cliente), gerenciamento de usuários e produtos para a Experience Cloud, cookies, preferências de conta, notificações, etc.
 
 Para acessar esses serviços na Experience Cloud, escolha o **[!UICONTROL Seletor de aplicativos]**
 ![Seletor de serviços](assets/menu-icon.png).

@@ -10,9 +10,9 @@ role: Admin
 level: Experienced
 exl-id: b71d144c-a097-4cdb-9721-671519d38aff
 source-git-commit: 786299df8f07c440e278fb1dc187fd1c9ab5db1f
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '4525'
-ht-degree: 99%
+ht-degree: 100%
 
 ---
 
@@ -49,13 +49,13 @@ Para obter notas de versão que abrangem todos os aplicativos, consulte [Notas d
 
 | Recurso | Data | Descrição |
 | ------- | ------- | -------|
-| [!UICONTROL Recentes unificados] — suporte estendido para objetos de negócios acessados recentemente | 10 de agosto de 2021 | [!UICONTROL Os Recentes unificados] são estendidos para objetos comerciais adicionais no Journey Optimizer e na Experience Platform. Os clientes do Journey Optimizer podem encontrar os objetos acessados recentemente (Mensagens, Jornadas, Segmentos, Esquemas, Conjuntos de dados, Fontes de dados, Eventos, Ações, Fontes e Destinos) na página inicial do Adobe Journey Optimizer. |
+| [!UICONTROL Recentes unificados] — suporte estendido para objetos de negócios acessados recentemente | 10 de agosto de 2021 | Os [!UICONTROL Recentes unificados] são estendidos para objetos comerciais adicionais no Journey Optimizer e na Experience Platform. Os clientes do Journey Optimizer podem encontrar os objetos acessados recentemente (Mensagens, Jornadas, Segmentos, Esquemas, Conjuntos de dados, Fontes de dados, Eventos, Ações, Fontes e Destinos) na página inicial do Adobe Journey Optimizer. |
 
 ## Julho - 2021
 
 A Pesquisa unificada foi atualizada para estar disponível no Journey Optimizer, Ofertas e Experience League. Anteriormente, esse recurso estava disponível somente para usuários da Experience Platform.
 
-## Junho — 2021
+## Junho - 2021
 
 | Recurso | Data | Descrição |
 | ------- | ------- | ------- |
@@ -213,12 +213,12 @@ Se você acessar o Dynamic Tag Management por meio da interface **[!UICONTROL Ex
 
 * Correção de um problema de desempenho na API do Audience Manager que causava tempos limite intermitentes durante o upload dos dados de atributos do cliente. (MAC-26305)
 * Correção de um problema que impedia os usuários de adicionarem até 200 atributos de cliente a uma assinatura. (MAC-26188)
-* Correção de um erro que evitou que as descrições de atributos especificadas na página Exibir/Editar esquema (nos atributos do cliente) fossem atualizadas nos Relatórios de análise. Esse problema causou a exibição de “Dados de coleta” (0 públicos-alvo). Para evitar esse problema, a Adobe recomenda manter menos de 50 mil membros do público-alvo por segmento. (MAC-25788)
+* Correção de um problema da Biblioteca de público-alvo que evitava que o público-alvo compartilhasse da segmentação do Analytics. Esse problema causou a exibição de “Dados de coleta” (0 públicos-alvo). Para evitar esse problema, a Adobe recomenda manter menos de 50 mil membros do público-alvo por segmento. (MAC-25788)
 * Correção de um problema anterior dos atributos do cliente: a página Editar esquema causava o envio de um erro Sensível a conteúdo durante a alteração de um nome de exibição. (MAC-25589, AN-103834)
 
 ## Versão 15.7 - 22 de julho de 2015 {#section_2683A152176944E48EF6C943892975B7}
 
-* Correção de um erro da Biblioteca de públicos-alvo que evitava o compartilhamento de públicos em uma segmentação de análise. (MAC-25985)
+* Correção de um erro que evitava que as descrições de atributos especificadas na página Exibir/Editar esquema (nos Atributos do cliente) fossem atualizadas nos relatórios do Analytics. (MAC-25985)
 * Correção de um problema que impedia a renderização de miniaturas em ativos que passaram por upload. (MAC-25863)
 * Foi corrigido um problema que impedia a disponibilização de novos segmentos criados nos Reports &amp; Analytics da Experience Cloud Audiences. (MAC-25817)
 * Correção de um problema que impedia o compartilhamento do público-alvo no Analytics quando o serviço de ID do visitante era usado. (MAC-25788, MAC-25747)

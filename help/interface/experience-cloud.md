@@ -8,10 +8,10 @@ topic: Administration
 role: Admin
 level: Experienced
 exl-id: aedad5cb-3282-4a97-8e7e-6d65f7b75ba9
-source-git-commit: ae14748aa7b0f0d803d48fe980a6743f53d996ab
-workflow-type: ht
-source-wordcount: '1333'
-ht-degree: 100%
+source-git-commit: 540896e1127c4d2abea2bf4ca63ac85315dda8c2
+workflow-type: tm+mt
+source-wordcount: '1354'
+ht-degree: 98%
 
 ---
 
@@ -33,7 +33,12 @@ No cabeçalho do Experience Cloud, você pode:
 Faça logon e verifique se você está na [organização](organizations.md) correta.
 
 1. Acesse a [Adobe Experience Cloud](https://experience.adobe.com).
-1. Selecione **[!UICONTROL Fazer logon com uma Adobe ID]**.
+1. Digite seu endereço de email do Adobe e selecione **[!UICONTROL Continuar]**.
+
+   Administradores, consultem [Autenticação de usuário Experience Cloud](admin-getting-started.md#migration) para obter atualizações importantes sobre tipos de identidade (ID de negócios).
+
+1. Selecione uma conta.
+1. Insira sua senha.
 1. Verifique se você está na organização correta.
 
    ![Verifique se você está na organização correta](assets/organizations-menu.png)
@@ -198,7 +203,7 @@ Aproveite os tutoriais de autoajuda e instruções rápidas na Experience League
 
 * [Documentação de produto de todos os aplicativos da Experience Cloud](https://experienceleague.adobe.com/docs/home.html?lang=pt-BR) - Buscar ajuda na Aprendizagem e Suporte da Experience Cloud
 * [Notas de versão e atualizações de produtos](https://experienceleague.adobe.com/docs/release-notes/experience-cloud/current.html?lang=pt-BR) - Novidades na Experience Cloud e assinatura para obter atualizações
-* [Tutoriais para implementar os serviços principais](https://experienceleague.adobe.com/docs/launch-learn/tutorials/overview.html?lang=pt-BR) - Explore vídeos e tutoriais sobre os serviços principais
+* [Tutoriais para implementar os serviços principais](https://experienceleague.adobe.com/docs/launch-learn/tutorials/overview.html?lang=en) - Explore vídeos e tutoriais sobre os serviços principais
 * [Ajuda de especialistas na Experience League](https://experienceleague.adobe.com/?lang=pt-BR) - Obtenha um aprendizado orientado de especialistas e da comunidade
 * [Educação e treinamento](https://helpx.adobe.com/br/learning.html?promoid=KAUDK) — interaja com a Adobe para garantir o aproveitamento máximo de nossos produtos
 * [Blog de experiência do cliente](https://blog.adobe.com/br/topics/digital-transformation.html) - Leia o blog da Experience Cloud

@@ -9,10 +9,10 @@ topic: Administration
 role: Admin
 level: Experienced
 exl-id: 062576da-328e-4b46-9e71-5a25733d607a
-source-git-commit: 84d33be461ef26c8aadba8f47bd93875356d3ad4
-workflow-type: ht
-source-wordcount: '830'
-ht-degree: 100%
+source-git-commit: fef91c95f8ce5c8791b345ce64c99cd61a733966
+workflow-type: tm+mt
+source-wordcount: '776'
+ht-degree: 97%
 
 ---
 
@@ -53,13 +53,13 @@ A funcionalidade fornecida pela interface da Experience Cloud agrega novo valor 
 
 ## Como resolver problemas sobre como migrar minha empresa?
 
-[Entre em contato com o Suporte da Adobe](https://experienceleague.adobe.com/?support-solution=General&amp;lang=pt-BR#support).
+[Entre em contato com o Suporte da Adobe](https://experienceleague.adobe.com/?support-solution=General#support).
 
 ## Como o [!DNL Adobe Support] pode acessar o meu ambiente de nuvem da Adobe para solucionar um problema?
 
 O [!DNL Adobe Support] pode enviar uma solicitação de representação para a qual você recebe um e-mail da marca Adobe (exemplo abaixo) que solicita a sua autorização explícita. O acesso é concedido por um período limitado. Depois de concedido, o acesso pode ser revogado por você a qualquer momento. A Adobe registra todas as ações tomadas por representantes da Adobe.
 
-![](/help/interface/admin-getting-started/assets/support-email.png)
+![Caso de suporte do Adobe](assets/support-email.png)
 
 ## O que é _provisionamento?_
 
@@ -82,7 +82,7 @@ O provisionamento na Experience Cloud significa que:
 
 Os administradores do Admin Console podem conceder acesso aos usuários. Os usuários recebem emails com instruções de logon.
 
-Talvez seja necessário [Entrar em contato com o suporte da Adobe](https://experienceleague.adobe.com/?support-solution=General&amp;lang=pt-BR#support) para verificar se a empresa foi totalmente provisionada.
+Talvez seja necessário [Entrar em contato com o suporte da Adobe](https://experienceleague.adobe.com/?support-solution=General#support) para verificar se a empresa foi totalmente provisionada.
 
 ## Onde um usuário pode gerenciar a vinculação de contas?
 
@@ -96,23 +96,11 @@ Consulte [Gerenciar contas de usuário](organizations.md#topic_C31CB834F109465A8
 
 ## O que é uma organização?
 
-Uma *organização* é a entidade que permite ao administrador configurar grupos e usuários, além de controlar o logon único na Experience Cloud. A organização funciona como uma empresa para logon que abrange todos os produtos e os aplicativos da Experience Cloud. Frequentemente, a organização é o nome da empresa. No entanto, uma empresa pode ter muitas organizações.
+Uma [organização](organizations.md) é a entidade que permite ao administrador configurar grupos e usuários, além de controlar o logon único na Experience Cloud. A organização funciona como uma empresa para logon que abrange todos os produtos e os aplicativos da Experience Cloud. Frequentemente, a organização é o nome da empresa. No entanto, uma empresa pode ter muitas organizações.
 
-## Onde posso encontrar minha ID da organização de IMS?
+## Onde encontro minha ID da organização IMS?
 
-Consulte [Localização da ID da organização](organizations.md).
-
-A ID da organização é exibida na página de aterrissagem da Experience Cloud e na [página de aterrissagem do Admin Console](https://adminconsole.adobe.com).
-
-Como alternativa, os administradores podem fazer logon no Admin Console (acesse [https://adminconsole.adobe.com](https://adminconsole.adobe.com)) de uma organização específica e você verá sua ID da organização de IMS no URL.
-
-Por exemplo, no URL a seguir:
-
-`https://adminconsole.adobe.com/C538193582390300A495CC9@AdobeOrg/overview`
-
-a ID é:
-
-`C538193582390300A495CC9@AdobeOrg`
+Consulte [Encontrar a ID da organização](organizations.md) para obter detalhes.
 
 ## O que devo fazer quando um dos meus usuários sair da empresa?
 

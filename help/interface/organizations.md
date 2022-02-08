@@ -9,10 +9,10 @@ topic: Administration
 role: Admin
 level: Experienced
 exl-id: 6eb58530-2a7a-48c7-9a5b-48a6e980a034
-source-git-commit: c073b3bacf5505c01017d4ba2507621df8ef877e
-workflow-type: ht
-source-wordcount: '524'
-ht-degree: 100%
+source-git-commit: fef91c95f8ce5c8791b345ce64c99cd61a733966
+workflow-type: tm+mt
+source-wordcount: '550'
+ht-degree: 89%
 
 ---
 
@@ -36,11 +36,21 @@ Por exemplo, para uma organização com Federated IDs e o domínio `adobecustome
 
 Além disso, pode ser necessário localizar a ID da organização para fins de suporte. Você pode verificar se está na organização correta ou alternar entre organizações usando o menu **[!UICONTROL Organização]**.
 
-A **ID da organização** é a ID associada à empresa provisionada pela Experience Cloud. A ID é uma sequência de 24 caracteres alfanuméricos seguidos por (e deve incluir) @AdobeOrg.
+A ID da organização é a ID associada à empresa provisionada pela Experience Cloud. A ID é uma sequência de 24 caracteres alfanuméricos seguidos por (e deve incluir) `@AdobeOrg`.
 
-Para exibir a ID da organização, navegue até a página de aterrissagem da Experience Cloud ou selecione ( ![](assets/menu-icon.png)) e, em seguida, **[!UICONTROL Administração]**. É possível encontrar a ID da organização na parte inferior da página [!UICONTROL Introdução à Experience Cloud] ou na página [!UICONTROL Administração].
+Você pode exibir a ID da organização, juntamente com outras informações da conta, usando o atalho de teclado **Ctrl+i** de qualquer página em `https://experience.adobe.com`, em seguida, clique no botão **[!UICONTROL Orgs Atribuídas]** na caixa de diálogo.
 
-![](assets/administration-page.png)
+![ID da Organização Atribuída](assets/assigned-organization.png)
+
+Como alternativa, os administradores podem fazer logon no Admin Console (acesse [https://adminconsole.adobe.com](https://adminconsole.adobe.com)) e exibir a ID da organização IMS no URL.
+
+Por exemplo, no URL a seguir:
+
+`https://adminconsole.adobe.com/C538193582390300A495CC9@AdobeOrg/overview`
+
+a ID é:
+
+`C538193582390300A495CC9@AdobeOrg`
 
 ## Vincular uma conta do aplicativo a uma Adobe ID {#task_FD389E78640848919E247AC5E95B8369}
 

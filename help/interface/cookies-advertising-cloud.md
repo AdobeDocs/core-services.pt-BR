@@ -3,13 +3,13 @@ description: Saiba mais sobre os cookies da Adobe Ad Cloud para mapear eventos d
 title: 'Cookies da Advertising Cloud '
 uuid: 2eec48a3-3e81-488e-8e30-5fd62885de0b
 feature: Cookies
-topic: Administração
+topic: Administration
 role: Admin
 level: Experienced
 exl-id: 6818edea-31b1-49fc-bca2-32828c7ca78d
-source-git-commit: 1f2dd42b4803517e6c513038c00b2070c08a51bb
-workflow-type: ht
-source-wordcount: '571'
+source-git-commit: 854a2b298db4fab3339e2b2ea03701dc6511af8d
+workflow-type: tm+mt
+source-wordcount: '569'
 ht-degree: 100%
 
 ---
@@ -42,7 +42,7 @@ A Advertising Cloud usa cookies para mapear eventos de envolvimento de anúncios
   </tr> 
   <tr> 
    <td colname="col1"> <p>Uso </p> </td> 
-   <td colname="col2"> <p>Um cookie de terceiros usado para determinar se um evento select em um anúncio de exibição se aplica a uma ocorrência do Adobe Analytics </p> </td> 
+   <td colname="col2"> <p>Um cookie de terceiros usado para determinar se um evento de cliques em um anúncio de exibição se aplica a uma ocorrência do Adobe Analytics </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p>Localização </p> </td> 
@@ -100,7 +100,7 @@ A Advertising Cloud usa cookies para mapear eventos de envolvimento de anúncios
  <tbody> 
   <tr> 
    <td colname="col1"> <p>Informações armazenadas </p> </td> 
-   <td colname="col2"> <p>Os carimbos de data e hora da última visita ao site do anunciante, o último clique de pesquisa e a ef_id criada quando o usuário selecionou um anúncio</p> </td> 
+   <td colname="col2"> <p>Os carimbos de data e hora da última visita ao site do anunciante e o último clique de pesquisa, e a ef_id criada quando o usuário clicou em um anúncio</p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p>Expiração </p> </td> 

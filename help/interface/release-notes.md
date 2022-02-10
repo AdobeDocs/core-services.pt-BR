@@ -9,10 +9,10 @@ topic: Administration
 role: Admin
 level: Experienced
 exl-id: b71d144c-a097-4cdb-9721-671519d38aff
-source-git-commit: 786299df8f07c440e278fb1dc187fd1c9ab5db1f
-workflow-type: ht
-source-wordcount: '4525'
-ht-degree: 100%
+source-git-commit: 3fdeeeda77f1c779aff7ecbb3a2b6e8a1ad192d8
+workflow-type: tm+mt
+source-wordcount: '4606'
+ht-degree: 98%
 
 ---
 
@@ -23,6 +23,14 @@ Recursos, notas de versão e problemas conhecidos dos Componentes da interface c
 Para obter uma lista de atualizações de documentação, consulte [Experience Cloud](doc-updates.md#concept_4C8983FCD23848A4B1E4C2D99ED82784).
 
 Para obter notas de versão que abrangem todos os aplicativos, consulte [Notas de versão da Experience Cloud](https://experienceleague.adobe.com/docs/release-notes/experience-cloud/current.html?lang=pt-BR).
+
+## Fevereiro - 2022
+
+| Recurso | Descrição |
+| ------- |-------|
+| Atalhos (**[!UICONTROL Recentes]**) adicionado a [Experience Cloud](https://experience.adobe.com/home) home | Você pode acessar atalhos para o Journey Optimizer e o Experience Platform mais recentes funcionarem no novo _Recentes_ na página de aterrissagem. Esta atualização também inclui melhorias gerais de layout e capacidade de resposta. |
+| **[!UICONTROL Sandboxes]** movido para a barra de cabeçalho | O indicador Sandboxes agora é integrado no cabeçalho para todos os aplicativos de interface do Experience Platform. Consulte [Sandboxes](https://experienceleague.adobe.com/docs/experience-platform/sandbox/ui/user-guide.html?lang=pt-BR) no Experience Platform para obter mais informações. |
+
 
 ## Novembro - 2021
 

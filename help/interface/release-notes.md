@@ -9,7 +9,7 @@ topic: Administration
 role: Admin
 level: Experienced
 exl-id: b71d144c-a097-4cdb-9721-671519d38aff
-source-git-commit: 3fdeeeda77f1c779aff7ecbb3a2b6e8a1ad192d8
+source-git-commit: f03a0702b1f95dd8dfafbe84afc85e48f2aa9e5c
 workflow-type: tm+mt
 source-wordcount: '4606'
 ht-degree: 98%
@@ -30,7 +30,6 @@ Para obter notas de versão que abrangem todos os aplicativos, consulte [Notas d
 | ------- |-------|
 | Atalhos (**[!UICONTROL Recentes]**) adicionado a [Experience Cloud](https://experience.adobe.com/home) home | Você pode acessar atalhos para o Journey Optimizer e o Experience Platform mais recentes funcionarem no novo _Recentes_ na página de aterrissagem. Esta atualização também inclui melhorias gerais de layout e capacidade de resposta. |
 | **[!UICONTROL Sandboxes]** movido para a barra de cabeçalho | O indicador Sandboxes agora é integrado no cabeçalho para todos os aplicativos de interface do Experience Platform. Consulte [Sandboxes](https://experienceleague.adobe.com/docs/experience-platform/sandbox/ui/user-guide.html?lang=pt-BR) no Experience Platform para obter mais informações. |
-
 
 ## Novembro - 2021
 

@@ -8,9 +8,9 @@ topic: Administration
 role: Admin
 level: Experienced
 exl-id: af9eda5b-d984-44b7-a7b3-52dfc4e03d8f
-source-git-commit: 3cf359c54467b4f913f20060e9d7f9577691b90c
+source-git-commit: f03a0702b1f95dd8dfafbe84afc85e48f2aa9e5c
 workflow-type: tm+mt
-source-wordcount: '1557'
+source-wordcount: '1567'
 ht-degree: 69%
 
 ---
@@ -141,7 +141,8 @@ Após a migração, os usuários fazem logon com a Adobe ID (ou Enterprise ID) e
 
 **Ajuda relacionada**
 
-Para obter mais informações, consulte [Migração de IDs de usuários do Analytics](https://experienceleague.adobe.com/docs/analytics/admin/user-product-management/migrate-users/c-migration-tool.html?lang=pt-BR).
+* [Analytics no Admin Console](https://experienceleague.adobe.com/docs/analytics/admin/admin-console/home.html?lang=en)
+* [Migração de IDs de usuários do Analytics](https://experienceleague.adobe.com/docs/analytics/admin/user-product-management/migrate-users/c-migration-tool.html?lang=pt-BR)
 
 ## Gerenciar o Adobe Target - Perfis de produto versus espaços de trabalho {#section_3860AF177C9E4C7E9C390D36A414F353}
 
@@ -189,7 +190,7 @@ Consulte [Administração](https://experienceleague.adobe.com/docs/audience-mana
 * [!DNL Safari]
 * [!DNL Opera]
 
-**Observação:** embora a interface da Experience Cloud seja compatível esses navegadores, os aplicativos individuais não oferecem suporte a todos os navegadores. (Por exemplo, o [Analytics](https://experienceleague.adobe.com/docs/analytics/admin/sys-reqs.html?lang=pt-BR) não é compatível com o [!DNL Opera] e o [ Adobe Target](https://experienceleague.adobe.com/docs/target/using/implement-target/before-implement/supported-browsers.html?lang=pt-BR) não é compatível com o [!DNL Safari].)
+**Observação:** embora a interface da Experience Cloud seja compatível esses navegadores, os aplicativos individuais não oferecem suporte a todos os navegadores. (Por exemplo, o [Analytics](https://experienceleague.adobe.com/docs/analytics/admin/sys-reqs.html?lang=en) não é compatível com o [!DNL Opera] e o [ Adobe Target](https://experienceleague.adobe.com/docs/target/using/implement-target/before-implement/supported-browsers.html?lang=pt-BR) não é compatível com o [!DNL Safari].)
 
 ### Requisitos da solução e do produto
 

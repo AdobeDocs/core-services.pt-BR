@@ -6,8 +6,8 @@ feature: Central Interface Components
 topic: Administration
 role: Admin, User
 level: Beginner, Intermediate, Experienced
-source-git-commit: c073b3bacf5505c01017d4ba2507621df8ef877e
-workflow-type: ht
+source-git-commit: 5281aededf07508cb49ecd4f3017ccec3d4851fb
+workflow-type: tm+mt
 source-wordcount: '733'
 ht-degree: 100%
 
@@ -78,7 +78,7 @@ Selecione o seletor de aplicativos ![](assets/menu-icon.png) para acessar os ser
 
 ![Acessar aplicativos da Experience Cloud](assets/platform-core-services.png)
 
-## Pesquisa e suporte na Experience Cloud {#search}
+## Pesquisa e suporte na Experience Cloud {#search-support}
 
 A pesquisa na Experience Cloud permite procurar ajuda (documentação, tutoriais e cursos) na [Experience League](https://experienceleague.adobe.com/?lang=pt-BR#home).
 

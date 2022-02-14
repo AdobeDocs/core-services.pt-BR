@@ -8,7 +8,7 @@ topic: Administration
 role: Admin
 level: Experienced
 exl-id: aedad5cb-3282-4a97-8e7e-6d65f7b75ba9
-source-git-commit: 540896e1127c4d2abea2bf4ca63ac85315dda8c2
+source-git-commit: 5281aededf07508cb49ecd4f3017ccec3d4851fb
 workflow-type: tm+mt
 source-wordcount: '1354'
 ht-degree: 98%
@@ -105,7 +105,7 @@ O menu [!UICONTROL Ajuda] também oferece acesso a:
 * **[!UICONTROL Status]:** acesse `https://status.adobe.com/experience_cloud` e verifique o status operacional do produto e [!UICONTROL Gerenciar assinaturas].
 * **[!UICONTROL Developer Connection]:** acesse `adobe.io` e encontre a documentação do desenvolvedor.
 
-## Pesquisar objetos e entidades globalmente {#search}
+## Pesquisar objetos e entidades globalmente {#globally-search}
 
 A pesquisa global permite encontrar objetos ou entidades comerciais pesquisáveis em uma experiência contínua, consistente e com apenas um clique. Essa pesquisa exibe os objetos acessados recentemente.
 

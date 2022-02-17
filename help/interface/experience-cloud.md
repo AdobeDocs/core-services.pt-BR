@@ -8,10 +8,10 @@ topic: Administration
 role: Admin
 level: Experienced
 exl-id: aedad5cb-3282-4a97-8e7e-6d65f7b75ba9
-source-git-commit: 9ef52b69b26ceb362cc2caf9fc6a631648a98170
+source-git-commit: cef76ac81d70488ef166fbca9a5a691fb1331a0b
 workflow-type: tm+mt
-source-wordcount: '1541'
-ht-degree: 82%
+source-wordcount: '1540'
+ht-degree: 81%
 
 ---
 
@@ -118,7 +118,7 @@ A pesquisa unificada é exibida na parte superior da página (no cabeçalho do E
 * Experience Platform (AEP)
 * Journey Optimizer (AJO)
 
-À medida que mais conteúdo for indexado, esse recurso será adicionado aos aplicativos relevantes.
+À medida que mais conteúdo é indexado, esse recurso é adicionado aos aplicativos relevantes.
 
 ### Objetos e campos pesquisáveis
 
@@ -229,7 +229,7 @@ Os guias relacionados da Experience Cloud incluem:
 * [Serviço da Experience Cloud ID](https://experienceleague.adobe.com/docs/id-service/using/home.html?lang=pt-BR)
 * [Coleta de dados do Experience Platform/Launch](https://experienceleague.adobe.com/docs/launch.html?lang=pt-BR)
 * [Experience Cloud Debugger](https://experienceleague.adobe.com/docs/debugger/using/experience-cloud-debugger.html?lang=pt-BR)
-* [API do Regulamento Geral sobre a Proteção de Dados (GDPR)](https://www.adobe.io/apis/experiencecloud/gdpr.html)
+* [API do Regulamento Geral sobre a Proteção de Dados (GDPR)](https://developer.adobe.com/apis/experiencecloud/gdpr.html)
 * [[!UICONTROL Dynamic Tag Management]](https://experienceleague.adobe.com/docs/experience-platform/tags/home.html?lang=pt-BR)
 
 ## Tutoriais
@@ -237,15 +237,15 @@ Os guias relacionados da Experience Cloud incluem:
 Aproveite os tutoriais de autoajuda e instruções rápidas na Experience League:
 
 * [Todos os tutoriais na Experience League](https://experienceleague.adobe.com/?lang=pt-BR#quick-how-tos)
-* [Tutoriais da Experience Platform](https://experienceleague.adobe.com/docs/launch-learn/tutorials/overview.html?lang=pt-BR)
+* [Tutoriais da Experience Platform](https://experienceleague.adobe.com/docs/platform-learn/data-collection/overview.html?lang=en)
 * [Plataforma de dados do cliente em tempo real](https://experienceleague.adobe.com/docs/platform-learn/tutorials/application-services/rtcdp/understanding-the-real-time-customer-data-platform.html?lang=pt-BR)
 
 ## Notas de versão e ajuda relacionada à Experience Cloud
 
 * [Documentação de produto de todos os aplicativos da Experience Cloud](https://experienceleague.adobe.com/docs/home.html?lang=pt-BR) - Buscar ajuda na Aprendizagem e Suporte da Experience Cloud
 * [Notas de versão e atualizações de produtos](https://experienceleague.adobe.com/docs/release-notes/experience-cloud/current.html?lang=pt-BR) - Novidades na Experience Cloud e assinatura para obter atualizações
-* [Tutoriais para implementar os serviços principais](https://experienceleague.adobe.com/docs/launch-learn/tutorials/overview.html?lang=en) - Explore vídeos e tutoriais sobre os serviços principais
+* [Tutoriais para implementar os serviços principais](https://experienceleague.adobe.com/docs/platform-learn/data-collection/overview.html?lang=en) - Explore vídeos e tutoriais sobre os serviços principais
 * [Ajuda de especialistas na Experience League](https://experienceleague.adobe.com/?lang=pt-BR) - Obtenha um aprendizado orientado de especialistas e da comunidade
 * [Educação e treinamento](https://helpx.adobe.com/br/learning.html?promoid=KAUDK) — interaja com a Adobe para garantir o aproveitamento máximo de nossos produtos
-* [Blog de experiência do cliente](https://blog.adobe.com/br/topics/digital-transformation.html) - Leia o blog da Experience Cloud
+* [Blog de experiência do cliente](https://blog.adobe.com/en/topics/digital-transformation) - Leia o blog da Experience Cloud
 * [Atendimento ao cliente](https://experienceleague.adobe.com/?support-solution=General&amp;lang=pt-BR#support) - Entre em contato com o Atendimento ao cliente da Adobe

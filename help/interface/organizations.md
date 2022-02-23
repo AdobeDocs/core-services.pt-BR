@@ -12,7 +12,7 @@ exl-id: 6eb58530-2a7a-48c7-9a5b-48a6e980a034
 source-git-commit: fef91c95f8ce5c8791b345ce64c99cd61a733966
 workflow-type: tm+mt
 source-wordcount: '550'
-ht-degree: 89%
+ht-degree: 100%
 
 ---
 
@@ -38,11 +38,11 @@ Além disso, pode ser necessário localizar a ID da organização para fins de s
 
 A ID da organização é a ID associada à empresa provisionada pela Experience Cloud. A ID é uma sequência de 24 caracteres alfanuméricos seguidos por (e deve incluir) `@AdobeOrg`.
 
-Você pode exibir a ID da organização, juntamente com outras informações da conta, usando o atalho de teclado **Ctrl+i** de qualquer página em `https://experience.adobe.com`, em seguida, clique no botão **[!UICONTROL Orgs Atribuídas]** na caixa de diálogo.
+É possível visualizar a ID da organização, juntamente com outras informações da conta, usando o atalho de teclado **Ctrl+i** de qualquer página em `https://experience.adobe.com` e clicando na guia **[!UICONTROL Organizações atribuídas]** na caixa de diálogo.
 
-![ID da Organização Atribuída](assets/assigned-organization.png)
+![ID da organização atribuída](assets/assigned-organization.png)
 
-Como alternativa, os administradores podem fazer logon no Admin Console (acesse [https://adminconsole.adobe.com](https://adminconsole.adobe.com)) e exibir a ID da organização IMS no URL.
+Como alternativa, os administradores podem fazer logon no Admin Console (acesse [https://adminconsole.adobe.com](https://adminconsole.adobe.com)) e visualizar a ID da organização IMS no URL.
 
 Por exemplo, no URL a seguir:
 

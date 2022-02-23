@@ -1,6 +1,6 @@
 ---
 title: Gerenciar usuários e produtos
-description: Saiba como fazer logon no Admin Console e gerenciar permissões de usuário e Perfis de produto do Experience Cloud. Saiba mais sobre como delegar direitos administrativos a usuários da Experience Cloud e sobre o suporte a navegador na Experience Cloud.
+description: Saiba como fazer logon no Admin Console e gerenciar permissões de usuário e Perfis de produto da Experience Cloud. Saiba mais sobre como delegar direitos administrativos a usuários da Experience Cloud e sobre o suporte a navegador na Experience Cloud.
 solution: Admin
 index: true
 feature: Admin Console
@@ -11,13 +11,13 @@ exl-id: af9eda5b-d984-44b7-a7b3-52dfc4e03d8f
 source-git-commit: f03a0702b1f95dd8dfafbe84afc85e48f2aa9e5c
 workflow-type: tm+mt
 source-wordcount: '1567'
-ht-degree: 69%
+ht-degree: 98%
 
 ---
 
 # Gerenciar usuários e produtos da Experience Cloud
 
-Saiba mais sobre como fazer logon no Admin Console, gerenciar permissões de usuário do Experience Cloud e Perfis de produto e suporte do navegador.
+Saiba mais sobre como fazer logon no Admin Console, gerenciar permissões de usuário e Perfis de produto da Experience Cloud e suporte ao navegador.
 
 >[!IMPORTANT]
 >
@@ -25,57 +25,57 @@ Saiba mais sobre como fazer logon no Admin Console, gerenciar permissões de usu
 
 Você pode ver uma lista classificável e filtrável de todos os usuários da Experience Cloud e seus detalhes na Ferramenta do administrador. Consulte [Exibir usuários da Experience Cloud na Ferramenta administrativa](admin-tool-experience-cloud.md).
 
-## Autenticação de usuário do Experience Cloud (migração planejada){#migration}
+## Autenticação de usuário da Experience Cloud (migração planejada){#migration}
 
-A partir de fevereiro de 2022, o Adobe está atualizando seu sistema de gerenciamento de perfis para permitir que as organizações gerenciem melhor os direitos dos negócios a perfis individuais. Dessa forma, todos os usuários com um Perfil Pessoal, que corresponde a um Adobe ID individual (Tipo1), serão migrados para um novo Perfil Comercial. Este perfil corresponde a um _ID de empresa_ (Tipo2e).
+A partir de fevereiro de 2022, a Adobe está atualizando seu sistema de gerenciamento de perfis para permitir que as organizações gerenciem melhor os direitos dos negócios a perfis individuais. Dessa forma, todos os usuários com um Perfil pessoal, que corresponde a uma Adobe ID individual (Type1), serão migrados para um novo Perfil comercial. Este perfil corresponde a uma _Business ID_ (Type2e).
 
 Consulte [Tipos de identidade no Adobe Admin Console](https://helpx.adobe.com/br/enterprise/using/identity.html) para obter informações sobre tipos de identidade.
 
 ### Processo de migração
 
-Quando for a hora da migração, os administradores da organização receberão um email de notificação 30 dias antes da migração.
+Quando for a hora da migração, os administradores da organização receberão um email de notificação 30 dias antes.
 
-* A migração será programada entre as 22 horas. - 6 horas da manhã, com base no fuso horário principal da organização ou no fim de semana.
-* Durante a migração, o aplicativo Experience Cloud pode ficar inacessível por aproximadamente 15 minutos e o Admin Console pode estar inacessível por até 30 minutos. Caso contrário, essa migração será contínua.
+* A migração será agendada entre as 22h00 e as 6h00, com base no fuso horário principal da organização ou no fim de semana.
+* Durante a migração, o aplicativo Experience Cloud pode ficar inacessível por aproximadamente 15 minutos e o Admin Console pode estar inacessível por até 30 minutos. Caso contrário, essa migração será sem interrupções.
 
 ### Alterações após a migração
 
 Admin Console
 
-* Os administradores com várias contas podem ver um seletor de perfil ao fazer logon [!UICONTROL Admin Console].
-* Os usuários individuais da Adobe ID serão atualizados para a ID de negócios.
-* O diretório da ID de negócios será adicionado em **[!UICONTROL Configurações]** > **[!UICONTROL Identidade]** > **[!UICONTROL Diretórios]**.
+* Os administradores com várias contas podem ver um seletor de perfil ao fazer logon no [!UICONTROL Admin Console].
+* Os usuários individuais da Adobe ID serão atualizados para a Business ID.
+* O diretório da Business ID será adicionado em **[!UICONTROL Configurações]** > **[!UICONTROL Identidade]** > **[!UICONTROL Diretórios]**.
 
-   ![Admin Console Identity - Business ID](assets/identity-home.png)
+   ![Identidade do Admin Console - Business ID](assets/identity-home.png)
 
 ### Fazer logon após a migração
 
 Sua experiência de logon não é alterada com esta atualização:
 
-1. Fazer logon em `experience.adobe.com` usando as mesmas credenciais.
+1. Faça logon em `experience.adobe.com` usando as mesmas credenciais.
 
-1. Um novo perfil associado à ID de negócios é criado. Você será solicitado a **[!UICONTROL Associe-se já]** ou **[!UICONTROL Ignorar]**.
+1. Um novo perfil associado à Business ID é criado. Você será solicitado a **[!UICONTROL Assinar agora]** ou **[!UICONTROL Ignorar]**.
 
-1. Usar uma das opções leva a uma experiência existente de página de aterrissagem.
+1. Usar uma das opções levará a uma experiência de página de aterrissagem existente.
 
-1. Um perfil do Adobe é associado a cada plano de negócios e fornece a capacidade de organizar ativos criados a partir de ofertas adicionais da Adobe Cloud (Creative Cloud e Document Cloud).
+1. Um perfil da Adobe é associado a cada plano empresarial e fornece a capacidade de organizar ativos criados de ofertas adicionais da Adobe Cloud (Creative Cloud e Document Cloud).
 
-Para obter mais informações, consulte [Introdução aos perfis do Adobe](https://helpx.adobe.com/enterprise/kb/introducing-adobe-profiles.html).
+Para obter mais informações, consulte [Introdução aos perfis da Adobe](https://helpx.adobe.com/br/enterprise/kb/introducing-adobe-profiles.html).
 
 ## O que é um Perfil de produto? {#section_AB50558124D541CF80A0D3D76D35A4BF}
 
 _[!UICONTROL Perfis de produto]_ são grupos de produtos e serviços que podem ser atribuídos a usuários. Na Experience Cloud, as permissões se baseiam no perfil de um produto, não no usuário. (No entanto, você pode delegar direitos administrativos a usuários específicos.)
 
-Por exemplo, no Analytics é possível configurar uma coleção de ferramentas de relatório, como o Analysis Workspace e o Report Builder, além de conjuntos de relatórios, métricas e dimensões. Você pode conceder permissão a um Perfil de produto ao adicionar usuários ao perfil.
+Por exemplo, no Analytics é possível configurar uma coleção de ferramentas de relatório, como o Analysis Workspace e o Report Builder, além de conjuntos de relatórios, métricas e dimensões. Você pode conceder permissão a um Perfil de produto adicionando usuários ao perfil.
 
-* Consulte [Atribuir a um Perfil de produto permissões de acesso ao Analytics](admin-getting-started.md#task_040673FE3E3E429B9531FBCB8B6A4391) nesta página.
+* Consulte [Atribuir permissões de acesso ao Analytics a um Perfil de produto](admin-getting-started.md#task_040673FE3E3E429B9531FBCB8B6A4391) nesta página.
 * Consulte [Delegar funções administrativas a usuários](#delegate-rights) nesta página.
 
-## Gerenciar perfis de produto do Experience Cloud {#task_16335111C52D40E9BAC73D0699584DBF}
+## Gerenciar Perfis de produto da Experience Cloud {#task_16335111C52D40E9BAC73D0699584DBF}
 
-Você pode criar um Perfil de produto e atribuí-lo a um grupo de permissões.
+Você pode criar um Perfil de produto e atribuí-lo a um grupo de permissão.
 
-Ao convidar um usuário para uma organização, é possível concedê-lo acesso a produtos e Perfis de produto. Também é possível delegar a um usuário permissões administrativas limitadas. Da mesma forma, você pode criar grupos de usuários e, em seguida, adicionar o grupo a um Perfil de produto para habilitar o acesso.
+Ao convidar um usuário para uma organização, é possível conceder a ele acesso a produtos e Perfis de produtos. Também é possível delegar permissões administrativas limitadas a um usuário. De maneira similar, é possível criar grupos de usuários e depois adicionar o grupo a um Perfil de produto para habilitar o acesso.
 
 1. No [Admin Console](https://adminconsole.adobe.com/enterprise/), selecione **[!UICONTROL Produtos]**.
 1. Clique no nome da sua organização.
@@ -117,7 +117,7 @@ Ao usar essas funções, você pode delegar simultaneamente o gerenciamento a ou
 
 Você pode atribuir permissões de acesso a relatórios do Analytics (conjuntos de relatórios, métricas, dimensões e assim por diante) a um Perfil de produto.
 
-Por exemplo, você pode criar um Perfil de produto que contenha várias ferramentas do Analytics ([!UICONTROL Analysis Workspace], [!UICONTROL Reports &amp; Analytics]e [!UICONTROL Report Builder]). Esses perfis contêm permissão para métricas e dimensões específicas (incluindo eVars) e recursos como segmentos ou criação de métricas calculadas.
+Por exemplo, você pode criar um Perfil de produto que contenha várias ferramentas do Analytics ([!UICONTROL Analysis Workspace], [!UICONTROL Reports &amp; Analytics] e [!UICONTROL Report Builder]). Esses perfis contêm permissão para métricas e dimensões específicas (incluindo eVars) e recursos como segmentos ou criação de métricas calculadas.
 
 1. Faça logon no [Admin Console](https://adminconsole.adobe.com/enterprise) e clique em **[!UICONTROL Produtos]**.
 1. Na página [!UICONTROL Produtos], clique no produto e, em seguida, clique em **[!UICONTROL Permissões]** (disponível somente para administradores).
@@ -144,7 +144,7 @@ Após a migração, os usuários fazem logon com a Adobe ID (ou Enterprise ID) e
 * [Analytics no Admin Console](https://experienceleague.adobe.com/docs/analytics/admin/admin-console/home.html?lang=en)
 * [Migração de IDs de usuários do Analytics](https://experienceleague.adobe.com/docs/analytics/admin/user-product-management/migrate-users/c-migration-tool.html?lang=pt-BR)
 
-## Gerenciar o Adobe Target - Perfis de produto versus espaços de trabalho {#section_3860AF177C9E4C7E9C390D36A414F353}
+## Gerenciar o Adobe Target — Perfis de produto vs. espaços de trabalho {#section_3860AF177C9E4C7E9C390D36A414F353}
 
 No Adobe Target, um espaço de trabalho é um Perfil de produto. Ele permite que uma organização atribua um conjunto específico de usuários a um conjunto específico de propriedades. De muitas formas, um espaço de trabalho é semelhante a um conjunto de relatórios no Adobe Analytics.
 
@@ -154,17 +154,17 @@ Consulte:
 * [Gerenciar produtos e perfis](https://helpx.adobe.com/enterprise/admin-guide.html/enterprise/using/manage-products.ug.html)
 * Vídeo: [Como configurar espaços de trabalho do Adobe Target no Adobe Admin Console](https://helpx.adobe.com/target/kb/how-to-configure-target-workspaces-in-adobe-admin-console0.html)
 
-## Gerenciar perfis de produto do Campaign, locatários e grupos de segurança {#section_09CDF75366444CF5810CF321B7C712F3}
+## Gerenciar Perfis de produtos, locatários e grupos de segurança do Campaign {#section_09CDF75366444CF5810CF321B7C712F3}
 
-Um *locatário* do Campaign é exibido como um *produto* na página Produtos do Admin Console.
+Um *locatário* do Campaign é exibido como um *produto* na página Produtos, do Admin Console.
 
-*Grupo de segurança* é exibido como um Perfil de produto.
+O *grupo de segurança* é exibido como um Perfil de produto.
 
 Consulte [Gerenciamento de grupos e usuários](https://experienceleague.adobe.com/docs/campaign-standard/using/administrating/users-and-security/managing-groups-and-users.html?lang=pt-BR) para obter informações sobre grupos de segurança e atribuição de usuários a grupos de segurança.
 
 ## Gerenciar a coleta de dados da Experience Platform (Launch) {#section_F2DA6778DD2D48AA8F794041971EE6B1}
 
-A coleção de dados da [!UICONTROL Experience Platform] ([!UICONTROL Launch]) é exibida na página [!UICONTROL Produtos] no [!UICONTROL Admin Console]. Você pode incluir outros aplicativos e serviços em um Perfil de produto do Launch.
+A coleção de dados da [!UICONTROL Experience Platform] ([!UICONTROL Launch]) é exibida na página [!UICONTROL Produtos] no [!UICONTROL Admin Console]. É possível incluir outros aplicativos e serviços em um Perfil de produto do Launch.
 
 Convide usuários para o [!UICONTROL Platform Launch] e atribua funções e direitos de usuário.
 

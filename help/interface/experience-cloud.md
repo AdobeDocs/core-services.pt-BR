@@ -11,7 +11,7 @@ exl-id: aedad5cb-3282-4a97-8e7e-6d65f7b75ba9
 source-git-commit: cef76ac81d70488ef166fbca9a5a691fb1331a0b
 workflow-type: tm+mt
 source-wordcount: '1540'
-ht-degree: 81%
+ht-degree: 82%
 
 ---
 
@@ -33,9 +33,9 @@ No cabeçalho do Experience Cloud, você pode:
 Faça logon e verifique se você está na [organização](organizations.md) correta.
 
 1. Acesse a [Adobe Experience Cloud](https://experience.adobe.com).
-1. Digite seu endereço de email do Adobe e selecione **[!UICONTROL Continuar]**.
+1. Digite seu endereço de email da Adobe e selecione **[!UICONTROL Continuar]**.
 
-   Administradores, consultem [Autenticação de usuário Experience Cloud](admin-getting-started.md#migration) para obter atualizações importantes sobre tipos de identidade (ID de negócios).
+   Administradores, consultem [Autenticação de usuário da Experience Cloud](admin-getting-started.md#migration) para obter atualizações importantes sobre tipos de identidade (Business ID).
 
 1. Selecione uma conta.
 1. Insira sua senha.
@@ -238,7 +238,7 @@ Aproveite os tutoriais de autoajuda e instruções rápidas na Experience League
 
 * [Todos os tutoriais na Experience League](https://experienceleague.adobe.com/?lang=pt-BR#quick-how-tos)
 * [Tutoriais da Experience Platform](https://experienceleague.adobe.com/docs/platform-learn/data-collection/overview.html?lang=en)
-* [Plataforma de dados do cliente em tempo real](https://experienceleague.adobe.com/docs/platform-learn/tutorials/application-services/rtcdp/understanding-the-real-time-customer-data-platform.html?lang=pt-BR)
+* [Real-time Customer Data Platform](https://experienceleague.adobe.com/docs/platform-learn/tutorials/application-services/rtcdp/understanding-the-real-time-customer-data-platform.html?lang=pt-BR)
 
 ## Notas de versão e ajuda relacionada à Experience Cloud
 
@@ -246,6 +246,6 @@ Aproveite os tutoriais de autoajuda e instruções rápidas na Experience League
 * [Notas de versão e atualizações de produtos](https://experienceleague.adobe.com/docs/release-notes/experience-cloud/current.html?lang=pt-BR) - Novidades na Experience Cloud e assinatura para obter atualizações
 * [Tutoriais para implementar os serviços principais](https://experienceleague.adobe.com/docs/platform-learn/data-collection/overview.html?lang=en) - Explore vídeos e tutoriais sobre os serviços principais
 * [Ajuda de especialistas na Experience League](https://experienceleague.adobe.com/?lang=pt-BR) - Obtenha um aprendizado orientado de especialistas e da comunidade
-* [Educação e treinamento](https://helpx.adobe.com/br/learning.html?promoid=KAUDK) — interaja com a Adobe para garantir o aproveitamento máximo de nossos produtos
+* [Educação e treinamento](https://helpx.adobe.com/br/learning.html?promoid=KAUDK) - interaja com a Adobe para garantir o aproveitamento máximo de nossos produtos
 * [Blog de experiência do cliente](https://blog.adobe.com/en/topics/digital-transformation) - Leia o blog da Experience Cloud
 * [Atendimento ao cliente](https://experienceleague.adobe.com/?support-solution=General&amp;lang=pt-BR#support) - Entre em contato com o Atendimento ao cliente da Adobe

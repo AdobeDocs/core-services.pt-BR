@@ -12,7 +12,7 @@ exl-id: 062576da-328e-4b46-9e71-5a25733d607a
 source-git-commit: fef91c95f8ce5c8791b345ce64c99cd61a733966
 workflow-type: tm+mt
 source-wordcount: '776'
-ht-degree: 97%
+ht-degree: 100%
 
 ---
 
@@ -59,7 +59,7 @@ A funcionalidade fornecida pela interface da Experience Cloud agrega novo valor 
 
 O [!DNL Adobe Support] pode enviar uma solicitação de representação para a qual você recebe um e-mail da marca Adobe (exemplo abaixo) que solicita a sua autorização explícita. O acesso é concedido por um período limitado. Depois de concedido, o acesso pode ser revogado por você a qualquer momento. A Adobe registra todas as ações tomadas por representantes da Adobe.
 
-![Caso de suporte do Adobe](assets/support-email.png)
+![Caso de suporte da Adobe](assets/support-email.png)
 
 ## O que é _provisionamento?_
 
@@ -98,7 +98,7 @@ Consulte [Gerenciar contas de usuário](organizations.md#topic_C31CB834F109465A8
 
 Uma [organização](organizations.md) é a entidade que permite ao administrador configurar grupos e usuários, além de controlar o logon único na Experience Cloud. A organização funciona como uma empresa para logon que abrange todos os produtos e os aplicativos da Experience Cloud. Frequentemente, a organização é o nome da empresa. No entanto, uma empresa pode ter muitas organizações.
 
-## Onde encontro minha ID da organização IMS?
+## Onde posso encontrar minha ID da organização IMS?
 
 Consulte [Encontrar a ID da organização](organizations.md) para obter detalhes.
 

@@ -12,7 +12,7 @@ exl-id: 12addbb6-a29b-4d20-ac8f-77e0846150b5
 source-git-commit: fef91c95f8ce5c8791b345ce64c99cd61a733966
 workflow-type: tm+mt
 source-wordcount: '972'
-ht-degree: 97%
+ht-degree: 100%
 
 ---
 
@@ -28,7 +28,7 @@ Fazer logon na Experience Cloud (em vez de fazer logon em um único aplicativo) 
 
 Faça logon e verifique se você está na [organização](organizations.md#topic_C31CB834F109465A82ED57FF0563B3F1) correta.
 
-1. Selecione o menu Experience Cloud ( ![](assets/menu-icon.png)) e, em seguida, **[!UICONTROL Administração]**.
+1. Selecione o menu Experience Cloud (![](assets/menu-icon.png)) e, em seguida, **[!UICONTROL Administração]**.
 
    Caso o link **[!UICONTROL Administration]** não apareça, você não é um administrador da Experience Cloud para a [organização](organizations.md#topic_C31CB834F109465A82ED57FF0563B3F1) exibida. Para obter ajuda para se tornar um administrador, entre em contato com o Atendimento ao cliente ou com um administrador atual da Experience Cloud na sua empresa.
 1. Selecione **[!UICONTROL Administração]**.
@@ -43,7 +43,7 @@ Faça logon e verifique se você está na [organização](organizations.md#topic
 | [Iniciar o Admin Console](admin-getting-started.md) | O Admin Console é o local central para gerenciar usuários e direitos de produtos da Adobe em toda a organização.<br>Também é possível fazer logon no Admin Console por meio de um [link direto](https://adminconsole.adobe.com). |
 | [Gerenciar usuários da Creative Cloud](t-admin-add-cc-user.md) | Os ativos do Experience Cloud permitem que os profissionais de marketing compartilhem, sincronizem e colaborem em pastas com designers e outros ativos criativos usando o Creative Cloud. Gerencie aqui os usuários da Creative Cloud aprovados para colaborar com sua organização. |
 | [Mapear os conjuntos de relatórios](core-services.md) | (Somente no Analytics) Os serviços principais da Experience Cloud estão associados a uma organização em vez de a um conjunto de relatórios individual. Para garantir o funcionamento correto desses serviços, cada conjunto de relatórios do Analytics deve ser mapeado para uma organização. (Essa tarefa faz parte de um fluxo de trabalho mais amplo para [habilitar o Analytics para os serviço principais](core-services.md#concept_07ED1D5C64234E77976E6D572E78FB9C)). |
-| [ID da organização](organizations.md) | O *ID da organização* é encontrada no URL quando estiver no Admin Console. Você também pode visualizá-la no [!UICONTROL Depurador de dados do usuário] pop-up (`ctrl+i` ou `cmd+i`) de qualquer página em `https://experience.adobe.com`. Essa ID é a ID associada à empresa provisionada pela Experience Cloud. A ID é uma sequência de 24 caracteres alfanuméricos seguidos por (e deve incluir) @AdobeOrg. |
+| [ID da organização](organizations.md) | A *ID da organização* é encontrada no URL quando estiver no Admin Console. Você também pode visualizá-la no pop-up do [!UICONTROL Depurador de dados do usuário] (`ctrl+i` ou `cmd+i`) de qualquer página em `https://experience.adobe.com`. Essa ID é a ID associada à empresa provisionada pela Experience Cloud. A ID é uma sequência de 24 caracteres alfanuméricos seguidos por (e deve incluir) @AdobeOrg. |
 
 {style=&quot;table-layout:auto&quot;}
 

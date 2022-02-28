@@ -9,16 +9,20 @@ topic: Administration
 role: Admin
 level: Experienced
 exl-id: 11cc5005-8ec0-4308-bc94-0f78666ea645
-source-git-commit: 275588a8101e953d5087a44e4588b239be477bd3
+source-git-commit: ae43fd46ec2e525656994b8d2d843d095cfe2daf
 workflow-type: tm+mt
-source-wordcount: '547'
-ht-degree: 98%
+source-wordcount: '554'
+ht-degree: 96%
 
 ---
 
 # Atualizações da documentação - Experience Cloud
 
 Informações sobre atualizações na documentação do produto da Experience Cloud.
+
+**Atualizado em 28/02/2022**
+
+Adição de uma página para [Pesquisa unificada](search-experience-cloud.md)
 
 **Atualizado em 8/2/2022**
 

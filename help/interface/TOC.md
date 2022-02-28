@@ -4,10 +4,10 @@ user-guide-title: 'Componentes da interface central da Experience Cloud '
 breadcrumb-title: Componentes da interface central da Experience Cloud
 user-guide-description: Saiba mais sobre a interface do Experience Cloud, configure as preferências, pesquise e descubra objetos comerciais. Obtenha ajuda sobre o gerenciamento de usuários e produtos, atributos do cliente, biblioteca de público-alvo, cookies e ativos da Experience Cloud.
 index: true
-source-git-commit: ae14748aa7b0f0d803d48fe980a6743f53d996ab
-workflow-type: ht
-source-wordcount: '344'
-ht-degree: 100%
+source-git-commit: ce728958df73605700a11c7aa2b95479a5632f9e
+workflow-type: tm+mt
+source-wordcount: '349'
+ht-degree: 98%
 
 ---
 
@@ -17,6 +17,7 @@ ht-degree: 100%
 + [Guia de componentes de interface central do Experience Cloud](experience-cloud.md)
 + Serviços da Experience Cloud {#services}
    + [Serviços da Experience Cloud](core-services-landing.md)
+   + [Pesquisa Unificada no Experience Cloud](search-experience-cloud.md)
    + [Habilitar a implementação para executar serviços entre aplicativos](core-services.md)
    + Biblioteca de público-alvo da Experience Cloud {#audiences}
       + [Públicos-alvo da Experience Cloud](audience-library.md)

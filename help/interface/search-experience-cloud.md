@@ -7,17 +7,17 @@ feature: Central Interface Components
 topic: Administration
 role: Admin
 level: Beginner
-source-git-commit: ef3da61a2894eb278d9c20a784f37607f1af0e27
+source-git-commit: 7e7129fbf0c3407dac3a91b645bddc878b1a7d45
 workflow-type: tm+mt
-source-wordcount: '644'
-ht-degree: 2%
+source-wordcount: '655'
+ht-degree: 1%
 
 ---
 
 
 # [!UICONTROL Pesquisa unificada] para objetos e entidades {#globally-search}
 
-O [!UICONTROL Pesquisa unificada] a pesquisa permite que você encontre objetos ou entidades comerciais pesquisáveis em uma experiência contínua, consistente e com um clique. Essa pesquisa exibe os objetos acessados recentemente.
+O [!UICONTROL Pesquisa unificada] a pesquisa permite que você encontre objetos ou entidades comerciais pesquisáveis em uma experiência contínua, consistente e com um clique. Essa pesquisa também supera os objetos acessados recentemente.
 
 ![Pesquisar objetos e entidades globalmente](assets/platform-search.png)
 
@@ -44,16 +44,16 @@ Permissões de recursos e objetos Correspondência de porcentagem Se houver uma 
 
 Os objetos de negócios pesquisáveis incluem:
 
-* Segmentos (Nome, Descrição)
-* Esquema (Nome, Descrição)
-* Conjuntos de dados (Nome, Descrição)
-* Fontes (Nome, Descrição)
-* Destinos (Nome, Descrição)
-* Consultas (Nome, Descrição)
-* Mensagens (Nome, Descrição)
-* Ofertas (Nome, Descrição)
-* Componentes (Nome, Descrição)
-* Jornadas (Nome, Descrição)
+* Segmentos (Nome, Descrição, ID)
+* Esquema (Nome, Descrição, ID)
+* Conjuntos de dados (Nome, Descrição, ID)
+* Fontes (Nome, Descrição, ID)
+* Destinos (Nome, Descrição, ID)
+* Consultas (Nome, Descrição, ID)
+* Mensagens (Nome, Descrição, ID)
+* Ofertas (Nome, Descrição, ID)
+* Componentes (Nome, Descrição, ID)
+* Jornadas (Nome, Descrição, ID)
 
 Se uma palavra-chave corresponder a uma página de navegação, você poderá obter um link de acesso rápido para os conjuntos de dados de exemplo da página de navegação. A seção de principais resultados mostra os 30 principais resultados.
 

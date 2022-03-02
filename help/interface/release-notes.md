@@ -10,9 +10,9 @@ role: Admin
 level: Experienced
 exl-id: b71d144c-a097-4cdb-9721-671519d38aff
 source-git-commit: f03a0702b1f95dd8dfafbe84afc85e48f2aa9e5c
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '4606'
-ht-degree: 98%
+ht-degree: 100%
 
 ---
 
@@ -24,12 +24,12 @@ Para obter uma lista de atualizações de documentação, consulte [Experience C
 
 Para obter notas de versão que abrangem todos os aplicativos, consulte [Notas de versão da Experience Cloud](https://experienceleague.adobe.com/docs/release-notes/experience-cloud/current.html?lang=pt-BR).
 
-## Fevereiro - 2022
+## Fevereiro de 2022
 
 | Recurso | Descrição |
 | ------- |-------|
-| Atalhos (**[!UICONTROL Recentes]**) adicionado a [Experience Cloud](https://experience.adobe.com/home) home | Você pode acessar atalhos para o Journey Optimizer e o Experience Platform mais recentes funcionarem no novo _Recentes_ na página de aterrissagem. Esta atualização também inclui melhorias gerais de layout e capacidade de resposta. |
-| **[!UICONTROL Sandboxes]** movido para a barra de cabeçalho | O indicador Sandboxes agora é integrado no cabeçalho para todos os aplicativos de interface do Experience Platform. Consulte [Sandboxes](https://experienceleague.adobe.com/docs/experience-platform/sandbox/ui/user-guide.html?lang=pt-BR) no Experience Platform para obter mais informações. |
+| Atalhos (**[!UICONTROL Recentes]**) foram adicionados a página inicial da [Experience Cloud](https://experience.adobe.com/home?lang=pt-BR) | Você pode acessar atalhos para os seus trabalhos mais recentes do Journey Optimizer e da Experience Platform através do novo cabeçalho _Recentes_ na página de aterrissagem. Esta atualização também inclui melhorias gerais de layout e capacidade de resposta. |
+| As **[!UICONTROL Sandboxes]** foram movidas para a barra de cabeçalho | Agora, o indicador de Sandbox está integrado no cabeçalho para todos os aplicativos de interface da Experience Platform. Consulte [Sandboxes](https://experienceleague.adobe.com/docs/experience-platform/sandbox/ui/user-guide.html?lang=pt-BR) na Experience Platform para obter mais informações. |
 
 ## Novembro - 2021
 
@@ -182,7 +182,7 @@ A Pesquisa unificada foi atualizada para estar disponível no Journey Optimizer,
 
 **Correções**
 
-* Um problema que impedia a vinculação e o SSO para o Analytics foi corrigido. Esse problema exibia a mensagem &quot;Aviso: falha na mensagem de erro: ERRO IMS SSO: não é possível localizar a empresa vinculada.&quot;
+* Um problema que impedia a vinculação e o SSO para o Analytics foi corrigido. Esse problema exibia a mensagem &quot;Aviso: falha na mensagem de erro: ERROR IMS SSO: não é possível localizar a empresa vinculada.&quot;
 
 **Problema conhecido**
 

@@ -12,7 +12,7 @@ exl-id: 11cc5005-8ec0-4308-bc94-0f78666ea645
 source-git-commit: ae43fd46ec2e525656994b8d2d843d095cfe2daf
 workflow-type: tm+mt
 source-wordcount: '554'
-ht-degree: 96%
+ht-degree: 98%
 
 ---
 
@@ -24,9 +24,9 @@ Informações sobre atualizações na documentação do produto da Experience Cl
 
 Adição de uma página para [Pesquisa unificada](search-experience-cloud.md)
 
-**Atualizado em 8/2/2022**
+**Atualizado em 08/02/2022**
 
-Atualizações sobre como encontrar seu [ID da organização](organizations.md).
+Atualizações sobre como encontrar a sua [ID da organização](organizations.md).
 
 **Atualizado em 13/12/2021**
 

@@ -9,10 +9,10 @@ topic: Administration
 role: Admin
 level: Experienced
 exl-id: b71d144c-a097-4cdb-9721-671519d38aff
-source-git-commit: f03a0702b1f95dd8dfafbe84afc85e48f2aa9e5c
-workflow-type: ht
-source-wordcount: '4606'
-ht-degree: 100%
+source-git-commit: e2d1c99e191a14622126d868fce45c5ce88e571f
+workflow-type: tm+mt
+source-wordcount: '4640'
+ht-degree: 99%
 
 ---
 
@@ -23,6 +23,12 @@ Recursos, notas de versão e problemas conhecidos dos Componentes da interface c
 Para obter uma lista de atualizações de documentação, consulte [Experience Cloud](doc-updates.md#concept_4C8983FCD23848A4B1E4C2D99ED82784).
 
 Para obter notas de versão que abrangem todos os aplicativos, consulte [Notas de versão da Experience Cloud](https://experienceleague.adobe.com/docs/release-notes/experience-cloud/current.html?lang=pt-BR).
+
+## Março - 2022
+
+| Recurso | Descrição |
+| ------- |-------|
+| Acesso [!UICONTROL Recentes] através do Experience Platform e Journey Optimizer através da barra de pesquisa | Agora os usuários podem acessar objetos acessados recentemente de cada página do AEP e do AJO pela barra de pesquisa unificada. |
 
 ## Fevereiro de 2022
 

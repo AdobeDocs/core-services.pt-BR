@@ -8,10 +8,10 @@ topic: Administration
 role: Admin
 level: Experienced
 exl-id: 643c878f-c2f3-4c1d-ae3e-6a75c95520b4
-source-git-commit: 77e99651b49fa411a9af941bbf73b746e05a3609
+source-git-commit: 542d3b9a246ca9616a853f4b6711efea290398d7
 workflow-type: tm+mt
-source-wordcount: '383'
-ht-degree: 92%
+source-wordcount: '363'
+ht-degree: 95%
 
 ---
 
@@ -26,10 +26,9 @@ Os serviços de ativos incluem:
 
 Usar ativos melhora a consistência e a conformidade da marca, além de acelerar o tempo de comercialização. É possível simplificar os fluxos de trabalho nos aplicativos:
 
-* **[!DNL Social]**: publique nas propriedades sociais, Facebook, Twitter, LinkedIn, Google+.
-* **[!DNL Target]**: crie experiências para testes A/B e multivariados.
-* **[!DNL Media Optimizer]**: desenvolva unidades de publicidade em diferentes canais e campanhas.
-* **[!DNL Campaign]**: coloque ativos em informativos e campanhas por email.
+* **[!DNL Adobe Target]**: crie experiências para testes A/B e multivariados.
+* **[!DNL Ad Cloud]**: desenvolva unidades de publicidade em diferentes canais e campanhas.
+* **[!DNL Adobe Campaign]**: coloque ativos em informativos e campanhas por email.
 
 No [!UICONTROL Experience Cloud Assets], é possível:
 
@@ -55,7 +54,9 @@ A barra de ferramentas fornece acesso rápido aos recursos, incluindo Pesquisa, 
 
 ![Acessar a barra de ferramentas](assets/asset-tools.png)
 
-! Observe que para excluir ativos que foram usados ou que estão sendo usados no Target, será necessário remover todos os usos desse ativo.
+>[!NOTE]
+>
+>Os ativos devem ser removidos das atividades do Adobe Target antes que você possa excluí-los com êxito de [!DNL Target].
 
 ## Editar ativos {#section_CD3C55A9D4574455B94D0955391C8FEC}
 

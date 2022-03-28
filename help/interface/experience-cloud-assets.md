@@ -8,10 +8,10 @@ topic: Administration
 role: Admin
 level: Experienced
 exl-id: 643c878f-c2f3-4c1d-ae3e-6a75c95520b4
-source-git-commit: ae14748aa7b0f0d803d48fe980a6743f53d996ab
-workflow-type: ht
-source-wordcount: '356'
-ht-degree: 100%
+source-git-commit: 77e99651b49fa411a9af941bbf73b746e05a3609
+workflow-type: tm+mt
+source-wordcount: '383'
+ht-degree: 92%
 
 ---
 
@@ -54,6 +54,8 @@ Navegue até um ativo (ou diretório de ativo) e escolha **[!UICONTROL Seleciona
 A barra de ferramentas fornece acesso rápido aos recursos, incluindo Pesquisa, Linha do tempo, Representações, Edição, Anotação e Download.
 
 ![Acessar a barra de ferramentas](assets/asset-tools.png)
+
+! Observe que para excluir ativos que foram usados ou que estão sendo usados no Target, será necessário remover todos os usos desse ativo.
 
 ## Editar ativos {#section_CD3C55A9D4574455B94D0955391C8FEC}
 

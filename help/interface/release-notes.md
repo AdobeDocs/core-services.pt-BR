@@ -24,11 +24,11 @@ Para obter uma lista de atualizações de documentação, consulte [Experience C
 
 Para obter notas de versão que abrangem todos os aplicativos, consulte [Notas de versão da Experience Cloud](https://experienceleague.adobe.com/docs/release-notes/experience-cloud/current.html?lang=pt-BR).
 
-## Março - 2022
+## Março de 2022
 
 | Recurso | Descrição |
 | ------- |-------|
-| Acesso [!UICONTROL Recentes] através do Experience Platform e Journey Optimizer através da barra de pesquisa | Agora os usuários podem acessar objetos acessados recentemente de cada página do AEP e do AJO pela barra de pesquisa unificada. |
+| Acesse [!UICONTROL Recentes] na Experience Platform e no Journey Optimizer por meio da barra de pesquisa | Agora os usuários podem acessar objetos acessados recentemente de cada página da AEP e do AJO pela barra de pesquisa unificada. |
 
 ## Fevereiro de 2022
 

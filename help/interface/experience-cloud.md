@@ -8,10 +8,10 @@ topic: Administration
 role: Admin
 level: Experienced
 exl-id: aedad5cb-3282-4a97-8e7e-6d65f7b75ba9
-source-git-commit: ae43fd46ec2e525656994b8d2d843d095cfe2daf
-workflow-type: ht
-source-wordcount: '1285'
-ht-degree: 100%
+source-git-commit: 74d13f4467efeedb1098b627c912f8193d8ebb22
+workflow-type: tm+mt
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -175,7 +175,6 @@ Os guias relacionados da Experience Cloud incluem:
 * [Serviço da Experience Cloud ID](https://experienceleague.adobe.com/docs/id-service/using/home.html?lang=pt-BR)
 * [Coleta de dados do Experience Platform/Launch](https://experienceleague.adobe.com/docs/launch.html?lang=pt-BR)
 * [Experience Cloud Debugger](https://experienceleague.adobe.com/docs/debugger/using/experience-cloud-debugger.html?lang=pt-BR)
-* [API do Regulamento Geral sobre a Proteção de Dados (GDPR)](https://developer.adobe.com/apis/experiencecloud/gdpr.html)
 * [[!UICONTROL Dynamic Tag Management]](https://experienceleague.adobe.com/docs/experience-platform/tags/home.html?lang=pt-BR)
 
 ## Tutoriais
@@ -190,7 +189,7 @@ Aproveite os tutoriais de autoajuda e instruções rápidas na Experience League
 
 * [Documentação de produto de todos os aplicativos da Experience Cloud](https://experienceleague.adobe.com/docs/home.html?lang=pt-BR) - Buscar ajuda na Aprendizagem e Suporte da Experience Cloud
 * [Notas de versão e atualizações de produtos](https://experienceleague.adobe.com/docs/release-notes/experience-cloud/current.html?lang=pt-BR) - Novidades na Experience Cloud e assinatura para obter atualizações
-* [Tutoriais para implementar os serviços principais](https://experienceleague.adobe.com/docs/platform-learn/data-collection/overview.html?lang=pt-BR) - Explore vídeos e tutoriais sobre os serviços principais
+* [Tutoriais para implementar os serviços principais](https://experienceleague.adobe.com/docs/platform-learn/data-collection/overview.html?lang=en) - Explore vídeos e tutoriais sobre os serviços principais
 * [Ajuda de especialistas na Experience League](https://experienceleague.adobe.com/?lang=pt-BR) - Obtenha um aprendizado orientado de especialistas e da comunidade
 * [Educação e treinamento](https://helpx.adobe.com/br/learning.html?promoid=KAUDK) - interaja com a Adobe para garantir o aproveitamento máximo de nossos produtos
 * [Blog de experiência do cliente](https://blog.adobe.com/br/topics/digital-transformation) - Leia o blog da Experience Cloud

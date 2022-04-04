@@ -12,7 +12,7 @@ exl-id: b71d144c-a097-4cdb-9721-671519d38aff
 source-git-commit: 542d3b9a246ca9616a853f4b6711efea290398d7
 workflow-type: tm+mt
 source-wordcount: '4640'
-ht-degree: 99%
+ht-degree: 100%
 
 ---
 
@@ -386,7 +386,7 @@ Novos recursos e correções na colaboração e interface de compartilhamento da
 * Os usuários não podem compartilhar arquivos PowerPoint em quadros.
 * As alterações de grupo e de direito realizadas no Gerenciamento de usuários só têm efeito após um novo logon.
 * Alguns usuários podem ter problemas quando fazem upload de arquivos grandes para os Ativos da Experience Cloud.
-* Os usuários podem estar sem alguns links em seus cartões Experience Cloud do Advertising Cloud.
+* Os usuários podem estar sem alguns links em seus cartões Experience Cloud da Advertising Cloud. 
 * Alguns usuários administrativos podem enfrentar problemas quando vinculam suas contas depois de terem aceitado um convite para participarem da Experience Cloud.
 * A interface da Experience Cloud pode ter seu desempenho reduzido se usada de modo paralelo por muitos usuários.
 * Alguns usuários conseguem excluir um ativo antigo em vez de receberem uma notificação de erro.

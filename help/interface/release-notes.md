@@ -9,10 +9,10 @@ topic: Administration
 role: Admin
 level: Experienced
 exl-id: b71d144c-a097-4cdb-9721-671519d38aff
-source-git-commit: 542d3b9a246ca9616a853f4b6711efea290398d7
+source-git-commit: 23eee50163d309384378d9621a00d6286ad06b7b
 workflow-type: tm+mt
-source-wordcount: '4640'
-ht-degree: 100%
+source-wordcount: '4676'
+ht-degree: 99%
 
 ---
 
@@ -23,6 +23,14 @@ Recursos, notas de versão e problemas conhecidos dos Componentes da interface c
 Para obter uma lista de atualizações de documentação, consulte [Experience Cloud](doc-updates.md#concept_4C8983FCD23848A4B1E4C2D99ED82784).
 
 Para obter notas de versão que abrangem todos os aplicativos, consulte [Notas de versão da Experience Cloud](https://experienceleague.adobe.com/docs/release-notes/experience-cloud/current.html?lang=pt-BR).
+
+## Abril - 2022
+
+| Recurso | Descrição |
+| ------- |-------|
+| Pesquisa de linguagem natural | Obtenha respostas instantâneas para todas as suas perguntas de ajuda, por meio de uma única interface, por meio da Pesquisa unificada. Esse recurso está sempre disponível para você em todas as páginas do [!DNL Experience Platform] e [!DNL Journey Optimizer]. |
+
+{style=&quot;table-layout:auto&quot;}
 
 ## Março de 2022
 

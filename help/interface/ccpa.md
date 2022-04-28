@@ -1,15 +1,15 @@
 ---
 title: 'Suporte a atributos do cliente para a California Consumer Privacy Act '
 description: Saiba mais sobre o suporte de Atributos do cliente para o California Consumer Privacy Act.
-feature: Atributos do cliente
-topic: Administração
+feature: Customer Attributes
+topic: Administration
 role: Admin
 level: Experienced
 exl-id: 320defc7-2cd5-4481-955d-77cf6fbfef6d
-source-git-commit: 1fb1abc7311573f976f7e6b6ae67f60ada10a3e7
-workflow-type: ht
-source-wordcount: '437'
-ht-degree: 100%
+source-git-commit: 55c81003b94b7e033cddb6854b5c1f1c1ffa199c
+workflow-type: tm+mt
+source-wordcount: '418'
+ht-degree: 90%
 
 ---
 
@@ -37,11 +37,11 @@ Para fazer solicitações de acesso e exclusão de dados para [!UICONTROL Atribu
 
 1. Identificar o seguinte:
 
-   * ID organizacional IMS
+   * [ID da organização](#organizations.md)
    * ID de alias da Fonte de dados CRS na qual você deseja agir
    * ID do CRM do perfil no qual você deseja agir
 
-   Uma ID de organização IMS é uma sequência de 24 caracteres alfanuméricos anexada com @AdobeOrg. Se a sua equipe de marketing ou o administrador interno do sistema da Adobe não souber a ID de organização IMS, entre em contato com o Atendimento ao cliente da Adobe em gdprsupport@adobe.com. Você precisará da ID de organização IMS para enviar solicitações à API de privacidade.
+   Seu [ID da organização](#organizations.md) é uma sequência de 24 caracteres alfanuméricos anexada com @AdobeOrg. Você precisa da ID da organização para enviar solicitações à API de privacidade. Entre em contato com o Atendimento ao cliente da Adobe em `gdprsupport@adobe.com` caso não consiga localizar a ID.
 
 1. No [!UICONTROL Privacy Service], você pode enviar solicitações de acesso e exclusão aos Atributos do cliente e verificar o status das solicitações existentes.
 
@@ -50,7 +50,7 @@ Para fazer solicitações de acesso e exclusão de dados para [!UICONTROL Atribu
 &quot;company context&quot;:
 
 * &quot;namespace&quot;: **imsOrgID**
-* &quot;value&quot;: &lt;*valor da ID de org IMS*>
+* &quot;value&quot;: &lt;*seu valor de ID da organização*>
 
 &quot;users&quot;:
 

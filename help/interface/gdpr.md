@@ -1,15 +1,15 @@
 ---
 title: 'Suporte a Atributos do cliente para o Regulamento Geral sobre a Proteção de Dados '
 description: Saiba mais sobre o Suporte a atributos do cliente para o Regulamento Geral sobre a Proteção de Dados
-feature: Atributos do cliente
-topic: Administração
+feature: Customer Attributes
+topic: Administration
 role: Admin
 level: Experienced
 exl-id: 02417c0c-6780-4699-9470-f1685c3cd25d
-source-git-commit: 1fb1abc7311573f976f7e6b6ae67f60ada10a3e7
-workflow-type: ht
-source-wordcount: '433'
-ht-degree: 100%
+source-git-commit: 55c81003b94b7e033cddb6854b5c1f1c1ffa199c
+workflow-type: tm+mt
+source-wordcount: '416'
+ht-degree: 91%
 
 ---
 
@@ -27,7 +27,7 @@ A Adobe Experience Cloud atua como um processador de dados para todos os dados p
 
 Este documento descreve como os [!UICONTROL Atributos do cliente] oferecem suporte aos direitos de acesso e exclusão de dados do GDPR de seus titulares de dados usando a Adobe Experience Platform Privacy Service API e a interface do usuário do Privacy Service.
 
-Para obter mais informações sobre o que o GDPR significa para sua empresa, consulte [GDPR e sua empresa](https://business.adobe.com/br/privacy/general-data-protection-regulation.html).
+Para obter mais informações sobre o que o GDPR significa para sua empresa, consulte [GDPR e sua empresa](https://business.adobe.com/privacy/general-data-protection-regulation.html).
 
 ## Configuração necessária para enviar solicitações para [!UICONTROL Atributos do cliente]
 
@@ -35,11 +35,11 @@ Para fazer solicitações de acesso e exclusão de dados para [!UICONTROL Atribu
 
 1. Identificar o seguinte:
 
-   * ID organizacional IMS
+   * [ID da organização](#organizations.md)
    * ID de alias da Fonte de dados CRS na qual você deseja agir
    * ID do CRM do perfil no qual você deseja agir
 
-   Uma ID de organização IMS é uma sequência de 24 caracteres alfanuméricos anexada com @AdobeOrg. Se a sua equipe de marketing ou o administrador interno do sistema da Adobe não souber a ID de organização IMS, entre em contato com o Atendimento ao cliente da Adobe em gdprsupport@adobe.com. Você precisará da ID de organização IMS para enviar solicitações à API de privacidade.
+   Seu [ID da organização](#organizations.md) é uma sequência de 24 caracteres alfanuméricos anexada com @AdobeOrg. Você precisa da ID da organização para enviar solicitações à API de privacidade. Entre em contato com o Atendimento ao cliente da Adobe em `gdprsupport@adobe.com` caso não consiga localizar a ID.
 
 1. No [!UICONTROL Privacy Service], você pode enviar solicitações de acesso e exclusão aos Atributos do cliente e verificar o status das solicitações existentes.
 

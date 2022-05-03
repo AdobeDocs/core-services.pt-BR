@@ -10,9 +10,9 @@ role: Admin
 level: Experienced
 exl-id: b71d144c-a097-4cdb-9721-671519d38aff
 source-git-commit: 23eee50163d309384378d9621a00d6286ad06b7b
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '4676'
-ht-degree: 99%
+ht-degree: 100%
 
 ---
 
@@ -24,11 +24,11 @@ Para obter uma lista de atualizações de documentação, consulte [Experience C
 
 Para obter notas de versão que abrangem todos os aplicativos, consulte [Notas de versão da Experience Cloud](https://experienceleague.adobe.com/docs/release-notes/experience-cloud/current.html?lang=pt-BR).
 
-## Abril - 2022
+## Abril de 2022
 
 | Recurso | Descrição |
 | ------- |-------|
-| Pesquisa de linguagem natural | Obtenha respostas instantâneas para todas as suas perguntas de ajuda, por meio de uma única interface, por meio da Pesquisa unificada. Esse recurso está sempre disponível para você em todas as páginas do [!DNL Experience Platform] e [!DNL Journey Optimizer]. |
+| Pesquisa de linguagem natural | Obtenha respostas instantâneas para todas as suas perguntas de ajuda por meio de uma única interface com a Pesquisa unificada. Esse recurso está sempre disponível para você em todas as páginas da [!DNL Experience Platform] e [!DNL Journey Optimizer]. |
 
 {style=&quot;table-layout:auto&quot;}
 
@@ -394,7 +394,7 @@ Novos recursos e correções na colaboração e interface de compartilhamento da
 * Os usuários não podem compartilhar arquivos PowerPoint em quadros.
 * As alterações de grupo e de direito realizadas no Gerenciamento de usuários só têm efeito após um novo logon.
 * Alguns usuários podem ter problemas quando fazem upload de arquivos grandes para os Ativos da Experience Cloud.
-* Os usuários podem estar sem alguns links em seus cartões Experience Cloud da Advertising Cloud. 
+* Os usuários podem estar sem alguns links em seus cartões Experience Cloud da Advertising Cloud.
 * Alguns usuários administrativos podem enfrentar problemas quando vinculam suas contas depois de terem aceitado um convite para participarem da Experience Cloud.
 * A interface da Experience Cloud pode ter seu desempenho reduzido se usada de modo paralelo por muitos usuários.
 * Alguns usuários conseguem excluir um ativo antigo em vez de receberem uma notificação de erro.

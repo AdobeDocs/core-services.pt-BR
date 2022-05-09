@@ -10,9 +10,9 @@ role: Admin
 level: Experienced
 exl-id: 062576da-328e-4b46-9e71-5a25733d607a
 source-git-commit: 55c81003b94b7e033cddb6854b5c1f1c1ffa199c
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '776'
-ht-degree: 99%
+ht-degree: 100%
 
 ---
 
@@ -53,7 +53,7 @@ A funcionalidade fornecida pela interface da Experience Cloud agrega novo valor 
 
 ## Como resolver problemas sobre como migrar minha empresa?
 
-[Entre em contato com o Suporte da Adobe](https://experienceleague.adobe.com/?support-solution=General#support).
+[Entre em contato com o Suporte da Adobe](https://experienceleague.adobe.com/?support-solution=General&amp;lang=pt-BR#support).
 
 ## Como o [!DNL Adobe Support] pode acessar o meu ambiente de nuvem da Adobe para solucionar um problema?
 
@@ -82,7 +82,7 @@ O provisionamento na Experience Cloud significa que:
 
 Os administradores do Admin Console podem conceder acesso aos usuários. Os usuários recebem emails com instruções de logon.
 
-Talvez seja necessário [Entrar em contato com o suporte da Adobe](https://experienceleague.adobe.com/?support-solution=General#support) para verificar se a empresa foi totalmente provisionada.
+Talvez seja necessário [Entrar em contato com o suporte da Adobe](https://experienceleague.adobe.com/?support-solution=General&amp;lang=pt-BR#support) para verificar se a empresa foi totalmente provisionada.
 
 ## Onde um usuário pode gerenciar a vinculação de contas?
 
@@ -100,7 +100,7 @@ Uma [organização](organizations.md) é a entidade que permite ao administrador
 
 ## Onde posso encontrar minha ID da organização IMS?
 
-Consulte [Exibir a ID da organização](organizations.md) para obter detalhes.
+Consulte [Visualizar a ID da organização](organizations.md) para obter detalhes.
 
 ## O que devo fazer quando um dos meus usuários sair da empresa?
 

@@ -9,10 +9,10 @@ topic: Administration
 role: Admin
 level: Experienced
 exl-id: b71d144c-a097-4cdb-9721-671519d38aff
-source-git-commit: 23eee50163d309384378d9621a00d6286ad06b7b
-workflow-type: ht
-source-wordcount: '4676'
-ht-degree: 100%
+source-git-commit: 761a40f8beb1f9bc3ed74c0ae6c89eca2f6479bd
+workflow-type: tm+mt
+source-wordcount: '4750'
+ht-degree: 98%
 
 ---
 
@@ -24,11 +24,21 @@ Para obter uma lista de atualizações de documentação, consulte [Experience C
 
 Para obter notas de versão que abrangem todos os aplicativos, consulte [Notas de versão da Experience Cloud](https://experienceleague.adobe.com/docs/release-notes/experience-cloud/current.html?lang=pt-BR).
 
+## Julho - 2022
+
+Versão planejada: **11 de julho de 2022**
+
+| Recurso | Descrição |
+| ------- | ------- |
+| Página inicial unificada - Widget de acesso rápido | **Navegue mais rápido:** Agora você pode personalizar ainda mais sua experiência doméstica e decidir quais aplicativos estão nas pontas dos dedos. Use o novo recurso de pinagem para selecionar quais aplicativos aparecem frente e centro em seu [!UICONTROL Acesso rápido]. <br>**Mantenha-se informado com os pinos inteligentes:** Os novos aplicativos agora são mais fáceis de encontrar. Aplicativos recentemente atribuídos exibem um _Novo_ símbolo e autofixar em [!UICONTROL Acesso rápido]. |
+
+{style=&quot;table-layout:auto&quot;}
+
 ## Abril de 2022
 
 | Recurso | Descrição |
 | ------- |-------|
-| Pesquisa de linguagem natural | Obtenha respostas instantâneas para todas as suas perguntas de ajuda por meio de uma única interface com a Pesquisa unificada. Esse recurso está sempre disponível para você em todas as páginas da [!DNL Experience Platform] e [!DNL Journey Optimizer]. |
+| Pesquisa natural de idioma | Obtenha respostas instantâneas para todas as suas perguntas de ajuda por meio de uma única interface com a Pesquisa unificada. Esse recurso está sempre disponível para você em todas as páginas da [!DNL Experience Platform] e [!DNL Journey Optimizer]. |
 
 {style=&quot;table-layout:auto&quot;}
 

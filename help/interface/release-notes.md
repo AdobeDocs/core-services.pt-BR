@@ -10,9 +10,9 @@ role: Admin
 level: Experienced
 exl-id: b71d144c-a097-4cdb-9721-671519d38aff
 source-git-commit: 761a40f8beb1f9bc3ed74c0ae6c89eca2f6479bd
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '4750'
-ht-degree: 98%
+ht-degree: 100%
 
 ---
 
@@ -26,11 +26,11 @@ Para obter notas de versão que abrangem todos os aplicativos, consulte [Notas d
 
 ## Julho - 2022
 
-Versão planejada: **11 de julho de 2022**
+Lançamento planejado: **11 de julho de 2022**
 
 | Recurso | Descrição |
 | ------- | ------- |
-| Página inicial unificada - Widget de acesso rápido | **Navegue mais rápido:** Agora você pode personalizar ainda mais sua experiência doméstica e decidir quais aplicativos estão nas pontas dos dedos. Use o novo recurso de pinagem para selecionar quais aplicativos aparecem frente e centro em seu [!UICONTROL Acesso rápido]. <br>**Mantenha-se informado com os pinos inteligentes:** Os novos aplicativos agora são mais fáceis de encontrar. Aplicativos recentemente atribuídos exibem um _Novo_ símbolo e autofixar em [!UICONTROL Acesso rápido]. |
+| Página inicial unificada - Widget de acesso rápido | **Navegue mais rápido:** agora, você pode personalizar ainda mais a experiência da sua página inicial e decidir quais aplicativos estarão à disposição. Use o novo recurso de fixação para selecionar quais aplicativos aparecem com destaque no [!UICONTROL Acesso rápido]. <br>**Mantenha-se informado com a fixação inteligente:** os novos aplicativos agora são mais fáceis de encontrar. Os aplicativos recentemente atribuídos exibem um emblema de _Novo_ e são fixados automaticamente no [!UICONTROL Acesso rápido]. |
 
 {style=&quot;table-layout:auto&quot;}
 

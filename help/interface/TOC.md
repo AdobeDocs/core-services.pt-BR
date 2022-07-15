@@ -6,8 +6,8 @@ user-guide-description: Saiba mais sobre a interface do Experience Cloud, config
 index: true
 source-git-commit: ce728958df73605700a11c7aa2b95479a5632f9e
 workflow-type: tm+mt
-source-wordcount: '349'
-ht-degree: 98%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -17,7 +17,7 @@ ht-degree: 98%
 + [Guia de componentes de interface central do Experience Cloud](experience-cloud.md)
 + Serviços da Experience Cloud {#services}
    + [Serviços da Experience Cloud](core-services-landing.md)
-   + [Pesquisa Unificada no Experience Cloud](search-experience-cloud.md)
+   + [Pesquisa unificada na Experience Cloud](search-experience-cloud.md)
    + [Habilitar a implementação para executar serviços entre aplicativos](core-services.md)
    + Biblioteca de público-alvo da Experience Cloud {#audiences}
       + [Públicos-alvo da Experience Cloud](audience-library.md)

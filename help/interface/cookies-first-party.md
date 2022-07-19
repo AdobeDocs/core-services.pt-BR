@@ -10,10 +10,10 @@ topic: Administration
 role: Admin
 level: Experienced
 exl-id: e15abde5-8027-4aed-a0c1-8a6fc248db5e
-source-git-commit: 8ec1639479777a67d351dff699815fde982a968e
+source-git-commit: 00a6aa791dd08c2907cd09c17b7e2a1e62b060c1
 workflow-type: tm+mt
-source-wordcount: '1616'
-ht-degree: 93%
+source-wordcount: '1604'
+ht-degree: 91%
 
 ---
 
@@ -59,7 +59,7 @@ Cada campo é descrito no documento com exemplos.
    **Seguro** - por exemplo, o nome de host `smetrics.example.com` aponta para: `example.com.adobedc.net`.
 
 >[!NOTE]
-> Anteriormente, o Adobe recomendava que os clientes configurassem dois CNAME, um para HTTPS e outro para HTTP. Como é uma prática recomendada criptografar o tráfego e a maioria dos navegadores está desencorajando o HTTP, não recomendamos mais configurar um CNAME para HTTP. Se precisar configurar seu CNAME para HTTP, entre em contato com o Atendimento ao cliente do Adobe.
+> Anteriormente, o Adobe recomendava que os clientes configurassem dois CNAME, um para HTTPS e outro para HTTP. Como é uma prática recomendada criptografar o tráfego e a maioria dos navegadores está desencorajando o HTTP, não recomendamos mais configurar um CNAME para HTTP. Entre em contato com o Atendimento ao cliente do Adobe para configurar o CNAME para HTTP.
 
 1. Quando o CNAME estiver em vigor, a Adobe trabalhará com a DigiCert para comprar e instalar um certificado nos servidores de produção da Adobe.
 
@@ -79,8 +79,8 @@ Os certificados SSL expiram todo ano, o que significa que a Adobe deve comprar u
 |---|---|
 | **Esse processo é seguro?** | Sim, o programa Adobe Managed é mais seguro que nosso método antigo, pois nenhum certificado ou chave privada muda de mãos fora da Adobe e da autoridade de certificação emissora. |
 | **Como a Adobe pode comprar um certificado para o nosso domínio?** | O certificado só pode ser comprado quando você aponta o nome de host especificado (por exemplo, `telemetry.example.com`) para um nome de host da Adobe. Essa ação basicamente delega esse nome de host à Adobe e permite que a Adobe compre o certificado em seu nome. |
-| **É possível solicitar que o certificado seja revogado?** | Sim, como proprietário do domínio, você está autorizado a solicitar a revogação do certificado. Você só precisará abrir um ticket no Atendimento ao cliente para que isso seja concluído. |
-| **Esse certificado usará a criptografia SHA-2?** | Sim, a Adobe trabalhará com a DigiCert para emitir um certificado SHA-2. |
+| **É possível solicitar que o certificado seja revogado?** | Sim, como proprietário do domínio, você tem direito a solicitar que o certificado seja revogado. Abra um ticket no Atendimento ao cliente para fazer com que isso seja concluído. |
+| **Esse certificado usará a criptografia SHA-2?** | Sim, o Adobe trabalha com a DigiCert para emitir um certificado SHA-2. |
 | **Isso gera custo adicional?** | Não, a Adobe disponibiliza esse serviço para todos os clientes atuais da Adobe Digital Experience sem custo adicional. |
 
 {style=&quot;table-layout:auto&quot;}

@@ -1,8 +1,8 @@
 ---
-source-git-commit: 93f5eda7229990e3645b54efa2a172d7b57dcb9b
-workflow-type: ht
-source-wordcount: '427'
-ht-degree: 100%
+source-git-commit: 00a6aa791dd08c2907cd09c17b7e2a1e62b060c1
+workflow-type: tm+mt
+source-wordcount: '426'
+ht-degree: 92%
 
 ---
 # Contribuir com o artigo
@@ -27,7 +27,7 @@ As pequenas correções ou esclarecimentos que você envia para a documentação
 
 ### Grandes alterações ou novos artigos de membros da comunidade
 
-Se você fizer parte da comunidade da Adobe e quiser criar um novo artigo ou enviar grandes alterações, use a guia Problemas no repositório Git para enviar um problema e iniciar uma conversa com a equipe de documentação. Após concordar com um plano, você precisará trabalhar com um funcionário para ajudar a trazer o novo conteúdo por uma combinação de trabalho em repositórios públicos e privados.
+Se você fizer parte da comunidade da Adobe e quiser criar um novo artigo ou enviar grandes alterações, use a guia Problemas no repositório Git para enviar um problema e iniciar uma conversa com a equipe de documentação. Depois de concordar com um plano, você pode trabalhar com um funcionário para ajudá-lo a inserir o novo conteúdo por meio de uma combinação de trabalho nos repositórios públicos e privados.
 
 <!--
 If you submit a pull request with significant changes to documentation and code examples, you'll see a message in the pull request asking you to submit an online contribution license agreement (CLA). We need you to complete the online form before we can review your pull request.
@@ -56,5 +56,5 @@ Todos os artigos deste repositório usam GitHub Flavored Markdown. Se você não
 
 No repositório público, os rótulos automatizados são atribuídos a solicitações de pull para nos ajudar a gerenciar o fluxo de trabalho da solicitação de pull e saber o que está acontecendo com sua solicitação de pull:
 
-* **Alteração enviada para o autor**: o autor foi notificado sobre a solicitação de pull pendente.
-* **Pronto para mesclar**: pronto para ser revisado pela equipe de revisão da solicitação de pull.
+* **Change sent to author**: o autor foi notificado sobre a solicitação de pull pendente.
+* **ready-to-merge**: pronto para ser revisado pela equipe de revisão da solicitação de pull.

@@ -8,10 +8,10 @@ topic: Administration
 role: Admin
 level: Experienced
 exl-id: af9eda5b-d984-44b7-a7b3-52dfc4e03d8f
-source-git-commit: 0175ba36d29dcbcdcfd3e8ff9d359972c19ac448
+source-git-commit: 271d8496ee617f55741cb2e636eecc869e1ec284
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '1896'
+ht-degree: 85%
 
 ---
 
@@ -25,6 +25,52 @@ Saiba mais sobre como fazer logon no Admin Console, gerenciar permissões de usu
 
 Você pode ver uma lista classificável e filtrável de todos os usuários da Experience Cloud e seus detalhes na Ferramenta do administrador. Consulte [Exibir usuários da Experience Cloud na Ferramenta administrativa](admin-tool-experience-cloud.md).
 
+## Aviso de atualização de provisionamento{#provisioning}
+
+Atualizado: **20 de julho de 2022**
+
+>[!IMPORTANT]
+>
+>Revise o seguinte aviso sobre o provisionamento de Experience Cloud.
+
+A Adobe está atualizando seu provisionamento para fornecer a todos os clientes do Experience Cloud acesso a recursos essenciais que ajudam na interoperabilidade entre alguns produtos do Experience Cloud. Os usuários terão o Adobe Experience Platform como um novo direito adicionado às organizações de Experience Cloud, com [!UICONTROL Coleta de dados] como um serviço incluído.
+
+Adobe Experience Platform [!UICONTROL Coleta de dados] inclui [tags](https://experienceleague.adobe.com/docs/tags.html?lang=en) para um gerenciamento universal de tags simplificado, o oferece uma infraestrutura de dados de transmissão confiável, robusta e completa. As tags simplificam a coleta de dados da experiência do cliente e simplificam a entrega de experiência.
+
+**Mudanças no Admin Console**
+
+Os administradores podem ver alterações ou adições ao Admin Console da seguinte maneira:
+
+* A placa de produto Adobe Experience Platform no Admin Console incluirá:
+
+   * Places
+   * Controle
+   * Namespace de identidade
+   * Sandboxes
+   * Experience Data Model
+   * Schemas
+   * Datastreams
+   * ID de visitante
+
+   Para organizações que não estão usando o Experience Platform no momento, você verá a variável _Adobe Experience Platform_ produto no Admin Console, incluindo os recursos listados acima.
+
+   Para organizações que atualmente usam o Experience Platform, _Places_ agora será consolidado na placa Experience Platform.
+
+* A coleta de dados (antigo Launch) e a privacidade do Adobe Experience Platform continuarão a ser exibidas como cartões de produto separados dos outros recursos do Experience Platform.
+
+Para obter mais detalhes sobre os novos recursos, visite suas respectivas páginas no Experience League:
+
+* [Coleta de dados](https://experienceleague.adobe.com/docs/analytics/analyze/reports-analytics/reporting-interface/overview-data-collection.html)
+* [Places](https://experienceleague.adobe.com/docs/places/using/home.html?lang=pt-BR)
+* [Controle](https://experienceleague.adobe.com/docs/platform-learn/implement-mobile-sdk/app-implementation/assurance.html%3Flang%3Dde)
+* [Namespace de identidade](https://experienceleague.adobe.com/docs/experience-platform/identity/home.html?lang=pt-BR)
+* [Sandboxes](https://experienceleague.adobe.com/docs/experience-platform/sandbox/home.html?lang=pt-BR)
+* [Experience Data Model](https://experienceleague.adobe.com/docs/experience-platform/xdm/home.html?lang=pt-BR)
+* [Esquemas](https://experienceleague.adobe.com/docs/experience-platform/xdm/schema/composition.html?lang=pt-BR)
+* [Datastreams](https://experienceleague.adobe.com/docs/experience-platform/edge/datastreams/overview.html?lang=en)
+* [ID de visitante](https://experienceleague.adobe.com/docs/core-services/interface/services/core-services.html?lang=en#section_3C9F6DF37C654D939625BB4D485E4354)
+* [Privacidade](https://experienceleague.adobe.com/docs/experience-platform/privacy/home.html?lang=pt-BR)
+
 ## Autenticação de usuário da Experience Cloud (migração planejada) {#migration}
 
 A partir de fevereiro de 2022, a Adobe está atualizando seu sistema de gerenciamento de perfis para permitir que as organizações gerenciem melhor os direitos dos negócios a perfis individuais. Dessa forma, todos os usuários com um Perfil pessoal, que corresponde a uma Adobe ID individual (Type1), serão migrados para um novo Perfil comercial. Este perfil corresponde a uma _Business ID_ (Type2e).
@@ -35,7 +81,7 @@ Consulte [Tipos de identidade no Adobe Admin Console](https://helpx.adobe.com/br
 
 Quando for a hora da migração, os administradores da organização receberão um email de notificação 30 dias antes.
 
-* A migração será agendada entre as 22h e às 6h, com base no fuso horário principal da organização ou no fim de semana.
+* A migração será programada entre as 22 horas. - 6 horas da manhã, com base no fuso horário principal da organização ou no fim de semana.
 * Durante a migração, o aplicativo da Experience Cloud pode ficar inacessível por cerca de 15 minutos e o Admin Console por até 30 minutos. Caso contrário, essa migração será sem interrupções.
 
 ### Alterações após a migração

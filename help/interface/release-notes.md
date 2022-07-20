@@ -9,10 +9,10 @@ topic: Administration
 role: Admin
 level: Experienced
 exl-id: b71d144c-a097-4cdb-9721-671519d38aff
-source-git-commit: 761a40f8beb1f9bc3ed74c0ae6c89eca2f6479bd
-workflow-type: ht
-source-wordcount: '4750'
-ht-degree: 100%
+source-git-commit: 271d8496ee617f55741cb2e636eecc869e1ec284
+workflow-type: tm+mt
+source-wordcount: '4767'
+ht-degree: 99%
 
 ---
 
@@ -26,11 +26,15 @@ Para obter notas de versão que abrangem todos os aplicativos, consulte [Notas d
 
 ## Julho - 2022
 
-Lançamento planejado: **11 de julho de 2022**
+**Aviso de atualização de provisionamento para administradores**
+
+* Consulte [Aviso de atualização de provisionamento](admin-getting-started.md#provisioning) para obter atualizações importantes no provisionamento no Experience Cloud.
+
+Versão planejada: **11 de julho de 2022**
 
 | Recurso | Descrição |
 | ------- | ------- |
-| Página inicial unificada - Widget de acesso rápido | **Navegue mais rápido:** agora, você pode personalizar ainda mais a experiência da sua página inicial e decidir quais aplicativos estarão à disposição. Use o novo recurso de fixação para selecionar quais aplicativos aparecem com destaque no [!UICONTROL Acesso rápido]. <br>**Mantenha-se informado com a fixação inteligente:** os novos aplicativos agora são mais fáceis de encontrar. Os aplicativos recentemente atribuídos exibem um emblema de _Novo_ e são fixados automaticamente no [!UICONTROL Acesso rápido]. |
+| Página inicial unificada - Dispositivo de acesso rápido | **Navegue mais rápido:** agora você pode personalizar ainda mais sua experiência na página inicial e decidir quais aplicativos ficarão mais acessíveis. Use o novo recurso de fixação para selecionar quais aplicativos aparecem na frente e no centro no [!UICONTROL Acesso rápido]. <br>**Mantenha-se informado com a fixação inteligente:** agora ficou mais fácil encontrar os novos aplicativos. Aplicativos recentemente atribuídos exibem um símbolo _Novo_ e são fixados automaticamente no [!UICONTROL Acesso rápido]. |
 
 {style=&quot;table-layout:auto&quot;}
 

@@ -1,8 +1,8 @@
 ---
 source-git-commit: 00a6aa791dd08c2907cd09c17b7e2a1e62b060c1
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '426'
-ht-degree: 92%
+ht-degree: 100%
 
 ---
 # Contribuir com o artigo
@@ -27,7 +27,7 @@ As pequenas correções ou esclarecimentos que você envia para a documentação
 
 ### Grandes alterações ou novos artigos de membros da comunidade
 
-Se você fizer parte da comunidade da Adobe e quiser criar um novo artigo ou enviar grandes alterações, use a guia Problemas no repositório Git para enviar um problema e iniciar uma conversa com a equipe de documentação. Depois de concordar com um plano, você pode trabalhar com um funcionário para ajudá-lo a inserir o novo conteúdo por meio de uma combinação de trabalho nos repositórios públicos e privados.
+Se você fizer parte da comunidade da Adobe e quiser criar um novo artigo ou enviar grandes alterações, use a guia Problemas no repositório Git para enviar um problema e iniciar uma conversa com a equipe de documentação. Depois de concordar com um plano, você poderá contar com a ajuda de um funcionário para inserir o novo conteúdo, trabalhando nos repositórios públicos e privados.
 
 <!--
 If you submit a pull request with significant changes to documentation and code examples, you'll see a message in the pull request asking you to submit an online contribution license agreement (CLA). We need you to complete the online form before we can review your pull request.

@@ -10,9 +10,9 @@ role: Admin
 level: Experienced
 exl-id: 062576da-328e-4b46-9e71-5a25733d607a
 source-git-commit: 00a6aa791dd08c2907cd09c17b7e2a1e62b060c1
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '775'
-ht-degree: 94%
+ht-degree: 100%
 
 ---
 
@@ -47,13 +47,13 @@ Para obter mais ajuda, [entre em contato com o Suporte da Adobe](https://experie
 
 Não. A Experience Cloud está incluída sem custos adicionais. No entanto, certos serviços principais podem ter custos adicionais.
 
-## Por que minha empresa deve fazer logon por meio da interface do Experience Cloud?
+## Por que minha empresa deve fazer logon por meio da interface da Experience Cloud?
 
 A funcionalidade fornecida pela interface da Experience Cloud agrega novo valor à empresa. Também é o caminho padrão para acessar aplicativos daqui em diante, e eventualmente substituirá outros fluxos individuais de logon para aplicativos. Fazer logon pela Experience Cloud possibilitará uma transição mais suave posteriormente.
 
 ## Como resolver problemas sobre como migrar minha empresa?
 
-[Entre em contato com o Suporte da Adobe](https://experienceleague.adobe.com/?support-solution=General#support).
+[Entre em contato com o Suporte da Adobe](https://experienceleague.adobe.com/?support-solution=General&amp;lang=pt-BR#support).
 
 ## Como o [!DNL Adobe Support] pode acessar o meu ambiente de nuvem da Adobe para solucionar um problema?
 
@@ -82,11 +82,11 @@ O provisionamento na Experience Cloud significa que:
 
 Os administradores do Admin Console podem conceder acesso aos usuários. Os usuários recebem emails com instruções de logon.
 
-Talvez você tenha que [Entre em contato com o suporte ao Adobe](https://experienceleague.adobe.com/?support-solution=General#support) para verificar se sua empresa foi totalmente provisionada.
+Talvez seja necessário [entrar em contato com o suporte da Adobe](https://experienceleague.adobe.com/?support-solution=General&amp;lang=pt-BR#support) para verificar se a empresa foi totalmente provisionada.
 
 ## Onde um usuário pode gerenciar a vinculação de contas?
 
-Alguns usuários podem ser solicitados a vincular a conta do aplicativo (Analytics) à Adobe ID ou ao Enterprise ID.
+Alguns usuários podem precisar vincular a conta do aplicativo (Analytics) à Adobe ID ou à Enterprise ID.
 
 Consulte [Vincular a conta de um aplicativo a uma Adobe ID](organizations.md#task_FD389E78640848919E247AC5E95B8369).
 

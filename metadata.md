@@ -6,16 +6,16 @@ product: experience cloud
 solution: Experience Cloud Services
 feature-set: Experience Cloud Services
 solution-title: Experience Platform
-solution-hub-url: https://helpx.adobe.com/br/support/experience-cloud/core-services.html
+solution-hub-url: https://helpx.adobe.com/support/experience-cloud/core-services.html
 solution-icon: help/interface/assets/experience-cloud-logo-24.png
-getting-started-title: Introdução
-getting-started-url: https://helpx.adobe.com/br/experience-cloud-core-services/get-started.html
-tutorials-title: Tutoriais
+getting-started-title: Getting Started
+getting-started-url: https://helpx.adobe.com/experience-cloud-core-services/get-started.html
+tutorials-title: Tutorials
 tutorials-url: https://experienceleague.adobe.com/content/help/en/core-services-learn/tutorials/overview.html
-git-repo: https://git.corp.adobe.com/AdobeDocs/core-services.pt-BR
+git-repo: https://github.com/AdobeDocs/core-services.pt-BR
 source-git-commit: 918c72e675be85f1309dc697a668771b97bef324
-workflow-type: ht
-source-wordcount: '200'
+workflow-type: tm+mt
+source-wordcount: '178'
 ht-degree: 100%
 
 ---
@@ -39,7 +39,7 @@ O arquivo metadata.md inclui metadados de nível de repositório transmitidos pa
 
 No arquivo TOC.md
 
-| metadata | o que faz |
+| metadados | o que faz |
 |--- |--- |
 | user-guide-title | Usado no cabeçalho do artigo como link |
 | user-guide-url | Abre a página helpx hub |

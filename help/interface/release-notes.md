@@ -10,9 +10,9 @@ role: Admin
 level: Experienced
 exl-id: b71d144c-a097-4cdb-9721-671519d38aff
 source-git-commit: 271d8496ee617f55741cb2e636eecc869e1ec284
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '4767'
-ht-degree: 99%
+ht-degree: 100%
 
 ---
 
@@ -28,7 +28,7 @@ Para obter notas de versão que abrangem todos os aplicativos, consulte [Notas d
 
 **Aviso de atualização de provisionamento para administradores**
 
-* Consulte [Aviso de atualização de provisionamento](admin-getting-started.md#provisioning) para obter atualizações importantes no provisionamento no Experience Cloud.
+* Consulte [Aviso de atualização de provisionamento](admin-getting-started.md#provisioning) para obter atualizações importantes sobre provisionamento na Experience Cloud.
 
 Versão planejada: **11 de julho de 2022**
 

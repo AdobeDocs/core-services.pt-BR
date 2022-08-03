@@ -12,7 +12,7 @@ exl-id: 6eb58530-2a7a-48c7-9a5b-48a6e980a034
 source-git-commit: 00a6aa791dd08c2907cd09c17b7e2a1e62b060c1
 workflow-type: tm+mt
 source-wordcount: '574'
-ht-degree: 72%
+ht-degree: 78%
 
 ---
 
@@ -26,7 +26,7 @@ Um *organização* (ID da organização) é a entidade que permite ao administra
 
 Para verificar se você fez logon na organização correta, clique no avatar do perfil para ver o nome da organização. Se você tiver acesso a mais de uma organização, também poderá visualizar e mudar para outra organização diretamente na barra do cabeçalho.
 
-Se sua organização usa Federated IDs, o Experience Cloud permite fazer logon com o logon único da organização sem precisar inserir o endereço de email e a senha. Adicionar `#/sso:@domain` para o Experience Cloud URL (`https://experience.adobe.com`) para realizar essa tarefa.
+Se sua organização usa Federated IDs, a Experience Cloud permite conectar-se por meio do logon único de sua organização sem precisar inserir seu endereço de email e senha. Adicione `#/sso:@domain` ao URL da Experience Cloud (`https://experience.adobe.com`) para realizar essa tarefa.
 
 Por exemplo, para uma organização com Federated IDs e o domínio `adobecustomer.com`, defina o link do URL para `https://experience.adobe.com/#/sso:@adobecustomer.com`. Você também pode ir diretamente para um aplicativo específico marcando esse URL, anexado com o caminho do aplicativo. (Por exemplo, para o Adobe Analytics, `https://experience.adobe.com/#/sso:@adobecustomer.com/analytics`.)
 

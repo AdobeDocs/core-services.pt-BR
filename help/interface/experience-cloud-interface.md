@@ -1,15 +1,15 @@
 ---
-description: 'Saiba como fazer logon e sobre os componentes da interface central na Experience Cloud. Saiba mais sobre pesquisa global, suas preferências de conta, como navegar na interface e obter ajuda. '
+description: Saiba como fazer logon e sobre os componentes da interface central na Experience Cloud. Saiba mais sobre pesquisa global, suas preferências de conta, como navegar na interface e obter ajuda.
 solution: Experience Cloud
-title: 'Componentes da interface do usuário central da Experience Cloud '
-feature: Central Interface Components
+title: Componentes da interface do usuário central da Experience Cloud
+feature: "Central Interface Components"
 topic: Administration
 role: Admin, User
 level: Beginner, Intermediate, Experienced
-source-git-commit: 00a6aa791dd08c2907cd09c17b7e2a1e62b060c1
+source-git-commit: cb0f1fcfe0334f64ee38b659a0d4ef5c8dd3ab1e
 workflow-type: tm+mt
-source-wordcount: '734'
-ht-degree: 94%
+source-wordcount: '736'
+ht-degree: 96%
 
 ---
 
@@ -66,7 +66,7 @@ Faça logon e verifique se você está na [organização](organizations.md) corr
 
    Para verificar se você fez logon na [organização](organizations.md) correta, clique no avatar do perfil para ver o nome da organização. Se você tiver acesso a mais de uma organização, também poderá visualizar e mudar para outra organização diretamente na barra do cabeçalho.
 
-   Se sua organização usa Federated IDs, o Experience Cloud permite fazer logon com o logon único da organização sem precisar inserir o endereço de email e a senha. Adicionar `#/sso:@domain` para o Experience Cloud URL (`https://experience.adobe.com`) para realizar essa tarefa.
+   Se sua organização usa Federated IDs, a Experience Cloud permite conectar-se por meio do logon único de sua organização sem precisar inserir seu endereço de email e senha. Adicione `#/sso:@domain` ao URL da Experience Cloud (`https://experience.adobe.com`) para realizar essa tarefa.
 
    Por exemplo, para uma organização com Federated IDs e o domínio `adobecustomer.com`, defina o link do URL para `https://experience.adobe.com/#/sso:@adobecustomer.com`. Você também pode ir diretamente para um aplicativo específico marcando esse URL, anexado com o caminho do aplicativo. (Por exemplo, para Adobe Analytics, `https://experience.adobe.com/#/sso:@adobecustomer.com/analytics`.)
 
@@ -74,7 +74,7 @@ Faça logon e verifique se você está na [organização](organizations.md) corr
 
 Após fazer logon na Experience Cloud, você pode acessar rapidamente todos os aplicativos, serviços e organizações pelo cabeçalho unificado.
 
-Selecione o seletor de aplicativos ![](assets/menu-icon.png) para acessar os serviços da Experience Cloud que você tem.
+Selecione o seletor de aplicativos ![menu](assets/menu-icon.png) para acessar os serviços do Experience Cloud que você possui.
 
 ![Acessar aplicativos da Experience Cloud](assets/platform-core-services.png)
 
@@ -104,7 +104,7 @@ No menu de preferências da conta, é possível:
 
 As preferências da Experience Cloud incluem notificações, assinaturas e alertas.
 
-Selecione **[!UICONTROL Preferências]** no menu da conta ![](assets/preferences-icon-sm.png) para gerenciar as preferências.
+Selecionar **[!UICONTROL Preferências]** no menu da sua conta ![preferências](assets/preferences-icon-sm.png) para gerenciar preferências.
 
 ![Gerenciar a Experience Cloud](assets/preferences-page.png)
 

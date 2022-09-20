@@ -2,17 +2,17 @@
 description: Saiba como criar a fonte de atributo do cliente e fazer o upload dela para a Adobe Experience Cloud.
 keywords: Atributos do cliente;serviços principais
 solution: Experience Cloud
-title: 'Crie uma fonte de atributo do cliente e faça upload do arquivo de dados '
+title: Crie uma fonte de atributo do cliente e faça upload do arquivo de dados
 uuid: 53dca789-9a91-4385-839d-c9d1aa36b9be
 feature: Customer Attributes
 topic: Administration
 role: Admin
 level: Experienced
 exl-id: 21ed7c35-aac9-46f1-a50c-84e7c075209c
-source-git-commit: c073b3bacf5505c01017d4ba2507621df8ef877e
-workflow-type: ht
-source-wordcount: '1169'
-ht-degree: 100%
+source-git-commit: cb0f1fcfe0334f64ee38b659a0d4ef5c8dd3ab1e
+workflow-type: tm+mt
+source-wordcount: '1171'
+ht-degree: 99%
 
 ---
 
@@ -67,7 +67,7 @@ Siga essas etapas na página Criar nova fonte de atributo do cliente na Experien
 >
 >Ao criar, modificar ou excluir fontes de atributo do cliente, ocorre um atraso de cerca de uma hora antes de as IDs começarem a realizar a sincronização com a nova fonte de dados. Você deve ter direitos administrativos no Audience Manager para criar ou modificar fontes de atributo do cliente. Entre em contato com o Atendimento ao cliente do Audience Manager ou consulte para obter direitos administrativos.
 
-1. Na [!DNL Experience Cloud], selecione o ícone Menu ![](assets/menu-icon.png).
+1. No [!DNL Experience Cloud], selecione o Menu  ![menu](assets/menu-icon.png) ícone .
 1. Na **[!DNL Experience Platform]**, selecione **[!UICONTROL Pessoas]** > **[!UICONTROL Atributos de cliente]**.
 
    A página [!UICONTROL Atributos do cliente] é o local para gerenciar e editar as fontes de dados do atributo existentes.
@@ -120,7 +120,7 @@ Siga essas etapas na página Criar nova fonte de atributo do cliente na Experien
 
       **Gráfico do upload do arquivo**
 
-      ![](assets/file_upload_attributes.png)
+      ![atributos](assets/file_upload_attributes.png)
 
    * **[!UICONTROL Identificador exclusivo do cliente:]** Exibe quantos identificadores exclusivos você carregou para essa fonte de atributo.
 

@@ -4,17 +4,17 @@ keywords: integrações, Triggers
 seo-description: How to configure Experience Cloud Triggers.
 seo-title: Triggers
 solution: Experience Cloud
-title: 'Visão geral do Triggers '
+title: Visão geral do Triggers
 uuid: dab536e3-1969-4661-919e-5b15f423fecd
 feature: Admin Console
 topic: Administration
 role: Admin
 level: Experienced
 exl-id: 9dc26e2f-479b-49a5-93ce-b877559fea43
-source-git-commit: ae14748aa7b0f0d803d48fe980a6743f53d996ab
-workflow-type: ht
-source-wordcount: '702'
-ht-degree: 100%
+source-git-commit: cb0f1fcfe0334f64ee38b659a0d4ef5c8dd3ab1e
+workflow-type: tm+mt
+source-wordcount: '703'
+ht-degree: 98%
 
 ---
 
@@ -52,7 +52,7 @@ Crie um acionador e configure as condições para ele. Por exemplo, você pode e
 >
 >No momento, há um limite técnico de 100 acionadores.
 
-1. Na Experience Cloud, selecione ![](assets/menu-icon.png) e, em seguida, selecione **[!UICONTROL Coleção de dados/Launch]**.
+1. No Experience Cloud, selecione ![menu](assets/menu-icon.png), em seguida selecione **[!UICONTROL Coleta de dados/lançamento]**.
 2. No cartão [!UICONTROL Acionadores], selecione **[!UICONTROL Gerenciar acionadores]**.
 3. Selecione **[!UICONTROL Novo acionador]** e especifique o tipo de acionador:
 

@@ -2,17 +2,17 @@
 description: Saiba mais sobre como fazer logon na Adobe Experience Cloud, gerenciar senhas e notificações e especificar uma página de aterrissagem padrão.
 keywords: serviços principais, fazer logon na Experience Cloud
 solution: Experience Cloud
-title: 'Fazer logon e gerenciar as configurações do perfil '
+title: Fazer logon e gerenciar as configurações do perfil
 uuid: c1e13b99-0069-4fdb-8d72-ddcec3ed1121
 feature: Admin Console
 topic: Administration
 role: Admin
 level: Experienced
 exl-id: 12addbb6-a29b-4d20-ac8f-77e0846150b5
-source-git-commit: 542d3b9a246ca9616a853f4b6711efea290398d7
-workflow-type: ht
-source-wordcount: '972'
-ht-degree: 100%
+source-git-commit: cb0f1fcfe0334f64ee38b659a0d4ef5c8dd3ab1e
+workflow-type: tm+mt
+source-wordcount: '977'
+ht-degree: 96%
 
 ---
 
@@ -28,7 +28,7 @@ Fazer logon na Experience Cloud (em vez de fazer logon em um único aplicativo) 
 
 Faça logon e verifique se você está na [organização](organizations.md#topic_C31CB834F109465A82ED57FF0563B3F1) correta.
 
-1. Selecione o menu Experience Cloud (![](assets/menu-icon.png)) e, em seguida, **[!UICONTROL Administração]**.
+1. Selecione o menu Experience Cloud ( ![preferências](assets/menu-icon.png)) e, em seguida, selecione **[!UICONTROL Administração]**.
 
    Caso o link **[!UICONTROL Administration]** não apareça, você não é um administrador da Experience Cloud para a [organização](organizations.md#topic_C31CB834F109465A82ED57FF0563B3F1) exibida. Para obter ajuda para se tornar um administrador, entre em contato com o Atendimento ao cliente ou com um administrador atual da Experience Cloud na sua empresa.
 1. Selecione **[!UICONTROL Administração]**.
@@ -60,9 +60,9 @@ Ajuda para usuários não administrativos que fazem logon na Experience Cloud.
 
    O administrador da Experience Cloud pode ajudar você a determinar o tipo de conta (Adobe ID ou Enterprise ID).
 
-1. Na página de aterrissagem, selecione o ícone do seletor ![](assets/menu-icon.png) para acessar o menu suspenso.
+1. Na página de aterrissagem, selecione o ícone do seletor  ![menu](assets/menu-icon.png) para acessar o menu suspenso.
 
-   ![](assets/experience-cloud-core-services.png)
+   ![Todos os aplicativos](assets/experience-cloud-core-services.png)
 
    Os aplicativos e os serviços exibidos nesse menu dependem dos privilégios de aplicativo definidos pelo seu [administrador](admin-getting-started.md#topic_3FCB4099640647E3B2411ADBFCE81909).
 
@@ -82,7 +82,7 @@ Ajuda para usuários não administrativos que fazem logon na Experience Cloud.
 
 Receba notificações (por email ou no produto) sobre atualizações do sistema, avisos de manutenção, publicações, menções e ativos compartilhados. Além disso, também é possível especificar os produtos e aplicativos dos quais deseja receber notificações, incluindo o status de upload dos Atributos do cliente.
 
-Para navegar até Notificações, selecione o ícone **[!UICONTROL Notificações]** ![](assets/notifications-icon.png) e, em seguida, o ícone **[!UICONTROL Configurações]** ![](assets/icon_edit_board.png).
+Para navegar até Notificações, selecione o **[!UICONTROL Notificações]** ícone  ![notificações](assets/notifications-icon.png), em seguida, selecione o **[!UICONTROL Configurações]** ícone  ![editar](assets/icon_edit_board.png).
 
 Você pode classificar a tela Notificações com base nos tipos de mensagens importantes para você e pesquisar por elas. Você também pode:
 

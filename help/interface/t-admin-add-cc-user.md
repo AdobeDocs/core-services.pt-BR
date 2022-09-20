@@ -1,18 +1,18 @@
 ---
-description: 'Saiba mais sobre as ferramentas administrativas para gerenciar usuários aprovados da Creative Cloud na Experience Cloud. '
+description: Saiba mais sobre as ferramentas administrativas para gerenciar usuários aprovados da Creative Cloud na Experience Cloud.
 keywords: compartilhamento de ativos, Creative Cloud,
 solution: Experience Cloud
-title: 'Gerenciar usuários da Creative Cloud '
+title: Gerenciar usuários da Creative Cloud
 uuid: 11c4de67-40c5-4438-92fc-e23761be3f18
 feature: Assets
-topic: Administração
+topic: Administration
 role: Admin
 level: Experienced
 exl-id: f94e8b8f-d666-4aa1-a3b7-246026035b78
-source-git-commit: 1fb1abc7311573f976f7e6b6ae67f60ada10a3e7
-workflow-type: ht
-source-wordcount: '126'
-ht-degree: 100%
+source-git-commit: cb0f1fcfe0334f64ee38b659a0d4ef5c8dd3ab1e
+workflow-type: tm+mt
+source-wordcount: '127'
+ht-degree: 97%
 
 ---
 
@@ -26,6 +26,6 @@ A Experience Cloud fornece ferramentas administrativas para gerenciar usuários 
 
 1. Na Experience Cloud, selecione **[!UICONTROL Administração]** > **[!UICONTROL Gerenciar colaboradores da Creative Cloud Collaborators]**.
 1. Selecione **[!UICONTROL Compartilhamento de ativos da Creative Cloud]**.
-1. Selecione **[!UICONTROL Adicionar novo usuário]**.  ![](assets/mac_add_icon.png)
+1. Selecione **[!UICONTROL Adicionar novo usuário]**.  ![adicionar novo usuário](assets/mac_add_icon.png)
 1. Digite um email, nome de exibição, título e, como opção, adicione um Avatar.
 1. Selecione **[!UICONTROL Criar]**.

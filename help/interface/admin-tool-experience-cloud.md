@@ -1,18 +1,17 @@
 ---
 description: Saiba mais sobre a Ferramenta do administrador da Experience Cloud. Exiba uma lista que pode ser classificada e filtrada de todos os usuários e políticas da Experience Cloud.
-keywords: principais serviços
 application: Experience Cloud
-title: 'Exibir usuários e detalhes do usuário da Experience Cloud '
+title: Exibir usuários e detalhes do usuário da Experience Cloud
 index: true
 feature: Admin Console
 topic: Administration
 role: Admin
 level: Experienced
 exl-id: 127eecdd-3862-48ba-8cf6-a8082d2b7bae
-source-git-commit: ae14748aa7b0f0d803d48fe980a6743f53d996ab
-workflow-type: ht
-source-wordcount: '1270'
-ht-degree: 100%
+source-git-commit: eb2ad8a8255915be47b6002a78cc810b522170d2
+workflow-type: tm+mt
+source-wordcount: '1268'
+ht-degree: 94%
 
 ---
 
@@ -46,7 +45,7 @@ Esta página exibe a lista completa de usuários com acesso à Experience Cloud 
 | [!UICONTROL Email] | O endereço de email associado ao usuário. A coluna pode ser classificada como A->Z, Z->A. |
 | [!UICONTROL Tipo de ID] | O tipo de identidade da conta do usuário. O filtro pode ser aplicado a tipos de ID específicos da exibição. Consulte [Gerenciar tipos de identidade](https://helpx.adobe.com/br/enterprise/using/identity.html) para obter mais informações. |
 | [!UICONTROL Soluções] | Resumo dos aplicativos da Experience Cloud que o usuário pode acessar. Aplique filtros para restringir a lista de usuários com acesso específico ao aplicativo. |
-| [!UICONTROL Último logon] | Hora e data do logon mais recente do usuário na Experience Cloud. Essa coluna pode ser classificada por datas crescentes ou decrescentes. <br> **Importante:** a partir de 13 de janeiro de 2020, os últimos dados de logon do usuário serão mantidos por 365 dias. Essas informações são destinadas a mostrar a atividade de logon atual na Experience Cloud e não são uma recomendação para tomar medidas em contas inativas antes de 13 de janeiro de 2020. |
+| [!UICONTROL Último logon] | Hora e data do logon mais recente do usuário na Experience Cloud. Essa coluna pode ser classificada por datas crescentes ou decrescentes. <br> **Importante:** A partir de 13 de janeiro de 2020, os últimos dados de logon do usuário serão mantidos por 365 dias. Essas informações são destinadas a mostrar a atividade de logon atual na Experience Cloud e não são uma recomendação para tomar medidas em contas inativas antes de 13 de janeiro de 2020. |
 
 ## Personalizar a exibição da lista de usuários
 
@@ -60,7 +59,7 @@ Pesquise, classifique ou filtre as colunas para personalizar a lista de usuário
 |---------|----------|
 | Filtro de [!UICONTROL domínio de email] | Procure por cadeias de caracteres na coluna Email para restringir os resultados a um ou vários domínios. Adicione vários filtros pressionando Enter após cada termo de pesquisa. |
 | Filtro [!UICONTROL Tipo de ID] | Escolha dentre os Tipos de ID disponíveis. Vários tipos de ID podem ser usados como filtro. |
-| Filtro [!UICONTROL Solução] | Escolha dentre os aplicativos disponíveis. Vários filtros de aplicativo pesquisam resultados que contêm a Solução 1 `OR` Solução 2. |
+| Filtro de [!UICONTROL Solução] | Escolha dentre os aplicativos disponíveis. Vários filtros de aplicativo pesquisam resultados que contêm a Solução 1 `OR` Solução 2. |
 
 ## Exibir detalhes do usuário
 
@@ -68,7 +67,7 @@ Na página [!UICONTROL Usuários], para visualizar os detalhes do usuário, sele
 
 ![Exibir detalhes do usuário no Admin Console](assets/admin-tool-user-details.png)
 
-Uma exibição detalhada de cada usuário mostra detalhes importantes sobre o seu acesso ao aplicativo, as funções de administrador e de produto, além das informações acessadas recentemente.
+Uma exibição detalhada de cada usuário exibe detalhes importantes sobre o acesso ao aplicativo do usuário, as funções de administrador e de produto e as informações acessadas pela última vez.
 
 ## Seção Sobre
 
@@ -78,7 +77,7 @@ Esta seção exibe um resumo da conta do usuário incluindo:
 * Nome
 * Email
 * Nome de usuário (contas do Federated ID podem ter nomes de usuário diferentes do endereço de email)
-* [Tipo de ID](https://helpx.adobe.com/br/enterprise/using/identity.html)
+* [Tipo de ID](https://helpx.adobe.com/enterprise/using/identity.html)
 * País
 * Último logon
 
@@ -131,7 +130,7 @@ Na página [!UICONTROL Políticas], para exibir os detalhes de uma política, se
 
 ![Exibir detalhes da política no Admin Console](assets/admin-tool-policy-detail.png)
 
-Uma visualização detalhada de cada perfil de produto exibe detalhes importantes sobre os assuntos do perfil de produto (usuários, grupos e assim por diante). Ela também exibe permissões e recursos habilitados pelo perfil do produto.
+Uma exibição detalhada de cada perfil de produto exibe detalhes importantes sobre os assuntos do perfil de produto (usuários, grupos e assim por diante). Ela também exibe permissões e recursos habilitados pelo perfil do produto.
 
 Detalhes do perfil do produto podem ser exportados para arquivos CSV. A opção [!UICONTROL Exportar CSV] produz dois arquivos CSV:
 

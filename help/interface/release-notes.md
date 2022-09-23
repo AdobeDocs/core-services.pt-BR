@@ -1,18 +1,17 @@
 ---
-description: '"Recursos, notas de versão e problemas conhecidos mais recentes dos serviços da Experience Cloud, como atributos do cliente, públicos e gerenciamento de usuários."'
-keywords: principais serviços
+description: Saiba mais sobre os recursos mais recentes, as notas de versão e os problemas conhecidos dos serviços do Experience Cloud, como Atributos do cliente, Públicos-alvo e gerenciamento de usuários.
 solution: Experience Cloud
-title: 'Notas de versão cumulativas '
+title: Notas de versão cumulativas
 uuid: fcff8cc6-e587-4bf2-9a75-261d4eabc7d4
 feature: Customer Attributes
 topic: Administration
 role: Admin
 level: Experienced
 exl-id: b71d144c-a097-4cdb-9721-671519d38aff
-source-git-commit: 271d8496ee617f55741cb2e636eecc869e1ec284
-workflow-type: ht
-source-wordcount: '4767'
-ht-degree: 100%
+source-git-commit: eb2ad8a8255915be47b6002a78cc810b522170d2
+workflow-type: tm+mt
+source-wordcount: '4768'
+ht-degree: 99%
 
 ---
 
@@ -150,7 +149,7 @@ A Pesquisa unificada foi atualizada para estar disponível no Journey Optimizer,
 
 * Atualização do alternador de aplicativo para incluir o Marketo no conjunto de aplicativos da Experience Cloud, além de atualizações de marca na Experience Platform. (MCUI-6529)
 * Atualização da tela inicial da Experience Cloud para incluir links de navegação ao Feed e páginas de administração. (MCUI-6682)
-* Correção de um problema na definição de [!UICONTROL Acionador] para um uso correto da cláusula “curtir”. (MCUI-6611)
+* Correção de um problema no [!UICONTROL Acionador] definição para o uso correto da cláusula &quot;curtir&quot;. (MCUI-6611)
 * Melhorias nos atributos do cliente para um melhor logon no serviço de assinatura. (MCUI-6519)
 
 ## Versão 19.1.1 - 17 de janeiro de 2019

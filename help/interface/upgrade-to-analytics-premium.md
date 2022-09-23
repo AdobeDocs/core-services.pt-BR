@@ -1,17 +1,16 @@
 ---
 description: Saiba mais sobre os requisitos e o que esperar ao atualizar para o Analytics Premium.
-keywords: Atualização do Adobe Analytics Premium
 solution: Experience Cloud
-title: 'Atualização para o Analytics Premium e a Experience Cloud '
+title: Atualização para o Analytics Premium e a Experience Cloud
 topic: Administration
 uuid: 450a601c-d199-4e90-b525-19bd9f9576d2
 feature: Admin Console
 role: Admin
 level: Experienced
 exl-id: 746d396d-9629-42db-8c55-07d2d24e4611
-source-git-commit: ae14748aa7b0f0d803d48fe980a6743f53d996ab
-workflow-type: ht
-source-wordcount: '622'
+source-git-commit: eb2ad8a8255915be47b6002a78cc810b522170d2
+workflow-type: tm+mt
+source-wordcount: '618'
 ht-degree: 100%
 
 ---
@@ -56,9 +55,9 @@ Atualizar para Inteligência preditiva permite o [Analytics Premium](upgrade-to-
 
 | Produto | Atualizações |
 |---|---|
-| Reports &amp; Analytics | [Análise de contribuição](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/virtual-analyst/contribution-analysis/ca-tokens.html?lang=pt-BR) |
+| Reports &amp; Analytics | [Análise de contribuição](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/virtual-analyst/contribution-analysis/ca-tokens.html?lang=en) |
 | Data Workbench | Espaços de trabalho pré-criados para qualificações de público-alvo e marketing preditivo |
-| Analytics Platform | Live Stream (painéis e acionadores) |
+| Plataforma do Analytics | Live Stream (painéis e acionadores) |
 
 {style=&quot;table-layout:auto&quot;}
 
@@ -70,7 +69,7 @@ Atualização para ofertas do Customer 360 no [Analytics Premium](upgrade-to-ana
 |--- |--- |
 | [Atributos do cliente](attributes.md) | Atributos do cliente (análise e compartilhamento de segmentos) |
 | Data Workbench | <ul><li>Atributos derivados do cliente</li><li>Espaços de trabalho pré-criados para descoberta de públicos-alvo</li></ul> |
-| Analytics Platform | [Atributos do cliente](attributes.md) |
+| Plataforma do Analytics | [Atributos do cliente](attributes.md) |
 
 {style=&quot;table-layout:auto&quot;}
 

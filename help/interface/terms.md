@@ -1,19 +1,15 @@
 ---
 description: Saiba mais sobre os termos na Adobe Experience Cloud e como eles são diferentes na Creative Cloud.
-keywords: compartilhamento de ativos, serviços do público-alvo, Creative Cloud, serviços principais
-seo-description: null
-seo-title: Terminology
 solution: Experience Cloud
-title: 'Terminologia '
-uuid: 30253c0d-944b-4e15-b9af-093afa3ddc17
+title: Terminologia
 feature: Customer Attributes
 topic: Administration
 role: Admin
 level: Experienced
 exl-id: 3799f806-2794-43ab-9e70-06ee693871e7
-source-git-commit: ae14748aa7b0f0d803d48fe980a6743f53d996ab
-workflow-type: ht
-source-wordcount: '1453'
+source-git-commit: eb2ad8a8255915be47b6002a78cc810b522170d2
+workflow-type: tm+mt
+source-wordcount: '1445'
 ht-degree: 100%
 
 ---
@@ -45,9 +41,9 @@ Uma referência de terminologia para usuários da Experience Cloud e como esses 
 | Portfólio | Um conjunto de vários arquivos ou ativos. | Um contêiner de campanhas. |
 | Perfil de produto | Consulte [Gerenciar produtos e perfis](https://helpx.adobe.com/br/enterprise/using/manage-products.html). | Para que um usuário tenha direito a usar um produto ou serviço, ele precisa fazer parte de um perfil de produto. O Administrador de produto atribui licenças a um perfil de produto ao associá-lo a um plano adquirido.<br>Um usuário pode pertencer a diversos perfis de produto, cada um com licenças diferentes para o usuário. A qualificação final de um usuário é a união de todas as licenças conferidas por cada perfil de produto a esse usuário. |
 | Agendar | Pode se referir a uma sequência de cenas no Adobe Story ou a tarefas programadas no ColdFusion. | Na Experience Cloud, uma programação é a data inicial (dia, mês e ano) e a data final para ativar campanhas, canais e atividades. Os cronogramas de atividade têm uma granularidade de até um minuto. Alterar um agendamento cria um cartão.<br>São exemplos:<ul><li>Agendamentos de campanha</li><li>Agendamentos de canal</li><li>Agendamentos de atividade</li></ul> |
-| Segmento | N/D | A saída de um conjunto de regras para qualificar um público-alvo. No Analytics, os [segmentos](https://experienceleague.adobe.com/docs/analytics/components/segmentation/seg-home.html?lang=pt-BR) podem, opcionalmente, ser usados para definir um público-alvo que pode ser transmitido para a Experience Cloud. <br>No Audience Manager, um segmento é uma coleção de [características](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/traits/traits-overview.html?lang=pt-BR) e todos os critérios que qualificam visitantes para associação ou inclusão nesse segmento. Além disso, é uma coleção de pessoas que compartilham esses atributos comuns. |
+| Segmento | N/D | A saída de um conjunto de regras para qualificar um público-alvo. No Analytics, os [segmentos](https://experienceleague.adobe.com/docs/analytics/components/segmentation/seg-home.html?lang=en) podem, opcionalmente, ser usados para definir um público-alvo que pode ser transmitido para a Experience Cloud. <br>No Audience Manager, um segmento é uma coleção de [características](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/traits/traits-overview.html?lang=pt-BR) e todos os critérios que qualificam visitantes para associação ou inclusão nesse segmento. Além disso, é uma coleção de pessoas que compartilham esses atributos comuns. |
 | Compartilhamento | Na Creative Cloud, é possível compartilhar arquivos externamente nas plataformas (social, comunidades, emails e assim por diante). | Na Experience Cloud, é possível compartilhar um ativo somente como um cartão, nos quadros dentro da interface. O compartilhamento está disponível para aqueles que estão conectados ao site. |
 | Solução | Nenhum uso especial. | Na Experience Cloud, os aplicativos são conhecidos como produtos, tais como o Adobe Analytics, Adobe Social, Adobe Target e assim por diante. |
-| Característica | N/D | Um par de valores-chave, por exemplo, color=blue. No Audience Manager, as [características](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/traits/traits-overview.html?lang=pt-BR) são usadas para criar segmentos. |
+| Característica | N/D | Um par de valores-chave, por exemplo, color=blue. No Audience Manager, as [características](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/traits/traits-overview.html?lang=en) são usadas para criar segmentos. |
 
 {style=&quot;table-layout:auto&quot;}

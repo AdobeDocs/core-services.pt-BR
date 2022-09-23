@@ -1,6 +1,5 @@
 ---
 description: Saiba mais sobre como fazer logon na Adobe Experience Cloud, gerenciar senhas e notificações e especificar uma página de aterrissagem padrão.
-keywords: serviços principais, fazer logon na Experience Cloud
 solution: Experience Cloud
 title: Fazer logon e gerenciar as configurações do perfil
 uuid: c1e13b99-0069-4fdb-8d72-ddcec3ed1121
@@ -9,9 +8,9 @@ topic: Administration
 role: Admin
 level: Experienced
 exl-id: 12addbb6-a29b-4d20-ac8f-77e0846150b5
-source-git-commit: cb0f1fcfe0334f64ee38b659a0d4ef5c8dd3ab1e
+source-git-commit: eb2ad8a8255915be47b6002a78cc810b522170d2
 workflow-type: tm+mt
-source-wordcount: '977'
+source-wordcount: '970'
 ht-degree: 96%
 
 ---

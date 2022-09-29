@@ -9,7 +9,7 @@ role: Admin
 level: Experienced
 exl-id: 062576da-328e-4b46-9e71-5a25733d607a
 source-git-commit: eb2ad8a8255915be47b6002a78cc810b522170d2
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '765'
 ht-degree: 100%
 
@@ -52,7 +52,7 @@ A funcionalidade fornecida pela interface da Experience Cloud agrega novo valor 
 
 ## Como resolver problemas sobre como migrar minha empresa?
 
-[Entre em contato com o Suporte da Adobe](https://experienceleague.adobe.com/?support-solution=General#support).
+[Entre em contato com o Suporte da Adobe](https://experienceleague.adobe.com/?support-solution=General&amp;lang=pt-BR#support).
 
 ## Como o [!DNL Adobe Support] pode acessar o meu ambiente de nuvem da Adobe para solucionar um problema?
 
@@ -81,7 +81,7 @@ O provisionamento na Experience Cloud significa que:
 
 Os administradores do Admin Console podem conceder acesso aos usuários. Os usuários recebem emails com instruções de logon.
 
-Talvez seja necessário [entrar em contato com o suporte da Adobe](https://experienceleague.adobe.com/?support-solution=General#support) para verificar se a empresa foi totalmente provisionada.
+Talvez seja necessário [entrar em contato com o suporte da Adobe](https://experienceleague.adobe.com/?support-solution=General&amp;lang=pt-BR#support) para verificar se a empresa foi totalmente provisionada.
 
 ## Onde um usuário pode gerenciar a vinculação de contas?
 

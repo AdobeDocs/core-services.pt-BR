@@ -9,9 +9,9 @@ role: Admin
 level: Experienced
 exl-id: aedad5cb-3282-4a97-8e7e-6d65f7b75ba9
 source-git-commit: eb2ad8a8255915be47b6002a78cc810b522170d2
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '1285'
-ht-degree: 96%
+ht-degree: 100%
 
 ---
 
@@ -55,7 +55,7 @@ Faça logon e verifique se você está na [organização](organizations.md) corr
 
 Após fazer logon na Experience Cloud, você pode acessar rapidamente todos os aplicativos, serviços e organizações pelo cabeçalho unificado.
 
-Para acessar os aplicativos e os serviços do Experience Cloud fornecidos para você em sua organização, acesse o seletor de aplicativos ![menu](assets/menu-icon.png).
+Para acessar os aplicativos e serviços da Experience Cloud fornecidos para você em sua organização, acesse o ![menu](assets/menu-icon.png) do seletor de aplicativos.
 
 ![Acessar aplicativos da Experience Cloud](assets/platform-core-services.png)
 
@@ -114,7 +114,7 @@ As preferências da Experience Cloud incluem notificações, assinaturas e alert
 * Fazer logoff
 * Configurar as preferências, notificações e assinaturas da conta
 
-Para gerenciar preferências, selecione **[!UICONTROL Preferências]** no menu da sua conta ![preferências](assets/preferences-icon-sm.png).
+Para gerenciar as preferências, selecione **[!UICONTROL Preferências]** no menu ![preferências](assets/preferences-icon-sm.png) da conta.
 
 ![Perfil do usuário e preferências da conta](assets/preferences-page.png)
 
@@ -138,7 +138,7 @@ Selecione **[!UICONTROL Notificações]** para ser alertado de atualizações re
 
 ## Domínios Experience Cloud {#domains}
 
-O Experience Cloud usa os hosts a seguir para fornecer o aplicativo, melhorar o desempenho e a experiência do produto. O Adobe recomenda adicionar esses domínios à lista de permissões do firewall para obter uma experiência ideal. Domínios adicionais também podem estar em uso para aplicativos Experience Cloud específicos, como o Adobe Analytics. Consulte a documentação desses aplicativos para obter mais informações.
+O Experience Cloud usa os hosts a seguir para fornecer o aplicativo, melhorar o desempenho e a experiência do produto. A Adobe recomenda adicionar esses domínios à lista de permissões do firewall para obter uma experiência ideal. Domínios adicionais também podem estar em uso para aplicativos Experience Cloud específicos, como o Adobe Analytics. Consulte a documentação desses aplicativos para obter mais informações.
 
 | Tecnologia | Domínios |
 |--- |--- |
@@ -190,7 +190,7 @@ Aproveite os tutoriais de autoajuda e instruções rápidas na Experience League
 
 * [Documentação de produto de todos os aplicativos da Experience Cloud](https://experienceleague.adobe.com/docs/home.html?lang=pt-BR) - Buscar ajuda na Aprendizagem e Suporte da Experience Cloud
 * [Notas de versão e atualizações de produtos](https://experienceleague.adobe.com/docs/release-notes/experience-cloud/current.html?lang=pt-BR) - Novidades na Experience Cloud e assinatura para obter atualizações
-* [Tutoriais para implementar os serviços principais](https://experienceleague.adobe.com/docs/platform-learn/data-collection/overview.html?lang=en) - Explore vídeos e tutoriais sobre os serviços principais
+* [Tutoriais para implementar os serviços principais](https://experienceleague.adobe.com/docs/platform-learn/data-collection/overview.html?lang=pt-BR) - Explore vídeos e tutoriais sobre os serviços principais
 * [Ajuda de especialistas na Experience League](https://experienceleague.adobe.com/?lang=pt-BR) - Obtenha um aprendizado orientado de especialistas e da comunidade
 * [Educação e treinamento](https://helpx.adobe.com/br/learning.html?promoid=KAUDK) - interaja com a Adobe para garantir o aproveitamento máximo de nossos produtos
 * [Blog de experiência do cliente](https://blog.adobe.com/br/topics/digital-transformation) - Leia o blog da Experience Cloud

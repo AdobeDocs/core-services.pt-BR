@@ -9,10 +9,10 @@ topic: Administration
 role: Admin
 level: Experienced
 exl-id: e15abde5-8027-4aed-a0c1-8a6fc248db5e
-source-git-commit: eb2ad8a8255915be47b6002a78cc810b522170d2
+source-git-commit: 52796154e260648eb2fc57cc2b45453e9cb3227a
 workflow-type: tm+mt
-source-wordcount: '1602'
-ht-degree: 85%
+source-wordcount: '1615'
+ht-degree: 79%
 
 ---
 
@@ -49,28 +49,32 @@ A seguir, veja como implementar um novo certificado SSL próprio para coleção 
 
 1. Preencha o [Formulário de solicitação de domínio própri](/help/interface/cookies/assets/First_Part_Domain_Request_Form.xlsx) e abra um tíquete para o Atendimento ao cliente solicitando a configuração da coleção de dados próprios no programa gerenciado pela Adobe.
 Category: Adobe checklist 
-Cada campo é descrito no documento com exemplos.
 
-2. Crie registros CNAME (consulte as instruções abaixo).
+
+   Cada campo é descrito no documento com exemplos.
+
+1. Crie registros CNAME (consulte as instruções abaixo).
 
    Ao receber a solicitação, um representante do Atendimento ao cliente deve fornecer a você um registro CNAME. Esses registros devem ser configurados no servidor DNS da empresa antes que a Adobe possa comprar o certificado em seu nome. O CNAME é semelhante ao seguinte:
 
    **Seguro** - por exemplo, o nome de host `smetrics.example.com` aponta para: `example.com.adobedc.net`.
 
->[!NOTE]
-> Anteriormente, o Adobe recomendava que os clientes configurassem dois CNAME, um para HTTPS e outro para HTTP. Como é uma prática recomendada criptografar o tráfego e a maioria dos navegadores está desencorajando o HTTP, não recomendamos mais configurar um CNAME para HTTP. Entre em contato com o Atendimento ao cliente do Adobe para configurar o CNAME para HTTP.
+   >[!NOTE]
+   > Anteriormente, o Adobe recomendava que os clientes configurassem dois CNAMEs, um para HTTPS e outro para HTTP. Como é uma prática recomendada criptografar o tráfego e a maioria dos navegadores desencoraja bastante o HTTP, não recomendamos mais configurar um CNAME para HTTP. Entre em contato com o Atendimento ao cliente do Adobe para configurar o CNAME para HTTP.
 
 1. Quando o CNAME estiver em vigor, a Adobe trabalhará com a DigiCert para comprar e instalar um certificado nos servidores de produção da Adobe.
 
    Se tiver uma implementação existente, considere a Migração do visitante para manter os visitantes existentes. Depois que o certificado for enviado ao ambiente de produção do Adobe, você poderá atualizar as variáveis do servidor de rastreamento para os novos nomes de host. Ou seja, se o site não for seguro (HTTP), atualize o `s.trackingServer`. Se o site for seguro (HTTPS), atualize as variáveis `s.trackingServer` e `s.trackingServerSecure`.
 
-2. [Validar o encaminhamento do nome do host](#validate) (veja abaixo).
+1. [Validar o encaminhamento do nome do host](#validate) (veja abaixo).
 
-3. [Atualizar o código de implementação](#update) (veja abaixo).
+1. [Atualizar o código de implementação](#update) (veja abaixo).
 
-### Manutenção e Renovações
+### Manutenção e renovação
 
-Os certificados SSL expiram todo ano, o que significa que a Adobe deve comprar um novo certificado para cada implementação anualmente. Todos os usuários com suporte na organização receberão uma notificação por email sempre que uma implementação estiver próxima de expirar. Para que a Adobe renove o nome de host, um usuário suportado deverá responder ao email da Adobe e indicar que pretende continuar a usar o nome de host que está expirando para a coleta de dados. Nesse momento, a Adobe compra e instala automaticamente um novo certificado.
+Trinta dias antes de o certificado próprio expirar, o Adobe valida se o CNAME ainda é válido e está em uso. Nesse caso, o Adobe presume que você deseja continuar usando o serviço e renova automaticamente o certificado em seu nome.
+
+No momento, se o CNAME tiver sido removido e não for mais válido, o Adobe não renovará o certificado e a entrada em nosso sistema será marcada para remoção. Se o CNAME tiver sido removido, o Adobe sabe que o rastreamento não está ocorrendo usando esse URL e, portanto, é seguro remover.
 
 ### Perguntas frequentes
 

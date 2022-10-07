@@ -1,6 +1,6 @@
 ---
 title: Gerenciar usuários e produtos
-description: Faça logon no Admin Console e gerencie permissões de usuário e produtos do Experience Cloud (Perfis de produto). Saiba mais sobre como delegar direitos administrativos a usuários da Experience Cloud e sobre o suporte a navegador na Experience Cloud.
+description: Faça logon no Admin Console e gerencie permissões de usuário e produtos da Experience Cloud (Perfis de produto). Saiba mais sobre como delegar direitos administrativos a usuários da Experience Cloud e sobre o suporte a navegador na Experience Cloud.
 solution: Admin
 index: true
 feature: Admin Console
@@ -9,9 +9,9 @@ role: Admin
 level: Experienced
 exl-id: af9eda5b-d984-44b7-a7b3-52dfc4e03d8f
 source-git-commit: eb2ad8a8255915be47b6002a78cc810b522170d2
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '1891'
-ht-degree: 99%
+ht-degree: 100%
 
 ---
 
@@ -196,9 +196,9 @@ No Adobe Target, um espaço de trabalho é um Perfil de produto. Ele permite que
 
 Consulte:
 
-* [Permissões de usuário empresarial](https://experienceleague.adobe.com/docs/target/using/administer/manage-users/enterprise/property-channel.html?lang=en)
-* [Gerenciar produtos e perfis](https://helpx.adobe.com/enterprise/admin-guide.html/enterprise/using/manage-products.ug.html)
-* Vídeo: [Como configurar espaços de trabalho do Adobe Target no Adobe Admin Console](https://experienceleague.adobe.com/docs/experience-cloud-kcs/kbarticles/KA-17521.html?lang=en)
+* [Permissões de usuário empresarial](https://experienceleague.adobe.com/docs/target/using/administer/manage-users/enterprise/property-channel.html?lang=pt-BR)
+* [Gerenciar produtos e perfis](https://helpx.adobe.com/br/enterprise/admin-guide.html/br/enterprise/using/manage-products.ug.html)
+* Vídeo: [Como configurar espaços de trabalho do Adobe Target no Adobe Admin Console](https://experienceleague.adobe.com/docs/experience-cloud-kcs/kbarticles/KA-17521.html?lang=pt-BR)
 
 ## Gerenciar Perfis de produtos, locatários e grupos de segurança do Campaign {#section_09CDF75366444CF5810CF321B7C712F3}
 
@@ -240,6 +240,6 @@ Consulte [Administração](https://experienceleague.adobe.com/docs/audience-mana
 
 ### Requisitos da solução e do produto
 
-* [Analytics](https://experienceleague.adobe.com/docs/analytics/admin/sys-reqs.html?lang=en)
+* [Analytics](https://experienceleague.adobe.com/docs/analytics/admin/sys-reqs.html?lang=pt-BR)
 * [Report Builder](https://experienceleague.adobe.com/docs/analytics/analyze/report-builder/report-builder-setup/system-requirements.html?lang=pt-BR)
-* [Adobe Target](https://experienceleague.adobe.com/docs/target/using/implement-target/before-implement/supported-browsers.html?lang=en)
+* [Adobe Target](https://experienceleague.adobe.com/docs/target/using/implement-target/before-implement/supported-browsers.html?lang=pt-BR)

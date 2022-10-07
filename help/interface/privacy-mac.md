@@ -1,5 +1,5 @@
 ---
-description: Saiba mais sobre as considerações e as práticas recomendadas relacionadas às informações de identificação pessoal (PII) carregadas e usadas no Experience Cloud.
+description: Saiba sobre as considerações e práticas recomendadas relacionadas às informações de identificação pessoal (PII) carregadas e usadas na Experience Cloud.
 solution: Experience Cloud
 title: Considerações de privacidade para atributos do cliente
 uuid: 5666dc4e-55fa-4196-9985-cf530cfb9247
@@ -9,9 +9,9 @@ role: Admin
 level: Experienced
 exl-id: 27c026ff-198b-4f49-9718-f25f77a9e716
 source-git-commit: eb2ad8a8255915be47b6002a78cc810b522170d2
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '513'
-ht-degree: 96%
+ht-degree: 100%
 
 ---
 

@@ -9,10 +9,10 @@ topic: Administration
 role: Admin
 level: Experienced
 exl-id: e15abde5-8027-4aed-a0c1-8a6fc248db5e
-source-git-commit: 52796154e260648eb2fc57cc2b45453e9cb3227a
+source-git-commit: f5cead10ecfeefeb560e92881524650e55bd938d
 workflow-type: tm+mt
-source-wordcount: '1615'
-ht-degree: 79%
+source-wordcount: '1636'
+ht-degree: 78%
 
 ---
 
@@ -60,7 +60,7 @@ Category: Adobe checklist
    **Seguro** - por exemplo, o nome de host `smetrics.example.com` aponta para: `example.com.adobedc.net`.
 
    >[!NOTE]
-   > Anteriormente, o Adobe recomendava que os clientes configurassem dois CNAMEs, um para HTTPS e outro para HTTP. Como é uma prática recomendada criptografar o tráfego e a maioria dos navegadores desencoraja bastante o HTTP, não recomendamos mais configurar um CNAME para HTTP. Entre em contato com o Atendimento ao cliente do Adobe para configurar o CNAME para HTTP.
+   > Anteriormente, o Adobe recomendava que os clientes configurassem dois CNAMEs, um para HTTPS e outro para HTTP. Como é uma prática recomendada criptografar o tráfego e a maioria dos navegadores desencoraja bastante o HTTP, não recomendamos mais configurar um CNAME para HTTP. Agora, é considerada prática recomendada definir ambos `trackingServer` e `trackingServerSecure` com o mesmo CNAME. Por exemplo, ambos `trackingServer` e `trackingServerSecure` seria definido como `smetrics.example.com`. HTTP é permitido somente para nomes de host de terceiros.
 
 1. Quando o CNAME estiver em vigor, a Adobe trabalhará com a DigiCert para comprar e instalar um certificado nos servidores de produção da Adobe.
 

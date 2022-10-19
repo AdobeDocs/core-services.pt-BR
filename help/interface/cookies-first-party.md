@@ -9,10 +9,10 @@ topic: Administration
 role: Admin
 level: Experienced
 exl-id: e15abde5-8027-4aed-a0c1-8a6fc248db5e
-source-git-commit: f5cead10ecfeefeb560e92881524650e55bd938d
+source-git-commit: 86e1ed26209244fd9c8c228c812b744e18e4b8fc
 workflow-type: tm+mt
-source-wordcount: '1636'
-ht-degree: 78%
+source-wordcount: '1622'
+ht-degree: 79%
 
 ---
 
@@ -74,7 +74,8 @@ Category: Adobe checklist
 
 Trinta dias antes de o certificado próprio expirar, o Adobe valida se o CNAME ainda é válido e está em uso. Nesse caso, o Adobe presume que você deseja continuar usando o serviço e renova automaticamente o certificado em seu nome.
 
-No momento, se o CNAME tiver sido removido e não for mais válido, o Adobe não renovará o certificado e a entrada em nosso sistema será marcada para remoção. Se o CNAME tiver sido removido, o Adobe sabe que o rastreamento não está ocorrendo usando esse URL e, portanto, é seguro remover.
+>[!NOTE]
+> Se o CNAME tiver sido removido e/ou não for mais válido (Não mapeia para o Adobe SSL Hostname fornecido), o Adobe não poderá renovar o certificado e a entrada em nosso sistema será marcada para remoção sem comunicação adicional.
 
 ### Perguntas frequentes
 

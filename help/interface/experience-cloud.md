@@ -8,10 +8,10 @@ topic: Administration
 role: Admin
 level: Experienced
 exl-id: aedad5cb-3282-4a97-8e7e-6d65f7b75ba9
-source-git-commit: eb2ad8a8255915be47b6002a78cc810b522170d2
+source-git-commit: 013a05d68f3fdf0dc71e048dfa6144be08cdfe6a
 workflow-type: tm+mt
-source-wordcount: '1285'
-ht-degree: 100%
+source-wordcount: '1337'
+ht-degree: 96%
 
 ---
 
@@ -123,6 +123,8 @@ Em [!UICONTROL Preferências da Experience Cloud], você pode configurar os segu
 | Recurso | Descrição |
 |--- |--- |
 | Organização [padrão](organizations.md) | Selecione a organização que você deseja ver ao iniciar a Experience Cloud. |
+| [!UICONTROL Coleta de dados do produto] | Selecione quais tecnologias o Adobe pode usar para coletar dados sobre como você usa seus produtos de Adobe. |
+| [!UICONTROL Recomendações e promoções de aprendizado personalizado] | Selecione onde deseja receber ajuda personalizada para seus produtos Adobe. Essa ajuda está disponível por email, no produto e no Experience League Communities. Saiba mais. |
 | [!UICONTROL Subscrições] | Selecione os produtos e categorias que deseja assinar. Notificações no pop-over [!UICONTROL Notificações] e por email. |
 | [!UICONTROL Prioridade] | Selecione as categorias que você deseja que sejam consideradas de alta prioridade. Essas categorias são marcadas com uma tag Alta e podem ser configuradas para entrega, como alertas. |
 | [!UICONTROL Alertas] | Selecione as notificações para as quais deseja que alertas sejam exibidos no navegador. Os alertas são exibidos no canto superior direito da janela por alguns segundos. |

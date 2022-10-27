@@ -11,7 +11,7 @@ exl-id: aedad5cb-3282-4a97-8e7e-6d65f7b75ba9
 source-git-commit: 0de9f9d62dcb3e6c32e841de1663704475805315
 workflow-type: tm+mt
 source-wordcount: '1337'
-ht-degree: 96%
+ht-degree: 100%
 
 ---
 
@@ -123,8 +123,8 @@ Em [!UICONTROL Preferências da Experience Cloud], você pode configurar os segu
 | Recurso | Descrição |
 |--- |--- |
 | Organização [padrão](organizations.md) | Selecione a organização que você deseja ver ao iniciar a Experience Cloud. |
-| [!UICONTROL Coleta de dados do produto] | Selecione quais tecnologias o Adobe pode usar para coletar dados sobre como você usa seus produtos de Adobe. |
-| [!UICONTROL Recomendações e promoções de aprendizado personalizado] | Selecione onde deseja receber ajuda personalizada para seus produtos Adobe. Essa ajuda está disponível por email, no produto e no Experience League Communities. [Saiba mais.](personalized-learning-preferences.md) |
+| [!UICONTROL Coleção de dados do produto] | Selecione quais tecnologias a Adobe pode usar para coletar dados sobre como você usa seus produtos da Adobe. |
+| [!UICONTROL Recomendações e promoções de aprendizado personalizadas] | Selecione onde deseja receber ajuda personalizada para seus produtos da Adobe. Essa ajuda está disponível por email, no produto e nas comunidades da Experience League. [Saiba mais.](personalized-learning-preferences.md) |
 | [!UICONTROL Subscrições] | Selecione os produtos e categorias que deseja assinar. Notificações no pop-over [!UICONTROL Notificações] e por email. |
 | [!UICONTROL Prioridade] | Selecione as categorias que você deseja que sejam consideradas de alta prioridade. Essas categorias são marcadas com uma tag Alta e podem ser configuradas para entrega, como alertas. |
 | [!UICONTROL Alertas] | Selecione as notificações para as quais deseja que alertas sejam exibidos no navegador. Os alertas são exibidos no canto superior direito da janela por alguns segundos. |
@@ -194,6 +194,6 @@ Aproveite os tutoriais de autoajuda e instruções rápidas na Experience League
 * [Notas de versão e atualizações de produtos](https://experienceleague.adobe.com/docs/release-notes/experience-cloud/current.html?lang=pt-BR) - Novidades na Experience Cloud e assinatura para obter atualizações
 * [Tutoriais para implementar os serviços principais](https://experienceleague.adobe.com/docs/platform-learn/data-collection/overview.html?lang=en) - Explore vídeos e tutoriais sobre os serviços principais
 * [Ajuda de especialistas na Experience League](https://experienceleague.adobe.com/?lang=pt-BR) - Obtenha um aprendizado orientado de especialistas e da comunidade
-* [Educação e treinamento](https://helpx.adobe.com/br/learning.html?promoid=KAUDK) - interaja com a Adobe para garantir o aproveitamento máximo de nossos produtos
+* [Educação e treinamento](https://helpx.adobe.com/br/learning.html?promoid=KAUDK) - Interaja com a Adobe para garantir o aproveitamento máximo de nossos produtos
 * [Blog de experiência do cliente](https://blog.adobe.com/br/topics/digital-transformation) - Leia o blog da Experience Cloud
 * [Atendimento ao cliente](https://experienceleague.adobe.com/?support-solution=General&amp;lang=pt-BR#support) - Entre em contato com o Atendimento ao cliente da Adobe

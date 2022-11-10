@@ -4,10 +4,10 @@ solution: Experience Cloud
 title: Preferências de aprendizado personalizadas da Experience Cloud
 feature: Customer Attributes
 exl-id: ad6c8daf-c8ad-42e9-8ff0-cef59dc0da3f
-source-git-commit: d4cbde45df379d2e90b401f4ebc097a5d587d389
+source-git-commit: 77dbd73a741396b638958042d8ef7278be044581
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '410'
+ht-degree: 100%
 
 ---
 
@@ -20,7 +20,7 @@ Você pode optar por receber um conteúdo útil e personalizado com base em seu 
 * Recursos que você provavelmente usará
 * E muito mais.
 
-[![](assets/personalized-learning-customized-learning-button.png)](https://experience.adobe.com/?shell_forceuserconsent=true#/home){width="200"}
+[![](assets/personalized-learning-customized-learning-button.png)](https://experience.adobe.com/?shell_forceuserconsent=true#/home){width="10%"}
 
 
 Você pode atualizar suas seleções a qualquer momento em [Configurações de preferência do usuário](https://experience.adobe.com/preferences/).
@@ -37,8 +37,6 @@ Você pode atualizar suas seleções a qualquer momento em [Configurações de p
 <tbody>
   <tr>
     <td colspan="3">Receba práticas recomendadas, dicas e truques relevantes, apresentações guiadas úteis e muito mais (personalizados com base no seu uso dos produtos da Adobe) de três maneiras...</td>
-    <td></td>
-    <td></td>
   </tr>
   <tr>
     <td>Em seus produtos da Adobe...<br></td>
@@ -51,7 +49,7 @@ Você pode atualizar suas seleções a qualquer momento em [Configurações de p
   </tr>
   <tr>
     <td>No email que a Adobe envia a você...</td>
-    <td>Ver conteúdo de aprendizagem relacionado ao seu trabalho em seus produtos</td>
+    <td>Acesso a um conteúdo de aprendizagem relacionado ao seu trabalho em seus produtos.</td>
   </tr>
   <tr>
     <td>Nas comunidades da Experience League..</td>
@@ -72,8 +70,6 @@ Você pode atualizar suas seleções a qualquer momento em [Configurações de p
 <tbody>
   <tr>
     <td colspan="3">Receba oportunidades personalizadas para eventos de aprendizado, sessões de pesquisa e integrações (personalizados com base em seu trabalho) de três maneiras...</td>
-    <td></td>
-    <td></td>
   </tr>
   <tr>
     <td>Em seus produtos da Adobe...<br></td>
@@ -97,6 +93,9 @@ Você pode atualizar suas seleções a qualquer momento em [Configurações de p
 </table>
 
 
+[![](assets/personalized-learning-customized-learning-button.png)](https://experience.adobe.com/?shell_forceuserconsent=true#/home){width="10%"}
+
+
 ## Veja exemplos dessas informações de aprendizado personalizadas.
 
 
@@ -111,3 +110,5 @@ Você pode atualizar suas seleções a qualquer momento em [Configurações de p
 ### Nas comunidades da Experience League
 
 ![](assets/personalized-learning-communities.png){width="800"}
+
+[![](assets/personalized-learning-customized-learning-button.png)](https://experience.adobe.com/?shell_forceuserconsent=true#/home){width="10%"}

@@ -5,8 +5,8 @@ title: Preferências de aprendizado personalizadas da Experience Cloud
 feature: Customer Attributes
 exl-id: ad6c8daf-c8ad-42e9-8ff0-cef59dc0da3f
 source-git-commit: 1efadba40356a3bbd87f7150ebe0c417bc2af1c8
-workflow-type: tm+mt
-source-wordcount: '390'
+workflow-type: ht
+source-wordcount: '0'
 ht-degree: 100%
 
 ---
@@ -18,7 +18,7 @@ Você pode optar por receber um conteúdo útil e personalizado com base em seu 
 * Seu nível de habilidade e função
 * Seus fluxos de trabalho
 * Recursos que você provavelmente usará
-* E muito mais.
+* E muito mais!
 
 [![](assets/personalized-learning-customize-learning-button.png)](https://experience.adobe.com/?shell_forceuserconsent=true#/home){width="10%"}
 
@@ -49,7 +49,7 @@ Receba práticas recomendadas, dicas e truques relevantes, apresentações guiad
     <td>Acesso a um conteúdo de aprendizagem relacionado ao seu trabalho em seus produtos.</td>
   </tr>
   <tr>
-    <td>Nas comunidades da Experience League..</td>
+    <td>Nas comunidades da Experience League...</td>
     <td>Veja recomendações personalizadas de publicações e artigos com base no que você está fazendo no momento.</td>
   </tr>
 </tbody>
@@ -78,7 +78,7 @@ Receba oportunidades personalizadas para eventos de aprendizado, sessões de pes
     <td>Obtenha informações oportunas da Adobe sobre oportunidades de aprendizado adicionais.</td>
   </tr>
   <tr>
-    <td>Nas comunidades da Experience League..</td>
+    <td>Nas comunidades da Experience League...</td>
     <td>Veja recomendações personalizadas de eventos e serviços para aprimorar seu aprendizado.</td>
   </tr>
 </tbody>

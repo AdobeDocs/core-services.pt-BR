@@ -9,7 +9,7 @@ topic: Administration
 role: Admin
 level: Experienced
 exl-id: e15abde5-8027-4aed-a0c1-8a6fc248db5e
-source-git-commit: 86e1ed26209244fd9c8c228c812b744e18e4b8fc
+source-git-commit: 0e4bf07a15c4601b3e6278a57880920710a69a79
 workflow-type: tm+mt
 source-wordcount: '1622'
 ht-degree: 79%
@@ -57,7 +57,7 @@ Category: Adobe checklist
 
    Ao receber a solicitação, um representante do Atendimento ao cliente deve fornecer a você um registro CNAME. Esses registros devem ser configurados no servidor DNS da empresa antes que a Adobe possa comprar o certificado em seu nome. O CNAME é semelhante ao seguinte:
 
-   **Seguro** - por exemplo, o nome de host `smetrics.example.com` aponta para: `example.com.adobedc.net`.
+   **Seguro** - por exemplo, o nome de host `smetrics.example.com` aponta para: `[random-10-character-string].data.adobedc.net`.
 
    >[!NOTE]
    > Anteriormente, o Adobe recomendava que os clientes configurassem dois CNAMEs, um para HTTPS e outro para HTTP. Como é uma prática recomendada criptografar o tráfego e a maioria dos navegadores desencoraja bastante o HTTP, não recomendamos mais configurar um CNAME para HTTP. Agora, é considerada prática recomendada definir ambos `trackingServer` e `trackingServerSecure` com o mesmo CNAME. Por exemplo, ambos `trackingServer` e `trackingServerSecure` seria definido como `smetrics.example.com`. HTTP é permitido somente para nomes de host de terceiros.
@@ -96,12 +96,12 @@ A equipe de operações de rede da organização deve configurar os servidores D
 O especialista em FPC fornece o nome de host configurado e o CNAME para o qual ele deve ser apontado. Por exemplo:
 
 * **Nome de host SSL**: `smetrics.mysite.com`
-* **CNAME SSL**: `mysite.com.adobedc.net`
+* **CNAME SSL**: `[random-10-character-string].data.adobedc.net`
 
 >[!NOTE]
 > Se você ainda usar um não seguro, ele será assim:
 > * **Nome de host não SSL**: `metrics.mysite.com`
-> * **CNAME não SSL**: `mysite.com.adobedc.net`
+> * **CNAME não SSL**: `[random-10-character-string].data.adobedc.net`
 
 
 Contanto que o código de implementação não seja alterado, esta etapa não afetará a coleta de dados e poderá ser feita a qualquer momento após a atualização do código de implementação.

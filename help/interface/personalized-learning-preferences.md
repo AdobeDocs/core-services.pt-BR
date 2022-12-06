@@ -5,9 +5,9 @@ title: Preferências de aprendizado personalizadas da Experience Cloud
 feature: Customer Attributes
 exl-id: ad6c8daf-c8ad-42e9-8ff0-cef59dc0da3f
 source-git-commit: 199643aeaaf422ec9ad637e18a03d25b5782546b
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '397'
-ht-degree: 92%
+ht-degree: 100%
 
 ---
 
@@ -23,7 +23,7 @@ Você pode optar por receber um conteúdo útil e personalizado com base em seu 
 [![](assets/personalized-learning-customize-learning-button.png)](https://experience.adobe.com/?shell_forceuserconsent=true#/home){width="10%"}
 
 
-Você pode atualizar suas seleções a qualquer momento na seção Uso e coleta de dados do produto em sua [Configurações de preferência do usuário](https://experience.adobe.com/preferences/).
+Você pode atualizar suas seleções a qualquer momento na seção Uso e coleta de dados do produto das [Configurações de preferência do usuário](https://experience.adobe.com/preferences/).
 
 
 
@@ -38,7 +38,7 @@ Receba práticas recomendadas, dicas e truques relevantes, apresentações guiad
   <tr>
     <td>Em seus produtos da Adobe...<br></td>
     <td>Consulte pop-ups e dicas de ferramentas para obter ajuda em tempo real.</td>
-    <td rowspan="3">Isso pode incluir... <ul><li>Guias passo a passo e dicas úteis de especialistas em Adobe</li> 
+    <td rowspan="3">Isso pode incluir... <ul><li>Guias passo a passo e dicas úteis de especialistas da Adobe</li> 
     <li>Tutoriais em vídeo e apresentações guiadas informativas</li> 
     <li>Treinamento e ensino aprofundado</li> 
     <li>Recomendações de vídeos e publicações</li>

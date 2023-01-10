@@ -60,7 +60,7 @@ A tabela a seguir descreve como os públicos-alvo são usados nos aplicativos da
 | Ajuda com | Recurso |
 |--- |--- |
 | Não consegue encontrar Públicos-alvo? | Verifique se você foi provisionado. Consulte [Introdução - habilitar os aplicativos para os serviços principais](core-services.md).<br>Solicite [aqui](https://adobe.allegiancetech.com/cgi-bin/qwebcorporate.dll?idx=X8SVES) acesso a Perfis e públicos (formulário de provisionamento de integrações). |
-| Casos de uso | Para obter mais orientações sobre qual aplicativo usar, acesse [Opções de criação de público-alvo](https://experienceleague.adobe.com/docs/experience-cloud-kcs/kbarticles/KA-16471.html?lang=en) na Knowledge Base. |
+| Casos de uso | Para obter mais orientações sobre qual aplicativo usar, acesse [Opções de criação de público-alvo](https://experienceleague.adobe.com/docs/experience-cloud-kcs/kbarticles/KA-16471.html?lang=pt-BR) na Knowledge Base. |
 | Fórum | O [fórum de públicos-alvo](https://experienceleaguecommunities.adobe.com/t5/Adobe-Experience-Cloud-Audiences/ct-p/experience-cloud-audiences-community) é mais um recurso para obter ajuda com os públicos-alvo. |
 
 {style=&quot;table-layout:auto&quot;}

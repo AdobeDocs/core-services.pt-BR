@@ -1,6 +1,6 @@
 ---
 description: Como ativar as configurações de privacidade para cookies do navegador. É possível remover os usuários que bloquearam todos os cookies em navegadores de computadores e de dispositivos móveis.
-solution: Experience Cloud, Analytics, Target, Social
+solution: Experience Cloud, Analytics, Target
 title: Configurações de privacidade de cookies do navegador
 uuid: f6a56e8b-b021-49db-8eb4-6c14af0c7243
 feature: Cookies
@@ -8,9 +8,9 @@ topic: Administration
 role: Admin
 level: Experienced
 exl-id: 5d852e0e-4004-4f94-a6f7-3a14a96cd42f
-source-git-commit: eb2ad8a8255915be47b6002a78cc810b522170d2
+source-git-commit: ea50808d2514ff3c94ffa1bee2d9aa3ddf51f120
 workflow-type: ht
-source-wordcount: '293'
+source-wordcount: '0'
 ht-degree: 100%
 
 ---

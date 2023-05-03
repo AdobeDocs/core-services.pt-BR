@@ -10,8 +10,8 @@ level: Experienced
 exl-id: af9eda5b-d984-44b7-a7b3-52dfc4e03d8f
 source-git-commit: eb2ad8a8255915be47b6002a78cc810b522170d2
 workflow-type: tm+mt
-source-wordcount: '1891'
-ht-degree: 100%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -102,7 +102,7 @@ Sua experiência de logon não é alterada com esta atualização:
 
 1. Um novo perfil associado à Business ID é criado. Você será solicitado a **[!UICONTROL Assinar agora]** ou **[!UICONTROL Ignorar]**.
 
-1. Usar uma das opções levará a uma experiência de página de aterrissagem existente.
+1. Usar uma das opções levará a uma experiência de página de destino existente.
 
 1. Um perfil da Adobe é associado a cada plano empresarial e fornece a capacidade de organizar ativos criados de ofertas adicionais da Adobe Cloud (Creative Cloud e Document Cloud).
 

@@ -11,8 +11,8 @@ level: Experienced
 exl-id: 1c6e54ac-4886-46ed-9df7-201d2df31847
 source-git-commit: ae14748aa7b0f0d803d48fe980a6743f53d996ab
 workflow-type: tm+mt
-source-wordcount: '833'
-ht-degree: 100%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -49,7 +49,7 @@ A tabela a seguir descreve como os públicos-alvo são usados nos aplicativos da
 | Campaign | <ul><li>Importar públicos-alvo compartilhados de diferentes aplicativos da Adobe Experience Cloud para o Adobe Campaign.</li><li>Exportar listas de destinatários em formato de públicos-alvo compartilhados. Esses públicos-alvo compartilhados podem ser usados nos diferentes aplicativos da Adobe Experience Cloud que você utiliza.</li></ul> |
 | Advertising Cloud | Use o público-alvo como destino. |
 
-{style=&quot;table-layout:auto&quot;}
+{style="table-layout:auto"}
 
 >[!IMPORTANT]
 >
@@ -63,7 +63,7 @@ A tabela a seguir descreve como os públicos-alvo são usados nos aplicativos da
 | Casos de uso | Para obter mais orientações sobre qual aplicativo usar, acesse [Opções de criação de público-alvo](https://experienceleague.adobe.com/docs/experience-cloud-kcs/kbarticles/KA-16471.html?lang=pt-BR) na Knowledge Base. |
 | Fórum | O [fórum de públicos-alvo](https://experienceleaguecommunities.adobe.com/t5/Adobe-Experience-Cloud-Audiences/ct-p/experience-cloud-audiences-community) é mais um recurso para obter ajuda com os públicos-alvo. |
 
-{style=&quot;table-layout:auto&quot;}
+{style="table-layout:auto"}
 
 ## Elementos de interface da biblioteca de público-alvo {#section_D04ACEF61CEF4B189AE6BA9F40D0DBF4}
 
@@ -82,4 +82,4 @@ A [!DNL Experience Cloud] oferece uma biblioteca para criar e gerenciar público
 | Tamanho atual | O tamanho atual do público-alvo. |
 | Ativo | O status ativo do segmento. |
 
-{style=&quot;table-layout:auto&quot;}
+{style="table-layout:auto"}

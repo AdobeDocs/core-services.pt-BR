@@ -75,17 +75,17 @@ Geralmente, os administradores da Experience Cloud concedem acesso a aplicativos
    Esse tipo de mensagem será exibido se você fizer parte do grupo adequado (e tiver permissão para o aplicativo), mas ainda não tiver vinculado as credenciais da conta à Adobe ID.
 1. Selecione **[!UICONTROL Vincular conta]** e forneça suas credenciais.
 
-## Especificar uma organização e uma página de aterrissagem padrões {#concept_6A191B42A9874A9780882903BA18F071}
+## Especificar uma organização e uma página de destino padrões {#concept_6A191B42A9874A9780882903BA18F071}
 
-Você pode especificar uma organização padrão e uma página de aterrissagem para usar ao fazer o logon.
+Você pode especificar uma organização padrão e uma página de destino para usar ao fazer o logon.
 
 Em seu perfil, selecione **[!UICONTROL Editar perfil]**.
 
 ![Editar perfil](assets/edit-profile.png)
 
-Em Organização padrão e Página de aterrissagem, é possível personalizar a experiência de logon.
+Em Organização padrão e Página de destino, é possível personalizar a experiência de logon.
 
-![Organização padrão e Página de aterrissagem](assets/default-organization.png)
+![Organização padrão e Página de destino](assets/default-organization.png)
 
 ## Solução de problemas de vinculação de contas {#concept_DFCB29A3B4834FC59AA29E0BBA301584}
 

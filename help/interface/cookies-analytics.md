@@ -8,9 +8,9 @@ topic: Administration
 role: Admin
 level: Experienced
 exl-id: bc8ce894-f98c-4475-8a07-d74ae76f7451
-source-git-commit: eb2ad8a8255915be47b6002a78cc810b522170d2
+source-git-commit: 3ef59cfa7ea4c1a27776153d847b0ba20e8fc6b4
 workflow-type: tm+mt
-source-wordcount: '765'
+source-wordcount: '735'
 ht-degree: 100%
 
 ---
@@ -42,7 +42,7 @@ Mais informações disponíveis na ajuda do Analytics sobre [Cookies primários]
 | Localização | Somente para clientes CNAME. Não aplicável para cenários de terceiros. O cookie é armazenado em seu domínio, o mesmo domínio usado pelo CNAME e pela solicitação de imagem do Analytics |
 | Tamanho | 45 bytes |
 
-{style=&quot;table-layout:auto&quot;}
+{style="table-layout:auto"}
 
 ## Nome do cookie: s_cc {#section-03aa90aa7e36427b8cb12dc4a0f0291e}
 
@@ -54,7 +54,7 @@ Mais informações disponíveis na ajuda do Analytics sobre [Cookies primários]
 | Localização | Esse cookie é armazenado no domínio da página. |
 | Tamanho | 4 bytes |
 
-{style=&quot;table-layout:auto&quot;}
+{style="table-layout:auto"}
 
 ## Nome do cookie: s_sq {#section-8abfff3a302d494f81a3cfb91e3b09ff}
 
@@ -66,7 +66,7 @@ Mais informações disponíveis na ajuda do Analytics sobre [Cookies primários]
 | Localização | Esse cookie é armazenado no domínio da página. |
 | Tamanho | Varia dependendo do tamanho do URL da página, mas normalmente entre 100 e 200 bytes |
 
-{style=&quot;table-layout:auto&quot;}
+{style="table-layout:auto"}
 
 ## Nome do cookie: s_vi {#section-5d50a078de444d12b7d927d68ff3b679}
 
@@ -78,7 +78,7 @@ Mais informações disponíveis na ajuda do Analytics sobre [Cookies primários]
 | Localização | Este cookie é armazenado no domínio da solicitação de imagem - normalmente um subdomínio específico do cliente em 2o7.net ou omtrdc.net se você estiver usando cookies de terceiros ou se o domínio estiver usando cookies primários |
 | Tamanho | 44 bytes |
 
-{style=&quot;table-layout:auto&quot;}
+{style="table-layout:auto"}
 
 >[!NOTE]
 >
@@ -94,7 +94,7 @@ Mais informações disponíveis na ajuda do Analytics sobre [Cookies primários]
 | Localização | Esse cookie é armazenado em seu domínio como um cookie primário |
 | Tamanho | 33 bytes |
 
-{style=&quot;table-layout:auto&quot;}
+{style="table-layout:auto"}
 
 ## Sinalizadores de cookie
 
@@ -108,7 +108,7 @@ A tabela a seguir descreve os sinalizadores dos cookies do Analytics:
 | s_cc (Javascript) | Não | Não | Não definido |
 | s_sq (Javascript) | Não | Não | Não definido |
 
-{style=&quot;table-layout:auto&quot;}
+{style="table-layout:auto"}
 
 >[!NOTE]
 >
@@ -116,6 +116,8 @@ A tabela a seguir descreve os sinalizadores dos cookies do Analytics:
 
 ## Cookies definidos por plug-ins {#section-a6b1cae8454945fab9eea5c7884c40fc}
 
-Cookies adicionais podem ser definidos dependendo do uso de plug-ins do Analytics. Esses cookies são fragmentos de código disponíveis ao cliente para uso em várias circunstâncias. Essas circunstâncias incluem: recuperar valores do URL; concatenar valores a serem transmitidos para o Analytics; capturar o abandono de formulário e assim por diante. Para obter detalhes específicos sobre cookies definidos por cada plug-in, entre em contato com ClientCare. Um exemplo seria o cookie [!DNL s_vh] usado com os plug-ins *Definir uma vez por* e *Definir e obter último valor*.
+{{plug-in}}
+
+Cookies adicionais podem ser definidos dependendo do uso de plug-ins do Analytics. Esses cookies são fragmentos de código disponíveis ao cliente para uso em várias circunstâncias. Essas circunstâncias incluem: recuperar valores do URL; concatenar valores a serem transmitidos para o Analytics; capturar o abandono de formulário e assim por diante. Um exemplo seria o cookie [!DNL s_vh] usado com os plug-ins *Definir uma vez por* e *Definir e obter último valor*.
 
 As variáveis de conversão (eVarX) passadas em uma solicitação de imagem sem JavaScript, como o código colocado em um email, serão atribuídos apropriadamente apenas se o cliente de email e o navegador compartilharem o mesmo espaço de cookie.

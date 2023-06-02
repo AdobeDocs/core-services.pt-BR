@@ -5,9 +5,9 @@ breadcrumb-title: Componentes da interface central da Experience Cloud
 title: Manual de administração e interface da Experience Cloud
 description: Conheça a interface da Experience Cloud e as preferências da conta de usuário. Saiba como pesquisar objetos comerciais e gerenciar usuários e produtos. Configure os Atributos do cliente, a Biblioteca de público-alvo, os cookies e o compartilhe Ativos da Experience Cloud.
 index: true
-source-git-commit: 0de9f9d62dcb3e6c32e841de1663704475805315
+source-git-commit: 657d7e665ac3d20b80bdb26db0e3e62e421218bf
 workflow-type: tm+mt
-source-wordcount: '363'
+source-wordcount: '365'
 ht-degree: 100%
 
 ---
@@ -26,7 +26,7 @@ ht-degree: 100%
       + [Criar um público-alvo](t-audience-create.md)
       + [Publicar um segmento de público-alvo do Analytics](t-publish-audience-segment.md)
    + Atributos do cliente da Experience Cloud {#customer-attributes}
-      + [Atributos do cliente visão geral](attributes.md)
+      + [Atributos do cliente na Experience Cloud](attributes.md)
       + [Perguntas frequentes sobre atributos do cliente](faq-crs.md)
       + [Sobre arquivo de dados e fonte de dados para atributos do cliente](crs-data-file.md)
       + [Crie uma fonte de atributo do cliente e faça upload do arquivo de dados](t-crs-usecase.md)

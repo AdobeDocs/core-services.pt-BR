@@ -9,9 +9,9 @@ role: Admin
 level: Experienced
 exl-id: aedad5cb-3282-4a97-8e7e-6d65f7b75ba9
 source-git-commit: 657d7e665ac3d20b80bdb26db0e3e62e421218bf
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '1347'
-ht-degree: 97%
+ht-degree: 100%
 
 ---
 
@@ -24,8 +24,8 @@ O [Experience Cloud](https://experience.adobe.com) é a família integrada de ap
 No cabeçalho do Experience Cloud, você pode:
 
 * Acessar seus aplicativos e serviços
-* No menu Ajuda, pesquise por documentações de produto, tutoriais e publicações da comunidade. Veja os resultados em Experience League.
-* Pesquise objetos de negócios globalmente usando uma pesquisa global (somente usuários do Experience Platform) no campo Pesquisar.
+* No menu Ajuda, pesquise pela documentação de produto, tutoriais e publicações da comunidade. Veja os resultados na Experience League.
+* Pesquise objetos comerciais globalmente usando uma pesquisa global (somente usuários da Experience Platform) no campo Pesquisa.
 * Gerenciar suas preferências de conta (alertas, notificações e assinaturas)
 
 ## Faça logon na Experience Cloud {#signin}

@@ -1,6 +1,6 @@
 ---
 title: Atributos do cliente
-description: Saiba mais sobre os atributos do cliente no Experience Cloud. Descubra como fazer upload dos dados do atributo do cliente para uso no Adobe Analytics e no Adobe Target.
+description: Saiba mais sobre Atributos do cliente na Experience Cloud. Descubra como fazer upload dos dados do atributo do cliente para uso no Adobe Analytics e no Adobe Target.
 solution: Experience Cloud,Target,Analytics
 feature: Customer Attributes
 role: Admin
@@ -10,7 +10,7 @@ exl-id: fe8ad013-76da-49f8-aa51-dc5f6c1b1d79
 source-git-commit: df7afcd805a342876a5dd0ac77d141e7d1105b77
 workflow-type: tm+mt
 source-wordcount: '468'
-ht-degree: 95%
+ht-degree: 97%
 
 ---
 
@@ -28,13 +28,13 @@ Para localizar este recurso, navegue até **[!DNL Experience Platform]** > **[!U
 
 * **Associação de grupo:** para fazer upload dos dados de atributos do cliente, os usuários devem ser membros do [grupo de Atributos do cliente](admin-getting-started.md#task_3295A85536BF48899A1AB40D207E77E9). Você também deve pertencer a um grupo do Adobe Analytics ou do Adobe Target.
 
-   Para saber se a empresa tem acesso aos atributos do cliente, o [!DNL Experience Cloud] administrador deve fazer logon na [Experience Cloud](https://experience.adobe.com). Navegue até **[!UICONTROL Administração]** > **[!UICONTROL Admin Console]** > **[!UICONTROL Produtos]**. Se os *Atributos do cliente* forem exibidos como um dos [!UICONTROL Perfis de produto], você estará pronto para começar.
+  Para saber se a empresa tem acesso aos atributos do cliente, o [!DNL Experience Cloud] administrador deve fazer logon na [Experience Cloud](https://experience.adobe.com). Navegue até **[!UICONTROL Administração]** > **[!UICONTROL Admin Console]** > **[!UICONTROL Produtos]**. Se os *Atributos do cliente* forem exibidos como um dos [!UICONTROL Perfis de produto], você estará pronto para começar.
 
-   Os usuários adicionados aos atributos do cliente verão o item de menu [!UICONTROL atributos do cliente] à esquerda da interface do Experience Cloud.
+  Os usuários adicionados aos atributos do cliente verão o item de menu [!UICONTROL atributos do cliente] à esquerda da interface do Experience Cloud.
 
 * O **Adobe Target** `at.js` (qualquer versão) ou `mbox.js` versão 58 ou posterior é necessário para os atributos do cliente.
 
-   Consulte [Como implantar a at.js](https://experienceleague.adobe.com/docs/target-dev/developer/client-side/overview.html?lang=en).
+  Consulte [Como implantar a at.js](https://experienceleague.adobe.com/docs/target-dev/developer/client-side/overview.html?lang=en).
 
 ## O que são os dados de clientes de empresas? {#section_6F34C29F11414842AA57D2B1248FA3C6}
 

@@ -8,10 +8,10 @@ topic: Administration
 role: Admin
 level: Experienced
 exl-id: b71d144c-a097-4cdb-9721-671519d38aff
-source-git-commit: eb2ad8a8255915be47b6002a78cc810b522170d2
-workflow-type: ht
-source-wordcount: '4768'
-ht-degree: 100%
+source-git-commit: 2f72053beee5f6fc8b2a499cce56efe1afcfa376
+workflow-type: tm+mt
+source-wordcount: '5006'
+ht-degree: 96%
 
 ---
 
@@ -22,6 +22,28 @@ Recursos, notas de versão e problemas conhecidos dos Componentes da interface c
 Para obter uma lista de atualizações de documentação, consulte [Experience Cloud](doc-updates.md#concept_4C8983FCD23848A4B1E4C2D99ED82784).
 
 Para obter notas de versão que abrangem todos os aplicativos, consulte [Notas de versão da Experience Cloud](https://experienceleague.adobe.com/docs/release-notes/experience-cloud/current.html?lang=pt-BR).
+
+## Julho - agosto de 2023
+
+Versão: **20 de julho - 31 de agosto de 2023**
+
+A Adobe está atualizando seu provisionamento para fornecer todas as [!DNL Experience Cloud] acesso dos clientes a recursos essenciais que ajudam a interoperabilidade entre [!DNL Experience Cloud] produtos. Os usuários terão [!DNL Experience Platform] como um novo direito acrescentado à sua [!DNL Experience Cloud] organizações, com [Coleta de dados](https://experienceleague.adobe.com/docs/analytics/analyze/reports-analytics/reporting-interface/overview-data-collection.html?lang=pt-BR) como um serviço incluído. [!DNL Experience Platform] [!UICONTROL Coleta de dados] O inclui tags para um gerenciamento universal de tags simplificado e oferece uma infraestrutura de transmissão de dados confiável, robusta e completa. Essa atualização simplifica sua coleta de dados de experiência e simplifica a entrega da experiência.
+
+Com essa atualização, os administradores podem ver alterações ou adições ao Admin Console:
+
+* O ADOBE [!DNL Experience Platform] a placa do produto no Admin Console incluirá: [Places](https://experienceleague.adobe.com/docs/places/using/home.html), [Assurance](https://experienceleague.adobe.com/docs/platform-learn/implement-mobile-sdk/app-implementation/assurance.html?lang=pt-BR), [Namespace de identidade](https://experienceleague.adobe.com/docs/experience-platform/identity/home.html?lang=pt-BR), [Sandboxes](https://experienceleague.adobe.com/docs/experience-platform/sandbox/home.html?lang=pt-BR), [Experience Data Model](https://experienceleague.adobe.com/docs/experience-platform/xdm/home.html?lang=pt-BR), [Esquemas](https://experienceleague.adobe.com/docs/experience-platform/xdm/schema/composition.html?lang=pt-BR), [Datastreams](https://experienceleague.adobe.com/docs/experience-platform/edge/datastreams/overview.html?lang=pt-BR), e [ID do Experience Cloud](https://experienceleague.adobe.com/docs/id-service/using/intro/overview.html?lang=pt-BR).
+
+   * Para organizações que não estão usando no momento [!DNL Experience Platform], você verá agora a [!DNL Experience Platform] produto na [!UICONTROL Admin Console], incluindo os recursos listados acima.
+
+   * Para organizações que atualmente usam o [!DNL Experience Platform], [!UICONTROL Places] serão consolidados na [!DNL Experience Platform] cartão.
+
+* Adobe [!DNL Experience Platform] [Coleta de dados](https://experienceleague.adobe.com/docs/analytics/analyze/reports-analytics/reporting-interface/overview-data-collection.html?lang=pt-BR) (antigo [!DNL Launch]) e [Privacidade](https://experienceleague.adobe.com/docs/experience-platform/privacy/home.html?lang=pt-BR) continuarão a aparecer como seus próprios cartões de produto, separados dos outros [!DNL Experience Platform] recursos
+
+## Maio de 2023
+
+Lançamento: **25 de maio de 2023**
+
+* No menu **[!UICONTROL Ajuda]** da [!DNL Experience Cloud], a pesquisa de conteúdo foi atualizada para filtrar por aplicativo nos resultados da pesquisa da [Experience League](https://experienceleague.adobe.com/?lang=pt-BR#home).
 
 ## Julho - 2022
 
@@ -35,7 +57,7 @@ Versão planejada: **11 de julho de 2022**
 | ------- | ------- |
 | Página inicial unificada - Dispositivo de acesso rápido | **Navegue mais rápido:** agora você pode personalizar ainda mais sua experiência na página inicial e decidir quais aplicativos ficarão mais acessíveis. Use o novo recurso de fixação para selecionar quais aplicativos aparecem na frente e no centro no [!UICONTROL Acesso rápido]. <br>**Mantenha-se informado com a fixação inteligente:** agora ficou mais fácil encontrar os novos aplicativos. Aplicativos recentemente atribuídos exibem um símbolo _Novo_ e são fixados automaticamente no [!UICONTROL Acesso rápido]. |
 
-{style=&quot;table-layout:auto&quot;}
+{style="table-layout:auto"}
 
 ## Abril de 2022
 
@@ -43,7 +65,7 @@ Versão planejada: **11 de julho de 2022**
 | ------- |-------|
 | Pesquisa natural de idioma | Obtenha respostas instantâneas para todas as suas perguntas de ajuda por meio de uma única interface com a Pesquisa unificada. Esse recurso está sempre disponível para você em todas as páginas da [!DNL Experience Platform] e [!DNL Journey Optimizer]. |
 
-{style=&quot;table-layout:auto&quot;}
+{style="table-layout:auto"}
 
 ## Março de 2022
 
@@ -55,7 +77,7 @@ Versão planejada: **11 de julho de 2022**
 
 | Recurso | Descrição |
 | ------- |-------|
-| Atalhos (**[!UICONTROL Recentes]**) foram adicionados a página inicial da [Experience Cloud](https://experience.adobe.com/home?lang=pt-BR) | Você pode acessar atalhos para os seus trabalhos mais recentes do Journey Optimizer e da Experience Platform através do novo cabeçalho _Recentes_ na página de aterrissagem. Esta atualização também inclui melhorias gerais de layout e capacidade de resposta. |
+| Atalhos (**[!UICONTROL Recentes]**) foram adicionados a página inicial da [Experience Cloud](https://experience.adobe.com/home?lang=pt-BR) | Você pode acessar atalhos para os seus trabalhos mais recentes do Journey Optimizer e da Experience Platform através do novo cabeçalho _Recentes_ na página de destino. Esta atualização também inclui melhorias gerais de layout e capacidade de resposta. |
 | As **[!UICONTROL Sandboxes]** foram movidas para a barra de cabeçalho | Agora, o indicador de Sandbox está integrado no cabeçalho para todos os aplicativos de interface da Experience Platform. Consulte [Sandboxes](https://experienceleague.adobe.com/docs/experience-platform/sandbox/ui/user-guide.html?lang=pt-BR) na Experience Platform para obter mais informações. |
 
 ## Novembro - 2021
@@ -66,7 +88,7 @@ Versão planejada: **11 de julho de 2022**
 | Painéis AEP | O [!DNL Helios Lite] fornece recomendações de gráfico dentro do fluxo de trabalho de criação de dispositivos da Experience Platform. Dada uma seleção de dados (atualmente, seleção de dados de variável única), o [!DNL Helios] recomenda uma visualização apropriada para acompanhá-la. |
 | Painéis AEP | O [!DNL Instory] fornece narração escrita e legendas para gráficos com base em aprendizado de máquina. Essas funcionalidades decoram os gráficos na página de Painéis AEP com marcadores relevantes, chamando atenção para grandes alterações e incidentes nos dados em gráfico. |
 
-{style=&quot;table-layout:auto&quot;}
+{style="table-layout:auto"}
 
 ## Outubro - 2021
 
@@ -77,13 +99,13 @@ Versão planejada: **11 de julho de 2022**
 | Navegação do Experience Cloud [!UICONTROL Triggers] | O [Experience Cloud Triggers](https://experienceleague.adobe.com/docs/core-services/interface/services/activation/triggers.html?lang=pt-BR) está disponível para navegação direta a partir do alternador do aplicativo no cabeçalho para usuários provisionados. |
 | **Aviso:** previsão de atualização de navegação da interface | Em novembro de 2021, o recurso de navegação _[!UICONTROL Ir para Launch/Coleção de dados]_ será removido de <https://experience.adobe.com/implement>. |
 
-{style=&quot;table-layout:auto&quot;}
+{style="table-layout:auto"}
 
 ## Agosto - 2021
 
 | Recurso | Data | Descrição |
 | ------- | ------- | -------|
-| [!UICONTROL Recentes unificados] — suporte estendido para objetos de negócios acessados recentemente | 10 de agosto de 2021 | Os [!UICONTROL Recentes unificados] são estendidos para objetos comerciais adicionais no Journey Optimizer e na Experience Platform. Os clientes do Journey Optimizer podem encontrar os objetos acessados recentemente (Mensagens, Jornadas, Segmentos, Esquemas, Conjuntos de dados, Fontes de dados, Eventos, Ações, Fontes e Destinos) na página inicial do Adobe Journey Optimizer. |
+| [!UICONTROL Recentes unificados] - suporte estendido para objetos de negócios acessados recentemente | 10 de agosto de 2021 | Os [!UICONTROL Recentes unificados] são estendidos para objetos comerciais adicionais no Journey Optimizer e na Experience Platform. Os clientes do Journey Optimizer podem encontrar os objetos acessados recentemente (Mensagens, Jornadas, Segmentos, Esquemas, Conjuntos de dados, Fontes de dados, Eventos, Ações, Fontes e Destinos) na página inicial do Adobe Journey Optimizer. |
 
 ## Julho - 2021
 
@@ -94,9 +116,9 @@ A Pesquisa unificada foi atualizada para estar disponível no Journey Optimizer,
 | Recurso | Data | Descrição |
 | ------- | ------- | ------- |
 | Suporte para logon único para Adobe Federated IDs | 17 de junho de 2021 | Se você usa Federated IDs, é possível fazer logon na Experience Cloud sem precisar inserir um endereço de email ou uma senha. Para usar esse recurso, adicione `#/sso:@domain` ao URL da Experience Cloud. <br>Por exemplo, suponha que você seja o proprietário do domínio `adobecustomer.com` e queira fazer logon no Adobe Analytics. O URL seria: `https://experience.adobe.com/#/sso:@adobecustomer.com/analytics`. |
-| Pesquisa do Experience League | 1 de junho de 2021 | A pesquisa de documentação do Experience League foi aprimorada. Navegue até [Experience League](https://experienceleague.adobe.com/docs/?lang=pt-BR) e utilize o campo **[!UICONTROL Pesquisar]** para localizar tutoriais, documentação, cursos e muito mais. |
+| Pesquisa do Experience League | 1 de junho de 2021 | A pesquisa de documentação do Experience League foi aprimorada. Navegue até [Experience League](https://experienceleague.adobe.com/docs/?lang=pt-BR) e use o campo **[!UICONTROL Pesquisar]** para localizar tutoriais, documentações, cursos e muito mais. |
 
-{style=&quot;table-layout:auto&quot;}
+{style="table-layout:auto"}
 
 ## Maio - 2021
 
@@ -106,7 +128,7 @@ A Pesquisa unificada foi atualizada para estar disponível no Journey Optimizer,
 | Pesquisa global da Experience Cloud | 20 de maio de 2021 | Com esta versão, a pesquisa global da Experience Cloud permite pesquisar qualquer documentação, cursos e tutoriais dao [Experience League](https://experienceleague.adobe.com/?lang=pt-BR#home). (Atualmente, a pesquisa global está disponível somente para usuários da Experience Platform. A pesquisa global por [!UICONTROL Platforma] permite procurar qualquer objeto comercial na Experience Cloud, como segmentos, conjuntos de dados, esquemas e muito mais.) |
 | Preferências de idioma da Experience Cloud | 20 de maio de 2021 | Essa atualização inclui a capacidade de definir seus idiomas preferidos nas [Preferências](https://experience.adobe.com/preferences) da Experience Cloud. |
 
-{style=&quot;table-layout:auto&quot;}
+{style="table-layout:auto"}
 
 ## Agosto - 2020
 
@@ -114,7 +136,7 @@ A Pesquisa unificada foi atualizada para estar disponível no Journey Optimizer,
 | -----------| ---------- |
 | Ferramenta administrativa - políticas | Esta página exibe a lista completa das políticas da Experience Cloud na sua organização. Ela fornece informações sobre produtos, instâncias, usuários e desenvolvedores. Pesquise, classifique e filtre exibições personalizadas da lista de políticas. Consulte a ajuda da [Ferramenta de administração da Experience Cloud](admin-tool-experience-cloud.md) para obter detalhes. |
 
-{style=&quot;table-layout:auto&quot;}
+{style="table-layout:auto"}
 
 ## Abril - 2020
 
@@ -127,7 +149,7 @@ A Pesquisa unificada foi atualizada para estar disponível no Journey Optimizer,
 | -----------| ---------- |
 | Ferramenta de administração - exibir detalhes do usuário | Os administradores podem exibir uma lista classificável e filtrável de todos os usuários da Experience Cloud e seus detalhes na nova Ferramenta de administração. Os detalhes do usuário incluem o acesso ao produto, as funções e as últimas informações acessadas de um usuário. Consulte a ajuda da [Ferramenta de administração da Experience Cloud](admin-tool-experience-cloud.md) para obter detalhes. |
 
-{style=&quot;table-layout:auto&quot;}
+{style="table-layout:auto"}
 
 **Correções**
 
@@ -400,7 +422,7 @@ Novos recursos e correções na colaboração e interface de compartilhamento da
 **Correções**
 
 * Correção de um problema em que os arquivos PNG não podiam ser renderizados em um cartão.
-* Correção de um problema com o carregamento de arquivos para o Experience Cloud Assets por meio do arrastar e soltar.
+* Correção de um problema com o upload de arquivos para o Experience Cloud Assets arrastando e soltando.
 
 **Problemas conhecidos**
 
@@ -416,7 +438,7 @@ Novos recursos e correções na colaboração e interface de compartilhamento da
 * Alguns usuários podem perceber um atraso na notificação exibida quando uma pasta é compartilhada da Experience Cloud com a Creative Cloud.
 * Alguns usuários podem enfrentar um problema ao compartilharem uma pasta entre a Experience Cloud e a Creative Cloud.
 * Alguns usuários podem ter problemas ao criar um público-alvo em um conjunto de relatórios do Analytics depois que os públicos-alvo compartilhados forem ativados.
-* Alguns usuários podem ter problemas ao carregar ativos em um quadro.
+* Algumas pessoas podem ter problemas ao fazer upload de ativos em um quadro.
 
 ## Versão 14.11.1 - 13 de novembro de 2014 {#section_A6CF1D4F27B9496892A89C983EB39102}
 
@@ -424,7 +446,7 @@ Problemas conhecidos:
 
 * Alguns usuários conseguem excluir um ativo antigo em vez de receberem uma notificação de erro.
 * Alguns arquivos [!DNL .png] não podem ser renderizados em um cartão.
-* Alguns usuários podem ter problemas ao carregar ativos em um quadro.
+* Algumas pessoas podem ter problemas ao fazer upload de ativos em um quadro.
 * Alterações de grupo e de direito realizadas no gerenciamento de usuários só têm efeito após um novo logon.
 * Os administradores precisam fazer logoff e então, fazer logon novamente para ver alterações feitas nas Configurações da conta.
 * Os usuários não podem compartilhar arquivos PowerPoint em quadros.
@@ -460,7 +482,7 @@ Novos recursos e correções na colaboração e interface de compartilhamento da
 
 **Problemas conhecidos**
 
-* Alguns usuários podem ter problemas ao carregar ativos em um quadro.
+* Algumas pessoas podem ter problemas ao fazer upload de ativos em um quadro.
 * Alguns arquivos [!DNL .png] não podem ser renderizados em um cartão.
 * Alterações de grupo e de direito realizadas no gerenciamento de usuários só têm efeito após um novo logon.
 * É possível que alguns usuários não consigam criar um cartão a partir de um PDF e compartilhá-lo em um quadro.
@@ -480,7 +502,7 @@ Novos recursos e correções na colaboração e interface de compartilhamento da
 
 * Alterações de grupo e de direito realizadas no gerenciamento de usuários só têm efeito após um novo logon.
 * Alguns usuários não podem criar um cartão com base em um PDF e compartilhá-lo em um quadro.
-* Alguns usuários podem ter problemas ao carregar ativos em um quadro.
+* Algumas pessoas podem ter problemas ao fazer upload de ativos em um quadro.
 * Alguns usuários conseguem excluir um ativo antigo em vez de receberem uma notificação de erro.
 * Os usuários não podem compartilhar arquivos PowerPoint em quadros.
 * Alguns arquivos [!DNL .png] não podem ser renderizados em um cartão.
@@ -511,7 +533,7 @@ Novos recursos e correções na colaboração e interface de compartilhamento da
 
 * Alterações de grupo e de direito realizadas no gerenciamento de usuários só têm efeito após um novo logon.
 * É possível que alguns usuários não consigam criar um cartão a partir de um PDF e compartilhá-lo em um quadro.
-* Alguns usuários podem ter problemas ao carregar ativos em um quadro.
+* Algumas pessoas podem ter problemas ao fazer upload de ativos em um quadro.
 * É possível que alguns usuários não consigam fazer o logon do [!DNL Target] para a [!DNL Experience Cloud].
 * Alguns usuários do Audience Manager não conseguem efetuar o logon na [!DNL Experience Cloud].
 * Alguns usuários conseguem excluir um ativo antigo em vez de receberem uma notificação de erro.
@@ -531,7 +553,7 @@ Novos recursos e correções na colaboração e interface de compartilhamento da
 * Os arquivos excluídos de [!DNL Experience Cloud] não estão sendo excluídos de [!DNL Digital Asset Management].
 * Alguns usuários do [!UICONTROL Exchange] podem ter seus nomes em forma de ID de sequência nos comentários em vez de seus nomes.
 * Alguns arquivos [!DNL .png] não podem ser renderizados em um cartão.
-* O carregamento de arquivos permite mais tipos de arquivos do que o método arrastar e soltar. Para obter melhores resultados, carregue usando o [!UICONTROL Assets].
+* O upload de arquivos permite mais tipos de arquivos do que o método arrastar e soltar. Para obter melhores resultados, carregue usando o [!UICONTROL Assets].
 * A vinculação do [!DNL Search&Promote] não está disponível na página [!UICONTROL Organizations &amp; Product Access].
 * Usuários do [!DNL Exchange] devem limpar os cookies para melhorar o desempenho.
 * A interface da [!DNL Experience Cloud] pode desacelerar caso seja usada de modo paralelo por muitos usuários.
@@ -569,7 +591,7 @@ Novos recursos e correções na colaboração e interface de compartilhamento da
 **Problemas conhecidos**
 
 * Os arquivos excluídos de [!DNL Experience Cloud] não estão sendo excluídos de [!DNL Digital Asset Management].
-* O carregamento de arquivos permite mais tipos de arquivos do que o método arrastar e soltar. Para obter melhores resultados, carregue usando o Assets.
+* O upload de arquivos permite mais tipos de arquivos do que o método arrastar e soltar. Para obter melhores resultados, carregue usando o Assets.
 * A vinculação do [!DNL Search&Promote] não está disponível na página [!UICONTROL Organizations &amp; Product Access].
 * Os filtros aplicados aos relatórios de tendências do [!DNL Analytics] não se aplicam aos cartões na [!DNL Experience Cloud].
 * Para alguns usuários, não é possível vincular a conta de gerenciamento de público-alvo à conta da [!DNL Experience Cloud].
@@ -658,7 +680,7 @@ Novos recursos e correções na colaboração e interface de compartilhamento da
 * Após adicionar uma tag personalizada a um ativo, nenhuma outra alteração nos metadados pode ser persistente.
 * Os usuários precisam atualizar o quadro para que os cartões excluídos desapareçam da exibição.
 * Quando a opção **[!UICONTROL Lembre-se de mim]** não está selecionada durante o logon, o usuário é desconectado após 15 minutos.
-* A página de aterrissagem do aplicativo do [!DNL Analytics] exibe erros de formatação.
+* A página de destino do aplicativo do [!DNL Analytics] exibe erros de formatação.
 * Os usuários devem efetuar o logout e o logon novamente para que todas as permissões e alterações de direito tenham efeito.
 * Ao deletar uma imagem, os [!UICONTROL Ativos] não avisam se a imagem está sendo usada no [!DNL Adobe Target Essentials].
 * O link Comentários não pode ser selecionado na exibição do cartão de ativos.
@@ -693,7 +715,7 @@ A versão 14.3.1 é uma versão de manutenção com foco na agilidade, na estabi
 * Atualizar um cartão do [!DNL Analytics] pode, às vezes, levar a um gráfico vazio no cartão expandido.
 * Os usuários devem efetuar o logout e o logon novamente para que todas as permissões e alterações de direito tenham efeito.
 * Quando *`Remember me`* não for selecionado durante o logon, a sessão do usuário será encerrada após 15 minutos.
-* A página de aterrissagem do aplicativo do [!DNL Analytics] exibe erros de formatação.
+* A página de destino do aplicativo do [!DNL Analytics] exibe erros de formatação.
 * O link Comentários não pode ser selecionado na exibição do cartão de ativos.
 * A interface da Experience Cloud pode ficar lenta caso seja usada de modo paralelo por muitos usuários.
 * A Experience Cloud não pode ser vinculada ao [!DNL Adobe Target] caso o logon do [!DNL Adobe Target] seja utilizado em vários servidores do Target.

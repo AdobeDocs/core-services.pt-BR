@@ -1,26 +1,26 @@
 ---
-description: Saiba mais sobre os cookies da Adobe Ad Cloud para mapear eventos de envolvimento de anúncios em eventos de conversão e, potencialmente, usar essas informações para otimizar ofertas de anúncios.
-title: 'Cookies da Advertising Cloud  '
+description: Saiba mais sobre os cookies Adobe Advertising para mapear eventos de envolvimento de anúncios em eventos de conversão e, possivelmente, usar essas informações para otimizar ofertas de anúncios.
+title: Cookies Adobe Advertising
 uuid: 2eec48a3-3e81-488e-8e30-5fd62885de0b
 feature: Cookies
 topic: Administration
 role: Admin
 level: Experienced
 exl-id: 6818edea-31b1-49fc-bca2-32828c7ca78d
-source-git-commit: 854a2b298db4fab3339e2b2ea03701dc6511af8d
-workflow-type: ht
-source-wordcount: '569'
-ht-degree: 100%
+source-git-commit: 5d0e02713ec4b233e06ecd3ac0234d1526b947f1
+workflow-type: tm+mt
+source-wordcount: '554'
+ht-degree: 75%
 
 ---
 
-# Cookies da Advertising Cloud {#advertising-cloud-cookies}
+# Cookies Adobe Advertising{#advertising-cloud-cookies}
 
-A Advertising Cloud usa cookies para mapear eventos de envolvimento de anúncios a eventos de conversão e, possivelmente, para usar essas informações para otimizar ofertas de anúncios.
+O Adobe Advertising (antigo Adobe Advertising Cloud) usa cookies para mapear eventos de envolvimento de anúncios a eventos de conversão e, possivelmente, para usar essas informações para otimizar ofertas de anúncios.
 
 >[!NOTE]
 >
->A tag beta do JavaScript Advertising Cloud que usa o [Adobe Experience Cloud ID (ECID) Service](https://experienceleague.adobe.com/docs/id-service/using/intro/overview.html?lang=pt-BR) cria [cookies próprios s_ecid da Experience Cloud](cookies-first-party.md), não cookies da Advertising Cloud.
+>A tag JavaScript do Adobe Advertising beta que usa o [Serviço da Adobe Experience Cloud ID (ECID)](https://experienceleague.adobe.com/docs/id-service/using/intro/overview.html?lang=pt-BR) cria [cookies s_ecid de Experience Cloud próprios](cookies-first-party.md), não cookies de Adobe Advertising.
 
 ## Nome do cookie: _lcc
 
@@ -67,7 +67,7 @@ A Advertising Cloud usa cookies para mapear eventos de envolvimento de anúncios
  <tbody> 
   <tr> 
    <td colname="col1"> <p>Informações armazenadas </p> </td> 
-   <td colname="col2"> <p>IDs codificadas e carimbos de data e hora para envolvimento de anúncios usando o rastreamento DSP da Advertising Cloud </p> </td> 
+   <td colname="col2"> <p>IDs codificadas e carimbos de data e hora para envolvimento de anúncios usando o rastreamento de Adobe Advertising DSP </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p>Expiração </p> </td> 
@@ -104,11 +104,11 @@ A Advertising Cloud usa cookies para mapear eventos de envolvimento de anúncios
   </tr> 
   <tr> 
    <td colname="col1"> <p>Expiração </p> </td> 
-   <td colname="col2"> <p>Os cookies definidos em 24 de fevereiro de 2021 ou antes expiram após 730 dias. Os cookies definidos em 25 de fevereiro de 2021 ou depois expiram após 364 dias.</p> </td> 
+   <td colname="col2"> <p>1 ano</p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p>Uso </p> </td> 
-   <td colname="col2"> <p>Um cookie próprio que associa a ID do surfer aos segmentos e conversões relevantes do público-alvo </p> <p> As informações sobre a última visita são usadas para otimizar os tempos de carregamento da página, evitando solicitações desnecessárias para os servidores da Adobe. </p> <p>As informações sobre o último clique de pesquisa ajudam a determinar se um evento de conversão foi o resultado de um clique ou de uma visualização (conversão resultante de impressões, mas sem cliques). </p> </td> 
+   <td colname="col2"> <p>Um cookie próprio que associa a ID do surfer aos segmentos e conversões relevantes do público-alvo </p> <p> As informações sobre a última visita são usadas para otimizar os tempos de carregamento da página, evitando solicitações desnecessárias para [!DNL Adobe] servidores. </p> <p>As informações sobre o último clique de pesquisa ajudam a determinar se um evento de conversão foi o resultado de um clique ou de uma visualização (conversão resultante de impressões, mas sem cliques). </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p>Localização </p> </td> 
@@ -121,7 +121,7 @@ A Advertising Cloud usa cookies para mapear eventos de envolvimento de anúncios
  </tbody> 
 </table>
 
-## Nome do cookie: ev_sync_*
+## Nome do cookie: ev_sync_&#42;
 
 (ev_sync_ax, ev_sync_bk, ev_sync_dd, ev_sync_fs, ev_sync_ix, ev_sync_nx, ev_sync_ox, ev_sync_pm, ev_sync_rc, ev_sync_tm, ev_sync_yh)
 
@@ -143,7 +143,7 @@ A Advertising Cloud usa cookies para mapear eventos de envolvimento de anúncios
   </tr> 
   <tr> 
    <td colname="col1"> <p>Uso </p> </td> 
-   <td colname="col2"> <p>Um cookie de terceiros específico da troca de anúncios que sincroniza a ID do surfer da Advertising Cloud, com a troca de anúncios do parceiro. Ele é criado para novos surfers e envia uma solicitação de sincronização quando expira. </p> </td> 
+   <td colname="col2"> <p>Um cookie de terceiros específico da troca de anúncios que sincroniza a ID do surfer do Adobe Advertising com a troca de anúncios do parceiro. Ele é criado para novos surfers e envia uma solicitação de sincronização quando expira. </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p>Localização </p> </td> 
@@ -172,7 +172,7 @@ A Advertising Cloud usa cookies para mapear eventos de envolvimento de anúncios
   </tr> 
   <tr> 
    <td colname="col1"> <p>Expiração </p> </td> 
-   <td colname="col2"> <p>2 anos </p> </td> 
+   <td colname="col2"> <p>1 ano </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p>Uso </p> </td> 
@@ -234,7 +234,7 @@ A Advertising Cloud usa cookies para mapear eventos de envolvimento de anúncios
  <tbody> 
   <tr> 
    <td colname="col1"> <p>Informações armazenadas </p> </td> 
-   <td colname="col2"> <p>ID da Advertising Cloud DSP (Demand Side Platform) </p> </td> 
+   <td colname="col2"> <p>ID do Adobe Advertising DSP (Demand Side Platform) </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p>Expiração </p> </td> 

@@ -5,10 +5,10 @@ breadcrumb-title: Componentes da interface central da Experience Cloud
 title: Manual de administração e interface da Experience Cloud
 description: Conheça a interface da Experience Cloud e as preferências da conta de usuário. Saiba como pesquisar objetos comerciais e gerenciar usuários e produtos. Configure os Atributos do cliente, a Biblioteca de público-alvo, os cookies e o compartilhe Ativos da Experience Cloud.
 index: true
-source-git-commit: 657d7e665ac3d20b80bdb26db0e3e62e421218bf
-workflow-type: ht
+source-git-commit: 850df6ff4e65f339e35f08bd5aacd2f38f79bea0
+workflow-type: tm+mt
 source-wordcount: '365'
-ht-degree: 100%
+ht-degree: 99%
 
 ---
 
@@ -66,7 +66,7 @@ ht-degree: 100%
       + [Cookies do [!UICONTROL Data Connectors]](cookies-dc.md)
       + [Cookies do [!UICONTROL Data Workbench]](cookies-insight.md)
       + [Cookies da Experience Cloud](cookies-mc.md)
-      + [Cookies da Advertising Cloud](cookies-advertising-cloud.md)
+      + [Cookies do Adobe Advertising](cookies-advertising-cloud.md)
       + [Cookies do [!DNL Scene7]](cookies-s7.md)
       + [Cookies do [!DNL Search and Promote]](cookies-snp.md)
       + [Cookies do [!DNL Target]](cookies-target.md)

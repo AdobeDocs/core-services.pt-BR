@@ -2,9 +2,8 @@
 description: Saiba mais sobre as preferências de aprendizado personalizadas na Experience Cloud. Isso permite que os clientes recebam por email ajuda e promoções personalizadas com base em seus Dados de uso, em seus produtos da Adobe Experience Cloud e nas comunidades da Adobe Experience League.
 solution: Experience Cloud
 title: Preferências de aprendizado personalizadas da Experience Cloud
-feature: Customer Attributes
 exl-id: ad6c8daf-c8ad-42e9-8ff0-cef59dc0da3f
-source-git-commit: 199643aeaaf422ec9ad637e18a03d25b5782546b
+source-git-commit: 57f4925616c5accbe605aa96f926335abaf9aebd
 workflow-type: ht
 source-wordcount: '397'
 ht-degree: 100%

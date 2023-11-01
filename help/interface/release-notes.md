@@ -3,13 +3,14 @@ description: Saiba mais sobre os últimos recursos, notas de versão e problemas
 solution: Experience Cloud
 title: Notas de versão cumulativas
 uuid: fcff8cc6-e587-4bf2-9a75-261d4eabc7d4
-feature: Customer Attributes
+feature-set: Experience Cloud
+feature: Release Notes
 topic: Administration
 role: Admin
 level: Experienced
 exl-id: b71d144c-a097-4cdb-9721-671519d38aff
-source-git-commit: 4c3b72fb17b241208b5dea4f85cf1fd2a97ab303
-workflow-type: tm+mt
+source-git-commit: 57f4925616c5accbe605aa96f926335abaf9aebd
+workflow-type: ht
 source-wordcount: '4770'
 ht-degree: 100%
 
@@ -553,7 +554,7 @@ Novos recursos e correções na colaboração e interface de compartilhamento da
 **Problemas conhecidos**
 
 * Os arquivos excluídos de [!DNL Experience Cloud] não estão sendo excluídos de [!DNL Digital Asset Management].
-* Alguns usuários do [!UICONTROL Exchange] podem ter seus nomes em forma de ID de sequência nos comentários em vez de seus nomes.
+* Alguns usuários do [!UICONTROL Exchange] podem ter seus nomes em forma de ID de string nos comentários em vez de seus nomes.
 * Alguns arquivos [!DNL .png] não podem ser renderizados em um cartão.
 * O upload de arquivos permite mais tipos de arquivos do que o método arrastar e soltar. Para obter melhores resultados, carregue usando o [!UICONTROL Assets].
 * A vinculação do [!DNL Search&Promote] não está disponível na página [!UICONTROL Organizations &amp; Product Access].
@@ -598,7 +599,7 @@ Novos recursos e correções na colaboração e interface de compartilhamento da
 * Os filtros aplicados aos relatórios de tendências do [!DNL Analytics] não se aplicam aos cartões na [!DNL Experience Cloud].
 * Para alguns usuários, não é possível vincular a conta de gerenciamento de público-alvo à conta da [!DNL Experience Cloud].
 * Sua sessão será encerrada após 15 minutos de inatividade. Além disso, encerrar a sessão em uma localização encerra a sua sessão na Experience Cloud.
-* Alguns usuários do Exchange podem ter seus nomes em forma de ID de sequência nos comentários em vez de seus nomes.
+* Alguns usuários do Exchange podem ter seus nomes em forma de ID de string nos comentários em vez de seus nomes.
 
 **Correções**
 

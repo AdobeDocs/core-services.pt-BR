@@ -1,14 +1,13 @@
 ---
 description: Saiba mais sobre os componentes de interface central para o Experience Cloud. Este guia inclui ajuda sobre a administração de usuários e produtos no Admin Console, como habilitar aplicativos para serviços do Experience Cloud e ajuda sobre a biblioteca de público-alvo, atributos do cliente, ativos do Experience Cloud e muito mais.
-solution: Experience Cloud
 title: Ajuda e documentação da interface do Experience Cloud
 uuid: aec6f689-e617-4876-ae6c-e961cfcb991a
-feature: Customer Attributes
+feature: Central Interface Components
 topic: Administration
 role: Admin
 level: Experienced
 exl-id: aedad5cb-3282-4a97-8e7e-6d65f7b75ba9
-source-git-commit: 657d7e665ac3d20b80bdb26db0e3e62e421218bf
+source-git-commit: acdf73ddc3bacbf18c069b7fd6afd935a17003a4
 workflow-type: ht
 source-wordcount: '1347'
 ht-degree: 100%

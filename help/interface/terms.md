@@ -2,14 +2,15 @@
 description: Saiba mais sobre os termos na Adobe Experience Cloud e como eles são diferentes na Creative Cloud.
 solution: Experience Cloud
 title: Terminologia
-feature: Customer Attributes
+feature-set: Experience Cloud Services
+feature: Central Interface Components
 topic: Administration
 role: Admin
 level: Experienced
 exl-id: 3799f806-2794-43ab-9e70-06ee693871e7
-source-git-commit: eb2ad8a8255915be47b6002a78cc810b522170d2
+source-git-commit: ad67ac4d64a181ba642f9314a2dc40df279c505f
 workflow-type: ht
-source-wordcount: '1445'
+source-wordcount: '1442'
 ht-degree: 100%
 
 ---
@@ -21,7 +22,7 @@ Uma referência de terminologia para usuários da Experience Cloud e como esses 
 | Termo | Creative Cloud | Experience Cloud |
 |--- |----- |---- |
 | Ativo | Na Creative Cloud, um ativo normalmente é um arquivo de imagem.<br>Os recursos podem ser camadas em um arquivo do Photoshop, slides em um arquivo do PowerPoint, páginas em um PDF e arquivos em um ZIP. | Na Experience Cloud, um ativo é um documento digital, uma imagem, um vídeo ou áudio que pode ter várias representações e subativos. São exemplos:<ul><li>Arquivo</li><li>Documento</li><li>Imagem</li><li>Vídeo</li><li>Áudio Clip</li><li>Apresentação</li><li>Modelo de imagem</li><li>Modelo de vídeo</li></ul> |
-| Atributo |  | O que as pessoas têm em comum se qualificarem para um [segmento](https://experienceleague.adobe.com/docs/analytics/components/segmentation/seg-home.html?lang=pt-BR). (Semelhante a uma [característica](https://experienceleague.adobe.com/docs/audience-manager/user-guide/aam-glossary.html?lang=pt-BR) no Audience Manager.) |
+| Atributo | | O que as pessoas têm em comum se qualificarem para um [segmento](https://experienceleague.adobe.com/docs/analytics/components/segmentation/seg-home.html?lang=pt-BR). (Semelhante a uma [característica](https://experienceleague.adobe.com/docs/audience-manager/user-guide/aam-glossary.html?lang=pt-BR) no Audience Manager.) |
 | Públicos-alvo | Na Creative Cloud, um público-alvo pode ser a pessoa que assiste a um vídeo. | Na Experience Cloud, os públicos-alvo são coleções de pessoas que podem ser o alvo das atividades de campanha.<br>A associação em um público-alvo pode ser determinada com base em um conjunto de regras, que funcionam no contexto do visitante ou com base em uma lista fixa. Por exemplo, uma lista de assinantes de email ou membros em um grupo do Facebook.<br>No [Experience Cloud Audiences](audience-library.md), a criação e o gerenciamento de públicos-alvo são semelhantes à criação e ao uso de segmentos, além da capacidade de compartilhá-los na Experience Cloud.<br>**Adobe Target**<br> No Adobe Target, os públicos eram chamados de segmentos.<br>**Adobe Analytics**<br> No Analytics, os públicos podem ser considerados visitantes de um site. Você pode criar segmentos de público-alvo e publicar o público-alvo na Experience Cloud. |
 | Campanhas | Na Creative Cloud, uma campanha pode ser considerada como uma campanha de marketing que usa ativos de imagem da Creative Cloud. | Na Experience Cloud, as campanhas determinam o conteúdo que é exibido para o público-alvo. Também determina onde (localização) e quando o conteúdo é exibido. Uma campanha tem um objetivo específico, que é rastreado por métricas.<br>Executar uma campanha requer que o contexto do visitante seja compatível com as regras definidas para a campanha, além de ser compatível com a entrega do conteúdo de acordo com as restrições técnicas do local do canal.<br>No Adobe Target, os termos campanha e atividade são sinônimos. |
 | Canal | Na Creative Cloud, os canais podem ser imagens em tons de cinza que armazenam diferentes tipos de informações. São canais de informações e canais de cores. | Na Experience Cloud, um canal é um atributo de um local ou uma atividade em uma campanha.<br>No Analytics, os canais de marketing são normalmente usados para oferecer informações sobre como os visitantes chegam ao seu site; por exemplo, através de campanhas de email.<br>São exemplos:<ul><li>Email</li><li>Exibir anúncios</li><li>Redes sociais</li><li>Pesquisa paga</li><li>Pesquisa natural</li><li>Domínios de referência</li></ul> |
@@ -35,7 +36,7 @@ Uma referência de terminologia para usuários da Experience Cloud e como esses 
 | [!UICONTROL Serviço da Experience Cloud ID] (ECID) | Nenhum uso especial. | A ID exclusiva e persistente atribuída a um visitante do site. É uma entidade específica que pode ser usada pelo Serviço de identidade da Experience Platform. [Mais...](https://experienceleague.adobe.com/docs/id-service/using/home.html?lang=pt-BR) |
 | [!UICONTROL Serviço de identificação da Experience Platform] | Nenhum uso especial. | O serviço que vincula identidades. É o serviço de vinculação de dispositivos para o gerenciamento de experiências baseado em pessoas. |
 | Vinculação | Nenhum uso especial. A vinculação refere-se à navegação de hyperlink e aos itens de vinculação como fontes, propriedades, camadas e assim por diante. | Na Experience Cloud, vincular normalmente se refere à vinculação de diferentes contas de aplicativo à interface.<br>Consulte [Organizações e vinculação de contas](organizations.md).<br>Vinculação também se refere aos URLs padrão para os relatórios do Analytics enviados para outros usuários. |
-| Localizações | Na Creative Cloud, local se refere a locais de arquivos ou a um local em uma imagem ou documento aberto. | Na Experience Cloud, os locais são onde o conteúdo é visualizado (e pode receber interação) pelo Público-alvo. A associação entre os locais e o conteúdo pode ser mais ou menos estática, ou gerenciada dinamicamente de acordo com as regras de uma campanha. Um local sempre pertence a um Canal específico que determina como o Conteúdo pode ser entregue e como as Métricas podem ser coletadas.<br>São exemplos:<ul><li>Sites</li><li>Propriedades (Social)</li><li>Exibir inventário</li><li>Páginas de aterrissagem</li><li>Aplicativos móveis</li><li>Slots (vídeo)</li></ul> |
+| Localizações | Na Creative Cloud, local se refere a locais de arquivos ou a um local em uma imagem ou documento aberto. | Na Experience Cloud, os locais são onde o conteúdo é visualizado (e pode receber interação) pelo Público-alvo. A associação entre os locais e o conteúdo pode ser mais ou menos estática, ou gerenciada dinamicamente de acordo com as regras de uma campanha. Um local sempre pertence a um Canal específico que determina como o Conteúdo pode ser entregue e como as Métricas podem ser coletadas.<br>São exemplos:<ul><li>Sites</li><li>Propriedades (Social)</li><li>Exibir inventário</li><li>Páginas de destino</li><li>Aplicativos móveis</li><li>Slots (vídeo)</li></ul> |
 | Métricas | Não usado na Creative Cloud. | Números agregados sobre conceitos e objetivos principais. No Analytics, as métricas são informações quantitativas sobre a atividade do visitante, como Visualizações, Cliques, Recarregamentos, Tempo médio gasto, Unidades, Pedidos e Receita. |
 | Organização | Não usado na Creative Cloud. | Uma organização é uma entidade da Experience Cloud que permite ao administrador configurar usuários e produtos, além de controlar o logon único na Experience Cloud. Geralmente, a organização é a empresa de cobrança. |
 | Portfólio | Um conjunto de vários arquivos ou ativos. | Um contêiner de campanhas. |
@@ -46,4 +47,4 @@ Uma referência de terminologia para usuários da Experience Cloud e como esses 
 | Solução | Nenhum uso especial. | Na Experience Cloud, os aplicativos são conhecidos como produtos, tais como o Adobe Analytics, Adobe Social, Adobe Target e assim por diante. |
 | Característica | N/D | Um par de valores-chave, por exemplo, color=blue. No Audience Manager, as [características](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/traits/traits-overview.html?lang=pt-BR) são usadas para criar segmentos. |
 
-{style=&quot;table-layout:auto&quot;}
+{style="table-layout:auto"}

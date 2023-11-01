@@ -3,12 +3,11 @@ description: Informações sobre atualizações na ajuda da Adobe Experience Clo
 solution: Experience Cloud
 title: Atualizações de documentação
 uuid: f41c4e9f-e784-4706-8c4b-f430c953670d
-feature: Customer Attributes
 topic: Administration
 role: Admin
 level: Experienced
 exl-id: 11cc5005-8ec0-4308-bc94-0f78666ea645
-source-git-commit: eb2ad8a8255915be47b6002a78cc810b522170d2
+source-git-commit: 57f4925616c5accbe605aa96f926335abaf9aebd
 workflow-type: tm+mt
 source-wordcount: '551'
 ht-degree: 98%
@@ -19,7 +18,7 @@ ht-degree: 98%
 
 Informações sobre atualizações na documentação do produto da Experience Cloud.
 
-**Atualizado em 28/02/2022**
+**Atualizado em 28/2/2022**
 
 Adição de uma página para [Pesquisa unificada](search-experience-cloud.md)
 
@@ -50,7 +49,7 @@ Atualização das [perguntas frequentes sobre administração](faq.md) com infor
 
 **Atualizado em 24/8/2021**
 
-Atualização da página [Componentes centrais](experience-cloud.md) (página de aterrissagem deste guia). Adição de suporte a navegador e idioma, atualizações para organizações, logon e adição de informações sobre domínios.
+Atualização da página [Componentes centrais](experience-cloud.md) (página de destino deste guia). Adição de suporte a navegador e idioma, atualizações para organizações, logon e adição de informações sobre domínios.
 
 **Atualizado em 6/8/2021**
 
@@ -62,7 +61,7 @@ A estrutura do manual e o índice foram reorganizados.
 
 **Atualizado: 1/6/2021**
 
-As [páginas de aterrisagem](experience-cloud.md) foram atualizadas com uma nova ajuda para o acesso ao Experience Cloud, pesquisa global, preferências e notificações.
+As [páginas de destino](experience-cloud.md) foram atualizadas com uma nova ajuda para o acesso ao Experience Cloud, pesquisa global, preferências e notificações.
 
 **Atualizado: 19/8/2020**
 

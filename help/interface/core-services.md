@@ -3,12 +3,12 @@ description: Modernize seus aplicativos do Adobe Analytics e do Adobe Target par
 solution: Experience Cloud
 title: Habilite seus aplicativos para executarem serviços entre aplicativos
 index: true
-feature: Customer Attributes
+feature: Central Interface Components
 topic: Administration
 role: Admin
 level: Experienced
 exl-id: 48e79e23-b339-4143-b3b1-969c370efeff
-source-git-commit: df7afcd805a342876a5dd0ac77d141e7d1105b77
+source-git-commit: 57f4925616c5accbe605aa96f926335abaf9aebd
 workflow-type: tm+mt
 source-wordcount: '2371'
 ht-degree: 95%
@@ -151,9 +151,9 @@ Recomenda-se modernizar sua implementação do Analytics ao atualizar suas bibli
 * Se você não estiver usando o [!UICONTROL Experience Platform Launch], [atualize a biblioteca mbox](https://experienceleague.adobe.com/docs/target/using/implement-target/client-side/implement-target-for-client-side-web.html?lang=pt-BR) manualmente.
 * Solicite acesso para usar o Adobe Analytics como fonte de relatórios para o [!DNL Adobe Target]. Os dados do [!DNL Target] e do [!DNL Analytics] são combinados na mesma chamada de servidor durante o processamento para que os visitantes sejam conectados entre os dois aplicativos. Consulte [Implementação do Analytics for Target](https://experienceleague.adobe.com/docs/target/using/integrate/a4t/a4t.html?lang=pt-BR).
 
-   >[!IMPORTANT]
-   >
-   >Todos os clientes do Analytics já foram provisionados com os serviços principais, como atributos do cliente. Se você não for um cliente do Analytics, entre em contato com o Atendimento ao cliente para solicitar o provisionamento.
+  >[!IMPORTANT]
+  >
+  >Todos os clientes do Analytics já foram provisionados com os serviços principais, como atributos do cliente. Se você não for um cliente do Analytics, entre em contato com o Atendimento ao cliente para solicitar o provisionamento.
 
 ## Verifique a implementação {#section_E641782A0F4F44AF8C9C91216BE330D5}
 

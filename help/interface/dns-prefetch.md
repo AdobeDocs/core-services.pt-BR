@@ -1,17 +1,16 @@
 ---
 description: Saiba como implementar a pré-busca de DNS para ajudar a reduzir os tempos de carregamento de página de diferentes aplicativos e serviços na Experience Cloud.
 solution: Experience Cloud
-title: 'Uso da pré-busca de DNS com diferentes aplicativos e serviços '
+title: Uso da pré-busca de DNS com diferentes aplicativos e serviços
 uuid: 4220e223-e00e-46b1-8bde-52248913bea1
-feature: Customer Attributes
 topic: Administration
 role: Admin
 level: Experienced
 exl-id: caf2ff76-2076-436d-a5a7-aff531464480
-source-git-commit: 542d3b9a246ca9616a853f4b6711efea290398d7
+source-git-commit: 57f4925616c5accbe605aa96f926335abaf9aebd
 workflow-type: tm+mt
 source-wordcount: '379'
-ht-degree: 100%
+ht-degree: 95%
 
 ---
 
@@ -25,7 +24,7 @@ Os navegadores usam a pré-busca DNS para resolver automaticamente os nomes de d
 
 ## Pré-busca de DNS e aplicativos da Adobe Experience Cloud {#section_202A07F9F79F4ABDA44B98BA1DDCD516}
 
-A pré-busca de DNS funciona automaticamente com links estáticos e incorporados em uma página. Isso também significa que a pré-busca de DNS automática não funciona com diferentes aplicativos e serviços da [!UICONTROL Experience Cloud] porque:
+A pré-busca de DNS funciona automaticamente com links estáticos e incorporados em uma página. Isso também significa que a pré-busca de DNS automática não funciona com [!UICONTROL Experience Cloud] aplicativos e serviços porque:
 
 * Cada aplicativo ou serviço da Experience Cloud gera chamadas de DNS dinamicamente à medida que a página é carregada.
 * O navegador não pode resolver nomes de domínio para o endereço IP antes que essas chamadas sejam feitas.
@@ -38,7 +37,7 @@ Os seguintes exemplos mostram como fazer chamadas de pré-busca de DNS para dife
 
 * **Analytics:** `<link rel="dns-prefetch" href="//insert tracking server name here">`.
 
-   Adicione uma tag separada para cada nome DNS se você usar servidores de rastreamento protegidos e não protegidos.
+  Adicione uma tag separada para cada nome DNS se você usar servidores de rastreamento protegidos e não protegidos.
 
 * **Audience Manager:** `<link rel="dns-prefetch" href="//dpm.demdex.net">`
 
@@ -56,4 +55,3 @@ Os seguintes exemplos mostram como fazer chamadas de pré-busca de DNS para dife
 >[!MORELIKETHIS]
 >
 >* [Pré-busca DNS](https://www.chromium.org/developers/design-documents/dns-prefetching)
-

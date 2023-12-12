@@ -5,17 +5,17 @@ breadcrumb-title: Componentes da interface central da Experience Cloud
 title: Manual de administração e interface da Experience Cloud
 description: Conheça a interface da Experience Cloud e as preferências da conta de usuário. Saiba como pesquisar objetos comerciais e gerenciar usuários e produtos. Configure os Atributos do cliente, a Biblioteca de público-alvo, os cookies e o compartilhe Ativos da Experience Cloud.
 index: true
-source-git-commit: 3d33353d5df4e2dfc618f998d256a5d40ae90c6b
+source-git-commit: 55b28d6a16f88955d7259a464bb690ee5985540e
 workflow-type: tm+mt
-source-wordcount: '365'
-ht-degree: 100%
+source-wordcount: '338'
+ht-degree: 98%
 
 ---
 
 
 # Componentes da interface central da Experience Cloud {#interface}
 
-+ [Componentes da interface central da Experience Cloud manual](experience-cloud.md)
++ [Guia de componentes da interface central do Experience Cloud](experience-cloud.md)
 + Serviços da Experience Cloud {#services}
    + [Serviços da Experience Cloud](core-services-landing.md)
    + [Pesquisa unificada na Experience Cloud](search-experience-cloud.md)
@@ -37,10 +37,6 @@ ht-degree: 100%
       + [Suporte ao Regulamento Geral sobre a Proteção de Dados](gdpr.md)
       + [Suporte à California Consumer Privacy Act](ccpa.md)
       + [Considerações de privacidade para atributos do cliente](privacy-mac.md)
-   + Experience Cloud Activation {#activation}
-      + [Visão geral de Activation](activation.md)
-      + [Guia do usuário da Experience Platform Launch](https://experienceleague.adobe.com/docs/experience-platform/tags/home.html?lang=pt-BR)
-      + [Triggers](triggers.md)
    + Ativos da Experience Cloud {#assets}
       + [Visão geral de ativos da Experience Cloud](experience-cloud-assets.md)
       + [Compartilhar as pastas e os ativos da Experience Cloud com a Creative Cloud](creative-cloud.md)

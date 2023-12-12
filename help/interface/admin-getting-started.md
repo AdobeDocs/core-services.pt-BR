@@ -8,10 +8,10 @@ topic: Administration
 role: Admin
 level: Experienced
 exl-id: af9eda5b-d984-44b7-a7b3-52dfc4e03d8f
-source-git-commit: df7afcd805a342876a5dd0ac77d141e7d1105b77
-workflow-type: ht
-source-wordcount: '1863'
-ht-degree: 100%
+source-git-commit: 55b28d6a16f88955d7259a464bb690ee5985540e
+workflow-type: tm+mt
+source-wordcount: '1634'
+ht-degree: 96%
 
 ---
 
@@ -52,9 +52,9 @@ Os administradores podem ver alterações ou adições ao Admin Console da segui
    * Datastreams
    * ID de visitante
 
-   Para organizações que não estão usando a Experience Platform no momento, você verá o produto _Adobe Experience Platform_ no Admin Console, incluindo os recursos listados acima.
+  Para organizações que não estão usando a Experience Platform no momento, você verá o produto _Adobe Experience Platform_ no Admin Console, incluindo os recursos listados acima.
 
-   Para organizações que atualmente usam a Experience Platform, o _Places_ agora será consolidado ao cartão da Experience Platform.
+  Para organizações que atualmente usam a Experience Platform, o _Places_ agora será consolidado ao cartão da Experience Platform.
 
 * A coleta de dados (antigo Launch) e a privacidade da Adobe Experience Platform continuarão a ser exibidas como cartões de produto separados dos outros recursos da Experience Platform.
 
@@ -92,7 +92,7 @@ Admin Console
 * Os usuários individuais da Adobe ID serão atualizados para a Business ID.
 * O diretório da Business ID será adicionado em **[!UICONTROL Configurações]** > **[!UICONTROL Identidade]** > **[!UICONTROL Diretórios]**.
 
-   ![Identidade do Admin Console - Business ID](assets/identity-home.png)
+  ![Identidade do Admin Console - Business ID](assets/identity-home.png)
 
 ### Fazer logon após a migração
 
@@ -208,13 +208,13 @@ O *grupo de segurança* é exibido como um Perfil de produto.
 
 Consulte [Gerenciamento de grupos e usuários](https://experienceleague.adobe.com/docs/campaign-standard/using/administrating/users-and-security/managing-groups-and-users.html?lang=pt-BR) para obter informações sobre grupos de segurança e atribuição de usuários a grupos de segurança.
 
-## Gerenciar a coleta de dados da Experience Platform (Launch) {#section_F2DA6778DD2D48AA8F794041971EE6B1}
+## Gerenciar a coleta de dados do Experience Platform {#section_F2DA6778DD2D48AA8F794041971EE6B1}
 
-A coleção de dados da [!UICONTROL Experience Platform] ([!UICONTROL Launch]) é exibida na página [!UICONTROL Produtos] no [!UICONTROL Admin Console]. É possível incluir outros aplicativos e serviços em um Perfil de produto do Launch.
+Experience Platform [!UICONTROL Coleta de dados] é exibido no [!UICONTROL Produtos] página no [!UICONTROL Admin Console]. É possível incluir outros aplicativos e serviços em um Perfil de produto de coleção de dados.
 
-Convide usuários para o [!UICONTROL Platform Launch] e atribua funções e direitos de usuário.
+Convidar usuários para [!UICONTROL Coleção de dados da plataforma] e atribua funções e direitos de usuário.
 
-Consulte [Permissões de usuário](https://experienceleague.adobe.com/docs/experience-platform/tags/admin/user-permissions.html?lang=pt-BR) para obter informações sobre as permissões do usuário no Admin Console e sobre a configuração de opções específicas do Launch, incluindo a atribuição de direitos aos perfis.
+Consulte [Permissões de usuário](https://experienceleague.adobe.com/docs/experience-platform/tags/admin/user-permissions.html?lang=pt-BR) para obter informações sobre permissões de usuário no Admin Console e sobre a configuração de direitos para perfis.
 
 ## Experience Manager as a Cloud Service
 
@@ -224,7 +224,7 @@ Consulte [Suporte de IMS para o Experience Manager as a Cloud Service](https://e
 
 ## Audience Manager {#section_C31E3FA8A1E14463B1B3E07235F1983C}
 
-Crie usuários no Audience Manager e os atribua a grupos. Também é possível visualizar limites (características, segmentos, destinos e [!DNL AlgoModel]).
+Crie usuários no Audience Manager e os atribua a grupos. Também é possível visualizar limites (traços, segmentos, destinos e [!DNL AlgoModel]).
 
 Consulte [Administração](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/administration/administration-overview.html?lang=pt-BR) na ajuda do Audience Manager.
 

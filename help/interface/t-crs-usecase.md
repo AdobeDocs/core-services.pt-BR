@@ -1,5 +1,5 @@
 ---
-description: Crie uma fonte de atributo do cliente e faça upload dela na Adobe Experience Cloud.
+description: Crie uma fonte de atributo do cliente e faça upload dela para a Adobe Experience Cloud.
 solution: Experience Cloud
 title: Crie uma fonte de atributo do cliente e faça upload do arquivo de dados
 uuid: 53dca789-9a91-4385-839d-c9d1aa36b9be
@@ -8,10 +8,10 @@ topic: Administration
 role: Admin
 level: Experienced
 exl-id: 21ed7c35-aac9-46f1-a50c-84e7c075209c
-source-git-commit: eb2ad8a8255915be47b6002a78cc810b522170d2
+source-git-commit: 55b28d6a16f88955d7259a464bb690ee5985540e
 workflow-type: tm+mt
-source-wordcount: '1164'
-ht-degree: 98%
+source-wordcount: '1125'
+ht-degree: 94%
 
 ---
 
@@ -26,7 +26,7 @@ Crie a fonte de atributo do cliente (arquivos CSV e FIN) e faça upload dos dado
 1. [Criar um arquivo de dados](t-crs-usecase.md#task_B5FB8C0649374C7A94C45DCF2878EA1A)
 1. [Criar a fonte de atributo e fazer upload do arquivo de dados](t-crs-usecase.md#task_09DAC0F2B76141E491721C1E679AABC8)
 1. [Validar o esquema](t-crs-usecase.md#task_09DAC0F2B76141E491721C1E679AABC8)
-1. [Configurar assinaturas e ativar a origem do atributo](t-crs-usecase.md#task_1ACA21198F0E46A897A320C244DFF6EA)
+1. [Configurar assinaturas e ativar a fonte de atributo](t-crs-usecase.md#task_1ACA21198F0E46A897A320C244DFF6EA)
 
 Quando a fonte de dados está ativa, é possível:
 
@@ -66,7 +66,7 @@ Siga essas etapas na página Criar nova fonte de atributo do cliente na Experien
 >
 >Ao criar, modificar ou excluir fontes de atributo do cliente, ocorre um atraso de cerca de uma hora antes de as IDs começarem a realizar a sincronização com a nova fonte de dados. Você deve ter direitos administrativos no Audience Manager para criar ou modificar fontes de atributo do cliente. Entre em contato com o Atendimento ao cliente do Audience Manager ou consulte para obter direitos administrativos.
 
-1. No [!DNL Experience Cloud], selecione o Menu  ![menu](assets/menu-icon.png) ícone .
+1. No [!DNL Experience Cloud], selecione o Menu  ![menu](assets/menu-icon.png) ícone.
 1. Na **[!DNL Experience Platform]**, selecione **[!UICONTROL Pessoas]** > **[!UICONTROL Atributos de cliente]**.
 
    A página [!UICONTROL Atributos do cliente] é o local para gerenciar e editar as fontes de dados do atributo existentes.
@@ -81,45 +81,46 @@ Siga essas etapas na página Criar nova fonte de atributo do cliente na Experien
 
    * **[!UICONTROL Descrição:]** (opcional) uma descrição da fonte de atributos de dados.
 
-   * **[!UICONTROL ID de alias:]** representa uma fonte de dados do atributo do cliente, como um sistema de CRM específico. [!UICONTROL ID de alias] é um identificador exclusivo que é usado em seu código da Fonte de atributo do cliente O identificador deve ser único, estar com letras minúsculas e sem espaços. O valor inserido no campo [!UICONTROL ID de alias] para uma fonte de atributo do cliente na interface da Experience Cloud deve corresponder aos valores que estão sendo transmitidos na implementação (via Coleção de dados (Launch), Dynamic Tag Management ou JavaScript do SDK móvel).
+   * **[!UICONTROL ID de alias:]** representa uma fonte de dados do atributo do cliente, como um sistema de CRM específico. [!UICONTROL ID de alias] é um identificador exclusivo que é usado em seu código da Fonte de atributo do cliente O identificador deve ser único, estar com letras minúsculas e sem espaços. O valor inserido na variável [!UICONTROL ID de alias] o campo de uma fonte de atributo do cliente no Experience Cloud deve corresponder aos valores que estão sendo transmitidos na implementação (seja via Coleção de dados da plataforma ou JavaScript do SDK móvel).
 
-      A ID de alias corresponde a determinadas áreas em que você definiu outros valores da ID do cliente. Por exemplo:
+     A ID de alias corresponde a determinadas áreas em que você definiu outros valores da ID do cliente. Por exemplo:
 
       * **Dynamic tag management:** a ID de alias corresponde ao valor do *Código de integração* nas [!UICONTROL Configurações do cliente], na ferramenta [Serviço da Experience Cloud ID](https://experienceleague.adobe.com/docs/experience-platform/tags/home.html?lang=pt-BR).
 
       * **API do Visitante:** a ID de alias corresponde às [IDs do cliente](https://experienceleague.adobe.com/docs/id-service/using/reference/authenticated-state.html?lang=pt-BR) adicionais que você pode associar a cada visitante.
 
-         Por exemplo, *&quot;crm_ id&quot;* em:
+        Por exemplo, *&quot;crm_ id&quot;* em:
 
-         ```
-         "crm_id":"67312378756723456"
-         ```
+        ```
+        "crm_id":"67312378756723456"
+        ```
 
       * **iOS:** a ID de alias corresponde a *&quot;idType&quot;* em [visitorSyncIdentifiers:identifiers](https://experienceleague.adobe.com/docs/mobile-services/ios/overview.html?lang=pt-BR).
 
-         Por exemplo:
+        Por exemplo:
 
-         `[ADBMobile visitorSyncIdentifiers:@{@<`**`"idType"`**`:@"idValue"}];`
+        `[ADBMobile visitorSyncIdentifiers:@{@<`**`"idType"`**`:@"idValue"}];`
 
       * **Android™:** a ID de alias corresponde a *&quot;idType&quot;* no [syncIdentifiers](https://experienceleague.adobe.com/docs/mobile-services/android/overview.html?lang=pt-BR).
 
-         Por exemplo:
+        Por exemplo:
 
-         `identifiers.put(`**`"idType"`**`, "idValue");`
+        `identifiers.put(`**`"idType"`**`, "idValue");`
 
-         Consulte [Como aproveitar várias fontes de dados](crs-data-file.md#section_76DEB6001C614F4DB8BCC3E5D05088CB) para obter informações adicionais sobre o processamento de dados relacionado ao campo de ID de alias e IDs do cliente.
+        Consulte [Como aproveitar várias fontes de dados](crs-data-file.md#section_76DEB6001C614F4DB8BCC3E5D05088CB) para obter informações adicionais sobre o processamento de dados relacionado ao campo de ID de alias e IDs do cliente.
+
    * **[!UICONTROL Upload de arquivo:]** Você pode arrastar e soltar o arquivo de dados `.csv` ou fazer upload dos dados via FTP. (Usar o FTP também exige um arquivo `.fin`.) Consulte [Fazer upload dos dados via FTP](t-upload-attributes-ftp.md#task_591C3B6733424718A62453D2F8ADF73B).
 
-      >[!IMPORTANT]
-      >
-      >Há requisitos específicos para o arquivo de dados. Consulte [Requisitos do arquivo de dados](crs-data-file.md#concept_DE908F362DF24172BFEF48E1797DAF19) para obter mais informações.
+     >[!IMPORTANT]
+     >
+     >Há requisitos específicos para o arquivo de dados. Consulte [Requisitos do arquivo de dados](crs-data-file.md#concept_DE908F362DF24172BFEF48E1797DAF19) para obter mais informações.
 
 
-      Após o upload do arquivo, os dados da tabela são exibidos no cabeçalho [!UICONTROL Upload de arquivo] dessa página. Valide o esquema, configure a assinatura ou configure o FTP.
+     Após o upload do arquivo, os dados da tabela são exibidos no cabeçalho [!UICONTROL Upload de arquivo] dessa página. Valide o esquema, configure a assinatura ou configure o FTP.
 
-      **Gráfico do upload do arquivo**
+     **Gráfico do upload do arquivo**
 
-      ![atributos](assets/file_upload_attributes.png)
+     ![atributos](assets/file_upload_attributes.png)
 
    * **[!UICONTROL Identificador exclusivo do cliente:]** Exibe quantos identificadores exclusivos você carregou para essa fonte de atributo.
 
@@ -127,10 +128,9 @@ Siga essas etapas na página Criar nova fonte de atributo do cliente na Experien
 
    * **[!UICONTROL IDs fornecidas pelo cliente com altas contagens de alias:]** Exibe a contagem de IDs fornecidas pelo cliente com 500 ou mais IDs de visitante da Experience Cloud com alias. Essas IDs fornecidas pelo cliente provavelmente não representam indivíduos, mas um tipo de logon compartilhado. O sistema distribui os atributos associados a essas IDs para as 500 IDs de visitante da Experience Cloud com alias mais recentes, até a contagem de alias chegar a 10.000. Nesse momento, o sistema invalida a ID fornecida pelo cliente e não distribui mais os atributos associados.
 
-
 ## Validar o esquema {#task_404AAC411B0D4E129AB3AC8B7BE85859}
 
-O processo de validação permite mapear os nomes de exibição e as descrições aos atributos carregados (sequências, números inteiros, números e assim por diante). Também é possível excluir atributos atualizando o esquema.
+O processo de validação permite mapear os nomes de exibição e as descrições aos atributos carregados (strings, números inteiros, números e assim por diante). Também é possível excluir atributos atualizando o esquema.
 
 Consulte [Validar o esquema](validate-schema.md#concept_B3A01A15D04E4F998118E09B3A9B5043).
 
@@ -157,7 +157,7 @@ Na página [!UICONTROL Criar novo [ou Editar] Origem de atributo do cliente], lo
 
 ## Usar os atributos do cliente no Adobe Analytics {#task_7EB0680540CE4B65911B2C779210915D}
 
-Com os dados agora disponíveis em aplicativos como o Adobe Analytics, você pode relatar os dados, analisá-los e tomar as medidas adequadas em suas campanhas de marketing.
+Com os dados agora disponíveis em aplicativos como o Adobe Analytics, você pode relatar os dados, analisá-los e realizar a ação adequada em suas campanhas de marketing.
 
 O exemplo a seguir mostra um segmento do [!DNL Analytics] com base nos atributos carregados. Esse segmento mostra assinantes do [!DNL Photoshop Lightroom] cujo produto mais iniciado é o Photoshop.
 

@@ -7,9 +7,9 @@ topic: Administration
 role: Admin
 level: Experienced
 exl-id: aedad5cb-3282-4a97-8e7e-6d65f7b75ba9
-source-git-commit: 55b28d6a16f88955d7259a464bb690ee5985540e
+source-git-commit: 8b32f5d688309c01acc5f0618d119f56d339a9e5
 workflow-type: tm+mt
-source-wordcount: '1230'
+source-wordcount: '1229'
 ht-degree: 99%
 
 ---
@@ -155,7 +155,6 @@ Este guia fornece acesso à ajuda sobre o usuário da Experience Cloud e a admin
 
 * [[!UICONTROL Biblioteca de público-alvo]](audience-library.md)
 * [[!UICONTROL Atributos do cliente]](attributes.md)
-* [[!UICONTROL Triggers]](triggers.md)
 * [[!UICONTROL Ativos] da Experience Cloud](experience-cloud-assets.md)
 * [Cookies da Experience Cloud](cookies-privacy.md)
 * [Gerenciamento de usuários e de produtos](admin-getting-started.md) (Admin Console)

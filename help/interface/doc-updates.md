@@ -7,10 +7,10 @@ topic: Administration
 role: Admin
 level: Experienced
 exl-id: 11cc5005-8ec0-4308-bc94-0f78666ea645
-source-git-commit: 55b28d6a16f88955d7259a464bb690ee5985540e
+source-git-commit: 8b32f5d688309c01acc5f0618d119f56d339a9e5
 workflow-type: tm+mt
-source-wordcount: '572'
-ht-degree: 96%
+source-wordcount: '524'
+ht-degree: 98%
 
 ---
 
@@ -44,8 +44,6 @@ Atualização das [perguntas frequentes sobre administração](faq.md) com infor
 | ------- | ------- |
 | Pesquisa unificada | A Pesquisa unificada continua a adicionar tipos de objetos ao índice de pesquisa. Nesta atualização, a pesquisa global agora busca em todo o conteúdo da Experience League e nos seguintes tipos de objetos do Journey Optimizer: <ul><li>Conjuntos de dados</li><li>Destinos</li><li>Consultas</li><li>Esquemas</li><li>Segmentos</li><li>Fontes</li><li>Ofertas</li><li>Componentes</li><li>Mensagens</li><li>Jornadas</li></ul> |
 | Consentimento de dados de uso do produto | Após um logon inicial, você é solicitado a enviar preferências sobre como a Adobe pode fornecer conteúdo útil e personalizado de tutoriais, guias, dicas rápidas, recomendações, vídeos instrutivos e muito mais, com base nos dados de uso do produto da Experience Cloud. Essa solicitação também inclui uma atualização das suas preferências para a coleta e uso desses dados em <https://experience.adobe.com/preferences>. |
-| Navegação do Experience Cloud [!UICONTROL Triggers] | O [Experience Cloud Triggers](https://experienceleague.adobe.com/docs/core-services/interface/services/activation/triggers.html?lang=pt-BR) está disponível para navegação direta a partir do alternador do aplicativo no cabeçalho para usuários provisionados. |
-| **Aviso:** previsão de atualização de navegação da interface | Em novembro de 2021, a _[!UICONTROL Ir para a coleção de dados]_ o recurso de navegação será removido de <https://experience.adobe.com/implement>. |
 
 **Atualizado em 24/8/2021**
 
@@ -109,10 +107,6 @@ Revisão do guia da versão mais recente.
 **Atualizado: 15/3/2017**
 
 Atualização da definição de Dados brutos do Analytics em [Criar um público-alvo](t-audience-create.md#task_37F407F58BF9459493BB8E968CDFE737).
-
-**Atualizado: 23/2/2017**
-
-Adição de [Experience Cloud Triggers](triggers.md#concept_887B30241B3E4DB0A2553B2996E2D4FB).
 
 **Atualizado: 1/2/2017**
 

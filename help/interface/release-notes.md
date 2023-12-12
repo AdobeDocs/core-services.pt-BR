@@ -9,9 +9,9 @@ topic: Administration
 role: Admin
 level: Experienced
 exl-id: b71d144c-a097-4cdb-9721-671519d38aff
-source-git-commit: 57f4925616c5accbe605aa96f926335abaf9aebd
+source-git-commit: e67941f98156aebaef9035d1d6aa76cb7d17dcbe
 workflow-type: tm+mt
-source-wordcount: '4770'
+source-wordcount: '4743'
 ht-degree: 100%
 
 ---
@@ -99,8 +99,6 @@ Versão planejada: **11 de julho de 2022**
 | ------- | ------- |
 | Pesquisa unificada | A Pesquisa unificada continua a adicionar tipos de objetos ao índice de pesquisa. Nesta atualização, a pesquisa global agora busca em todo o conteúdo da Experience League e nos seguintes tipos de objetos do Journey Optimizer: <ul><li>Conjuntos de dados</li><li>Destinos</li><li>Consultas</li><li>Esquemas</li><li>Segmentos</li><li>Fontes</li><li>Ofertas</li><li>Componentes</li><li>Mensagens</li><li>Jornadas</li></ul> |
 | Consentimento de dados de uso do produto | Após um logon inicial, você é solicitado a enviar preferências sobre como a Adobe pode fornecer conteúdo útil e personalizado de tutoriais, guias, dicas rápidas, recomendações, vídeos instrutivos e muito mais, com base nos dados de uso do produto da Experience Cloud. Essa solicitação também inclui uma atualização das suas preferências para a coleta e uso desses dados em <https://experience.adobe.com/preferences>. |
-| Navegação do Experience Cloud [!UICONTROL Triggers] | O [Experience Cloud Triggers](https://experienceleague.adobe.com/docs/core-services/interface/services/activation/triggers.html?lang=pt-BR) está disponível para navegação direta a partir do alternador do aplicativo no cabeçalho para usuários provisionados. |
-| **Aviso:** previsão de atualização de navegação da interface | Em novembro de 2021, o recurso de navegação _[!UICONTROL Ir para Launch/Coleção de dados]_ será removido de <https://experience.adobe.com/implement>. |
 
 {style="table-layout:auto"}
 
@@ -235,10 +233,6 @@ A Pesquisa unificada foi atualizada para estar disponível no Journey Optimizer,
 **Correções**
 
 * Um problema que impedia a vinculação e o SSO para o Analytics foi corrigido. Esse problema exibia a mensagem &quot;Aviso: falha na mensagem de erro: ERROR IMS SSO: não é possível localizar a empresa vinculada.&quot;
-
-**Problema conhecido**
-
-Se você acessar o Dynamic Tag Management por meio da interface **[!UICONTROL Experience Cloud]** > **[!UICONTROL Activation]**, mas a conta do Dynamic Tag Management não estiver vinculada à Experience Cloud (Adobe ID), não será possível fazer logon no Dynamic Tag Management. Para evitar esse problema, acesse diretamente `dtm.adobe.com` em uma nova guia do navegador.
 
 ## Versão 16.1 - 21 de janeiro de 2016 {#section_33B3F7DF6CA347E3AA93801BAC6232CE}
 
@@ -382,11 +376,7 @@ Nenhuma informação disponível.
    <td colname="col1"> <p>Mapeamento de um para muitos </p> </td> 
    <td colname="col2"> <p>Caso tenha vários aplicativos e empresas, agora é possível mapear vários produtos e serviços para uma única empresa ao vincular contas do aplicativo na Experience Cloud. </p> </td> 
   </tr> 
-  <tr> 
-   <td colname="col1"> <p>Activation </p> </td> 
-   <td colname="col2"> <p> <a href="activation.md#concept_EE756B6B0A0643DAB8CA3A00E665406C" format="dita" scope="local">Activation</a> agora é exibida na navegação à esquerda na <span class="keyword">Experience Cloud</span>. <span class="wintitle"> Activation</span> é um serviço da <span class="keyword"> Experience Cloud</span> atualmente composto pela tecnologia de gerenciamento dinâmico de tags, que o orienta quando selecionado. </p> </td> 
-  </tr> 
-  <tr> 
+    <tr> 
    <td colname="col1"> <p>Atualizações de documentação - Serviços principais </p> </td> 
    <td colname="col2"> <p>Adição do tópico <a href="core-services.md#concept_07ED1D5C64234E77976E6D572E78FB9C" format="dita" scope="local">Habilitar os aplicativos para os serviços principais</a> que auxilia na implementação dos serviços principais. </p> </td> 
   </tr> 
@@ -621,7 +611,7 @@ Novos recursos e correções na colaboração e interface de compartilhamento da
   </tr> 
   <tr> 
    <td colname="col1"> <p>Públicos-alvo da Experience Cloud </p> </td> 
-   <td colname="col2"> <p> <span class="uicontrol"> Experience Cloud</span> &gt; <span class="uicontrol">Públicos-alvo</span></p> <p> <span class="wintitle">Públicos-alvo</span> é onde você pode criar, editar, gerenciar públicos-alvo de forma semelhante ao trabalho com segmentos. Por exemplo, você pode criar um segmento no Reports &amp; Analytics e, em seguida, compartilhá-lo na <span class="wintitle">Experience Cloud</span> <span class="wintitle">Audiences</span>. Depois de compartilhado, o público-alvo é disponibilizado no <span class="keyword">Adobe Target</span> para atividades de campanha e no Adobe Audience Manager para segmentação. </p> <p> <p>Observação: para solicitar a ativação no Target, acesse <a href="https://adobe.allegiancetech.com/cgi-bin/qwebcorporate.dll?idx=X8SVES" format="http" scope="external">https://adobe.allegiancetech.com/cgi-bin/qwebcorporate.dll?idx=X8SVES</a>. </p> </p> </td> 
+   <td colname="col2"> <p> <span class="uicontrol"> Experience Cloud</span> &gt; <span class="uicontrol">Públicos-alvo</span></p> <p> <span class="wintitle">Públicos-alvo</span> é onde você pode criar, editar, gerenciar públicos-alvo de forma semelhante ao trabalho com segmentos. Por exemplo, você pode criar um segmento no Reports &amp; Analytics e, em seguida, compartilhá-lo na <span class="wintitle">Experience Cloud</span><span class="wintitle">Audiences</span>. Depois de compartilhado, o público-alvo é disponibilizado no <span class="keyword">Adobe Target</span> para atividades de campanha e no Adobe Audience Manager para segmentação. </p> <p> <p>Observação: para solicitar a ativação no Target, acesse <a href="https://adobe.allegiancetech.com/cgi-bin/qwebcorporate.dll?idx=X8SVES" format="http" scope="external">https://adobe.allegiancetech.com/cgi-bin/qwebcorporate.dll?idx=X8SVES</a>. </p> </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p> </p> </td> 

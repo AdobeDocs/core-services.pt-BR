@@ -8,9 +8,9 @@ topic: Administration
 role: Admin
 level: Experienced
 exl-id: 7f8fa610-32f0-4b18-8054-3ba05436a10e
-source-git-commit: 55b28d6a16f88955d7259a464bb690ee5985540e
+source-git-commit: e67941f98156aebaef9035d1d6aa76cb7d17dcbe
 workflow-type: tm+mt
-source-wordcount: '1041'
+source-wordcount: '952'
 ht-degree: 99%
 
 ---
@@ -111,26 +111,6 @@ Trabalhar com dados de aplicativos da Experience Cloud ou outros sistemas extern
 * [Encaminhamento pelo lado do servidor do Analytics](https://experienceleague.adobe.com/docs/analytics/admin/admin-tools/server-side-forwarding/ssf.html?lang=pt-BR)
 * [Enviar segmentos do Audience Manager para o Analytics](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/destinations/experience-cloud-destinations/create-analytics-destination.html?lang=pt-BR)
 * [Integração de dados do Adobe Target](https://experienceleague.adobe.com/docs/audience-manager/user-guide/implementation-integration-guides/integration-other-applications/aam-target-integration.html?lang=pt-BR)
-
-## Activation {#section_A23510A2D57842F6BAD043650C06DE42}
-
-Ajuda: [Introdução](https://experienceleague.adobe.com/docs/experience-platform/tags/get-started/quick-start.html?lang=pt-BR)
-
-Use os aplicativos da Experience Cloud Activation para configurar e depurar seus aplicativos da Experience Cloud.
-
-1. Use o [Experience Platform Launch](https://experienceleague.adobe.com/docs/experience-platform/tags/home.html?lang=pt-BR) para incorporar o código que ativa os aplicativos da Experience Cloud nas suas páginas.
-1. Use o [Adobe Cloud Platform Auditor](https://experienceleague.adobe.com/docs/auditor/using/overview.html?lang=pt-BR) para testar as implementações.
-
-Use a extensão do Adobe Experience Cloud Debugger para depurar os problemas encontrados pelo Auditor ou para examinar outras informações sobre as implementações.
-
-**Aplicativos ou serviços compatíveis**
-
-* [Analytics](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/home.html?lang=pt-BR)
-* [Audience Manager](https://experienceleague.adobe.com/docs/experience-platform/tags/extensions/adobe/audience-manager/overview.html?lang=pt-BR)
-* [Advertising Cloud](https://experienceleague.adobe.com/docs/experience-platform/tags/home.html?lang=pt-BR)
-* [Adobe Target](https://experienceleague.adobe.com/docs/experience-platform/tags/home.html?lang=pt-BR)
-* [Serviço MAC ID](https://experienceleague.adobe.com/docs/experience-platform/tags/home.html?lang=pt-BR)
-* [Rastreamento Nielsen](https://experienceleague.adobe.com/docs/experience-platform/tags/home.html?lang=pt-BR)
 
 ## Adobe Target {#section_739716AB6022424CBC38724CDED10701}
 

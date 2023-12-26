@@ -6,7 +6,7 @@ title: Manual de administração e interface da Experience Cloud
 description: Conheça a interface da Experience Cloud e as preferências da conta de usuário. Saiba como pesquisar objetos comerciais e gerenciar usuários e produtos. Configure os Atributos do cliente, a Biblioteca de público-alvo, os cookies e o compartilhe Ativos da Experience Cloud.
 index: true
 source-git-commit: c5a755f7fef9052162def14d0eb59b50d1d1268c
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '341'
 ht-degree: 100%
 

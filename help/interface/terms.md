@@ -9,9 +9,9 @@ role: Admin
 level: Experienced
 exl-id: 3799f806-2794-43ab-9e70-06ee693871e7
 source-git-commit: 97a33692b2359223b64d58bc9324429899f623a6
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '1233'
-ht-degree: 99%
+ht-degree: 100%
 
 ---
 
@@ -21,7 +21,7 @@ Uma referência de terminologia para usuários da Experience Cloud e como esses 
 
 | Termo | Creative Cloud | Experience Cloud |
 |--- |----- |---- |
-| Ativo | Na Creative Cloud, um ativo normalmente é um arquivo de imagem.<br>Os recursos podem ser camadas em um arquivo do Photoshop, slides em um arquivo do PowerPoint, páginas em um PDF e arquivos em um ZIP. | Na Experience Cloud, um ativo é um documento digital, uma imagem, um vídeo ou áudio que pode ter várias representações e subativos. São exemplos:<ul><li>Arquivo</li><li>Documento</li><li>Imagem</li><li>Vídeo</li><li>Clipe de áudio</li><li>Apresentação</li><li>Modelo de imagem</li><li>Modelo de vídeo</li></ul> |
+| Ativo | Na Creative Cloud, um ativo normalmente é um arquivo de imagem.<br>Os recursos podem ser camadas em um arquivo do Photoshop, slides em um arquivo do PowerPoint, páginas em um PDF e arquivos em um ZIP. | Na Experience Cloud, um ativo é um documento digital, uma imagem, um vídeo ou áudio que pode ter várias representações e subativos. São exemplos:<ul><li>Arquivo</li><li>Documento</li><li>Imagem</li><li>Vídeo</li><li>Clip de áudio</li><li>Apresentação</li><li>Modelo de imagem</li><li>Modelo de vídeo</li></ul> |
 | Atributo | | O que as pessoas têm em comum se qualificarem para um [segmento](https://experienceleague.adobe.com/docs/analytics/components/segmentation/seg-home.html?lang=pt-BR). (Semelhante a um [traço](https://experienceleague.adobe.com/docs/audience-manager/user-guide/aam-glossary.html?lang=pt-BR) no Audience Manager.) |
 | Públicos-alvo | Na Creative Cloud, um público-alvo pode ser a pessoa que assiste a um vídeo. | Na Experience Cloud, os públicos-alvo são coleções de pessoas que podem ser o alvo das atividades de campanha.<br>A associação em um público-alvo pode ser determinada com base em um conjunto de regras, que funcionam no contexto do visitante ou com base em uma lista fixa. Por exemplo, uma lista de assinantes de email ou membros em um grupo do Facebook.<br>No [Experience Cloud Audiences](audience-library.md), a criação e o gerenciamento de públicos-alvo são semelhantes à criação e ao uso de segmentos, além da capacidade de compartilhá-los na Experience Cloud.<br>**Adobe Target**<br> No Adobe Target, os públicos-alvo eram chamados de segmentos.<br>**Adobe Analytics**<br> No Analytics, os públicos-alvo podem ser considerados visitantes de um site. Você pode criar segmentos de público-alvo e publicar o público-alvo na Experience Cloud. |
 | Campanhas | Na Creative Cloud, uma campanha pode ser considerada como uma campanha de marketing que usa ativos de imagem da Creative Cloud. | Na Experience Cloud, as campanhas determinam o conteúdo que é exibido para o público-alvo. Também determina onde (localização) e quando o conteúdo é exibido. Uma campanha tem um objetivo específico, que é rastreado por métricas.<br>Executar uma campanha requer que o contexto do visitante seja compatível com as regras definidas para a campanha, além de ser compatível com a entrega do conteúdo de acordo com as restrições técnicas do local do canal.<br>No Adobe Target, os termos campanha e atividade são sinônimos. |

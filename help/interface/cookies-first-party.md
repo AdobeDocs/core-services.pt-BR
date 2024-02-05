@@ -9,10 +9,10 @@ topic: Administration
 role: Admin
 level: Experienced
 exl-id: e15abde5-8027-4aed-a0c1-8a6fc248db5e
-source-git-commit: 92d03444472fc7dddbe955d386452291ed1ca2d8
+source-git-commit: cef927ad0f9f875841d2acf670950de0a766df7e
 workflow-type: tm+mt
-source-wordcount: '1616'
-ht-degree: 79%
+source-wordcount: '1594'
+ht-degree: 72%
 
 ---
 
@@ -35,7 +35,7 @@ Se você quiser estabelecer um CNAME para a coleção de dados e se o site tiver
 
 Muitas vezes o processo de emissão do certificado SSL pode ser confuso e demorado. Como resultado, a Adobe estabeleceu uma parceria com a DigiCert, uma Autoridade de certificação (CA) que é líder do setor, e desenvolveu um processo integrado pelo qual a compra e o gerenciamento desses certificados são automatizados.
 
-Com sua permissão, trabalharemos com a CA para emitir, implantar e gerenciar um novo certificado SSL SHA-2 para você. A Adobe continuará a gerenciar esse certificado e garantirá que uma expiração, uma revogação ou uma preocupação de segurança inesperada não prejudiquem a disponibilidade da coleção segura de suas organizações.
+Com sua permissão, trabalharemos com uma CA para emitir, implantar e gerenciar um novo certificado SSL SHA-2 para você. A Adobe continuará a gerenciar esse certificado e garantirá que uma expiração, uma revogação ou uma preocupação de segurança inesperada não prejudiquem a disponibilidade da coleção segura de suas organizações.
 
 ## Programa de certificado gerenciado pela Adobe
 
@@ -47,15 +47,13 @@ O Adobe Managed Certificate Program permite implementar um novo certificado SSL 
 
 A seguir, veja como implementar um novo certificado SSL próprio para coleção de dados próprios.
 
-1. Preencha o [Formulário de solicitação de domínio própri](/help/interface/cookies/assets/First_Part_Domain_Request_Form.xlsx) e abra um tíquete para o Atendimento ao cliente solicitando a configuração da coleção de dados próprios no programa gerenciado pela Adobe.
-Category: Adobe checklist 
-
+1. Preencha o [Formulário de solicitação de domínio próprio](/help/interface/cookies/assets/First_Part_Domain_Request_Form.xlsx) e abra um tíquete para o Atendimento ao cliente solicitando a configuração da coleta de dados primários no programa Adobe Managed.
 
    Cada campo é descrito no documento com exemplos.
 
 1. Crie registros CNAME (consulte as instruções abaixo).
 
-   Ao receber a solicitação, um representante do Atendimento ao cliente deve fornecer a você um registro CNAME. Esses registros devem ser configurados no servidor DNS da empresa antes que a Adobe possa comprar o certificado em seu nome. O CNAME é semelhante ao seguinte:
+   Ao receber o bilhete, um representante do Atendimento ao cliente deve fornecer a você um registro CNAME. Esses registros devem ser configurados no servidor DNS da empresa antes que a Adobe possa comprar o certificado em seu nome. O CNAME é semelhante ao seguinte:
 
    **Seguro** - por exemplo, o nome de host `smetrics.example.com` aponta para: `[random-10-character-string].data.adobedc.net`.
 
@@ -128,7 +126,7 @@ Se você tiver um CNAME mas nenhum certificado estiver instalado, execute:
 `curl -k https://smetrics.adobe.com/_check`
 Resposta: `SUCCESS`
 
-(O valor `-k` desativa o aviso de segurança.)
+(O valor `-k` desabilita o aviso de segurança.)
 
 Se você tiver um CNAME configurado e o certificado estiver instalado, execute:
 `curl https://smetrics.adobe.com/_check`

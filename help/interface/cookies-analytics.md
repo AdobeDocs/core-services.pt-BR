@@ -8,9 +8,9 @@ topic: Administration
 role: Admin
 level: Experienced
 exl-id: bc8ce894-f98c-4475-8a07-d74ae76f7451
-source-git-commit: 8f500c7efc0bba2239d81eb9be64916d60d2ea3d
+source-git-commit: a20d51e6e7d5ec72d59e06e6a4951778a5828d9a
 workflow-type: tm+mt
-source-wordcount: '735'
+source-wordcount: '722'
 ht-degree: 95%
 
 ---
@@ -23,7 +23,6 @@ O Analytics utiliza cookies para definir novos visitantes anonimamente, além de
 
 * [Nome do cookie: s_ecid](cookies-mc.md#section-32fd753c3fa54452acd62b021434919a)
 * [Nome do cookie: AMCV_###@AdobeOrg](cookies-mc.md#section-a12aa2a9296940ae82d8921b381b8fb0)
-* [Nome do cookie: s_cc](cookies-analytics.md#section-03aa90aa7e36427b8cb12dc4a0f0291e)
 * [Nome do cookie: s_cc](cookies-analytics.md#section-03aa90aa7e36427b8cb12dc4a0f0291e)
 * [Nome do cookie: s_sq](cookies-analytics.md#section-8abfff3a302d494f81a3cfb91e3b09ff)
 * [Nome do cookie: s_vi](cookies-analytics.md#section-5d50a078de444d12b7d927d68ff3b679)

@@ -5,17 +5,17 @@ breadcrumb-title: Componentes da interface central da Experience Cloud
 title: Manual de administração e interface da Experience Cloud
 description: Conheça a interface da Experience Cloud e as preferências da conta de usuário. Saiba como pesquisar objetos comerciais e gerenciar usuários e produtos. Configure os Atributos do cliente, a Biblioteca de público-alvo, os cookies e o compartilhe Ativos da Experience Cloud.
 index: true
-source-git-commit: c5a755f7fef9052162def14d0eb59b50d1d1268c
-workflow-type: ht
-source-wordcount: '341'
+source-git-commit: 1d0a5ea6117e02898b0c90bfa866338a15d898cb
+workflow-type: tm+mt
+source-wordcount: '342'
 ht-degree: 100%
 
 ---
 
 
-# Componentes da interface central da Experience Cloud {#interface}
+# Guia de componentes de interface central do Experience Cloud {#interface}
 
-+ [Guia de componentes da interface central da Experience Cloud](experience-cloud.md)
++ [Guia de componentes de interface central do Experience Cloud](experience-cloud.md)
 + Serviços da Experience Cloud {#services}
    + [Serviços da Experience Cloud](core-services-landing.md)
    + [Pesquisa unificada na Experience Cloud](search-experience-cloud.md)

@@ -8,10 +8,10 @@ topic: Administration
 role: Admin
 level: Experienced
 exl-id: 21ed7c35-aac9-46f1-a50c-84e7c075209c
-source-git-commit: 55b28d6a16f88955d7259a464bb690ee5985540e
+source-git-commit: f229ec33ff721527e6a4c920ea63eabb4102935a
 workflow-type: tm+mt
-source-wordcount: '1125'
-ht-degree: 94%
+source-wordcount: '1122'
+ht-degree: 88%
 
 ---
 
@@ -35,7 +35,7 @@ Quando a fonte de dados está ativa, é possível:
 
 >[!IMPORTANT]
 >
->Para acessar este recurso, os usuários devem ser atribuídos ao perfil de produto Atributos do cliente (Atributos do cliente - Acesso padrão. Navegue até **[!UICONTROL Administração]** > **[!UICONTROL Admin Console]** > **[!UICONTROL Produtos]**. Se os *Atributos do cliente* forem exibidos como um dos [!UICONTROL Perfis de produto], você estará pronto para começar. Os usuários adicionados ao grupo Atributos do cliente verão o menu [!UICONTROL Atributos do cliente] à esquerda da interface da Experience Cloud.
+>Para acessar este recurso, os usuários devem ser atribuídos ao perfil de produto Atributos do cliente (Atributos do cliente - Acesso padrão. Navegue até **[!UICONTROL Administração]** > **[!UICONTROL Admin Console]** > **[!UICONTROL Produtos]**. Se *Atributos do cliente* é exibido como um dos [!UICONTROL perfis de produto], você está pronto para começar. Os usuários adicionados ao grupo Atributos do cliente verão o menu [!UICONTROL Atributos do cliente] à esquerda da interface da Experience Cloud.
 >
 >Para usar o recurso de Atributos do cliente, os usuários também devem pertencer a grupos no nível do aplicativo (Analytics ou [!DNL Target]).
 
@@ -60,7 +60,7 @@ Esses dados são os dados do cliente da empresa no seu CRM. Os dados podem inclu
 
 ## Criar a fonte de atributo e fazer upload do arquivo de dados {#task_09DAC0F2B76141E491721C1E679AABC8}
 
-Siga essas etapas na página Criar nova fonte de atributo do cliente na Experience Cloud.
+Execute essas etapas na página Criar nova fonte de atributo do cliente no Experience Cloud.
 
 >[!IMPORTANT]
 >
@@ -145,7 +145,7 @@ Como excluir atributos e substituir atributos no esquema.
 
 ## Configurar assinaturas e ativar a fonte de atributo {#task_1ACA21198F0E46A897A320C244DFF6EA}
 
-Configurar uma assinatura define o fluxo de dados entre a Experience Cloud e os aplicativos. Ativar a fonte do atributo permite o fluxo de dados para os aplicativos com assinatura. Os registros do cliente carregados são combinados com sinais de ID recebidos do site ou aplicativo.
+Configurar uma assinatura define o fluxo de dados entre o Experience Cloud e os aplicativos. Ativar a fonte do atributo permite o fluxo de dados para os aplicativos com assinatura. Os registros do cliente carregados são combinados com sinais de ID recebidos do site ou aplicativo.
 
 Consulte [Configurar subscrições](subscription.md#concept_ECA3C44FA6D540C89CC04BA3C49E63BF).
 
@@ -163,7 +163,7 @@ O exemplo a seguir mostra um segmento do [!DNL Analytics] com base nos atributos
 
 ![Segmento do Analytics com base nos atributos carregados](assets/08_crs_usecase.png)
 
-Ao publicar um segmento na Experience Cloud, ele fica disponível para o Experience Cloud Audiences e o Audience Manager.
+Ao publicar um segmento no Experience Cloud, ele fica disponível no Experience Cloud Audiences e no Audience Manager.
 
 ## Usar os atributos do cliente no Adobe Target {#task_FC5F9D9059114027B62DB9B1C7D9E257}
 

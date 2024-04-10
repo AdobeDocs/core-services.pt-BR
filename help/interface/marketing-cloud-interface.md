@@ -1,19 +1,19 @@
 ---
 description: Leia sobre novos recursos e atualizações no Experience Cloud.
 solution: Experience Cloud
-title: Novidades da Experience Cloud
+title: Novidades no Experience Cloud
 uuid: bc1b1542-1a37-4da1-bcfd-fc86af881642
-source-git-commit: eb2ad8a8255915be47b6002a78cc810b522170d2
+source-git-commit: f229ec33ff721527e6a4c920ea63eabb4102935a
 workflow-type: tm+mt
-source-wordcount: '631'
-ht-degree: 98%
+source-wordcount: '628'
+ht-degree: 87%
 
 ---
 
 
-# Novidades da Experience Cloud
+# Novidades no Experience Cloud
 
-Uma visão geral de novos recursos e atualizações na Experience Cloud.
+Uma visão geral de novos recursos e atualizações no Experience Cloud.
 
 ## Agosto de 2018 {#section_7388CDAB723B49809AABEFEE85CF6378}
 
@@ -48,9 +48,9 @@ Novos recursos e correções na interface da [!DNL Adobe Experience Cloud].
 
 | Recurso | Descrição |
 |--- |--- |
-| Nova página de aterrissagem de administração | Ao fazer logon na Experience Cloud e navegar até a página de Administração, uma nova interface intuitiva está disponível para ajudá-lo a acessar rapidamente os aplicativos e serviços principais da Experience Cloud. |
+| Nova página de destino de administração | Ao fazer logon no Experience Cloud e navegar até a página de Administração, uma nova interface intuitiva está disponível para ajudá-lo a acessar rapidamente os aplicativos e os Serviços principais do Experience Cloud. |
 
-{style=&quot;table-layout:auto&quot;}
+{style="table-layout:auto"}
 
 **Correções**
 
@@ -71,16 +71,16 @@ Diversas notificações de manutenção sobre manutenções/atualizações de pr
 | Notificações - notificações de manutenção | Nas configurações de Notificações, é possível habilitar notificações de manutenção para produtos e aplicativos. |
 | Admin Console para usuários da Experience Cloud | Os novos clientes da Experience Cloud podem começar a usar o Admin Console, um local central para gerenciar os direitos da Adobe em toda a organização.<br>A migração para o Admin Console no gerenciamento de usuários acontecerá em etapas. A Adobe entrará em contato com vocês (administradores do sistema) quando chegar o momento de migrar.<br>Administradores do Analytics, consultem [Migração do Analytics](https://experienceleague.adobe.com/docs/analytics/admin/user-product-management/user-management/migrate-users/c-migration-tool.html?lang=pt-BR). |
 
-{style=&quot;table-layout:auto&quot;}
+{style="table-layout:auto"}
 
 ## 22 de maio de 2017 {#section_242FE649FA1B4BFA88EC6E353D175ACC}
 
 | Recurso | Descrição |
 |--- |--- |
-| Mapeamento em massa do conjunto de relatórios | Em Administração > Mapeamento do conjunto de relatórios, agora você pode selecionar vários conjuntos de relatórios e mapeá-los a uma organização. (Anteriormente, você tinha que mapeá-los individualmente.)  <br>[Mapear conjuntos de relatórios](core-services.md) para uma única organização ajuda a habilitar recursos e serviços entre aplicativos na Experience Cloud. |
+| Mapeamento em massa do conjunto de relatórios | Em Administração > Mapeamento do conjunto de relatórios, agora você pode selecionar vários conjuntos de relatórios e mapeá-los a uma organização. (Anteriormente, você tinha que mapeá-los individualmente.)  <br>[Mapeamento de conjuntos de relatórios](core-services.md) para uma única organização ajuda a habilitar recursos e serviços entre aplicativos no Experience Cloud. |
 | Atualizações aos públicos-alvo da Experience Cloud | **Aplicação dos conjuntos de relatórios**<br> Agora é possível aplicar um conjunto de relatórios a todas as suas [regras de público-alvo](t-audience-create.md). (Anteriormente, você tinha que especificar um conjunto de relatórios em cada definição de regra.) <br>**Props e variáveis**<br> Agora é possível incluir props do Analytics e variáveis padrão (além das eVars e eventos) em públicos-alvo em tempo real. |
 
-{style=&quot;table-layout:auto&quot;}
+{style="table-layout:auto"}
 
 ## 8 de novembro de 2016 — 16.11.1 {#section_7065A9BCCDF544C2BB37E9A7D661EA6A}
 
@@ -88,7 +88,7 @@ Diversas notificações de manutenção sobre manutenções/atualizações de pr
 |--- |--- |
 | Atualização de Perfil e senhas | Não é mais possível editar informações de perfil IMS na seção Detalhes pessoais em Editar perfil > Perfil e senhas. Em vez disso, os usuários são direcionados para `accounts.adobe.com`. Essa atualização aplica-se a todos os tipos de identidade (Adobe ID, Enterprise e Federated). |
 
-{style=&quot;table-layout:auto&quot;}
+{style="table-layout:auto"}
 
 **Correções**
 

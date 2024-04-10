@@ -1,22 +1,26 @@
 ---
 description: Informações sobre atualizações na ajuda da Adobe Experience Cloud.
 solution: Experience Cloud
-title: Atualizações de documentação
+title: Atualizações na documentação
 uuid: f41c4e9f-e784-4706-8c4b-f430c953670d
 topic: Administration
 role: Admin
 level: Experienced
 exl-id: 11cc5005-8ec0-4308-bc94-0f78666ea645
-source-git-commit: 8b32f5d688309c01acc5f0618d119f56d339a9e5
+source-git-commit: f229ec33ff721527e6a4c920ea63eabb4102935a
 workflow-type: tm+mt
-source-wordcount: '524'
-ht-degree: 98%
+source-wordcount: '527'
+ht-degree: 96%
 
 ---
 
 # Atualizações da documentação - Experience Cloud
 
-Informações sobre atualizações na documentação do produto da Experience Cloud.
+Informações sobre atualizações na documentação do produto Experience Cloud.
+
+**Atualizado em 9/4/2024**
+
+Atualizações gerais.
 
 **Atualizado em 28/2/2022**
 

@@ -1,7 +1,7 @@
 ---
-description: Saiba mais sobre os últimos recursos, notas de versão e problemas conhecidos dos serviços da Experience Cloud, como atributos do cliente, públicos-alvo e gerenciamento de usuários.
+description: Saiba mais sobre os recursos, notas de versão e problemas conhecidos mais recentes dos serviços do Experience Cloud, como atributos do cliente, públicos-alvo e gerenciamento de usuários.
 solution: Experience Cloud
-title: Notas de versão cumulativas
+title: Notas de versão cumulativas da interface do Experience Cloud
 uuid: fcff8cc6-e587-4bf2-9a75-261d4eabc7d4
 feature-set: Experience Cloud
 feature: Release Notes
@@ -9,10 +9,10 @@ topic: Administration
 role: Admin
 level: Experienced
 exl-id: b71d144c-a097-4cdb-9721-671519d38aff
-source-git-commit: e67941f98156aebaef9035d1d6aa76cb7d17dcbe
-workflow-type: ht
-source-wordcount: '4743'
-ht-degree: 100%
+source-git-commit: f229ec33ff721527e6a4c920ea63eabb4102935a
+workflow-type: tm+mt
+source-wordcount: '4735'
+ht-degree: 94%
 
 ---
 
@@ -259,8 +259,8 @@ A Pesquisa unificada foi atualizada para estar disponível no Journey Optimizer,
 
 **Problemas conhecidos**
 
-* Os clientes não conseguem fazer logon no Report Builder quando fazem SSO (logon único) no Analytics por meio da Experience Cloud. Esse problema não afeta os clientes que usam as credenciais mais antigas do Analytics.
-* Problema conhecido na função “Vincular ao relatório” do Analytics. Os clientes que estão fazendo logon no Analytics por meio da Experience Cloud são direcionados a uma página sem logon único (SSO) do Analytics quando tentam compartilhar um relatório.
+* Os clientes não conseguem fazer logon no Report Builder quando fazem SSO (logon único) no Analytics por meio do Experience Cloud. Esse problema não afeta os clientes que usam as credenciais mais antigas do Analytics.
+* Problema conhecido na função “Vincular ao relatório” do Analytics. Os clientes que estão fazendo logon no Analytics por meio do Experience Cloud são direcionados a uma página sem logon único (SSO) do Analytics quando tentam compartilhar um relatório.
 
 ## Versão 15.9 - 10 de setembro de 2015 {#section_BCCE3E7DF62A4FF5A57B9C8FE2A5F37B}
 
@@ -279,7 +279,7 @@ A Pesquisa unificada foi atualizada para estar disponível no Journey Optimizer,
 
 **Problema conhecido**
 
-Um problema conhecido está causando a criação duplicada de contas geradas automaticamente no Audience Manager e vinculando-as automaticamente à identidade da Experience Cloud de um usuário. Esse problema ocorre ao tentar navegar para o Audience Manager antes de vincular as contas. A Adobe recomenda vincular suas contas do Audience Manager à Experience Cloud antes de navegar para o Audience Manager. (MAC-25640)
+Um problema conhecido está causando a criação duplicada de contas geradas automaticamente no Audience Manager e vinculando-as automaticamente à identidade da Experience Cloud de um usuário. Esse problema ocorre ao tentar navegar para o Audience Manager antes de vincular as contas. A Adobe recomenda vincular suas contas do Audience Manager ao Experience Cloud antes de navegar para o Audience Manager. (MAC-25640)
 
 ## Versão 15.6.1 - 11 de junho de 2015 {#section_AD2019F8D2F84C9EB2B0533FAACF7043}
 
@@ -338,7 +338,7 @@ Nenhuma informação disponível.
 
 **Problemas conhecidos**
 
-* Vincular e desvincular a organização do Dynamic Tag Management com a Experience Cloud não funciona para as organizações recém-criadas na Experience Cloud. A Adobe está trabalhando para corrigir o problema e restaurar a funcionalidade normal com o lançamento de maio. Em caso de problemas ao tentar efetuar o logon único no Dynamic Tag Management através da Experience Cloud, utilize o logon antigo em [!DNL dtm.adobe.com].
+* Vincular e desvincular a organização do Dynamic Tag Management com o Experience Cloud não funciona para organizações Experience Cloud recém-criadas. A Adobe está trabalhando para corrigir o problema e restaurar a funcionalidade normal com o lançamento de maio. Se tiver problemas ao tentar efetuar o logon único no Dynamic Tag Management através do Experience Cloud, utilize o logon antigo em [!DNL dtm.adobe.com].
 * Um problema conhecido impede que o público-alvo compartilhe conjuntos de relatórios que não são de propriedade da conta vinculada do Analytics. Estamos nos esforçando para solucionar os problemas
 
 ## Versão 15.3.2 - 19 de março de 2015 {#section_07760FD9CA43497FA8BDCCA990A24BFD}
@@ -353,7 +353,7 @@ Nenhuma informação disponível.
  <tbody> 
   <tr> 
    <td colname="col1"> <p>Atributos do cliente </p> </td> 
-   <td colname="col2"> <p>Se você capturar os dados de clientes empresariais em um banco de dados de gerenciamento de relacionamento com o cliente (CRM), poderá fazer upload dos dados em uma fonte de dados do atributo do cliente na Experience Cloud. Depois que os dados forem carregados, você poderá executar os relatórios <span class="uicontrol">Perfil do visitante</span> &gt; <span class="uicontrol">Atributos do cliente</span> no Analytics. </p> <p>Também é possível usar os dados carregados como um segmento do público-alvo no <span class="keyword">Adobe Target</span>. </p> <p>Consulte <a href="attributes.md#concept_ACFEE7C8B8E94875BA0825CDF4913AF1" format="dita" scope="local"> documentação do produto</a> Atributos do cliente. </p> <p> Para obter informações sobre como modernizar seus aplicativos para os serviços principais, consulte <a href="core-services.md#concept_07ED1D5C64234E77976E6D572E78FB9C" format="dita" scope="local">Habilitar os aplicativos para os serviços principais</a>. </p> </td> 
+   <td colname="col2"> <p>Se você capturar os dados de clientes de empresas em um banco de dados de gerenciamento de relacionamento com o cliente (CRM), é possível fazer upload dos dados em uma fonte de dados de atributo do cliente no Experience Cloud. Depois que os dados forem carregados, você poderá executar os relatórios <span class="uicontrol">Perfil do visitante</span> &gt; <span class="uicontrol">Atributos do cliente</span> no Analytics. </p> <p>Também é possível usar os dados carregados como um segmento do público-alvo no <span class="keyword">Adobe Target</span>. </p> <p>Consulte <a href="attributes.md#concept_ACFEE7C8B8E94875BA0825CDF4913AF1" format="dita" scope="local"> documentação do produto</a> Atributos do cliente. </p> <p> Para obter informações sobre como modernizar seus aplicativos para os serviços principais, consulte <a href="core-services.md#concept_07ED1D5C64234E77976E6D572E78FB9C" format="dita" scope="local">Habilitar os aplicativos para os serviços principais</a>. </p> </td> 
   </tr> 
  </tbody> 
 </table>
@@ -374,7 +374,7 @@ Nenhuma informação disponível.
   </tr> 
   <tr> 
    <td colname="col1"> <p>Mapeamento de um para muitos </p> </td> 
-   <td colname="col2"> <p>Caso tenha vários aplicativos e empresas, agora é possível mapear vários produtos e serviços para uma única empresa ao vincular contas do aplicativo na Experience Cloud. </p> </td> 
+   <td colname="col2"> <p>Caso tenha vários aplicativos e empresas, poderá mapear vários produtos e serviços para uma única empresa ao vincular contas do aplicativo no Experience Cloud. </p> </td> 
   </tr> 
     <tr> 
    <td colname="col1"> <p>Atualizações de documentação - Serviços principais </p> </td> 
@@ -423,13 +423,13 @@ Novos recursos e correções na colaboração e interface de compartilhamento da
 * As alterações de grupo e de direito realizadas no Gerenciamento de usuários só têm efeito após um novo logon.
 * Alguns usuários podem ter problemas quando fazem upload de arquivos grandes para os Ativos da Experience Cloud.
 * Os usuários podem estar sem alguns links em seus cartões Experience Cloud da Advertising Cloud.
-* Alguns usuários administrativos podem enfrentar problemas quando vinculam suas contas depois de terem aceitado um convite para participarem da Experience Cloud.
+* Alguns usuários administrativos podem enfrentar problemas ao vincular suas contas após aceitarem um convite para ingressar no Experience Cloud.
 * A interface da Experience Cloud pode ter seu desempenho reduzido se usada de modo paralelo por muitos usuários.
 * Alguns usuários conseguem excluir um ativo antigo em vez de receberem uma notificação de erro.
 * Alguns usuários podem enfrentar problemas ao fazer logon em dois navegadores com a mesma Adobe ID simultaneamente.
 * Alguns usuários talvez não consigam adicionar novamente um usuário da Creative Cloud na pasta compartilhada se o usuário da Creative Cloud foi excluído.
-* Alguns usuários podem perceber um atraso na notificação exibida quando uma pasta é compartilhada da Experience Cloud com a Creative Cloud.
-* Alguns usuários podem enfrentar um problema ao compartilharem uma pasta entre a Experience Cloud e a Creative Cloud.
+* Alguns usuários podem perceber um atraso na notificação exibida quando uma pasta é compartilhada de Experience Cloud para Creative Cloud.
+* Alguns usuários podem enfrentar um problema ao compartilharem uma pasta entre o Experience Cloud e o Creative Cloud.
 * Alguns usuários podem ter problemas ao criar um público-alvo em um conjunto de relatórios do Analytics depois que os públicos-alvo compartilhados forem ativados.
 * Algumas pessoas podem ter problemas ao fazer upload de ativos em um quadro.
 

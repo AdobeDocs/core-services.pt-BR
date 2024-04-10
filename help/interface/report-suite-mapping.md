@@ -1,16 +1,16 @@
 ---
 description: Saiba mais sobre como mapear um ou vários conjuntos de relatórios para uma organização na Experience Cloud.
-title: 'Mapear conjuntos de relatórios para uma organização '
+title: Mapear conjuntos de relatórios para uma organização
 uuid: b983d5a6-b3d0-4137-ac53-bc5681d3e58b
 feature: Admin Console
 topic: Administration
 role: Admin
 level: Experienced
 exl-id: 4e9f0f7a-8e16-4473-af4a-3e74ad50c044
-source-git-commit: c073b3bacf5505c01017d4ba2507621df8ef877e
-workflow-type: ht
-source-wordcount: '1131'
-ht-degree: 100%
+source-git-commit: f229ec33ff721527e6a4c920ea63eabb4102935a
+workflow-type: tm+mt
+source-wordcount: '1118'
+ht-degree: 89%
 
 ---
 
@@ -95,7 +95,7 @@ Alguns dos conjuntos de relatórios podem estar visíveis em uma empresa de logo
 
 ### E se eu não reconhecer algumas das organizações listadas no menu suspenso de um dos meus conjuntos de relatórios?
 
-A lista mostra todas as organizações *possíveis* para as quais o conjunto de relatórios pode ser mapeado, mesmo que você não tenha permissão para mapear para todos esses conjuntos de relatórios. Se não tiver certeza se o conjunto de relatórios deve ser mapeado para um dos conjuntos de relatórios esmaecidos na lista, consulte um administrador da Experience Cloud na sua organização para determinar a melhor opção.
+A lista mostra todos os *possível* organizações para as quais o conjunto de relatórios pode ser mapeado, mesmo que você não tenha permissão para mapear para todos esses conjuntos de relatórios. Se não tiver certeza se o conjunto de relatórios deve ser mapeado para um dos conjuntos de relatórios esmaecidos na lista, consulte um administrador da Experience Cloud na sua organização para determinar a melhor opção.
 
 ### E se eu não reconhecer algumas Empresas de logon listadas em um conjunto de relatórios na coluna &quot;Empresa visível para efetuar logon&quot;?
 

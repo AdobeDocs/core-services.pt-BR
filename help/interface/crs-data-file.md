@@ -1,27 +1,27 @@
 ---
-description: Conheça as exigências de arquivos de dados e as múltiplas fontes de dados para fazer upload dos atributos do cliente na Experience Cloud.
+description: Saiba mais sobre os requisitos de arquivos de dados e as várias fontes de dados para fazer upload [!DNL Customer Attributes] para Experience Cloud.
 solution: Experience Cloud
-title: Saiba mais sobre arquivos de dados e fontes de dados para Atributos do cliente
+title: Arquivo de dados e fontes de dados
 uuid: 9dd0e364-889b-45db-b190-85c0930a101e
 feature: Customer Attributes
 topic: Administration
 role: Admin
 level: Experienced
 exl-id: e2dfe10d-7003-4afa-a5e6-57703d74efd4
-source-git-commit: eb2ad8a8255915be47b6002a78cc810b522170d2
+source-git-commit: f229ec33ff721527e6a4c920ea63eabb4102935a
 workflow-type: tm+mt
-source-wordcount: '1214'
-ht-degree: 98%
+source-wordcount: '1186'
+ht-degree: 90%
 
 ---
 
-# Sobre arquivo de dados e fonte de dados para atributos do cliente
+# Sobre arquivo de dados e fonte de dados para [!DNL Customer Attributes]
 
-As exigências de arquivos de dados e várias fontes de dados para fazer upload dos atributos do cliente na Experience Cloud.
+As exigências de arquivos de dados e múltiplas fontes de dados para upload [!DNL Customer Attributes] para Experience Cloud.
 
-Você precisará acessar o CRM ou dados semelhantes da sua empresa. Os dados dos quais você fez upload na Experience Cloud devem ser um arquivo `.csv`. Ao fazer upload via FTP ou sFTP, você também fará upload de um arquivo `.fin`.
+Você precisará acessar o CRM ou dados semelhantes da sua empresa. Os dados dos quais você fez upload no Experience Cloud devem ser um `.csv` arquivo. Ao fazer upload via FTP ou sFTP, você também fará upload de um arquivo `.fin`.
 
-Os atributos do cliente foram criados para lidar com alguns arquivos por dia. Para mitigar o problema de um grande número de arquivos pequenos que atrasam o processamento, os arquivos enviados dentro de 30 minutos após o envio de um lote anterior da mesma organização são encaminhados para uma fila de prioridade mais baixa.
+[!DNL Customer Attributes] O foi projetado para lidar com alguns arquivos por dia. Para mitigar o problema de um grande número de arquivos pequenos que atrasam o processamento, os arquivos enviados dentro de 30 minutos após o envio de um lote anterior da mesma organização são encaminhados para uma fila de prioridade mais baixa.
 
 ## Tipos de arquivo permitidos e requisitos de nomenclatura {#section_6F64FA02ACCC4215B0862CB6A1821FBF}
 
@@ -76,7 +76,7 @@ O mesmo arquivo exibido em um editor de texto:
   </tr> 
   <tr> 
    <td colname="col1"> <p>Coluna ID do cliente </p> </td> 
-   <td colname="col2"> <p> A primeira coluna deve ser um identificador exclusivo do cliente. A ID usada deve corresponder à ID transmitida ao Serviço da Experience Cloud ID. </p> <p>No Analytics, a ID que está sendo armazenada em uma prop ou eVar. </p> <p>Para o Target, o valor setCustomerID. (Consulte <a href="core-services.md#section_AD473A6A21C1446498E700363F9A8437" format="dita" scope="local"> Analytics &amp; Adobe Target - sincronização da ID do cliente </a>) </p> <p> Essa ID do cliente é o identificador exclusivo que seu CRM usa para cada pessoa no banco de dados. As outras colunas são atributos provenientes do seu CRM. Você escolhe quantos atributos serão carregados. </p> <p>Recomendamos usar nomes amigáveis e legíveis nos cabeçalhos da coluna, embora isso não seja obrigatório. Ao validar o esquema após o carregamento, é possível mapear nomes amigáveis para as linhas e colunas carregadas. </p> <p> <b>Sobre as IDs do cliente</b> </p> <p>Normalmente, uma empresa usa uma ID do cliente de um sistema de CRM. Essa ID é definida ao utilizar a chamada <span class="codeph">setCustomerIDs</span> quando uma pessoa faz logon. Essa ID também é usada como a chave do arquivo CRM que é carregado para a Experience Cloud. <a href="t-crs-usecase.md#task_09DAC0F2B76141E491721C1E679AABC8" format="dita" scope="local">ID alias</a> é um nome amigável para um armazenamento de dados no Audience Manager, onde os dados do alias são armazenados. O sistema envia aliases para esse armazenamento de dados (via setCustomerIDs). O arquivo CRM é aplicado aos dados nesse armazenamento de dados. </p> <p>Para obter informações sobre <span class="codeph">setCustomerIDs</span>, consulte <a href="https://experienceleague.adobe.com/docs/id-service/using/reference/authenticated-state.html?lang=en" format="https" scope="external">IDs do cliente e estados de autenticação</a>. </p> </td> 
+   <td colname="col2"> <p> A primeira coluna deve ser um identificador exclusivo do cliente. A ID usada deve corresponder à ID transmitida ao Serviço da Experience Cloud ID. </p> <p>No Analytics, a ID que está sendo armazenada em uma prop ou eVar. </p> <p>Para o Target, o valor setCustomerID. (Consulte <a href="core-services.md#section_AD473A6A21C1446498E700363F9A8437" format="dita" scope="local"> Analytics &amp; Adobe Target - sincronização da ID do cliente </a>) </p> <p> Essa ID do cliente é o identificador exclusivo que seu CRM usa para cada pessoa no banco de dados. As outras colunas são atributos provenientes do seu CRM. Você escolhe quantos atributos serão carregados. </p> <p>Recomendamos usar nomes amigáveis e legíveis nos cabeçalhos da coluna, embora isso não seja obrigatório. Ao validar o esquema após o carregamento, é possível mapear nomes amigáveis para as linhas e colunas carregadas. </p> <p> <b>Sobre as IDs do cliente</b> </p> <p>Normalmente, uma empresa usa uma ID do cliente de um sistema de CRM. Essa ID é definida ao utilizar a chamada <span class="codeph">setCustomerIDs</span> quando uma pessoa faz logon. Essa ID também é usada como a chave no arquivo CRM que é carregado para o Experience Cloud. <a href="t-crs-usecase.md#task_09DAC0F2B76141E491721C1E679AABC8" format="dita" scope="local">ID alias</a> é um nome amigável para um armazenamento de dados no Audience Manager, onde os dados do alias são armazenados. O sistema envia aliases para esse armazenamento de dados (via setCustomerIDs). O arquivo CRM é aplicado aos dados nesse armazenamento de dados. </p> <p>Para obter informações sobre <span class="codeph">setCustomerIDs</span>, consulte <a href="https://experienceleague.adobe.com/docs/id-service/using/reference/authenticated-state.html?lang=pt-BR" format="https" scope="external">IDs do cliente e estados de autenticação</a>. </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p>Cabeçalhos e colunas subsequentes </p> </td> 
@@ -84,7 +84,7 @@ O mesmo arquivo exibido em um editor de texto:
   </tr> 
   <tr> 
    <td colname="col1"> <p>Limites do atributo </p> </td> 
-   <td colname="col2"> <p>Você pode fazer upload de centenas de colunas de <span class="filepath">.csv</span> para o serviço de atributos do cliente na Experience Cloud. No entanto, ao configurar assinaturas e selecionar atributos, os seguintes limites poderão ser aplicados dependendo dos aplicativos que possui: </p> <p> 
+   <td colname="col2"> <p>Você pode carregar centenas de <span class="filepath"> .csv </span> para o serviço de atributos do cliente no Experience Cloud. No entanto, ao configurar assinaturas e selecionar atributos, os seguintes limites poderão ser aplicados dependendo dos aplicativos que possui: </p> <p> 
      <ul id="ul_2BB85067918D4BB3B59394F3E3E37A6D"> 
       <li id="li_93703988B9934384B4B94A839D028380"> <b>Analytics Standard</b>: 3 total </li> 
       <li id="li_D1E5E7BD24C54591B14D15DE97447835"> <b>Analytics Premium</b>: 200 por conjunto de relatórios </li> 
@@ -128,7 +128,7 @@ O mesmo arquivo exibido em um editor de texto:
   </tr> 
    <tr> 
    <td colname="col1"> <p>Dados históricos </p> </td> 
-   <td colname="col2"> <p> Os atributos do cliente estão ligados ao perfil de visitante subjacente no [!DNL Analytics]. Sendo assim, os [!UICONTROL Atributos do cliente] são associados ao visitante por toda a vida útil do seu perfil no [!DNL Analytics]. Isso inclui comportamentos registrados antes do primeiro logon do cliente. </p> <p> Se você usa o método de preenchimento retroativo do Data Warehouse, os dados são ligados a um post_visid_high/low com base na ID do Analytics (AID). Se estiver usando o Serviço da Experience Cloud ID, os dados serão vinculados a um post_visid_high/low com base na Experience Cloud ID (MID). </p> <p> Observe que o método de preenchimento retroativo do Data Warehouse não estará mais disponível a partir de outubro de 2022. </td> 
+   <td colname="col2"> <p> Os atributos do cliente estão ligados ao perfil de visitante subjacente no [!DNL Analytics]. Sendo assim, os [!UICONTROL Atributos do cliente] são associados ao visitante por toda a vida útil do seu perfil no [!DNL Analytics]. Isso inclui comportamentos registrados antes do primeiro logon do cliente. </p> <p> Se você usa o método de preenchimento retroativo do Data Warehouse, os dados são ligados a um post_visid_high/low com base na ID do Analytics (AID). Se estiver usando o Serviço da Experience Cloud ID, os dados serão vinculados a um post_visid_high/low com base na Experience Cloud ID (MID). </p> <p> Observe que o método de preenchimento retroativo de Data Warehouse não estará mais disponível a partir de outubro de 2022. </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p>Feeds de dados </p> </td> 

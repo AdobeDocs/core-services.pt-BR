@@ -1,17 +1,17 @@
 ---
 description: Como compartilhar uma pasta de ativos da Experience Cloud com usuários da Creative Cloud.
 solution: Experience Cloud
-title: Compartilhar uma pasta de ativos da Experience Cloud
+title: Compartilhar uma pasta de ativos do Experience Cloud
 uuid: 105cf627-0148-4bf8-ab6a-7afa612e198c
 feature: Assets
 topic: Administration
 role: Admin
 level: Experienced
 exl-id: 32f4723e-0e66-46b6-b0c2-ae47b9a06a87
-source-git-commit: eb2ad8a8255915be47b6002a78cc810b522170d2
+source-git-commit: f229ec33ff721527e6a4c920ea63eabb4102935a
 workflow-type: tm+mt
-source-wordcount: '339'
-ht-degree: 100%
+source-wordcount: '318'
+ht-degree: 92%
 
 ---
 
@@ -42,7 +42,7 @@ Compartilhe uma pasta de ativos da Experience Cloud com usuários da Creative Cl
 
    ![Adicionar um comentário na imagem](assets/asset_comment_cc.png)
 
-   Na Experience Cloud, selecione uma imagem e o ícone da linha do tempo para adicionar um comentário à imagem. Os comentários são sincronizados nos ativos da Creative Cloud e da Experience Cloud.
+   No Experience Cloud, selecione uma imagem e o ícone da linha do tempo para adicionar um comentário na imagem. Os comentários são sincronizados nos ativos da Creative Cloud e da Experience Cloud.
 
    ![Adicionar um comentário na imagem](assets/asset_comment_mac.png)
 

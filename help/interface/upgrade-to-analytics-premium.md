@@ -1,21 +1,21 @@
 ---
 description: Saiba mais sobre os requisitos e o que esperar ao atualizar para o Analytics Premium.
 solution: Experience Cloud
-title: Atualização para o Analytics Premium e a Experience Cloud
+title: Atualização para o Analytics Premium e o Experience Cloud
 topic: Administration
 uuid: 450a601c-d199-4e90-b525-19bd9f9576d2
 feature: Admin Console
 role: Admin
 level: Experienced
 exl-id: 746d396d-9629-42db-8c55-07d2d24e4611
-source-git-commit: eb2ad8a8255915be47b6002a78cc810b522170d2
+source-git-commit: f229ec33ff721527e6a4c920ea63eabb4102935a
 workflow-type: tm+mt
-source-wordcount: '618'
-ht-degree: 100%
+source-wordcount: '577'
+ht-degree: 90%
 
 ---
 
-# Atualização para o Analytics Premium e a Experience Cloud
+# Atualização para o Analytics Premium e o Experience Cloud
 
 Os administradores podem saber mais sobre os requisitos e o que esperar ao atualizar para o Analytics Premium e onde encontrar ajuda como administrador da Experience Cloud.
 
@@ -36,7 +36,6 @@ O Analytics Premium oferece:
 >* As eVars 76-250 e 100-250 (Standard) estão visíveis nas ferramentas administrativas, mas não estão habilitadas.
 >* A Análise de colaboração é ativada pela Adobe. Ela não alterará o local (ele ainda está disponível na página de detecção de anomalias) mas iniciará automaticamente a análise de todos os pontos de dados.
 
-
 ## Analytics Premium completo {#section_BFAD815EDF364845A52B340B2FD5B64C}
 
 No Analytics Premium completo, você obtém todos os recursos do [Analytics Premium](upgrade-to-analytics-premium.md#section_7F50AD7906544F899B844BE31D3BB507), além das seguintes atualizações:
@@ -47,7 +46,7 @@ No Analytics Premium completo, você obtém todos os recursos do [Analytics Prem
 | Data Workbench | <ul><li>Atribuição algorítmica</li><li>Espaços de trabalho pré-criados</li></ul> |
 | Analytics Platform | [Live Stream](https://github.com/AdobeDocs/analytics-1.4-apis/blob/master/docs/live-stream-api/index.md) (dados brutos, painéis, acionadores) |
 
-{style=&quot;table-layout:auto&quot;}
+{style="table-layout:auto"}
 
 ## Inteligência preditiva {#section_B407932C07A7476F83FB0275C3FB63DC}
 
@@ -55,11 +54,11 @@ Atualizar para Inteligência preditiva permite o [Analytics Premium](upgrade-to-
 
 | Produto | Atualizações |
 |---|---|
-| Reports &amp; Analytics | [Análise de contribuição](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/virtual-analyst/contribution-analysis/ca-tokens.html?lang=en) |
+| Reports &amp; Analytics | [Análise de contribuição](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/virtual-analyst/contribution-analysis/ca-tokens.html?lang=pt-BR) |
 | Data Workbench | Espaços de trabalho pré-criados para qualificações de público-alvo e marketing preditivo |
-| Plataforma do Analytics | Live Stream (painéis e acionadores) |
+| Analytics Platform | Live Stream (painéis e acionadores) |
 
-{style=&quot;table-layout:auto&quot;}
+{style="table-layout:auto"}
 
 ## Visão completa do cliente {#section_3B2AC245388248688067DC9A48957AFB}
 
@@ -69,9 +68,9 @@ Atualização para ofertas do Customer 360 no [Analytics Premium](upgrade-to-ana
 |--- |--- |
 | [Atributos do cliente](attributes.md) | Atributos do cliente (análise e compartilhamento de segmentos) |
 | Data Workbench | <ul><li>Atributos derivados do cliente</li><li>Espaços de trabalho pré-criados para descoberta de públicos-alvo</li></ul> |
-| Plataforma do Analytics | [Atributos do cliente](attributes.md) |
+| Analytics Platform | [Atributos do cliente](attributes.md) |
 
-{style=&quot;table-layout:auto&quot;}
+{style="table-layout:auto"}
 
 ## Atribuição avançada {#section_9E4986A8389946CCAA7D003268343296}
 
@@ -87,9 +86,9 @@ Qualquer software que estiver sendo executado no local deverá ser desativado. E
 
 ## Experience Cloud - Administrar usuários e produtos {#section_6471C54454024301B2E0B687F79F6738}
 
-A Experience Cloud e os serviços principais estão disponíveis para usuários do Analytics Standard e Premium, desde que a modernização de implementação descrita na [Introdução - habilitar os aplicativos para os serviços principais](core-services.md#concept_07ED1D5C64234E77976E6D572E78FB9C) tenha sido realizada. (Esse processo ajuda a modernizar a implementação e permitirá que você se torne um administrador na Experience Cloud.)
+A Experience Cloud e os serviços principais estão disponíveis para usuários do Analytics Standard e Premium, desde que a modernização de implementação descrita na [Introdução - habilitar os aplicativos para os serviços principais](core-services.md#concept_07ED1D5C64234E77976E6D572E78FB9C) tenha sido realizada. (Esse processo ajuda a modernizar a implementação e permite que você se torne um administrador no Experience Cloud.)
 
-Após associar-se à Experience Cloud, é possível fazer logon por meio da Experience Cloud em [!DNL experience.adobe.com] e começar a usar os principais serviços (inclusive os atributos do cliente, os públicos-alvo e a análise de aplicativos móveis).
+Após associar-se ao Experience Cloud, é possível efetuar login via Experience Cloud em [!DNL experience.adobe.com] e comece a usar os serviços principais (incluindo atributos do cliente, públicos-alvo e análise de aplicativos móveis).
 
 ### Administre usuários e grupos
 
@@ -99,4 +98,4 @@ Você pode configurar um mapeamento 1:1 entre um grupo criado no Adobe Admin Con
 
 >[!NOTE]
 >
->É possível mapear diversos grupos de aplicativos para um único grupo do Admin Console. No entanto, Adobe recomenda o mapeamento de 1:1. Mapear os grupos antecipadamente permite convidar, criar, permitir e adicionar vários usuários carregando um CSV.
+>É possível mapear diversos grupos de aplicativos para um único grupo do Admin Console. No entanto, Adobe recomenda o mapeamento de 1:1. Mapear os grupos antecipadamente permite convidar, criar, permitir e adicionar vários usuários e usuárias fazendo upload de um CSV.

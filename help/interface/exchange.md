@@ -7,10 +7,10 @@ feature: Customer Attributes
 topic: Administration
 role: Admin
 level: Experienced
-source-git-commit: eb2ad8a8255915be47b6002a78cc810b522170d2
+source-git-commit: f229ec33ff721527e6a4c920ea63eabb4102935a
 workflow-type: tm+mt
-source-wordcount: '131'
-ht-degree: 100%
+source-wordcount: '128'
+ht-degree: 96%
 
 ---
 
@@ -31,7 +31,7 @@ O Exchange Marketplace é o único local onde você pode pesquisar, navegar, sel
 
 * Recuse ou aprove aplicativos.
 
-* Publique na Experience Cloud.
+* Publicar no Experience Cloud.
 
 * Pesquise e filtre por categoria, empresa, tipo, usuário e muito mais.
 

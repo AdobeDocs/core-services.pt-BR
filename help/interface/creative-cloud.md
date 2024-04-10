@@ -1,16 +1,16 @@
 ---
 description: Saiba mais sobre como compartilhar pastas e assets entre a Experience Cloud e a Creative Cloud.
 solution: Experience Cloud
-title: Compartilhar as pastas e os ativos da Experience Cloud com a Creative Cloud
+title: Compartilhar pastas e ativos do Experience Cloud com o Creative Cloud
 feature: Assets
 topic: Administration
 role: Admin
 level: Experienced
 exl-id: 41290ea3-86ce-4e9d-8c3c-bbe30c337c4c
-source-git-commit: eb2ad8a8255915be47b6002a78cc810b522170d2
+source-git-commit: f229ec33ff721527e6a4c920ea63eabb4102935a
 workflow-type: tm+mt
-source-wordcount: '172'
-ht-degree: 100%
+source-wordcount: '162'
+ht-degree: 85%
 
 ---
 
@@ -26,7 +26,7 @@ Compartilhe pastas e assets entre a Experience Cloud e a Creative Cloud. Colabor
 * Aproveite o aumento da segurança corporativa
 * Compartilhe, salve e envie arquivos facilmente entre profissionais de criação e de marketing
 
-Antes de os usuários da Creative Cloud terem acesso aos ativos, eles devem estar na lista de permissões da Experience Cloud. Consulte [Gerenciar usuários da Creative Cloud](t-admin-add-cc-user.md#task_F36D4F1D49B44F09A54F7371810D2752).
+Antes de os usuários do Creative Cloud terem acesso aos ativos, eles devem estar na lista de permissões do Experience Cloud. Consulte [Gerenciar usuários da Creative Cloud](t-admin-add-cc-user.md#task_F36D4F1D49B44F09A54F7371810D2752).
 
 ## Sobre o compartilhamento do ativo com o Adobe Target {#section_B7CD64CAB35D43A4B12957B304072DC9}
 

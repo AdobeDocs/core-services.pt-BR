@@ -1,7 +1,7 @@
 ---
 description: Saiba como o Adobe Analytics usa cookies para fornecer informações sobre variáveis e componentes que não persistem entre as solicitações de imagem e as sessões do navegador.
 solution: Experience Cloud,Analytics
-title: "Cookies próprios "
+title: Cookies próprios
 index: y
 snippet: y
 feature: Cookies
@@ -9,10 +9,10 @@ topic: Administration
 role: Admin
 level: Experienced
 exl-id: e15abde5-8027-4aed-a0c1-8a6fc248db5e
-source-git-commit: cef927ad0f9f875841d2acf670950de0a766df7e
+source-git-commit: f229ec33ff721527e6a4c920ea63eabb4102935a
 workflow-type: tm+mt
 source-wordcount: '1594'
-ht-degree: 72%
+ht-degree: 71%
 
 ---
 
@@ -22,7 +22,7 @@ O Analytics usa cookies para fornecer informações sobre variáveis e component
 
 Muitos navegadores e aplicativos antispyware foram projetados para rejeitar e excluir cookies de terceiros. O Adobe garante que os cookies sempre possam ser definidos, mesmo que os cookies de terceiros estejam bloqueados. O comportamento específico varia dependendo de você estar usando o Experience Platform Identity Service (serviço ECID) ou os identificadores herdados do Analytics (também conhecidos como o cookie s_vi):
 
-* O [Experience Platform Identity Service (ECID Service)](https://experienceleague.adobe.com/docs/id-service/using/intro/overview.html?lang=pt-BR) definirá cookies primários de forma automática, independentemente de o domínio de coleção corresponder ao domínio do site. Se não corresponderem, o Identity Service usará o JavaScript para definir cookies no domínio do site.
+* O [Serviço de identidade da Experience Platform (Serviço ECID)](https://experienceleague.adobe.com/docs/id-service/using/intro/overview.html?lang=pt-BR) definirá cookies primários de forma automática, independentemente de o domínio de coleção corresponder ao domínio do site. Se não corresponderem, o Identity Service usará o JavaScript para definir cookies no domínio do site.
 * Se estiver usando [identificadoes herdados do Analytics](https://experienceleague.adobe.com/docs/core-services/interface/administration/ec-cookies/cookies-analytics.html?lang=pt-BR) (também conhecidos como cookies `s_vi`), dependerá de como você configurou o servidor de coleção de dados. Se o servidor de coleção de dados corresponder ao domínio do site, os cookies serão definidos como primários. Se o servidor de coleção não corresponder a seu domínio atual, os cookies serão definidos como de terceiros. Nesse caso, se os cookies de terceiros estiverem bloqueados, o Analytics definirá um cookie primário [fallback id (s_fid)](cookies-analytics.md) em vez do cookie padrão &quot;s_vi&quot;.
 
 Se quiser garantir que o servidor de coleção corresponda ao domínio do site, você poderá usar uma implementação CNAME que habilitará o encaminhamento de um domínio personalizado especificado na implementação CNAME para servidores de coleção Adobe. Isso envolve alterações nas configurações de DNS da empresa para configurar um alias CNAME para apontar para um domínio hospedado pela Adobe. Observe que, embora vários produtos da Adobe sejam compartíveis com o uso de um CNAME, em todos os casos o CNAME é usado para criar um endpoint de terceiros confiável para um cliente específico, e é de sua propriedade. Se você controlar vários domínios, eles poderão usar um único endpoint CNAME para rastrear usuários em seus domínios, mas sempre que o domínio do site não for correspondente ao CNAME, os cookies desse domínio serão definidos como de terceiros.

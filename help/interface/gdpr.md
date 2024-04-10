@@ -1,21 +1,21 @@
 ---
-title: 'Suporte a Atributos do cliente para o Regulamento Geral sobre a Proteção de Dados '
+title: "[!DNL Customer Attributes] Suporte ao Regulamento Geral sobre a Proteção de Dados"
 description: Saiba mais sobre o Suporte a atributos do cliente para o Regulamento Geral sobre a Proteção de Dados
 feature: Customer Attributes
 topic: Administration
 role: Admin
 level: Experienced
 exl-id: 02417c0c-6780-4699-9470-f1685c3cd25d
-source-git-commit: 55c81003b94b7e033cddb6854b5c1f1c1ffa199c
-workflow-type: ht
-source-wordcount: '416'
-ht-degree: 100%
+source-git-commit: f229ec33ff721527e6a4c920ea63eabb4102935a
+workflow-type: tm+mt
+source-wordcount: '394'
+ht-degree: 77%
 
 ---
 
-# Suporte a Atributos do cliente para o Regulamento Geral sobre a Proteção de Dados
+# [!DNL Customer Attributes] suporte ao Regulamento Geral sobre a Proteção de Dados
 
-Esta página descreve como os [!UICONTROL atributos do cliente] oferecem suporte ao Regulamento Geral sobre a Proteção de Dados (GDPR).
+Esta página descreve como [!DNL Customer Attributes] O suporta o Regulamento Geral sobre a Proteção de Dados (GDPR).
 
 >[!IMPORTANT]
 >
@@ -25,13 +25,13 @@ O [Regulamento Geral sobre a Proteção de Dados](https://business.adobe.com/br/
 
 A Adobe Experience Cloud atua como um processador de dados para todos os dados pessoais que recebe e armazena em nome de seus clientes. Como o controlador de dados, você determinará os dados pessoais que a Adobe Experience Cloud processa e armazena em seu nome.
 
-Este documento descreve como os [!UICONTROL Atributos do cliente] oferecem suporte aos direitos de acesso e exclusão de dados do GDPR de seus titulares de dados usando a Adobe Experience Platform Privacy Service API e a interface do usuário do Privacy Service.
+Este documento descreve como [!DNL Customer Attributes] O oferece suporte aos direitos de acesso e exclusão de dados do GDPR de seus titulares de dados usando a API do Adobe Experience Platform Privacy Service e a interface do Privacy Service.
 
 Para obter mais informações sobre o que o GDPR significa para sua empresa, consulte [GDPR e sua empresa](https://business.adobe.com/br/privacy/general-data-protection-regulation.html).
 
-## Configuração necessária para enviar solicitações para [!UICONTROL Atributos do cliente]
+## Configuração necessária para enviar solicitações para [!DNL Customer Attributes]
 
-Para fazer solicitações de acesso e exclusão de dados para [!UICONTROL Atributos do cliente], você deve:
+Para fazer solicitações de acesso e exclusão de dados para [!DNL Customer Attributes], você deve:
 
 1. Identificar o seguinte:
 
@@ -39,11 +39,11 @@ Para fazer solicitações de acesso e exclusão de dados para [!UICONTROL Atribu
    * ID de alias da Fonte de dados CRS na qual você deseja agir
    * ID do CRM do perfil no qual você deseja agir
 
-   Sua [ID da organização](#organizations.md) é uma sequência de 24 caracteres alfanuméricos anexada com @AdobeOrg. Você precisa da ID da organização para enviar solicitações à API de privacidade. Entre em contato com o Atendimento ao cliente da Adobe, em `gdprsupport@adobe.com`, caso não consiga localizar a ID.
+   Sua [ID da organização](#organizations.md) é uma string de 24 caracteres alfanuméricos anexada com @AdobeOrg. Você precisa da ID da organização para enviar solicitações à API de privacidade. Entre em contato com o Atendimento ao cliente da Adobe, em `gdprsupport@adobe.com`, caso não consiga localizar a ID.
 
-1. No [!UICONTROL Privacy Service], você pode enviar solicitações de acesso e exclusão aos Atributos do cliente e verificar o status das solicitações existentes.
+1. Entrada [!UICONTROL Privacy Service], você pode enviar solicitações de Acesso e Exclusão para [!DNL Customer Attributes]e verifique o status das solicitações existentes.
 
-## Valores de campo obrigatórios em solicitações JSON de [!UICONTROL atributos do cliente]
+## Valores de campo obrigatórios em [!DNL Customer Attributes] Solicitações JSON
 
 &quot;company context&quot;:
 
@@ -54,7 +54,7 @@ Para fazer solicitações de acesso e exclusão de dados para [!UICONTROL Atribu
 
 * &quot;key&quot;: &lt;*geralmente o nome do cliente*>
 
-* &quot;action&quot;: **acessar** (access) ou **excluir** (delete)
+* &quot;ação&quot;: **acessar** ou **excluir**
 
 * &quot;user IDs&quot;:
 
@@ -105,8 +105,8 @@ Para fazer solicitações de acesso e exclusão de dados para [!UICONTROL Atribu
 ```
 attributes:
 {
-"value”:<*value*>,
-"key”:<*key*>,
-"displayName”:<*displayName*>
+"value":<*value*>,
+"key":<*key*>,
+"displayName":<*displayName*>
 }
 ```

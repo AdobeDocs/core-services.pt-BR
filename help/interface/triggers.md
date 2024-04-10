@@ -1,5 +1,5 @@
 ---
-description: Saiba como configurar Experience Cloud Triggers.
+description: Saiba como configurar o Experience Cloud Triggers.
 solution: Experience Cloud
 title: Visão geral do Triggers
 uuid: dab536e3-1969-4661-919e-5b15f423fecd
@@ -8,9 +8,9 @@ topic: Administration
 role: Admin
 level: Experienced
 exl-id: 9dc26e2f-479b-49a5-93ce-b877559fea43
-source-git-commit: eb2ad8a8255915be47b6002a78cc810b522170d2
+source-git-commit: f229ec33ff721527e6a4c920ea63eabb4102935a
 workflow-type: tm+mt
-source-wordcount: '701'
+source-wordcount: '677'
 ht-degree: 97%
 
 ---
@@ -49,7 +49,7 @@ Crie um acionador e configure as condições para ele. Por exemplo, você pode e
 >
 >No momento, há um limite técnico de 100 acionadores.
 
-1. No Experience Cloud, selecione ![menu](assets/menu-icon.png), em seguida selecione **[!UICONTROL Coleta de dados/lançamento]**.
+1. No Experience Cloud, selecione ![menu](assets/menu-icon.png)e selecione **[!UICONTROL Coleta de dados/Launch]**.
 2. No cartão [!UICONTROL Acionadores], selecione **[!UICONTROL Gerenciar acionadores]**.
 3. Selecione **[!UICONTROL Novo acionador]** e especifique o tipo de acionador:
 
@@ -66,7 +66,7 @@ Crie um acionador e configure as condições para ele. Por exemplo, você pode e
    | [!UICONTROL Contêiner] | [!UICONTROL Nos contêineres] você pode configurar e armazenar regras, condições ou filtros que definem um acionador. Se você desejar que eventos sejam executados ao mesmo tempo, coloque-os no mesmo contêiner. Ou seja, cada contêiner é processado de maneira independente no nível da ocorrência. Por exemplo, se você tiver dois contêineres unidos pelo operador AND, poderá esperar que as regras se qualifiquem quando duas ocorrências atenderem aos requisitos. |
    | Iniciar nova sessão após | Crie um acionador para o início da sessão e outro para o término. |
 
-   {style=&quot;table-layout:auto&quot;}
+   {style="table-layout:auto"}
 
 5. Selecione **[!UICONTROL Salvar]**.
 6. Use os acionadores para o [remarketing em tempo real](https://experienceleague.adobe.com/docs/campaign-standard/using/integrating-with-adobe-cloud/working-with-campaign-and-triggers/about-adobe-experience-cloud-triggers.html?lang=pt-BR) no [!DNL Adobe Campaign].

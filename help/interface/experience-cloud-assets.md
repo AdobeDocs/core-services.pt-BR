@@ -1,17 +1,17 @@
 ---
 description: Saiba mais sobre os ativos da Experience Cloud que você pode compartilhar entre aplicativos.
 solution: Experience Cloud
-title: Visão geral dos ativos
+title: Visão geral do Assets
 uuid: 97a849ec-1555-4630-9416-2ab484373f5c
 feature: Assets
 topic: Administration
 role: Admin
 level: Experienced
 exl-id: 643c878f-c2f3-4c1d-ae3e-6a75c95520b4
-source-git-commit: e71461000e352d4a8acba413e0db6180a37395ff
+source-git-commit: f229ec33ff721527e6a4c920ea63eabb4102935a
 workflow-type: tm+mt
 source-wordcount: '358'
-ht-degree: 95%
+ht-degree: 94%
 
 ---
 
@@ -55,7 +55,7 @@ A barra de ferramentas fornece acesso rápido aos recursos, incluindo Pesquisa, 
 
 >[!NOTE]
 >
->Os ativos devem ser removidos das atividades do Adobe Target antes que você possa excluí-los com êxito de [!DNL Target].
+>Os ativos devem ser removidos das atividades do Adobe Target antes que você possa excluí-los do [!DNL Target].
 
 ## Editar ativos {#section_CD3C55A9D4574455B94D0955391C8FEC}
 

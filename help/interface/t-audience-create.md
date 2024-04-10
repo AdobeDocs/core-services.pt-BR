@@ -8,10 +8,10 @@ topic: Administration
 role: Admin
 level: Experienced
 exl-id: b65a12f5-fa89-400a-b279-13c381cd6c22
-source-git-commit: eb2ad8a8255915be47b6002a78cc810b522170d2
+source-git-commit: f229ec33ff721527e6a4c920ea63eabb4102935a
 workflow-type: tm+mt
-source-wordcount: '507'
-ht-degree: 99%
+source-wordcount: '510'
+ht-degree: 94%
 
 ---
 
@@ -40,12 +40,12 @@ O exemplo a seguir mostra como criar as regras para um público-alvo composto. E
 * Seção Casa e jardim derivada dos dados da página ou dos dados brutos de análise.
 * Usuários do Chrome e do Safari derivados de um [!DNL Adobe Analytics] segmento [publicado](audience-library.md#task_32FEEFE0B32E4E388CD4D892D727282A) no [!DNL Experience Cloud].
 
-   ![Criar as regras para um público-alvo composto](assets/audience_create.png)
+  ![Criar as regras para um público-alvo composto](assets/audience_create.png)
 
 **Para criar um público-alvo**
 
 1. Na [!DNL Experience Cloud], em [!DNL Experience Platform], selecione **[!UICONTROL Pessoas]** > **[!UICONTROL Biblioteca de público-alvo].**
-1. Na página [!UICONTROL Públicos], selecione **[!UICONTROL Novo]**. ![adicionar](assets/add_icon_small.png)
+1. No [!UICONTROL Públicos-alvo] selecione **[!UICONTROL Novo]**. ![adicionar](assets/add_icon_small.png)
 
    ![Resultado da etapa](assets/audience_create_new.png)
 
@@ -55,11 +55,11 @@ O exemplo a seguir mostra como criar as regras para um público-alvo composto. E
    * **[!UICONTROL Dados de Real-Time Analytics:]** (ou dados brutos) são dados de atributos derivados de solicitações de imagens em tempo real do Analytics e incluem dados como eVars e eventos. Você deve selecionar um conjunto de relatórios ao usar essa fonte de atributo e definir a dimensão ou evento que será incluído. Essa seleção de conjunto de relatórios fornece a estrutura variável usada pelo conjunto de relatórios.
    >[!NOTE]
    >
-   >Devido a questões relacionadas ao cache, conjuntos de relatórios excluídos no Analytics permanecem exibidos na Experience Cloud por 12 horas após a exclusão.
+   >Devido a questões relacionadas ao cache, conjuntos de relatórios excluídos no Analytics permanecem exibidos no Experience Cloud por 12 horas após a exclusão.
 
    * **[!UICONTROL Experience Cloud:]** os dados de atributo nas fontes da [!DNL Experience Cloud]. Por exemplo, tais dados podem ser de segmentos de público-alvo criados no [!DNL Analytics], ou dados do [!DNL Audience Manager].
 
-1. Defina as regras de público e selecione **[!UICONTROL Salvar].**
+1. Defina as regras de público-alvo e selecione **[!UICONTROL Salvar].**
 
 >[!NOTE]
 >

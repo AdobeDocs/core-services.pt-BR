@@ -8,10 +8,10 @@ topic: Administration
 role: Admin
 level: Experienced
 exl-id: 7f8fa610-32f0-4b18-8054-3ba05436a10e
-source-git-commit: 700a3e3382abba69f7760916637583b8381af8f8
+source-git-commit: 56936fd32f7208fb2a0c4a2abc67d48f30dd788c
 workflow-type: tm+mt
-source-wordcount: '923'
-ht-degree: 84%
+source-wordcount: '913'
+ht-degree: 78%
 
 ---
 
@@ -25,11 +25,11 @@ Ajuda: [Ativar os aplicativos para Serviços de plataforma](core-services.md#con
 
 Descreve como:
 
-* Provisionar sua empresa na Experience Cloud.
+* Provisionar sua empresa no Experience Cloud.
 * Permitir que você se torne um administrador.
 * [Implementar o Serviço da Experience Cloud ID](https://experienceleague.adobe.com/docs/id-service/using/home.html?lang=pt-BR).
 * Modernizar seu [!DNL Analytics] e [!DNL Target] implementações via [!UICONTROL Coleção de dados da plataforma].
-* Comece a usar serviços do Experience Cloud como [!UICONTROL Atributos do cliente] e [!UICONTROL Públicos-alvo].
+* Comece a usar serviços do Experience Cloud como [[!DNL Customer Attributes]](attributes.md) e [[!DNL Audience Library]](audience-library.md).
 
 Soluções ou serviços:
 
@@ -40,7 +40,7 @@ Soluções ou serviços:
 
 ## Serviço da Experience Cloud ID {#section_6ECCCFA2D84D4D4F88C879C799CA9D78}
 
-O serviço de ID fornece uma ID contínua e universal que identifica os visitantes em todos os aplicativos na Experience Cloud. Ele permite substituir o código de geração de ID para serviços como o Analytics, o Audience Manager, o Adobe Target, o video heartbeat e outros aplicativos e produtos da Experience Cloud.
+O serviço de ID fornece uma ID contínua e universal que identifica os visitantes em todos os aplicativos do Experience Cloud. Ele permite substituir o código de geração de ID para serviços como o Analytics, o Audience Manager, o Adobe Target, o video heartbeat e outros aplicativos e produtos da Experience Cloud.
 
 Consulte o [Serviço da Experience Cloud ID](https://experienceleague.adobe.com/docs/id-service/using/home.html?lang=pt-BR)
 
@@ -69,7 +69,7 @@ Criar e gerenciar públicos no Experience Cloud [!UICONTROL Biblioteca de públi
 
 Ajuda: [Atributos do cliente](attributes.md#concept_ACFEE7C8B8E94875BA0825CDF4913AF1)
 
-Se você capturar os dados de clientes empresariais em um banco de dados de gerenciamento de relacionamento com o cliente (CRM), poderá fazer upload dos dados em uma fonte de dados do atributo do cliente na Experience Cloud. Após feito o upload, utilize os dados no [!DNL Adobe Analytics] e [!DNL Adobe Target].
+Se você capturar os dados de clientes de empresas em um banco de dados de gerenciamento de relacionamento com o cliente (CRM), é possível fazer upload dos dados em uma fonte de dados de atributo do cliente no Experience Cloud. Após feito o upload, utilize os dados no [!DNL Adobe Analytics] e [!DNL Adobe Target].
 
 **Soluções ou serviços aplicáveis**
 
@@ -80,7 +80,7 @@ Se você capturar os dados de clientes empresariais em um banco de dados de gere
 
 Ajuda: [Compartilhar pastas da Experience Cloud com a Creative Cloud](creative-cloud.md)
 
-Compartilhe pastas e ativos entre a Experience Cloud e a Creative Cloud. Colabore, comente em ativos compartilhados e use-os nos aplicativos da Experience Cloud, como o [!DNL Social] e o [!DNL Target].
+Compartilhe pastas e assets entre a Experience Cloud e a Creative Cloud. Colabore, comente em ativos compartilhados e use-os nos aplicativos da Experience Cloud, como o [!DNL Social] e o [!DNL Target].
 
 **Aplicativos ou serviços compatíveis**
 
@@ -114,7 +114,7 @@ Trabalhar com dados de aplicativos da Experience Cloud ou outros sistemas extern
 
 ## Adobe Target {#section_739716AB6022424CBC38724CDED10701}
 
-Ajuda: [Integração do Adobe Target com a Experience Cloud](audience-library.md)
+Ajuda: [Integração do Adobe Target com o Experience Cloud](audience-library.md)
 
 Integre o Adobe Target ao Adobe Analytics e outros aplicativos da Experience Cloud para permitir o uso dos mesmos dados, públicos-alvo, atributos e métricas em ambos os aplicativos.
 

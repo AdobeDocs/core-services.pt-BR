@@ -1,17 +1,17 @@
 ---
+title: Requisitos de arquivo para compartilhar ativos
 description: Saiba mais sobre os tipos de arquivo permitidos e as limitações de tamanho para compartilhar assets entre a Adobe Experience Cloud e a Creative Cloud.
 solution: Experience Cloud
-title: Requisitos de arquivo para compartilhar assets
 uuid: 1621accf-c407-437b-ae12-61f13cc338d0
 feature: Assets
 topic: Administration
 role: Admin
 level: Experienced
 exl-id: 61bc8f52-a77e-4e85-939b-6f29963334a1
-source-git-commit: eb2ad8a8255915be47b6002a78cc810b522170d2
+source-git-commit: f229ec33ff721527e6a4c920ea63eabb4102935a
 workflow-type: tm+mt
 source-wordcount: '122'
-ht-degree: 100%
+ht-degree: 95%
 
 ---
 

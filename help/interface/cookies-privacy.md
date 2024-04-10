@@ -8,10 +8,10 @@ topic: Administration
 role: Admin
 level: Experienced
 exl-id: 169b5c67-aab6-4b2a-832e-c5998d796bf7
-source-git-commit: eb2ad8a8255915be47b6002a78cc810b522170d2
+source-git-commit: f229ec33ff721527e6a4c920ea63eabb4102935a
 workflow-type: tm+mt
-source-wordcount: '345'
-ht-degree: 100%
+source-wordcount: '344'
+ht-degree: 90%
 
 ---
 
@@ -21,7 +21,7 @@ A manutenção da privacidade do cliente e da segurança de dados são as princi
 
 A maioria dos cookies definida pelos produtos da Experience Cloud não contém informações pessoalmente identificáveis. Esses cookies e dados associados são seguros e usados apenas para seus relatórios de empresa e para fornecer conteúdo e anúncios relevantes. Os dados não estão disponíveis para terceiros ou outros clientes da Adobe, a menos que sejam usados em relatórios agregados do setor. Por exemplo, a [!DNL Digital Marketing Insight Report] analisa dados agregados e anônimos entre varejistas.
 
-A Adobe não combina informações a nível do navegador por meio de empresas. Para proteger a privacidade e a segurança dos dados dos clientes, alguns dos serviços na Experience Cloud oferecem às empresas a capacidade de usar um conjunto separado de cookies para cada site rastreado. Algumas das ofertas do Suite também oferecem aos clientes a capacidade de usar seu próprio nome de domínio como proprietário do cookie. Esta prática cria uma camada extra de privacidade e segurança, já que transforma os cookies da Experience Cloud em *cookies primários*, pertencendo permanentemente ao site da empresa.
+A Adobe não combina informações a nível do navegador por meio de empresas. Para proteger a privacidade e a segurança dos dados dos clientes, alguns dos serviços no Experience Cloud oferecem às empresas a capacidade de usar um conjunto separado de cookies para cada site rastreado. Algumas das ofertas do Suite também oferecem aos clientes a capacidade de usar seu próprio nome de domínio como proprietário do cookie. Esta prática cria uma camada extra de privacidade e segurança, já que transforma os cookies da Experience Cloud em *cookies primários*, pertencendo permanentemente ao site da empresa.
 
 Os cookies podem armazenar e fornecer apenas as informações que foram depositadas neles anteriormente. Eles não podem executar código ou acessar outras informações armazenadas no computador. Além disso, os navegadores da web restringem o acesso aos dados de cookies. Os navegadores impõem uma política de segurança de cookie que disponibiliza todos os dados de cookie somente para o site que definiu as informações originalmente.
 

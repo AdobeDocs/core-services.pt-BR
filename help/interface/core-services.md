@@ -1,17 +1,17 @@
 ---
 description: Modernize seus aplicativos do Adobe Analytics e do Adobe Target para executar serviços entre aplicativos. Saiba como começar a usar os serviços da Experience Cloud.
 solution: Experience Cloud
-title: Habilite seus aplicativos para executarem serviços entre aplicativos
+title: Habilitar os Aplicativos para Serviços entre Aplicativos
 index: true
 feature: Central Interface Components
 topic: Administration
 role: Admin
 level: Experienced
 exl-id: 48e79e23-b339-4143-b3b1-969c370efeff
-source-git-commit: 55b28d6a16f88955d7259a464bb690ee5985540e
+source-git-commit: f229ec33ff721527e6a4c920ea63eabb4102935a
 workflow-type: tm+mt
-source-wordcount: '2191'
-ht-degree: 89%
+source-wordcount: '2181'
+ht-degree: 83%
 
 ---
 
@@ -21,7 +21,7 @@ Se você implementou o Experience Cloud recentemente usando as tags Experience P
 
 Os clientes existentes podem modernizar suas implementações de aplicativo e implementar a Experience Cloud. Dessa forma, você aproveitará os atributos do cliente e os recursos de público-alvo no Adobe Analytics, no Audience Manager e no Adobe Target. Para fazer esta implementação, você deve:
 
-1. [Associar-se à Experience Cloud e tornar-se um administrador](#section_2423F0BD3DF642658103310EE5EA6154)
+1. [Associar-se ao Experience Cloud e tornar-se um administrador](#section_2423F0BD3DF642658103310EE5EA6154)
 1. [Implementar o Experience Cloud ID Service](#section_3C9F6DF37C654D939625BB4D485E4354)
 1. [Mapear conjuntos de relatórios para uma organização da Experience Cloud](#section_7B08516B01BA421681DF03D0E86CE3BA)
 1. [Atualizar o código AppMeasurement do Analytics](#section_1798D9D0F05C47E29816AC4EEB9A0913)
@@ -32,7 +32,7 @@ Os clientes existentes podem modernizar suas implementações de aplicativo e im
 
 ## Associar-se à Experience Cloud e tornar-se um administrador {#section_2423F0BD3DF642658103310EE5EA6154}
 
-O que é necessário para associar-se à Experience Cloud:
+O que você deve fazer para entrar no Experience Cloud:
 
 1. Verifique se você tem as SKUs adequadas do Adobe Analytics ou Adobe Target.
 
@@ -46,7 +46,7 @@ O que é necessário para associar-se à Experience Cloud:
 1. Modernize sua implementação e consiga um administrador.
 
    * Siga as etapas abaixo em [Implementar o [!UICONTROL Serviço da Experience Cloud ID]](core-services.md#section_3C9F6DF37C654D939625BB4D485E4354).
-   * Entre em contato com o Gerente de contas e comece o processo de provisionamento da Experience Cloud.
+   * Entre em contato com o Gerente de conta e inicie o processo de provisionamento do Experience Cloud.
 
 1. Gerenciar usuários e produtos no [!UICONTROL Admin Console].
 
@@ -60,7 +60,7 @@ Consulte [Administração de usuários e produtos da Experience Cloud](admin-get
 
 ### Logon do usuário
 
-Para fazer logon na Experience Cloud, os usuários devem:
+Para fazer logon no Experience Cloud, os usuários devem:
 
 * Ter uma Adobe ID (ou Enterprise ID para sua empresa).
 * Faça logon em [experience. adobe.com](https://experience.adobe.com).
@@ -73,13 +73,13 @@ Provavelmente, há usuários que já são membros de grupos de aplicativos, como
 
 Quando você mapeia tais grupos para grupos corporativos da Experience Cloud, esses usuários devem vincular manualmente suas respectivas credenciais de conta do aplicativo à respectiva Adobe ID.
 
-Consulte [Vincular contas na Experience Cloud](organizations.md#topic_C31CB834F109465A82ED57FF0563B3F1)
+Consulte [Vincular contas no Experience Cloud](organizations.md#topic_C31CB834F109465A82ED57FF0563B3F1)
 
 >[!NOTE]
 >
 >Depois de mapear os grupos corporativos e de aplicativos, os novos usuários são vinculados automaticamente. (As credenciais da solução são criadas e vinculadas automaticamente à Adobe ID.)
 
-As seções a seguir descrevem como modernizar sua implementação. A modernização da implementação habilita os serviços principais na Experience Cloud.
+As seções a seguir descrevem como modernizar sua implementação. A modernização da implementação habilita os serviços principais no Experience Cloud.
 
 ## Implementar o [!UICONTROL Experience Cloud ID Service] {#section_3C9F6DF37C654D939625BB4D485E4354}
 
@@ -107,7 +107,7 @@ Como parte da configuração do Serviço da Experience Cloud ID, a Adobe recomen
 
 No Adobe Target, o `mbox3rdpartyid` deve obter a ID do cliente e enviá-la para o [!DNL Target]. (Consulte [Trabalhar com atributos do cliente](https://experienceleague.adobe.com/docs/target/using/audiences/visitor-profiles/working-with-customer-attributes.html?lang=pt-BR) em [!DNL Target].)
 
-Quando um visitante é autenticado no seu site ou se identifica de alguma forma, a implementação deve expor a ID do cliente do CRM para a página ou o aplicativo. Em seguida, você pode usar a chamada de função apropriada para sincronizar a ID do cliente com a Experience Cloud. Essa sincronização armazena a ID do cliente do CRM do visitante na Experience Cloud e ativa os atributos desse cliente para uso na Experience Cloud.
+Quando um visitante é autenticado no seu site ou se identifica de alguma forma, a implementação deve expor a ID do cliente do CRM para a página ou o aplicativo. Em seguida, você pode usar a chamada de função apropriada para sincronizar a ID do cliente com o Experience Cloud. Essa sincronização armazena a ID do cliente do CRM do visitante no Experience Cloud e ativa os atributos desse cliente para uso no Experience Cloud.
 
 Por exemplo, digamos que Bob tenha a ID de cliente `52mc210tr42` em seu sistema do CRM. Quando Bob for autenticado no seu site, você deverá revelar essa ID na página e usar a ID para sincronizar por uma das seguintes maneiras:
 
@@ -202,7 +202,7 @@ Tire proveito dos seguintes recursos.
 
 ### [!UICONTROL People] > [!UICONTROL Atributos do cliente]
 
-Se você capturar os dados de clientes empresariais em um banco de dados de gerenciamento de relacionamento com o cliente (CRM), poderá fazer upload dos dados em uma fonte de dados do atributo do cliente na Experience Cloud. Feito o upload, aproveite os dados no [!DNL Adobe Analytics] e [!DNL Adobe Target].
+Se você capturar os dados de clientes de empresas em um banco de dados de gerenciamento de relacionamento com o cliente (CRM), é possível fazer upload dos dados em uma fonte de dados de atributo do cliente no Experience Cloud. Feito o upload, aproveite os dados no [!DNL Adobe Analytics] e [!DNL Adobe Target].
 
 Consulte [Atributos do cliente](attributes.md#concept_ACFEE7C8B8E94875BA0825CDF4913AF1)
 

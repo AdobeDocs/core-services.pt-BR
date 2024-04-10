@@ -8,10 +8,10 @@ topic: Administration
 role: Admin
 level: Experienced
 exl-id: 3d12a1b1-c952-4b42-815d-f64b31429cec
-source-git-commit: eb2ad8a8255915be47b6002a78cc810b522170d2
+source-git-commit: f229ec33ff721527e6a4c920ea63eabb4102935a
 workflow-type: tm+mt
 source-wordcount: '263'
-ht-degree: 100%
+ht-degree: 96%
 
 ---
 
@@ -45,4 +45,4 @@ A seguinte lista descreve como o suporte a cookies de terceiros afeta as impleme
    * O remarketing de exibição hoje depende totalmente do uso de cookies de terceiros.
    * A exibição também depende muito da disponibilidade de vários cookies de rede de publicidade para sincronização.
    * O impacto geral é desconhecido. No entanto, de acordo com o primeiro ponto, a exibição é afetada mais do que outros serviços.
-   * Estamos trabalhando internamente e com nossos parceiros de publicidade para avaliar a extensão total do impacto na veiculação de anúncios.
+   * Estamos trabalhando internamente e com nossos parceiros de publicidade para avaliar a extensão total do impacto na entrega de anúncios.

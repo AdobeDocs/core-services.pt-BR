@@ -3,9 +3,9 @@ description: Saiba mais sobre as preferências de aprendizado personalizadas na 
 solution: Experience Cloud
 title: Preferências de aprendizado personalizadas da Experience Cloud
 exl-id: ad6c8daf-c8ad-42e9-8ff0-cef59dc0da3f
-source-git-commit: 57f4925616c5accbe605aa96f926335abaf9aebd
+source-git-commit: 8d62b535e0a11879477d5310575d9cf8332b3d5f
 workflow-type: tm+mt
-source-wordcount: '397'
+source-wordcount: '380'
 ht-degree: 100%
 
 ---
@@ -21,12 +21,7 @@ Você pode optar por receber um conteúdo útil e personalizado com base em seu 
 
 [![](assets/personalized-learning-customize-learning-button.png)](https://experience.adobe.com/?shell_forceuserconsent=true#/home){width="10%"}
 
-
 Você pode atualizar suas seleções a qualquer momento na seção Uso e coleta de dados do produto das [Configurações de preferência do usuário](https://experience.adobe.com/preferences/).
-
-
-
-
 
 ## Treinamento personalizado e recomendações de suporte para seus produtos e serviços da Adobe
 
@@ -53,8 +48,6 @@ Receba práticas recomendadas, dicas e truques relevantes, apresentações guiad
   </tr>
 </tbody>
 </table>
-
-
 
 ## Informações personalizadas sobre produtos, serviços, eventos e promoções da Adobe
 
@@ -85,9 +78,6 @@ Receba oportunidades personalizadas para eventos de aprendizado, sessões de pes
 
 
 [![](assets/personalized-learning-customize-learning-button.png)](https://experience.adobe.com/?shell_forceuserconsent=true#/home){width="10%"}
-
-
-
 
 ## Veja exemplos dessas informações de aprendizado personalizadas.
 

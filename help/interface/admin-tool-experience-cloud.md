@@ -1,23 +1,23 @@
 ---
-description: Saiba mais sobre a Ferramenta do administrador da Experience Cloud. Exiba uma lista que pode ser classificada e filtrada de todos os usuários e políticas da Experience Cloud.
+title: Exibir usuários e detalhes do usuário
+description: Saiba mais sobre a Ferramenta de administração no Experience Cloud. Exibir uma lista classificável e filtrável de todos os usuários e políticas do Experience Cloud.
 application: Experience Cloud
-title: Exibir usuários e detalhes do usuário da Experience Cloud
 index: true
 feature: Admin Console
 topic: Administration
 role: Admin
 level: Experienced
 exl-id: 127eecdd-3862-48ba-8cf6-a8082d2b7bae
-source-git-commit: eb2ad8a8255915be47b6002a78cc810b522170d2
+source-git-commit: f229ec33ff721527e6a4c920ea63eabb4102935a
 workflow-type: tm+mt
-source-wordcount: '1268'
-ht-degree: 94%
+source-wordcount: '1270'
+ht-degree: 83%
 
 ---
 
-# Exibir usuários e políticas da Experience Cloud na Ferramenta administrativa
+# Exibir usuários e políticas do Experience Cloud na [!UICONTROL Ferramenta do administrador]
 
-Os administradores podem exibir uma lista classificável e filtrável de todos os usuários e políticas da Experience Cloud e seus detalhes na Ferramenta de administração. Os detalhes do usuário incluem o acesso ao produto, as funções e as últimas informações acessadas de um usuário. Os detalhes da política incluem usuário (perfil de produto), grupo, desenvolvedor, integração e lista de administração de uma política, bem como permissões e informações detalhadas sobre recursos da política.
+Os administradores podem exibir uma lista classificável e filtrável de todos os usuários e políticas do Experience Cloud com detalhes na [!UICONTROL Ferramenta do administrador]. Os detalhes do usuário incluem o acesso ao produto, as funções e as últimas informações acessadas de um usuário. Os detalhes da política incluem usuário (perfil de produto), grupo, desenvolvedor, integração e lista de administração de uma política, bem como permissões e informações detalhadas sobre recursos da política.
 
 >[!NOTE]
 >
@@ -27,7 +27,7 @@ Os administradores podem exibir uma lista classificável e filtrável de todos o
 
    ![Acesso ao Admin Console](assets/admin-tool.png)
 
-1. Em [!UICONTROL Acesso rápido], selecione **[!UICONTROL Ferramenta do administrador.]**
+1. Em [!UICONTROL Acesso rápido], clique em **[!UICONTROL Ferramenta do administrador]**.
 
    (Como alternativa, no URL da página inicial, você pode substituir _início_ por _admin._)
 
@@ -45,13 +45,13 @@ Esta página exibe a lista completa de usuários com acesso à Experience Cloud 
 | [!UICONTROL Email] | O endereço de email associado ao usuário. A coluna pode ser classificada como A->Z, Z->A. |
 | [!UICONTROL Tipo de ID] | O tipo de identidade da conta do usuário. O filtro pode ser aplicado a tipos de ID específicos da exibição. Consulte [Gerenciar tipos de identidade](https://helpx.adobe.com/br/enterprise/using/identity.html) para obter mais informações. |
 | [!UICONTROL Soluções] | Resumo dos aplicativos da Experience Cloud que o usuário pode acessar. Aplique filtros para restringir a lista de usuários com acesso específico ao aplicativo. |
-| [!UICONTROL Último logon] | Hora e data do logon mais recente do usuário na Experience Cloud. Essa coluna pode ser classificada por datas crescentes ou decrescentes. <br> **Importante:** A partir de 13 de janeiro de 2020, os últimos dados de logon do usuário serão mantidos por 365 dias. Essas informações são destinadas a mostrar a atividade de logon atual na Experience Cloud e não são uma recomendação para tomar medidas em contas inativas antes de 13 de janeiro de 2020. |
+| [!UICONTROL Último logon] | Hora e data do logon mais recente do usuário no Experience Cloud. Essa coluna pode ser classificada por datas crescentes ou decrescentes. <br> **Importante:** A partir de 13 de janeiro de 2020, os últimos dados de logon do usuário serão mantidos por 365 dias. Essas informações são destinadas a mostrar a atividade de logon atual no Experience Cloud e não uma recomendação para tomar medidas em contas inativas antes de 13 de janeiro de 2020. |
 
 ## Personalizar a exibição da lista de usuários
 
 Pesquise, classifique ou filtre as colunas para personalizar a lista de usuários.
 
-* Procure usuários por Nome ou Email. As pesquisas correspondem à cadeia de caracteres de texto digitada.
+* Procure usuários por Nome ou Email. As pesquisas correspondem à string de texto digitada.
 * Classifique a coluna por valores crescentes ou decrescentes. Isso se aplica às colunas [!UICONTROL Nome], [!UICONTROL Email] e [!UICONTROL Último logon].
 * Para aplicar múltiplos filtros a usuários da lista com critérios específicos, selecione o ícone **[!UICONTROL Filtrar por]**. Quando várias categorias de filtro são aplicadas, as pesquisas contêm a Solução `AND` TIPO DE ID `AND` de domínio de email.
 
@@ -67,17 +67,17 @@ Na página [!UICONTROL Usuários], para visualizar os detalhes do usuário, sele
 
 ![Exibir detalhes do usuário no Admin Console](assets/admin-tool-user-details.png)
 
-Uma exibição detalhada de cada usuário exibe detalhes importantes sobre o acesso ao aplicativo do usuário, as funções de administrador e de produto e as informações acessadas pela última vez.
+Uma exibição detalhada de cada usuário mostra detalhes importantes sobre o acesso do usuário ao aplicativo, as funções de administrador e de produto, além das informações acessadas recentemente.
 
 ## Seção Sobre
 
-Esta seção exibe um resumo da conta do usuário incluindo:
+Esta seção exibe um resumo da conta de usuário incluindo:
 
 * Avatar do usuário e selo de administrador do sistema (se aplicável)
 * Nome
 * Email
 * Nome de usuário (contas do Federated ID podem ter nomes de usuário diferentes do endereço de email)
-* [Tipo de ID](https://helpx.adobe.com/enterprise/using/identity.html)
+* [Tipo de ID](https://helpx.adobe.com/br/enterprise/using/identity.html)
 * País
 * Último logon
 
@@ -93,7 +93,7 @@ Esta seção exibe uma lista completa de todos os perfis de produtos associados 
 |---------|----------|
 | [!UICONTROL Produto] | Nome do produto associado ao perfil do produto. |
 | [!UICONTROL Instância] | Nome da instância (como empresa de logon ou locatário) associada ao produto e ao perfil do produto. |
-| [!UICONTROL Perfil de produto] | Nome exclusivo do perfil do produto. |
+| [!UICONTROL Perfil do produto] | Nome exclusivo do perfil do produto. |
 | [!UICONTROL Atribuído por grupo] | Nome do grupo de usuários que associa o usuário a um perfil de produto. Os resultados em branco indicam que o usuário foi atribuído ao perfil do produto diretamente, não por meio de um grupo. |
 | [!UICONTROL Funções do produto] | Atribuição de função do usuário no perfil do produto. No momento, essas informações se aplicam somente aos perfis de produtos do Adobe Target. |
 
@@ -105,7 +105,7 @@ Esta página exibe a lista completa das políticas da Experience Cloud na sua or
 
 | Elemento | Descrição |
 |---|---|
-| [!UICONTROL Perfil de produto] | O nome do perfil do produto. A coluna pode ser classificada de A->Z ou de Z->A. Para ver mais detalhes sobre a política, clique no nome de perfil de um produto. |
+| [!UICONTROL Perfil do produto] | O nome do perfil do produto. A coluna pode ser classificada de A->Z ou de Z->A. Para ver mais detalhes sobre a política, clique no nome de perfil de um produto. |
 | [!UICONTROL Produto] | O produto associado ao perfil do produto. A coluna pode ser classificada como A->Z, Z->A. |
 | [!UICONTROL Instância] | A instância (por exemplo, locatário ou empresa de logon) associada ao perfil do produto. Os produtos que não tiverem instâncias ou locatários únicos exibirão um &quot; - &quot; como valor. A coluna pode ser classificada como A->Z, Z->A. |
 | [!UICONTROL Número de usuários] | Contagem específica de usuários associados ao perfil do produto, incluindo atribuição direta e atribuição de grupo. A coluna pode ser classificada da menor para a maior ou da maior para a menor. |
@@ -115,8 +115,8 @@ Esta página exibe a lista completa das políticas da Experience Cloud na sua or
 
 Pesquise, classifique ou filtre as colunas para personalizar a lista de políticas.
 
-* Pesquise os perfis de produto por nome. As pesquisas correspondem à cadeia de caracteres de texto digitada.
-* Classifique a coluna por valores crescentes ou decrescentes. Essa classificação se aplica às colunas [!UICONTROL Perfil do produto], [!UICONTROL Produto], [!UICONTROL Instância], [!UICONTROL Número de usuários], e [!UICONTROL Número de desenvolvedores].
+* Pesquise os perfis de produto por nome. As pesquisas correspondem à string de texto digitada.
+* Classifique a coluna por valores crescentes ou decrescentes. Esta classificação se aplica a [!UICONTROL perfil do produto,] [!UICONTROL Produto,] [!UICONTROL Instância,] [!UICONTROL Número de usuários,] e [!UICONTROL Número de desenvolvedores,] Colunas.
 * Selecione o ícone **[!UICONTROL Filtrar por]** para aplicar vários filtros e listar perfis de produto com critérios específicos. Quando várias categorias de filtro são aplicadas, as pesquisas contêm Grupos associados `AND` Instância `AND` Solução.
 
 | Elemento | Descrição |
@@ -163,3 +163,7 @@ Esta seção exibe uma lista completa de todos os usuários, grupos de usuários
 ## Listas detalhadas de permissões e recursos
 
 Esta seção exibe uma lista completa de permissões e recursos disponíveis para o perfil do produto. As permissões e os recursos incluídos no perfil do produto foram marcados com um &quot; ✔&quot;. As listas de permissões e recursos foram categorizadas em guias e colunas para facilitar a visualização. Tabulações e colunas exibem a lista de seções que se aplicam ao produto atual.
+
+## Informações relacionadas
+
+* [Gerenciar usuários](https://helpx.adobe.com/br/enterprise/using/users.html) no [!DNL Admin Console]

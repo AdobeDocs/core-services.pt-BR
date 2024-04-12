@@ -1,6 +1,6 @@
 ---
 title: Gerenciar usuários e produtos
-description: Faça logon no Admin Console e gerencie permissões de usuário e produtos do Experience Cloud (perfis de produto). Saiba mais sobre como delegar direitos administrativos a usuários da Experience Cloud e sobre o suporte a navegador na Experience Cloud.
+description: Faça logon no Admin Console e gerencie permissões de usuário e produtos da Experience Cloud (perfis de produto). Saiba mais sobre como delegar direitos administrativos a usuários da Experience Cloud e sobre o suporte a navegador na Experience Cloud.
 solution: Admin
 index: true
 feature: Admin Console
@@ -11,7 +11,7 @@ exl-id: af9eda5b-d984-44b7-a7b3-52dfc4e03d8f
 source-git-commit: f229ec33ff721527e6a4c920ea63eabb4102935a
 workflow-type: tm+mt
 source-wordcount: '1582'
-ht-degree: 74%
+ht-degree: 81%
 
 ---
 
@@ -35,13 +35,13 @@ Atualizado em: **20 de julho de 2022**
 
 A Adobe está atualizando seu provisionamento para fornecer a todos os clientes da Experience Cloud acesso a recursos essenciais que ajudam na interoperabilidade entre alguns produtos da Experience Cloud. Os usuários terão a Adobe Experience Platform como um novo direito adicionado às suas organizações da Experience Cloud, com a [!UICONTROL Coleta de dados] como um serviço incluído.
 
-A [!UICONTROL coleta de dados] da Adobe Experience Platform inclui [tags](https://experienceleague.adobe.com/en/docs/tags) para um gerenciamento universal de tags simplificado e oferece uma infraestrutura de transmissão de dados confiável, robusta e completa. As tags simplificam a coleta de dados da experiência do cliente e simplificam a entrega da experiência.
+A [!UICONTROL coleta de dados] da Adobe Experience Platform inclui [tags](https://experienceleague.adobe.com/pt-br/docs/tags) para um gerenciamento universal de tags simplificado e oferece uma infraestrutura de transmissão de dados confiável, robusta e completa. As tags simplificam a coleção de dados da experiência do cliente e facilitam a entrega da experiência.
 
 **As alterações no[!DNL Admin Console]**
 
 Os administradores podem ver alterações ou adições à [!DNL Admin Console] do seguinte modo:
 
-* A placa de produto Adobe Experience Platform no Admin Console inclui:
+* O cartão de produto da Adobe Experience Platform no Admin Console inclui:
 
    * Places
    * Assurance
@@ -61,7 +61,7 @@ Os administradores podem ver alterações ou adições à [!DNL Admin Console] d
 Para obter mais detalhes sobre os novos recursos, visite suas respectivas páginas na Experience League:
 
 * [Coleta de dados](https://experienceleague.adobe.com/pt-br/docs/discontinued/using/reports-and-analytics)
-* [Places](https://experienceleague.adobe.com/en/docs/places/using/home)
+* [Places](https://experienceleague.adobe.com/pt-br/docs/places/using/home)
 * [Assurance](https://experienceleague.adobe.com/docs/platform-learn/implement-mobile-sdk/app-implementation/assurance.html?lang=pt-BR)
 * [Namespace de identidade](https://experienceleague.adobe.com/docs/experience-platform/identity/home.html?lang=pt-BR)
 * [Sandboxes](https://experienceleague.adobe.com/docs/experience-platform/sandbox/home.html?lang=pt-BR)
@@ -104,7 +104,7 @@ Sua experiência de logon não é alterada com esta atualização:
 
 1. Usar uma das opções levará a uma experiência de página de destino existente.
 
-1. Um perfil de Adobe está associado a cada plano comercial e fornece a capacidade de organizar ativos criados de ofertas adicionais de nuvem de Adobe (Creative Cloud e Document Cloud).
+1. Um perfil da Adobe é associado a cada plano de negócios e fornece a capacidade de organizar ativos criados de ofertas adicionais da Adobe Cloud (Creative Cloud e Document Cloud).
 
 Para obter mais informações, consulte [Introdução aos perfis da Adobe](https://helpx.adobe.com/br/enterprise/kb/introducing-adobe-profiles.html).
 
@@ -191,7 +191,7 @@ Após a migração, os usuários fazem logon com a Adobe ID (ou Enterprise ID) e
 * [Analytics na [!DNL Admin Console]](https://experienceleague.adobe.com/docs/analytics/admin/admin-console/home.html?lang=pt-BR)
 * [Migração de IDs de usuários do Analytics](https://experienceleague.adobe.com/docs/analytics/admin/admin-tools/user-product-management/migrate-users/c-migration-tool.html?lang=pt-BR)
 
-## Gerenciar o Adobe Target — perfis de produto vs. espaços de trabalho {#section_3860AF177C9E4C7E9C390D36A414F353}
+## Gerenciamento do Adobe Target: perfis de produto vs. espaços de trabalho {#section_3860AF177C9E4C7E9C390D36A414F353}
 
 No Adobe Target, um espaço de trabalho é um perfil de produto. Ele permite que uma organização atribua um conjunto específico de usuários a um conjunto específico de propriedades. De muitas formas, um espaço de trabalho é semelhante a um conjunto de relatórios no Adobe Analytics.
 
@@ -211,7 +211,7 @@ Consulte [Gerenciamento de grupos e usuários](https://experienceleague.adobe.co
 
 ## Gerenciar coleção de dados da Experience Platform {#section_F2DA6778DD2D48AA8F794041971EE6B1}
 
-A [!UICONTROL Coleção de dados] da Experience Platform é exibida na página [!UICONTROL Produtos] no [!UICONTROL Admin Console]. É possível incluir outros aplicativos e serviços em um perfil de produto de Coleção de dados.
+A [!UICONTROL Coleção de dados] da Experience Platform é exibida na página [!UICONTROL Produtos] no [!UICONTROL Admin Console]. É possível incluir outros aplicativos e serviços em um Perfil de produto de coleção de dados.
 
 Convide usuários para a [!UICONTROL Coleção de dados da Platform] e atribua funções e direitos de usuário.
 

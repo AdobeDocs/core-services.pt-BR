@@ -10,7 +10,7 @@ exl-id: fe8ad013-76da-49f8-aa51-dc5f6c1b1d79
 source-git-commit: 06c51428244c67fdb871d4039888aa2517048d2b
 workflow-type: tm+mt
 source-wordcount: '442'
-ht-degree: 73%
+ht-degree: 74%
 
 ---
 
@@ -38,7 +38,7 @@ ht-degree: 73%
 
 * O **Adobe Target** `at.js` (qualquer versão) ou `mbox.js` versão 58 ou posterior é necessário para os atributos do cliente.
 
-  Consulte [Como implantar a at.js](https://experienceleague.adobe.com/docs/target-dev/developer/client-side/overview.html?lang=en).
+  Consulte [Como implantar at.js](https://experienceleague.adobe.com/docs/target-dev/developer/client-side/overview.html?lang=pt-BR).
 
 ## O que são os dados de clientes de empresas? {#section_6F34C29F11414842AA57D2B1248FA3C6}
 

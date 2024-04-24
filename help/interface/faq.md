@@ -1,7 +1,7 @@
 ---
 description: Saiba mais sobre a compatibilidade com o navegador e consulte perguntas e respostas comuns para administradores na Adobe Experience Cloud.
 solution: Experience Cloud
-title: Perguntas frequentes sobre o Experience Cloud
+title: Perguntas frequentes sobre a Experience Cloud
 index: true
 feature: Admin Console
 topic: Administration
@@ -9,15 +9,15 @@ role: Admin
 level: Experienced
 exl-id: 062576da-328e-4b46-9e71-5a25733d607a
 source-git-commit: f229ec33ff721527e6a4c920ea63eabb4102935a
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '719'
-ht-degree: 84%
+ht-degree: 100%
 
 ---
 
 # Perguntas frequentes sobre a Experience Cloud
 
-Saiba mais sobre a compatibilidade com o navegador e consulte perguntas e respostas comuns para administradores no Experience Cloud.
+Saiba mais sobre o suporte a navegadores e consulte perguntas e respostas comuns para admins da Experience Cloud.
 
 ## Quais navegadores são compatíveis com a Experience Cloud?
 
@@ -31,7 +31,7 @@ Saiba mais sobre a compatibilidade com o navegador e consulte perguntas e respos
 
 Se a implementação não foi provisionada para os serviços principais, consulte [Habilitar os aplicativos para serviços principais](core-services.md#concept_07ED1D5C64234E77976E6D572E78FB9C), que descreve como:
 
-1. [Associar-se ao Experience Cloud e tornar-se um administrador](core-services.md#section_2423F0BD3DF642658103310EE5EA6154)
+1. [Associar-se à Experience Cloud e tornar-se um(a) admin](core-services.md#section_2423F0BD3DF642658103310EE5EA6154)
 1. [Implementar o Serviço de ID da Experience Cloud usando tags da Experience Platform](https://experienceleague.adobe.com/docs/experience-platform/tags/get-started/quick-start.html?lang=pt-BR).
 1. [Mapear conjuntos de relatórios para uma organização da Experience Cloud](core-services.md#concept_apg_zq2_rw)
 1. [(Somente no Analytics) Modernizar o código do Analytics AppMeasurement](core-services.md#section_1798D9D0F05C47E29816AC4EEB9A0913)
@@ -62,10 +62,10 @@ O [!DNL Adobe Support] pode enviar uma solicitação de representação para a q
 
 ## O que é _provisionamento?_
 
-O provisionamento no Experience Cloud significa que:
+O provisionamento na Experience Cloud significa que:
 
 * Seus usuários podem começar a fazer logon na [!DNL Experience Cloud] e a vincular aplicativos.
-* Eles podem começar a usar os recursos disponíveis no Experience Cloud, como Pessoas.
+* Podem começar a usar os recursos disponíveis na Experience Cloud, como o serviço de Pessoas.
 * Você pode preparar-se para desativar o processo de logon específico do aplicativo.
 * É possível manter o controle de acesso dos aplicativos.
 
@@ -75,9 +75,9 @@ O provisionamento no Experience Cloud significa que:
 
 * O gerenciamento de produtos e direitos do usuário é executado no [Adobe Admin Console](https://adminconsole.adobe.com/enterprise) (link do produto).
 
-* **Importante:** administradores do Analytics, consultem [Gerenciar usuários do Analytics no Admin Console](https://experienceleague.adobe.com/docs/analytics/admin/user-product-management/migrate-users/c-migration-tool.html?lang=pt-BR) sobre como migrar IDs de usuários das Ferramentas administrativas do Analytics para o Admin Console.
+* **Importante:** admins do Analytics devem consultar [Gerenciar usuários do Analytics no Admin Console](https://experienceleague.adobe.com/docs/analytics/admin/user-product-management/migrate-users/c-migration-tool.html?lang=pt-BR) para saber como migrar IDs de usuários das ferramentas administrativas do Analytics para o Admin Console.
 
-## Como proceder se alguém não conseguir fazer logon no Experience Cloud?
+## O que fazer se alguém não conseguir fazer logon na Experience Cloud?
 
 Os administradores do Admin Console podem conceder acesso aos usuários. Os usuários recebem emails com instruções de logon.
 
@@ -95,7 +95,7 @@ Consulte [Gerenciar contas de usuário](organizations.md#topic_C31CB834F109465A8
 
 ## O que é uma organização?
 
-Um [organização](organizations.md) é a entidade que permite a um administrador configurar grupos e usuários e controlar o logon único no Experience Cloud. A organização funciona como uma empresa para logon que abrange todos os produtos e aplicativos Experience Cloud. Frequentemente, a organização é o nome da empresa. No entanto, uma empresa pode ter muitas organizações.
+A [organização](organizations.md) é a entidade que permite que admins configurem grupos e usuários, além de controlar o sistema de logon único da Experience Cloud. A organização funciona como uma empresa de logon que abrange todos os produtos e aplicativos da Experience Cloud. Frequentemente, a organização é o nome da empresa. No entanto, uma empresa pode ter muitas organizações.
 
 ## Onde posso encontrar minha ID da organização IMS?
 
@@ -103,7 +103,7 @@ Consulte [Visualizar a ID da organização](organizations.md) para obter detalhe
 
 ## O que devo fazer quando um dos meus usuários sair da empresa?
 
-O acesso dele deve ser removido do próprio aplicativo. Eles não poderão acessar o produto por meio do Experience Cloud ou por meio do login direto. Você também deve removê-los no nível da Experience Cloud.
+O acesso dele deve ser removido do próprio aplicativo. Não será possível acessar o produto pela Experience Cloud nem por meio do logon direto. Você também deve removê-los no nível da Experience Cloud.
 
 ## O que é uma Adobe ID?
 

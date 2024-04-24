@@ -1,7 +1,7 @@
 ---
 description: Saiba mais sobre os ativos da Experience Cloud que você pode compartilhar entre aplicativos.
 solution: Experience Cloud
-title: Visão geral do Assets
+title: Visão geral de ativos
 uuid: 97a849ec-1555-4630-9416-2ab484373f5c
 feature: Assets
 topic: Administration
@@ -9,9 +9,9 @@ role: Admin
 level: Experienced
 exl-id: 643c878f-c2f3-4c1d-ae3e-6a75c95520b4
 source-git-commit: f229ec33ff721527e6a4c920ea63eabb4102935a
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '358'
-ht-degree: 94%
+ht-degree: 100%
 
 ---
 
@@ -32,7 +32,7 @@ Usar ativos melhora a consistência e a conformidade da marca, além de acelerar
 
 No [!UICONTROL Experience Cloud Assets], é possível:
 
-* [Navegar até os Experience Cloud Assets](experience-cloud-assets.md#section_3657039DD3524F2AA88753BFF4781125)
+* [Navegar até os ativos da Experience Cloud](experience-cloud-assets.md#section_3657039DD3524F2AA88753BFF4781125)
 * [Acessar a barra de ferramentas](experience-cloud-assets.md#section_EC2E401D225148818F3753248556BE6B)
 * [Editar ativos](experience-cloud-assets.md#section_CD3C55A9D4574455B94D0955391C8FEC)
 * [Pesquisar por ativos](experience-cloud-assets.md#section_50FE049010B446FC9640AA6A30E5A730)
@@ -41,7 +41,7 @@ No [!UICONTROL Experience Cloud Assets], é possível:
 * [Exibir propriedades de ativos](experience-cloud-assets.md#section_FED28711DAB14E1BBEEA7CA890EE9573)
 * [Executar relatórios de uso](experience-cloud-assets.md#section_15D782FFB8D74CF4A735116CC03AD902)
 
-## Navegar até os Experience Cloud Assets {#section_3657039DD3524F2AA88753BFF4781125}
+## Navegar até os ativos da Experience Cloud {#section_3657039DD3524F2AA88753BFF4781125}
 
 ![Navegar até o Experience Cloud Assets](assets/asset-nav.png)
 

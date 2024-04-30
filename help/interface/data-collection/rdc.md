@@ -2,10 +2,10 @@
 title: Coleta de dados regionais
 description: Informações sobre a recolha de dados regionais
 exl-id: 295e9736-2a58-48a8-9968-5dfa33b70d95
-source-git-commit: 2691f0dc91e48a8f817467e334d9028f2e506e70
+source-git-commit: 01851c4d66cbaf1a68961b86926e8cc2c310d1ec
 workflow-type: tm+mt
-source-wordcount: '281'
-ht-degree: 23%
+source-wordcount: '291'
+ht-degree: 21%
 
 ---
 
@@ -25,7 +25,7 @@ Atualmente, a RDC inclui as seguintes localidades (sujeito a mudança):
 | Tipo de RDC | Centros de coleta de dados |
 | --- | --- |
 | Global (padrão) | Oregon, Virgínia, Irlanda, Paris, Mumbai, Singapura, Tóquio, Sydney |
-| Global + China* | China*, Oregon, Virgínia, Irlanda, Paris, Mumbai, Singapura, Tóquio, Sydney |
+| Global + China* | Pequim*, Oregon, Virgínia, Irlanda, Paris, Mumbai, Singapura, Tóquio, Sydney |
 | Somente Américas | Oregon, Virgínia |
 | Somente Europa | Irlanda, Paris |
 | Somente Pacífico Asiático | Mumbai, Singapura, Tóquio, Sidney |
@@ -41,6 +41,7 @@ A coleção de dados de terceiros inclui domínios de cookies que não correspon
 
 | Tipo de RDC | Centros de coleta de dados |
 | --- | --- |
-| Padrão | Oregon, Virgínia, Irlanda, Paris, Mumbai, Singapura, Tóquio, Sydney, China* |
+| Padrão | Oregon, Virgínia, Irlanda, Paris, Mumbai, Singapura, Tóquio, Sydney |
+| Padrão + China* | Pequim*, Oregon, Virgínia, Irlanda, Paris, Mumbai, Singapura, Tóquio, Sydney |
 
 {style="table-layout:auto"}

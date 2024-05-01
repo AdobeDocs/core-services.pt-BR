@@ -1,28 +1,31 @@
 ---
 description: Saiba mais sobre os domínios usados pelo Experience Cloud.
-title: Domínios Experience Cloud
+title: Domínios usados pela Adobe Experience Cloud
 feature: Central Interface Components
 topic: Administration
 role: Admin
 level: Experienced
-source-git-commit: f4833da7ff9e9a04338c632e4bb2bd742bafbf09
+exl-id: a15918f0-c03b-4d32-a254-47f46023b127
+source-git-commit: df91266d6a15c74e3f110050338498062cc34058
 workflow-type: tm+mt
-source-wordcount: '97'
-ht-degree: 28%
+source-wordcount: '101'
+ht-degree: 17%
 
 ---
 
-# Domínios Experience Cloud {#domains}
+# Domínios usados pela Adobe Experience Cloud
 
-O Experience Cloud usa os seguintes hosts para fornecer o aplicativo, melhorar o desempenho e melhorar a experiência do produto. A Adobe recomenda permitir esses domínios por meio da rede ou do firewall de sua organização para obter uma experiência ideal. Outros produtos e serviços da Experience Cloud usam seus próprios domínios - consulte a documentação desses aplicativos para obter mais informações.
+O Experience Cloud usa os seguintes hosts para fornecer o aplicativo, melhorar o desempenho e melhorar a experiência do produto. A Adobe recomenda permitir esses domínios por meio da rede ou do firewall de sua organização para obter uma experiência ideal.
+
+Além dos domínios listados abaixo, os produtos Adobe Experience Cloud individuais têm seus próprios domínios que usam:
 
 * Adobe Analytics
 * Customer Journey Analytics
 
 | Tecnologia | Domínios |
 | --- | --- |
-| Domínios da Adobe Experience Cloud | `adobe.com`, `adobe.net`, `adobe.io` |
+| domínios Adobe | `adobe.com`, `adobe.net`, `adobe.io` |
 | Adobe Identity Management Service (IMS) | `adobelogin.com` |
-| Fontes da Experience Cloud | `typekit.net` |
+| Fontes | `typekit.net` |
 | Coleta de dados (para desempenho e uso do produto) | `adobedtm.com` |
 | Gainsight (para orientação e ajuda do produto) | `esp.aptrinsic.com` |

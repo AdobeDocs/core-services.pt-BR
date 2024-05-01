@@ -1,15 +1,15 @@
 ---
-title: Endereços IP do Adobe Experience Cloud
+title: Endereços IP usados pela Adobe Experience Cloud
 description: Se o firewall da sua organização bloquear endereços IP originados da Adobe, use esta lista para atualizar as configurações do firewall.
 exl-id: e24a70e4-9ed4-4b87-8bab-4ed0aebedd1f
-source-git-commit: 2691f0dc91e48a8f817467e334d9028f2e506e70
+source-git-commit: df91266d6a15c74e3f110050338498062cc34058
 workflow-type: tm+mt
-source-wordcount: '370'
-ht-degree: 27%
+source-wordcount: '373'
+ht-degree: 24%
 
 ---
 
-# Domínios e endereços IP do Adobe Experience Cloud
+# Endereços IP usados pela Adobe Experience Cloud
 
 Algumas configurações de firewall bloqueiam endereços IP dos servidores de coleção de dados da Adobe ou dos servidores responsáveis por acessar os dados do Você pode usar essa lista de intervalos para alterar as configurações de firewall da sua organização para permitir acesso e enviar dados de dentro da organização. Esta página inclui sistemas de entrada (como a coleta de dados) e sistemas de saída (como feeds de dados no Adobe Analytics) que o Adobe usa.
 
@@ -17,17 +17,16 @@ Algumas configurações de firewall bloqueiam endereços IP dos servidores de co
 >
 >Embora o Adobe faça o possível para manter esse documento atualizado, não é possível garantir que a lista de intervalos IP permaneça a mesma. As possíveis alterações incluem o crescimento e a expansão dos negócios, um registro da Internet exige alterações no espaço de endereço IP do Adobe ou um provedor de serviços de Internet deixa de funcionar.
 
-Além dos blocos de endereço IP listados abaixo, os produtos Adobe Experience Cloud individuais têm seus próprios domínios que usam:
+Além dos blocos de endereço IP listados abaixo, os produtos Adobe Experience Cloud individuais têm seus próprios endereços IP que usam:
 
-* [Adobe Experience Cloud](domains.md)
-* Adobe Analytics
+* [Adobe Analytics](https://experienceleague.adobe.com/en/docs/analytics/technotes/ip-addresses)
 * Customer Journey Analytics
 
 ## Todos os blocos de endereço IP da Adobe
 
 A tabela a seguir abrange todos os endereços IP de propriedade de Adobe. Essa tabela inclui todos os escritórios de funcionários de Adobe e data centers executados pelo Adobe globalmente. Não inclui serviços hospedados em nuvens públicas.
 
-| Bloco IP (Notação CIDR) |
+| Bloco IP (notação CIDR) |
 | --- |
 | `63.140.32.0/19` |
 | `66.117.16.0/20` |
@@ -48,7 +47,7 @@ Se a empresa preferir permitir intervalos específicos de endereço IP, você po
 
 Todos os intervalos IP desta seção estão incluídos na tabela acima.
 
-| Localização | Intervalo IP (Notação CIDR) |
+| Localização | Intervalo IP (notação CIDR) |
 | --- | --- |
 | Austrália | `63.140.55.0/24` |
 | Austrália | `63.140.56.0/23` |

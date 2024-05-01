@@ -5,10 +5,10 @@ breadcrumb-title: Guia de administração e interface da Experience Cloud
 title: Manual de administração e interface da Experience Cloud
 description: Conheça a interface da Experience Cloud e as preferências da conta de usuário. Saiba como pesquisar objetos comerciais e gerenciar usuários e produtos. Configure os Atributos do cliente, a Biblioteca de público-alvo, os cookies e o compartilhe Ativos da Experience Cloud.
 index: true
-source-git-commit: 66f78a04674a82335f5df20c4c15d983b6ebdc66
+source-git-commit: 32096aec3acd8dd628123c63b3e047fc0e9f10bd
 workflow-type: tm+mt
-source-wordcount: '248'
-ht-degree: 85%
+source-wordcount: '227'
+ht-degree: 80%
 
 ---
 
@@ -17,14 +17,14 @@ ht-degree: 85%
 
 + [Guia de componentes da interface central da Experience Cloud](experience-cloud.md)
 
-+ Serviços da Experience Cloud {#services}
-   + [Serviços da Experience Cloud](services/overview.md)
++ Serviços {#services}
+   + [Visão geral](services/overview.md)
    + [Introdução](services/getting-started.md)
    + Assets {#assets}
-      + [Visão geral de ativos da Experience Cloud](services/assets/experience-cloud-assets.md)
-      + [Compartilhar as pastas e os ativos da Experience Cloud com a Creative Cloud](services/assets/creative-cloud.md)
+      + [Visão geral](services/assets/experience-cloud-assets.md)
+      + [Compartilhar pastas e ativos com o Creative Cloud](services/assets/creative-cloud.md)
       + [Gerenciar usuários da Creative Cloud](services/assets/manage-cc-users.md)
-      + [Compartilhar uma pasta de ativos da Experience Cloud](services/assets/share.md)
+      + [Compartilhar uma pasta de ativos](services/assets/share.md)
       + [Fazer upload de um ativo para uma pasta compartilhada](services/assets/upload.md)
       + [Requisitos para compartilhamento do arquivo do ativo](services/assets/file-reqs.md)
       + [Comportamento das pastas compartilhadas](services/assets/behavior.md)
@@ -46,17 +46,17 @@ ht-degree: 85%
       + [Considerações de privacidade para atributos do cliente](services/customer-attributes/privacy-mac.md)
    + [Acionadores](services/triggers.md)
 
-+ recursos do Experience Cloud {#features}
++ Recursos {#features}
    + [Preferências da conta](features/account-preferences.md)
    + [Pesquisa unificada](features/search.md)
    + [Aprendizado personalizado](features/personalized-learning.md)
 
-+ Administração da Experience Cloud {#administration}
-   + [Exibir detalhes do usuário da Experience Cloud (Ferramenta administrativa)](administration/admin-tool-experience-cloud.md)
++ Administração {#administration}
+   + [Exibir detalhes do usuário (Ferramenta administrativa)](administration/admin-tool-experience-cloud.md)
    + [Organizações e vinculação de contas](administration/organizations.md)
-   + [Integrações da Experience Cloud](administration/integrations.md)
+   + [Integrações](administration/integrations.md)
 
-+ coleta de dados do Experience Cloud {#data-collection}
++ Coleta de dados {#data-collection}
    + [programa de certificado gerenciado por Adobe](data-collection/adobe-managed-cert.md)
    + [Endereços IP](data-collection/ip-addresses.md)
    + [Domínios](data-collection/domains.md)

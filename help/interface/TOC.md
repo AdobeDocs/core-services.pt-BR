@@ -8,7 +8,7 @@ index: true
 source-git-commit: 32096aec3acd8dd628123c63b3e047fc0e9f10bd
 workflow-type: tm+mt
 source-wordcount: '227'
-ht-degree: 80%
+ht-degree: 92%
 
 ---
 
@@ -20,7 +20,7 @@ ht-degree: 80%
 + Serviços {#services}
    + [Visão geral](services/overview.md)
    + [Introdução](services/getting-started.md)
-   + Assets {#assets}
+   + Ativos {#assets}
       + [Visão geral](services/assets/experience-cloud-assets.md)
       + [Compartilhar pastas e ativos com o Creative Cloud](services/assets/creative-cloud.md)
       + [Gerenciar usuários da Creative Cloud](services/assets/manage-cc-users.md)
@@ -57,7 +57,7 @@ ht-degree: 80%
    + [Integrações](administration/integrations.md)
 
 + Coleta de dados {#data-collection}
-   + [programa de certificado gerenciado por Adobe](data-collection/adobe-managed-cert.md)
+   + [Programa de certificado gerenciado pela Adobe](data-collection/adobe-managed-cert.md)
    + [Endereços IP](data-collection/ip-addresses.md)
    + [Domínios](data-collection/domains.md)
    + Cookies {#cookies}
@@ -69,7 +69,7 @@ ht-degree: 80%
       + [Cookies do Target](data-collection/cookies/target.md)
       + [Cookies do SDK da Web](data-collection/cookies/web-sdk.md)
    + [Coleta de dados regionais](data-collection/rdc.md)
-   + [Usar pré-busca DNS](data-collection/dns-prefetch.md)
+   + [Usar pré-busca de DNS](data-collection/dns-prefetch.md)
 
 + Mais recursos {#more-resources}
    + [Notas de versão](more-resources/release-notes.md)

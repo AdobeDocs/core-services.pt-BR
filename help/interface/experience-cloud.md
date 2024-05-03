@@ -8,13 +8,13 @@ role: Admin
 level: Experienced
 exl-id: aedad5cb-3282-4a97-8e7e-6d65f7b75ba9
 source-git-commit: a4e0461791cd676365857c2dd4ef28c0e40c3430
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '717'
-ht-degree: 99%
+ht-degree: 100%
 
 ---
 
-# Visão geral da interface central do Experience Cloud
+# Visão geral da interface central da Experience Cloud
 
 O [Experience Cloud](https://experience.adobe.com) é a família integrada de aplicativos de marketing digital, produtos e serviços da Adobe. Por meio da interface intuitiva, você pode acessar rapidamente seus aplicativos em nuvem, recursos do produto e serviços.
 

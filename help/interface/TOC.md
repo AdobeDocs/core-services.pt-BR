@@ -6,9 +6,9 @@ title: Manual de administração e interface da Experience Cloud
 description: Conheça a interface da Experience Cloud e as preferências da conta de usuário. Saiba como pesquisar objetos comerciais e gerenciar usuários e produtos. Configure os Atributos do cliente, a Biblioteca de público-alvo, os cookies e o compartilhe Ativos da Experience Cloud.
 index: true
 source-git-commit: 32096aec3acd8dd628123c63b3e047fc0e9f10bd
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '227'
-ht-degree: 92%
+ht-degree: 100%
 
 ---
 
@@ -22,7 +22,7 @@ ht-degree: 92%
    + [Introdução](services/getting-started.md)
    + Ativos {#assets}
       + [Visão geral](services/assets/experience-cloud-assets.md)
-      + [Compartilhar pastas e ativos com o Creative Cloud](services/assets/creative-cloud.md)
+      + [Compartilhar pastas e ativos com a Creative Cloud](services/assets/creative-cloud.md)
       + [Gerenciar usuários da Creative Cloud](services/assets/manage-cc-users.md)
       + [Compartilhar uma pasta de ativos](services/assets/share.md)
       + [Fazer upload de um ativo para uma pasta compartilhada](services/assets/upload.md)
@@ -52,11 +52,11 @@ ht-degree: 92%
    + [Aprendizado personalizado](features/personalized-learning.md)
 
 + Administração {#administration}
-   + [Exibir detalhes do usuário (Ferramenta administrativa)](administration/admin-tool-experience-cloud.md)
+   + [Exibir detalhes do usuário (ferramenta do administrador)](administration/admin-tool-experience-cloud.md)
    + [Organizações e vinculação de contas](administration/organizations.md)
    + [Integrações](administration/integrations.md)
 
-+ Coleta de dados {#data-collection}
++ Coleção de dados {#data-collection}
    + [Programa de certificado gerenciado pela Adobe](data-collection/adobe-managed-cert.md)
    + [Endereços IP](data-collection/ip-addresses.md)
    + [Domínios](data-collection/domains.md)

@@ -1,5 +1,5 @@
 ---
-description: Saiba mais sobre organizações (ID de organização IMS) e como vincular contas de soluções à Experience Cloud.
+description: Saiba mais sobre organizações (ID da organização IMS) e como vincular contas de soluções à Experience Cloud.
 solution: Experience Cloud
 title: Organizações e vinculação de contas
 uuid: ae47ad18-ac33-4efa-8b68-2bfaf77397aa
@@ -8,10 +8,10 @@ topic: Administration
 role: Admin
 level: Experienced
 exl-id: 6eb58530-2a7a-48c7-9a5b-48a6e980a034
-source-git-commit: 66f78a04674a82335f5df20c4c15d983b6ebdc66
+source-git-commit: 0724136e77d6fe1341a64aea75051127956df3b2
 workflow-type: tm+mt
 source-wordcount: '551'
-ht-degree: 69%
+ht-degree: 64%
 
 ---
 
@@ -45,7 +45,7 @@ A ID da organização é a ID associada à empresa provisionada pela Experience 
 
    ![ID da organização atribuída](../assets/assigned-organization.png)
 
-1. Em **[!UICONTROL Informações do usuário]**, procure **[!UICONTROL ID da organização atual]**, e você verá a ID da organização.
+1. Em **[!UICONTROL Informações do usuário]**, procure **[!UICONTROL ID da organização atual]** e você poderá localizar a ID da organização.
 
    Como alternativa, os administradores podem fazer logon no Admin Console (acesse [https://adminconsole.adobe.com](https://adminconsole.adobe.com)) e exiba sua ID da organização no URL.
 
@@ -87,7 +87,7 @@ Em seu perfil, selecione **[!UICONTROL Editar perfil]**.
 
 ![Editar perfil](../assets/edit-profile.png)
 
-Em Organização padrão e Página de destino, é possível personalizar a experiência de logon.
+Em **[!UICONTROL Organização &amp; página inicial padrão]**, você pode personalizar sua experiência de logon.
 
 ![Organização padrão e Página de destino](../assets/default-organization.png)
 

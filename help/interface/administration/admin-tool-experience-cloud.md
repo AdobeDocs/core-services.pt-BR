@@ -1,6 +1,6 @@
 ---
 title: Exibir usuários e detalhes do usuário
-description: Saiba mais sobre a Ferramenta de administração no Experience Cloud. Exibir uma lista classificável e filtrável de todos os usuários e políticas do Experience Cloud.
+description: Saiba mais sobre a ferramenta administrativa na Experience Cloud. Visualize uma lista classificável e filtrável de todos os usuários e políticas da Experience Cloud.
 application: Experience Cloud
 index: true
 feature: Admin Console
@@ -11,7 +11,7 @@ exl-id: 127eecdd-3862-48ba-8cf6-a8082d2b7bae
 source-git-commit: 66f78a04674a82335f5df20c4c15d983b6ebdc66
 workflow-type: tm+mt
 source-wordcount: '1260'
-ht-degree: 83%
+ht-degree: 85%
 
 ---
 

@@ -8,9 +8,9 @@ topic: Administration
 role: Admin
 level: Experienced
 exl-id: bc8ce894-f98c-4475-8a07-d74ae76f7451
-source-git-commit: 2691f0dc91e48a8f817467e334d9028f2e506e70
+source-git-commit: e7c4085f41c674826ddc097a01a24ff9ab6aae2c
 workflow-type: tm+mt
-source-wordcount: '353'
+source-wordcount: '379'
 ht-degree: 16%
 
 ---
@@ -28,6 +28,7 @@ O Analytics usa cookies para definir novos visitantes anonimamente, ajudar a ana
 | **`s_sq`** | Session | 100-200 bytes | Primários | Usado pelo Activity Map. Ele contém informações sobre o link anterior clicado pelo visitante. Definido pelo JavaScript. |
 | **`s_vi`** | 2 anos | 44 bytes | Primário ou `*.omtrdc.net` (terceiros) | Armazena um identificador de visitante único e um carimbo de data e hora. Definido por resposta HTTP. Cada ID de visitante está associada a um perfil de visitante nos servidores Adobe. Os perfis do visitante são excluídos após 1 ano de inatividade, independentemente de qualquer expiração de cookie da ID do visitante. A variável `Secure` o sinalizador é definido quando `SameSite` é &quot;None&quot; e a conexão é HTTPS. `SameSite` é &quot;Lax&quot; por padrão para cookies primários. `SameSite` é &quot;Nenhum&quot; ao usar cookies de terceiros, como em `omtrdc.net` ou `2o7.net`. Definir `SameSite` como &quot;None&quot; ao usar um único CNAME para rastrear vários domínios ou propriedades. |
 | **`s_fid`** | 2 anos | 33 bytes | Primários | Armazena a ID de visitante exclusiva de fallback e o carimbo de data e hora. Definido pelo JavaScript se o padrão `s_vi` o cookie não pode ser definido devido a restrições de cookies de terceiros. Não usado para implementações de cookies primários. |
+| **`s_ac`** | Imediato | 1 byte | Primários | Ajuda a determinar o domínio correto para definir cookies do AppMeasurement. Contém o valor estático `"1"`. Depois que este cookie é configurado, ele é excluído imediatamente. |
 
 {style="table-layout:auto"}
 

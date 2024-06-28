@@ -7,7 +7,7 @@ topic: Administration
 role: Admin
 level: Experienced
 exl-id: 6818edea-31b1-49fc-bca2-32828c7ca78d
-source-git-commit: c39672f0d8a0fd353b275b2ecd095ada1e2bf744
+source-git-commit: 4d2dc1e6126e26f61475efbd33efe98bd47153d5
 workflow-type: tm+mt
 source-wordcount: '298'
 ht-degree: 13%
@@ -26,11 +26,11 @@ O Adobe Advertising (antigo Adobe Advertising Cloud) usa cookies para mapear eve
 | --- | --- | --- | --- | --- |
 | **`_lcc`** | 15 minutos | 52 bytes | `everesttech.net` | Armazena IDs e carimbos de data e hora de cliques de exibição. Determina se um evento de clique em um anúncio de exibição se aplica a uma ocorrência do Adobe Analytics. |
 | **`_tmae`** | 1 ano | 1 KB | `everesttech.net` | Armazena IDs codificadas e carimbos de data e hora para envolvimento de anúncios usando o rastreamento de DSP. Inclui o engajamento do usuário com anúncios, como anúncios vistos pela última vez |
+| **`_tmid`** | 1 ano | ~20 bytes | `everesttech.net` | Armazena a ID do Demand Side Platform Adobe Advertising (DSP). Corresponde à ID de visitante na variável `everest_g_v2` cookie. |
 | **`adcloud`** | 1 ano | 50-150 bytes | Primários | Os carimbos de data e hora da última visita ao site e o último clique de pesquisa do visitante. Também armazena o `ef_id` que foi criado quando o visitante clicou em um anúncio. Vincula a ID de visitante a segmentos de público-alvo e conversões relevantes. Ajuda a otimizar os tempos de carregamento da página, evitando solicitações desnecessárias para o Adobe. |
 | **`ev_sync_*`** |  | 8 bytes | `everesttech.net` | A data em que a sincronização é realizada em `yyymmdd` formato. Sincroniza a ID de visitante do Adobe Advertising com a troca de anúncios do parceiro. Ele é criado para novos visitantes e envia uma solicitação de sincronização quando expira. Inclui os cookies `ev_sync_ax`, `ev_sync_bk`, `ev_sync_dd`, `ev_sync_fs`, `ev_sync_ix`, `ev_sync_nx`, `ev_sync_ox`, `ev_sync_pm`, `ev_sync_rc`, `ev_sync_tm`, e `ev_sync_yh`. |
 | **`everest_g_v2`** | 1 ano | ~27 bytes | `everesttech.net` | Armazena o navegador e a ID do visitante. Criada depois que um usuário clica inicialmente em um anúncio. Usado para mapear os cliques atuais e subsequentes com outros eventos em seu site. |
 | **`everest_session_v2`** | Session | ~16 bytes | `everesttech.net` | Armazena a ID da sessão atual. |
-| **`ev_tm`** | 2 anos | ~20 bytes | `everesttech.net` | Armazena a ID do Demand Side Platform Adobe Advertising (DSP). Corresponde à ID de visitante na variável `everest_g_v2` cookie. |
 | **`id_adcloud`** | 91 dias | 16 bytes | Primários | Armazena a ID do visitante. |
 
 {style="table-layout:auto"}

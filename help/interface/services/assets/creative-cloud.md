@@ -1,7 +1,7 @@
 ---
 description: Saiba mais sobre como compartilhar pastas e assets entre a Experience Cloud e a Creative Cloud.
 solution: Experience Cloud
-title: Compartilhar pastas e ativos do Experience Cloud com o Creative Cloud
+title: Compartilhar pastas de Experience Cloud e Assets com o Creative Cloud
 feature: Assets
 topic: Administration
 role: Admin

@@ -15,7 +15,7 @@ ht-degree: 82%
 
 # Suporte a atributos do cliente para a California Consumer Privacy Act
 
-Esta página descreve [!UICONTROL Atributos do cliente]&quot; suporte para a California Consumer Privacy Act (CCPA).
+Esta página descreve o suporte de [!UICONTROL Atributos do cliente]&#39; para a California Consumer Privacy Act (CCPA).
 
 >[!IMPORTANT]
 >
@@ -50,7 +50,7 @@ Para fazer solicitações de acesso e exclusão de dados para [!UICONTROL Atribu
 &quot;company context&quot;:
 
 * &quot;namespace&quot;: **imsOrgID**
-* &quot;value&quot;: &lt;*valor da ID da organização*>
+* &quot;value&quot;: &lt;*valor da ID da sua organização*>
 
 &quot;users&quot;:
 

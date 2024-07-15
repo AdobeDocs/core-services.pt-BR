@@ -17,7 +17,7 @@ ht-degree: 91%
 
 # Cookies da Experience Cloud 
 
-O Adobe Experience Cloud usa cookies para armazenar uma ID de visitante usada em aplicativos Experience Cloud. Esses cookies se aplicam especificamente ao acesso aos aplicativos do Adobe Experience Cloud no [experience.adobe.com](https://experience.adobe.com).
+O Adobe Experience Cloud usa cookies para armazenar uma ID de visitante usada em aplicativos Experience Cloud. Esses cookies se aplicam especificamente ao acesso aos aplicativos do Adobe Experience Cloud em [experience.adobe.com](https://experience.adobe.com).
 
 **Nome do cookie: s_ecid**
 
@@ -60,7 +60,7 @@ O Adobe Experience Cloud usa cookies para armazenar uma ID de visitante usada em
 
 O [Serviço de ID da Experience Platform](https://experienceleague.adobe.com/docs/id-service/using/home.html?lang=pt-BR) usa o JavaScript para armazenar um identificador de visitante único em um cookie `AMCV_###@AdobeOrg` no domínio do site atual, onde `###` representa uma string aleatória de caracteres, como `AMCV_1FD6776A524453CC0A490D44%40AdobeOrg.`
 
-Consulte [Cookies e o serviço da ID](https://experienceleague.adobe.com/docs/id-service/using/intro/cookies.html?lang=pt-BR).
+Consulte [Cookies e o serviço da ID](https://experienceleague.adobe.com/docs/id-service/using/intro/cookies.html).
 
 <table id="table_1883C0836C1E4AF5A262FBF5000C1B11"> 
  <thead> 

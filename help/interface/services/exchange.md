@@ -7,13 +7,13 @@ feature: Customer Attributes
 topic: Administration
 role: Admin
 level: Experienced
-source-git-commit: c39672f0d8a0fd353b275b2ecd095ada1e2bf744
+exl-id: 77e56cbe-92b6-4b18-ba13-e8178369e57c
+source-git-commit: b4d7cc357393798f2265e09885dd4ea2f80ab31e
 workflow-type: tm+mt
 source-wordcount: '128'
 ht-degree: 93%
 
 ---
-
 
 # Adobe Exchange
 
@@ -31,7 +31,7 @@ O Exchange Marketplace é o único local onde você pode pesquisar, navegar, sel
 
 * Recuse ou aprove aplicativos.
 
-* Publicar no Experience Cloud.
+* Publish no Experience Cloud.
 
 * Pesquise e filtre por categoria, empresa, tipo, usuário e muito mais.
 

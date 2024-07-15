@@ -20,7 +20,7 @@ Informações sobre atualizações na documentação do produto Experience Cloud
 
 **26 de abril de 2024**
 
-Renovação completa da arquitetura de documentação. Também adicionado [Endereços IP do Adobe Experience Cloud](../data-collection/ip-addresses.md) e [Coleta de dados regionais](../data-collection/rdc.md).
+Renovação completa da arquitetura de documentação. Adicionados também [endereços IP da Adobe Experience Cloud](../data-collection/ip-addresses.md) e [Coleta de dados regional](../data-collection/rdc.md).
 
 **9 de abril de 2024**
 

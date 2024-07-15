@@ -1,7 +1,7 @@
 ---
 description: Saiba como implementar a pré-busca de DNS para ajudar a reduzir os tempos de carregamento de página de diferentes aplicativos e serviços na Experience Cloud.
 solution: Experience Cloud
-title: Usar pré-busca DNS
+title: Usar pré-busca de DNS
 uuid: 4220e223-e00e-46b1-8bde-52248913bea1
 topic: Administration
 role: Admin
@@ -10,11 +10,11 @@ exl-id: caf2ff76-2076-436d-a5a7-aff531464480
 source-git-commit: 9ee4d9b0e670dec35cda530892c49e36bf7cc107
 workflow-type: tm+mt
 source-wordcount: '346'
-ht-degree: 90%
+ht-degree: 92%
 
 ---
 
-# Usar pré-busca DNS
+# Usar pré-busca de DNS
 
 Implemente a pré-busca de DNS para ajudar a reduzir os tempos de carregamento de página de diferentes aplicativos e serviços.
 
@@ -24,7 +24,7 @@ Os navegadores usam a pré-busca DNS para resolver automaticamente os nomes de d
 
 ## Pré-busca de DNS e aplicativos da Adobe Experience Cloud
 
-A pré-busca de DNS funciona automaticamente com links estáticos e incorporados em uma página. Isso também significa que a pré-busca de DNS automática não funciona com [!UICONTROL Experience Cloud] aplicativos e serviços porque:
+A pré-busca de DNS funciona automaticamente com links estáticos e incorporados em uma página. Isso também significa que a pré-busca de DNS automática não funciona com aplicativos e serviços diferentes do [!UICONTROL Experience Cloud] porque:
 
 * Cada aplicativo ou serviço da Experience Cloud gera chamadas de DNS dinamicamente à medida que a página é carregada.
 * O navegador não pode resolver nomes de domínio para o endereço IP antes que essas chamadas sejam feitas.
@@ -41,7 +41,7 @@ Os seguintes exemplos mostram como fazer chamadas de pré-busca de DNS para dife
 
 * **Audience Manager:** `<link rel="dns-prefetch" href="//dpm.demdex.net">`
 
-* **Serviço de ID de Experience Cloud:** `<link rel="dns-prefetch" href="//fast.examplepartnerid.demdex.net">`
+* **Serviço de ID do Experience Cloud:** `<link rel="dns-prefetch" href="//fast.examplepartnerid.demdex.net">`
 
 * **Advertising Cloud:**
 
@@ -52,4 +52,4 @@ Os seguintes exemplos mostram como fazer chamadas de pré-busca de DNS para dife
 
 >[!MORELIKETHIS]
 >
->* [Pré-busca DNS](https://www.chromium.org/developers/design-documents/dns-prefetching) relativo ao crômio
+>* [Pré-busca DNS](https://www.chromium.org/developers/design-documents/dns-prefetching) no Chromium

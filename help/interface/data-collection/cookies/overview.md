@@ -2,13 +2,13 @@
 description: Saiba como as soluções e os serviços da Adobe Experience Cloud usam cookies.
 title: Como os cookies são usados no Experience Cloud
 uuid: 4255a13a-917b-4b5f-a7d4-4b2e7521d189
-source-git-commit: c39672f0d8a0fd353b275b2ecd095ada1e2bf744
+exl-id: 60f1a89e-d989-461b-a6a3-c1df022cd30b
+source-git-commit: b4d7cc357393798f2265e09885dd4ea2f80ab31e
 workflow-type: tm+mt
 source-wordcount: '890'
 ht-degree: 58%
 
 ---
-
 
 # Cookies usados no Experience Cloud
 
@@ -22,10 +22,10 @@ Leis, regulamentos e princípios autorreguladores exigem que você obtenha o con
 
 Os serviços da Adobe Experience Cloud usam cookies para fornecer informações sobre variáveis e componentes que não persistem entre as solicitações de imagem e as sessões do navegador. Sempre que possível, o Adobe usa cookies primários para registrar atividades no site. Para registrar a atividade em sites diferentes, como em outros domínios pertencentes a você, são necessários cookies de terceiros.
 
-Muitos navegadores e aplicativos antispyware foram projetados para rejeitar e excluir cookies de terceiros. O Adobe garante que os cookies sempre possam ser definidos, mesmo que os cookies de terceiros estejam bloqueados. O comportamento específico varia dependendo de você estar usando o Experience Platform Identity Service (serviço ECID) ou os identificadores herdados do Analytics (como o `s_vi` cookie):
+Muitos navegadores e aplicativos antispyware foram projetados para rejeitar e excluir cookies de terceiros. O Adobe garante que os cookies sempre possam ser definidos, mesmo que os cookies de terceiros estejam bloqueados. O comportamento específico varia dependendo de você estar usando o Experience Platform Identity Service (serviço ECID) ou os identificadores herdados do Analytics (como o cookie `s_vi`):
 
-* A variável [Serviço de identidade Experience Platform (ECID Service)](https://experienceleague.adobe.com/docs/id-service/using/intro/overview.html?lang=pt-BR) O define cookies próprios automaticamente, independentemente de o domínio de coleção corresponder ao domínio do site. Se não corresponderem, o Identity Service usará o JavaScript para definir cookies no domínio do site.
-* Se você usar [Identificadores herdados do Analytics](analytics.md) (como o `s_vi` cookie), depende de como você configurou o servidor de coleta de dados. Se o servidor de coleção de dados corresponder ao domínio do site, os cookies serão definidos como primários. Se o servidor de coleção não corresponder ao seu domínio atual, os cookies serão definidos como de terceiros. Nesse caso, se os cookies de terceiros estiverem bloqueados, o Analytics definirá uma ID de fallback primária (`s_fid`) em vez do padrão `s_vi` cookie.
+* O [Experience Platform Identity Service (ECID Service)](https://experienceleague.adobe.com/docs/id-service/using/intro/overview.html?lang=pt-BR) define cookies primários de forma automática, independentemente de o domínio de coleção corresponder ao domínio do site. Se não corresponderem, o Identity Service usará o JavaScript para definir cookies no domínio do site.
+* Se você usa [identificadores herdados do Analytics](analytics.md) (como o cookie `s_vi`), isso depende de como você configurou o servidor de coleção de dados. Se o servidor de coleção de dados corresponder ao domínio do site, os cookies serão definidos como primários. Se o servidor de coleção não corresponder ao seu domínio atual, os cookies serão definidos como de terceiros. Nesse caso, se os cookies de terceiros estiverem bloqueados, o Analytics definirá um id de fallback (`s_fid`) primário em vez do cookie `s_vi` padrão.
 
 Se quiser garantir que o servidor de coleção corresponda ao domínio do site, você poderá usar uma implementação CNAME que permita o encaminhamento de um domínio personalizado especificado na implementação CNAME para servidores de coleção Adobe. Essa tarefa envolve alterações nas configurações de DNS da empresa para configurar um alias CNAME para apontar para um domínio hospedado em Adobe. Observe que, embora vários produtos da Adobe sejam compartíveis com o uso de um CNAME, em todos os casos o CNAME é usado para criar um endpoint de terceiros confiável para um cliente específico, e é de sua propriedade. Se você controlar vários domínios, eles poderão usar um único endpoint CNAME para rastrear usuários em seus domínios, mas sempre que o domínio do site não for correspondente ao CNAME, os cookies desse domínio serão definidos como de terceiros.
 

@@ -20,7 +20,7 @@ ht-degree: 96%
 
 Recursos, notas de versão e problemas conhecidos dos Componentes da interface central da Experience Cloud.
 
-Para obter uma lista de atualizações de documentação, consulte [Atualizações da documentação](doc-updates.md).
+Para obter uma lista de atualizações de documentação, consulte [Atualizações de documentação](doc-updates.md).
 
 Para obter notas de versão que abrangem todos os aplicativos, consulte [Notas de versão da Experience Cloud](https://experienceleague.adobe.com/docs/release-notes/experience-cloud/current.html?lang=pt-BR).
 
@@ -191,7 +191,7 @@ A Pesquisa unificada foi atualizada para estar disponível no Journey Optimizer,
 
 * Implantação de um recurso de back-end para controlar o compartilhamento de ativos entre a Experience Cloud e o AEM e entre a Experience Cloud e a Creative Cloud. (CORE-14386)
 * Correção de um problema que bloqueava o provisionamento de novos locatários em alguns ambientes. (CORE-15509)
-* Correção de um problema que redirecionava os usuários para `experiencecloud.adobe.com` usar `http` em vez de `https`. (CORE-15587)
+* Correção de um problema que redirecionava usuários para `experiencecloud.adobe.com` usando `http` em vez de `https`. (CORE-15587)
 * Correção de um problema que bloqueava notificações para alguns novos locatários. (CORE-15240)
 
 ## Junho de 2018
@@ -216,7 +216,7 @@ A Pesquisa unificada foi atualizada para estar disponível no Journey Optimizer,
 
 ## Outubro de 2017
 
-**Problema conhecido**: muitas das notificações de manutenção sobre manutenções/atualizações de produtos programadas estão ausentes no resumo do email de notificação. Estamos trabalhando para garantir que todas as notificações de manutenção sejam incluídas no resumo do email.
+**Problema conhecido**: muitas das notificações de manutenção sobre atualizações de produto/manutenção agendada estão ausentes no resumo do email de notificação. Estamos trabalhando para garantir que todas as notificações de manutenção sejam incluídas no resumo do email.
 
 ## Agosto de 2017
 
@@ -368,7 +368,7 @@ A Pesquisa unificada foi atualizada para estar disponível no Journey Optimizer,
 </table>
 
 * Correção de um problema que impedia a sincronização dos atributos do cliente para alguns clientes.
-* Correção de um problema que impedia a exibição da página [Documentação do produto do Adobe Target](https://experienceleague.adobe.com/docs/target/using/integrate/a4t/a4t.html?lang=pt-BR) em japonês.
+* Correção de um problema que impedia a exibição da página [Documentação do produto do Adobe Target](https://experienceleague.adobe.com/docs/target/using/integrate/a4t/a4t.html) em japonês.
 * Foi corrigido um problema que impedia o uso do texto em japonês nos comentários entre a [!DNL Creative Cloud] e a [!DNL Experience Cloud].
 
 ## Abril de 2015

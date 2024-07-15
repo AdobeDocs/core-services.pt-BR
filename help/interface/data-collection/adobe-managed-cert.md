@@ -1,7 +1,7 @@
 ---
 description: Saiba como configurar certificados seguros para usar com cookies primários do Adobe Experience Cloud.
 solution: Experience Cloud,Analytics
-title: programa de certificado gerenciado por Adobe
+title: Programa de certificado gerenciado pela Adobe
 index: y
 snippet: y
 feature: Cookies
@@ -12,11 +12,11 @@ exl-id: e15abde5-8027-4aed-a0c1-8a6fc248db5e
 source-git-commit: 028b11dfbcfc0c5c9f6fd1c69350574f81f2846b
 workflow-type: tm+mt
 source-wordcount: '929'
-ht-degree: 11%
+ht-degree: 4%
 
 ---
 
-# programa de certificado gerenciado por Adobe
+# Programa de certificado gerenciado pela Adobe
 
 O programa de certificados gerenciado por Adobe é o processo recomendado para configurar certificados primários necessários para uma implementação CNAME. O programa é totalmente automatizado depois de configurado. Ele renova certificados em tempo hábil para que não haja impacto na coleta de dados devido a certificados expirados. O programa é gratuito para os primeiros 100 CNAMEs.
 
@@ -40,17 +40,17 @@ Depois que o Adobe instalar o certificado, você poderá usar um dos métodos a 
 
 +++**Validação do navegador**
 
-Você pode usar qualquer navegador para validar se um certificado está instalado corretamente. Digite seu CNAME com `_check` como o caminho na barra de endereços. Por exemplo:
+Você pode usar qualquer navegador para validar se um certificado está instalado corretamente. Digite seu CNAME com `_check` como o caminho para a barra de endereços. Por exemplo:
 
 `data.example.com/_check`
 
-Se tudo funcionar, o navegador aparecerá `SUCCESS`. Se o certificado não estiver instalado corretamente, você receberá um aviso de segurança.
+Se tudo funcionar, o navegador mostrará `SUCCESS`. Se o certificado não estiver instalado corretamente, você receberá um aviso de segurança.
 
 +++
 
 +++**Linha de comando (`curl`)**
 
-A maioria dos sistemas operacionais modernos já possui [`curl`](https://curl.se) instalado.
+A maioria dos sistemas operacionais modernos já tem o [`curl`](https://curl.se) instalado.
 
 Digite o seguinte na linha de comando:
 
@@ -62,7 +62,7 @@ Se tudo funcionar corretamente, o console retornará `SUCCESS`.
 
 >[!TIP]
 >
->Você pode usar o `-k` sinalizador para desativar o aviso de segurança para ajudar na solução de problemas.
+>Você pode usar o sinalizador `-k` para desabilitar o aviso de segurança para ajudar na solução de problemas.
 
 +++
 
@@ -94,8 +94,8 @@ Aliases: smetrics.example.com
 
 Depois de validar que seu certificado funciona corretamente, você pode atualizar sua implementação de Adobe para usar esses valores.
 
-* Para implementações do AppMeasurement Adobe Analytics, atualize o [`trackingServer`](https://experienceleague.adobe.com/en/docs/analytics/implementation/vars/config-vars/trackingserver) variável de configuração. Se você tiver uma implementação existente, consulte [Migração do visitante](https://experienceleague.adobe.com/en/docs/analytics/technotes/visitor-migration) para obter etapas adicionais sobre como impedir que visitantes existentes sejam contados como novos visitantes.
-* Para implementações do SDK da Web, atualize o [`edgeDomain`](https://experienceleague.adobe.com/en/docs/experience-platform/web-sdk/commands/configure/edgedomain) propriedade na [`configure`](https://experienceleague.adobe.com/en/docs/experience-platform/web-sdk/commands/configure/overview) comando.
+* Para implementações do Adobe Analytics AppMeasurement, atualize a variável de configuração [`trackingServer`](https://experienceleague.adobe.com/en/docs/analytics/implementation/vars/config-vars/trackingserver). Se você tiver uma implementação existente, consulte [Migração de visitante](https://experienceleague.adobe.com/en/docs/analytics/technotes/visitor-migration) para obter etapas adicionais sobre como impedir que visitantes existentes sejam contados como novos visitantes.
+* Para implementações do SDK da Web, atualize a propriedade [`edgeDomain`](https://experienceleague.adobe.com/en/docs/experience-platform/web-sdk/commands/configure/edgedomain) no comando [`configure`](https://experienceleague.adobe.com/en/docs/experience-platform/web-sdk/commands/configure/overview).
 
 ## Manutenção e renovações
 
@@ -139,12 +139,12 @@ Não. A Adobe oferece esse serviço a todos os clientes da Adobe Experience Clou
 
 +++Quais níveis de segurança de criptografia o Adobe oferece?
 
-A Adobe oferece dois níveis de segurança de criptografia para atender às diversas necessidades de segurança do cliente na coleta de dados primários. Esses níveis determinam quais algoritmos de criptografia são compatíveis com as conexões HTTPS com servidores Adobe. O Adobe revisa e atualiza regularmente o conjunto de algoritmos compatíveis com base nas práticas atuais de segurança. Se você quiser alterar as configurações de segurança de criptografia, entre em contato com o Atendimento ao cliente.
+O Adobe oferece dois níveis de segurança de criptografia para atender às diversas necessidades de segurança do cliente na coleta de dados primários. Esses níveis determinam quais algoritmos de criptografia são compatíveis com as conexões HTTPS com servidores Adobe. O Adobe revisa e atualiza regularmente o conjunto de algoritmos compatíveis com base nas práticas atuais de segurança. Se você quiser alterar as configurações de segurança de criptografia, entre em contato com o Atendimento ao cliente.
 
-* **Padrão** O requer o TLS 1.2 ou mais recente e criptografia de pelo menos 128 bits. Ele foi projetado para fornecer a mais ampla compatibilidade de dispositivos, mantendo a criptografia segura.
-* **Alta** o nível de segurança de cifra requer TLS 1.2 ou mais recente e remove o suporte para cifras mais fracas. Ele foi projetado para clientes que desejam a criptografia mais forte e não estão preocupados com o suporte para dispositivos mais antigos.
+* **Standard** requer TLS 1.2 ou mais recente e criptografia de pelo menos 128 bits. Ele foi projetado para fornecer a mais ampla compatibilidade de dispositivos, mantendo a criptografia segura.
+* **Alto** nível de segurança de criptografia requer TLS 1.2 ou mais recente e remove o suporte para cifras mais fracas. Ele foi projetado para clientes que desejam a criptografia mais forte e não estão preocupados com o suporte para dispositivos mais antigos.
 
-Os clientes a seguir não podem se conectar com a segurança de criptografia definida como **Alta**:
+Os seguintes clientes são conhecidos por não conseguirem se conectar com a segurança de criptografia definida como **Alta**:
 
 * Windows 8.1 e anterior (última atualização em 2018)
 * Windows Phone 8.1 e anterior (última atualização em 2016)

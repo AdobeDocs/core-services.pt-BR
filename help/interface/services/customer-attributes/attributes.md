@@ -28,7 +28,7 @@ O serviço de [!DNL Customer Attributes] na Experience Cloud permite que você f
 
 ## Pré-requisitos para fazer upload de [!DNL Customer Attributes] {#section_BD38693AFBF34926BA28E964963B4EA0}
 
-* **Associação de grupo:** Para fazer upload dos dados de Atributos do cliente, os usuários devem ser membros do grupo Atributos do cliente. Você também deve pertencer a um grupo do Adobe Analytics ou do Adobe Target.
+* **Associação de grupo:** para carregar dados de atributos do cliente, os usuários devem ser membros do grupo de atributos do cliente. Você também deve pertencer a um grupo do Adobe Analytics ou do Adobe Target.
 
   Para saber se a empresa tem acesso aos atributos do cliente, o [!DNL Experience Cloud] administrador deve fazer logon na [Experience Cloud](https://experience.adobe.com). Navegue até **[!UICONTROL Administração]** > **[!UICONTROL Admin Console]** > **[!UICONTROL Produtos]**. Se *[!DNL Customer Attributes]* for exibido como um dos [!UICONTROL perfis de produto], está tudo pronto para você começar.
 

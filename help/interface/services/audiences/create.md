@@ -45,7 +45,7 @@ O exemplo a seguir mostra como criar as regras para um público-alvo composto. E
 **Para criar um público-alvo**
 
 1. Na [!DNL Experience Cloud], em [!DNL Experience Platform], selecione **[!UICONTROL Pessoas]** > **[!UICONTROL Biblioteca de público-alvo].**
-1. No [!UICONTROL Públicos-alvo] selecione **[!UICONTROL Novo]**. ![adicionar](assets/add_icon_small.png)
+1. Na página [!UICONTROL Públicos-alvo], selecione **[!UICONTROL Novo]**. ![adicionar](assets/add_icon_small.png)
 
    ![Resultado da etapa](assets/audience_create_new.png)
 

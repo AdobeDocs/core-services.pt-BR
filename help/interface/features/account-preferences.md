@@ -6,7 +6,8 @@ feature: Account Preferences,Notifications,Alerts
 topic: Administration
 role: Admin
 level: Intermediate
-source-git-commit: a4e0461791cd676365857c2dd4ef28c0e40c3430
+exl-id: 1e34c6b2-a792-41c4-adb7-583de596237f
+source-git-commit: b4d7cc357393798f2265e09885dd4ea2f80ab31e
 workflow-type: tm+mt
 source-wordcount: '277'
 ht-degree: 72%
@@ -32,9 +33,9 @@ Em [!UICONTROL Preferências da Experience Cloud], você pode configurar os segu
 |--- |--- |
 | Organização [padrão](../administration/organizations.md) | Selecione a organização que você deseja ver ao iniciar a Experience Cloud. |
 | [!UICONTROL Coleção de dados do produto] | Selecione quais tecnologias a Adobe pode usar para coletar dados sobre como você usa seus produtos da Adobe. |
-| [!UICONTROL Recomendações e promoções de aprendizado personalizadas] | Selecione onde deseja receber [ajuda personalizada](personalized-learning.md) para seus produtos Adobe. Essa ajuda está disponível por email, no produto e nas comunidades Experience League. |
-| [!UICONTROL Subscrições] | Selecione os produtos e categorias que deseja assinar. Notificações na [!UICONTROL Notificação] popover e no email. |
-| [!UICONTROL Prioridade] | Selecione as categorias que você deseja que sejam consideradas de alta prioridade. Essas categorias são marcadas com um [!UICONTROL Alta] tag e podem ser configuradas para entrega, como alertas. |
+| [!UICONTROL Recomendações e promoções de aprendizado personalizadas] | Selecione onde deseja receber a [ajuda personalizada](personalized-learning.md) para seus produtos Adobe. Essa ajuda está disponível por email, no produto e nas comunidades Experience League. |
+| [!UICONTROL Subscrições] | Selecione os produtos e categorias que deseja assinar. Notificações no popover [!UICONTROL Notificações] e por email. |
+| [!UICONTROL Prioridade] | Selecione as categorias que você deseja que sejam consideradas de alta prioridade. Essas categorias são marcadas com uma marca [!UICONTROL High] e podem ser configuradas para entrega como alertas. |
 | [!UICONTROL Alertas] | Selecione as notificações para as quais deseja que alertas sejam exibidos no navegador. Os alertas são exibidos no canto superior direito da janela por alguns segundos. |
 | Emails | Especifique a frequência com que deseja receber emails de notificação. (Não enviar, instantâneo, diário ou semanal.) |
 

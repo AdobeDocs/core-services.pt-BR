@@ -15,7 +15,7 @@ ht-degree: 85%
 
 ---
 
-# Exibir usuários e políticas do Experience Cloud na [!UICONTROL Ferramenta do administrador]
+# Exibir usuários e políticas do Experience Cloud na [!UICONTROL Ferramenta administrativa]
 
 Os administradores podem exibir uma lista classificável e filtrável de todos os usuários e políticas do Experience Cloud com detalhes na [!UICONTROL Ferramenta do administrador]. Os detalhes do usuário incluem o acesso ao produto, as funções e as últimas informações acessadas de um usuário. Os detalhes da política incluem usuário (perfil de produto), grupo, desenvolvedor, integração e lista de administração de uma política, bem como permissões e informações detalhadas sobre recursos da política.
 
@@ -41,7 +41,7 @@ Esta página exibe a lista completa de usuários com acesso à Experience Cloud 
 | [!UICONTROL Email] | O endereço de email associado ao usuário. A coluna pode ser classificada como A->Z, Z->A. |
 | [!UICONTROL Tipo de ID] | O tipo de identidade da conta do usuário. O filtro pode ser aplicado a tipos de ID específicos da exibição. Consulte [Gerenciar tipos de identidade](https://helpx.adobe.com/br/enterprise/using/identity.html) para obter mais informações. |
 | [!UICONTROL Soluções] | Resumo dos aplicativos da Experience Cloud que o usuário pode acessar. Aplique filtros para restringir a lista de usuários com acesso específico ao aplicativo. |
-| [!UICONTROL Último logon] | Hora e data do logon mais recente do usuário no Experience Cloud. Essa coluna pode ser classificada por datas crescentes ou decrescentes. <br> **Importante:** A partir de 13 de janeiro de 2020, os últimos dados de logon do usuário serão mantidos por 365 dias. Essas informações são destinadas a mostrar a atividade de logon atual no Experience Cloud e não uma recomendação para tomar medidas em contas inativas antes de 13 de janeiro de 2020. |
+| [!UICONTROL Último logon] | Hora e data do logon mais recente do usuário no Experience Cloud. Essa coluna pode ser classificada por datas crescentes ou decrescentes. <br> **Importante:** a partir de 13 de janeiro de 2020, os últimos dados de logon do usuário serão mantidos por 365 dias. Essas informações são destinadas a mostrar a atividade de logon atual no Experience Cloud e não uma recomendação para tomar medidas em contas inativas antes de 13 de janeiro de 2020. |
 
 ## Personalizar a exibição da lista de usuários
 
@@ -112,7 +112,7 @@ Esta página exibe a lista completa das políticas da Experience Cloud na sua or
 Pesquise, classifique ou filtre as colunas para personalizar a lista de políticas.
 
 * Pesquise os perfis de produto por nome. As pesquisas correspondem à string de texto digitada.
-* Classifique a coluna por valores crescentes ou decrescentes. Esta classificação se aplica a [!UICONTROL perfil do produto,] [!UICONTROL Produto,] [!UICONTROL Instância,] [!UICONTROL Número de usuários,] e [!UICONTROL Número de desenvolvedores,] Colunas.
+* Classifique a coluna por valores crescentes ou decrescentes. Esta classificação se aplica às [!UICONTROL colunas de perfil de produto,] [!UICONTROL Produto,] [!UICONTROL Instância,] [!UICONTROL Número de usuários,] e [!UICONTROL Número de Desenvolvedores,].
 * Selecione o ícone **[!UICONTROL Filtrar por]** para aplicar vários filtros e listar perfis de produto com critérios específicos. Quando várias categorias de filtro são aplicadas, as pesquisas contêm Grupos associados `AND` Instância `AND` Solução.
 
 | Elemento | Descrição |
@@ -162,4 +162,4 @@ Esta seção exibe uma lista completa de permissões e recursos disponíveis par
 
 ## Informações relacionadas
 
-* [Gerenciar usuários](https://helpx.adobe.com/br/enterprise/using/users.html) no [!DNL Admin Console]
+* [Gerenciar usuários](https://helpx.adobe.com/br/enterprise/using/users.html) em [!DNL Admin Console]

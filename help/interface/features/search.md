@@ -38,7 +38,9 @@ Esse recurso está disponível somente para os produtos compatíveis, que atualm
 
 Nossos algoritmos mostram primeiro os registros mais relevantes. A ordem dos resultados depende de vários fatores, como:
 
-Sua capacidade e permissões de objeto Porcentagem de correspondência Se houver uma correspondência exata
+Sua capacidade e permissões de objeto
+Porcentagem de correspondência
+Se há uma correspondência exata
 
 ![Pesquisa unificada na Experience Cloud](../assets/unified-search-results.png)
 
@@ -85,10 +87,10 @@ Os seguintes recursos estão disponíveis na Pesquisa unificada.
 | Tolerância a erros de digitação | A pesquisa unificada oferece tolerância robusta a erros de digitação usando algoritmos avançados. Esses algoritmos calculam as edições e fornecem resultados apropriados. |
 | Realce | A resposta da pesquisa destaca a palavra-chave correspondente na consulta de pesquisa, para que você possa encontrar facilmente a seção e as palavras que correspondem à consulta. O realce também funciona para palavras com erro ortográfico. |
 | Trechos | Na resposta da pesquisa, você pode ver um trecho do resultado. Os trechos retornam as palavras correspondentes e algum conteúdo em torno das palavras-chave correspondentes. |
-| Palavras de interrupção | Algumas palavras comumente usadas em inglês são definidas como _palavras de interrupção_. Se palavras de interrupção forem incluídas na consulta de pesquisa, menos peso será dado a elas. <br>As palavras de interrupção incluem: _a, an, and, são, como, at, be, mas, por, for, in, into, is, it, no, not, of, on, or, tal, que, o, seu, então, há, esses, eles, este, para, foi, será, com_. <br>Palavras de interrupção não são suportadas em outros idiomas globais. |
+| Palavras de interrupção | Algumas palavras usadas com frequência em inglês são definidas como _palavras de interrupção_. Se palavras de interrupção forem incluídas na consulta de pesquisa, menos peso será dado a elas. <br>As palavras de interrupção incluem: _a, an, and, are, as, at, be, but, by, for, if, in, into, is, it, no, not, of, on ou, such, that, the, their, then, there, these, this, to, was, will, with_. <br>Não há suporte para palavras de interrupção em outros idiomas globais. |
 | Consultas de linguagem natural | Quando você procurar um artigo de ajuda ou uma discussão no Experience League Communities, poderá digitar a sua pergunta usando linguagem natural e obter a resposta. Exemplo de pesquisa: &quot;Como criar um esquema?&quot; |
 | Pesquisa exata entre aspas | Você pode fazer uma pesquisa exata usando aspas na query. Nenhuma correção de erro de digitação é feita em consultas de correspondência exata. Por exemplo: &quot;Luma Jornada 2022&quot;. |
-| Filtros | É possível aplicar filtros como _Tipo de objeto_ e outros filtros específicos de objeto no pop-up de resultados da pesquisa completa. Quando você pressiona Enter depois de vincular a consulta de pesquisa, um pop-up de página inteira é aberto com os filtros. |
+| Filtros | Você pode aplicar filtros como _Tipo de objeto_ e outros filtros específicos de objeto na janela pop-up de resultados da pesquisa completa. Quando você pressiona Enter depois de vincular a consulta de pesquisa, um pop-up de página inteira é aberto com os filtros. |
 
 {style="table-layout:auto"}
 

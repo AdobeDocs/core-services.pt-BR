@@ -1,7 +1,7 @@
 ---
 description: Crie uma fonte de atributo do cliente e faça upload dela para a Adobe Experience Cloud.
 solution: Experience Cloud
-title: Crie uma fonte de atributo do cliente e faça upload do arquivo de dados
+title: Crie uma Source de atributo do cliente e faça upload do arquivo de dados
 uuid: 53dca789-9a91-4385-839d-c9d1aa36b9be
 feature: Customer Attributes
 topic: Administration
@@ -25,7 +25,7 @@ Crie a fonte de atributo do cliente (arquivos CSV e FIN) e faça upload dos dado
 
 >[!IMPORTANT]
 >
->Para acessar este recurso, os usuários devem ser atribuídos ao perfil de produto Atributos do cliente (Atributos do cliente - Acesso padrão). Navegue até **[!UICONTROL Administração]** > **[!UICONTROL Admin Console]** > **[!UICONTROL Produtos]**. Se *Atributos do cliente* é exibido como um dos [!UICONTROL perfis de produto], você está pronto para começar. Os usuários adicionados ao grupo Atributos do cliente verão o menu [!UICONTROL Atributos do cliente] à esquerda da interface da Experience Cloud.
+>Para acessar este recurso, os usuários devem ser atribuídos ao perfil de produto Atributos do cliente (Atributos do cliente - Acesso padrão). Navegue até **[!UICONTROL Administração]** > **[!UICONTROL Admin Console]** > **[!UICONTROL Produtos]**. Se os *Atributos do cliente* forem exibidos como um dos [!UICONTROL perfis de produto], você estará pronto para começar. Os usuários adicionados ao grupo Atributos do cliente verão o menu [!UICONTROL Atributos do cliente] à esquerda da interface da Experience Cloud.
 >
 >Para usar o recurso de Atributos do cliente, os usuários também devem pertencer a grupos no nível do aplicativo (Analytics ou [!DNL Target]).
 
@@ -48,13 +48,13 @@ Esses dados são os dados do cliente da empresa no seu CRM. Os dados podem inclu
 
 ## Criar a fonte de atributo e fazer upload do arquivo de dados {#task_09DAC0F2B76141E491721C1E679AABC8}
 
-Execute essas etapas na página Criar nova fonte de atributo do cliente no Experience Cloud.
+Execute essas etapas na página Criar novo Source de atributo do cliente no Experience Cloud.
 
 >[!IMPORTANT]
 >
 >Ao criar, modificar ou excluir fontes de atributo do cliente, ocorre um atraso de cerca de uma hora antes de as IDs começarem a realizar a sincronização com a nova fonte de dados. Você deve ter direitos administrativos no Audience Manager para criar ou modificar fontes de atributo do cliente. Entre em contato com o Atendimento ao cliente do Audience Manager ou consulte para obter direitos administrativos.
 
-1. No [!DNL Experience Cloud], selecione o Menu  ![menu](assets/menu-icon.png) ícone.
+1. No [!DNL Experience Cloud], selecione o ícone Menu ![menu](assets/menu-icon.png).
 1. Na **[!DNL Experience Platform]**, selecione **[!UICONTROL Pessoas]** > **[!UICONTROL Atributos de cliente]**.
 
    A página [!UICONTROL Atributos do cliente] é o local para gerenciar e editar as fontes de dados do atributo existentes.
@@ -71,13 +71,13 @@ Execute essas etapas na página Criar nova fonte de atributo do cliente no Exper
 
    * **[!UICONTROL Descrição:]** (opcional) uma descrição da fonte de atributos de dados.
 
-   * **[!UICONTROL ID de alias:]** representa uma fonte de dados do atributo do cliente, como um sistema de CRM específico. [!UICONTROL ID de alias] é um identificador exclusivo que é usado em seu código da Fonte de atributo do cliente O identificador deve ser único, estar com letras minúsculas e sem espaços. O valor inserido na variável [!UICONTROL ID de alias] o campo de uma fonte de atributo do cliente no Experience Cloud deve corresponder aos valores que estão sendo transmitidos na implementação (seja via Coleção de dados da plataforma ou JavaScript do SDK móvel).
+   * **[!UICONTROL ID de alias:]** representa uma fonte de dados do atributo do cliente, como um sistema de CRM específico. [!UICONTROL ID de alias] é um identificador exclusivo que é usado em seu código da Fonte de atributo do cliente O identificador deve ser único, estar com letras minúsculas e sem espaços. O valor inserido no campo [!UICONTROL ID de alias] para uma fonte de atributo do cliente no Experience Cloud deve corresponder aos valores que estão sendo transmitidos na implementação (seja via Coleção de dados da plataforma ou JavaScript do SDK móvel).
 
      A ID de alias corresponde a determinadas áreas em que você definiu outros valores da ID do cliente. Por exemplo:
 
       * **Dynamic tag management:** a ID de alias corresponde ao valor do *Código de integração* nas [!UICONTROL Configurações do cliente], na ferramenta [Serviço da Experience Cloud ID](https://experienceleague.adobe.com/docs/experience-platform/tags/home.html?lang=pt-BR).
 
-      * **API do Visitante:** a ID de alias corresponde às [IDs do cliente](https://experienceleague.adobe.com/docs/id-service/using/reference/authenticated-state.html?lang=pt-BR) adicionais que você pode associar a cada visitante.
+      * **API do Visitante:** a ID de alias corresponde às [IDs do cliente](https://experienceleague.adobe.com/docs/id-service/using/reference/authenticated-state.html) adicionais que você pode associar a cada visitante.
 
         Por exemplo, *&quot;crm_ id&quot;* em:
 
@@ -141,7 +141,7 @@ Consulte [Configurar subscrições](subscription.md).
 
 **Para ativar uma fonte de atributo**
 
-No [!UICONTROL Criar nova ou editar fonte de atributo do cliente] localize a [!UICONTROL Ativar] e selecione **[!UICONTROL Ativo]**.
+Na página [!UICONTROL Criar novo ou editar Source de atributos do cliente], localize o cabeçalho [!UICONTROL Ativar] e selecione **[!UICONTROL Ativo]**.
 
 ![Resultado da etapa](assets/activate_attribute_source.png)
 
@@ -161,4 +161,4 @@ No [!DNL Target], você pode selecionar um atributo do cliente na seção [!UICO
 
 ![Usar os atributos do cliente no Adobe Target](assets/crs-add-attribute-target.png)
 
-Consulte [Criação de um novo público-alvo](https://experienceleague.adobe.com/docs/target/using/audiences/create-audiences/audiences.html?lang=pt-BR) na ajuda do [!DNL Target].
+Consulte [Criação de um novo público-alvo](https://experienceleague.adobe.com/docs/target/using/audiences/create-audiences/audiences.html) na ajuda do [!DNL Target].

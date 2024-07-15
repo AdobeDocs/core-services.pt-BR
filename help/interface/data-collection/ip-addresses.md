@@ -1,16 +1,17 @@
 ---
 title: Endereços IP usados pela Adobe Experience Cloud
-description: Se o firewall da sua organização bloquear endereços IP originados da Adobe, use esta lista para atualizar as configurações do firewall.
-source-git-commit: 6ef38a303e19f5b18be9e61819d3aff03faeedd4
+description: Se o firewall da sua organização bloquear endereços IP originários do Adobe, use esta lista para atualizar as configurações do firewall.
+exl-id: 1fca8d3b-ae8b-4095-96ef-d165f912b4c6
+source-git-commit: 12ff555472b99d7297c3d180e786f300b2d490e9
 workflow-type: tm+mt
 source-wordcount: '374'
-ht-degree: 24%
+ht-degree: 5%
 
 ---
 
 # Endereços IP usados pela Adobe Experience Cloud
 
-Algumas configurações de firewall bloqueiam endereços IP dos servidores de coleção de dados da Adobe ou dos servidores responsáveis por acessar os dados do Você pode usar essa lista de intervalos para alterar as configurações de firewall da sua organização para permitir acesso e enviar dados de dentro da organização. Esta página inclui sistemas de entrada (como a coleta de dados) e sistemas de saída (como feeds de dados no Adobe Analytics) que o Adobe usa.
+Algumas configurações de firewall bloqueiam endereços IP originados de servidores de coleta de dados do Adobe ou servidores responsáveis por acessar os dados do. Você pode usar essa lista de intervalos para alterar as configurações de firewall da sua organização para permitir acesso e enviar dados de dentro da organização. Esta página inclui sistemas de entrada (como a coleta de dados) e sistemas de saída (como feeds de dados no Adobe Analytics) que o Adobe usa.
 
 >[!IMPORTANT]
 >
@@ -21,7 +22,7 @@ Além dos blocos de endereço IP listados abaixo, os produtos Adobe Experience C
 * [Adobe Analytics](https://experienceleague.adobe.com/en/docs/analytics/technotes/ip-addresses)
 * [Customer Journey Analytics](https://experienceleague.adobe.com/en/docs/analytics-platform/using/technotes/ip-addresses)
 
-## Todos os blocos de endereço IP da Adobe
+## Todos os blocos de endereço IP do Adobe
 
 A tabela a seguir abrange todos os endereços IP de propriedade de Adobe. Essa tabela inclui todos os escritórios de funcionários de Adobe e data centers executados pelo Adobe globalmente. Não inclui serviços hospedados em nuvens públicas.
 

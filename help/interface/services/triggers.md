@@ -49,7 +49,7 @@ Crie um acionador e configure as condições para ele. Por exemplo, você pode e
 >
 >No momento, há um limite técnico de 100 acionadores.
 
-1. No Experience Cloud, selecione ![menu](../assets/menu-icon.png)e selecione **[!UICONTROL Coleta de dados/Launch]**.
+1. No Experience Cloud, selecione ![menu](../assets/menu-icon.png) e, em seguida, **[!UICONTROL Coleção de dados/Launch]**.
 2. No cartão [!UICONTROL Acionadores], selecione **[!UICONTROL Gerenciar acionadores]**.
 3. Selecione **[!UICONTROL Novo acionador]** e especifique o tipo de acionador:
 

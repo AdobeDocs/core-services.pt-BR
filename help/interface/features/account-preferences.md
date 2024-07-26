@@ -1,16 +1,16 @@
 ---
 title: Preferências e Notificações de Conta
-description: Saiba mais sobre perfis de usuário e preferências de conta no Experience Cloud. Assine notificações de produtos e receba alertas de produtos.
+description: Saiba mais sobre perfis de usuário e preferências de conta no Experience Cloud. Assine notificações de produtos e receba alertas de produtos. Saiba mais sobre o suporte a navegador e idioma.
 solution: Experience Cloud
 feature: Account Preferences,Notifications,Alerts
 topic: Administration
 role: Admin
 level: Intermediate
 exl-id: 1e34c6b2-a792-41c4-adb7-583de596237f
-source-git-commit: 2d65d40c462bd031939c0a8efc1631540dd96ec1
+source-git-commit: 99b611d1418174ce27fe6a7b231f84bab9e12468
 workflow-type: tm+mt
-source-wordcount: '366'
-ht-degree: 79%
+source-wordcount: '448'
+ht-degree: 81%
 
 ---
 
@@ -46,6 +46,22 @@ Em [!UICONTROL Preferências da Experience Cloud], você pode configurar os segu
 Selecione **[!UICONTROL Notificações]** para ser alertado de atualizações relevantes e práticas, incluindo lançamentos de produtos, avisos de manutenção, itens compartilhados e solicitações de aprovação.
 
 ![Notificações e anúncios](../assets/notifications-menu-small.png)
+
+## Suporte ao navegador na Experience Cloud {#browser}
+
+Para obter o melhor desempenho, a Experience Cloud é otimizada para os navegadores mais populares, incluindo a versão mais recente, além das duas versões anteriores.
+
+* Google Chrome
+* Edge
+* Firefox
+* Opera
+* Safari
+
+Se o seu navegador não estiver listado, talvez ainda seja suportado, mas é recomendável usar um dos navegadores listados.
+
+>[!NOTE]
+>
+>Nem todos os aplicativos em execução no domínio Experience Cloud dão suporte a todos os navegadores. Se não tiver certeza, confira a documentação de um aplicativo específico.
 
 ## Suporte de idiomas na Experience Cloud {#languages}
 

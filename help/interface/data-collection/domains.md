@@ -6,10 +6,10 @@ topic: Administration
 role: Admin
 level: Experienced
 exl-id: a15918f0-c03b-4d32-a254-47f46023b127
-source-git-commit: db363c7f35dbd475548af5cbae2977ebf7a9c672
+source-git-commit: d76af0f0f98b28ad1ac7b539743b722464fe98fa
 workflow-type: tm+mt
-source-wordcount: '103'
-ht-degree: 17%
+source-wordcount: '106'
+ht-degree: 16%
 
 ---
 
@@ -21,6 +21,7 @@ Além dos domínios listados abaixo, os produtos Adobe Experience Cloud individu
 
 * [Adobe Analytics](https://experienceleague.adobe.com/en/docs/analytics/technotes/domains)
 * [Customer Journey Analytics](https://experienceleague.adobe.com/en/docs/analytics-platform/using/technotes/domains)
+* [Marketo Engage](https://experienceleague.adobe.com/en/docs/marketo/using/getting-started/initial-setup/configure-protocols-for-marketo)
 
 | Tecnologia | Domínios |
 | --- | --- |
@@ -28,4 +29,4 @@ Além dos domínios listados abaixo, os produtos Adobe Experience Cloud individu
 | Adobe Identity Management Service (IMS) | `adobelogin.com` |
 | Fontes | `typekit.net` |
 | Coleta de dados (para desempenho e uso do produto) | `adobedtm.com` |
-| Gainsight (para orientação e ajuda do produto) | `esp.aptrinsic.com` |
+| Gainsight (para orientação e ajuda do produto) | `esp.aptrinsic.com`, `esp-m.aptrinsic.com` |

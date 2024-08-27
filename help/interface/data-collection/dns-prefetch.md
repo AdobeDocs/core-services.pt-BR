@@ -1,16 +1,16 @@
 ---
 description: Saiba como implementar a pré-busca de DNS para ajudar a reduzir os tempos de carregamento de página de diferentes aplicativos e serviços na Experience Cloud.
 solution: Experience Cloud
-title: Usar pré-busca de DNS
+title: Usar pré-busca DNS
 uuid: 4220e223-e00e-46b1-8bde-52248913bea1
 topic: Administration
 role: Admin
 level: Experienced
 exl-id: caf2ff76-2076-436d-a5a7-aff531464480
-source-git-commit: 9ee4d9b0e670dec35cda530892c49e36bf7cc107
+source-git-commit: 2a80851c0a7d4ef7dbcc2565177b239f3e063164
 workflow-type: tm+mt
 source-wordcount: '346'
-ht-degree: 92%
+ht-degree: 91%
 
 ---
 

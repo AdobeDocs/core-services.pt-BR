@@ -9,14 +9,14 @@ topic: Administration
 role: Admin
 level: Experienced
 exl-id: ab6de845-99ea-4cd8-b7cd-012fb641403f
-source-git-commit: c39672f0d8a0fd353b275b2ecd095ada1e2bf744
+source-git-commit: 2a80851c0a7d4ef7dbcc2565177b239f3e063164
 workflow-type: tm+mt
 source-wordcount: '626'
 ht-degree: 99%
 
 ---
 
-# Cookies do Audience Manager {#audience-manager-cookies}
+# Cookies do Audience Manager{#audience-manager-cookies}
 
 O Audience Manager depende de alguns cookies simples para executar funções diferentes. Isso inclui coisas como atribuir IDs, gravar chamadas de dados, rastreamento de erros e testar para ver se os cookies podem ser definidos. Esta seção lista e descreve os vários cookies definidos pelo Audience Manager.
 

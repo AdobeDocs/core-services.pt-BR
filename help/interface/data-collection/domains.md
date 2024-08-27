@@ -1,15 +1,15 @@
 ---
 description: Saiba mais sobre os domínios usados pelo Experience Cloud.
-title: Domínios usados pela Adobe Experience Cloud
+title: Domínios usados pelo Experience Cloud
 feature: Central Interface Components
 topic: Administration
 role: Admin
 level: Experienced
 exl-id: a15918f0-c03b-4d32-a254-47f46023b127
-source-git-commit: d76af0f0f98b28ad1ac7b539743b722464fe98fa
+source-git-commit: 2a80851c0a7d4ef7dbcc2565177b239f3e063164
 workflow-type: tm+mt
-source-wordcount: '106'
-ht-degree: 16%
+source-wordcount: '104'
+ht-degree: 17%
 
 ---
 

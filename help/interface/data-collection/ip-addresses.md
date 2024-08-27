@@ -1,15 +1,15 @@
 ---
-title: Endereços IP usados pela Adobe Experience Cloud
+title: Endereços IP usados pelo Experience Cloud
 description: Se o firewall da sua organização bloquear endereços IP originários do Adobe, use esta lista para atualizar as configurações do firewall.
 exl-id: 1fca8d3b-ae8b-4095-96ef-d165f912b4c6
-source-git-commit: d76af0f0f98b28ad1ac7b539743b722464fe98fa
+source-git-commit: 2a80851c0a7d4ef7dbcc2565177b239f3e063164
 workflow-type: tm+mt
-source-wordcount: '377'
+source-wordcount: '373'
 ht-degree: 5%
 
 ---
 
-# Endereços IP usados pela Adobe Experience Cloud
+# Endereços IP usados pelo Experience Cloud
 
 Algumas configurações de firewall bloqueiam endereços IP originados de servidores de coleta de dados do Adobe ou servidores responsáveis por acessar os dados do. Você pode usar essa lista de intervalos para alterar as configurações de firewall da sua organização para permitir acesso e enviar dados de dentro da organização. Esta página inclui sistemas de entrada (como a coleta de dados) e sistemas de saída (como feeds de dados no Adobe Analytics) que o Adobe usa.
 

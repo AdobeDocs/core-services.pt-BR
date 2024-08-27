@@ -1,16 +1,16 @@
 ---
 description: Saiba mais sobre cookies Adobe Advertising para mapear eventos de envolvimento de anúncios em eventos de conversão e, possivelmente, use essas informações para otimizar ofertas de anúncios.
-title: Cookies do Adobe Advertising
+title: Cookies Adobe Advertising
 uuid: 2eec48a3-3e81-488e-8e30-5fd62885de0b
 feature: Cookies
 topic: Administration
 role: Admin
 level: Experienced
 exl-id: 6818edea-31b1-49fc-bca2-32828c7ca78d
-source-git-commit: 4d2dc1e6126e26f61475efbd33efe98bd47153d5
+source-git-commit: 2a80851c0a7d4ef7dbcc2565177b239f3e063164
 workflow-type: tm+mt
 source-wordcount: '298'
-ht-degree: 13%
+ht-degree: 12%
 
 ---
 

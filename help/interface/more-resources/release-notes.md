@@ -9,9 +9,9 @@ topic: Administration
 role: Admin
 level: Experienced
 exl-id: b71d144c-a097-4cdb-9721-671519d38aff
-source-git-commit: a4e0461791cd676365857c2dd4ef28c0e40c3430
+source-git-commit: 2690962f4b72d26fcde9883bb0bac3d49a9efa1a
 workflow-type: tm+mt
-source-wordcount: '5078'
+source-wordcount: '5089'
 ht-degree: 96%
 
 ---
@@ -23,6 +23,10 @@ Recursos, notas de versão e problemas conhecidos dos Componentes da interface c
 Para obter uma lista de atualizações de documentação, consulte [Atualizações de documentação](doc-updates.md).
 
 Para obter notas de versão que abrangem todos os aplicativos, consulte [Notas de versão da Experience Cloud](https://experienceleague.adobe.com/docs/release-notes/experience-cloud/current.html?lang=pt-BR).
+
+## Setembro de 2024
+
+Você pode configurar notificações de Slack para Experience Cloud [Preferências](/help\interface\features\account-preferences.md).
 
 <!-- ## July - August 2023
 

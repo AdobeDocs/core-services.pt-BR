@@ -9,9 +9,9 @@ topic: Administration
 role: Admin
 level: Experienced
 exl-id: b71d144c-a097-4cdb-9721-671519d38aff
-source-git-commit: 2690962f4b72d26fcde9883bb0bac3d49a9efa1a
+source-git-commit: e2227bc64f5f294692df5c3c1419a5e376f0d136
 workflow-type: tm+mt
-source-wordcount: '5089'
+source-wordcount: '5078'
 ht-degree: 96%
 
 ---
@@ -24,9 +24,9 @@ Para obter uma lista de atualizações de documentação, consulte [Atualizaçõ
 
 Para obter notas de versão que abrangem todos os aplicativos, consulte [Notas de versão da Experience Cloud](https://experienceleague.adobe.com/docs/release-notes/experience-cloud/current.html?lang=pt-BR).
 
-## Setembro de 2024
+<!-- ## September 2024
 
-Você pode configurar notificações de Slack para Experience Cloud [Preferências](/help\interface\features\account-preferences.md).
+You can configure Slack notifications for Experience Cloud. -->
 
 <!-- ## July - August 2023
 

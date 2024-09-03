@@ -2,12 +2,12 @@
 title: Preferências e Notificações de Conta
 description: Saiba mais sobre perfis de usuário e preferências de conta no Experience Cloud. Assine notificações de produtos e receba alertas de produtos. Saiba mais sobre o suporte a navegador e idioma.
 solution: Experience Cloud
-feature: Account Preferences,Notifications,Alerts
+feature: Account Preferences, Notifications, Alerts
 topic: Administration
 role: Admin
 level: Intermediate
 exl-id: 1e34c6b2-a792-41c4-adb7-583de596237f
-source-git-commit: df6bff60d4eb2cac74bc83546affa9c6b212d76e
+source-git-commit: 331bdbb210849085f7c525e6cc14f2e1388d9484
 workflow-type: tm+mt
 source-wordcount: '529'
 ht-degree: 69%

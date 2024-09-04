@@ -7,10 +7,10 @@ topic: Administration
 role: Admin
 level: Intermediate
 exl-id: 1e34c6b2-a792-41c4-adb7-583de596237f
-source-git-commit: b42a942deb91f3fb68ff1195b94df248763f5122
+source-git-commit: 2e2e26e262a7e56ddaaf8b4bfa453b041c832548
 workflow-type: tm+mt
-source-wordcount: '644'
-ht-degree: 22%
+source-wordcount: '677'
+ht-degree: 21%
 
 ---
 
@@ -73,27 +73,15 @@ Você pode configurar suas preferências de conta para enviar notificações de 
 
 **Assinar notificações Slack**
 
-1. Navegue até Experience Cloud [preferências](https://experience.adobe.com/preferences)
+1. Navegue até Experience Cloud [preferências](https://experience.adobe.com/preferences).
 
 1. Localize [!DNL Slack] e clique em **[!UICONTROL Adicionar ao Slack]**.
 
    ![Adicionar ao Slack](../assets/add-to-slack.png)
 
-   Se [!DNL Slack] estiver instalado, o aplicativo será aberto e uma mensagem de solicitação de permissão será exibida.
+   Se [!DNL Slack] estiver instalado, o aplicativo será aberto e uma mensagem de solicitação de permissão será exibida. Se o Slack não estiver instalado, você deve [solicitar permissão](#slack-troubleshoot).
 
-   * Clique em **[!UICONTROL Permitir]**.
-
-   Se [!DNL Slack] não estiver instalado, uma mensagem _Solicitação para instalar_ será exibida:
-
-   ![Solicitar Integração com o Slack](../assets/slack-request.png)
-
-   * No Slack, escolha o espaço de trabalho no canto superior direito do aplicativo.
-
-   * Para solicitar aprovação de aplicativo para o gerenciador de espaço de trabalho do Slack, clique em **[!UICONTROL Enviar]**.
-
-   * Você receberá uma notificação em [!DNL Slack] depois que a solicitação de aplicativo for aprovada.
-
-   * Após receber a aprovação [!DNL Slack], volte para a Experience Cloud **[!UICONTROL Notificações]** e clique em **[!UICONTROL Adicionar à Slack]**.
+1. Clique em **[!UICONTROL Permitir]**.
 
 1. Em **[!UICONTROL Notificações]**, habilite as [!DNL Slack] notificações para os produtos e categorias desejados.
 
@@ -101,9 +89,25 @@ Você pode configurar suas preferências de conta para enviar notificações de 
 
    As atualizações das notificações são salvas automaticamente.
 
+### Solicitar permissão no Slack {#slack-troubleshoot}
+
+Se [!DNL Slack] não estiver instalado, uma mensagem _Solicitação de instalação_ será exibida quando o Slack for aberto depois que você clicar em **[!UICONTROL Adicionar ao Slack]**.
+
+![Solicitar Integração com o Slack](../assets/slack-request.png)
+
+**Para solicitar permissões em Slack**
+
+1. No Slack, escolha o espaço de trabalho no canto superior direito do aplicativo.
+
+1. Para solicitar aprovação de aplicativo para o gerenciador de espaço de trabalho do Slack, clique em **[!UICONTROL Enviar]**.
+
+1. Você receberá uma notificação em [!DNL Slack] depois que a solicitação de aplicativo for aprovada.
+
+1. Após receber a aprovação [!DNL Slack], volte para a Experience Cloud **[!UICONTROL Notificações]** e [assine a Slack](#slack-notifications) (descrito acima).
+
 ### O que você verá em [!DNL Slack]
 
-As notificações Slack exibem as seguintes informações:
+Depois de integrar o Slack com êxito, as notificações de Slack exibem as seguintes informações:
 
 * A mensagem pessoal será recebida do nome do aplicativo _Adobe Experience Cloud_.
 * A mensagem inclui o logotipo do produto para o aplicativo específico, como Adobe Experience Platform, Adobe Experience Manager e assim por diante.

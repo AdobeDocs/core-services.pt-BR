@@ -7,7 +7,7 @@ topic: Administration
 role: Admin
 level: Intermediate
 exl-id: 1e34c6b2-a792-41c4-adb7-583de596237f
-source-git-commit: 2e2e26e262a7e56ddaaf8b4bfa453b041c832548
+source-git-commit: b79d6c6fb7bb165fdd5d47061da16f65f6fc7579
 workflow-type: tm+mt
 source-wordcount: '677'
 ht-degree: 21%
@@ -91,7 +91,7 @@ Você pode configurar suas preferências de conta para enviar notificações de 
 
 ### Solicitar permissão no Slack {#slack-troubleshoot}
 
-Se [!DNL Slack] não estiver instalado, uma mensagem _Solicitação de instalação_ será exibida quando o Slack for aberto depois que você clicar em **[!UICONTROL Adicionar ao Slack]**.
+Se [!DNL Slack] não estiver instalado, uma mensagem _[!UICONTROL Solicitação de instalação]_ será exibida quando o Slack for aberto depois que você clicar em **[!UICONTROL Adicionar ao Slack]**.
 
 ![Solicitar Integração com o Slack](../assets/slack-request.png)
 

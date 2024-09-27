@@ -7,10 +7,10 @@ topic: Administration
 role: Admin
 level: Experienced
 exl-id: aedad5cb-3282-4a97-8e7e-6d65f7b75ba9
-source-git-commit: 2a80851c0a7d4ef7dbcc2565177b239f3e063164
-workflow-type: ht
-source-wordcount: '714'
-ht-degree: 100%
+source-git-commit: cd5d4978f2dcaf79030022cbc0fe67c4c8099775
+workflow-type: tm+mt
+source-wordcount: '544'
+ht-degree: 85%
 
 ---
 
@@ -22,10 +22,10 @@ O [Experience Cloud](https://experience.adobe.com) é a família integrada de ap
 
 No cabeçalho do Experience Cloud, você pode:
 
-* Acessar seus aplicativos e serviços
+* Acesse todos os seus aplicativos e serviços Experience Cloud
 * No menu Ajuda, pesquise pela documentação de produto, tutoriais e publicações da comunidade. Veja os resultados na Experience League.
 * Pesquise objetos comerciais globalmente usando uma pesquisa global (somente usuários da Experience Platform) no campo Pesquisa.
-* Gerenciar suas preferências de conta (alertas, notificações e assinaturas)
+* Gerenciar as [preferências](features/account-preferences.md) da sua conta (alertas, notificações e assinaturas)
 
 ## Faça logon na Experience Cloud {#signin}
 
@@ -68,35 +68,21 @@ O menu [!UICONTROL Ajuda] também oferece acesso a:
 * **[!UICONTROL Status]:** acesse `https://status.adobe.com/experience_cloud` e verifique o status operacional do produto e [!UICONTROL Gerenciar assinaturas].
 * **[!UICONTROL Developer Connection]:** acesse `adobe.io` e encontre a documentação do desenvolvedor.
 
-## Perfil do usuário e preferências da conta {#preferences}
+## Gerenciar seu perfil de usuário
 
-As preferências da Experience Cloud incluem notificações, assinaturas e alertas. No menu de preferências da conta, é possível:
+No menu do perfil do usuário, é possível:
 
 * Especificar um tema escuro (nem todos os aplicativos são compatíveis com esse tema)
-* Pesquisar por [Organizações](administration/organizations.md)
+* Gerenciar as [Preferências](features/account-preferences.md) da Experience Cloud
+* Selecionar ou pesquisar uma [Organização](administration/organizations.md)
+* Exibir [!UICONTROL Avisos legais]
 * Fazer logoff
 * Configurar as preferências, notificações e assinaturas da conta
 
-Para gerenciar as preferências, selecione **[!UICONTROL Preferências]** no menu ![preferências](assets/preferences-icon-sm.png) da conta.
+## Exibir notificações e anúncios no produto {#notifications}
 
-![Perfil do usuário e preferências da conta](assets/preferences-page.png)
-
-Em [!UICONTROL Preferências da Experience Cloud], você pode configurar os seguintes recursos:
-
-| Recurso | Descrição |
-|--- |--- |
-| Organização [padrão](administration/organizations.md) | Selecione a organização que você deseja ver ao iniciar a Experience Cloud. |
-| [!UICONTROL Coleção de dados do produto] | Selecione quais tecnologias a Adobe pode usar para coletar dados sobre como você usa seus produtos da Adobe. |
-| [!UICONTROL Recomendações e promoções de aprendizado personalizadas] | Selecione onde deseja receber ajuda personalizada para seus produtos da Adobe. Essa ajuda está disponível por email, no produto e nas comunidades da Experience League. [Saiba mais.](features/personalized-learning.md) |
-| [!UICONTROL Subscrições] | Selecione os produtos e categorias que deseja assinar. Notificações no pop-over [!UICONTROL Notificações] e por email. |
-| [!UICONTROL Prioridade] | Selecione as categorias que você deseja que sejam consideradas de alta prioridade. Essas categorias são marcadas com uma tag Alta e podem ser configuradas para entrega, como alertas. |
-| [!UICONTROL Alertas] | Selecione as notificações para as quais deseja que alertas sejam exibidos no navegador. Os alertas são exibidos no canto superior direito da janela por alguns segundos. |
-| Emails | Especifique a frequência com que deseja receber emails de notificação. (Não enviar, instantâneo, diário ou semanal.) |
-
-{style="table-layout:auto"}
-
-## Notificações e anúncios {#notifications}
-
-Selecione **[!UICONTROL Notificações]** para ser alertado de atualizações relevantes e práticas, incluindo lançamentos de produtos, avisos de manutenção, itens compartilhados e solicitações de aprovação.
+Clique no ícone de sino para exibir notificações e anúncios. Os anúncios podem ser atualizações relevantes e práticas, incluindo lançamentos de produtos, avisos de manutenção, itens compartilhados e solicitações de aprovação.
 
 ![Notificações e anúncios](assets/notifications-menu-small.png)
+
+Para gerenciar notificações e alertas, consulte [Preferências e notificações da conta](features/account-preferences.md)

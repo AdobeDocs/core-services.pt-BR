@@ -7,10 +7,10 @@ topic: Administration
 role: Admin
 level: Experienced
 exl-id: aedad5cb-3282-4a97-8e7e-6d65f7b75ba9
-source-git-commit: cd5d4978f2dcaf79030022cbc0fe67c4c8099775
+source-git-commit: e523471b6dd67cf8213ead3208347fd3aa32a164
 workflow-type: tm+mt
-source-wordcount: '544'
-ht-degree: 85%
+source-wordcount: '508'
+ht-degree: 77%
 
 ---
 
@@ -41,7 +41,7 @@ Faça logon e verifique se você está na [organização](administration/organiz
 
    **Verificar sua organização**
 
-   Para verificar se você fez logon na [organização](administration/organizations.md) correta, clique no avatar do perfil para ver o nome da organização. Se você tiver acesso a mais de uma organização, também poderá visualizar e mudar para outra organização diretamente na barra do cabeçalho.
+   A [organização](administration/organizations.md) é exibida no cabeçalho da interface.
 
    Se sua organização usa Federated IDs, a Experience Cloud permite conectar-se por meio do logon único de sua organização sem precisar inserir seu endereço de email e senha. Adicione `#/sso:@domain` ao URL da Experience Cloud (`https://experience.adobe.com`) para realizar essa tarefa.
 
@@ -57,7 +57,7 @@ Para acessar os aplicativos e serviços da Experience Cloud fornecidos para voc�
 
 ## Obter ajuda e suporte {#support}
 
-Acesse o aprendizado e a ajuda usando o ícone Ajuda (![asset](assets/help-icon.png)) no cabeçalho, incluindo o conteúdo da ajuda (documentação, tutoriais e cursos) em [Experience League](https://experienceleague.adobe.com/?lang=pt-BR#home), bem como recursos adicionais para aplicativos individuais. Você também pode enviar feedback aberto e criar tíquetes de suporte priorizados.
+Acesse o aprendizado e a ajuda usando a **[!UICONTROL Central de ajuda]** (![asset](assets/help-icon.png)) no cabeçalho, incluindo o conteúdo da ajuda (documentação, tutoriais e cursos) em [Experience League](https://experienceleague.adobe.com/?lang=pt-BR#home), bem como recursos adicionais para aplicativos individuais. Você também pode enviar feedback aberto e criar tíquetes de suporte priorizados.
 
 ![Obter ajuda e suporte](assets/search-menu.png)
 
@@ -70,7 +70,7 @@ O menu [!UICONTROL Ajuda] também oferece acesso a:
 
 ## Gerenciar seu perfil de usuário
 
-No menu do perfil do usuário, é possível:
+No menu [!UICONTROL Perfil], você pode:
 
 * Especificar um tema escuro (nem todos os aplicativos são compatíveis com esse tema)
 * Gerenciar as [Preferências](features/account-preferences.md) da Experience Cloud

@@ -6,9 +6,10 @@ feature: Account Preferences
 topic: Administration
 role: Admin
 level: Intermediate
-source-git-commit: b42a942deb91f3fb68ff1195b94df248763f5122
+exl-id: cc44008e-8b8a-4afb-b692-0ef9b87d5b21
+source-git-commit: e523471b6dd67cf8213ead3208347fd3aa32a164
 workflow-type: tm+mt
-source-wordcount: '195'
+source-wordcount: '193'
 ht-degree: 43%
 
 ---
@@ -35,9 +36,9 @@ O Experience Cloud suporta idiomas preferenciais para cada usuário, bem como um
 
 Para exibir os idiomas suportados:
 
-1. No Experience Cloud, navegue até **[!UICONTROL Perfil]** > [Preferências](https://experience.adobe.com/preferences).
+1. No Experience Cloud, clique em **[!UICONTROL Perfil]** > [Preferências](https://experience.adobe.com/preferences).
 
-1. Em seu [!UICONTROL Perfil], clique no link do idioma.
+1. Em **[!UICONTROL Perfil]**, clique no link do idioma.
 
 1. Em **[!UICONTROL Selecionar idioma]**, selecione um idioma no menu **[!UICONTROL Primeiro idioma]**.
 

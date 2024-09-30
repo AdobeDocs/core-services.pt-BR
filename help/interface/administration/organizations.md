@@ -8,10 +8,10 @@ topic: Administration
 role: Admin
 level: Experienced
 exl-id: 6eb58530-2a7a-48c7-9a5b-48a6e980a034
-source-git-commit: 0724136e77d6fe1341a64aea75051127956df3b2
+source-git-commit: e523471b6dd67cf8213ead3208347fd3aa32a164
 workflow-type: tm+mt
-source-wordcount: '551'
-ht-degree: 64%
+source-wordcount: '538'
+ht-degree: 55%
 
 ---
 
@@ -23,7 +23,7 @@ A organização funciona como uma empresa de logon que abrange todos os produtos
 
 ![Organizações do Experience Cloud](../assets/organizations-menu.png)
 
-Para verificar se você fez logon na organização correta, clique no avatar do perfil para ver o nome da organização. Se você tiver acesso a mais de uma organização, também poderá visualizar e alternar para outra organização na barra do cabeçalho.
+Para verificar se você fez logon na organização correta, clique em **[!UICONTROL Perfil]** para ver o nome da organização padrão. Se você tiver acesso a mais de uma organização, também poderá visualizar e alternar para outra organização na barra do cabeçalho.
 
 ## Federated IDs
 
@@ -33,7 +33,7 @@ Por exemplo, para uma organização com Federated IDs e o domínio `adobecustome
 
 ## Exibir a ID da organização {#concept_EA8AEE5B02CF46ACBDAD6A8508646255}
 
-Você pode localizar a ID da organização atribuída para fins de suporte. Você pode verificar se está na organização correta ou alternar entre organizações usando o menu **[!UICONTROL Organização]**.
+Você pode localizar a ID da organização atribuída para fins de suporte. Você pode verificar se está na organização correta ou alternar entre organizações usando o seletor **[!UICONTROL Organização]** no cabeçalho.
 
 A ID da organização é a ID associada à empresa provisionada pela Experience Cloud. A ID é uma string de 24 caracteres alfanuméricos seguidos por (e deve incluir) `@AdobeOrg`.
 
@@ -65,31 +65,30 @@ Geralmente, os administradores da Experience Cloud concedem acesso a aplicativos
 
 1. Faça logon usando a Adobe ID ou Enterprise ID.
 
-1. Selecione o seletor de aplicativos. ( ![menu](../assets/menu-icon.png)).
+1. Clique no **[!UICONTROL Seletor de aplicativos]**. ( ![menu](../assets/menu-icon.png)).
 
    ![Vincular uma conta do aplicativo a uma Adobe ID](../assets/solutions-active.png)
 
    Os aplicativos que você pode acessar são coloridos.
 
-1. Selecione o aplicativo desejado.
+1. Clique no aplicativo desejado.
 
-   ![Selecione o aplicativo desejado](../assets/analytics-link-accounts.png)
+   ![Clique em seu aplicativo](../assets/analytics-link-accounts.png)
 
    Esse tipo de mensagem será exibido se você fizer parte do grupo adequado (e tiver permissão para o aplicativo), mas ainda não tiver vinculado as credenciais da conta à Adobe ID.
 
-1. Selecione **[!UICONTROL Vincular conta]** e forneça suas credenciais.
+1. Clique em **[!UICONTROL Vincular conta]**, em seguida, forneça suas credenciais.
 
-## Especificar uma organização e uma página de destino padrões {#concept_6A191B42A9874A9780882903BA18F071}
+## Especificar uma organização padrão {#concept_6A191B42A9874A9780882903BA18F071}
 
-Você pode especificar uma organização padrão e uma página de destino para usar ao fazer o logon.
+Você pode especificar uma organização padrão para usar ao fazer logon.
 
-Em seu perfil, selecione **[!UICONTROL Editar perfil]**.
+1. No cabeçalho, clique em **[!UICONTROL Perfil]** e em Preferências.
+
+1. Em [!UICONTROL Geral], selecione uma organização padrão.
+
 
 ![Editar perfil](../assets/edit-profile.png)
-
-Em **[!UICONTROL Organização padrão e página de aterrissagem]**, você pode personalizar sua experiência de logon.
-
-![Organização padrão e Página de destino](../assets/default-organization.png)
 
 ## Solução de problemas de vinculação de contas {#concept_DFCB29A3B4834FC59AA29E0BBA301584}
 

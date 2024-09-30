@@ -8,10 +8,10 @@ topic: Administration
 role: Admin
 level: Experienced
 exl-id: 062576da-328e-4b46-9e71-5a25733d607a
-source-git-commit: c39672f0d8a0fd353b275b2ecd095ada1e2bf744
+source-git-commit: e523471b6dd67cf8213ead3208347fd3aa32a164
 workflow-type: tm+mt
-source-wordcount: '684'
-ht-degree: 69%
+source-wordcount: '700'
+ht-degree: 67%
 
 ---
 
@@ -87,7 +87,13 @@ O provisionamento na Experience Cloud significa que:
 
 +++
 
-+++Como faço para gerenciar perfis de usuários e produtos?
++++Como faço para gerenciar preferências de usuário, notificações e alertas?
+
+* Consulte [Preferências e notificações da conta](/help/interface/features/account-preferences.md)
+
++++
+
++++Como faço para gerenciar perfis de produtos e credenciais de conta de usuário?
 
 * Consulte o [Guia do usuário do Admin Console](https://helpx.adobe.com/br/enterprise/admin-guide.html) para obter ajuda.
 

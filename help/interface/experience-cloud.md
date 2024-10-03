@@ -10,7 +10,7 @@ exl-id: aedad5cb-3282-4a97-8e7e-6d65f7b75ba9
 source-git-commit: e523471b6dd67cf8213ead3208347fd3aa32a164
 workflow-type: tm+mt
 source-wordcount: '508'
-ht-degree: 77%
+ht-degree: 91%
 
 ---
 
@@ -22,10 +22,10 @@ O [Experience Cloud](https://experience.adobe.com) é a família integrada de ap
 
 No cabeçalho do Experience Cloud, você pode:
 
-* Acesse todos os seus aplicativos e serviços Experience Cloud
+* Acesse todos os seus aplicativos e serviços da Experience Cloud
 * No menu Ajuda, pesquise pela documentação de produto, tutoriais e publicações da comunidade. Veja os resultados na Experience League.
 * Pesquise objetos comerciais globalmente usando uma pesquisa global (somente usuários da Experience Platform) no campo Pesquisa.
-* Gerenciar as [preferências](features/account-preferences.md) da sua conta (alertas, notificações e assinaturas)
+* Gerencie as [preferências](features/account-preferences.md) da sua conta (alertas, notificações e assinaturas)
 
 ## Faça logon na Experience Cloud {#signin}
 
@@ -74,14 +74,14 @@ No menu [!UICONTROL Perfil], você pode:
 
 * Especificar um tema escuro (nem todos os aplicativos são compatíveis com esse tema)
 * Gerenciar as [Preferências](features/account-preferences.md) da Experience Cloud
-* Selecionar ou pesquisar uma [Organização](administration/organizations.md)
+* Selecione ou pesquise por uma [Organização](administration/organizations.md)
 * Exibir [!UICONTROL Avisos legais]
 * Fazer logoff
 * Configurar as preferências, notificações e assinaturas da conta
 
-## Exibir notificações e anúncios no produto {#notifications}
+## Exibir notificações e avisos no produto {#notifications}
 
-Clique no ícone de sino para exibir notificações e anúncios. Os anúncios podem ser atualizações relevantes e práticas, incluindo lançamentos de produtos, avisos de manutenção, itens compartilhados e solicitações de aprovação.
+Clique no ícone de sino para exibir notificações e avisos. Os avisos podem ser atualizações relevantes e acionáveis, incluindo lançamentos de produtos, avisos de manutenção, itens compartilhados e solicitações de aprovação.
 
 ![Notificações e anúncios](assets/notifications-menu-small.png)
 

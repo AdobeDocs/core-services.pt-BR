@@ -9,10 +9,10 @@ topic: Administration
 role: Admin
 level: Experienced
 exl-id: b71d144c-a097-4cdb-9721-671519d38aff
-source-git-commit: 27d656b3cfe614f0a5b47d8987343a4c36d9ed33
+source-git-commit: f21e82e53a835d723bfd070cd99157c60c5f3eb7
 workflow-type: tm+mt
-source-wordcount: '5104'
-ht-degree: 96%
+source-wordcount: '5162'
+ht-degree: 95%
 
 ---
 
@@ -24,11 +24,17 @@ Para obter uma lista de atualizações de documentação, consulte [Atualizaçõ
 
 Para obter notas de versão que abrangem todos os aplicativos, consulte [Notas de versão da Experience Cloud](https://experienceleague.adobe.com/docs/release-notes/experience-cloud/current.html?lang=pt-BR).
 
-## 10 de setembro de 2024
+## quinta-feira, 2 de outubro de 2024
 
 | Recurso | Descrição |
 | -----------| ---------- |
-| Notificações Slack | Você pode configurar suas preferências de conta para enviar notificações de Experience Cloud para o Slack. Consulte _Notificações de Slack_ na ajuda das [Preferências](../features/account-preferences.md) para obter detalhes. |
+| Página inicial personalizável | Na página de aterrissagem do Experience Cloud, clique em **[!UICONTROL Editar]**. O modo [!UICONTROL Editar] permite que você personalize sua página inicial do Experience Cloud com acesso a uma biblioteca de widgets e planos de fundo personalizados. O modo [!UICONTROL Editar] fornece controles intuitivos e perfeitos para mover, redimensionar e gerenciar widgets, incluindo ações em massa e ajustes de layout, oferecendo uma experiência mais estética e personalizada. |
+
+## quarta-feira, 10 de setembro de 2024
+
+| Recurso | Descrição |
+| -----------| ---------- |
+| Notificações do Slack | Você pode configurar as preferências da sua conta para enviar notificações da Experience Cloud ao Slack. Consulte _Notificações de Slack_ na ajuda das [Preferências](../features/account-preferences.md) para obter detalhes. |
 
 <!-- ## July - August 2023
 

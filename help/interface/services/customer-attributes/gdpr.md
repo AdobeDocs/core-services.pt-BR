@@ -1,5 +1,5 @@
 ---
-title: “Suporte a [!DNL Customer Attributes] para o Regulamento Geral sobre a Proteção de Dados”
+title: '[!DNL Customer Attributes] Suporte ao Regulamento Geral sobre a Proteção de Dados'
 description: Saiba mais sobre o Suporte a atributos do cliente para o Regulamento Geral sobre a Proteção de Dados
 feature: Customer Attributes
 topic: Administration
@@ -9,7 +9,7 @@ exl-id: 02417c0c-6780-4699-9470-f1685c3cd25d
 source-git-commit: c39672f0d8a0fd353b275b2ecd095ada1e2bf744
 workflow-type: tm+mt
 source-wordcount: '394'
-ht-degree: 100%
+ht-degree: 98%
 
 ---
 

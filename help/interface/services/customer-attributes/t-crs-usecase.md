@@ -8,7 +8,7 @@ topic: Administration
 role: Admin
 level: Experienced
 exl-id: 21ed7c35-aac9-46f1-a50c-84e7c075209c
-source-git-commit: d1d2e6a05ff247cf178ebe9849da53287485d44c
+source-git-commit: 9171da93ad234c98c06a5ace2435f7d476151f51
 workflow-type: tm+mt
 source-wordcount: '1102'
 ht-degree: 77%
@@ -75,7 +75,7 @@ Execute essas etapas na página Criar novo Source de atributo do cliente no Expe
 
      >[!IMPORTANT]
      >
-     >A exclusão de uma fonte de dados associada a uma ID de alias não a torna disponível, pois a ID de alias é salva em vários serviços e usada para mapear os perfis entre eles.
+     >A exclusão de uma fonte de dados associada a uma ID de alias não torna a ID de alias disponível, pois a ID de alias é salva em vários serviços e usada para mapear perfis entre eles.
 
      A ID de alias corresponde a determinadas áreas em que você definiu outros valores da ID do cliente. Por exemplo:
 

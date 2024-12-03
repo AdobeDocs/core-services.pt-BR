@@ -8,10 +8,10 @@ topic: Administration
 role: Admin
 level: Experienced
 exl-id: 21ed7c35-aac9-46f1-a50c-84e7c075209c
-source-git-commit: c39672f0d8a0fd353b275b2ecd095ada1e2bf744
+source-git-commit: d1d2e6a05ff247cf178ebe9849da53287485d44c
 workflow-type: tm+mt
-source-wordcount: '1072'
-ht-degree: 84%
+source-wordcount: '1102'
+ht-degree: 77%
 
 ---
 
@@ -71,11 +71,15 @@ Execute essas etapas na página Criar novo Source de atributo do cliente no Expe
 
    * **[!UICONTROL Descrição:]** (opcional) uma descrição da fonte de atributos de dados.
 
-   * **[!UICONTROL ID de alias:]** representa uma fonte de dados do atributo do cliente, como um sistema de CRM específico. [!UICONTROL ID de alias] é um identificador exclusivo que é usado em seu código da Fonte de atributo do cliente O identificador deve ser único, estar com letras minúsculas e sem espaços. O valor inserido no campo [!UICONTROL ID de alias] para uma fonte de atributo do cliente no Experience Cloud deve corresponder aos valores que estão sendo transmitidos na implementação (seja via Coleção de dados da plataforma ou JavaScript do SDK móvel).
+   * **[!UICONTROL ID de alias:]** representa uma fonte de dados do atributo do cliente, como um sistema de CRM específico. [!UICONTROL ID de Alias] é uma ID exclusiva usada em seu código [!UICONTROL Source de Atributos do Cliente]. O identificador deve ser único, estar com letras minúsculas e sem espaços. O valor inserido no campo [!UICONTROL ID de alias] para uma fonte de atributo do cliente no Experience Cloud deve corresponder aos valores que estão sendo transmitidos na implementação (seja via Coleção de dados da plataforma ou JavaScript do SDK móvel).
+
+     >[!IMPORTANT]
+     >
+     >A exclusão de uma fonte de dados associada a uma ID de alias não a torna disponível, pois a ID de alias é salva em vários serviços e usada para mapear os perfis entre eles.
 
      A ID de alias corresponde a determinadas áreas em que você definiu outros valores da ID do cliente. Por exemplo:
 
-      * **Dynamic tag management:** a ID de alias corresponde ao valor do *Código de integração* nas [!UICONTROL Configurações do cliente], na ferramenta [Serviço da Experience Cloud ID](https://experienceleague.adobe.com/docs/experience-platform/tags/home.html?lang=pt-BR).
+      * **Marcas:** A ID de Alias corresponde ao valor de *Código de Integração* em [!UICONTROL Configurações do Cliente], na ferramenta [Serviço de ID do Experience Cloud](https://experienceleague.adobe.com/docs/experience-platform/tags/home.html?lang=pt-BR).
 
       * **API do Visitante:** a ID de alias corresponde às [IDs do cliente](https://experienceleague.adobe.com/docs/id-service/using/reference/authenticated-state.html) adicionais que você pode associar a cada visitante.
 
@@ -99,7 +103,7 @@ Execute essas etapas na página Criar novo Source de atributo do cliente no Expe
 
         Consulte [Como aproveitar várias fontes de dados](crs-data-file.md#section_76DEB6001C614F4DB8BCC3E5D05088CB) para obter informações adicionais sobre o processamento de dados relacionado ao campo de ID de alias e IDs do cliente.
 
-   * **[!UICONTROL Upload de arquivo:]** Você pode arrastar e soltar o arquivo de dados `.csv` ou fazer upload dos dados via FTP. (Usar o FTP também exige um arquivo `.fin`.) Consulte [Fazer upload dos dados via FTP](t-upload-attributes-ftp.md#task_591C3B6733424718A62453D2F8ADF73B).
+   * **[!UICONTROL Upload de arquivo:]** Você pode arrastar e soltar o arquivo de dados `.csv` ou fazer upload dos dados via FTP. (Usar o FTP também requer um arquivo `.fin`.) Consulte [Fazer upload dos dados via FTP](t-upload-attributes-ftp.md#task_591C3B6733424718A62453D2F8ADF73B).
 
      >[!IMPORTANT]
      >

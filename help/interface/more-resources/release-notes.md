@@ -9,10 +9,10 @@ topic: Administration
 role: Admin
 level: Experienced
 exl-id: b71d144c-a097-4cdb-9721-671519d38aff
-source-git-commit: f21e82e53a835d723bfd070cd99157c60c5f3eb7
+source-git-commit: eddbda54bc3f1cbbc98d7a993d0b477e05c5b01c
 workflow-type: tm+mt
-source-wordcount: '5162'
-ht-degree: 95%
+source-wordcount: '5209'
+ht-degree: 94%
 
 ---
 
@@ -24,11 +24,15 @@ Para obter uma lista de atualizações de documentação, consulte [Atualizaçõ
 
 Para obter notas de versão que abrangem todos os aplicativos, consulte [Notas de versão da Experience Cloud](https://experienceleague.adobe.com/docs/release-notes/experience-cloud/current.html?lang=pt-BR).
 
-## quinta-feira, 2 de outubro de 2024
+## Novembro de 2024
+
+Para facilitar o controle das preferências de dados de uso do Experience Cloud, simplificamos nossa página de preferências de Experience Cloud para remover opções duplicadas. Com essa simplificação, preservamos as preferências do usuário atual, e os clientes podem atualizar suas preferências a qualquer momento em [preferências de Experience Cloud](https://experience.adobe.com/preferences).
+
+## 2 de outubro de 2024
 
 | Recurso | Descrição |
 | -----------| ---------- |
-| Página inicial personalizável | Na página de aterrissagem do Experience Cloud, clique em **[!UICONTROL Editar]**. O modo [!UICONTROL Editar] permite que você personalize sua página inicial do Experience Cloud com acesso a uma biblioteca de widgets e planos de fundo personalizados. O modo [!UICONTROL Editar] fornece controles intuitivos e perfeitos para mover, redimensionar e gerenciar widgets, incluindo ações em massa e ajustes de layout, oferecendo uma experiência mais estética e personalizada. |
+| Página inicial personalizável | Na página de destino da Experience Cloud, clique em **[!UICONTROL Editar]**. O modo [!UICONTROL Editar] permite personalizar a página inicial da Experience Cloud com acesso a uma biblioteca de widgets e planos de fundo personalizados. O modo [!UICONTROL Editar] fornece controles intuitivos e perfeitos para mover, redimensionar e gerenciar widgets, incluindo ações em massa e ajustes de layout, oferecendo uma experiência mais estética e personalizada. |
 
 ## quarta-feira, 10 de setembro de 2024
 
@@ -244,8 +248,8 @@ A Pesquisa unificada foi atualizada para estar disponível no Journey Optimizer,
 
 | Recurso | Descrição |
 |--- |--- |
-| Mapeamento em massa do conjunto de relatórios | Em Administração > Mapeamento do conjunto de relatórios, agora você pode selecionar vários conjuntos de relatórios e mapeá-los a uma organização. (Anteriormente, você tinha que mapeá-los individualmente.)  <br>Mapear conjuntos de relatórios para uma única organização ajuda a habilitar recursos e serviços entre aplicativos no Experience Cloud. |
-| Atualizações aos públicos-alvo da Experience Cloud | **Aplicação dos conjuntos de relatórios**<br> Agora é possível aplicar um conjunto de relatórios a todas as suas [regras de público-alvo](../services/audiences/create.md). (Anteriormente, você tinha que especificar um conjunto de relatórios em cada definição de regra.) <br>**Props e variáveis**<br> Agora é possível incluir props do Analytics e variáveis padrão (além das eVars e eventos) em públicos-alvo em tempo real. |
+| Mapeamento em massa do conjunto de relatórios | Em Administração > Mapeamento do conjunto de relatórios, agora você pode selecionar vários conjuntos de relatórios e mapeá-los a uma organização. (Anteriormente, você tinha que mapeá-los individualmente.) <br>Mapear conjuntos de relatórios para uma única organização ajuda a habilitar recursos e serviços entre aplicativos no Experience Cloud. |
+| Atualizações aos públicos-alvo da Experience Cloud | **Aplicação dos conjuntos de relatórios**<br> Agora é possível aplicar um conjunto de relatórios a todas as suas [regras de público-alvo](../services/audiences/create.md). (Anteriormente, você tinha que especificar um conjunto de relatórios em cada definição de regra.) <br>**Props e Variáveis**<br> Agora é possível incluir props do Analytics e variáveis padrão (além das eVars e eventos) em públicos-alvo em tempo real. |
 
 {style="table-layout:auto"}
 

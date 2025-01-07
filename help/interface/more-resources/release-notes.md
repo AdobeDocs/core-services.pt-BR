@@ -9,10 +9,10 @@ topic: Administration
 role: Admin
 level: Experienced
 exl-id: b71d144c-a097-4cdb-9721-671519d38aff
-source-git-commit: eddbda54bc3f1cbbc98d7a993d0b477e05c5b01c
+source-git-commit: 6d6631c466ce28662f130cdd0fc2f9d6ba2d07b3
 workflow-type: tm+mt
-source-wordcount: '5209'
-ht-degree: 94%
+source-wordcount: '5286'
+ht-degree: 93%
 
 ---
 
@@ -24,9 +24,12 @@ Para obter uma lista de atualizações de documentação, consulte [Atualizaçõ
 
 Para obter notas de versão que abrangem todos os aplicativos, consulte [Notas de versão da Experience Cloud](https://experienceleague.adobe.com/docs/release-notes/experience-cloud/current.html?lang=pt-BR).
 
-## Novembro de 2024
+## Janeiro de 2025
 
-Para facilitar o controle das preferências de dados de uso do Experience Cloud, simplificamos nossa página de preferências de Experience Cloud para remover opções duplicadas. Com essa simplificação, preservamos as preferências do usuário atual, e os clientes podem atualizar suas preferências a qualquer momento em [preferências de Experience Cloud](https://experience.adobe.com/preferences).
+| Data | Recurso | Descrição |
+| -----------| -----------| ---------- |
+| Janeiro de 9 | Dados de uso do produto | Para facilitar o controle das preferências de dados de uso do Experience Cloud, simplificamos nossa página [Preferências](../features/account-preferences.md#product-usage-data) de Experience Cloud para remover opções duplicadas. Com essa simplificação, preservamos as preferências atuais do usuário e você pode atualizar suas preferências a qualquer momento em [preferências de Experience Cloud](https://experience.adobe.com/preferences). |
+| 30 de janeiro (data de lançamento planejada) | Espectro 2 | A estrutura do aplicativo Experience Cloud, que inclui a barra de cabeçalho e o componente acessado a partir da barra de cabeçalho, bem como o painel de navegação esquerdo para determinados aplicativos, será atualizado para o Spectrum 2, Adobe sistema de design mais recente. Esse design atualizado inclui uma iconografia atualizada, mas com a mesma funcionalidade. Entretanto, vários elementos no cabeçalho são reposicionados para se alinharem a outros sites e aplicativos de Adobe. |
 
 ## 2 de outubro de 2024
 

@@ -7,7 +7,7 @@ topic: Administration
 role: Admin
 level: Experienced
 exl-id: aedad5cb-3282-4a97-8e7e-6d65f7b75ba9
-source-git-commit: e523471b6dd67cf8213ead3208347fd3aa32a164
+source-git-commit: b122f71a8bffeaaeb20c974c618bacc5a40c2cd9
 workflow-type: ht
 source-wordcount: '508'
 ht-degree: 100%
@@ -51,7 +51,7 @@ Faça logon e verifique se você está na [organização](administration/organiz
 
 Após fazer logon na Experience Cloud, você pode acessar rapidamente todos os aplicativos, serviços e organizações pelo cabeçalho unificado.
 
-Para acessar os aplicativos e serviços da Experience Cloud fornecidos para você em sua organização, acesse o ![menu](assets/menu-icon.png) do seletor de aplicativos.
+Para acessar os aplicativos e serviços da Experience Cloud fornecidos para você em sua organização, acesse o ![menu](assets/apps-icon.png) do seletor de aplicativos.
 
 ![Acessar aplicativos da Experience Cloud](assets/platform-core-services.png)
 

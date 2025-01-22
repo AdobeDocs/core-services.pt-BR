@@ -9,7 +9,7 @@ topic: Administration
 role: Admin
 level: Experienced
 exl-id: b71d144c-a097-4cdb-9721-671519d38aff
-source-git-commit: df8f418907c3b7044b70547ee1b7c5117d1cf8a6
+source-git-commit: dce1fe82a93cca78ea4ee2fa504947fcffb8a2c8
 workflow-type: tm+mt
 source-wordcount: '5286'
 ht-degree: 93%
@@ -29,7 +29,7 @@ Para obter notas de versão que abrangem todos os aplicativos, consulte [Notas d
 | Data | Recurso | Descrição |
 | -----------| -----------| ---------- |
 | Janeiro de 9 | Dados de uso do produto | Para facilitar o controle das preferências de dados de uso do Experience Cloud, simplificamos nossa página [Preferências](../features/account-preferences.md#product-usage-data) de Experience Cloud para remover opções duplicadas. Com essa simplificação, preservamos as preferências atuais do usuário e você pode atualizar suas preferências a qualquer momento em [preferências de Experience Cloud](https://experience.adobe.com/preferences). |
-| 30 de janeiro (data de lançamento planejada) | Espectro 2 | A estrutura do aplicativo Experience Cloud, que inclui a barra de cabeçalho e os componentes acessados a partir dela, bem como o painel de navegação esquerdo para determinados aplicativos, será atualizado para o Spectrum 2, Adobe sistema de design mais recente. Esse design atualizado inclui uma iconografia atualizada, mas com a mesma funcionalidade. Entretanto, vários elementos no cabeçalho são reposicionados para se alinharem a outros sites e aplicativos de Adobe. |
+| 5 de fevereiro (data planejada de lançamento) | Espectro 2 | A estrutura do aplicativo Experience Cloud, que inclui a barra de cabeçalho e os componentes acessados a partir dela, bem como o painel de navegação esquerdo para determinados aplicativos, será atualizado para o Spectrum 2, Adobe sistema de design mais recente. Esse design atualizado inclui uma iconografia atualizada, mas com a mesma funcionalidade. Entretanto, vários elementos no cabeçalho são reposicionados para se alinharem a outros sites e aplicativos de Adobe. |
 
 ## 2 de outubro de 2024
 

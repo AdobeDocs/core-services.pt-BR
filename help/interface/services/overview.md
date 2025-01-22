@@ -7,7 +7,7 @@ topic: Administration
 role: Admin
 level: Experienced
 exl-id: 020a6478-13ef-42c0-80de-7867cfe0c937
-source-git-commit: b3484afe7ed1e015030f73ea0a25b921c32d81dd
+source-git-commit: fcebe4c0c356ef1f8d8756203f9ff7348b91f2b1
 workflow-type: tm+mt
 source-wordcount: '192'
 ht-degree: 90%
@@ -19,7 +19,7 @@ ht-degree: 90%
 Essa documentação se aplica a recursos do cabeçalho unificado da Experience Cloud, como os serviços de [!DNL People] ([!DNL Audience Library] e [!DNL Customer Attributes]), gerenciamento de usuários e produtos da Experience Cloud, cookies, preferências de conta, notificações etc.
 
 Para acessar esses serviços na Experience Cloud, escolha o **[!UICONTROL Seletor de aplicativos]**
-![Seletor de serviços](../assets/menu-icon.png).
+![Seletor de serviços](../assets/apps-icon.png).
 
 ![Serviços da Experience Cloud](../assets/platform-core-services.png)
 

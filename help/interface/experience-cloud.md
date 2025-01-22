@@ -7,7 +7,7 @@ topic: Administration
 role: Admin
 level: Experienced
 exl-id: aedad5cb-3282-4a97-8e7e-6d65f7b75ba9
-source-git-commit: b122f71a8bffeaaeb20c974c618bacc5a40c2cd9
+source-git-commit: e06568253b81742912b99bdf6e94c282abe2d429
 workflow-type: tm+mt
 source-wordcount: '508'
 ht-degree: 100%
@@ -18,7 +18,7 @@ ht-degree: 100%
 
 O [Experience Cloud](https://experience.adobe.com) é a família integrada de aplicativos de marketing digital, produtos e serviços da Adobe. Por meio da interface intuitiva, você pode acessar rapidamente seus aplicativos em nuvem, recursos do produto e serviços.
 
-![Experience Cloud](assets/landing.png)
+![Experience Cloud](assets/landing.png){width="100" zoomable="yes"}
 
 No cabeçalho do Experience Cloud, você pode:
 
@@ -37,7 +37,7 @@ Faça logon e verifique se você está na [organização](administration/organiz
 1. Insira sua senha.
 1. Verifique se você está na organização correta.
 
-   ![Verifique se você está na organização correta](assets/organizations-menu.png)
+   ![Verifique se você está na organização correta](assets/organizations-menu.png){width="100" zoomable="yes"}
 
    **Verificar sua organização**
 
@@ -53,13 +53,13 @@ Após fazer logon na Experience Cloud, você pode acessar rapidamente todos os a
 
 Para acessar os aplicativos e serviços da Experience Cloud fornecidos para você em sua organização, acesse o ![menu](assets/apps-icon.png) do seletor de aplicativos.
 
-![Acessar aplicativos da Experience Cloud](assets/platform-core-services.png)
+![Acessar aplicativos da Experience Cloud](assets/platform-core-services.png){width="100" zoomable="yes"}
 
 ## Obter ajuda e suporte {#support}
 
 Acesse o aprendizado e a ajuda usando a **[!UICONTROL Central de ajuda]** (![recurso](assets/help-icon.png)) no cabeçalho, incluindo conteúdo de ajuda (documentação, tutoriais e cursos) na [Experience League](https://experienceleague.adobe.com/?lang=pt-BR#home), bem como recursos adicionais para aplicativos individuais. Você também pode enviar feedback aberto e criar tíquetes de suporte priorizados.
 
-![Obter ajuda e suporte](assets/search-menu.png)
+![Obter ajuda e suporte](assets/search-menu.png){width="100" zoomable="yes"}
 
 O menu [!UICONTROL Ajuda] também oferece acesso a:
 
@@ -83,6 +83,6 @@ No menu [!UICONTROL Perfil], é possível:
 
 Clique no ícone de sino para exibir notificações e avisos. Os avisos podem ser atualizações relevantes e acionáveis, incluindo lançamentos de produtos, avisos de manutenção, itens compartilhados e solicitações de aprovação.
 
-![Notificações e anúncios](assets/notifications-menu-small.png)
+![Notificações e anúncios](assets/notifications-menu-small.png){width="100" zoomable="yes"}
 
 Para gerenciar notificações e alertas, consulte [Preferências e notificações da conta](features/account-preferences.md)

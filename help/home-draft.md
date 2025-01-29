@@ -7,10 +7,10 @@ topic: Administration
 role: Admin
 level: Experienced
 exl-id: aedad5cb-3282-4a97-8e7e-6d65f7b75ba9
-source-git-commit: 5df8104d3d148cc7bda823b27bf96429ddb6018d
+source-git-commit: 163dc8ef83fb83a0e51879520bcb3ae697c95144
 workflow-type: tm+mt
 source-wordcount: '790'
-ht-degree: 80%
+ht-degree: 94%
 
 ---
 
@@ -22,17 +22,17 @@ O [Experience Cloud](https://experience.adobe.com) é a família integrada de ap
 
 No cabeçalho do Experience Cloud, você pode:
 
-* Acesse todos os seus aplicativos e serviços Experience Cloud
+* Acesse todos os seus aplicativos e serviços da Experience Cloud
 * No menu Ajuda, pesquise pela documentação de produto, tutoriais e publicações da comunidade. Veja os resultados na Experience League.
 * Pesquise objetos comerciais globalmente usando uma pesquisa global (somente usuários da Experience Platform) no campo Pesquisa.
-* Gerenciar as [preferências](features/account-preferences.md) da sua conta (alertas, notificações e assinaturas)
+* Gerencie as [preferências](features/account-preferences.md) da sua conta (alertas, notificações e assinaturas)
 
 ## Faça logon na Experience Cloud {#signin}
 
 Faça logon e verifique se você está na [organização](administration/organizations.md) correta.
 
 1. Acesse a [Adobe Experience Cloud](https://experience.adobe.com).
-1. Digite seu endereço de email da Adobe e selecione **[!UICONTROL Continuar]**.
+1. Digite seu endereço de email do Adobe e clique em **[!UICONTROL Continuar]**.
 1. Selecione uma conta.
 1. Insira sua senha.
 1. Verifique se você está na organização correta.
@@ -57,7 +57,7 @@ Para acessar os aplicativos e serviços da Experience Cloud fornecidos para voc�
 
 ## Obter ajuda e suporte {#support}
 
-Acesse o aprendizado e a ajuda usando a **[!UICONTROL Central de ajuda]** (![asset](assets/help-icon.png)) no cabeçalho, incluindo o conteúdo da ajuda (documentação, tutoriais e cursos) em [Experience League](https://experienceleague.adobe.com/?lang=pt-BR#home), bem como recursos adicionais para aplicativos individuais. Você também pode enviar feedback aberto e criar tíquetes de suporte priorizados.
+Acesse o aprendizado e a ajuda usando a **[!UICONTROL Central de ajuda]** (![recurso](assets/help-icon.png)) no cabeçalho, incluindo conteúdo de ajuda (documentação, tutoriais e cursos) na [Experience League](https://experienceleague.adobe.com/?lang=pt-BR#home), bem como recursos adicionais para aplicativos individuais. Você também pode enviar feedback aberto e criar tíquetes de suporte priorizados.
 
 ![Obter ajuda e suporte](assets/search-menu.png)
 
@@ -70,18 +70,18 @@ O menu [!UICONTROL Ajuda] também oferece acesso a:
 
 ## Gerenciar seu perfil de usuário
 
-No menu [!UICONTROL Perfil], você pode:
+No menu [!UICONTROL Perfil], é possível:
 
 * Especificar um tema escuro (nem todos os aplicativos são compatíveis com esse tema)
 * Gerenciar as [Preferências](features/account-preferences.md) da Experience Cloud
-* Selecionar ou pesquisar uma [Organização](administration/organizations.md)
+* Selecione ou pesquise por uma [Organização](administration/organizations.md)
 * Exibir [!UICONTROL Avisos legais]
 * Fazer logoff
 * Configurar as preferências, notificações e assinaturas da conta
 
-## Exibir notificações e anúncios no produto {#notifications}
+## Exibir notificações e avisos no produto {#notifications}
 
-Clique no ícone de sino para exibir notificações e anúncios. Os anúncios podem ser atualizações relevantes e práticas, incluindo lançamentos de produtos, avisos de manutenção, itens compartilhados e solicitações de aprovação.
+Clique no ícone de sino para exibir notificações e avisos. Os avisos podem ser atualizações relevantes e acionáveis, incluindo lançamentos de produtos, avisos de manutenção, itens compartilhados e solicitações de aprovação.
 
 ![Notificações e anúncios](assets/notifications-menu-small.png)
 
@@ -180,8 +180,8 @@ Algumas alterações importantes no serviço Firebase Cloud Messaging (FCM) para
     </td>
     <td>
       <img src="assets/do-not-localize/icon-dev.svg" width="35px">
-    <br/>
-      <strong>Recursos do desenvolvedor</strong><br/><a href="dev/datamodel.md">Modelo de dados do Campaign v8</a> - <a href="dev/schemas.md">Esquemas</a> - <a href="dev/api.md">APIs</a>
+    <br/>
+      <strong>Recursos do desenvolvedor</strong><br/><a href="dev/datamodel.md">Modelo de dados do Campaign v8</a> – <a href="dev/schemas.md">Esquemas</a> – <a href="dev/api.md">APIs</a>
     </td>
   </tr>
 </table>

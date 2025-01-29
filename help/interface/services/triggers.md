@@ -8,7 +8,7 @@ topic: Administration
 role: Admin
 level: Experienced
 exl-id: 9dc26e2f-479b-49a5-93ce-b877559fea43
-source-git-commit: 66f78a04674a82335f5df20c4c15d983b6ebdc66
+source-git-commit: 163dc8ef83fb83a0e51879520bcb3ae697c95144
 workflow-type: tm+mt
 source-wordcount: '677'
 ht-degree: 97%
@@ -49,9 +49,9 @@ Crie um acionador e configure as condições para ele. Por exemplo, você pode e
 >
 >No momento, há um limite técnico de 100 acionadores.
 
-1. No Experience Cloud, selecione ![menu](../assets/menu-icon.png) e, em seguida, **[!UICONTROL Coleção de dados/Launch]**.
-2. No cartão [!UICONTROL Acionadores], selecione **[!UICONTROL Gerenciar acionadores]**.
-3. Selecione **[!UICONTROL Novo acionador]** e especifique o tipo de acionador:
+1. No Experience Cloud, clique em ![menu](../assets/menu-icon.png) e em **[!UICONTROL Coleção de dados/Iniciar]**.
+2. No cartão [!UICONTROL Acionadores], clique em **[!UICONTROL Gerenciar acionadores]**.
+3. Clique em **[!UICONTROL Novo acionador]** e especifique o tipo de acionador:
 
    ![Resultado da etapa](../assets/add-trigger.png)
 
@@ -68,7 +68,7 @@ Crie um acionador e configure as condições para ele. Por exemplo, você pode e
 
    {style="table-layout:auto"}
 
-5. Selecione **[!UICONTROL Salvar]**.
+5. Clique em **[!UICONTROL Salvar]**.
 6. Use os acionadores para o [remarketing em tempo real](https://experienceleague.adobe.com/docs/campaign-standard/using/integrating-with-adobe-cloud/working-with-campaign-and-triggers/about-adobe-experience-cloud-triggers.html?lang=pt-BR) no [!DNL Adobe Campaign].
 
 ### Exemplos de acionadores

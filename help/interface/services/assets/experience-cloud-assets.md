@@ -8,7 +8,7 @@ topic: Administration
 role: Admin
 level: Experienced
 exl-id: 643c878f-c2f3-4c1d-ae3e-6a75c95520b4
-source-git-commit: c39672f0d8a0fd353b275b2ecd095ada1e2bf744
+source-git-commit: 163dc8ef83fb83a0e51879520bcb3ae697c95144
 workflow-type: tm+mt
 source-wordcount: '326'
 ht-degree: 100%
@@ -37,7 +37,7 @@ Usar ativos melhora a consistência e a conformidade da marca, além de acelerar
 
 ## Acessar a barra de ferramentas {#section_EC2E401D225148818F3753248556BE6B}
 
-Navegue até um ativo (ou diretório de ativo) e escolha **[!UICONTROL Selecionar]**.
+Navegue até um ativo (ou diretório de ativo) e clique em **[!UICONTROL Selecionar]**.
 
 A barra de ferramentas fornece acesso rápido aos recursos, incluindo Pesquisa, Linha do tempo, Representações, Edição, Anotação e Download.
 
@@ -65,13 +65,13 @@ Você pode pesquisar por palavra-chave, tipo de arquivo, tamanho, última modifi
 
 ## Comentar ativos {#section_67FE1DFAAB744DA5B1CD3AD3CCEABF7A}
 
-Selecione **[!UICONTROL Anotar]** desenhando círculos ou setas em uma imagem e anotando o ativo para análise pelos colegas de trabalho.
+Clique em **[!UICONTROL Anotar]** ao desenhar círculos ou setas em uma imagem, e anotar o ativo para análise pelos colegas de trabalho.
 
 ![Comentar ativos](../../assets/assets-annotate.png)
 
 ## Exibir ativos de tela inteira e utilizar o zoom {#section_A9F50D7D6BE341A2AB8244A4E42A4EF7}
 
-Selecione **[!UICONTROL Exibições]** > **[!UICONTROL Imagem]** para exibir a imagem de ativo completa e ativar o zoom.
+Clique em **[!UICONTROL Visualizações]** > **[!UICONTROL Imagem]** para exibir a imagem de ativo completa e ativar o zoom.
 
 ![Exibir ativos em tela cheia](../../assets/asset-zoom.png)
 
@@ -79,7 +79,7 @@ Selecione **[!UICONTROL Exibições]** > **[!UICONTROL Imagem]** para exibir a i
 
 Escolha entre exibição de cartão com propriedades, de lista e de coluna para encontrar os ativos de forma mais fácil.
 
-Selecione **[!UICONTROL Exibições]** > **[!UICONTROL Propriedades]** para exibir as propriedades de um ativo:
+Clique em **[!UICONTROL Visualizações]** > **[!UICONTROL Propriedades]** para exibir as propriedades de um ativo:
 
 ![Exibir propriedades de ativos](../../assets/asset-properties.png)
 
@@ -87,6 +87,6 @@ Selecione **[!UICONTROL Exibições]** > **[!UICONTROL Propriedades]** para exib
 
 Consulte a quantidade de usuários, armazenamento usado e total de ativos.
 
-Selecione **[!UICONTROL Ferramentas]** > **[!UICONTROL Relatórios]** > **[!UICONTROL Relatório de uso]**
+Clique em **[!UICONTROL Ferramentas]** > **[!UICONTROL Relatórios]** > **[!UICONTROL Relatório de uso]**
 
 ![Executar relatórios de uso](../../assets/assets-usage-report.png)

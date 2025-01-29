@@ -8,10 +8,10 @@ topic: Administration
 role: Admin
 level: Experienced
 exl-id: 127eecdd-3862-48ba-8cf6-a8082d2b7bae
-source-git-commit: 66f78a04674a82335f5df20c4c15d983b6ebdc66
+source-git-commit: 163dc8ef83fb83a0e51879520bcb3ae697c95144
 workflow-type: tm+mt
-source-wordcount: '1260'
-ht-degree: 85%
+source-wordcount: '1258'
+ht-degree: 82%
 
 ---
 
@@ -37,7 +37,7 @@ Esta página exibe a lista completa de usuários com acesso à Experience Cloud 
 
 | Elemento | Descrição |
 |---|---|
-| [!UICONTROL Nome] | O nome e sobrenome do usuário. É possível classificar essa coluna de A a Z e Z a A. Selecione o nome de um usuário para ver mais detalhes sobre ele. |
+| [!UICONTROL Nome] | O nome e sobrenome do usuário. É possível classificar essa coluna de A a Z e Z a A. Clique no nome de um usuário para ver mais detalhes sobre ele. |
 | [!UICONTROL Email] | O endereço de email associado ao usuário. A coluna pode ser classificada como A->Z, Z->A. |
 | [!UICONTROL Tipo de ID] | O tipo de identidade da conta do usuário. O filtro pode ser aplicado a tipos de ID específicos da exibição. Consulte [Gerenciar tipos de identidade](https://helpx.adobe.com/br/enterprise/using/identity.html) para obter mais informações. |
 | [!UICONTROL Soluções] | Resumo dos aplicativos da Experience Cloud que o usuário pode acessar. Aplique filtros para restringir a lista de usuários com acesso específico ao aplicativo. |
@@ -49,7 +49,7 @@ Pesquise, classifique ou filtre as colunas para personalizar a lista de usuário
 
 * Procure usuários por Nome ou Email. As pesquisas correspondem à string de texto digitada.
 * Classifique a coluna por valores crescentes ou decrescentes. Isso se aplica às colunas [!UICONTROL Nome], [!UICONTROL Email] e [!UICONTROL Último logon].
-* Para aplicar múltiplos filtros a usuários da lista com critérios específicos, selecione o ícone **[!UICONTROL Filtrar por]**. Quando várias categorias de filtro são aplicadas, as pesquisas contêm a Solução `AND` TIPO DE ID `AND` de domínio de email.
+* Para aplicar múltiplos filtros a usuários da lista com critérios específicos, clique em **[!UICONTROL Filtrar por]**. Quando várias categorias de filtro são aplicadas, as pesquisas contêm a Solução `AND` TIPO DE ID `AND` de domínio de email.
 
 | Elemento | Descrição |
 |---------|----------|
@@ -59,7 +59,7 @@ Pesquise, classifique ou filtre as colunas para personalizar a lista de usuário
 
 ## Exibir detalhes do usuário
 
-Na página [!UICONTROL Usuários], para visualizar os detalhes do usuário, selecione o email do usuário.
+Na página [!UICONTROL Usuários], para visualizar os detalhes do usuário, clique no email do usuário.
 
 ![Exibir detalhes do usuário no Admin Console](../assets/admin-tool-user-details.png)
 
@@ -113,7 +113,7 @@ Pesquise, classifique ou filtre as colunas para personalizar a lista de polític
 
 * Pesquise os perfis de produto por nome. As pesquisas correspondem à string de texto digitada.
 * Classifique a coluna por valores crescentes ou decrescentes. Esta classificação se aplica às [!UICONTROL colunas de perfil de produto,] [!UICONTROL Produto,] [!UICONTROL Instância,] [!UICONTROL Número de usuários,] e [!UICONTROL Número de Desenvolvedores,].
-* Selecione o ícone **[!UICONTROL Filtrar por]** para aplicar vários filtros e listar perfis de produto com critérios específicos. Quando várias categorias de filtro são aplicadas, as pesquisas contêm Grupos associados `AND` Instância `AND` Solução.
+* Clique no ícone **[!UICONTROL Filtrar por]** para aplicar vários filtros para listar perfis de produto com critérios específicos. Quando várias categorias de filtro são aplicadas, as pesquisas contêm Grupos associados `AND` Instância `AND` Solução.
 
 | Elemento | Descrição |
 |---------|----------|

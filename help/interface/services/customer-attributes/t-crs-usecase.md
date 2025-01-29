@@ -8,7 +8,7 @@ topic: Administration
 role: Admin
 level: Experienced
 exl-id: 21ed7c35-aac9-46f1-a50c-84e7c075209c
-source-git-commit: 65d77199580a85e3be3e82c06cb215f980d159fd
+source-git-commit: 163dc8ef83fb83a0e51879520bcb3ae697c95144
 workflow-type: tm+mt
 source-wordcount: '1102'
 ht-degree: 77%
@@ -55,13 +55,13 @@ Execute essas etapas na página Criar novo Source de atributo do cliente no Expe
 >Ao criar, modificar ou excluir fontes de atributo do cliente, ocorre um atraso de cerca de uma hora antes de as IDs começarem a realizar a sincronização com a nova fonte de dados. Você deve ter direitos administrativos no Audience Manager para criar ou modificar fontes de atributo do cliente. Entre em contato com o Atendimento ao cliente do Audience Manager ou consulte para obter direitos administrativos.
 
 1. No [!DNL Experience Cloud], selecione o ícone Menu ![menu](assets/menu-icon.png).
-1. Na **[!DNL Experience Platform]**, selecione **[!UICONTROL Pessoas]** > **[!UICONTROL Atributos de cliente]**.
+1. Em **[!DNL Experience Platform]**, clique em **[!UICONTROL People]** > **[!UICONTROL Atributos do cliente]**.
 
    A página [!UICONTROL Atributos do cliente] é o local para gerenciar e editar as fontes de dados do atributo existentes.
 
    ![Resultado da etapa](assets/03_crs_usecase.png)
 
-1. Selecione **[!UICONTROL Novo]**.
+1. Clique em **[!UICONTROL Novo]**.
 
    ![Resultado da etapa](assets/04_crs_usecase.png)
 
@@ -144,7 +144,7 @@ Consulte [Configurar subscrições](subscription.md).
 
 **Para ativar uma fonte de atributo**
 
-Na página [!UICONTROL Criar novo ou editar Source de atributos do cliente], localize o cabeçalho [!UICONTROL Ativar] e selecione **[!UICONTROL Ativo]**.
+Na página [!UICONTROL Criar novo ou editar Source de atributos do cliente], localize o cabeçalho [!UICONTROL Ativar] e clique em **[!UICONTROL Ativo]**.
 
 ![Resultado da etapa](assets/activate_attribute_source.png)
 

@@ -8,7 +8,7 @@ topic: Administration
 role: Admin
 level: Experienced
 exl-id: b65a12f5-fa89-400a-b279-13c381cd6c22
-source-git-commit: c39672f0d8a0fd353b275b2ecd095ada1e2bf744
+source-git-commit: 163dc8ef83fb83a0e51879520bcb3ae697c95144
 workflow-type: tm+mt
 source-wordcount: '510'
 ht-degree: 94%
@@ -44,8 +44,8 @@ O exemplo a seguir mostra como criar as regras para um público-alvo composto. E
 
 **Para criar um público-alvo**
 
-1. Na [!DNL Experience Cloud], em [!DNL Experience Platform], selecione **[!UICONTROL Pessoas]** > **[!UICONTROL Biblioteca de público-alvo].**
-1. Na página [!UICONTROL Públicos-alvo], selecione **[!UICONTROL Novo]**. ![adicionar](assets/add_icon_small.png)
+1. Na [!DNL Experience Cloud], em [!DNL Experience Platform], clique em **[!UICONTROL Pessoas]** > **[!UICONTROL Biblioteca de públicos-alvo].**
+1. Na página [!UICONTROL Públicos-alvo], clique em **[!UICONTROL Novo]**. ![adicionar](assets/add_icon_small.png)
 
    ![Resultado da etapa](assets/audience_create_new.png)
 
@@ -59,7 +59,7 @@ O exemplo a seguir mostra como criar as regras para um público-alvo composto. E
 
    * **[!UICONTROL Experience Cloud:]** os dados de atributo nas fontes da [!DNL Experience Cloud]. Por exemplo, tais dados podem ser de segmentos de público-alvo criados no [!DNL Analytics], ou dados do [!DNL Audience Manager].
 
-1. Defina as regras de público-alvo e selecione **[!UICONTROL Salvar].**
+1. Defina as regras de público-alvo e clique em **[!UICONTROL Salvar].**
 
 >[!NOTE]
 >

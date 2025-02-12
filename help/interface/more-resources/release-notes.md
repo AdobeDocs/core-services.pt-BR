@@ -9,10 +9,10 @@ topic: Administration
 role: Admin
 level: Experienced
 exl-id: b71d144c-a097-4cdb-9721-671519d38aff
-source-git-commit: 163dc8ef83fb83a0e51879520bcb3ae697c95144
+source-git-commit: b44a57082f65be8f9957d48ee50adcc1b6f72ce5
 workflow-type: tm+mt
-source-wordcount: '1195'
-ht-degree: 86%
+source-wordcount: '1200'
+ht-degree: 90%
 
 ---
 
@@ -24,12 +24,17 @@ Para obter uma lista de atualizações de documentação, consulte [Atualizaçõ
 
 Para obter notas de versão que abrangem todos os aplicativos, consulte [Notas de versão da Experience Cloud](https://experienceleague.adobe.com/docs/release-notes/experience-cloud/current.html?lang=pt-BR).
 
+## Fevereiro de 2025
+
+| Data | Recurso | Descrição |
+| -----------| -----------| ---------- |
+| 13 de fevereiro (data planejada de lançamento) | Spectrum 2 | A estrutura do aplicativo Experience Cloud, que inclui a barra de cabeçalho e os componentes acessados por ela, bem como o painel de navegação esquerdo para determinados aplicativos, será atualizada para o Spectrum 2, o sistema de design mais recente da Adobe. Esse design atualizado inclui uma iconografia atualizada, mas com a mesma funcionalidade. Entretanto, vários elementos do cabeçalho foram reposicionados para se alinhar a outros sites e aplicativos da Adobe. |
+
 ## Janeiro de 2025
 
 | Data | Recurso | Descrição |
 | -----------| -----------| ---------- |
-| Janeiro de 9 | Dados de uso de produtos | Para facilitar o controle das preferências de dados de uso do Experience Cloud, simplificamos nossa página [Preferências](../features/account-preferences.md#product-usage-data) de Experience Cloud para remover opções duplicadas. Com essa simplificação, preservamos as preferências atuais do usuário e você pode atualizar suas preferências a qualquer momento em [preferências de Experience Cloud](https://experience.adobe.com/preferences). |
-| 5 de fevereiro (data planejada de lançamento) | Espectro 2 | A estrutura do aplicativo Experience Cloud, que inclui a barra de cabeçalho e os componentes acessados a partir dela, bem como o painel de navegação esquerdo para determinados aplicativos, será atualizado para o Spectrum 2, Adobe sistema de design mais recente. Esse design atualizado inclui uma iconografia atualizada, mas com a mesma funcionalidade. Entretanto, vários elementos no cabeçalho são reposicionados para se alinharem a outros sites e aplicativos de Adobe. |
+| 9 de janeiro | Dados de uso do produto | Para facilitar o controle das preferências de dados de uso de produtos da Experience Cloud, simplificamos nossa página [Preferências](../features/account-preferences.md#product-usage-data) da Experience Cloud para remover opções duplicadas. Com essa alteração, preservamos as preferências atuais do usuário para que você possa atualizar suas [preferências da Experience Cloud](https://experience.adobe.com/preferences) a qualquer momento. |
 
 ## 2 de outubro de 2024
 
@@ -37,11 +42,11 @@ Para obter notas de versão que abrangem todos os aplicativos, consulte [Notas d
 | -----------| ---------- |
 | Página inicial personalizável | Na página de destino da Experience Cloud, clique em **[!UICONTROL Editar]**. O modo [!UICONTROL Editar] permite personalizar a página inicial da Experience Cloud com acesso a uma biblioteca de widgets e planos de fundo personalizados. O modo [!UICONTROL Editar] fornece controles intuitivos e perfeitos para mover, redimensionar e gerenciar widgets, incluindo ações em massa e ajustes de layout, oferecendo uma experiência mais estética e personalizada. |
 
-## quarta-feira, 10 de setembro de 2024
+## 10 de setembro de 2024
 
 | Recurso | Descrição |
 | -----------| ---------- |
-| Notificações do Slack | Você pode configurar as preferências da sua conta para enviar notificações da Experience Cloud ao Slack. Consulte _Notificações de Slack_ na ajuda das [Preferências](../features/account-preferences.md) para obter detalhes. |
+| Notificações do Slack | Você pode configurar as preferências da sua conta para enviar notificações da Experience Cloud ao Slack. Consulte _Notificações do Slack_ em [Preferências](../features/account-preferences.md) para obter detalhes. |
 
 <!-- ## July - August 2023
 

@@ -7,10 +7,10 @@ topic: Administration
 role: Admin
 level: Experienced
 exl-id: 11cc5005-8ec0-4308-bc94-0f78666ea645
-source-git-commit: 855853be8397350bb93f3c9cf02bb73f5e75326f
+source-git-commit: e0b8281058b44012bdd7befa6ce26355a35bcf11
 workflow-type: tm+mt
-source-wordcount: '580'
-ht-degree: 72%
+source-wordcount: '605'
+ht-degree: 69%
 
 ---
 
@@ -18,13 +18,17 @@ ht-degree: 72%
 
 Saiba onde as atualizações de documentação ocorrem para a interface central e a administração do Experience Cloud.
 
-**Novembro de 2024**
+**Fevereiro de 2025**
+
+Adicionado [Gerenciar usuários e produtos no Experience Cloud](../administration/admin-console.md). Esta página ajuda os administradores a localizar a ajuda do gerenciamento de usuários e produtos (Admin Console) para todos os aplicativos.
+
+**novembro de 2024**
 
 Atualizações para [Dados de uso do produto](../features/account-preferences.md) e [Aprendizado personalizado](../features/personalized-learning.md).
 
 **setembro de 2024**
 
-Adição de ajuda sobre a [assinatura em notificações Slack](../features/account-preferences.md#subscribe-to-slack-notifications).
+Adição de ajuda sobre a [assinatura nas notificações do Slack](../features/account-preferences.md#subscribe-to-slack-notifications).
 
 [preferências de usuário](../features/account-preferences.md) atualizadas.
 

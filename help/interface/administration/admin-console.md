@@ -8,10 +8,10 @@ topic: Administration
 role: Admin
 level: Experienced
 exl-id: c82821c4-aa5d-48ae-8bef-5937fede8db2
-source-git-commit: e2e6c0daf8f765fe76f9c7bd44042d91dce142f2
+source-git-commit: 9932f21e4aa4d4a5bf08d7f1617b4c25d4fb14bb
 workflow-type: tm+mt
-source-wordcount: '607'
-ht-degree: 5%
+source-wordcount: '788'
+ht-degree: 3%
 
 ---
 
@@ -22,6 +22,43 @@ Esta página fornece informações específicas para administradores do Experien
 Para obter ajuda sobre o gerenciamento de identidade geral aplicável a todos os aplicativos da Adobe, consulte o [Guia de administração de empresas e equipes](https://helpx.adobe.com/br/enterprise/admin-guide.html).
 
 As seções a seguir fornecem links para recursos na ajuda do Admin Console.
+
+## Funções administrativas no Admin Console
+
+O Admin Console fornece três funções administrativas principais, cada uma com níveis específicos de acesso e responsabilidade:
+
+**Administrador do sistema:** Acesso completo - Gerencia todos os aspectos do console.
+
+Principais responsabilidades:
+
+* Adicionar, remover e gerenciar usuários.
+* Atribuir e revogar licenças de produto.
+* Defina as configurações de identidade e autenticação.
+* Exibir e gerenciar informações de faturamento.
+* Configurar administradores adicionais e funções de delegado.
+
+  **Recomendado para:** administradores de TI ou líderes de equipe que supervisionam todo o ambiente Adobe da organização.
+
+**Administrador do produto:** Gerenciamento específico do produto - Controla o acesso e as permissões de determinados produtos da Adobe.
+
+Principais responsabilidades:
+
+* Atribuir e gerenciar licenças para um produto específico.
+* Crie e gerencie perfis de produto.
+* Adicionar ou remover usuários nos produtos atribuídos.
+
+  **Recomendado para:** equipes/usuários que gerenciam softwares específicos, como o Marketo Engage ou o Adobe Creative Cloud.
+
+**Administrador de perfil de produto:** Gerenciamento de função granular - Concentra-se no gerenciamento de grupos de usuários e permissões em um produto.
+
+* Principais responsabilidades:
+* Crie e gerencie perfis de produto.
+* Atribua permissões e acesso a recursos nos perfis.
+* Adicionar ou remover usuários em perfis.
+
+  **Recomendado para:** Líderes de departamento ou gerentes de equipe que supervisionam grupos menores com necessidades especializadas
+
+  Os administradores podem combinar funções para obter maior flexibilidade, dependendo dos requisitos organizacionais.
 
 ## Configuração do Admin Console
 

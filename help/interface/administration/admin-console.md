@@ -8,9 +8,9 @@ topic: Administration
 role: Admin
 level: Experienced
 exl-id: c82821c4-aa5d-48ae-8bef-5937fede8db2
-source-git-commit: d39d8a26a6870edd4d1674da12f24ab5ac5d05bc
+source-git-commit: 91f06f12c9c9ec8df19f513f2a09de0b871137cb
 workflow-type: tm+mt
-source-wordcount: '729'
+source-wordcount: '728'
 ht-degree: 4%
 
 ---
@@ -25,7 +25,7 @@ Para obter ajuda sobre o gerenciamento de identidade geral aplicável a todos os
 
 O Admin Console fornece três funções administrativas principais, cada uma com níveis específicos de acesso e responsabilidade:
 
-| Link de ajuda | Descrição |
+| Função | Descrição |
 | ------- | ------- |
 | Administrador do sistema | Acesso completo - Gerencia todos os aspectos do console. <br>Principais responsabilidades: <br><ul><li>Adicionar, remover e gerenciar usuários.</li><li>Atribuir e revogar licenças de produto.</li><li>Definir configurações de identidade e autenticação</li><li>Exibir e gerenciar informações de faturamento.</li><li>Configurar administradores adicionais e funções de delegado.</li></ul> **Recomendado para:** administradores de TI ou líderes de equipe que supervisionam todo o ambiente Adobe da organização. |
 | Administrador do produto | Gerenciamento específico do produto - Controla o acesso e as permissões de produtos específicos da Adobe.<br>Principais responsabilidades:<ul><li>Atribuir e gerenciar licenças para um produto específico.</li><li>Crie e gerencie perfis de produto.</li><li>Adicionar ou remover usuários nos produtos atribuídos.</li></ul>   **Recomendado para:** equipes/usuários que gerenciam softwares específicos, como o Marketo Engage ou o Adobe Creative Cloud. |
@@ -37,7 +37,7 @@ Para gerenciar licenças de identidade e de produto para aplicativos Experience 
 
 Estes são recursos que você pode precisar ao começar a usar o administrador no Admin Console:
 
-### Configurar tarefas
+### Configurar recursos
 
 | Link de ajuda | Descrição |
 | ------- | ------- |

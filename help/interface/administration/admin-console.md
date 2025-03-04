@@ -8,10 +8,10 @@ topic: Administration
 role: Admin
 level: Experienced
 exl-id: c82821c4-aa5d-48ae-8bef-5937fede8db2
-source-git-commit: 4b9318849f76941cb59ab5e9ca08045705c8ec46
+source-git-commit: 77841faeb5b005e4913408edb3e9cfbbdfc8961d
 workflow-type: tm+mt
 source-wordcount: '728'
-ht-degree: 4%
+ht-degree: 5%
 
 ---
 
@@ -40,7 +40,7 @@ Estes são recursos que você pode precisar ao começar a usar o administrador n
 ### Configurar recursos
 
 | Link de ajuda | Descrição |
-| ------- | ------- |
+| ------- | ------ |
 | [Configurar identidade e logon único](https://helpx.adobe.com/br/enterprise/using/set-up-identity.html) | **[!UICONTROL Admin Console]** > **[!UICONTROL Configurações]** <br> Saiba como configurar as contas dos seus usuários com tipos de ID diferentes com ou sem logon único (SSO). Configure o SSO para o software Adobe, defina as configurações do SAML e passe pelas perguntas e erros mais comuns. |
 | [Configurar organização via relação de confiança de diretório](https://helpx.adobe.com/enterprise/using/directory-trust.html) | Autentique seus usuários em um domínio já reivindicado por outra organização. Para obter informações sobre como localizar e alternar organizações, consulte [Organizações na Experience Cloud](organizations.md). |
 | [Configurações de autenticação (empresa)](https://helpx.adobe.com/enterprise/using/authentication-settings.html) | O Admin Console oferece suporte a vários níveis de proteção por senha e políticas para garantir a segurança. Você pode optar por usar um nível de proteção por senha para aplicar a todos os usuários em sua organização. |

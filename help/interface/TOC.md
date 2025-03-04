@@ -6,9 +6,9 @@ title: Guia de administração e interface da Experience Cloud
 description: Saiba mais sobre a interface da Experience Cloud, cookies e preferências de conta. Gerencie produtos e configure o serviço Pessoas, incluindo atributos do cliente e biblioteca de público-alvo. Compartilhar ativos da Experience Cloud.
 index: true
 source-git-commit: e2e6c0daf8f765fe76f9c7bd44042d91dce142f2
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '234'
-ht-degree: 97%
+ht-degree: 100%
 
 ---
 

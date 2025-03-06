@@ -9,9 +9,9 @@ topic: Administration
 role: Admin
 level: Experienced
 exl-id: b71d144c-a097-4cdb-9721-671519d38aff
-source-git-commit: f563e49a1650dd82a219b3fbaf931afb9373a1f4
+source-git-commit: c9226cb71fdda9a04c4b8d3d25f348746af62865
 workflow-type: tm+mt
-source-wordcount: '1235'
+source-wordcount: '1232'
 ht-degree: 88%
 
 ---
@@ -28,7 +28,7 @@ Para obter notas de versão que abrangem todos os aplicativos, consulte [Notas d
 
 | Data | Atualização | Descrição |
 | -----------| -----------| ---------- |
-| sexta-feira, 6 de março de 2025 | Opções do menu de clique com o botão direito | Correção de quadro de aplicativo do Experience Cloud para guias de navegação de cabeçalho para permitir funções de menu suspenso do navegador com clique com o botão direito do mouse. Isso corrige um problema introduzido na versão de fevereiro do sistema de design do Spectrum 2. |
+| sexta-feira, 6 de março de 2025 | Correção da opção de menu de clique com o botão direito | As guias de navegação do cabeçalho do Experience Cloud agora permitem funções de menu suspenso do navegador e do clique com o botão direito do mouse. Isso corrige um problema introduzido na versão de fevereiro do sistema de design do Spectrum 2. |
 
 ## Fevereiro de 2025
 

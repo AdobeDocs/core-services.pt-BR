@@ -9,10 +9,10 @@ topic: Administration
 role: Admin
 level: Experienced
 exl-id: b71d144c-a097-4cdb-9721-671519d38aff
-source-git-commit: b44a57082f65be8f9957d48ee50adcc1b6f72ce5
+source-git-commit: f563e49a1650dd82a219b3fbaf931afb9373a1f4
 workflow-type: tm+mt
-source-wordcount: '1200'
-ht-degree: 90%
+source-wordcount: '1235'
+ht-degree: 88%
 
 ---
 
@@ -24,11 +24,17 @@ Para obter uma lista de atualizações de documentação, consulte [Atualizaçõ
 
 Para obter notas de versão que abrangem todos os aplicativos, consulte [Notas de versão da Experience Cloud](https://experienceleague.adobe.com/docs/release-notes/experience-cloud/current.html?lang=pt-BR).
 
+## Março de 2025
+
+| Data | Atualização | Descrição |
+| -----------| -----------| ---------- |
+| sexta-feira, 6 de março de 2025 | Opções do menu de clique com o botão direito | Correção de quadro de aplicativo do Experience Cloud para guias de navegação de cabeçalho para permitir funções de menu suspenso do navegador com clique com o botão direito do mouse. Isso corrige um problema introduzido na versão de fevereiro do sistema de design do Spectrum 2. |
+
 ## Fevereiro de 2025
 
 | Data | Recurso | Descrição |
 | -----------| -----------| ---------- |
-| 13 de fevereiro (data planejada de lançamento) | Spectrum 2 | A estrutura do aplicativo Experience Cloud, que inclui a barra de cabeçalho e os componentes acessados por ela, bem como o painel de navegação esquerdo para determinados aplicativos, será atualizada para o Spectrum 2, o sistema de design mais recente da Adobe. Esse design atualizado inclui uma iconografia atualizada, mas com a mesma funcionalidade. Entretanto, vários elementos do cabeçalho foram reposicionados para se alinhar a outros sites e aplicativos da Adobe. |
+| 13 de fevereiro | Spectrum 2 | A estrutura do aplicativo Experience Cloud, que inclui a barra de cabeçalho e os componentes acessados por ela, bem como o painel de navegação esquerdo para determinados aplicativos, será atualizada para o Spectrum 2, o sistema de design mais recente da Adobe. Esse design atualizado inclui uma iconografia atualizada, mas com a mesma funcionalidade. Entretanto, vários elementos do cabeçalho foram reposicionados para se alinhar a outros sites e aplicativos da Adobe. |
 
 ## Janeiro de 2025
 

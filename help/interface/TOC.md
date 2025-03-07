@@ -5,17 +5,17 @@ breadcrumb-title: Guia de administração e interface da Experience Cloud
 title: Guia de administração e interface da Experience Cloud
 description: Saiba mais sobre a interface da Experience Cloud, cookies e preferências de conta. Gerencie produtos e configure o serviço Pessoas, incluindo atributos do cliente e biblioteca de público-alvo. Compartilhar ativos da Experience Cloud.
 index: true
-source-git-commit: e2e6c0daf8f765fe76f9c7bd44042d91dce142f2
-workflow-type: ht
-source-wordcount: '234'
+source-git-commit: e88d23143e29040a8baf49108be35f8f766aed5e
+workflow-type: tm+mt
+source-wordcount: '232'
 ht-degree: 100%
 
 ---
 
 
-# Guia de administração e interface da Experience Cloud {#interface}
+# Administração e interface da Experience Cloud {#interface}
 
-+ [Guia de componentes da interface central da Experience Cloud](experience-cloud.md)
++ [Administração e interface da Experience Cloud](experience-cloud.md)
 
 + Serviços {#services}
    + [Visão geral](services/overview.md)

@@ -8,7 +8,7 @@ topic: Administration
 role: Admin
 level: Experienced
 exl-id: bd9bea58-9987-40d6-84e0-da185388bbbb
-source-git-commit: c39672f0d8a0fd353b275b2ecd095ada1e2bf744
+source-git-commit: cb928a0398699b966a0f0dacc569c7958dac12d1
 workflow-type: tm+mt
 source-wordcount: '344'
 ht-degree: 91%
@@ -17,7 +17,7 @@ ht-degree: 91%
 
 # Cookies da Experience Cloud 
 
-O Adobe Experience Cloud usa cookies para armazenar uma ID de visitante usada em aplicativos Experience Cloud. Esses cookies se aplicam especificamente ao acesso aos aplicativos do Adobe Experience Cloud em [experience.adobe.com](https://experience.adobe.com).
+O Adobe Experience Cloud usa cookies para armazenar uma ID de visitante usada nos aplicativos do Experience Cloud. Esses cookies se aplicam especificamente ao acesso aos aplicativos do Adobe Experience Cloud em [experience.adobe.com](https://experience.adobe.com).
 
 **Nome do cookie: s_ecid**
 
@@ -76,7 +76,7 @@ Consulte [Cookies e o serviço da ID](https://experienceleague.adobe.com/docs/id
   </tr> 
   <tr> 
    <td colname="col1"> <p> Expiração </p> </td> 
-   <td colname="col2"> <p> 2 anos </p> </td> 
+   <td colname="col2"> <p> 13 meses </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p> Uso </p> </td> 

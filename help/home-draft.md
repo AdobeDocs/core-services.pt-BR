@@ -7,10 +7,10 @@ topic: Administration
 role: Admin
 level: Experienced
 exl-id: aedad5cb-3282-4a97-8e7e-6d65f7b75ba9
-source-git-commit: 163dc8ef83fb83a0e51879520bcb3ae697c95144
+source-git-commit: 0740361094aac0e63207e5e60aa666a1613d0e94
 workflow-type: tm+mt
-source-wordcount: '790'
-ht-degree: 94%
+source-wordcount: '911'
+ht-degree: 82%
 
 ---
 
@@ -27,12 +27,134 @@ No cabeçalho do Experience Cloud, você pode:
 * Pesquise objetos comerciais globalmente usando uma pesquisa global (somente usuários da Experience Platform) no campo Pesquisa.
 * Gerencie as [preferências](features/account-preferences.md) da sua conta (alertas, notificações e assinaturas)
 
+
+Extraído do GSPM:
+
+## Explorar recursos
+
+<table style="table-layout:fixed">
+<tr style="border: 0;">
+   <td valign="top">
+      <a href="../user-guide/effective-prompts.md">
+      <img alt="Divisa direita" src="../assets/icons/icon-chevronRight.svg" width="35">
+      </a>
+      <div>
+         <a href="../user-guide/effective-prompts.md">
+         <strong>Gravar Prompts Efetivos</strong>
+         </a>
+      </div>
+      <p>
+         <em>Prompts descritivos de artesanato que geram experiências digitais da marca.</em>
+      </p>
+   </td>
+   <td valign="top">
+      <a href="../user-guide/create/overview.md">
+      <img alt="Pincel" src="../assets/icons/icon-create.svg" width="35">
+      </a>
+      <div>
+         <a href="../user-guide/create/overview.md">
+         <strong>Criar experiências</strong>
+         </a>
+      </div>
+      <p>
+         <em>Crie emails e Metadados de marca com desempenho.</em>
+      </p>
+   </td>
+   <td valign="top">
+      <a href="../user-guide/approvals/overview.md">
+      <img alt="Marca de seleção" src="../assets/icons/icon-checkmarkCircle.svg" width="35">
+      </a>
+      <div>
+         <a href="../user-guide/approvals/overview.md">
+         <strong>Revisar e aprovar</strong>
+         </a>
+      </div>
+      <p>
+         <em>Orquestrar a revisão e aprovação simplificadas de ativos de marketing.</em>
+      </p>
+   </td>
+   <td valign="top">
+      <a href="../user-guide/content/overview.md">
+      <img alt="Grade" src="../assets/icons/icon-images.svg" width="35">
+      </a>
+      <div>
+         <a href="../user-guide/content/overview.md">
+         <strong>Gerenciar conteúdo</strong>
+         </a>
+      </div>
+      <p>
+         <em>Localize, gerencie e redefina os objetivos do conteúdo mantendo as diretrizes da marca.</em>
+      </p>
+   </td>
+   <td valign="top">
+      <a href="../user-guide/insights/overview.md">
+      <img alt="Gráfico" src="../assets/icons/icon-dataAnalytics.svg" width="35">
+      </a>
+      <div>
+         <a href="../user-guide/insights/overview.md">
+         <strong>Exibir Insights</strong>
+         </a>
+      </div>
+      <p>
+         <em>Analise a eficácia do conteúdo de canais de mídia paga.</em>
+      </p>
+   </td>
+</tr>
+</table>
+
+## Saiba como
+
+<table style="table-layout:fixed">
+<td valign="top">
+   <div>
+      <a href="/help/user-guide/guidelines/add-guidelines.md">
+      <img alt="Adicionar diretrizes" src="../assets/card-guidelines.png">
+      <strong>Adicionar diretrizes</strong>
+      </a>
+   </div>
+   <p>
+      <em>Saiba como adicionar diretrizes — Marcas, Produtos e Personalidades — à GenStudio for Performance Marketing.</em>
+   </p>
+</td>
+<td valign="top">
+   <div>
+      <a href="/help/user-guide/create/create-email-experience.md">
+      <img alt="Ideias, livros, lápis, computador" src="../assets/card-create-assets.png">
+      <strong>Criar uma experiência de email</strong>
+      </a>
+   </div>
+   <p>
+      <em>Saiba como criar uma experiência de email sobre marcas.</em>
+   </p>
+</td>
+<td valign="top">
+   <div>
+      <a href="/help/user-guide/create/create-meta-ad.md">
+      <img alt="Pessoas movendo arquivos para uma pasta" src="../assets/card-manage-content.png">
+      <strong>Criar uma experiência de meta-anúncio</strong>
+      </a>
+   </div>
+   <p>
+      <em>Saiba como criar uma experiência de Metadados alinhados à marca.</em>
+   </p>
+</td>
+</table>
+
+
+(Fim do GSPM)
+
+
+
+
+
+
+
 ## Faça logon na Experience Cloud {#signin}
 
 Faça logon e verifique se você está na [organização](administration/organizations.md) correta.
 
 1. Acesse a [Adobe Experience Cloud](https://experience.adobe.com).
-1. Digite seu endereço de email do Adobe e clique em **[!UICONTROL Continuar]**.
+1. Digite o seu endereço de email da Adobe e clique em **[!UICONTROL Continuar]**.
 1. Selecione uma conta.
 1. Insira sua senha.
 1. Verifique se você está na organização correta.
@@ -90,13 +212,13 @@ Para gerenciar notificações e alertas, consulte [Preferências e notificaçõe
 
 ## Novidades
 
-Saiba mais sobre as melhorias mais recentes nos componentes da interface central do Experience Cloud.
+Saiba mais sobre os últimos aprimoramentos dos componentes da interface central do Experience Cloud.
 
 >[!BEGINTABS]
 
->Integração do [!TAB Slack com o Experience Cloud]
+>[!TAB Integração do Slack com o Experience Cloud]
 
-Você pode configurar suas preferências de conta para enviar notificações de Experience Cloud para um canal [!DNL Slack].
+Você pode configurar suas preferências de conta para enviar notificações do Experience Cloud para um canal [!DNL Slack].
 
 [!BADGE Beta]{type=Informative url="https://experienceleague.adobe.com/en/docs/core-services/interface/features/account-preferences#notifications" tooltip="Saiba mais sobre o Slack"}
 

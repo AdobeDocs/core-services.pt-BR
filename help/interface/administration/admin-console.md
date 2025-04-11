@@ -1,6 +1,6 @@
 ---
 title: Gerenciamento de licenças de usuários e produtos
-description: Gerencie usuários e licenças de produto no Admin Console para aplicativos Experience Cloud.
+description: Gerencie usuários e licenças de produtos no Admin Console para aplicativos da Experience Cloud.
 application: Experience Cloud
 index: true
 feature: Admin Console
@@ -11,7 +11,7 @@ exl-id: c82821c4-aa5d-48ae-8bef-5937fede8db2
 source-git-commit: ce65c5292caaa4a24945e2119e78fd97a7d84109
 workflow-type: tm+mt
 source-wordcount: '749'
-ht-degree: 5%
+ht-degree: 7%
 
 ---
 

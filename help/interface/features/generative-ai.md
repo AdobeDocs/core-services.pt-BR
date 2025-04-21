@@ -10,10 +10,10 @@ hide: false
 hidefromtoc: true
 index: n
 exl-id: bdc51956-82aa-4aae-b627-a2018f80b5f5
-source-git-commit: fb9d3c45beca38e1ca372b24565946bf1a1da839
+source-git-commit: d54af09033b1a0727e9b7aa3dbf4a9be6003a8ea
 workflow-type: tm+mt
-source-wordcount: '1392'
-ht-degree: 4%
+source-wordcount: '1371'
+ht-degree: 3%
 
 ---
 
@@ -44,12 +44,20 @@ As respostas do Experience League ao conhecimento do produto são verificáveis 
 * [Assistente de IA no Journey Optimizer](#journey-optimizer)
 * [ADOBE JOURNEY OPTIMIZER PRIME e ULTIMATE](#ajo-prime-ultimate)
 * [Journey Optimizer edição B2B](#ajo-b2b)
+* [Assistente de IA no Journey Optimizer Prime e Ultimate](#ajo-prime-ultimate)
+* [Assistente de IA no Journey Optimizer B2B edition](#ajo-b2b)
+* [Assistente de IA no Campaign Managed Cloud Services](#campaign-cs)
+* [Assistente de IA no Customer Journey Analytics](#cja)
+* [Legendas inteligentes no Customer Journey Analytics](#cja-captions)
+* [Assistente de IA no Real-Time CDP](#rtcdp)
+* [Dynamic Chat no Marketo](#marketo)
+* [Assistente de IA no Workfront](#workfront)
 
 ### GenStudio para marketing de desempenho {#gspm}
 
-O [GenStudio for Performance Marketing](https://experienceleague.adobe.com/pt-br/docs/genstudio-for-performance-marketing/user-guide/home) é uma plataforma gerativa orientada por IA que permite criar, entregar e otimizar ativos da campanha. Seus recursos de IA gerativos transformam a forma como o conteúdo de marketing é criado, revisado, compartilhado e analisado.
+[GenStudio for Performance Marketing](https://experienceleague.adobe.com/pt-br/docs/genstudio-for-performance-marketing/user-guide/home) não é um recurso, mas uma plataforma gerativa orientada por IA. Seus recursos de IA gerativos transformam a forma como o conteúdo de marketing é criado, revisado, compartilhado e analisado.
 
-O recurso _Criação de GenStudio for Performance Marketing_ (ou simplesmente _Criação_) permite que profissionais de marketing e equipes distribuídas criem experiências de alto desempenho sobre a marca. É possível gerar conteúdo para:
+Na página inicial [Criar](https://experienceleague.adobe.com/en/docs/genstudio-for-performance-marketing/user-guide/create/overview), você pode criar experiências com alto desempenho e sobre as marcas. Gerar conteúdo para:
 
 * Emails
 * Meta ads
@@ -93,7 +101,7 @@ Exemplo:
 
 * _Quantas atividades ativas posso ter em uma sandbox da Adobe Journey Optimizer?_
 
-**Insights Operacionais (Beta)** - Consulta um repositório de dados de insights operacionais específicos do cliente que contém dados operacionais centralizados sobre o Jornada, particionados pela sandbox do cliente. Esse recurso extrai metadados somente de objetos comerciais e não acessa dados na sandbox.
+**Insights Operacionais (Beta)** - O Assistente de IA consulta um repositório de dados de insights operacionais específicos do cliente que contém dados operacionais centralizados sobre o Jornada, particionados pela sandbox do cliente. Esse recurso extrai metadados somente de objetos comerciais e não acessa dados na sandbox.
 
 Exemplo de prompt:
 
@@ -105,7 +113,7 @@ O _Jornada_ é o único objeto disponível para o Assistente de IA no Journey Op
 
 **Compatível com o Adobe Firefly:** Não
 
-## JOURNEY OPTIMIZER PRIME e ULTIMATE {#ajo-prime-ultimate}
+## Assistente de IA no Journey Optimizer Prime e Ultimate {#ajo-prime-ultimate}
 
 O Journey Optimizer Prime e o Ultimate usam o [Assistente de IA para Acelerador de Conteúdo](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/content-management/ai-assistant/gs-generative) para oferecer sugestões de variação de conteúdo pró-ativo para texto e imagens.
 
@@ -117,33 +125,27 @@ Este recurso está disponível para [email](https://experienceleague.adobe.com/e
 
 ## Assistente de IA no Journey Optimizer B2B edition {#ajo-b2b}
 
-O Journey Optimizer B2B edition usa o [Assistente de IA](https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/user/get-started/ai-assistant) para ajudá-lo com o conhecimento do produto, com base nos prompts de conhecimento do produto.
+O Journey Optimizer B2B edition usa o [Assistente de IA](https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/user/ai-assistant/ai-assistant-overview) para ajudá-lo com o conhecimento do produto, com base nos prompts de conhecimento do produto.
 
 **Conhecimento sobre o produto** - Consulta armazenamentos de dados da Adobe (como a documentação do produto da Experience League) para o insight do produto. Essa saída é independente do cliente.
 
 * **Entrada:** Como faço para enviar um email em uma jornada de conta?
 
-* **Saída:** o Conhecimento do Produto é extraído do Experience League (documentação pública). [Saiba mais...](https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/user/get-started/ai-assistant)
+* **Saída:** o Conhecimento do Produto é extraído do Experience League (documentação pública). [Saiba mais...](https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/user/ai-assistant/question-guidance)
 
 **Compatível com o Adobe Firefly:** Não
 
-## Cloud Services gerenciados pelo Campaign
+## Assistente de IA no Campaign Managed Cloud Services {#campaign-cs}
 
-O Campaign Managed Cloud Services usa o [Assistente de IA para Acelerador de conteúdo](https://experienceleague.adobe.com/en/docs/campaign-web/v8/content/ai-assistant/generative-gs) para gerar automaticamente conteúdo personalizado, envolvente e eficaz com base no objetivo de marketing, com conteúdo otimizado para estilos, layouts, tom e muito mais em canais como email, SMS e push.
-
-* **Email** - Gerar um email completo, somente texto ou somente imagem. [Saiba mais](https://experienceleague.adobe.com/en/docs/campaign-web/v8/content/ai-assistant/generative-content)
-
-* **SMS** - Gerar somente SMS completo ou texto. [Saiba mais...](https://experienceleague.adobe.com/en/docs/campaign-web/v8/content/ai-assistant/generative-sms)
-
-* **Push** - Criar mensagens atraentes e gerar conteúdo. [Saiba mais...](https://experienceleague.adobe.com/en/docs/campaign-web/v8/content/ai-assistant/generative-push)
+O Campaign Managed Cloud Services usa o [Assistente de IA para Acelerador de Conteúdo](https://experienceleague.adobe.com/en/docs/campaign-web/v8/content/ai-assistant/generative-gs). Esse recurso permite gerar automaticamente conteúdo personalizado, envolvente e eficaz com base em seu objetivo de marketing, com conteúdo otimizado para estilos, layouts, tons e muito mais. Você pode usá-lo em canais como [email](https://experienceleague.adobe.com/en/docs/campaign-web/v8/content/ai-assistant/generative-content), [SMS](https://experienceleague.adobe.com/en/docs/campaign-web/v8/content/ai-assistant/generative-sms) e [push](https://experienceleague.adobe.com/en/docs/campaign-web/v8/content/ai-assistant/generative-push).
 
 **Observação:** a saída do Acelerador de Conteúdo no Campaign Managed Cloud Services é indenizada.
 
 **Compatível com o Adobe Firefly:** Sim
 
-## Customer Journey Analytics - Assistente de IA
+## Assistente de IA no Customer Journey Analytics {#cja}
 
-O CJA usa o [Assistente de IA](https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-overview/ai-assistant) para ajudar você a descobrir o conhecimento e os insights do produto no Experience League.
+O Customer Journey Analytics usa o [Assistente de IA](https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-overview/ai-assistant) para ajudar você a descobrir o conhecimento e os insights do produto no Experience League.
 
 **Exemplo de prompt:** Como criar uma métrica calculada?
 
@@ -153,29 +155,17 @@ Usuários experientes podem usar o AI Assistant para apresentar casos de uso mai
 
 **Compatível com o Adobe Firefly:** Não
 
-## Customer Journey Analytics - Legendas inteligentes
+## Legendas inteligentes no Customer Journey Analytics {#cja-captions}
 
-[Legendas inteligentes](https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-workspace/visualizations/intelligent-captions) fornecem insights de linguagem natural para visualizações de linha em visualizações Workspace.
-
-**Exemplo de entrada:** visualizações de linha. As legendas são geradas automaticamente com base nessas visualizações de linha quando você clica em **Legendas inteligentes**.
-
-**Saída:** Legendas de linguagem natural geradas automaticamente.
+As [Legendas inteligentes](https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-workspace/visualizations/intelligent-captions) no Customer Journey Analytics fornecem insights de linguagem natural para as visualizações do Workspace usadas com mais frequência.
 
 **Compatível com o Adobe Firefly:** Não
 
-## Real-Time CDP
+## Assistente de IA no Real-Time CDP {#rtcdp}
 
-O Real-Time CDP usa o [Assistente de IA](https://experienceleague.adobe.com/pt-br/docs/experience-platform/ai-assistant/home) para ajudar você a descobrir o conhecimento e os insights do produto no Experience League. Ele consulta um banco de dados e traduz os dados do banco de dados em uma resposta legível.
+O Real-Time CDP usa o [Assistente de IA](https://experienceleague.adobe.com/pt-br/docs/experience-platform/ai-assistant/home) para ajudar você a descobrir o conhecimento e os insights do produto no Experience League. [Obtenha dicas](https://experienceleague.adobe.com/en/docs/experience-platform/ai-assistant/questions) sobre como fazer perguntas.
 
-Há duas classes de perguntas disponíveis:
-
-**Conhecimento sobre o produto** - Consulta armazenamentos de dados da Adobe (como a documentação do produto da Experience League) para o insight do produto. Essa saída é independente do cliente.
-
-Por exemplo:
-
-* _Como é calculada a riqueza do perfil?_
-
-**Insights Operacionais (Beta)** - Consulta um repositório de dados de insights operacionais específicos do cliente que contém dados operacionais centralizados, particionados pela sandbox da AEP do cliente. Extrai metadados somente de Atributos, Públicos-alvo, Fluxos de dados, Conjuntos de dados, Destinos, Esquemas e Fontes, e não acessa dados na sandbox.
+Ele também oferece insights operacionais (em beta). O Assistente de IA consulta um armazenamento de dados de insights operacionais específicos do cliente que contém dados operacionais centralizados, particionados pela sandbox da AEP do cliente. Ele extrai metadados somente de Atributos, Públicos-alvo, Fluxos de dados, Conjuntos de dados, Destinos, Esquemas e Fontes e não acessa dados na sandbox.
 
 Por exemplo, para uma consulta sobre uma audiência, [!DNL AI Assistant] pode acessar o nome da audiência e outros metadados associados, mas não pode acessar os perfis dentro dessa audiência.
 
@@ -189,12 +179,11 @@ Para obter mais exemplos, consulte as tabelas de entrada _Conhecimento do Produt
 
 **Compatível com o Firefly:** Não
 
-
-## Marketo
+## Dynamic Chat no Marketo {#marketo}
 
 O [Dynamic Chat](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/demand-generation/dynamic-chat/dynamic-chat-overview) cria conversas assistidas por IA com perguntas e respostas personalizadas e pré-aprovadas, bem como um resumo da conversa |<ul><li> **Gerar Perguntas** Forneça URLs das quais o conteúdo é extraído e usado para gerar perguntas/respostas. </li><li> **Resumo da Conversa:** gera um resumo de uma conversa de chat. </li></ul> [Saiba mais...](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/demand-generation/dynamic-chat/generative-ai/response-library)  | Não |
 
-## Workfront
+## Assistente de IA no Workfront {#workfront}
 
 O [Assistente de IA](https://experienceleague.adobe.com/en/docs/workfront/using/basics/ai-assistant/ai-assistant-overview) do Workfront ajuda você a realizar seu trabalho, oferecendo informações e sugestões no aplicativo em uma conversa em idioma natural. O AI Assistant oferece a seguinte funcionalidade: resume projetos/tarefas/problemas/documentos, fornece instruções ou informações de referência extraídas da documentação do Workfront no Experience League, gera ou refina fórmulas para campos personalizados calculados.  | <ul><li>**Resumir a Entrada do Projeto:** Resuma este projeto </li><li> **Resumir Saída do Projeto:** Retorna descrições breves da finalidade e do status do projeto, fornece exemplos de tarefas concluídas e ainda pendentes e fornece detalhes e observações adicionais.</li><li> **Gerar/Refinar Entrada de Fórmula:** &quot;Reescreva esta fórmula para remover o erro de expressão inválida.&quot; </li><li> **Gerar/Refinar Saída de Fórmula:** Fórmula gerada ou refinada. </li></ul>**Observação:** o AI Assistant pode levar alguns minutos para gerar a fórmula revisada, dependendo do tamanho e da complexidade da fórmula. | Não  |
 

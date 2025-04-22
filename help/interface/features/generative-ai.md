@@ -1,34 +1,38 @@
 ---
 title: IA em aplicativos da Experience Cloud
-description: Saiba mais sobre IA gerativa e como os aplicativos do Experience Cloud usam o genAI e o Assistente de IA.
+description: Saiba mais sobre a IA gerativa e como os aplicativos do Experience Cloud usam a genAI e o  [!DNL AI Assistant].
 solution: Experience Cloud
 feature: AI Assistant, Generative AI
 topic: Administration
 role: Admin
 level: Intermediate
 exl-id: bdc51956-82aa-4aae-b627-a2018f80b5f5
-source-git-commit: a5d595fc8ee9b76ee1bf4a24364674a3af447b2a
+source-git-commit: 4676c606f132ab835e0d1f8cdbc81d932e358028
 workflow-type: tm+mt
-source-wordcount: '1109'
-ht-degree: 4%
+source-wordcount: '1041'
+ht-degree: 3%
 
 ---
 
 # IA em produtos da Experience Cloud
 
-A IA gerativa é um tipo de inteligência artificial que faz mais do que simplesmente responder a perguntas. Ele _cria_ conteúdo e _responde_ aos seus _prompts_ (perguntas e instruções).
+Esta página ajuda você a saber quais produtos oferecem suporte à IA gerativa [!DNL AI Assistant] e se o Adobe Firefly é compatível. Você também pode encontrar links para recursos de ajuda específicos do produto sobre como usar a IA no Experience Cloud.
 
-* **Criar:** refere-se à capacidade da IA de gerar novo conteúdo (texto, imagens, música ou vídeos) do zero, com base em seu treinamento e prompts de entrada. Esta habilidade é o aspecto _gerativo_ da IA gerativa.
+**Sobre a IA de geração**
 
-* **Responder:** refere-se à IA que fornece uma resposta ou reação a um prompt específico, normalmente com base em seu conhecimento ou em seus recursos de raciocínio.
+A IA gerativa é um tipo de inteligência artificial que faz mais do que simplesmente responder a perguntas. Ele pode _criar_ conteúdo e _responder_ às suas perguntas ou instruções (conhecidos como _prompts_).
 
-Se você é novo no Experience Cloud, pode usar IA gerativa para obter conhecimento sobre o produto rapidamente. Como usuário experiente, você pode descobrir insights operacionais em segundos em vez de horas.
+* **Crie:** a capacidade da IA de gerar novo conteúdo (texto, imagens, música ou vídeos) do zero, com base em seu treinamento e prompts de entrada. Esta habilidade é o aspecto _gerativo_ da IA gerativa.
 
-**Sobre o Assistente de IA**
+* **Responder:** a IA está fornecendo uma resposta ou reação a um prompt, normalmente com base em seu conhecimento ou recursos de raciocínio.
 
-O Assistente de IA é uma ferramenta conversacional compatível com o Experience Platform e aplicativos relacionados. Use-o para acelerar seus fluxos de trabalho, melhorar o conhecimento sobre o produto, solucionar problemas ou pesquisar informações. Em certos aplicativos, o Assistente de IA permite descobrir insights operacionais imediatamente.
+Com a IA gerativa, você pode obter conhecimento sobre o produto rapidamente se for novo no Experience Cloud. Usuários experientes podem descobrir insights operacionais em segundos em vez de horas.
 
-As respostas do Experience League ao conhecimento do produto são verificáveis e citadas com links. Saiba mais sobre os tipos de [prompts baseados em objetivos](https://experienceleague.adobe.com/pt-br/docs/experience-platform/ai-assistant/home) para aproveitar ao máximo o Assistente de IA.
+**O que é [!DNL AI Assistant]?**
+
+[!DNL AI Assistant] é uma ferramenta conversacional com suporte no Experience Platform e em aplicativos relacionados. Esses aplicativos o usam de forma semelhante, mas com vantagens específicas do produto. Use-o para acelerar seus fluxos de trabalho, melhorar o conhecimento sobre o produto, solucionar problemas ou pesquisar informações. Em certos aplicativos, o [!DNL AI Assistant] permite que você descubra insights operacionais imediatamente.
+
+As respostas do Experience League ao conhecimento do produto são verificáveis e citadas com links. Saiba mais sobre os tipos de [prompts baseados em objetivos](https://experienceleague.adobe.com/pt-br/docs/experience-platform/ai-assistant/home) para aproveitar ao máximo o [!DNL AI Assistant].
 
 [Saiba mais](https://experienceleague.adobe.com/en/docs/experience-platform/ai-assistant/landing)
 
@@ -44,23 +48,23 @@ In AI Assistant, security is the priority:
 
 ## Disponibilidade de IA em produtos da Experience Cloud
 
-Saiba mais sobre o suporte à IA gerativa ou ao Assistente de IA em produtos da Experience Cloud e se o Adobe Firefly é compatível.
+Saiba mais sobre o suporte para IA gerativa ou [!DNL AI Assistant] em produtos da Experience Cloud e se há suporte para o Adobe Firefly.
 
-* [GenStudio para marketing de desempenho](#gspm)
-* [Gerar variações no Experience Manager Sites](#aem-sites)
-* [Assistente de IA no Journey Optimizer](#journey-optimizer)
-* [Assistente de IA no Journey Optimizer Prime e Ultimate](#ajo-prime-ultimate)
-* [Assistente de IA no Journey Optimizer B2B edition](#ajo-b2b)
-* [Assistente de IA na interface do usuário da Web do Campaign v8](#campaign-cs)
-* [Assistente de IA no Customer Journey Analytics](#cja)
-* [Legendas inteligentes no Customer Journey Analytics](#cja-captions)
-* [Assistente de IA no Real-Time CDP](#rtcdp)
-* [Dynamic Chat no Marketo](#marketo)
-* [Assistente de IA no Workfront](#workfront)
+* [[!DNL GenStudio for Performance Marketing]](#gspm)
+* [Gerar Variações em  [!DNL Experience Manager Sites]](#aem-sites)
+* [[!DNL AI Assistant] em [!DNL Journey Optimizer]](#journey-optimizer)
+* [[!DNL AI Assistant] no [!DNL Journey Optimizer] Prime e Ultimate](#ajo-prime-ultimate)
+* [[!DNL AI Assistant] em [!DNL Journey Optimizer] B2B edition](#ajo-b2b)
+* [[!DNL AI Assistant] na Interface do Usuário da Web do  [!DNL Campaign] v8](#campaign-cs)
+* [[!DNL AI Assistant] em [!DNL Customer Journey Analytics]](#cja)
+* [Legendas inteligentes em  [!DNL Customer Journey Analytics]](#cja-captions)
+* [[!DNL AI Assistant] em [!DNL Real-Time CDP]](#rtcdp)
+* [Dynamic Chat em [!DNL Marketo]](#marketo)
+* [[!DNL AI Assistant] em [!DNL Workfront]](#workfront)
 
 ## GenStudio para marketing de desempenho {#gspm}
 
-O GenStudio for Performance Marketing é uma plataforma orientada por IA que permite gerar e gerenciar conteúdo de marketing que segue os padrões da sua marca e está em conformidade com as políticas da empresa. Gere conteúdo para emails, Meta anúncios, anúncios do LinkedIn, anúncios de exibição e banners.
+O [!DNL GenStudio for Performance Marketing] é uma plataforma orientada por IA que permite gerar e gerenciar conteúdo de marketing que segue os padrões da sua marca e está em conformidade com as políticas da empresa. Gere conteúdo para emails, Meta anúncios, anúncios do LinkedIn, anúncios de exibição e banners.
 
 Você também pode treinar a GenStudio for Performance Marketing em sua marca usando exemplos, descrições de personas e produtos do cliente e diretrizes de marca.
 
@@ -68,9 +72,9 @@ Você também pode treinar a GenStudio for Performance Marketing em sua marca us
 
 Compatibilidade com o Adobe Firefly: **Planejada**
 
-## Gerar variações no Experience Manager Sites {#aem-sites}
+## Gerar variações em [!DNL Experience Manager Sites] {#aem-sites}
 
-Gerar variações no AEM Sites usa a IA gerativa para criar variações de conteúdo com base em prompts. Esses prompts são fornecidos pela Adobe ou criados e gerenciados por você.
+[!UICONTROL Gerar variações] no AEM Sites usa a IA gerativa para criar variações de conteúdo com base em prompts. Esses prompts são fornecidos pela Adobe ou criados e gerenciados por você.
 
 Depois de criar variações, você pode usar o conteúdo em seu site e medir seu sucesso usando o recurso Experimentação no Edge Delivery Services. Você também tem a opção de gerar imagens no Adobe Express usando os recursos de IA geradores do Firefly.
 
@@ -78,21 +82,21 @@ Depois de criar variações, você pode usar o conteúdo em seu site e medir seu
 
 Compatibilidade com o Adobe Firefly: **Sim**
 
-## Assistente de IA no Journey Optimizer {#journey-optimizer}
+## Assistente de IA em [!DNL Journey Optimizer] {#journey-optimizer}
 
-No Journey Optimizer, use o Assistente de IA para obter conhecimento sobre o produto e insights operacionais. Por exemplo, pergunte _Quantas atividades online posso ter em uma sandbox da Journey Optimizer?_ Você receberá imediatamente sua resposta do Experience League e de outros armazenamentos de dados da Adobe.
+Em [!DNL Journey Optimizer], use o [!DNL AI Assistant] para obter conhecimento sobre o produto e insights operacionais. Por exemplo, pergunte _Quantas atividades online posso ter em uma sandbox da Journey Optimizer?_ Você receberá imediatamente sua resposta do Experience League e de outros armazenamentos de dados da Adobe.
 
-O Assistente de IA também ajuda com insights operacionais (beta). Por exemplo, você pode saber rapidamente quantas Jornadas foram criadas nos últimos sete dias.
+[!DNL AI Assistant] também ajuda com insights operacionais (beta). Por exemplo, você pode saber rapidamente quantas Jornadas foram criadas nos últimos sete dias.
 
-Para insights operacionais, o Assistente de IA consulta um armazenamento de dados específico do cliente. O repositório de dados contém dados operacionais e centralizados sobre [!UICONTROL Jornada]. Esse recurso é independente do cliente e extrai metadados somente de objetos de negócios. Ele não acessa dados na sandbox.
+Para insights operacionais, [!DNL AI Assistant] consulta um armazenamento de dados específico do cliente. O repositório de dados contém dados operacionais e centralizados sobre [!UICONTROL Jornada]. Esse recurso é independente do cliente e extrai metadados somente de objetos de negócios. Ele não acessa dados na sandbox.
 
 [Saiba mais](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/get-started/ai-assistant).
 
 Compatibilidade com o Adobe Firefly: **Não**
 
-## Assistente de IA no Journey Optimizer Prime e Ultimate {#ajo-prime-ultimate}
+## Assistente de IA no [!DNL Journey Optimizer] Prime e Ultimate {#ajo-prime-ultimate}
 
-O Journey Optimizer Prime e o Ultimate usam o AI Assistant for Content Accelerator para oferecer sugestões proativas de variação de conteúdo para texto e imagens.
+O [!DNL Journey Optimizer] Prime e o Ultimate usam o [!DNL AI Assistant] for Content Accelerator para fornecer sugestões de variação de conteúdo pró-ativo para texto e imagens.
 
 Esse recurso está disponível para email, notificações por push, página da Web, conteúdo e canais SMS. Ele fornece geração de texto e imagem com base em prompt. A saída do Acelerador de conteúdo no AJO Prime e no Ultimate é indenizada.
 
@@ -100,17 +104,17 @@ Esse recurso está disponível para email, notificações por push, página da W
 
 Compatibilidade com o Adobe Firefly: **Sim**
 
-## Assistente de IA no Journey Optimizer B2B edition {#ajo-b2b}
+## Assistente de IA em [!DNL Journey Optimizer B2B Edition] {#ajo-b2b}
 
-O Journey Optimizer B2B edition usa o Assistente de IA para ajudá-lo com o conhecimento do produto.
+O Journey Optimizer B2B edition usa o [!DNL AI Assistant] para ajudá-lo com o conhecimento do produto.
 
 [Saiba mais](https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/user/ai-assistant/ai-assistant-overview)
 
 Compatibilidade com o Adobe Firefly: **Não**
 
-## Assistente de IA na interface do usuário da Web do Campaign v8  {#campaign-cs}
+## Assistente de IA na interface do usuário da Web do [!DNL Campaign] v8 {#campaign-cs}
 
-O Campaign Managed Cloud Services usa o Assistente de IA para Acelerador de conteúdo. Esse recurso permite gerar automaticamente conteúdo personalizado, envolvente e eficaz com base em seu objetivo de marketing, com conteúdo otimizado para estilos, layouts, tons e muito mais. Você pode usá-lo em canais como email, SMS e push.
+O Campaign Managed Cloud Services usa [!DNL AI Assistant] para o Acelerador de Conteúdo. Esse recurso permite gerar automaticamente conteúdo personalizado, envolvente e eficaz com base em seu objetivo de marketing, com conteúdo otimizado para estilos, layouts, tons e muito mais. Você pode usá-lo em canais como email, SMS e push.
 
 **Observação:** a saída do Acelerador de Conteúdo no Campaign Managed Cloud Services é indenizada.
 
@@ -118,9 +122,9 @@ O Campaign Managed Cloud Services usa o Assistente de IA para Acelerador de cont
 
 Compatibilidade com o Adobe Firefly: **Sim**
 
-## Assistente de IA no Customer Journey Analytics {#cja}
+## Assistente de IA em [!DNL Customer Journey Analytics] {#cja}
 
-O Customer Journey Analytics usa o Assistente de IA para ajudar você a descobrir o conhecimento e os insights do produto no Experience League. Se você for um novo usuário, aprenda rapidamente os conceitos do Customer Journey Analytics e integre-se aos produtos e recursos.
+O Customer Journey Analytics usa o [!DNL AI Assistant] para ajudar você a descobrir o conhecimento e os insights do produto no Experience League. Se você for um novo usuário, aprenda rapidamente os conceitos do Customer Journey Analytics e integre-se aos produtos e recursos.
 
 Usuários experientes obtêm casos de uso avançados ou aprendem estratégias para executar tarefas em um ritmo rápido. Entenda conceitos, solucione problemas ou pesquise informações.
 
@@ -128,17 +132,17 @@ Usuários experientes obtêm casos de uso avançados ou aprendem estratégias pa
 
 Compatibilidade com o Adobe Firefly: **Não**
 
-## Legendas inteligentes no Customer Journey Analytics {#cja-captions}
+## Legendas inteligentes em [!DNL Customer Journey Analytics] {#cja-captions}
 
-As Legendas inteligentes no Customer Journey Analytics fornecem insights em linguagem natural para as visualizações do Workspace usadas com mais frequência. As legendas inteligentes são ideais para analistas que precisam de narrativas e contexto para compartilhar com outros usuários. Os usuários empresariais podem usá-lo para descobrir rapidamente os principais pontos de partida.
+As Legendas inteligentes no [!DNL Customer Journey Analytics] fornecem insights em linguagem natural para as visualizações do Workspace usadas com mais frequência. As legendas inteligentes são ideais para analistas que precisam de narrativas e contexto para compartilhar com outros usuários. Os usuários empresariais podem usá-lo para descobrir rapidamente os principais pontos de partida.
 
 [Saiba mais](https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-workspace/visualizations/intelligent-captions)
 
 Compatibilidade com o Adobe Firefly: **Não**
 
-## Assistente de IA no Real-Time CDP {#rtcdp}
+## Assistente de IA em [!DNL Real-Time CDP] {#rtcdp}
 
-O Real-Time CDP usa o Assistente de IA para ajudá-lo com o conhecimento do produto da Experience League. Ele também oferece insights operacionais (em beta). O Assistente de IA consulta um armazenamento de dados de insights operacionais específicos do cliente que contém dados operacionais centralizados, particionados em sua sandbox da AEP. O sistema extrai metadados somente de Atributos, Públicos-alvo, Fluxos de dados, Conjuntos de dados, Destinos, Esquemas e Fontes e não acessa dados na sandbox.
+A Real-Time CDP usa o [!DNL AI Assistant] para ajudá-lo com o conhecimento do produto da Experience League. Ele também oferece insights operacionais (em beta). O [!DNL AI Assistant] consulta um repositório de dados de insights operacionais específicos do cliente que contém dados operacionais centralizados, particionados em sua sandbox da AEP. O sistema extrai metadados somente de Atributos, Públicos-alvo, Fluxos de dados, Conjuntos de dados, Destinos, Esquemas e Fontes e não acessa dados na sandbox.
 
 Por exemplo, se você consultar sobre um público-alvo, [!DNL AI Assistant] pode acessar o nome do público-alvo e outros metadados associados, mas não pode acessar os perfis desse público-alvo.
 
@@ -146,7 +150,7 @@ Por exemplo, se você consultar sobre um público-alvo, [!DNL AI Assistant] pode
 
 Compatibilidade com o Adobe Firefly: **Não**
 
-## Dynamic Chat no Marketo {#marketo}
+## Dynamic Chat em [!DNL Marketo] {#marketo}
 
 Os recursos alimentados por IA gerativa no Adobe Dynamic Chat permitem otimizar a produtividade de seus agentes de vendas, obter insights sobre a intenção de visitante do site e responder às perguntas do visitante de maneira segura. Você pode pré-aprovar as perguntas, as respostas e o resumo da conversa.
 
@@ -154,9 +158,9 @@ Os recursos alimentados por IA gerativa no Adobe Dynamic Chat permitem otimizar 
 
 Compatibilidade com o Adobe Firefly: **Não**
 
-## Assistente de IA no Workfront {#workfront}
+## [!DNL AI Assistant] em [!DNL Workfront] {#workfront}
 
-O Assistente de IA no Workfront ajuda você a realizar seu trabalho oferecendo informações e sugestões no aplicativo. É possível:
+O [!DNL AI Assistant] no [!DNL Workfront] ajuda você a realizar seu trabalho oferecendo informações e sugestões no aplicativo. É possível:
 
 * Obtenha resumos de alguns objetos, fornecendo uma exibição de alto nível da intenção ou dos detalhes do objeto.
 * Faça perguntas e deixe [!DNL AI Assistant] encontrar respostas no Experience League.

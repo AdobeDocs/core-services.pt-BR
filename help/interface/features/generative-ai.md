@@ -7,9 +7,9 @@ topic: Administration
 role: Admin
 level: Intermediate
 exl-id: bdc51956-82aa-4aae-b627-a2018f80b5f5
-source-git-commit: cadc0d7eaaa9acb868f96561c2a562d9d29fc9ac
+source-git-commit: 0e9f35807a856e87923b2ba48f37365870cbd339
 workflow-type: tm+mt
-source-wordcount: '1244'
+source-wordcount: '1174'
 ht-degree: 3%
 
 ---
@@ -36,15 +36,16 @@ A IA gerativa é um tipo de inteligência artificial que faz mais do que simples
 
 [Saiba mais](https://experienceleague.adobe.com/en/docs/experience-platform/ai-assistant/landing)
 
-**Seus dados permanecerão seus**
+<!-- **Your data remains yours**
 
-No Assistente de IA, a segurança é a prioridade:
+In AI Assistant, security is the priority:
 
-* Os dados do cliente não são usados para treinar modelos de idioma.
-* O Assistente de IA observa somente os documentos para os quais você o informa. Você está no controle.
-* Os membros da sua equipe podem usar o Assistente de IA somente em documentos que possam acessar.
-* Está pronto para auditoria: as respostas são atribuíveis aos documentos de origem.
-* Os controles corporativos estão em vigor para gerenciar quem tem acesso à IA na empresa.
+* Customer data is not used to train language models.
+* AI Assistant looks at only the documents that you tell it to. You are in control.
+* Your people can use AI Assistant only on documents they can access.
+* It's audit-ready: Responses are attributable to source documents.
+* Enterprise controls are in place to manage who has AI access in the company.
+ -->
 
 ## Disponibilidade de IA em produtos da Experience Cloud
 

@@ -7,16 +7,16 @@ topic: Administration
 role: Admin
 level: Intermediate
 exl-id: bdc51956-82aa-4aae-b627-a2018f80b5f5
-source-git-commit: d84fcf64b7019f0146340a423e8e20a932cd7874
+source-git-commit: 8f342544483dbd42f034fffd2e1c2b25833d5866
 workflow-type: tm+mt
-source-wordcount: '1168'
+source-wordcount: '1149'
 ht-degree: 3%
 
 ---
 
 # IA em produtos da Experience Cloud
 
-Esta página ajuda você a saber quais produtos oferecem suporte à IA gerativa [!DNL AI Assistant] e se o Adobe Firefly é compatível. Você também pode encontrar links para recursos de ajuda específicos do produto sobre como usar a IA no Experience Cloud.
+Esta página ajuda você a saber quais produtos oferecem suporte à IA gerativa [!DNL AI Assistant] e se o Adobe Firefly é compatível. Você também pode encontrar links para informações sobre como usar IA em aplicativos do Experience Cloud.
 
 **Sobre a IA de geração**
 
@@ -28,11 +28,11 @@ A IA gerativa é um tipo de inteligência artificial que faz mais do que simples
 
 **O que é [!DNL AI Assistant]?**
 
-[!DNL AI Assistant] é uma ferramenta conversacional com suporte no Experience Platform e em aplicativos relacionados. Use-o para obter rapidamente _conhecimento sobre o produto_ e, nos aplicativos compatíveis, obter _insights operacionais_ quase imediatamente.
+[!DNL AI Assistant] é uma ferramenta conversacional com suporte no Experience Platform e em aplicativos relacionados. Use-o para obter rapidamente _conhecimento sobre o produto_ e, nos produtos com suporte, _insights operacionais_ quase imediatamente.
 
-* **Conhecimento do Produto:** o conhecimento do produto refere-se a conceitos e tópicos com base na documentação do Experience League. As respostas do Experience League são verificáveis e citadas com links. Saiba mais sobre os tipos de [prompts baseados em objetivos](https://experienceleague.adobe.com/pt-br/docs/experience-platform/ai-assistant/home) para aproveitar ao máximo o [!DNL AI Assistant].
+* **Conhecimento do produto:** o conhecimento do produto refere-se a conceitos e tópicos com base na documentação do Experience League. Saiba como criar [prompts efetivos e baseados em objetivos](https://experienceleague.adobe.com/pt-br/docs/experience-platform/ai-assistant/home) para aproveitar ao máximo o [!DNL AI Assistant]. Todas as respostas do Experience League são verificáveis e citadas com links.
 
-* **Insights Operacionais:** os insights operacionais se referem às respostas que o Assistente de IA gera sobre os objetos de metadados (atributos, públicos, fluxos de dados, conjuntos de dados, destinos, jornadas, esquemas e fontes), incluindo contagens, pesquisas e impacto de linhagem. Com o AI Assistant, você pode descobrir insights operacionais em segundos em vez de horas.
+* **Insights operacionais:** [Os insights operacionais](https://experienceleague.adobe.com/en/docs/experience-platform/ai-assistant/questions#objects-questions) referem-se a respostas geradas sobre seus objetos de metadados (atributos, públicos, fluxos de dados, conjuntos de dados e assim por diante). Com o AI Assistant, você pode fazer em segundos o que, de outra forma, poderia levar horas ou dias.
 
 [Saiba mais](https://experienceleague.adobe.com/en/docs/experience-platform/ai-assistant/landing)
 
@@ -49,7 +49,7 @@ In AI Assistant, security is the priority:
 
 ## Disponibilidade de IA em produtos da Experience Cloud
 
-Saiba mais sobre o suporte para IA gerativa ou [!DNL AI Assistant] em produtos Experience Cloud. Também é indicado o suporte ao Adobe Firefly.
+Saiba como os aplicativos do Experience Cloud a seguir oferecem suporte à IA gerativa ou ao [!DNL AI Assistant]. Também é indicado o suporte ao Adobe Firefly.
 
 * [[!DNL GenStudio for Performance Marketing]](#gspm)
 * [[!DNL Experience Manager Sites]](#aem-sites)
@@ -90,9 +90,10 @@ Os campos de entrada incluem:
 
 A saída é conteúdo gerado ou cópia de mercado.
 
+Compatibilidade com o Adobe Firefly: **Sim**
+
 [Saiba mais sobre Gerar Variações](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/generative-ai/generate-variations-integrated-editor)
 
-Compatibilidade com o Adobe Firefly: **Sim**
 
 ## Adobe [!DNL Journey Optimizer] {#journey-optimizer}
 
@@ -114,7 +115,7 @@ Este é um exemplo de entrada para insights operacionais:
 
 [Saiba mais](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/get-started/ai-assistant).
 
-Compatibilidade com o Adobe Firefly: **Não**
+Compatibilidade com Adobe Firefly: **Não**
 
 ### Assistente de IA para geração de conteúdo (AJO Prime e Ultimate) {#ajo-prime}
 
@@ -138,7 +139,7 @@ Exemplo de entrada:
 
 [Saiba mais](https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/user/ai-assistant/ai-assistant-overview)
 
-Compatibilidade com o Adobe Firefly: **Não**
+Compatibilidade com Adobe Firefly: **Não**
 
 ## [!DNL Campaign] Managed Cloud Services {#campaign-cs}
 
@@ -162,7 +163,7 @@ Usuários experientes obtêm casos de uso avançados ou aprendem estratégias pa
 
 [Saiba mais](https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-overview/cja-b2c-overview/ai-assistant)
 
-Compatibilidade com o Adobe Firefly: **Não**
+Compatibilidade com Adobe Firefly: **Não**
 
 ## [!DNL Customer Journey Analytics] {#cja-captions}
 
@@ -176,7 +177,7 @@ Por exemplo:
 
 [Saiba mais](https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-workspace/visualizations/intelligent-captions)
 
-Compatibilidade com o Adobe Firefly: **Não**
+Compatibilidade com Adobe Firefly: **Não**
 
 ## [!DNL Real-Time CDP] {#rtcdp}
 
@@ -186,7 +187,7 @@ Por exemplo, se você consultar sobre um público-alvo, [!DNL AI Assistant] pode
 
 [Saiba mais](https://experienceleague.adobe.com/pt-br/docs/experience-platform/ai-assistant/home)
 
-Compatibilidade com o Adobe Firefly: **Não**
+Compatibilidade com Adobe Firefly: **Não**
 
 ## [!DNL Marketo] {#marketo}
 
@@ -194,7 +195,7 @@ Os recursos alimentados por IA gerativa no Adobe Dynamic Chat permitem otimizar 
 
 [Saiba mais](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/demand-generation/dynamic-chat/generative-ai/overview)
 
-Compatibilidade com o Adobe Firefly: **Não**
+Compatibilidade com Adobe Firefly: **Não**
 
 ## [!DNL Workfront] {#workfront}
 
@@ -207,4 +208,4 @@ O [!DNL AI Assistant] no [!DNL Workfront] ajuda você a realizar seu trabalho of
 
 [Saiba mais](https://experienceleague.adobe.com/en/docs/workfront/using/basics/ai-assistant/ai-assistant-overview)
 
-Compatibilidade com o Adobe Firefly: **Não**
+Compatibilidade com Adobe Firefly: **Não**

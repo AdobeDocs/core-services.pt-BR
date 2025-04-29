@@ -7,9 +7,9 @@ topic: Administration
 role: Admin
 level: Intermediate
 exl-id: bdc51956-82aa-4aae-b627-a2018f80b5f5
-source-git-commit: 0e9f35807a856e87923b2ba48f37365870cbd339
+source-git-commit: d84fcf64b7019f0146340a423e8e20a932cd7874
 workflow-type: tm+mt
-source-wordcount: '1174'
+source-wordcount: '1168'
 ht-degree: 3%
 
 ---
@@ -55,7 +55,7 @@ Saiba mais sobre o suporte para IA gerativa ou [!DNL AI Assistant] em produtos E
 * [[!DNL Experience Manager Sites]](#aem-sites)
 * [[!DNL Journey Optimizer]](#journey-optimizer)
 * [B2B edition [!DNL Journey Optimizer]](#ajo-b2b)
-* [[!DNL Campaign] Managed Services (Web do Campaign v8)](#campaign-cs)
+* [[!DNL Campaign] Managed Cloud Services](#campaign-cs)
 * [[!DNL Customer Journey Analytics]](#cja)
 * [[!DNL Customer Journey Analytics]](#cja-captions)
 * [[!DNL Real-Time CDP]](#rtcdp)
@@ -140,9 +140,9 @@ Exemplo de entrada:
 
 Compatibilidade com o Adobe Firefly: **Não**
 
-## [!DNL Campaign] Managed Services (Web do Campaign v8) {#campaign-cs}
+## [!DNL Campaign] Managed Cloud Services {#campaign-cs}
 
-O Campaign v8 (Campaign Managed Cloud Services) usa [!DNL AI Assistant] para geração de conteúdo. Esse recurso permite gerar automaticamente conteúdo personalizado, envolvente e eficaz com base em seu objetivo de marketing, com conteúdo otimizado para estilos, layouts, tons e muito mais. Você pode usá-lo em canais como email, SMS e push.
+O Campaign Managed Cloud Services usa [!DNL AI Assistant] para geração de conteúdo. Esse recurso permite gerar automaticamente conteúdo personalizado, envolvente e eficaz com base em seu objetivo de marketing, com conteúdo otimizado para estilos, layouts, tons e muito mais. Você pode usá-lo em canais como email, SMS e push.
 
 **Observação:** a saída da geração de conteúdo no Campaign Managed Cloud Services é indenizada.
 

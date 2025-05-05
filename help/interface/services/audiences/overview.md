@@ -77,4 +77,4 @@ A [!DNL Experience Cloud] oferece uma biblioteca para criar e gerenciar público
 
 ## Públicos-alvo da Publish no Adobe Analytics
 
-Consulte [Segmentos do Publish para o Experience Cloud](https://experienceleague.adobe.com/en/docs/analytics/components/segmentation/segmentation-workflow/seg-publish) na documentação do Adobe Analytics para obter mais informações.
+Consulte [Segmentos do Publish para o Experience Cloud](https://experienceleague.adobe.com/pt-br/docs/analytics/components/segmentation/segmentation-workflow/seg-publish) na documentação do Adobe Analytics para obter mais informações.

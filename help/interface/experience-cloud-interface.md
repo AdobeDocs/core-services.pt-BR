@@ -80,7 +80,7 @@ Clique no seletor de aplicativos ![menu](assets/menu-icon.png) para acessar os s
 
 ## Pesquisa e suporte na Experience Cloud {#search-support}
 
-A pesquisa na Experience Cloud permite procurar ajuda (documentação, tutoriais e cursos) na [Experience League](https://experienceleague.adobe.com/?lang=pt-BR#home).
+A pesquisa na Experience Cloud permite procurar ajuda (documentação, tutoriais e cursos) na [Experience League](https://experienceleague.adobe.com/pt-br?lang=pt-BR#home).
 
 ![Pesquisa e suporte na Experience Cloud](assets/search-menu.png)
 

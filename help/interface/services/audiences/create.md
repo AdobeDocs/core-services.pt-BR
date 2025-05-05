@@ -53,6 +53,7 @@ O exemplo a seguir mostra como criar as regras para um público-alvo composto. E
 1. Em [!UICONTROL Regras], selecione uma fonte de atributo:
 
    * **[!UICONTROL Dados de Real-Time Analytics:]** (ou dados brutos) são dados de atributos derivados de solicitações de imagens em tempo real do Analytics e incluem dados como eVars e eventos. Você deve selecionar um conjunto de relatórios ao usar essa fonte de atributo e definir a dimensão ou evento que será incluído. Essa seleção de conjunto de relatórios fornece a estrutura variável usada pelo conjunto de relatórios.
+
    >[!NOTE]
    >
    >Devido a questões relacionadas ao cache, conjuntos de relatórios excluídos no Analytics permanecem exibidos no Experience Cloud por 12 horas após a exclusão.

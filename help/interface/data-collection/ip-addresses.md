@@ -1,31 +1,31 @@
 ---
 title: Endereços IP usados pelo Experience Cloud
-description: Se o firewall da sua organização bloquear endereços IP originários do Adobe, use esta lista para atualizar as configurações do firewall.
+description: Se o firewall da sua organização bloquear endereços IP originários da Adobe, use esta lista para atualizar as configurações do firewall.
 exl-id: 1fca8d3b-ae8b-4095-96ef-d165f912b4c6
-source-git-commit: faa9b8067a85f86cc0b559bdeeaed80df2339c7d
+source-git-commit: 92f041f11cfa33c2e08e90c45e6fa46729447ac5
 workflow-type: tm+mt
-source-wordcount: '374'
+source-wordcount: '375'
 ht-degree: 11%
 
 ---
 
 # Endereços IP usados pelo Experience Cloud
 
-Algumas configurações de firewall bloqueiam endereços IP originados de servidores de coleta de dados do Adobe ou servidores responsáveis por acessar os dados do. Você pode usar essa lista de intervalos para alterar as configurações de firewall da sua organização para permitir acesso e enviar dados de dentro da organização. Esta página inclui sistemas de entrada (como a coleta de dados) e sistemas de saída (como feeds de dados no Adobe Analytics) que o Adobe usa.
+Algumas configurações de firewall bloqueiam endereços IP dos servidores de coleta de dados da Adobe ou dos servidores responsáveis por acessar os dados do. Você pode usar essa lista de intervalos para alterar as configurações de firewall da sua organização para permitir acesso e enviar dados de dentro da organização. Esta página inclui sistemas de entrada (como a coleta de dados) e sistemas de saída (como feeds de dados no Adobe Analytics) que a Adobe usa.
 
 >[!IMPORTANT]
 >
->Embora o Adobe faça o possível para manter esse documento atualizado, não é possível garantir que a lista de intervalos IP permaneça a mesma. As possíveis alterações incluem o crescimento e a expansão dos negócios, um registro da Internet exige alterações no espaço de endereço IP do Adobe ou um provedor de serviços de Internet deixa de funcionar.
+>Embora a Adobe faça o possível para manter esse documento atualizado, não é possível garantir que a lista de intervalos IP permanecerá a mesma. As possíveis alterações incluem o crescimento e a expansão dos negócios, um registro da Internet exige alterações no espaço de endereço IP da Adobe ou um provedor de serviços de Internet deixa de funcionar.
 
 Além dos blocos de endereço IP listados abaixo, os produtos Adobe Experience Cloud individuais têm seus próprios endereços IP que usam:
 
-* [Adobe Analytics](https://experienceleague.adobe.com/pt-br/docs/analytics/technotes/ip-addresses)
-* [Customer Journey Analytics](https://experienceleague.adobe.com/pt-br/docs/analytics-platform/using/technotes/ip-addresses)
-* [Marketo Engage](https://experienceleague.adobe.com/pt-br/docs/marketo/using/getting-started/initial-setup/configure-protocols-for-marketo#step-allowlist-marketo-ips)
+* [Adobe Analytics](https://experienceleague.adobe.com/en/docs/analytics/technotes/ip-addresses)
+* [Customer Journey Analytics](https://experienceleague.adobe.com/en/docs/analytics-platform/using/technotes/ip-addresses)
+* [Marketo Engage](https://experienceleague.adobe.com/en/docs/marketo/using/getting-started/initial-setup/configure-protocols-for-marketo#step-allowlist-marketo-ips)
 
 ## Todos os blocos de endereço IP do Adobe
 
-A tabela a seguir abrange todos os endereços IP de propriedade de Adobe. Essa tabela inclui todos os escritórios de funcionários de Adobe e data centers executados pelo Adobe globalmente. Não inclui serviços hospedados em nuvens públicas.
+A tabela a seguir abrange todos os endereços IP de propriedade da Adobe. Essa tabela inclui todos os escritórios e data centers de funcionários da Adobe administrados pela Adobe globalmente. Não inclui serviços hospedados em nuvens públicas.
 
 | Bloco IP (notação CIDR) |
 | --- |
@@ -43,8 +43,8 @@ A tabela a seguir abrange todos os endereços IP de propriedade de Adobe. Essa t
 
 Se a empresa preferir permitir intervalos específicos de endereço IP, você pode consultar a tabela a seguir. O serviço inclui:
 
-* Servidores de coleção de dados para todos os produtos Experience Cloud
-* Servidores FTP para todos os produtos Experience Cloud
+* Servidores de coleção de dados para todos os produtos da Experience Cloud
+* Servidores FTP para todos os produtos da Experience Cloud
 
 Todos os intervalos IP desta seção estão incluídos na tabela acima.
 
@@ -55,7 +55,6 @@ Todos os intervalos IP desta seção estão incluídos na tabela acima.
 | Califórnia | `63.140.32.0/23` |
 | Califórnia | `63.140.34.0/24` |
 | França | `63.140.62.0/23` |
-| Índia | `66.117.20.0/24` |
 | Índia | `66.117.22.0/23` |
 | Japão | `130.248.169.0/23` |
 | Japão | `63.140.50.0/23` |
@@ -64,6 +63,7 @@ Todos os intervalos IP desta seção estão incluídos na tabela acima.
 | Londres | `185.34.188.0/22` |
 | Londres | `130.248.152.0/22` |
 | Londres | `130.248.244.0/23` |
+| Ohio | `66.117.20.0/24` |
 | Oregon | `66.235.132.0/22` |
 | Oregon | `130.248.130.0/23` |
 | Oregon | `130.248.150.0/24` |
@@ -93,6 +93,7 @@ O Adobe Experience Cloud também oferece suporte ao IPv6 em capacidade limitada.
 | Índia | `2406:da1a:f34:6a00::/56` |
 | Irlanda | `2a05:d018:309:600::/56` |
 | Japão | `2406:da14:b07:ab00::/56` |
+| Ohio | `2600:1f16:130f:7d00::/56` |
 | Oregon | `2600:1f14:1eb:7d00::/56` |
 | Oregon | `2600:1f14:9d3:2b00::/56` |
 | Singapura | `2406:da18:6e8:1e00::/56` |

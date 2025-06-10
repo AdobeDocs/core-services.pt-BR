@@ -8,10 +8,10 @@ topic: Administration
 role: Admin
 level: Experienced
 exl-id: bd9bea58-9987-40d6-84e0-da185388bbbb
-source-git-commit: cb928a0398699b966a0f0dacc569c7958dac12d1
+source-git-commit: 2073400a04933226bd036c1fcd729df70f101df3
 workflow-type: tm+mt
-source-wordcount: '344'
-ht-degree: 91%
+source-wordcount: '352'
+ht-degree: 88%
 
 ---
 
@@ -35,7 +35,7 @@ O Adobe Experience Cloud usa cookies para armazenar uma ID de visitante usada no
   </tr> 
   <tr> 
    <td colname="col1"> <p> Expiração </p> </td> 
-   <td colname="col2"> <p>2 anos </p> </td> 
+   <td colname="col2"> <p>2 anos, embora a maioria dos navegadores modernos seja truncada para 13 meses</p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p> Uso </p> </td> 
@@ -60,7 +60,7 @@ O Adobe Experience Cloud usa cookies para armazenar uma ID de visitante usada no
 
 O [Serviço de ID da Experience Platform](https://experienceleague.adobe.com/docs/id-service/using/home.html?lang=pt-BR) usa o JavaScript para armazenar um identificador de visitante único em um cookie `AMCV_###@AdobeOrg` no domínio do site atual, onde `###` representa uma string aleatória de caracteres, como `AMCV_1FD6776A524453CC0A490D44%40AdobeOrg.`
 
-Consulte [Cookies e o serviço da ID](https://experienceleague.adobe.com/docs/id-service/using/intro/cookies.html?lang=pt-BR).
+Consulte [Cookies e o serviço da ID](https://experienceleague.adobe.com/docs/id-service/using/intro/cookies.html).
 
 <table id="table_1883C0836C1E4AF5A262FBF5000C1B11"> 
  <thead> 

@@ -23,7 +23,7 @@ O [!DNL Adobe Target] usa cookies para fornecer aos operadores de site a capacid
 >
 >As informações deste artigo se aplicam somente à [[!DNL Target] biblioteca at.js de JavaScript](https://experienceleague.adobe.com/docs/target-dev/developer/client-side/at-js-implementation/functions-overview/targetglobalsettings.html){target=_blank}.
 >
->Para obter informações sobre cookies usados em uma implementação do [!DNL Target] usando o [[!DNL Adobe Experience Platform Web SDK]](https://experienceleague.adobe.com/docs/experience-platform/edge/home.html){target=_blank}, consulte &quot;O [!DNL Adobe Experience Platform Web SDK] usa cookies? Em caso afirmativo, quais cookies ele usa?&quot; em [Perguntas frequentes no guia de visão geral do DNL Platform Web SDK](https://experienceleague.adobe.com/docs/experience-platform/edge/web-sdk-faq.html){target=_blank}.
+>Para obter informações sobre cookies usados em uma implementação do [!DNL Target] usando o [[!DNL Adobe Experience Platform Web SDK]](https://experienceleague.adobe.com/docs/experience-platform/edge/home.html){target=_blank}, consulte &quot;O [!DNL Adobe Experience Platform Web SDK] usa cookies? Em caso afirmativo, quais cookies ele usa?&quot; em [[!DNL Perguntas frequentes no guia de visão geral do Platform Web SDK]](https://experienceleague.adobe.com/docs/experience-platform/edge/web-sdk-faq.html){target=_blank}.
 >
 >Você pode alterar as configurações discutidas neste artigo, se necessário, exceto pela duração do cookie. [Consulte seu representante de conta](https://experienceleague.adobe.com/docs/target/using/cmp-resources-and-contact-information.html){target=_blank} ao alterar as configurações de cookie.
 >

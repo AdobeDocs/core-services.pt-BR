@@ -8,10 +8,10 @@ topic: Administration
 role: Admin
 level: Experienced
 exl-id: 062576da-328e-4b46-9e71-5a25733d607a
-source-git-commit: e523471b6dd67cf8213ead3208347fd3aa32a164
+source-git-commit: 74c584e657e02fdebcaa52cffb6778f8ce5f350c
 workflow-type: tm+mt
-source-wordcount: '700'
-ht-degree: 67%
+source-wordcount: '697'
+ht-degree: 65%
 
 ---
 
@@ -21,7 +21,7 @@ Saiba mais sobre o suporte a navegadores e consulte perguntas e respostas comuns
 
 +++Quais navegadores são compatíveis com o Experience Cloud?
 
-O Adobe suporta as duas versões atuais e anteriores dos seguintes navegadores:
+O Adobe é compatível com as duas versões atuais e anteriores dos seguintes navegadores:
 
 * Microsoft® Edge
 * Google Chrome
@@ -56,21 +56,21 @@ Embora as equipes de aplicativos estejam comprometidas com o suporte global aos 
 
 +++
 
-+++O Adobe cobra minha empresa pelo acesso ao Adobe Experience Cloud?
++++A Adobe cobra minha empresa pelo acesso ao Adobe Experience Cloud?
 
 Não. A Adobe Experience Cloud está incluída sem custo adicional. No entanto, certos serviços principais podem ter custos adicionais.
 
 +++
 
-+++Por que minha empresa deve fazer logon por meio da interface do Experience Cloud?
++++Por que minha empresa deve fazer logon por meio da interface da Experience Cloud?
 
-A funcionalidade fornecida pela interface da Experience Cloud agrega novo valor à empresa. Também é o caminho padrão para acessar aplicativos daqui em diante, e eventualmente substituirá outros fluxos individuais de logon para aplicativos. Fazer logon pela Experience Cloud possibilitará uma transição mais suave posteriormente.
+A funcionalidade fornecida pela interface da Experience Cloud agrega novo valor ao seu negócio. Também é o caminho padrão para acessar aplicativos daqui em diante, e eventualmente substituirá outros fluxos individuais de logon para aplicativos. Fazer logon pela Experience Cloud possibilitará uma transição mais suave posteriormente.
 
 +++
 
-+++Como o Adobe pode acessar o meu ambiente de nuvem de Adobe para solucionar um problema?
++++Como o Adobe pode acessar meu ambiente de nuvem do Adobe para solucionar um problema?
 
-O Atendimento ao cliente do Adobe pode enviar uma solicitação de representação para a qual você recebe um e-mail da marca Adobe (exemplo abaixo) que solicita a sua autorização explícita. O acesso é concedido por um período limitado. Depois de concedido, o acesso pode ser revogado por você a qualquer momento. A Adobe registra todas as ações tomadas por representantes da Adobe.
+O Atendimento ao cliente da Adobe pode enviar uma solicitação de representação para a qual você recebe um e-mail da marca Adobe (exemplo abaixo) que solicita a sua autorização explícita. O acesso é concedido por um período limitado. Depois de concedido, o acesso pode ser revogado por você a qualquer momento. A Adobe registra todas as ações tomadas por representantes da Adobe.
 
 ![Caso de suporte da Adobe](../assets/support-email.png)
 
@@ -80,8 +80,8 @@ O Atendimento ao cliente do Adobe pode enviar uma solicitação de representaç�
 
 O provisionamento na Experience Cloud significa que:
 
-* Seus usuários podem começar a fazer logon no Experience Cloud e a vincular aplicativos.
-* Podem começar a usar os recursos disponíveis na Experience Cloud, como o serviço de Pessoas.
+* Seus usuários podem começar a fazer logon na Experience Cloud e a vincular aplicativos.
+* Eles podem começar a usar os recursos disponíveis no Experience Cloud.
 * Você pode preparar-se para desativar o processo de logon específico do aplicativo.
 * É possível manter o controle de acesso dos aplicativos.
 
@@ -99,7 +99,7 @@ O provisionamento na Experience Cloud significa que:
 
 * O gerenciamento de produtos e direitos do usuário é executado no [Adobe Admin Console](https://adminconsole.adobe.com/enterprise) (link do produto).
 
-* **Importante:** admins do Analytics devem consultar [Gerenciar usuários do Analytics no Admin Console](https://experienceleague.adobe.com/docs/analytics/admin/user-product-management/migrate-users/c-migration-tool.html?lang=pt-BR) para saber como migrar IDs de usuários das ferramentas administrativas do Analytics para o Admin Console.
+* **Importante:** admins do Analytics devem consultar [Gerenciar usuários do Analytics no Admin Console](https://experienceleague.adobe.com/docs/analytics/admin/user-product-management/migrate-users/c-migration-tool.html) para saber como migrar IDs de usuários das ferramentas administrativas do Analytics para o Admin Console.
 
 +++
 
@@ -107,7 +107,7 @@ O provisionamento na Experience Cloud significa que:
 
 Os administradores do Admin Console podem conceder acesso aos usuários. Os usuários recebem emails com instruções de logon.
 
-Talvez seja necessário [entrar em contato com o suporte da Adobe](https://experienceleague.adobe.com/pt-br?support-solution=General&amp;lang=pt-BR#support) para verificar se a empresa foi totalmente provisionada.
+Talvez seja necessário [entrar em contato com o suporte da Adobe](https://experienceleague.adobe.com/?support-solution=General&lang=pt-BR#support) para verificar se a empresa foi totalmente provisionada.
 
 +++
 

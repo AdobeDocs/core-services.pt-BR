@@ -7,7 +7,7 @@ topic: Administration
 role: Admin
 level: Experienced
 exl-id: 11cc5005-8ec0-4308-bc94-0f78666ea645
-source-git-commit: e0b8281058b44012bdd7befa6ce26355a35bcf11
+source-git-commit: 361175f290d73f1637673420700874a2415e3fca
 workflow-type: tm+mt
 source-wordcount: '605'
 ht-degree: 69%
@@ -18,7 +18,7 @@ ht-degree: 69%
 
 Saiba onde as atualizações de documentação ocorrem para a interface central e a administração do Experience Cloud.
 
-**Fevereiro de 2025**
+**fevereiro de 2025**
 
 Adicionado [Gerenciar usuários e produtos no Experience Cloud](../administration/admin-console.md). Esta página ajuda os administradores a localizar a ajuda do gerenciamento de usuários e produtos (Admin Console) para todos os aplicativos.
 
@@ -108,7 +108,7 @@ Adição de [Exibir detalhes do usuário da Experience Cloud (Ferramenta adminis
 
 **Atualizado: 5/9/2018**
 
-Foram adicionadas instruções sobre como excluir um atributo de cliente. Consulte [(Opcional) Atualizar o esquema (excluir atributos)](../services/customer-attributes/t-crs-usecase.md).
+Adição de como excluir um atributo do cliente. Consulte [(Opcional) Atualizar o esquema (excluir atributos)](../services/customer-attributes/t-crs-usecase.md).
 
 **8 de junho de 2018**
 

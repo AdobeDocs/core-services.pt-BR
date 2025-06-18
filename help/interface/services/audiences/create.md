@@ -8,10 +8,10 @@ topic: Administration
 role: Admin
 level: Experienced
 exl-id: b65a12f5-fa89-400a-b279-13c381cd6c22
-source-git-commit: 163dc8ef83fb83a0e51879520bcb3ae697c95144
+source-git-commit: 361175f290d73f1637673420700874a2415e3fca
 workflow-type: tm+mt
 source-wordcount: '510'
-ht-degree: 94%
+ht-degree: 92%
 
 ---
 
@@ -53,12 +53,11 @@ O exemplo a seguir mostra como criar as regras para um público-alvo composto. E
 1. Em [!UICONTROL Regras], selecione uma fonte de atributo:
 
    * **[!UICONTROL Dados de Real-Time Analytics:]** (ou dados brutos) são dados de atributos derivados de solicitações de imagens em tempo real do Analytics e incluem dados como eVars e eventos. Você deve selecionar um conjunto de relatórios ao usar essa fonte de atributo e definir a dimensão ou evento que será incluído. Essa seleção de conjunto de relatórios fornece a estrutura variável usada pelo conjunto de relatórios.
-
    >[!NOTE]
    >
    >Devido a questões relacionadas ao cache, conjuntos de relatórios excluídos no Analytics permanecem exibidos no Experience Cloud por 12 horas após a exclusão.
 
-   * **[!UICONTROL Experience Cloud:]** os dados de atributo nas fontes da [!DNL Experience Cloud]. Por exemplo, tais dados podem ser de segmentos de público-alvo criados no [!DNL Analytics], ou dados do [!DNL Audience Manager].
+   * **[!UICONTROL Experience Cloud:]** dados de atributo derivados das [!DNL Experience Cloud] fontes. Por exemplo, tais dados podem ser de segmentos de público-alvo criados no [!DNL Analytics], ou dados do [!DNL Audience Manager].
 
 1. Defina as regras de público-alvo e clique em **[!UICONTROL Salvar].**
 

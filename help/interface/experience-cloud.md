@@ -1,5 +1,5 @@
 ---
-description: Saiba mais sobre os componentes da interface central para a Experience Cloud. Obtenha ajuda sobre a administração de usuários e produtos no Admin Console, habilite os aplicativos para os serviços da Experience Cloud. Obtenha ajuda sobre a Biblioteca de público-alvo, Atributos do cliente, Ativos da Experience Cloud e mais.
+description: Saiba mais sobre os componentes da interface central para a Experience Cloud. Obtenha ajuda sobre a administração de usuários e produtos no Admin Console, habilite os aplicativos para os serviços da Experience Cloud. Obtenha ajuda sobre a Biblioteca de público-alvo, Atributos do cliente, Experience Cloud Assets e muito mais.
 title: Administração e interface da Experience Cloud
 uuid: aec6f689-e617-4876-ae6c-e961cfcb991a
 feature: Central Interface Components
@@ -7,10 +7,10 @@ topic: Administration
 role: Admin
 level: Experienced
 exl-id: aedad5cb-3282-4a97-8e7e-6d65f7b75ba9
-source-git-commit: dd4f3b5df4bb7f3775977049e8d9a67e21052f10
-workflow-type: ht
+source-git-commit: 361175f290d73f1637673420700874a2415e3fca
+workflow-type: tm+mt
 source-wordcount: '509'
-ht-degree: 100%
+ht-degree: 97%
 
 ---
 
@@ -57,7 +57,7 @@ Para acessar os aplicativos e serviços da Experience Cloud fornecidos para voc�
 
 ## Obter ajuda e suporte {#support}
 
-Acesse o aprendizado e a ajuda usando a **[!UICONTROL Central de ajuda]** (![recurso](assets/help-icon.png)) no cabeçalho, incluindo conteúdo de ajuda (documentação, tutoriais e cursos) na [Experience League](https://experienceleague.adobe.com/pt-br?lang=pt-BR#home), bem como recursos adicionais para aplicativos individuais. Você também pode enviar feedback aberto e criar tíquetes de suporte priorizados.
+Acesse o aprendizado e a ajuda usando a **[!UICONTROL Central de ajuda]** (![recurso](assets/help-icon.png)) no cabeçalho, incluindo conteúdo de ajuda (documentação, tutoriais e cursos) na [Experience League](https://experienceleague.adobe.com/?lang=pt-BR#home), bem como recursos adicionais para aplicativos individuais. Você também pode enviar feedback aberto e criar tíquetes de suporte priorizados.
 
 ![Obter ajuda e suporte](assets/search-menu.png)
 

@@ -2,20 +2,19 @@
 description: Saiba sobre as considerações e práticas recomendadas relacionadas às informações de identificação pessoal (PII) carregadas e usadas na Experience Cloud.
 solution: Experience Cloud
 title: Considerações de privacidade para atributos do cliente
-uuid: 5666dc4e-55fa-4196-9985-cf530cfb9247
 feature: Customer Attributes
 topic: Administration
 role: Admin
 level: Experienced
 exl-id: 27c026ff-198b-4f49-9718-f25f77a9e716
-source-git-commit: c39672f0d8a0fd353b275b2ecd095ada1e2bf744
+source-git-commit: 2f126877f6a5f090884ebe093f35e4f6d90b4df6
 workflow-type: tm+mt
 source-wordcount: '511'
-ht-degree: 100%
+ht-degree: 99%
 
 ---
 
-# Considerações de privacidade para [!DNL Customer Attributes]
+# Considerações de privacidade para [!DNL customer attributes]
 
 Considerações e práticas recomendadas relacionadas às informações de identificação pessoal (PII) carregadas e usadas na Adobe Experience Cloud.
 
@@ -24,7 +23,7 @@ Considerações e práticas recomendadas relacionadas às informações de ident
 * Endereço de email
 * Telefone
 * Número da Previdência social
-* Outro identificador que permite a contratação física ou online de um indivíduo. (Varia por localização. Verifique e cumpra as leis e regulamentos locais relacionados à privacidade e à PII para todos os locais onde você faz negócios.)
+* Outro identificador que permite a contratação física ou online de uma pessoa. (Varia por localização. Verifique e cumpra as leis e regulamentos locais relacionados à privacidade e à PII para todos os locais onde você faz negócios.)
 
 A Adobe oferece as ferramentas que permitem que os anunciantes reúnam informações comportamentais sobre os clientes que visitam seus sites ou usam seus aplicativos. A Adobe também fornece ferramentas que permitem aos anunciantes aprimorar essas informações com registros de clientes offline ou externos que o anunciante possa ter em outros sistemas de gerenciamento de informações.
 

@@ -8,7 +8,7 @@ index: true
 source-git-commit: cee634cd4f64bac4e06d25e1872a0f84772c46ed
 workflow-type: tm+mt
 source-wordcount: '235'
-ht-degree: 88%
+ht-degree: 89%
 
 ---
 
@@ -48,8 +48,8 @@ ht-degree: 88%
 
 + Recursos {#features}
    + [Preferências e notificações da conta](features/account-preferences.md)
-   + [IA gerativa](features/generative-ai.md)
-   + [IA de agente](features/agentic-ai.md)
+   + [IA generativa](features/generative-ai.md)
+   + [IA agêntica](features/agentic-ai.md)
    + [Pesquisa unificada](features/search.md)
    + [Aprendizado personalizado](features/personalized-learning.md)
    + [Suporte a navegador e idioma](browser-language.md)

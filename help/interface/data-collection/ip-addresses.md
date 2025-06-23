@@ -2,9 +2,9 @@
 title: Endereços IP usados pelo Experience Cloud
 description: Se o firewall da sua organização bloquear endereços IP originários da Adobe, use esta lista para atualizar as configurações do firewall.
 exl-id: 1fca8d3b-ae8b-4095-96ef-d165f912b4c6
-source-git-commit: 92f041f11cfa33c2e08e90c45e6fa46729447ac5
+source-git-commit: a18b61cb32286680cb1ab2a296df33509fd95a00
 workflow-type: tm+mt
-source-wordcount: '375'
+source-wordcount: '378'
 ht-degree: 11%
 
 ---
@@ -19,9 +19,10 @@ Algumas configurações de firewall bloqueiam endereços IP dos servidores de co
 
 Além dos blocos de endereço IP listados abaixo, os produtos Adobe Experience Cloud individuais têm seus próprios endereços IP que usam:
 
-* [Adobe Analytics](https://experienceleague.adobe.com/pt-br/docs/analytics/technotes/ip-addresses)
-* [Customer Journey Analytics](https://experienceleague.adobe.com/pt-br/docs/analytics-platform/using/technotes/ip-addresses)
-* [Marketo Engage](https://experienceleague.adobe.com/pt-br/docs/marketo/using/getting-started/initial-setup/configure-protocols-for-marketo#step-allowlist-marketo-ips)
+* [Adobe Analytics](https://experienceleague.adobe.com/en/docs/analytics/technotes/ip-addresses)
+* [Customer Journey Analytics](https://experienceleague.adobe.com/en/docs/analytics-platform/using/technotes/ip-addresses)
+* [Marketo Engage](https://experienceleague.adobe.com/en/docs/marketo/using/getting-started/initial-setup/configure-protocols-for-marketo#step-allowlist-marketo-ips)
+* [Adobe Workfront](https://experienceleague.adobe.com/en/docs/workfront/using/administration-and-setup/get-started-administration/configure-your-firewall)
 
 ## Todos os blocos de endereço IP do Adobe
 

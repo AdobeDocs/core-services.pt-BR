@@ -22,7 +22,7 @@ O Adobe Experience Cloud usa cookies para rastrear informações que não duram 
 
 Alguns navegadores e ferramentas antisspyware bloqueiam cookies de terceiros. O Adobe tem maneiras de garantir que os cookies ainda funcionem mesmo que estejam bloqueados. O funcionamento depende do uso do Experience Platform Identity Service (ECID) ou de cookies mais antigos do Analytics (como o cookie `s_vi`):
 
-* [Experience Cloud Identity Service](https://experienceleague.adobe.com/en/docs/id-service/using/intro/overview): o ECID Service sempre define cookies próprios, quer o domínio de coleção corresponda ao domínio do site. Ele usa o JavaScript para colocar o cookie no domínio do site.
+* [Experience Cloud Identity Service](https://experienceleague.adobe.com/pt-br/docs/id-service/using/intro/overview): o ECID Service sempre define cookies próprios, quer o domínio de coleção corresponda ao domínio do site. Ele usa o JavaScript para colocar o cookie no domínio do site.
 
 * [Identificadores herdados do Analytics](analytics.md) (como o cookie `s_vi`): a definição de cookies próprios ou de terceiros depende da sua configuração:
 

@@ -3,47 +3,49 @@ description: Saiba como as soluções e os serviços da Adobe Experience Cloud u
 title: Como os cookies são usados no Experience Cloud
 uuid: 4255a13a-917b-4b5f-a7d4-4b2e7521d189
 exl-id: 60f1a89e-d989-461b-a6a3-c1df022cd30b
-source-git-commit: 2a80851c0a7d4ef7dbcc2565177b239f3e063164
+source-git-commit: d6dc659104b3b24b60495cd97adb21ebb3962fc7
 workflow-type: tm+mt
-source-wordcount: '890'
-ht-degree: 58%
+source-wordcount: '598'
+ht-degree: 10%
 
 ---
 
 # Cookies usados no Experience Cloud
 
-Vários serviços na Adobe Experience Cloud usam cookies. Um cookie é um pequeno pedaço de dados apresentado por um site a um navegador da Web. O navegador armazena esses dados, permitindo que um site referencie seus dados quando necessário. Esta ação é executada com cada solicitação subsequente para páginas e imagens.
+O Adobe Experience Cloud usa cookies. Um cookie é um pequeno pedaço de dados que um site envia para o seu navegador, que o armazena para uso posterior. Os cookies ajudam o site a lembrar de coisas quando você visita novamente ou se move entre páginas. Os cookies ajudam a rastrear visitas e diferenciar um dispositivo de outro.
 
-Os cookies são fornecidos para manter informações durante e, às vezes, entre visitas a um site. Os cookies permitem que os dispositivos sejam diferenciados exclusivamente de outros navegadores que visualizaram o site.
-
-Leis, regulamentos e princípios autorreguladores exigem que você obtenha o consentimento dos visitantes antes de armazenar ou recuperar informações em um computador ou outro dispositivo conectado à web. A Adobe sugere que você analise com o serviço jurídico de sua organização quais leis, regulamentos e princípios controlam seu uso de cookies.
+As leis geralmente exigem que você obtenha permissão antes de armazenar ou usar cookies no dispositivo de alguém. A Adobe recomenda consultar sua equipe jurídica para entender as regras aplicáveis.
 
 ## Sobre cookies próprios
 
-Os serviços da Adobe Experience Cloud usam cookies para fornecer informações sobre variáveis e componentes que não persistem entre as solicitações de imagem e as sessões do navegador. Sempre que possível, o Adobe usa cookies primários para registrar atividades no site. Para registrar a atividade em sites diferentes, como em outros domínios pertencentes a você, são necessários cookies de terceiros.
+O Adobe Experience Cloud usa cookies para rastrear informações que não duram entre exibições de página ou sessões do navegador. Quando possível, o Adobe usa cookies primários (vinculados ao seu próprio site). Para rastrear a atividade em vários sites ou domínios pertencentes a você, são necessários cookies de terceiros.
 
-Muitos navegadores e aplicativos antispyware foram projetados para rejeitar e excluir cookies de terceiros. O Adobe garante que os cookies sempre possam ser definidos, mesmo que os cookies de terceiros estejam bloqueados. O comportamento específico varia dependendo de você estar usando o Experience Platform Identity Service (serviço ECID) ou os identificadores herdados do Analytics (como o cookie `s_vi`):
+Alguns navegadores e ferramentas antisspyware bloqueiam cookies de terceiros. O Adobe tem maneiras de garantir que os cookies ainda funcionem mesmo que estejam bloqueados. O funcionamento depende do uso do Experience Platform Identity Service (ECID) ou de cookies mais antigos do Analytics (como o cookie `s_vi`):
 
-* O [Experience Platform Identity Service (ECID Service)](https://experienceleague.adobe.com/docs/id-service/using/intro/overview.html?lang=pt-BR) define cookies primários de forma automática, independentemente de o domínio de coleção corresponder ao domínio do site. Se não corresponderem, o Identity Service usará o JavaScript para definir cookies no domínio do site.
-* Se você usa [identificadores herdados do Analytics](analytics.md) (como o cookie `s_vi`), isso depende de como você configurou o servidor de coleção de dados. Se o servidor de coleção de dados corresponder ao domínio do site, os cookies serão definidos como primários. Se o servidor de coleção não corresponder ao seu domínio atual, os cookies serão definidos como de terceiros. Nesse caso, se os cookies de terceiros estiverem bloqueados, o Analytics definirá um id de fallback (`s_fid`) primário em vez do cookie `s_vi` padrão.
+* [Experience Cloud Identity Service](https://experienceleague.adobe.com/en/docs/id-service/using/intro/overview): o ECID Service sempre define cookies próprios, quer o domínio de coleção corresponda ao domínio do site. Ele usa o JavaScript para colocar o cookie no domínio do site.
 
-Se quiser garantir que o servidor de coleção corresponda ao domínio do site, você poderá usar uma implementação CNAME que permita o encaminhamento de um domínio personalizado especificado na implementação CNAME para servidores de coleção Adobe. Essa tarefa envolve alterações nas configurações de DNS da empresa para configurar um alias CNAME para apontar para um domínio hospedado em Adobe. Observe que, embora vários produtos da Adobe sejam compartíveis com o uso de um CNAME, em todos os casos o CNAME é usado para criar um endpoint de terceiros confiável para um cliente específico, e é de sua propriedade. Se você controlar vários domínios, eles poderão usar um único endpoint CNAME para rastrear usuários em seus domínios, mas sempre que o domínio do site não for correspondente ao CNAME, os cookies desse domínio serão definidos como de terceiros.
+* [Identificadores herdados do Analytics](analytics.md) (como o cookie `s_vi`): a definição de cookies próprios ou de terceiros depende da sua configuração:
+
+   * Se o servidor de coleção de dados corresponder ao domínio do site, os cookies são primários.
+   * Se não corresponder, os cookies são de terceiros. Se cookies de terceiros estiverem bloqueados, o Adobe definirá um cookie de fallback (`s_fid`) em vez do habitual.
+
+Para garantir que o servidor de coleção corresponda ao domínio do site, você pode usar uma **configuração de CNAME**. Isso envolve a atualização das configurações de DNS para apontar um domínio personalizado (seu) para os servidores da Adobe. Isso faz com que o cookie de rastreamento apareça como primário. Embora um CNAME possa funcionar em vários domínios, qualquer domínio que não corresponda ao CNAME ainda definirá cookies de terceiros.
 
 >[!NOTE]
 >
->Independentemente de o domínio de coleção corresponder ao domínio do site, o programa de Prevenção de Rastreamento Inteligente (ITP) da Apple faz com que os cookies primários definidos pelo Adobe tenham vida curta em navegadores regidos pela ITP, que incluem o Safari no macOS e todos os navegadores no iOS e iPadOS. A partir de novembro de 2020, os cookies definidos por CNAME também terão a mesma expiração dos cookies definidos pelo JavaScript. Essa expiração está sujeita a alterações.
+>A Prevenção de rastreamento inteligente (ITP) da Apple limita a duração dos cookies primários da Adobe, mesmo que o domínio de coleção corresponda ao domínio do site. O ITP afeta o Safari no macOS e todos os navegadores no iOS e iPadOS. Desde novembro de 2020, os cookies definidos com o CNAME expiram tão rapidamente quanto os definidos com o JavaScript. Este prazo pode ser alterado no futuro.
+
+Esta é uma versão simplificada do texto:
 
 ## Cookies e privacidade
 
-A manutenção da privacidade do cliente e da segurança de dados são as principais prioridades da Adobe. A Adobe participa de várias organizações de privacidade e coopera com reguladores de privacidade e princípios autorreguladores. Essa cooperação inclui o programa Digital Advertising Alliance AdChoices para informar os clientes sobre como suas informações são usadas e quais são as opções sobre seu uso.
+A Adobe leva a privacidade e a segurança dos dados muito a sério. Ele trabalha com organizações de privacidade, reguladores e programas como AdChoices para fornecer às pessoas controle sobre como seus dados são usados.
 
-A maioria dos cookies definida pelos produtos da Experience Cloud não contém informações pessoalmente identificáveis. Esses cookies e dados associados são seguros e usados apenas para seus relatórios de empresa e para fornecer conteúdo e anúncios relevantes. Os dados não estão disponíveis para terceiros ou outros clientes da Adobe, a menos que sejam usados em relatórios agregados do setor. Por exemplo, a [!DNL Digital Marketing Insight Report] analisa dados agregados e anônimos entre varejistas.
+A maioria dos cookies da Adobe Experience Cloud não armazena informações pessoais. Eles são seguros e usados apenas pela sua empresa para relatórios, conteúdo e anúncios. A Adobe não compartilha esses dados com outros clientes ou terceiros, exceto em relatórios anônimos em todo o setor (como Relatórios do Digital Marketing Insight).
 
-A Adobe não combina informações a nível do navegador por meio de empresas. Para proteger a privacidade e a segurança dos dados dos clientes, alguns dos serviços na Experience Cloud oferecem às empresas a capacidade de usar um conjunto separado de cookies para cada site rastreado. Algumas ofertas também oferecem aos clientes a capacidade de usar seu próprio nome de domínio como proprietário do cookie. Esta prática cria uma camada extra de privacidade e segurança, já que transforma os cookies da Experience Cloud em *cookies primários*, pertencendo permanentemente ao site da empresa.
+A Adobe não combina dados de navegador em empresas diferentes. Para proteger a privacidade, algumas ferramentas do Adobe permitem que cada site use seu próprio conjunto de cookies. Alguns também permitem usar seu próprio domínio para cookies, tornando-os primários e mais seguros.
 
-Os cookies podem armazenar e fornecer apenas as informações que foram depositadas neles anteriormente. Eles não podem executar código ou acessar outras informações armazenadas no computador. Além disso, os navegadores da web restringem o acesso aos dados de cookies. Os navegadores impõem uma política de segurança de cookie que disponibiliza todos os dados de cookie somente para o site que definiu as informações originalmente.
-
-Por exemplo, os dados contidos em cookies definidos no site Adobe.com não podem ser exibidos por nenhum outro site que não o Adobe.com.
+Os cookies só podem armazenar informações que foram salvas neles anteriormente. Eles não podem executar código ou ler outros dados em seu dispositivo. Além disso, os navegadores da Web só permitem que os cookies sejam lidos pelo site que os definiu. Por exemplo, somente Adobe.com pode ler cookies que ele define.
 
 O diagrama a seguir ilustra o uso de cookies em uma solicitação de imagem padrão:
 

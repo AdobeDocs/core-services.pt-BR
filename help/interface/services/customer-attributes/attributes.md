@@ -7,9 +7,9 @@ role: Admin
 topic: Administration
 level: Experienced
 exl-id: fe8ad013-76da-49f8-aa51-dc5f6c1b1d79
-source-git-commit: 361175f290d73f1637673420700874a2415e3fca
+source-git-commit: 3043cd913d5165c58fb84f3342b05a00a690d6a6
 workflow-type: tm+mt
-source-wordcount: '435'
+source-wordcount: '434'
 ht-degree: 78%
 
 ---
@@ -20,7 +20,7 @@ O serviço de [!DNL Customer attributes] na Experience Cloud permite que você f
 
 ## Localizar o recurso de [!DNL customer attributes] 
 
-1. Faça logon no [!DNL Experience Cloud] e selecione o ícone Menu ![menu](assets/menu-icon.png).
+1. Faça logon em [!DNL Experience Cloud] e selecione o ícone Menu ![menu](assets/menu-icon.png).
 
 1. Selecione **[!UICONTROL Atributos do cliente]**.
 
@@ -36,7 +36,7 @@ O serviço de [!DNL Customer attributes] na Experience Cloud permite que você f
 
 * O **Adobe Target** `at.js` (qualquer versão) ou `mbox.js` versão 58 ou posterior é necessário para os atributos do cliente.
 
-  Consulte [Como implantar at.js](https://experienceleague.adobe.com/docs/target-dev/developer/client-side/overview.html?lang=pt-BR).
+  Consulte [Como implantar at.js](https://experienceleague.adobe.com/docs/target-dev/developer/client-side/overview.html).
 
 ## O que são os dados de clientes de empresas? {#enterprise_data}
 

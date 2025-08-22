@@ -97,4 +97,4 @@ A regra resultante é um público-alvo definido pela inclusão dos usuários do 
 
 Depois que a coleta de dados é concluída pelo período especificado, os círculos se combinam para mostrar um público-alvo definido.
 
-Depois que o público-alvo é salvo, ele é disponibilizado para outros aplicativos da Experience Cloud. Por exemplo, você pode incluir um público-alvo compartilhado em uma [atividade](https://experienceleague.adobe.com/en/docs/target/using/activities/activities) do Adobe Target.
+Depois que o público-alvo é salvo, ele é disponibilizado para outros aplicativos da Experience Cloud. Por exemplo, você pode incluir um público-alvo compartilhado em uma [atividade](https://experienceleague.adobe.com/pt-br/docs/target/using/activities/activities) do Adobe Target.

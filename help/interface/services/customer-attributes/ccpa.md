@@ -6,16 +6,16 @@ topic: Administration
 role: Admin
 level: Experienced
 exl-id: 320defc7-2cd5-4481-955d-77cf6fbfef6d
-source-git-commit: 361175f290d73f1637673420700874a2415e3fca
+source-git-commit: 106ad989c5eef60dabbe4b82deaed9d87b09d795
 workflow-type: tm+mt
-source-wordcount: '415'
-ht-degree: 57%
+source-wordcount: '405'
+ht-degree: 63%
 
 ---
 
 # Suporte a atributos do cliente para a California Consumer Privacy Act
 
-Esta página descreve o suporte de [!UICONTROL atributos do cliente] para a California Consumer Privacy Act (CCPA).
+Esta página descreve o suporte de [!DNL Customer Attributes] para a California Consumer Privacy Act (CCPA).
 
 >[!IMPORTANT]
 >
@@ -27,13 +27,13 @@ Como empresa, você determinará os dados pessoais que a Adobe Experience Cloud 
 
 Como seu provedor de serviço, a Adobe Experience Cloud fornece suporte para que sua empresa cumpra as obrigações da CCPA aplicáveis ao uso de produtos e serviços da Experience Cloud. Isto inclui o gerenciamento de solicitações para acessar e excluir informações pessoais.
 
-Este documento descreve como os [!UICONTROL atributos do cliente] oferecem suporte aos direitos de acesso e exclusão de dados da CCPA dos titulares de dados usando a API do Adobe Experience Platform Privacy Service e a interface do usuário do Privacy Service.
+Este documento descreve como o [!DNL Customer Attributes] oferece suporte aos direitos de acesso e exclusão de dados da CCPA para titulares de dados usando a API do Adobe Experience Platform Privacy Service e a interface do usuário do Privacy Service.
 
 Para obter mais informações sobre os serviços de privacidade da Adobe para CCPA, consulte o [Centro de privacidade da Adobe](https://www.adobe.com/privacy/ccpa.html).
 
-## Configuração necessária para enviar solicitações para [!UICONTROL atributos do cliente]
+## Configuração necessária para enviar solicitações para os [!DNL Customer Attributes]
 
-Para fazer solicitações de acesso e exclusão de dados para [!UICONTROL atributos do cliente], você deve:
+Para fazer solicitações de acesso e exclusão de dados para [!DNL Customer Attributes], você deve:
 
 1. Identificar o seguinte:
 
@@ -45,7 +45,7 @@ Para fazer solicitações de acesso e exclusão de dados para [!UICONTROL atribu
 
 1. No [!UICONTROL Privacy Service], você pode enviar solicitações de Acesso e Exclusão aos atributos do cliente e verificar o status das solicitações existentes.
 
-## Valores de campo obrigatórios em [!UICONTROL solicitações JSON de atributos do cliente]
+## Valores de campo obrigatórios em [!DNL Customer Attributes] solicitações JSON
 
 &quot;company context&quot;:
 

@@ -5,10 +5,10 @@ breadcrumb-title: Administração e interface da Experience Cloud
 title: Administração e interface da Experience Cloud
 description: Saiba mais sobre a interface da Experience Cloud, cookies e preferências de conta. Gerencie produtos e configure o serviço Pessoas, incluindo atributos do cliente e biblioteca de público-alvo. Compartilhar ativos da Experience Cloud.
 index: true
-source-git-commit: cee634cd4f64bac4e06d25e1872a0f84772c46ed
-workflow-type: ht
-source-wordcount: '235'
-ht-degree: 100%
+source-git-commit: 84e5d971dadd2281ff7a225d860400d1807c5d46
+workflow-type: tm+mt
+source-wordcount: '239'
+ht-degree: 97%
 
 ---
 
@@ -39,7 +39,7 @@ ht-degree: 100%
       + [Crie uma fonte de atributo do cliente e faça upload do arquivo de dados](services/customer-attributes/t-crs-usecase.md)
       + [Opcional - Fazer upload do arquivo de dados via FTP](services/customer-attributes/t-upload-attributes-ftp.md)
       + [Validar o esquema](services/customer-attributes/validate-schema.md)
-      + [Configurar assinaturas](services/customer-attributes/subscription.md)
+      + [Configurar assinaturas e ativar fonte de dados](services/customer-attributes/subscription.md)
       + [Atualizar o esquema](services/customer-attributes/t-update-schema.md)
       + [Suporte ao Regulamento Geral sobre a Proteção de Dados](services/customer-attributes/gdpr.md)
       + [Suporte à California Consumer Privacy Act](services/customer-attributes/ccpa.md)

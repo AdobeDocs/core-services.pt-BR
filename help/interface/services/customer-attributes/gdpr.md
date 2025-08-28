@@ -6,7 +6,7 @@ topic: Administration
 role: Admin
 level: Experienced
 exl-id: 02417c0c-6780-4699-9470-f1685c3cd25d
-source-git-commit: 2f126877f6a5f090884ebe093f35e4f6d90b4df6
+source-git-commit: b296b7fe76ad686d45a5927c55f798dc0203c684
 workflow-type: tm+mt
 source-wordcount: '394'
 ht-degree: 95%
@@ -15,7 +15,7 @@ ht-degree: 95%
 
 # Suporte a [!DNL Customer attributes] para o Regulamento Geral sobre a Proteção de Dados
 
-Esta página descreve como o [!DNL customer attributes] oferece suporte ao Regulamento Geral sobre a Proteção de Dados (RGPD).
+Esta página descreve como o [!DNL Customer Attributes] oferece suporte ao Regulamento Geral sobre a Proteção de Dados (RGPD).
 
 >[!IMPORTANT]
 >
@@ -25,13 +25,13 @@ O [Regulamento Geral sobre a Proteção de Dados](https://business.adobe.com/br/
 
 A Adobe Experience Cloud atua como um processador de dados para todos os dados pessoais que recebe e armazena em nome de seus clientes. Como o controlador de dados, você determinará os dados pessoais que a Adobe Experience Cloud processa e armazena em seu nome.
 
-Este documento descreve como o [!DNL customer attributes] oferece suporte aos direitos de acesso e exclusão de dados de titulares do RGPD usando a Adobe Experience Platform Privacy Service API e a interface do Privacy Service.
+Este documento descreve como o [!DNL Customer Attributes] oferece suporte aos direitos de acesso e exclusão de dados de titulares do RGPD usando a Adobe Experience Platform Privacy Service API e a interface do Privacy Service.
 
 Para obter mais informações sobre o que o RGPD significa para sua empresa, consulte [RGPD e sua empresa](https://business.adobe.com/br/privacy/general-data-protection-regulation.html).
 
-## Configuração necessária para enviar solicitações para os [!DNL customer attributes]
+## Configuração necessária para enviar solicitações para os [!DNL Customer Attributes]
 
-Para fazer solicitações de acesso e exclusão de dados para [!DNL customer attributes], você deve:
+Para fazer solicitações de acesso e exclusão de dados para [!DNL Customer Attributes], você deve:
 
 1. Identificar o seguinte:
 
@@ -41,9 +41,9 @@ Para fazer solicitações de acesso e exclusão de dados para [!DNL customer att
 
    Sua [ID da organização](../../administration/organizations.md) é uma string de 24 caracteres alfanuméricos anexada com @AdobeOrg. Você precisa da ID da organização para enviar solicitações à API de privacidade. Entre em contato com o Atendimento ao cliente da Adobe, em `gdprsupport@adobe.com`, caso não consiga localizar a ID.
 
-1. O [!UICONTROL Privacy Service] permite enviar solicitações de acesso e exclusão aos [!DNL customer attributes] e verificar o status das solicitações existentes.
+1. O [!UICONTROL Privacy Service] permite enviar solicitações de acesso e exclusão aos [!DNL Customer Attributes] e verificar o status das solicitações existentes.
 
-## Valores de campo obrigatórios em solicitações JSON de [!DNL customer attributes]
+## Valores de campo obrigatórios em solicitações JSON de [!DNL Customer Attributes]
 
 &quot;company context&quot;:
 

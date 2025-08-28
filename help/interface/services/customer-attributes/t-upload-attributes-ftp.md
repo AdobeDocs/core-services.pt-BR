@@ -7,14 +7,14 @@ topic: Administration
 role: Admin
 level: Experienced
 exl-id: ed9e4a8f-493a-4a0f-a87e-674c7da95b99
-source-git-commit: 2f126877f6a5f090884ebe093f35e4f6d90b4df6
+source-git-commit: 21120abb5ab0fcc8d556012851548f39f3875038
 workflow-type: tm+mt
-source-wordcount: '252'
-ht-degree: 71%
+source-wordcount: '378'
+ht-degree: 67%
 
 ---
 
-# Opcional - Fazer upload do arquivo de dados via FTP
+# Fazer upload do arquivo de dados via FTP (opcional)
 
 Se você não fizer upload usando a função arrastar e soltar, será possível fazer upload do atributo do cliente via FTP para a Experience Cloud.
 
@@ -27,7 +27,7 @@ Você pode fazer upload dos dados depois de criar uma fonte de atributo do clien
 Os uploads de arquivo para o site FTP de atributos do cliente podem ser feitos via FTP ou SFTP:
 
 * Você precisa de um cliente compatível com conexões SFTP.
-* Você pode se conectar ao SFTP usando o nome de usuário/senha ou sem usar senha, conforme descrito [aqui](https://experienceleague.adobe.com/docs/analytics/export/ftp-and-sftp/secure-file-transfer-protocol/ftp-sftp-cert-auth.html?lang=pt-BR).
+* Você pode se conectar ao SFTP usando o nome de usuário/senha ou sem usar senha, conforme descrito [aqui](https://experienceleague.adobe.com/docs/analytics/export/ftp-and-sftp/secure-file-transfer-protocol/ftp-sftp-cert-auth.html).
 
 **Para fazer upload do arquivo de dados via FTP**
 
@@ -44,3 +44,29 @@ Os uploads de arquivo para o site FTP de atributos do cliente podem ser feitos v
    Se o upload for bem-sucedido, ambos os arquivos serão movidos para uma pasta chamada **processados**.
 
    Consulte [Requisitos do arquivo de dados para fazer upload dos atributos do cliente](crs-data-file.md) para obter informações importantes sobre os nomes dos arquivos e a estrutura.
+
+## Configurar uma conta FTP
+
+Configure uma conta FTP por fonte de atributo.
+
+Na página [!UICONTROL Carregamento de Arquivo e Validação de Esquema], clique em **[!UICONTROL Configuração de FTP]**.
+
+![Editar um esquema](assets/ftp-account.png)
+
+Os arquivos carregados são armazenados na pasta raiz dessa conta. Os dados devem estar em formato `.csv`, com um segundo arquivo `.fin` para indicar que o upload foi concluído.
+
+Os nomes aplicados às strings, números inteiros e números são usados para criar as métricas do [!DNL Analytics].
+
+* **[!UICONTROL atributo:]** dados de atributo lidos do arquivo `.csv` carregado.
+
+* **[!UICONTROL Tipo:]** Os tipos de dados, como:
+
+   * **String:** uma sequência de caracteres.
+
+   * **Inteiros:** números inteiros.
+
+   * **Números:** pode ter até duas casas decimais.
+
+* **[!UICONTROL Nome de exibição:]** Um nome amigável para o atributo. Por exemplo, você pode alterar um atributo de *idade do cliente* para *cliente desde*.
+
+* **[!UICONTROL Descrição:]** Uma descrição amigável do atributo.

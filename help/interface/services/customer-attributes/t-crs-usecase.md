@@ -1,21 +1,21 @@
 ---
-description: Saiba como criar uma fonte de atributo do cliente e fazer upload dela para a Adobe Experience Cloud.
+description: Saiba como criar uma fonte de dados  [!DNL Customer Attributes]  e carregá-la no Experience Cloud.
 solution: Experience Cloud
-title: Criar e fazer upload de um arquivo Source de dados do atributo do cliente
+title: Criar e Carregar um Arquivo  [!DNL Customer Attributes] Data Source
 uuid: 53dca789-9a91-4385-839d-c9d1aa36b9be
 feature: Customer Attributes
 topic: Administration
 role: Admin
 level: Experienced
 exl-id: 21ed7c35-aac9-46f1-a50c-84e7c075209c
-source-git-commit: 32f3bd4eb6229a910366f274f9adfbc609440764
+source-git-commit: 21120abb5ab0fcc8d556012851548f39f3875038
 workflow-type: tm+mt
-source-wordcount: '1110'
-ht-degree: 49%
+source-wordcount: '1103'
+ht-degree: 48%
 
 ---
 
-# Crie uma fonte de atributo do cliente e faça upload do arquivo de dados
+# Criar uma fonte de dados e fazer upload do arquivo
 
 Crie a fonte de atributo do cliente (arquivos `.csv` e `.fin`) e carregue os dados. É possível ativar a fonte de dados quando você estiver preparado. Quando a fonte de dados estiver ativa, compartilhe os dados do atributo com [!DNL Analytics] e [!DNL Target].
 
@@ -80,7 +80,7 @@ Execute essas etapas na página Criar nova fonte de atributo do cliente no Exper
 
       * **Marcas:** A ID de Alias corresponde ao valor de *Código de Integração* em [!UICONTROL Configurações do Cliente], na ferramenta [Serviço da Experience Cloud ID](https://experienceleague.adobe.com/docs/experience-platform/tags/home.html?lang=pt-BR).
 
-      * **API de Visitante:** A ID de Alias corresponde às [IDs do cliente](https://experienceleague.adobe.com/docs/id-service/using/reference/authenticated-state.html?lang=pt-BR) adicionais que você pode associar a cada visitante.
+      * **API de Visitante:** A ID de Alias corresponde às [IDs do cliente](https://experienceleague.adobe.com/docs/id-service/using/reference/authenticated-state.html) adicionais que você pode associar a cada visitante.
 
         Por exemplo, *&quot;crm_ id&quot;* em:
 
@@ -102,7 +102,7 @@ Execute essas etapas na página Criar nova fonte de atributo do cliente no Exper
 
         Consulte [Como aproveitar várias fontes de dados](crs-data-file.md#section_76DEB6001C614F4DB8BCC3E5D05088CB) para obter informações adicionais sobre o processamento de dados relacionado ao campo de ID de alias e IDs do cliente.
 
-   * **[!UICONTROL Código do Namespace:]** Use este valor para identificar a fonte de atributo do cliente ao usar o [IdentityMap](https://experienceleague.adobe.com/pt-br/docs/experience-platform/web-sdk/identity/overview) como parte de uma Implementação do AEP WebSDK.
+   * **[!UICONTROL Código do Namespace:]** Use este valor para identificar a fonte de atributo do cliente ao usar o [IdentityMap](https://experienceleague.adobe.com/en/docs/experience-platform/web-sdk/identity/overview) como parte de uma Implementação do AEP WebSDK.
 
 1. Clique em **[!UICONTROL Salvar]**.
 
@@ -170,4 +170,4 @@ No [!DNL Target], você pode selecionar um atributo do cliente na seção [!UICO
 
 ![Usar os atributos do cliente no Adobe Target](assets/crs-add-attribute-target.png)
 
-Consulte [Criação de um novo público-alvo](https://experienceleague.adobe.com/docs/target/using/audiences/create-audiences/audiences.html?lang=pt-BR) na ajuda do [!DNL Target].
+Consulte [Criação de um novo público-alvo](https://experienceleague.adobe.com/docs/target/using/audiences/create-audiences/audiences.html) na ajuda do [!DNL Target].

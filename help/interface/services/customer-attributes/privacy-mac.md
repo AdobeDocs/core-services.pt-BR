@@ -1,15 +1,15 @@
 ---
 description: Saiba sobre as considerações e práticas recomendadas relacionadas às informações de identificação pessoal (PII) carregadas e usadas na Experience Cloud.
 solution: Experience Cloud
-title: Considerações de privacidade para atributos do cliente
+title: Considerações de privacidade para  [!DNL Customer Attributes]
 feature: Customer Attributes
 topic: Administration
 role: Admin
 level: Experienced
 exl-id: 27c026ff-198b-4f49-9718-f25f77a9e716
-source-git-commit: b296b7fe76ad686d45a5927c55f798dc0203c684
+source-git-commit: 21120abb5ab0fcc8d556012851548f39f3875038
 workflow-type: tm+mt
-source-wordcount: '511'
+source-wordcount: '509'
 ht-degree: 99%
 
 ---

@@ -6,14 +6,14 @@ topic: Administration
 role: Admin
 level: Experienced
 exl-id: 02417c0c-6780-4699-9470-f1685c3cd25d
-source-git-commit: b296b7fe76ad686d45a5927c55f798dc0203c684
+source-git-commit: 21120abb5ab0fcc8d556012851548f39f3875038
 workflow-type: tm+mt
 source-wordcount: '394'
 ht-degree: 95%
 
 ---
 
-# Suporte a [!DNL Customer attributes] para o Regulamento Geral sobre a Proteção de Dados
+# Suporte a [!DNL Customer Attributes] para o Regulamento Geral sobre a Proteção de Dados
 
 Esta página descreve como o [!DNL Customer Attributes] oferece suporte ao Regulamento Geral sobre a Proteção de Dados (RGPD).
 

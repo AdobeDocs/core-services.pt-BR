@@ -7,7 +7,7 @@ topic: Administration
 role: Admin
 level: Experienced
 exl-id: 776d1fd3-c733-4970-a76b-4c3c0119ee77
-source-git-commit: 21120abb5ab0fcc8d556012851548f39f3875038
+source-git-commit: d2244e249c7af27bc1b4fc7bfe628bc25b37f4d4
 workflow-type: tm+mt
 source-wordcount: '347'
 ht-degree: 49%
@@ -32,11 +32,11 @@ Um esquema é criado com base nessas configurações. O esquema é usado para va
 
 1. Na página [!UICONTROL Carregamento de Arquivo e Validação de Esquema], clique em **[!UICONTROL Ações]** > **[!UICONTROL Exibir/Editar Esquema]**
 
-   ![Editar um esquema](assets/view_edit_schema.png)
+   ![Editar um esquema](assets/actions.png)
 
    Na página [!UICONTROL Editar Esquema], cada linha do esquema representa uma coluna do arquivo CSV carregado.
 
-   ![Editar página de esquema na Experience Cloud](assets/edit-schema.png)
+   ![Editar página de esquema na Experience Cloud](assets/schema-edit.png)
 
 **Ações**
 

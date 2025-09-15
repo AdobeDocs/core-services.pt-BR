@@ -8,20 +8,18 @@ topic: Administration
 role: Admin
 level: Experienced
 exl-id: 9dc26e2f-479b-49a5-93ce-b877559fea43
-source-git-commit: 163dc8ef83fb83a0e51879520bcb3ae697c95144
+source-git-commit: 0de22f02b4063a54d0b09b6abc1aa16221f42f4b
 workflow-type: tm+mt
-source-wordcount: '677'
-ht-degree: 97%
+source-wordcount: '675'
+ht-degree: 93%
 
 ---
 
 # Experience Cloud Triggers
 
-Os [!UICONTROL Triggers] na Experience Cloud permitem identificar, definir e monitorar os comportamentos principais dos consumidores e gerar comunicação entre aplicativos para reengajar os visitantes.
+[!UICONTROL Triggers] no Experience Cloud permite que você identifique, defina e monitore os comportamentos dos principais consumidores e gere comunicação entre aplicativos para atrair os visitantes novamente. Você pode usar acionadores em personalizações e decisões em tempo real.
 
-## Visão geral do Triggers {#topic_4F21FCE9A64E46E8B6D51F494FA652A7}
-
-Você pode usar acionadores em personalizações e decisões em tempo real. Por exemplo:
+Por exemplo:
 
 * Configure o remarketing com rapidez em abandonos de carrinho ou em abandonos de carrinho com produtos removidos
 * Formulários e aplicativos incompletos
@@ -31,9 +29,9 @@ Você pode usar acionadores em personalizações e decisões em tempo real. Por 
 
 >[!NOTE]
 >
->Mais informações sobre o uso de [!UICONTROL Triggers] estão disponíveis em [Campaign Standard](https://experienceleague.adobe.com/docs/campaign-standard/using/integrating-with-adobe-cloud/working-with-campaign-and-triggers/using-triggers-in-campaign.html?lang=pt-BR).
+>Mais informações sobre o uso de [!UICONTROL Triggers] estão disponíveis em [Campaign Standard](https://experienceleague.adobe.com/docs/campaign-standard/using/integrating-with-adobe-cloud/working-with-campaign-and-triggers/using-triggers-in-campaign.html).
 
-### Tipos de Triggers
+## Tipos de acionadores
 
 Geralmente, um acionador pode levar 15 a 90 minutos para iniciar uma campanha de marketing. Esse atraso varia dependendo da implementação da coleção de dados, da carga no pipeline, da configuração personalizada do acionador definido e do fluxo de trabalho no Adobe Campaign.
 
@@ -43,7 +41,7 @@ Geralmente, um acionador pode levar 15 a 90 minutos para iniciar uma campanha de
 
 ## Criar um acionador da Experience Cloud {#task_821F37183AC045E5AC8EED20317598FE}
 
-Crie um acionador e configure as condições para ele. Por exemplo, você pode especificar o critério das regras para um acionador durante uma visita. Alguns exemplos são métricas, como Abandono de carrinho, ou dimensões, como o nome do produto. O disparador é executado quando as regras são cumpridas.
+Crie um acionador e configure as condições para ele. Por exemplo, você pode especificar o critério das regras para um acionador durante uma visita. Alguns exemplos são métricas, como Abandono de carrinho, ou dimensões, como o nome do produto. O acionador é executado quando as regras são cumpridas.
 
 >[!NOTE]
 >
@@ -71,17 +69,17 @@ Crie um acionador e configure as condições para ele. Por exemplo, você pode e
 5. Clique em **[!UICONTROL Salvar]**.
 6. Use os acionadores para o [remarketing em tempo real](https://experienceleague.adobe.com/docs/campaign-standard/using/integrating-with-adobe-cloud/working-with-campaign-and-triggers/about-adobe-experience-cloud-triggers.html?lang=pt-BR) no [!DNL Adobe Campaign].
 
-### Exemplos de acionadores
+## Exemplos de acionadores
 
 Exemplos de Experience Cloud Triggers:
 
-#### Acionador de abandono do carrinho
+### Acionador de Abandono do carrinho
 
 Por exemplo, a página a seguir mostra regras que você poderia usar em um acionador de [!UICONTROL Abandono de carrinho], com base em produtos visualizados durante uma visita.
 
 ![Acionador de Abandono do carrinho](../assets/abandonment-trigger.png)
 
-#### Acionador referenciador
+### Acionador do referenciador
 
 O acionador a seguir é disparado quando uma ocorrência acompanhar o produto de Botas masculinas e um referenciador do Facebook. Para que os dois critérios (*produtos* e *referenciador*) sejam avaliados na mesma ocorrência, eles devem ser adicionados ao mesmo contêiner.
 

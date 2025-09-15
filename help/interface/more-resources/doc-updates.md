@@ -7,7 +7,7 @@ topic: Administration
 role: Admin
 level: Experienced
 exl-id: 11cc5005-8ec0-4308-bc94-0f78666ea645
-source-git-commit: 6caf1edc5cead3e937f919ac2bb6c829a758d8fd
+source-git-commit: 85a5c5c33a8eb5f34f174cf5aa1da56e8e2e5065
 workflow-type: tm+mt
 source-wordcount: '614'
 ht-degree: 68%
@@ -144,7 +144,7 @@ Adição de [Ativos da Experience Cloud](../services/assets/experience-cloud-ass
 
 **15 de janeiro de 2015**
 
-Os usuários adicionados da Experience Cloud podem compartilhar pastas com a Creative Cloud, além de sincronizar ativos e comentários entre os dois produtos. Consulte [Compartilhamento de ativos](../services/assets/creative-cloud.md).
+Os usuários adicionados da Experience Cloud podem compartilhar pastas com a Creative Cloud, além de sincronizar ativos e comentários entre os dois produtos. Consulte [Compartilhamento de ativos](../services/assets/share.md).
 
 **17 de julho de 2014**
 

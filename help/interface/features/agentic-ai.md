@@ -7,18 +7,43 @@ feature: Agentic AI, AI Tools
 role: Admin, User
 level: Intermediate
 exl-id: c1a8f9a7-4752-4040-b5f0-dc775417f536
-source-git-commit: 04e614dcfb1f38956d0c9d65e040cd5dfef575a9
+source-git-commit: 3b3d8499fde65e494ba07610a2f8068fd697ad12
 workflow-type: tm+mt
-source-wordcount: '148'
-ht-degree: 1%
+source-wordcount: '246'
+ht-degree: 14%
 
 ---
 
-# IA de agente em produtos da Experience Cloud
+# IA de agente no Experience Cloud
 
-A estrutura agêntica da Adobe amplia a capacidade de suas equipes com IA para fornecer experiências de forma mais rápida e com maior impacto. Os seguintes recursos de IA de agente estão disponíveis no Experience Cloud:
+Os agentes de IA (&quot;IA de agente&quot;) no [!DNL Experience Cloud] ajudam a transformar suas metas em etapas claras, tornando as tarefas difíceis mais fáceis enquanto você mantém o controle.
 
-* O [Agente de Suporte do Produto](https://experienceleague.adobe.com/pt-br/docs/experience-platform/ai-assistant/new-features/customer-support) é um recurso de depuração de autoatendimento e solução de problemas do [!UICONTROL Assistente de IA] que você pode usar para recursos e aplicativos do Experience Platform. Solucione problemas de suporte sem sair dos workflows, crie tíquetes de suporte ao cliente e rastreie o progresso do caso usando o Assistente de IA.
-* O [Data Insights Agent](https://experienceleague.adobe.com/pt-br/docs/analytics-platform/using/cja-overview/cja-b2c-overview/data-analysis-ai) pode ser acessado pelo Assistente de IA na Customer Journey Analytics. É um agente de conversação de IA generativo que responde com rapidez e eficiência a perguntas sobre seus dados. Ele cria visualizações relevantes no Analysis Workspace usando componentes da visualização de dados e usando seus dados reais.
+[!DNL Adobe Experience Platform Agent Orchestrator] e [!DNL Platform Agents] trazem essas habilidades de IA para nossas soluções. Você pode usá-los de duas maneiras:
 
-[!BADGE Saiba mais]{type=Informative url="https://business.adobe.com/products/experience-platform/agent-orchestrator.html" tooltip="Acesse Business.adobe.com"}
+* **Aplicativos [!DNL Experience Cloud] existentes:** esses aplicativos funcionam por conta própria, mas adicionar [!DNL AEP Agents] oferece mais poder e impacto. Se você tiver uma licença do [!DNL Platform Agent Orchestrator], poderá usar o [!DNL Platform Agents] para os aplicativos aos quais tem direito.
+
+* **Aplicativos Experience Cloud AI-first:** Esses aplicativos são criados com IA no núcleo. Eles usam IA gerativa ou agêntica para tarefas importantes e os recursos de agente já estão incluídos na licença.
+
+## Agentes AEP e como usá-los
+
+| Nome do agente | Disponibilidade | Aplicativos compatíveis | Recursos |
+|---|----------|------------|----------|
+| **Audience Agent** | Em breve | <ul><li>Real-Time CDP</li><li>Adobe Journey Optimizer</li></ul> | Crie e otimize públicos-alvo usando prompts de linguagem natural. |
+| [Data Insights Agent](https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-overview/cja-b2c-overview/data-analysis-ai) | Disponível | <ul><li>Customer Journey Analytics</li></ul> | Responda a perguntas sobre dados e crie visualizações no Analysis Workspace. |
+| **Agente de experimentação** | Em breve | <ul><li>AJO Experimentation Accelerator</li></ul> | Automatize a análise para identificar experiências e oportunidades de crescimento. |
+| **Journey Agent** | Em breve | <ul><li>Adobe Journey Optimizer</li></ul> | Crie, analise e otimize as jornadas do cliente em escala. |
+| [Agente de Suporte ao Produto](https://experienceleague.adobe.com/en/docs/experience-platform/ai-assistant/new-features/customer-support) | Disponível | <ul><li>Adobe Experience Platform</li><li>Real-Time CDP</li><li>Adobe Journey Optimizer</li><li>Adobe Journey Optimizer B2B edition</li><li>Customer Journey Analytics</li><li>Adobe Experience Manager</li></ul> | Solucione problemas, crie tíquetes de suporte e rastreie o progresso com o Assistente de IA. |
+
+[!BADGE Saiba mais sobre o Adobe for Business]{type=Informative url="https://business.adobe.com/products/experience-platform/agent-orchestrator.html" tooltip="Acesse Business.adobe.com"}
+
+<!-- 
+* [Product Support Agent](https://experienceleague.adobe.com/en/docs/experience-platform/ai-assistant/new-features/customer-support) is a self-serve debugging and troubleshooting capability of [!UICONTROL AI Assistant] that you can use for Experience Platform features and applications. Troubleshoot support issues without leaving your workflows, create customer support tickets, and track case progress using AI Assistant.
+* [Data Insights Agent](https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-overview/cja-b2c-overview/data-analysis-ai) is accessible from the AI Assistant in Customer Journey Analytics. It is a generative AI conversation agent that quickly and efficiently answers questions about your data. It builds relevant visualizations in Analysis Workspace using components from your data view and using your actual data. -->
+
+
+
+
+
+
+
+

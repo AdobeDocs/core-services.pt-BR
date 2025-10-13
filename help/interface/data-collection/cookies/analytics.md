@@ -32,13 +32,13 @@ O Analytics usa cookies para definir novos visitantes anonimamente, ajudar a ana
 
 ## Cookies definidos por plug-ins
 
-Algumas implementações usam plug-ins, que são trechos de código que fornecem funcionalidade adicional para o Analytics. Esses plug-ins podem definir cookies que não estão listados acima. Consulte [Visão geral dos plug-ins do Analytics](https://experienceleague.adobe.com/en/docs/analytics/implementation/vars/plugins/impl-plugins) para obter uma lista de plug-ins disponíveis e quais cookies eles definiram.
+Algumas implementações usam plug-ins, que são trechos de código que fornecem funcionalidade adicional para o Analytics. Esses plug-ins podem definir cookies que não estão listados acima. Consulte [Visão geral dos plug-ins do Analytics](https://experienceleague.adobe.com/pt-br/docs/analytics/implementation/vars/plugins/impl-plugins) para obter uma lista de plug-ins disponíveis e quais cookies eles definiram.
 
 ## Consequências da exclusão de cookies do Analytics
 
 Se um visitante excluir os cookies do Analytics, considere o seguinte:
 
-* **A identificação do visitante é perdida:** quando os cookies são excluídos, o Adobe Analytics não consegue reconhecer os visitantes recorrentes. Na próxima vez que o usuário visitar seu site, ele será contado como um novo visitante. [A Análise entre dispositivos](https://experienceleague.adobe.com/en/docs/analytics/components/cda/overview) pode ajudar a atenuar esse impacto.
+* **A identificação do visitante é perdida:** quando os cookies são excluídos, o Adobe Analytics não consegue reconhecer os visitantes recorrentes. Na próxima vez que o usuário visitar seu site, ele será contado como um novo visitante. [A Análise entre dispositivos](https://experienceleague.adobe.com/pt-br/docs/analytics/components/cda/overview) pode ajudar a atenuar esse impacto.
 * **A continuidade da sessão foi interrompida:** Qualquer análise baseada em sessão ou de várias visitas (como rastreamento de atribuição ou conversão) foi interrompida. Eventos e conversões que ocorrem após a exclusão do cookie não podem ser vinculados a atividades anteriores pelo mesmo usuário.
 * **O Personalization e a segmentação são afetados:** Segmentos ou experiências personalizadas com base no histórico ou comportamento do visitante são redefinidos, pois os dados anteriores não são mais associados à visita atual.
 * **O rastreamento entre domínios foi interrompido:** Em cookies de terceiros, a exclusão deles impede que o Adobe Analytics vincule as atividades dos usuários em vários domínios pertencentes a você.

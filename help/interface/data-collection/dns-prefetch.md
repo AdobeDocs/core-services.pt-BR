@@ -24,7 +24,7 @@ Os navegadores usam a pré-busca DNS para resolver automaticamente os nomes de d
 
 ## Pré-busca de DNS e aplicativos da Adobe Experience Cloud
 
-A pré-busca de DNS funciona automaticamente com links estáticos e incorporados em uma página. Isso também significa que a pré-busca de DNS automática não funciona com aplicativos e serviços diferentes do [!UICONTROL Experience Cloud] porque:
+A pré-busca de DNS funciona automaticamente com links estáticos e incorporados em uma página. Isso também significa que a pré-busca de DNS automática não funciona com diferentes aplicativos e serviços do [!UICONTROL Experience Cloud] porque:
 
 * Cada aplicativo ou serviço da Experience Cloud gera chamadas de DNS dinamicamente à medida que a página é carregada.
 * O navegador não pode resolver nomes de domínio para o endereço IP antes que essas chamadas sejam feitas.
@@ -41,7 +41,7 @@ Os seguintes exemplos mostram como fazer chamadas de pré-busca de DNS para dife
 
 * **Audience Manager:** `<link rel="dns-prefetch" href="//dpm.demdex.net">`
 
-* **Serviço de ID do Experience Cloud:** `<link rel="dns-prefetch" href="//fast.examplepartnerid.demdex.net">`
+* **Serviço da Experience Cloud ID:** `<link rel="dns-prefetch" href="//fast.examplepartnerid.demdex.net">`
 
 * **Advertising Cloud:**
 

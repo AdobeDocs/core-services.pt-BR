@@ -1,5 +1,5 @@
 ---
-description: Receba ajuda e promoções personalizadas por email, em seus produtos Experience Cloud e nas comunidades Experience League com base em seus Dados de uso.
+description: Receba ajuda e promoções personalizadas por email, em seus produtos da Experience Cloud e nas comunidades da Experience League com base nos seus Dados de uso.
 solution: Experience Cloud
 title: Preferências de aprendizado personalizadas da Experience Cloud
 exl-id: ad6c8daf-c8ad-42e9-8ff0-cef59dc0da3f
@@ -12,7 +12,7 @@ ht-degree: 23%
 
 # Recomendações e promoções de aprendizado personalizadas
 
-O Adobe fornece conteúdo útil e personalizado com base em seu trabalho nos produtos Adobe. Os dados de uso do produto informam como personalizamos esse contexto para você. Você pode aceitar ou recusar o compartilhamento dos dados de uso do seu produto na página [preferências de Experience Cloud](https://experience.adobe.com/preferences).
+O Adobe fornece conteúdo útil e personalizado com base em seu trabalho nos produtos da Adobe. Os dados de uso do produto informam como personalizamos esse contexto para você. Você pode aceitar ou recusar o compartilhamento dos dados de uso do seu produto na página [Preferências do Experience Cloud](https://experience.adobe.com/preferences).
 
 <!-- ## Personalized training and support recommendations for your Adobe products and services
 

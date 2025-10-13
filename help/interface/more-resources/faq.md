@@ -11,7 +11,7 @@ exl-id: 062576da-328e-4b46-9e71-5a25733d607a
 source-git-commit: 74c584e657e02fdebcaa52cffb6778f8ce5f350c
 workflow-type: tm+mt
 source-wordcount: '697'
-ht-degree: 65%
+ht-degree: 76%
 
 ---
 
@@ -19,7 +19,7 @@ ht-degree: 65%
 
 Saiba mais sobre o suporte a navegadores e consulte perguntas e respostas comuns para admins da Experience Cloud.
 
-+++Quais navegadores são compatíveis com o Experience Cloud?
++++Quais navegadores são compatíveis com a Experience Cloud?
 
 O Adobe é compatível com as duas versões atuais e anteriores dos seguintes navegadores:
 
@@ -37,7 +37,7 @@ O uso de outro navegador é possível, mas o suporte não é garantido.
 
 +++
 
-+++Que idiomas são suportados?
++++Quais idiomas são aceitos?
 
 A Experience Cloud oferece suporte a idiomas preferenciais para cada usuário, conforme definido nas preferências de sua conta de usuário da Adobe. Os idiomas suportados atualmente são:
 
@@ -87,27 +87,27 @@ O provisionamento na Experience Cloud significa que:
 
 +++
 
-+++Como faço para gerenciar preferências de usuário, notificações e alertas?
++++Como faço para gerenciar preferências, notificações e alertas do usuário?
 
 * Consulte [Preferências e notificações da conta](/help/interface/features/account-preferences.md)
 
 +++
 
-+++Como faço para gerenciar perfis de produtos e credenciais de conta de usuário?
++++Como faço para gerenciar perfis de produtos e credenciais de contas de usuários?
 
 * Consulte o [Guia do usuário do Admin Console](https://helpx.adobe.com/br/enterprise/admin-guide.html) para obter ajuda.
 
 * O gerenciamento de produtos e direitos do usuário é executado no [Adobe Admin Console](https://adminconsole.adobe.com/enterprise) (link do produto).
 
-* **Importante:** admins do Analytics devem consultar [Gerenciar usuários do Analytics no Admin Console](https://experienceleague.adobe.com/docs/analytics/admin/user-product-management/migrate-users/c-migration-tool.html?lang=pt-BR) para saber como migrar IDs de usuários das ferramentas administrativas do Analytics para o Admin Console.
+* **Importante:** admins do Analytics devem consultar [Gerenciar usuários do Analytics no Admin Console](https://experienceleague.adobe.com/docs/analytics/admin/user-product-management/migrate-users/c-migration-tool.html) para saber como migrar IDs de usuários das ferramentas administrativas do Analytics para o Admin Console.
 
 +++
 
-+++O que posso fazer se alguém não conseguir fazer logon no Experience Cloud?
++++O que devo fazer se alguém não conseguir fazer logon no Experience Cloud?
 
 Os administradores do Admin Console podem conceder acesso aos usuários. Os usuários recebem emails com instruções de logon.
 
-Talvez seja necessário [entrar em contato com o suporte da Adobe](https://experienceleague.adobe.com/pt-br?support-solution=General&lang=pt-BR#support) para verificar se a empresa foi totalmente provisionada.
+Talvez seja necessário [entrar em contato com o suporte da Adobe](https://experienceleague.adobe.com/?support-solution=General&lang=pt-BR#support) para verificar se a empresa foi totalmente provisionada.
 
 +++
 
@@ -131,7 +131,7 @@ A [organização](../administration/organizations.md) é a entidade que permite 
 
 +++
 
-+++Onde encontro minha ID da organização IMS?
++++Onde posso encontrar minha ID da organização IMS?
 
 Consulte [Visualizar a ID da organização](../administration/organizations.md) para obter detalhes.
 
@@ -149,7 +149,7 @@ Consulte [Tipos de identidade](https://helpx.adobe.com/br/enterprise/using/ident
 
 +++
 
-+++É possível vincular as contas do aplicativo para meus usuários?
++++Posso vincular contas do aplicativo para meus usuários?
 
 Não. Os usuários devem vincular seus próprios aplicativos com seus respectivos nomes de usuário e senhas.
 

@@ -57,7 +57,7 @@ Extraído do GSPM:
          </a>
       </div>
       <p>
-         <em>Crie emails e Metadados de marca com desempenho.</em>
+         <em>Crie emails de marca, com desempenho, e anúncios do Meta.</em>
       </p>
    </td>
    <td valign="top">
@@ -131,11 +131,11 @@ Extraído do GSPM:
    <div>
       <a href="/help/user-guide/create/create-meta-ad.md">
       <img alt="Pessoas movendo arquivos para uma pasta" src="../assets/card-manage-content.png">
-      <strong>Criar uma experiência de meta-anúncio</strong>
+      <strong>Criar uma experiência de anúncio do Meta</strong>
       </a>
    </div>
    <p>
-      <em>Saiba como criar uma experiência de Metadados alinhados à marca.</em>
+      <em>Saiba como criar uma experiência de anúncio do Meta alinhada à marca.</em>
    </p>
 </td>
 </table>
@@ -179,7 +179,7 @@ Para acessar os aplicativos e serviços da Experience Cloud fornecidos para voc�
 
 ## Obter ajuda e suporte {#support}
 
-Acesse o aprendizado e a ajuda usando a **[!UICONTROL Central de ajuda]** (![recurso](assets/help-icon.png)) no cabeçalho, incluindo conteúdo de ajuda (documentação, tutoriais e cursos) na [Experience League](https://experienceleague.adobe.com/pt-br?lang=pt-BR#home), bem como recursos adicionais para aplicativos individuais. Você também pode enviar feedback aberto e criar tíquetes de suporte priorizados.
+Acesse o aprendizado e a ajuda usando a **[!UICONTROL Central de ajuda]** (![recurso](assets/help-icon.png)) no cabeçalho, incluindo conteúdo de ajuda (documentação, tutoriais e cursos) na [Experience League](https://experienceleague.adobe.com/?lang=pt-BR#home), bem como recursos adicionais para aplicativos individuais. Você também pode enviar feedback aberto e criar tíquetes de suporte priorizados.
 
 ![Obter ajuda e suporte](assets/search-menu.png)
 
@@ -220,7 +220,7 @@ Saiba mais sobre os últimos aprimoramentos dos componentes da interface central
 
 Você pode configurar suas preferências de conta para enviar notificações do Experience Cloud para um canal [!DNL Slack].
 
-[!BADGE Beta]{type=Informative url="https://experienceleague.adobe.com/pt-br/docs/core-services/interface/features/account-preferences#notifications" tooltip="Saiba mais sobre o Slack"}
+[!BADGE Beta]{type=Informative url="https://experienceleague.adobe.com/en/docs/core-services/interface/features/account-preferences#notifications" tooltip="Saiba mais sobre o Slack"}
 
 
 >[!TAB Nova interface de usuário do Adobe Campaign Web]

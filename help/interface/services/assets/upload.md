@@ -1,5 +1,5 @@
 ---
-description: Faça upload de um ativo para uma pasta compartilhada no navegador de Creative Cloud ou no desktop Creative Cloud.
+description: Faça upload de um ativo para uma pasta compartilhada no navegador da Creative Cloud ou no desktop da Creative Cloud.
 title: Fazer upload de um ativo para uma pasta compartilhada
 feature: Assets
 topic: Administration
@@ -15,7 +15,7 @@ ht-degree: 70%
 
 # Fazer upload de um ativo para uma pasta compartilhada
 
-Você pode fazer upload de um ativo por meio do desktop Creative Cloud ou do navegador Creative Cloud.
+Você pode fazer upload de um ativo por meio do desktop da Creative Cloud ou do navegador Creative Cloud.
 
 ## Fazer upload de um ativo para uma pasta compartilhada no navegador da Creative Cloud
 
@@ -28,7 +28,7 @@ Consulte [https://helpx.adobe.com/br/creative-cloud/help/sync-creative-cloud-fil
 
 ## Faça upload de um ativo para uma pasta compartilhada no desktop da Creative Cloud
 
-1. Ative o compartilhamento.
+1. Habilite o compartilhamento.
 1. Inicie o desktop da [!DNL Creative Cloud] e navegue até [!UICONTROL **Ativos**].
 1. Clique em **[!UICONTROL Abrir pasta].**
 1. Use a navegação de arquivo do seu sistema operacional para selecionar ou mover ativos.

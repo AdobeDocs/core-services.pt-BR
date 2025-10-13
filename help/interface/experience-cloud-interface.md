@@ -74,13 +74,13 @@ Faça logon e verifique se você está na [organização](organizations.md) corr
 
 Após fazer logon na Experience Cloud, você pode acessar rapidamente todos os aplicativos, serviços e organizações pelo cabeçalho unificado.
 
-Clique no seletor de aplicativos ![menu](assets/menu-icon.png) para acessar os serviços de Experience Cloud que você possui.
+Clique no ![menu](assets/menu-icon.png) do seletor de aplicativos para acessar os serviços Experience Cloud que você possui.
 
 ![Acessar aplicativos da Experience Cloud](assets/platform-core-services.png)
 
 ## Pesquisa e suporte na Experience Cloud {#search-support}
 
-A pesquisa na Experience Cloud permite procurar ajuda (documentação, tutoriais e cursos) na [Experience League](https://experienceleague.adobe.com/pt-br?lang=pt-BR#home).
+A pesquisa na Experience Cloud permite procurar ajuda (documentação, tutoriais e cursos) na [Experience League](https://experienceleague.adobe.com/?lang=pt-BR#home).
 
 ![Pesquisa e suporte na Experience Cloud](assets/search-menu.png)
 

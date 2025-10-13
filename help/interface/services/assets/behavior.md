@@ -11,8 +11,8 @@ level: Experienced
 exl-id: 5ddcb2f0-b491-466d-b357-aeacbfcf0b8e
 source-git-commit: c39672f0d8a0fd353b275b2ecd095ada1e2bf744
 workflow-type: tm+mt
-source-wordcount: '628'
-ht-degree: 99%
+source-wordcount: '627'
+ht-degree: 96%
 
 ---
 
@@ -22,7 +22,7 @@ Regras sobre como as pastas compartilhadas se comportam quando são movidas, exc
 
 >[!NOTE]
 >
->As pastas e os ativos compartilhados da Experience Cloud são espelhados no desktop da Creative Cloud em uma relação 1:1. Se um usuário da Experience Cloud mudar uma pasta (excluir, adicionar ou remover o compartilhamento), a ação será espelhada no desktop da Creative Cloud e na Web. Assim, se o compartilhamento de uma pasta for cancelado, a pasta e os ativos serão excluídos da máquina local. Depois que o compartilhamento for removido, a pasta e seu conteúdo serão movidos para a lixeira do computador local, onde você poderá restaurá-los manualmente para o computador.
+>As pastas e os ativos compartilhados do Experience Cloud são espelhados na área de trabalho do Creative Cloud em uma relação 1:1. Se um usuário da Experience Cloud mudar uma pasta (excluir, adicionar ou remover o compartilhamento), a ação será espelhada no desktop da Creative Cloud e na Web. Assim, se o compartilhamento de uma pasta for cancelado, a pasta e os ativos serão excluídos da máquina local. Depois que o compartilhamento for removido, a pasta e seu conteúdo serão movidos para a lixeira do computador local, onde você poderá restaurá-los manualmente para o computador.
 
 ## Pasta não compartilhada na pasta compartilhada {#section_A9BAC1A244A246A984AC62660E61E0C0}
 

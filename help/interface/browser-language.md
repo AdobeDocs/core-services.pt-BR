@@ -1,6 +1,6 @@
 ---
 title: Suporte a navegador e idioma
-description: Saiba mais sobre o suporte de navegador e idioma para aplicativos Experience Cloud. Selecione um idioma principal e secundário no perfil da conta.
+description: Saiba mais sobre o suporte a navegador e idioma para aplicativos Experience Cloud. Selecione um idioma principal e secundário no perfil da conta.
 solution: Experience Cloud
 feature: Account Preferences
 topic: Administration
@@ -10,7 +10,7 @@ exl-id: cc44008e-8b8a-4afb-b692-0ef9b87d5b21
 source-git-commit: fb5ea051385932fbb2c762d4a887c089fcec706e
 workflow-type: tm+mt
 source-wordcount: '244'
-ht-degree: 45%
+ht-degree: 56%
 
 ---
 
@@ -45,7 +45,7 @@ A interface do usuário do Experience Cloud está disponível nos seguintes idio
 * Chinês tradicional
 * Chinês simplificado
 
-Além disso, a formatação específica do local (como datas, horas, calendários, números) também pode estar disponível em variantes dos idiomas compatíveis com a interface do usuário do:
+Além disso, a formatação específica da localidade (como datas, horas, calendários, números) também pode estar disponível em variantes dos idiomas compatíveis com a interface:
 
 * Inglês (Israel)
 * Inglês (Reino Unido)
@@ -61,6 +61,6 @@ Além disso, a formatação específica do local (como datas, horas, calendário
 
 1. Em **[!UICONTROL Selecionar idioma]**, selecione um idioma no menu **[!UICONTROL Primeiro idioma]**.
 
-   Embora todas as equipes de aplicativos estejam comprometidas com o suporte global aos idiomas, nem todos os aplicativos são oferecidos em todos os idiomas listados na interface. Se o seu idioma principal não for suportado em um aplicativo Experience Cloud, você poderá definir um idioma padrão secundário, quando aplicável.
+   Embora todas as equipes de aplicativos estejam comprometidas com o suporte global aos idiomas, nem todos os aplicativos são oferecidos em todos os idiomas listados na interface. Se o seu idioma principal não tiver suporte em um aplicativo do Experience Cloud, você poderá definir um idioma padrão secundário, quando aplicável.
 
 1. Clique em **[!UICONTROL Salvar]**.

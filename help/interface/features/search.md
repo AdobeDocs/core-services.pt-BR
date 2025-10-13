@@ -1,7 +1,7 @@
 ---
-description: Saiba mais sobre o recurso Pesquisa unificada para determinados aplicativos no Experience Cloud.
+description: Saiba mais sobre o recurso Pesquisa unificada para determinados aplicativos na Experience Cloud.
 solution: Experience Cloud
-title: Pesquisa unificada do Experience Cloud
+title: Pesquisa unificada da Experience Cloud
 index: true
 feature: Central Interface Components
 topic: Administration
@@ -23,7 +23,7 @@ A [!UICONTROL Pesquisa unificada] permite encontrar objetos ou entidades comerci
 
 ## Acesso à Pesquisa unificada
 
-A Pesquisa unificada está disponível em todas as páginas no cabeçalho de Experience Cloud na parte superior da página. Você também pode usar o atalho de teclado `command /` ou `ctrl /` para acessar a pesquisa.
+A Pesquisa unificada está disponível em todas as páginas no cabeçalho do Experience Cloud, na parte superior da página. Você também pode usar o atalho de teclado `command /` ou `ctrl /` para acessar a pesquisa.
 
 Esse recurso está disponível somente para os produtos compatíveis, que atualmente são:
 
@@ -88,7 +88,7 @@ Os seguintes recursos estão disponíveis na Pesquisa unificada.
 | Realce | A resposta da pesquisa destaca a palavra-chave correspondente na consulta de pesquisa, para que você possa encontrar facilmente a seção e as palavras que correspondem à consulta. O realce também funciona para palavras com erro ortográfico. |
 | Trechos | Na resposta da pesquisa, você pode ver um trecho do resultado. Os trechos retornam as palavras correspondentes e algum conteúdo em torno das palavras-chave correspondentes. |
 | Palavras de interrupção | Algumas palavras usadas com frequência em inglês são definidas como _palavras de interrupção_. Se palavras de interrupção forem incluídas na consulta de pesquisa, menos peso será dado a elas. <br>As palavras de interrupção incluem: _a, an, and, are, as, at, be, but, by, for, if, in, into, is, it, no, not, of, on ou, such, that, the, their, then, there, these, this, to, was, will, with_. <br>Não há suporte para palavras de interrupção em outros idiomas globais. |
-| Consultas de linguagem natural | Quando você procurar um artigo de ajuda ou uma discussão no Experience League Communities, poderá digitar a sua pergunta usando linguagem natural e obter a resposta. Exemplo de pesquisa: &quot;Como criar um esquema?&quot; |
+| Consultas de linguagem natural | Ao procurar um artigo de ajuda ou uma discussão nas comunidades do Experience League, você pode digitar a pergunta em linguagem natural e obter a resposta. Exemplo de pesquisa: &quot;Como criar um esquema?&quot; |
 | Pesquisa exata entre aspas | Você pode fazer uma pesquisa exata usando aspas na query. Nenhuma correção de erro de digitação é feita em consultas de correspondência exata. Por exemplo: &quot;Luma Jornada 2022&quot;. |
 | Filtros | Você pode aplicar filtros como _Tipo de objeto_ e outros filtros específicos de objeto na janela pop-up de resultados da pesquisa completa. Quando você pressiona Enter depois de vincular a consulta de pesquisa, um pop-up de página inteira é aberto com os filtros. |
 

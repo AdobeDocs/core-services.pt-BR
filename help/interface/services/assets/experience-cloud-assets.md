@@ -71,7 +71,7 @@ Clique em **[!UICONTROL Anotar]** ao desenhar círculos ou setas em uma imagem, 
 
 ## Exibir ativos de tela inteira e utilizar o zoom {#section_A9F50D7D6BE341A2AB8244A4E42A4EF7}
 
-Clique em **[!UICONTROL Visualizações]** > **[!UICONTROL Imagem]** para exibir a imagem de ativo completa e ativar o zoom.
+Clique em **[!UICONTROL Visualizações]** > **[!UICONTROL Imagem]** para exibir a imagem de ativo completa e habilitar o zoom.
 
 ![Exibir ativos em tela cheia](../../assets/asset-zoom.png)
 

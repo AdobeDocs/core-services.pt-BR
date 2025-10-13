@@ -68,7 +68,7 @@ ht-degree: 100%
       + [Cookies de publicidade](data-collection/cookies/advertising.md)
       + [Cookies do Analytics](data-collection/cookies/analytics.md)
       + [Cookies do Audience Manager](data-collection/cookies/audience-manager.md)
-      + [Cookies da Experience Cloud ](data-collection/cookies/experience-cloud.md)
+      + [Cookies da Experience Cloud](data-collection/cookies/experience-cloud.md)
       + [Cookies do Target](data-collection/cookies/target.md)
       + [Cookies do SDK da Web](data-collection/cookies/web-sdk.md)
    + [Coleta de dados regionais](data-collection/rdc.md)

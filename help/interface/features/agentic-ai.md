@@ -41,7 +41,7 @@ Saiba mais sobre a disponibilidade de agentes de IA e aplicativos compatíveis:
 
 * Página inicial da documentação do [AI no Experience Cloud](https://experienceleague.adobe.com/en/docs/ai)
 
-[!BADGE Saiba mais sobre o Adobe for Business]{type=Informative url="https://business.adobe.com/products/experience-platform/agent-orchestrator.html" tooltip="Acesse Business.adobe.com"}
+[!BADGE Saiba mais sobre o Adobe for Business]{type=Informative url="https://business.adobe.com/br/products/experience-platform/agent-orchestrator.html" tooltip="Acesse Business.adobe.com"}
 
 
 

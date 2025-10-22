@@ -8,9 +8,9 @@ topic: Administration
 role: Admin
 level: Experienced
 exl-id: bc8ce894-f98c-4475-8a07-d74ae76f7451
-source-git-commit: d3a559ca2f7963256d48a25cd51099edb5e3fe76
+source-git-commit: e31b3e591a9342230f0f2a9287aedf715423fd60
 workflow-type: tm+mt
-source-wordcount: '535'
+source-wordcount: '545'
 ht-degree: 11%
 
 ---
@@ -30,15 +30,17 @@ O Analytics usa cookies para definir novos visitantes anonimamente, ajudar a ana
 | **`s_fid`** | 2 anos | 33 bytes | Primários | Armazena a ID de visitante exclusiva de fallback e o carimbo de data e hora. Definido pelo JavaScript se o cookie padrão `s_vi` não puder ser definido devido a restrições de cookies de terceiros. Não usado para implementações de cookies primários. |
 | **`s_ac`** | Imediato | 1 byte | Primários | Ajuda a determinar o domínio correto para definir cookies do AppMeasurement. Contém o valor estático `"1"`. Depois que este cookie é configurado, ele é excluído imediatamente. |
 
+Consulte [Identificação do visitante no Adobe Analytics](https://experienceleague.adobe.com/en/docs/analytics/implementation/id/overview) para obter mais informações sobre como o Adobe Analytics identifica visitantes usando cookies.
+
 ## Cookies definidos por plug-ins
 
-Algumas implementações usam plug-ins, que são trechos de código que fornecem funcionalidade adicional para o Analytics. Esses plug-ins podem definir cookies que não estão listados acima. Consulte [Visão geral dos plug-ins do Analytics](https://experienceleague.adobe.com/pt-br/docs/analytics/implementation/vars/plugins/impl-plugins) para obter uma lista de plug-ins disponíveis e quais cookies eles definiram.
+Algumas implementações usam plug-ins, que são trechos de código que fornecem funcionalidade adicional para o Analytics. Esses plug-ins podem definir cookies que não estão listados acima. Consulte [Visão geral dos plug-ins do Analytics](https://experienceleague.adobe.com/en/docs/analytics/implementation/vars/plugins/impl-plugins) para obter uma lista de plug-ins disponíveis e quais cookies eles definiram.
 
 ## Consequências da exclusão de cookies do Analytics
 
 Se um visitante excluir os cookies do Analytics, considere o seguinte:
 
-* **A identificação do visitante é perdida:** quando os cookies são excluídos, o Adobe Analytics não consegue reconhecer os visitantes recorrentes. Na próxima vez que o usuário visitar seu site, ele será contado como um novo visitante. [A Análise entre dispositivos](https://experienceleague.adobe.com/pt-br/docs/analytics/components/cda/overview) pode ajudar a atenuar esse impacto.
+* **A identificação do visitante é perdida:** quando os cookies são excluídos, o Adobe Analytics não consegue reconhecer os visitantes recorrentes. Na próxima vez que o usuário visitar seu site, ele será contado como um novo visitante.
 * **A continuidade da sessão foi interrompida:** Qualquer análise baseada em sessão ou de várias visitas (como rastreamento de atribuição ou conversão) foi interrompida. Eventos e conversões que ocorrem após a exclusão do cookie não podem ser vinculados a atividades anteriores pelo mesmo usuário.
 * **O Personalization e a segmentação são afetados:** Segmentos ou experiências personalizadas com base no histórico ou comportamento do visitante são redefinidos, pois os dados anteriores não são mais associados à visita atual.
 * **O rastreamento entre domínios foi interrompido:** Em cookies de terceiros, a exclusão deles impede que o Adobe Analytics vincule as atividades dos usuários em vários domínios pertencentes a você.

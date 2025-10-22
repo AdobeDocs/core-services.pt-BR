@@ -34,7 +34,7 @@ Consulte [Identificação do visitante no Adobe Analytics](https://experiencelea
 
 ## Cookies definidos por plug-ins
 
-Algumas implementações usam plug-ins, que são trechos de código que fornecem funcionalidade adicional para o Analytics. Esses plug-ins podem definir cookies que não estão listados acima. Consulte [Visão geral dos plug-ins do Analytics](https://experienceleague.adobe.com/en/docs/analytics/implementation/vars/plugins/impl-plugins) para obter uma lista de plug-ins disponíveis e quais cookies eles definiram.
+Algumas implementações usam plug-ins, que são trechos de código que fornecem funcionalidade adicional para o Analytics. Esses plug-ins podem definir cookies que não estão listados acima. Consulte [Visão geral dos plug-ins do Analytics](https://experienceleague.adobe.com/pt-br/docs/analytics/implementation/vars/plugins/impl-plugins) para obter uma lista de plug-ins disponíveis e quais cookies eles definiram.
 
 ## Consequências da exclusão de cookies do Analytics
 

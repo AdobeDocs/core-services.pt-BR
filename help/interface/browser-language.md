@@ -7,14 +7,14 @@ topic: Administration
 role: Admin
 level: Intermediate
 exl-id: cc44008e-8b8a-4afb-b692-0ef9b87d5b21
-source-git-commit: fb5ea051385932fbb2c762d4a887c089fcec706e
+source-git-commit: c447723f4d6c57bdccad6c4a8996693aec4a56fe
 workflow-type: tm+mt
-source-wordcount: '244'
+source-wordcount: '237'
 ht-degree: 56%
 
 ---
 
-# Suporte ao navegador na Experience Cloud {#browser}
+# Suporte ao navegador na Experience Cloud
 
 Para obter o melhor desempenho, a Experience Cloud é otimizada para os navegadores mais populares, incluindo a versão mais recente, além das duas versões anteriores.
 
@@ -30,7 +30,7 @@ Se o seu navegador não estiver listado, talvez ainda seja suportado, mas é rec
 >
 >Nem todos os aplicativos em execução no domínio Experience Cloud dão suporte a todos os navegadores. Se não tiver certeza, confira a documentação de um aplicativo específico.
 
-## Suporte de idiomas na Experience Cloud {#languages}
+## Suporte de idiomas na Experience Cloud
 
 A interface do usuário do Experience Cloud está disponível nos seguintes idiomas:
 
@@ -55,12 +55,12 @@ Além disso, a formatação específica da localidade (como datas, horas, calend
 
 **Para especificar um idioma padrão**
 
-1. No Experience Cloud, clique em **[!UICONTROL Perfil]** > [Preferências](https://experience.adobe.com/preferences).
+1. No Experience Cloud, clique em **[!UICONTROL Profile]** > [Preferências](https://experience.adobe.com/preferences).
 
-1. Em **[!UICONTROL Perfil]**, clique no link do idioma.
+1. Em **[!UICONTROL Profile]**, clique no link do idioma.
 
-1. Em **[!UICONTROL Selecionar idioma]**, selecione um idioma no menu **[!UICONTROL Primeiro idioma]**.
+1. Em **[!UICONTROL Select language]**, selecione um idioma no menu **[!UICONTROL First language]**.
 
    Embora todas as equipes de aplicativos estejam comprometidas com o suporte global aos idiomas, nem todos os aplicativos são oferecidos em todos os idiomas listados na interface. Se o seu idioma principal não tiver suporte em um aplicativo do Experience Cloud, você poderá definir um idioma padrão secundário, quando aplicável.
 
-1. Clique em **[!UICONTROL Salvar]**.
+1. Clique em **[!UICONTROL Save]**.

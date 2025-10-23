@@ -8,10 +8,10 @@ topic: Administration
 role: Admin
 level: Experienced
 exl-id: 643c878f-c2f3-4c1d-ae3e-6a75c95520b4
-source-git-commit: 163dc8ef83fb83a0e51879520bcb3ae697c95144
+source-git-commit: c447723f4d6c57bdccad6c4a8996693aec4a56fe
 workflow-type: tm+mt
-source-wordcount: '326'
-ht-degree: 100%
+source-wordcount: '316'
+ht-degree: 86%
 
 ---
 
@@ -31,13 +31,13 @@ Usar ativos melhora a consistência e a conformidade da marca, além de acelerar
 * **[!DNL Adobe Campaign]**: coloque ativos em informativos e campanhas por email.
 
 
-## Navegar até os ativos da Experience Cloud {#section_3657039DD3524F2AA88753BFF4781125}
+## Navegar até os ativos da Experience Cloud
 
 ![Navegar até o Experience Cloud Assets](../../assets/asset-nav.png)
 
-## Acessar a barra de ferramentas {#section_EC2E401D225148818F3753248556BE6B}
+## Acessar a barra de ferramentas
 
-Navegue até um ativo (ou diretório de ativo) e clique em **[!UICONTROL Selecionar]**.
+Navegue até um ativo (ou diretório de ativo) e clique em **[!UICONTROL Select]**.
 
 A barra de ferramentas fornece acesso rápido aos recursos, incluindo Pesquisa, Linha do tempo, Representações, Edição, Anotação e Download.
 
@@ -47,7 +47,7 @@ A barra de ferramentas fornece acesso rápido aos recursos, incluindo Pesquisa, 
 >
 >Os ativos devem ser removidos das atividades do Adobe Target antes que você possa excluí-los do [!DNL Target].
 
-## Editar ativos {#section_CD3C55A9D4574455B94D0955391C8FEC}
+## Editar ativos
 
 Editar um ativo habilita recursos, incluindo:
 
@@ -57,36 +57,36 @@ Editar um ativo habilita recursos, incluindo:
 
 ![Editar ativos](../../assets/asset-edit.png)
 
-## Pesquisar por ativos {#section_50FE049010B446FC9640AA6A30E5A730}
+## Pesquisar por ativos
 
 Você pode pesquisar por palavra-chave, tipo de arquivo, tamanho, última modificação, status de publicação, orientação e estilo.
 
 ![Pesquisar por ativos](../../assets/asset-search.png)
 
-## Comentar ativos {#section_67FE1DFAAB744DA5B1CD3AD3CCEABF7A}
+## Comentar ativos
 
-Clique em **[!UICONTROL Anotar]** ao desenhar círculos ou setas em uma imagem, e anotar o ativo para análise pelos colegas de trabalho.
+Clique em **[!UICONTROL Annotate]** desenhando círculos ou setas em uma imagem e anotando o ativo para análise pelos colegas de trabalho.
 
 ![Comentar ativos](../../assets/assets-annotate.png)
 
-## Exibir ativos de tela inteira e utilizar o zoom {#section_A9F50D7D6BE341A2AB8244A4E42A4EF7}
+## Exibir ativos de tela inteira e utilizar o zoom
 
-Clique em **[!UICONTROL Visualizações]** > **[!UICONTROL Imagem]** para exibir a imagem de ativo completa e habilitar o zoom.
+Clique em **[!UICONTROL Views]** > **[!UICONTROL Image]** para exibir a imagem de ativo completa e habilitar o zoom.
 
 ![Exibir ativos em tela cheia](../../assets/asset-zoom.png)
 
-## Exibir propriedades de ativos {#section_FED28711DAB14E1BBEEA7CA890EE9573}
+## Exibir propriedades de ativos
 
 Escolha entre exibição de cartão com propriedades, de lista e de coluna para encontrar os ativos de forma mais fácil.
 
-Clique em **[!UICONTROL Visualizações]** > **[!UICONTROL Propriedades]** para exibir as propriedades de um ativo:
+Clique em **[!UICONTROL Views]** > **[!UICONTROL Properties]** para exibir as propriedades de um ativo:
 
 ![Exibir propriedades de ativos](../../assets/asset-properties.png)
 
-## Executar relatórios de uso {#section_15D782FFB8D74CF4A735116CC03AD902}
+## Executar relatórios de uso
 
 Consulte a quantidade de usuários, armazenamento usado e total de ativos.
 
-Clique em **[!UICONTROL Ferramentas]** > **[!UICONTROL Relatórios]** > **[!UICONTROL Relatório de uso]**
+Clique em **[!UICONTROL Tools]** > **[!UICONTROL Reports]** > **[!UICONTROL Usage Report]**
 
 ![Executar relatórios de uso](../../assets/assets-usage-report.png)

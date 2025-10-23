@@ -7,22 +7,22 @@ role: Admin
 topic: Administration
 level: Experienced
 exl-id: fe8ad013-76da-49f8-aa51-dc5f6c1b1d79
-source-git-commit: bd718358c6db1ea4a6150d019773072418b629f9
+source-git-commit: c447723f4d6c57bdccad6c4a8996693aec4a56fe
 workflow-type: tm+mt
-source-wordcount: '309'
-ht-degree: 80%
+source-wordcount: '304'
+ht-degree: 81%
 
 ---
 
 # [!DNL Customer Attributes] na Experience Cloud
 
-**[!UICONTROL Aplicativos]** ![menu](assets/menu-icon.png) > **[!DNL Customer Attributes]**
+**[!UICONTROL Apps]** ![menu](assets/menu-icon.png) > **[!DNL Customer Attributes]**
 
 O serviço de [!DNL Customer Attributes] na Experience Cloud permite que você faça upload de dados corporativos capturados de um banco de dados de gerenciamento de relacionamento com o cliente (CRM). Você pode [carregar os dados](t-crs-usecase.md) em uma fonte de dados [!DNL Customer Attributes] no Experience Cloud e, em seguida, usar os dados em [!DNL Adobe Analytics] e [!DNL Adobe Target].
 
 ![Visão geral dos atributos do cliente](assets/custom_reports.png)
 
-## O que são os dados de clientes de empresas? {#enterprise_data}
+## O que são os dados de clientes de empresas?
 
 Os dados da empresa ficam em outros sistemas. Eles podem ser complexos e ter diferentes significados para pessoas diferentes. Esses dados podem incluir informações como associações, nível de fidelidade, idade, gênero, produtos de propriedade, interesses e valor da vida útil.
 
@@ -30,11 +30,11 @@ A imagem a seguir é um exemplo de um arquivo de dados que mostra os dados do as
 
 ![O que são os dados de clientes corporativos?](assets/01_crs_usecase.png)
 
-Após a criação do arquivo de dados, é possível carregá-lo na fonte de atributos do cliente que você cria em **[!UICONTROL Experience Cloud]** > **[!UICONTROL Atributos do cliente]**.
+Após a criação do arquivo de dados, é possível carregá-lo na fonte de atributos do cliente que você cria em **[!UICONTROL Experience Cloud]** > **[!UICONTROL Customer attributes]**.
 
 Consulte [Fazer upload dos dados de atributos do cliente](t-crs-usecase.md) para conhecer esse fluxo de trabalho.
 
-## Exemplos de atributos do cliente no Analytics e no Target {#examples}
+## Exemplos de atributos do cliente no Analytics e no Target
 
 Depois que os dados estiverem na Experience Cloud, é possível personalizá-los e compartilhá-los com soluções de relatório, segmentação, atividades e campanhas.
 

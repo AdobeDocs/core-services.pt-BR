@@ -29,7 +29,7 @@ Esta ajuda descreve os seguintes produtos e serviços:
 |--- |--- |
 | [Componentes da interface central](https://experienceleague.adobe.com/pt-br/docs/core-services/interface/experience-cloud) | Acesse preferências de conta, pesquise a ajuda do produto e acesse aplicativos e serviços. |
 | [Biblioteca de público-alvo](https://experienceleague.adobe.com/pt-br/docs/core-services/interface/services/audiences/overview) | Os públicos-alvo são coleções de visitantes (uma lista de IDs de visitante). O [!DNL Audience Library] da Adobe permite gerenciar a conversão dos dados do visitante em segmentação do público-alvo. |
-| [Atributos do cliente](https://experienceleague.adobe.com/en/docs/core-services/interface/services/customer-attributes/attributes) | Crie casos de uso de orquestração em tempo real usando dados contextuais armazenados em eventos ou fontes de dados. O [!UICONTROL Journey Orchestration] é um serviço de aplicativos integrado à Experience Platform. |
+| [Atributos do cliente](https://experienceleague.adobe.com/pt-br/docs/core-services/interface/services/customer-attributes/attributes) | Crie casos de uso de orquestração em tempo real usando dados contextuais armazenados em eventos ou fontes de dados. O [!UICONTROL Journey Orchestration] é um serviço de aplicativos integrado à Experience Platform. |
 | [Ativos](https://experienceleague.adobe.com/pt-br/docs/core-services/interface/services/assets/experience-cloud-assets) | O Experience Cloud Assets oferece um repositório único e centralizado de ativos prontos para marketing, que podem ser compartilhados entre aplicativos. |
 
 {style="table-layout:auto"}

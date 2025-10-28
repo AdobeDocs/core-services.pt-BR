@@ -7,10 +7,10 @@ topic: Administration
 role: Admin
 level: Experienced
 exl-id: cfa2aa5c-337f-401e-80eb-cbe36cb1d41e
-source-git-commit: 21120abb5ab0fcc8d556012851548f39f3875038
+source-git-commit: a1cfa6c69d8e95ceb0d4c3c72c24541867173fcc
 workflow-type: tm+mt
-source-wordcount: '428'
-ht-degree: 61%
+source-wordcount: '415'
+ht-degree: 63%
 
 ---
 
@@ -24,17 +24,17 @@ Por exemplo, uma assinatura do Adobe Analytics permite atribuir dados em relató
 
 1. Localize sua fonte de dados em [!DNL Customer Attributes] para edição:
 
-   Em [!DNL Experience Cloud], clique em **[!UICONTROL Aplicativos]** ![menu](assets/menu-icon.png) > **[!DNL Customer Attributes]**.
+   Em [!DNL Experience Cloud], clique em **[!UICONTROL Apps]** ![menu](assets/menu-icon.png) > **[!DNL Customer Attributes]**.
 
-1. Em [!UICONTROL Editar Source de Atributos do Cliente], clique em **[!UICONTROL Upload de Arquivo]**.
+1. Em [!UICONTROL Edit Customer Attribute Source], clique em **[!UICONTROL File Upload]**.
 
-1. Clique em **[!UICONTROL Configurar assinaturas]**.
+1. Clique em **[!UICONTROL Configure Subscriptions]**.
 
    ![Configurar assinaturas na Experience Cloud](assets/configure-subscriptions.png)
 
-1. Para ativar a fonte de atributo do cliente, clique em **[!UICONTROL Ativo]** e em **[!UICONTROL Salvar]**.
+1. Para ativar a fonte de atributo do cliente, clique em **[!UICONTROL Active]** e em **[!UICONTROL Save]**.
 
-1. Para configurar uma assinatura para [!DNL Analytics] ou [!DNL Target], clique em **[!UICONTROL Configurar]**.
+1. Para configurar uma assinatura para [!DNL Analytics] ou [!DNL Target], clique em **[!UICONTROL Configure]**.
 
    O exemplo a seguir mostra uma assinatura [!DNL Target]:
 
@@ -46,4 +46,5 @@ Por exemplo, uma assinatura do Adobe Analytics permite atribuir dados em relató
    | Report Suite (Adobe Analytics) | Os conjuntos de relatórios do Analytics.<br>Não é possível adicionar mais de dez conjuntos de relatórios às assinaturas do Analytics em uma única fonte de atributos. Ao escolher quais conjuntos de relatórios incluir, considere as seguintes sugestões:<ul><li>Escolher os conjuntos de relatórios que tenham um conjunto comum de clientes autenticados. Se os clientes autenticados em um conjunto de relatórios não se sobrepuserem aos clientes autenticados em outro conjunto de relatórios, separe esses conjuntos de relatórios em diferentes fontes de atributo.</li><li>Se possível, os conjuntos de relatórios incluídos em uma fonte de atributo devem ter um volume de tráfego semelhante.</li></ul><br>Se você tiver mais de dez conjuntos de relatórios que tenham um conjunto comum de clientes autenticados, será possível configurar outras fontes de atributo do cliente, cada uma com até dez conjuntos de relatórios. |
    | Atributos a serem incluídos (Analytics e [!DNL Target]) | Os atributos que deseja enviar para o aplicativo. <br>Ao configurar assinaturas e selecionar atributos, os seguintes limites poderão ser aplicados _por conjunto de relatórios,_ dependendo dos aplicativos que possui:<ul><li>Foundation: 0</li><li>Select: 3</li><li>Prime: 15</li><li>Ultimate: 200</li><li>Standard: total de 3</li><li>Premium: 200 por conjunto de relatórios</li><li>[!DNL Target] Standard: 5</li><li>[!DNL Target] Premium: 200</li></ul><br>**Observação:** quando você atualiza para o Analytics Premium, há um atraso de 24 horas antes de os atributos adicionais estarem disponibilizados. Você pode observar um erro de atributo Máximo de assinatura emitido durante esse atraso. |
 
-1. Clique em **[!UICONTROL Salvar]**.
+1. Clique em **[!UICONTROL Save]**.
+

@@ -8,9 +8,9 @@ topic: Administration
 role: Admin
 level: Experienced
 exl-id: 77e56cbe-92b6-4b18-ba13-e8178369e57c
-source-git-commit: b4d7cc357393798f2265e09885dd4ea2f80ab31e
+source-git-commit: a1cfa6c69d8e95ceb0d4c3c72c24541867173fcc
 workflow-type: tm+mt
-source-wordcount: '128'
+source-wordcount: '124'
 ht-degree: 93%
 
 ---
@@ -19,7 +19,7 @@ ht-degree: 93%
 
 O Exchange Marketplace é o único local onde você pode pesquisar, navegar, selecionar, pagar e baixar extensões de marketing digital através de aplicativos. Os aplicativos incluem conectores de dados, configurações personalizadas para o produto principal da Adobe, aplicativos de terceiros e relatórios.
 
-**[!UICONTROL Experience Cloud]** > **[!UICONTROL Ajuda]** > **[!UICONTROL Exchange]**
+**[!UICONTROL Experience Cloud]** > **[!UICONTROL Help]** > **[!UICONTROL Exchange]**
 
 * Baixe SDKs, leia a documentação e envie aplicativos para o Digital Marketing para análise.
 
@@ -36,3 +36,4 @@ O Exchange Marketplace é o único local onde você pode pesquisar, navegar, sel
 * Pesquise e filtre por categoria, empresa, tipo, usuário e muito mais.
 
 Consulte [Experience Cloud Exchange](https://exchange.adobe.com/experiencecloud.html) para obter mais informações.
+

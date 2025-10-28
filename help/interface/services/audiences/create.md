@@ -8,16 +8,16 @@ topic: Administration
 role: Admin
 level: Experienced
 exl-id: b65a12f5-fa89-400a-b279-13c381cd6c22
-source-git-commit: c98084e3960e40ae28e55050ce0727abce94ba0c
+source-git-commit: a1cfa6c69d8e95ceb0d4c3c72c24541867173fcc
 workflow-type: tm+mt
-source-wordcount: '540'
-ht-degree: 65%
+source-wordcount: '507'
+ht-degree: 62%
 
 ---
 
 # Criar um público-alvo
 
-Na [!UICONTROL Biblioteca de público-alvo], você pode usar as regras de atributo para criar um público-alvo e definir um público-alvo composto para compartilhamento nos aplicativos do Experience Cloud.
+No [!UICONTROL Audience Library], você pode usar as regras de atributo para criar um público-alvo e definir um público-alvo composto para compartilhar em aplicativos Experience Cloud.
 
 Este artigo ajuda você a entender como:
 
@@ -44,24 +44,24 @@ O exemplo a seguir mostra como criar as regras para um público-alvo composto. E
 
 **Para criar um público-alvo**
 
-1. Clique em [!DNL Experience Cloud] aplicativos (![ícone de aplicativos](assets/apps-icon.png)) e em **[!UICONTROL Pessoas]** > **[!UICONTROL Biblioteca de público-alvo].**
+1. Clique em [!DNL Experience Cloud] aplicativos (![Ícone de aplicativos](assets/apps-icon.png)) e em **[!UICONTROL People]** > **[!UICONTROL Audience Library].**
 
-1. Na página [!UICONTROL Públicos-alvo], clique em **[!UICONTROL Novo]**. ![Novo público-alvo](assets/add_icon_small.png)
+1. Na página [!UICONTROL Audiences], clique em **[!UICONTROL New]**. ![Novo público-alvo](assets/add_icon_small.png)
 
    ![Criar um público-alvo](assets/audience_create_new.png)
 
-1. Na página [!UICONTROL Criar Novo Público], preencha os campos **[!UICONTROL Título]** e **[!UICONTROL Descrição]**.
-1. Em [!UICONTROL Regras], selecione um conjunto de relatórios de referência e, em seguida, uma fonte de atributo:
+1. Na página [!UICONTROL Create New Audience], preencha os campos **[!UICONTROL Title]** e **[!UICONTROL Description]**.
+1. Em [!UICONTROL Rules], selecione um conjunto de relatórios de referência e, em seguida, uma fonte de atributo:
 
-   * **[!UICONTROL Dados do Real-Time Analytics:]** (ou dados brutos) Estes são dados de atributo derivados de solicitações de imagem do Real-Time Analytics. Inclui eVars e eventos. Você deve selecionar um conjunto de relatórios ao usar essa fonte de atributo e definir a dimensão ou evento que será incluído. Essa seleção de conjunto de relatórios fornece a estrutura variável usada pelo conjunto de relatórios.
+   * **[!UICONTROL Real-Time Analytics Data:]** (ou dados brutos) Estes são dados de atributo derivados de solicitações de imagem do Real-Time Analytics. Inclui eVars e eventos. Você deve selecionar um conjunto de relatórios ao usar essa fonte de atributo e definir a dimensão ou evento que será incluído. Essa seleção de conjunto de relatórios fornece a estrutura variável usada pelo conjunto de relatórios.
 
    >[!NOTE]
    >
    >Devido a questões relacionadas ao cache, conjuntos de relatórios excluídos no Analytics permanecem exibidos no Experience Cloud por 12 horas após a exclusão.
 
-   * **[!UICONTROL Experience Cloud:]** dados de atributo derivados de [!DNL Experience Cloud] fontes. Por exemplo, tais dados podem ser de segmentos de público-alvo criados no [!DNL Analytics], ou dados do [!DNL Audience Manager].
+   * **[!UICONTROL Experience Cloud:]** dados do atributo derivados de [!DNL Experience Cloud] fontes. Por exemplo, tais dados podem ser de segmentos de público-alvo criados no [!DNL Analytics], ou dados do [!DNL Audience Manager].
 
-1. Defina as regras de público-alvo e clique em **[!UICONTROL Salvar].**
+1. Defina as regras de audiência e clique em **[!UICONTROL Save].**
 
 **Exemplo: definir regras para público-alvo composto**
 
@@ -69,18 +69,18 @@ O exemplo a seguir mostra como criar as regras para um público-alvo composto. E
 >
 >Você deve conhecer suas variáveis de implementação ao criar essas regras de público-alvo.
 
-Em [!UICONTROL Regras], defina as *`Home & Garden`* seleções de atributo:
+Em [!UICONTROL Rules], defina as *`Home & Garden`* seleções de atributo:
 
-* **[!UICONTROL Fonte de atributo:]** dados brutos do Analytics
-* **[!UICONTROL Report Suite:]** Report Suite 31
-* Dimensão = **[!UICONTROL Loja (Merch) (v6)]** > **[!UICONTROL igual a]** > **[!UICONTROL Casa e Jardim]**
+* **[!UICONTROL Attribute Source:]** Dados brutos do Analytics
+* **[!UICONTROL Report Suite:]** Conjunto de relatórios 31
+* Dimension = **[!UICONTROL Store (Merch) (v6)]** > **[!UICONTROL Equals]** > **[!UICONTROL Home & Garden]**
 
 ![Seleção de atributos na Biblioteca de público-alvo](assets/home_garden.png)
 
 Os *Visitantes do Chrome e do Safari* são um segmento de público-alvo compartilhado do Analytics:
 
-* **[!UICONTROL Fonte do atributo:]** Experience Cloud
-* **[!UICONTROL Dimensão:]** Chrome &amp; Safari Visitors
+* Experience Cloud **[!UICONTROL Attribute Source:]**
+* **[!UICONTROL Dimension:]** Visitantes do Chrome e Safari
 
 ![Visitantes do Chrome e Safari](assets/chrome_safari.png)
 
@@ -97,4 +97,5 @@ A regra resultante é um público-alvo definido pela inclusão dos usuários do 
 
 Depois que a coleta de dados é concluída pelo período especificado, os círculos se combinam para mostrar um público-alvo definido.
 
-Depois que o público-alvo é salvo, ele é disponibilizado para outros aplicativos da Experience Cloud. Por exemplo, você pode incluir um público-alvo compartilhado em uma [atividade](https://experienceleague.adobe.com/pt-br/docs/target/using/activities/activities) do Adobe Target.
+Depois que o público-alvo é salvo, ele é disponibilizado para outros aplicativos da Experience Cloud. Por exemplo, você pode incluir um público-alvo compartilhado em uma [atividade](https://experienceleague.adobe.com/en/docs/target/using/activities/activities) do Adobe Target.
+

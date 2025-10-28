@@ -7,10 +7,10 @@ topic: Administration
 role: Admin
 level: Experienced
 exl-id: ed9e4a8f-493a-4a0f-a87e-674c7da95b99
-source-git-commit: 21120abb5ab0fcc8d556012851548f39f3875038
+source-git-commit: a1cfa6c69d8e95ceb0d4c3c72c24541867173fcc
 workflow-type: tm+mt
-source-wordcount: '378'
-ht-degree: 67%
+source-wordcount: '363'
+ht-degree: 63%
 
 ---
 
@@ -27,7 +27,7 @@ Você pode fazer upload dos dados depois de criar uma fonte de atributo do clien
 Os uploads de arquivo para o site FTP de atributos do cliente podem ser feitos via FTP ou SFTP:
 
 * Você precisa de um cliente compatível com conexões SFTP.
-* Você pode se conectar ao SFTP usando o nome de usuário/senha ou sem usar senha, conforme descrito [aqui](https://experienceleague.adobe.com/docs/analytics/export/ftp-and-sftp/secure-file-transfer-protocol/ftp-sftp-cert-auth.html?lang=pt-BR).
+* Você pode se conectar ao SFTP usando o nome de usuário/senha ou sem usar senha, conforme descrito [aqui](https://experienceleague.adobe.com/docs/analytics/export/ftp-and-sftp/secure-file-transfer-protocol/ftp-sftp-cert-auth.html).
 
 **Para fazer upload do arquivo de dados via FTP**
 
@@ -35,7 +35,7 @@ Os uploads de arquivo para o site FTP de atributos do cliente podem ser feitos v
 
    Verifique se você está conectado no site FTP em `ftp.adobe.com/<sftpname>`.
 
-1. Clique em **[!UICONTROL Ações]** > **[!UICONTROL Carregar arquivo]**.
+1. Clique em **[!UICONTROL Actions]** > **[!UICONTROL File Upload]**.
 
 1. Faça upload de um arquivo `.fin`, para que o arquivo possa ser recuperado.
 
@@ -49,7 +49,7 @@ Os uploads de arquivo para o site FTP de atributos do cliente podem ser feitos v
 
 Configure uma conta FTP por fonte de atributo.
 
-Na página [!UICONTROL Carregamento de Arquivo e Validação de Esquema], clique em **[!UICONTROL Configuração de FTP]**.
+Na página [!UICONTROL File Upload and Schema Validation], clique em **[!UICONTROL FTP Setup]**.
 
 ![Editar um esquema](assets/ftp-account.png)
 
@@ -57,9 +57,9 @@ Os arquivos carregados são armazenados na pasta raiz dessa conta. Os dados deve
 
 Os nomes aplicados às strings, números inteiros e números são usados para criar as métricas do [!DNL Analytics].
 
-* **[!UICONTROL atributo:]** dados de atributo lidos do arquivo `.csv` carregado.
+* **[!UICONTROL attribute:]** dados de atributo lidos do arquivo `.csv` carregado.
 
-* **[!UICONTROL Tipo:]** Os tipos de dados, como:
+* **[!UICONTROL Type:]** Os tipos de dados, como:
 
    * **String:** uma sequência de caracteres.
 
@@ -67,6 +67,6 @@ Os nomes aplicados às strings, números inteiros e números são usados para cr
 
    * **Números:** pode ter até duas casas decimais.
 
-* **[!UICONTROL Nome de exibição:]** Um nome amigável para o atributo. Por exemplo, você pode alterar um atributo de *idade do cliente* para *cliente desde*.
+* **[!UICONTROL Display Name:]** Um nome amigável para o atributo. Por exemplo, você pode alterar um atributo de *idade do cliente* para *cliente desde*.
 
-* **[!UICONTROL Descrição:]** Uma descrição amigável do atributo.
+* **[!UICONTROL Description:]** Uma descrição amigável do atributo.

@@ -7,10 +7,10 @@ topic: Administration
 role: Admin
 level: Experienced
 exl-id: 020a6478-13ef-42c0-80de-7867cfe0c937
-source-git-commit: 2cc76688e37afa0a0f68e3066fede18b8d3918e6
+source-git-commit: a1cfa6c69d8e95ceb0d4c3c72c24541867173fcc
 workflow-type: tm+mt
-source-wordcount: '190'
-ht-degree: 79%
+source-wordcount: '184'
+ht-degree: 67%
 
 ---
 
@@ -18,7 +18,7 @@ ht-degree: 79%
 
 Essa documentação se aplica a recursos do cabeçalho unificado da Experience Cloud, como os serviços de [!DNL People] ([!DNL Audience Library] e [!DNL Customer Attributes]), gerenciamento de usuários e produtos da Experience Cloud, cookies, preferências de conta, notificações etc.
 
-Para acessar esses serviços na Experience Cloud, escolha o **[!UICONTROL Seletor de aplicativos]**
+Para acessar esses serviços no Experience Cloud, selecione o **[!UICONTROL Application Selector]**
 ![Seletor de serviços](../assets/apps-icon.png).
 
 ![Serviços da Experience Cloud](../assets/platform-core-services.png)
@@ -36,5 +36,4 @@ Esta ajuda descreve os seguintes produtos e serviços:
 
 >[!NOTE]
 >
->A documentação do produto [Experience Platform](https://experienceleague.adobe.com/docs/experience-platform/landing/home.html?lang=pt-BR) está disponível. A documentação técnica para desenvolvedores da [!UICONTROL Experience Platform] se encontra no [Adobe Developer](https://developer.adobe.com/apis).
-
+>A documentação do produto [Experience Platform](https://experienceleague.adobe.com/docs/experience-platform/landing/home.html?lang=pt-BR) está disponível. A documentação técnica para desenvolvedores do [!UICONTROL Experience Platform] está disponível no [Adobe Developer](https://developer.adobe.com/apis).

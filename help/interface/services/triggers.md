@@ -8,7 +8,7 @@ topic: Administration
 role: Admin
 level: Experienced
 exl-id: 9dc26e2f-479b-49a5-93ce-b877559fea43
-source-git-commit: c447723f4d6c57bdccad6c4a8996693aec4a56fe
+source-git-commit: a1cfa6c69d8e95ceb0d4c3c72c24541867173fcc
 workflow-type: tm+mt
 source-wordcount: '646'
 ht-degree: 78%
@@ -29,7 +29,7 @@ Por exemplo:
 
 >[!NOTE]
 >
->Mais informações sobre o uso de [!UICONTROL Triggers] estão disponíveis em [Campaign Standard](https://experienceleague.adobe.com/docs/campaign-standard/using/integrating-with-adobe-cloud/working-with-campaign-and-triggers/using-triggers-in-campaign.html?lang=pt-BR).
+>Mais informações sobre o uso de [!UICONTROL Triggers] estão disponíveis em [Campaign Standard](https://experienceleague.adobe.com/docs/campaign-standard/using/integrating-with-adobe-cloud/working-with-campaign-and-triggers/using-triggers-in-campaign.html).
 
 ## Tipos de acionadores
 
@@ -48,12 +48,12 @@ Crie um acionador e configure as condições para ele. Por exemplo, você pode e
 >No momento, há um limite técnico de 100 acionadores.
 
 1. No Experience Cloud, clique em ![menu](../assets/menu-icon.png) e em **[!UICONTROL Data Collection/Launch]**.
-2. No cartão [!UICONTROL Triggers], clique em **[!UICONTROL Manage Triggers]**.
-3. Clique em **[!UICONTROL New Trigger]** e especifique o tipo de gatilho:
+1. No cartão [!UICONTROL Triggers], clique em **[!UICONTROL Manage Triggers]**.
+1. Clique em **[!UICONTROL New Trigger]** e especifique o tipo de gatilho:
 
    ![Resultado da etapa](../assets/add-trigger.png)
 
-4. Preencha os seguintes campos e arraste métricas e itens de dimensão aos contêineres da regra para configurar o acionador:
+1. Preencha os seguintes campos e arraste métricas e itens de dimensão aos contêineres da regra para configurar o acionador:
 
    | Elemento | Descrição |
    |--- |--- |
@@ -66,8 +66,8 @@ Crie um acionador e configure as condições para ele. Por exemplo, você pode e
 
    {style="table-layout:auto"}
 
-5. Clique em **[!UICONTROL Save]**.
-6. Use os acionadores para o [remarketing em tempo real](https://experienceleague.adobe.com/docs/campaign-standard/using/integrating-with-adobe-cloud/working-with-campaign-and-triggers/about-adobe-experience-cloud-triggers.html?lang=pt-BR) no [!DNL Adobe Campaign].
+1. Clique em **[!UICONTROL Save]**.
+1. Use os acionadores para o [remarketing em tempo real](https://experienceleague.adobe.com/docs/campaign-standard/using/integrating-with-adobe-cloud/working-with-campaign-and-triggers/about-adobe-experience-cloud-triggers.html?lang=pt-BR) no [!DNL Adobe Campaign].
 
 ## Exemplos de acionadores
 

@@ -9,9 +9,9 @@ topic: Administration
 role: Admin
 level: Experienced
 exl-id: 1c6e54ac-4886-46ed-9df7-201d2df31847
-source-git-commit: a1cfa6c69d8e95ceb0d4c3c72c24541867173fcc
+source-git-commit: ddb3bc39e3b8d9b96de7602e29b3b7acddd6ed52
 workflow-type: tm+mt
-source-wordcount: '682'
+source-wordcount: '684'
 ht-degree: 71%
 
 ---
@@ -66,10 +66,10 @@ O [!DNL Experience Cloud] fornece uma biblioteca para criar e gerenciar público
 
 | Elemento | Descrição |
 |--- |--- |
-| Novo | [Criar um público-alvo](create.md). |
+| Novo | [Criar um público-alvo](https://experienceleague.adobe.com/pt-br/docs/core-services/interface/services/audiences/create). |
 | Título e descrição | Um cabeçalho de coluna que identifica e descreve o público-alvo. |
 | Autor | A pessoa que criou o segmento de público-alvo. |
-| Fonte | Identifica onde o público-alvo foi criado.<ul><li>**Analytics:** um segmento criado no Adobe Analytics e, em seguida, publicado no Experience Cloud.</li><li>**Experience Cloud:** um novo público-alvo [criado a partir dos públicos-alvo da Experience Cloud](create.md).</li><li>**Audience Manager:** públicos-alvo criados no Audience Manager são exibidos automaticamente nos públicos-alvo da Experience Cloud.</li></ul> |
+| Fonte | Identifica onde o público-alvo foi criado.<ul><li>**Analytics:** um segmento criado no Adobe Analytics e, em seguida, publicado no Experience Cloud.</li><li>**Experience Cloud:** um novo público-alvo [criado a partir dos públicos-alvo da Experience Cloud](https://experienceleague.adobe.com/pt-br/docs/core-services/interface/services/audiences/create).</li><li>**Audience Manager:** públicos-alvo criados no Audience Manager são exibidos automaticamente nos públicos-alvo da Experience Cloud.</li></ul> |
 | Tamanho atual | O tamanho atual do público-alvo. |
 | Ativo | O status ativo do segmento. |
 
@@ -77,5 +77,5 @@ O [!DNL Experience Cloud] fornece uma biblioteca para criar e gerenciar público
 
 ## Publicar públicos-alvo da Adobe Analytics
 
-Consulte [Publicar segmentos no Experience Cloud](https://experienceleague.adobe.com/pt-br/docs/analytics/components/segmentation/segmentation-workflow/seg-publish) na documentação do Adobe Analytics para obter mais informações.
+Consulte [Publicar segmentos no Experience Cloud](https://experienceleague.adobe.com/en/docs/analytics/components/segmentation/segmentation-workflow/seg-publish) na documentação do Adobe Analytics para obter mais informações.
 

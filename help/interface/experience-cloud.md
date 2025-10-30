@@ -49,7 +49,7 @@ Faça logon e verifique se você está na [organização](administration/organiz
 
    >[!NOTE]
    >
-   >O administrador da organização pode restringir o acesso aos produtos da Adobe por endereços IP. Em caso positivo, você poderá receber um erro depois de fazer logon no Experience Cloud ou alternar para uma organização com isso ativado. Mais informações disponíveis em [Limitar o acesso ao produto por endereços IP](https://helpx.adobe.com/enterprise/using/ip-based-access.html).
+   >O administrador da organização pode restringir o acesso aos produtos da Adobe por endereços IP. Em caso positivo, você poderá receber um erro depois de fazer logon no Experience Cloud ou alternar para uma organização com isso ativado. Mais informações disponíveis em [Limitar o acesso ao produto por endereços IP](https://helpx.adobe.com/br/enterprise/using/ip-based-access.html).
 
 
 ## Acessar aplicativos da Experience Cloud
@@ -62,7 +62,7 @@ Para acessar os aplicativos e serviços da Experience Cloud fornecidos para voc�
 
 ## Obter ajuda e suporte
 
-Acesse o aprendizado e a ajuda usando o **[!UICONTROL Help center]** (![ativo](assets/help-icon.png)) no cabeçalho, incluindo o conteúdo da ajuda (documentação, tutoriais e cursos) no [Experience League](https://experienceleague.adobe.com/?lang=pt-BR#home), bem como recursos adicionais para aplicativos individuais. Você também pode enviar feedback aberto e criar tíquetes de suporte priorizados.
+Acesse o aprendizado e a ajuda usando o **[!UICONTROL Help center]** (![ativo](assets/help-icon.png)) no cabeçalho, incluindo o conteúdo da ajuda (documentação, tutoriais e cursos) no [Experience League](https://experienceleague.adobe.com/pt-br?lang=pt-BR#home), bem como recursos adicionais para aplicativos individuais. Você também pode enviar feedback aberto e criar tíquetes de suporte priorizados.
 
 ![Obter ajuda e suporte](assets/search-menu.png)
 

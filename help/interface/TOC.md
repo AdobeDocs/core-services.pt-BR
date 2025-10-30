@@ -5,10 +5,10 @@ breadcrumb-title: Administração e interface da Experience Cloud
 title: Administração e interface da Experience Cloud
 description: Saiba mais sobre a interface da Experience Cloud, cookies e preferências de conta. Gerencie produtos e configure o serviço Pessoas, incluindo atributos do cliente e biblioteca de público-alvo. Compartilhar ativos da Experience Cloud.
 index: true
-source-git-commit: 40d6a57d13e9cc1e85d2980ea193880885e32088
+source-git-commit: 609eaf1819189cb4eac76b2b58703b246dfb843b
 workflow-type: tm+mt
-source-wordcount: '205'
-ht-degree: 100%
+source-wordcount: '212'
+ht-degree: 96%
 
 ---
 
@@ -16,9 +16,12 @@ ht-degree: 100%
 # Administração e interface da Experience Cloud {#interface}
 
 + [Administração e interface da Experience Cloud](experience-cloud.md)
++ [Página inicial oculta](hidden-experience-cloud.md)
 + Serviços {#services}
    + [Visão geral](services/overview.md)
    + [Introdução](services/getting-started.md)
+   + [Visão geral oculta](services/hidden-overview.md)
+   + [Introdução oculta](services/hidden-getting-started.md)
    + Ativos {#assets}
       + [Visão geral](services/assets/experience-cloud-assets.md)
       + [Gerenciar usuários da Creative Cloud](services/assets/manage-cc-users.md)

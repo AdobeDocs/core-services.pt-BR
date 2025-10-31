@@ -8,14 +8,16 @@ role: Admin
 level: Experienced
 hide: true
 hidefromtoc: true
-source-git-commit: 4c37fc3ec156abfd26ac33066795cf043a9eda2d
+source-git-commit: fcd75504a043289c44d13d3f356af3741ac0e6a6
 workflow-type: tm+mt
-source-wordcount: '184'
+source-wordcount: '185'
 ht-degree: 67%
 
 ---
 
 # Serviços da Experience Cloud {#topic_C1087DCC538F4F9A99D983C1BB29EBE0}
+
+exemplo
 
 Essa documentação se aplica a recursos do cabeçalho unificado da Experience Cloud, como os serviços de [!DNL People] ([!DNL Audience Library] e [!DNL Customer Attributes]), gerenciamento de usuários e produtos da Experience Cloud, cookies, preferências de conta, notificações etc.
 

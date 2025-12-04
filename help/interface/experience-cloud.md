@@ -7,7 +7,7 @@ topic: Administration
 role: Admin
 level: Experienced
 exl-id: aedad5cb-3282-4a97-8e7e-6d65f7b75ba9
-source-git-commit: 9258c1f8562eb77ff51e22572c91d705f9675f4c
+source-git-commit: e63dd988abba199049da2b3620eed9ebf51043d1
 workflow-type: tm+mt
 source-wordcount: '541'
 ht-degree: 77%
@@ -47,7 +47,7 @@ Faça logon e verifique se você está na [organização](administration/organiz
 
    Por exemplo, para uma organização com Federated IDs e o domínio `adobecustomer.com`, defina o link do URL para `https://experience.adobe.com/#/sso:@adobecustomer.com`. Você também pode ir diretamente para um aplicativo específico marcando esse URL, anexado com o caminho do aplicativo. (Por exemplo, para Adobe Analytics, `https://experience.adobe.com/#/sso:@adobecustomer.com/analytics`.)
 
-   **Observação:** o administrador de sua organização pode restringir o acesso aos produtos da Adobe por endereços IP. Em caso positivo, você poderá receber um erro depois de fazer logon no Experience Cloud ou alternar para uma organização com isso ativado. Mais informações disponíveis em [Limitar o acesso ao produto por endereços IP](https://helpx.adobe.com/br/enterprise/using/ip-based-access.html).
+   **Observação:** o administrador de sua organização pode restringir o acesso aos produtos da Adobe por endereços IP. Em caso positivo, você poderá receber um erro depois de fazer logon no Experience Cloud ou alternar para uma organização com isso ativado. Mais informações disponíveis em [Limitar o acesso ao produto por endereços IP](https://helpx.adobe.com/enterprise/using/ip-based-access.html).
 
 
 ## Acessar aplicativos da Experience Cloud
@@ -60,7 +60,7 @@ Para acessar os aplicativos e serviços da Experience Cloud fornecidos para voc�
 
 ## Obter ajuda e suporte
 
-Acesse o aprendizado e a ajuda usando o **[!UICONTROL Help center]** (![ativo](assets/help-icon.png)) no cabeçalho, incluindo o conteúdo da ajuda (documentação, tutoriais e cursos) no [Experience League](https://experienceleague.adobe.com/pt-br?lang=pt-BR#home), bem como recursos adicionais para aplicativos individuais. Você também pode enviar feedback aberto e criar tíquetes de suporte priorizados.
+Acesse o aprendizado e a ajuda usando o **[!UICONTROL Help center]** (![ativo](assets/help-icon.png)) no cabeçalho, incluindo o conteúdo da ajuda (documentação, tutoriais e cursos) no [Experience League](https://experienceleague.adobe.com/?lang=pt-BR#home), bem como recursos adicionais para aplicativos individuais. Você também pode enviar feedback aberto e criar tíquetes de suporte priorizados.
 
 ![Obter ajuda e suporte](assets/search-menu.png)
 
@@ -89,3 +89,4 @@ Clique no ícone de sino para exibir notificações e avisos. Os avisos podem se
 ![Notificações e anúncios](assets/notifications-menu-small.png)
 
 Para gerenciar notificações e alertas, consulte [Preferências e notificações da conta](features/account-preferences.md)
+

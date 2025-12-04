@@ -8,7 +8,7 @@ topic: Administration
 role: Admin
 level: Experienced
 exl-id: 062576da-328e-4b46-9e71-5a25733d607a
-source-git-commit: 74c584e657e02fdebcaa52cffb6778f8ce5f350c
+source-git-commit: e63dd988abba199049da2b3620eed9ebf51043d1
 workflow-type: tm+mt
 source-wordcount: '697'
 ht-degree: 76%
@@ -99,7 +99,7 @@ O provisionamento na Experience Cloud significa que:
 
 * O gerenciamento de produtos e direitos do usuário é executado no [Adobe Admin Console](https://adminconsole.adobe.com/enterprise) (link do produto).
 
-* **Importante:** admins do Analytics devem consultar [Gerenciar usuários do Analytics no Admin Console](https://experienceleague.adobe.com/docs/analytics/admin/user-product-management/migrate-users/c-migration-tool.html?lang=pt-BR) para saber como migrar IDs de usuários das ferramentas administrativas do Analytics para o Admin Console.
+* **Importante:** admins do Analytics devem consultar [Gerenciar usuários do Analytics no Admin Console](https://experienceleague.adobe.com/docs/analytics/admin/user-product-management/migrate-users/c-migration-tool.html) para saber como migrar IDs de usuários das ferramentas administrativas do Analytics para o Admin Console.
 
 +++
 
@@ -107,7 +107,7 @@ O provisionamento na Experience Cloud significa que:
 
 Os administradores do Admin Console podem conceder acesso aos usuários. Os usuários recebem emails com instruções de logon.
 
-Talvez seja necessário [entrar em contato com o suporte da Adobe](https://experienceleague.adobe.com/pt-br?support-solution=General&lang=pt-BR#support) para verificar se a empresa foi totalmente provisionada.
+Talvez seja necessário [entrar em contato com o suporte da Adobe](https://experienceleague.adobe.com/?support-solution=General&lang=pt-BR#support) para verificar se a empresa foi totalmente provisionada.
 
 +++
 
@@ -154,3 +154,4 @@ Consulte [Tipos de identidade](https://helpx.adobe.com/br/enterprise/using/ident
 Não. Os usuários devem vincular seus próprios aplicativos com seus respectivos nomes de usuário e senhas.
 
 +++
+

@@ -2,10 +2,10 @@
 title: Endereços IP usados pelo Experience Cloud
 description: Se o firewall da sua organização bloquear endereços IP originários da Adobe, use esta lista para atualizar as configurações do firewall.
 exl-id: 1fca8d3b-ae8b-4095-96ef-d165f912b4c6
-source-git-commit: a18b61cb32286680cb1ab2a296df33509fd95a00
+source-git-commit: e63dd988abba199049da2b3620eed9ebf51043d1
 workflow-type: tm+mt
 source-wordcount: '378'
-ht-degree: 11%
+ht-degree: 6%
 
 ---
 
@@ -19,10 +19,10 @@ Algumas configurações de firewall bloqueiam endereços IP dos servidores de co
 
 Além dos blocos de endereço IP listados abaixo, os produtos Adobe Experience Cloud individuais têm seus próprios endereços IP que usam:
 
-* [Adobe Analytics](https://experienceleague.adobe.com/pt-br/docs/analytics/technotes/ip-addresses)
-* [Customer Journey Analytics](https://experienceleague.adobe.com/pt-br/docs/analytics-platform/using/technotes/ip-addresses)
-* [Marketo Engage](https://experienceleague.adobe.com/pt-br/docs/marketo/using/getting-started/initial-setup/configure-protocols-for-marketo#step-allowlist-marketo-ips)
-* [Adobe Workfront](https://experienceleague.adobe.com/pt-br/docs/workfront/using/administration-and-setup/get-started-administration/configure-your-firewall)
+* [Adobe Analytics](https://experienceleague.adobe.com/en/docs/analytics/technotes/ip-addresses)
+* [Customer Journey Analytics](https://experienceleague.adobe.com/en/docs/analytics-platform/using/technotes/ip-addresses)
+* [Marketo Engage](https://experienceleague.adobe.com/en/docs/marketo/using/getting-started/initial-setup/configure-protocols-for-marketo#step-allowlist-marketo-ips)
+* [Adobe Workfront](https://experienceleague.adobe.com/en/docs/workfront/using/administration-and-setup/get-started-administration/configure-your-firewall)
 
 ## Todos os blocos de endereço IP do Adobe
 
@@ -106,3 +106,4 @@ O Adobe Experience Cloud também oferece suporte ao IPv6 em capacidade limitada.
 >[!TIP]
 >
 >As conexões FTP para recursos de exportação do Adobe Analytics (incluindo Data Warehouse e feeds de dados) são originadas apenas de endereços IPv4 nos locais de Londres, Oregon e Singapura.
+

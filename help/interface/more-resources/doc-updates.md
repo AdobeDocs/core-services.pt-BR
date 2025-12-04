@@ -7,7 +7,7 @@ topic: Administration
 role: Admin
 level: Experienced
 exl-id: 11cc5005-8ec0-4308-bc94-0f78666ea645
-source-git-commit: 4530ff3b00c7323a41ec13d57adead95f0418aaa
+source-git-commit: e63dd988abba199049da2b3620eed9ebf51043d1
 workflow-type: tm+mt
 source-wordcount: '645'
 ht-degree: 65%
@@ -161,3 +161,4 @@ Adição de [Perguntas frequentes da Experience Cloud](faq.md) para administrado
 **22 de maio de 2014**
 
 Adição de documentação para [Públicos-alvo](../services/audiences/overview.md)
+

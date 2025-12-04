@@ -7,7 +7,7 @@ topic: Administration
 role: Admin
 level: Experienced
 exl-id: ed9e4a8f-493a-4a0f-a87e-674c7da95b99
-source-git-commit: a1cfa6c69d8e95ceb0d4c3c72c24541867173fcc
+source-git-commit: e63dd988abba199049da2b3620eed9ebf51043d1
 workflow-type: tm+mt
 source-wordcount: '363'
 ht-degree: 63%
@@ -27,7 +27,7 @@ Você pode fazer upload dos dados depois de criar uma fonte de atributo do clien
 Os uploads de arquivo para o site FTP de atributos do cliente podem ser feitos via FTP ou SFTP:
 
 * Você precisa de um cliente compatível com conexões SFTP.
-* Você pode se conectar ao SFTP usando o nome de usuário/senha ou sem usar senha, conforme descrito [aqui](https://experienceleague.adobe.com/docs/analytics/export/ftp-and-sftp/secure-file-transfer-protocol/ftp-sftp-cert-auth.html?lang=pt-BR).
+* Você pode se conectar ao SFTP usando o nome de usuário/senha ou sem usar senha, conforme descrito [aqui](https://experienceleague.adobe.com/docs/analytics/export/ftp-and-sftp/secure-file-transfer-protocol/ftp-sftp-cert-auth.html).
 
 **Para fazer upload do arquivo de dados via FTP**
 
@@ -70,3 +70,4 @@ Os nomes aplicados às strings, números inteiros e números são usados para cr
 * **[!UICONTROL Display Name:]** Um nome amigável para o atributo. Por exemplo, você pode alterar um atributo de *idade do cliente* para *cliente desde*.
 
 * **[!UICONTROL Description:]** Uma descrição amigável do atributo.
+

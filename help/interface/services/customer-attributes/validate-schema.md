@@ -7,7 +7,7 @@ topic: Administration
 role: Admin
 level: Experienced
 exl-id: 776d1fd3-c733-4970-a76b-4c3c0119ee77
-source-git-commit: a1cfa6c69d8e95ceb0d4c3c72c24541867173fcc
+source-git-commit: e63dd988abba199049da2b3620eed9ebf51043d1
 workflow-type: tm+mt
 source-wordcount: '310'
 ht-degree: 37%
@@ -53,4 +53,3 @@ Um esquema é criado com base nessas configurações. O esquema é usado para va
    * **[!UICONTROL CID (customer ID):]** Os atributos associados a esta CID. Se você estiver usando uma prop ou eVar para fazer upload das CIDs (AVID) e visualizar os atributos exibidos, mas nenhuma AVID, isso indica que o visitante não está conectado ao seu site.
 
    * **[!UICONTROL AVID (Analytics visitor ID):]** Exibe se você usa uma prop ou eVar para carregar CIDs. Se essas IDs forem transmitidas para o Experience Cloud, todas as IDs de visitante associadas à CID inseridas serão exibidas aqui.
-

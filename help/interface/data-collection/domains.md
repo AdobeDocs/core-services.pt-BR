@@ -6,10 +6,10 @@ topic: Administration
 role: Admin
 level: Experienced
 exl-id: a15918f0-c03b-4d32-a254-47f46023b127
-source-git-commit: 2a80851c0a7d4ef7dbcc2565177b239f3e063164
+source-git-commit: e63dd988abba199049da2b3620eed9ebf51043d1
 workflow-type: tm+mt
 source-wordcount: '104'
-ht-degree: 18%
+ht-degree: 17%
 
 ---
 
@@ -19,9 +19,9 @@ O Experience Cloud usa os seguintes hosts para fornecer o aplicativo, melhorar o
 
 Além dos domínios listados abaixo, os produtos Adobe Experience Cloud individuais têm seus próprios domínios que usam:
 
-* [Adobe Analytics](https://experienceleague.adobe.com/pt-br/docs/analytics/technotes/domains)
-* [Customer Journey Analytics](https://experienceleague.adobe.com/pt-br/docs/analytics-platform/using/technotes/domains)
-* [Marketo Engage](https://experienceleague.adobe.com/pt-br/docs/marketo/using/getting-started/initial-setup/configure-protocols-for-marketo)
+* [Adobe Analytics](https://experienceleague.adobe.com/en/docs/analytics/technotes/domains)
+* [Customer Journey Analytics](https://experienceleague.adobe.com/en/docs/analytics-platform/using/technotes/domains)
+* [Marketo Engage](https://experienceleague.adobe.com/en/docs/marketo/using/getting-started/initial-setup/configure-protocols-for-marketo)
 
 | Tecnologia | Domínios |
 | --- | --- |
@@ -30,3 +30,4 @@ Além dos domínios listados abaixo, os produtos Adobe Experience Cloud individu
 | Fontes | `typekit.net` |
 | Coleta de dados (para desempenho e uso do produto) | `adobedtm.com` |
 | Gainsight (para orientação e ajuda do produto) | `esp.aptrinsic.com`, `esp-m.aptrinsic.com` |
+

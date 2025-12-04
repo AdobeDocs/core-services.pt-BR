@@ -8,7 +8,7 @@ topic: Administration
 role: Admin
 level: Beginner
 exl-id: 70586f18-6f84-4308-bab3-1da7fab823d6
-source-git-commit: c447723f4d6c57bdccad6c4a8996693aec4a56fe
+source-git-commit: e63dd988abba199049da2b3620eed9ebf51043d1
 workflow-type: tm+mt
 source-wordcount: '644'
 ht-degree: 19%
@@ -70,7 +70,7 @@ Os algoritmos de pesquisa exibem os registros mais relevantes primeiro. A ordem 
 * Permissões de usuário para acessar os objetos
 * Porcentagem de correspondência
 * Correspondências exatas
-* A seção _[!UICONTROL Top Results]_&#x200B;mostra os 30 principais resultados.
+* A seção _[!UICONTROL Top Results]_mostra os 30 principais resultados.
 
 Para refinar a pesquisa, clique em uma das opções a seguir:
 
@@ -102,3 +102,4 @@ Experimente estas dicas:
 * Verificar a ortografia
 * Tentar escrever o termo de pesquisa completo
 * Verifique se você tem permissões para objetos que você procura
+

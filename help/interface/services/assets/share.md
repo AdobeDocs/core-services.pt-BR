@@ -8,7 +8,7 @@ topic: Administration
 role: Admin
 level: Experienced
 exl-id: 32f4723e-0e66-46b6-b0c2-ae47b9a06a87
-source-git-commit: a1cfa6c69d8e95ceb0d4c3c72c24541867173fcc
+source-git-commit: e63dd988abba199049da2b3620eed9ebf51043d1
 workflow-type: tm+mt
 source-wordcount: '413'
 ht-degree: 51%
@@ -64,7 +64,7 @@ Antes de os usuários do Creative Cloud terem acesso aos ativos, eles devem ser 
 
    Após a remoção de todos os usuários da Creative Cloud, o compartilhamento da pasta será cancelado e os usuários da Creative Cloud não terão mais acesso.
 
-Outras maneiras de usar um ativo compartilhado incluem carregar ou trocar ativos na [Biblioteca de ofertas](https://experienceleague.adobe.com/docs/target/using/experiences/offers/manage-content.html?lang=pt-BR) no Adobe Target por imagens nas atividades.
+Outras maneiras de usar um ativo compartilhado incluem carregar ou trocar ativos na [Biblioteca de ofertas](https://experienceleague.adobe.com/docs/target/using/experiences/offers/manage-content.html) no Adobe Target por imagens nas atividades.
 
 Depois de compartilhar uma pasta na Creative Cloud, você verá o logotipo da Creative Cloud na pasta.
 
@@ -80,4 +80,5 @@ Ajuda relacionada:
 
 Ao criar atividades no [!DNL Adobe Target], você pode usar um ativo de imagem compartilhada ao trocar imagens no [!UICONTROL Offers Library].
 
-Consulte [Biblioteca de ofertas](https://experienceleague.adobe.com/docs/target/using/experiences/offers/manage-content.html?lang=pt-BR) na Ajuda do [!DNL Target].
+Consulte [Biblioteca de ofertas](https://experienceleague.adobe.com/docs/target/using/experiences/offers/manage-content.html) na Ajuda do [!DNL Target].
+

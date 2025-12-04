@@ -9,7 +9,7 @@ topic: Administration
 role: Admin
 level: Experienced
 exl-id: 1c6e54ac-4886-46ed-9df7-201d2df31847
-source-git-commit: ddb3bc39e3b8d9b96de7602e29b3b7acddd6ed52
+source-git-commit: e63dd988abba199049da2b3620eed9ebf51043d1
 workflow-type: tm+mt
 source-wordcount: '684'
 ht-degree: 71%
@@ -77,5 +77,4 @@ O [!DNL Experience Cloud] fornece uma biblioteca para criar e gerenciar público
 
 ## Publicar públicos-alvo da Adobe Analytics
 
-Consulte [Publicar segmentos no Experience Cloud](https://experienceleague.adobe.com/pt-br/docs/analytics/components/segmentation/segmentation-workflow/seg-publish) na documentação do Adobe Analytics para obter mais informações.
-
+Consulte [Publicar segmentos no Experience Cloud](https://experienceleague.adobe.com/en/docs/analytics/components/segmentation/segmentation-workflow/seg-publish) na documentação do Adobe Analytics para obter mais informações.

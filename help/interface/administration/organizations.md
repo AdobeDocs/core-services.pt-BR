@@ -8,7 +8,7 @@ topic: Administration
 role: Admin
 level: Experienced
 exl-id: 6eb58530-2a7a-48c7-9a5b-48a6e980a034
-source-git-commit: c447723f4d6c57bdccad6c4a8996693aec4a56fe
+source-git-commit: e63dd988abba199049da2b3620eed9ebf51043d1
 workflow-type: tm+mt
 source-wordcount: '572'
 ht-degree: 50%
@@ -100,5 +100,6 @@ Ajuda sobre problemas que surgem da vinculação de contas.
 
 Normalmente, a vinculação de contas falha porque a Adobe ID está vinculada a um usuário anterior. Quando a vinculação de contas falhar, você poderá:
 
-* [Entrar em contato com o Suporte da Adobe](https://experienceleague.adobe.com/pt-br?support-solution=General&lang=pt-BR#support).
+* [Entrar em contato com o Suporte da Adobe](https://experienceleague.adobe.com/?support-solution=General&lang=pt-BR#support).
 * Acesse o aplicativo através do logon padrão enquanto o problema estiver sendo resolvido.
+

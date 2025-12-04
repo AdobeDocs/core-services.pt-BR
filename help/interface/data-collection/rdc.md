@@ -2,7 +2,7 @@
 title: Coleta de dados regionais
 description: Saiba mais sobre a coleta de dados regionais na Experience Cloud.
 exl-id: 295e9736-2a58-48a8-9968-5dfa33b70d95
-source-git-commit: 2a80851c0a7d4ef7dbcc2565177b239f3e063164
+source-git-commit: e63dd988abba199049da2b3620eed9ebf51043d1
 workflow-type: tm+mt
 source-wordcount: '294'
 ht-degree: 0%
@@ -45,3 +45,4 @@ A coleção de dados de terceiros inclui domínios de cookies que não correspon
 | Padrão + China* | Pequim*, Oregon, Virgínia, Irlanda, Paris, Mumbai, Singapura, Tóquio, Sydney |
 
 {style="table-layout:auto"}
+

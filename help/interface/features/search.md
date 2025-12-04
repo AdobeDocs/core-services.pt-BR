@@ -70,7 +70,7 @@ Os algoritmos de pesquisa exibem os registros mais relevantes primeiro. A ordem 
 * Permissões de usuário para acessar os objetos
 * Porcentagem de correspondência
 * Correspondências exatas
-* A seção _[!UICONTROL Top Results]_mostra os 30 principais resultados.
+* A seção _[!UICONTROL Top Results]_&#x200B;mostra os 30 principais resultados.
 
 Para refinar a pesquisa, clique em uma das opções a seguir:
 

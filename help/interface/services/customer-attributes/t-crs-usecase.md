@@ -110,7 +110,7 @@ Execute essas etapas na página [!UICONTROL Create Customer Attribute Source] do
 
         Consulte [Como aproveitar várias fontes de dados](crs-data-file.md#section_76DEB6001C614F4DB8BCC3E5D05088CB) para obter informações adicionais sobre o processamento de dados relacionado ao campo de ID de alias e IDs do cliente.
 
-   * **[!UICONTROL Namespace Code:]** Use este valor para identificar a fonte de atributo do cliente ao usar o [IdentityMap](https://experienceleague.adobe.com/en/docs/experience-platform/web-sdk/identity/overview) como parte de uma Implementação do WebSDK do AEP.
+   * **[!UICONTROL Namespace Code:]** Use este valor para identificar a fonte de atributo do cliente ao usar o [IdentityMap](https://experienceleague.adobe.com/pt-br/docs/experience-platform/web-sdk/identity/overview) como parte de uma Implementação do WebSDK do AEP.
 
 1. Clique em **[!UICONTROL Save]**.
 

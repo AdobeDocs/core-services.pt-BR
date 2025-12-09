@@ -6,22 +6,22 @@ topic: Administration
 role: Admin
 level: Experienced
 exl-id: a15918f0-c03b-4d32-a254-47f46023b127
-source-git-commit: e63dd988abba199049da2b3620eed9ebf51043d1
+source-git-commit: 63d5c080a7282c78eb7a66c5a54c69b5597545ab
 workflow-type: tm+mt
-source-wordcount: '104'
+source-wordcount: '102'
 ht-degree: 17%
 
 ---
 
-# Domínios usados pela Adobe Experience Cloud
+# Domínios usados pelo Experience Cloud
 
 O Experience Cloud usa os seguintes hosts para fornecer o aplicativo, melhorar o desempenho e melhorar a experiência do produto. A Adobe recomenda permitir esses domínios por meio da rede ou do firewall de sua organização para obter uma experiência ideal.
 
 Além dos domínios listados abaixo, os produtos Adobe Experience Cloud individuais têm seus próprios domínios que usam:
 
-* [Adobe Analytics](https://experienceleague.adobe.com/pt-br/docs/analytics/technotes/domains)
-* [Customer Journey Analytics](https://experienceleague.adobe.com/pt-br/docs/analytics-platform/using/technotes/domains)
-* [Marketo Engage](https://experienceleague.adobe.com/pt-br/docs/marketo/using/getting-started/initial-setup/configure-protocols-for-marketo)
+* [Adobe Analytics](https://experienceleague.adobe.com/en/docs/analytics/technotes/domains)
+* [Customer Journey Analytics](https://experienceleague.adobe.com/en/docs/analytics-platform/using/technotes/domains)
+* [Marketo Engage](https://experienceleague.adobe.com/en/docs/marketo/using/getting-started/initial-setup/configure-protocols-for-marketo)
 
 | Tecnologia | Domínios |
 | --- | --- |

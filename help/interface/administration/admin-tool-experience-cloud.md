@@ -8,14 +8,14 @@ topic: Administration
 role: Admin
 level: Experienced
 exl-id: 127eecdd-3862-48ba-8cf6-a8082d2b7bae
-source-git-commit: e63dd988abba199049da2b3620eed9ebf51043d1
+source-git-commit: 63d5c080a7282c78eb7a66c5a54c69b5597545ab
 workflow-type: tm+mt
-source-wordcount: '1184'
+source-wordcount: '1178'
 ht-degree: 76%
 
 ---
 
-# Exibir usuários e políticas do Experience Cloud no [!UICONTROL Admin Tool]
+# Experience Cloud [!UICONTROL Admin Tool]
 
 Os administradores podem exibir uma lista classificável e filtrável de todos os usuários e políticas da Experience Cloud com detalhes no [!UICONTROL Admin Tool]. Os detalhes do usuário incluem o acesso ao produto, as funções e as últimas informações acessadas de um usuário. Os detalhes da política incluem usuário (perfil de produto), grupo, desenvolvedor, integração e lista de administração de uma política, bem como permissões e informações detalhadas sobre recursos da política.
 

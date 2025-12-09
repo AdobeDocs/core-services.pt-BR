@@ -7,14 +7,14 @@ topic: Administration
 role: Admin
 level: Intermediate
 exl-id: cc44008e-8b8a-4afb-b692-0ef9b87d5b21
-source-git-commit: e63dd988abba199049da2b3620eed9ebf51043d1
+source-git-commit: 63d5c080a7282c78eb7a66c5a54c69b5597545ab
 workflow-type: tm+mt
-source-wordcount: '237'
-ht-degree: 56%
+source-wordcount: '239'
+ht-degree: 53%
 
 ---
 
-# Suporte ao navegador na Experience Cloud
+# Suporte a navegador e idioma no Experience Cloud
 
 Para obter o melhor desempenho, a Experience Cloud é otimizada para os navegadores mais populares, incluindo a versão mais recente, além das duas versões anteriores.
 

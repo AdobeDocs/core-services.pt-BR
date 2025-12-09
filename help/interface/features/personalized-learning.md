@@ -3,14 +3,14 @@ description: Receba ajuda e promoções personalizadas por email, em seus produt
 solution: Experience Cloud
 title: Preferências de aprendizado personalizadas da Experience Cloud
 exl-id: ad6c8daf-c8ad-42e9-8ff0-cef59dc0da3f
-source-git-commit: e63dd988abba199049da2b3620eed9ebf51043d1
+source-git-commit: 63d5c080a7282c78eb7a66c5a54c69b5597545ab
 workflow-type: tm+mt
-source-wordcount: '105'
-ht-degree: 23%
+source-wordcount: '103'
+ht-degree: 19%
 
 ---
 
-# Recomendações e promoções de aprendizado personalizadas
+# Preferências de aprendizado personalizadas
 
 O Adobe fornece conteúdo útil e personalizado com base em seu trabalho nos produtos da Adobe. Os dados de uso do produto informam como personalizamos esse contexto para você. Você pode aceitar ou recusar o compartilhamento dos dados de uso do seu produto na página [Preferências do Experience Cloud](https://experience.adobe.com/preferences).
 

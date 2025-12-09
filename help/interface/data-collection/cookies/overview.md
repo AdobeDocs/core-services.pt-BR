@@ -3,14 +3,14 @@ description: Saiba como as soluções e os serviços da Adobe Experience Cloud u
 title: Como os cookies são usados no Experience Cloud
 uuid: 4255a13a-917b-4b5f-a7d4-4b2e7521d189
 exl-id: 60f1a89e-d989-461b-a6a3-c1df022cd30b
-source-git-commit: e63dd988abba199049da2b3620eed9ebf51043d1
+source-git-commit: 63d5c080a7282c78eb7a66c5a54c69b5597545ab
 workflow-type: tm+mt
-source-wordcount: '598'
-ht-degree: 10%
+source-wordcount: '600'
+ht-degree: 11%
 
 ---
 
-# Cookies usados no Experience Cloud
+# Como os cookies são usados na Experience Cloud
 
 O Adobe Experience Cloud usa cookies. Um cookie é um pequeno pedaço de dados que um site envia para o seu navegador, que o armazena para uso posterior. Os cookies ajudam o site a lembrar de coisas quando você visita novamente ou se move entre páginas. Os cookies ajudam a rastrear visitas e diferenciar um dispositivo de outro.
 
@@ -22,7 +22,7 @@ O Adobe Experience Cloud usa cookies para rastrear informações que não duram 
 
 Alguns navegadores e ferramentas antisspyware bloqueiam cookies de terceiros. O Adobe tem maneiras de garantir que os cookies ainda funcionem mesmo que estejam bloqueados. O funcionamento depende do uso do Experience Platform Identity Service (ECID) ou de cookies mais antigos do Analytics (como o cookie `s_vi`):
 
-* [Experience Cloud Identity Service](https://experienceleague.adobe.com/pt-br/docs/id-service/using/intro/overview): o ECID Service sempre define cookies próprios, quer o domínio de coleção corresponda ao domínio do site. Ele usa o JavaScript para colocar o cookie no domínio do site.
+* [Experience Cloud Identity Service](https://experienceleague.adobe.com/en/docs/id-service/using/intro/overview): o ECID Service sempre define cookies próprios, quer o domínio de coleção corresponda ao domínio do site. Ele usa o JavaScript para colocar o cookie no domínio do site.
 
 * [Identificadores herdados do Analytics](analytics.md) (como o cookie `s_vi`): a definição de cookies próprios ou de terceiros depende da sua configuração:
 

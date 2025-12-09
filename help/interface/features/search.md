@@ -8,22 +8,22 @@ topic: Administration
 role: Admin
 level: Beginner
 exl-id: 70586f18-6f84-4308-bab3-1da7fab823d6
-source-git-commit: e63dd988abba199049da2b3620eed9ebf51043d1
+source-git-commit: 63d5c080a7282c78eb7a66c5a54c69b5597545ab
 workflow-type: tm+mt
-source-wordcount: '644'
-ht-degree: 19%
+source-wordcount: '633'
+ht-degree: 18%
 
 ---
 
-# [!UICONTROL Unified Search] para objetos e entidades
+# [!UICONTROL Unified Search] na Experience Cloud
 
 A pesquisa do [!UICONTROL Unified Search] permite encontrar objetos ou entidades comerciais pesquisáveis por meio de uma experiência contínua, consistente e com apenas um clique. Essa pesquisa também exibe os objetos acessados recentemente.
 
 ![Pesquisar objetos e entidades globalmente](../assets/platform-search.png)
 
-## Acesso à Pesquisa unificada
+## Acesso ao [!UICONTROL Unified Search]
 
-A Pesquisa unificada está disponível em todas as páginas no cabeçalho do Experience Cloud, na parte superior da página. Você também pode usar o atalho de teclado `command /` ou `ctrl /` para acessar a pesquisa.
+O [!UICONTROL Unified Search] está disponível em todas as páginas no cabeçalho do Experience Cloud, na parte superior da página. Você também pode usar o atalho de teclado `command /` ou `ctrl /` para acessar a pesquisa.
 
 Esse recurso está disponível somente para os produtos compatíveis, que atualmente são:
 
@@ -42,7 +42,7 @@ Sua capacidade e permissões de objeto
 Porcentagem de correspondência
 Se há uma correspondência exata
 
-![Pesquisa unificada na Experience Cloud](../assets/unified-search-results.png)
+![[!UICONTROL Unified Search] no Experience Cloud](../assets/unified-search-results.png)
 
 Os objetos comerciais pesquisáveis incluem:
 
@@ -63,21 +63,21 @@ Você também encontrará os artigos de ajuda da Experience League e das comunid
 
 Por exemplo, _Como criar um esquema_ produz resultados do Experience League em _[!UICONTROL Learning]_:
 
-![Ajuda para a Pesquisa unificada da Experience Cloud](../assets/unified-search-learning.png)
+![[!UICONTROL Unified Search] na Ajuda do Experience Cloud ](../assets/unified-search-learning.png)
 
 Os algoritmos de pesquisa exibem os registros mais relevantes primeiro. A ordem dos resultados depende de vários fatores, como:
 
 * Permissões de usuário para acessar os objetos
 * Porcentagem de correspondência
 * Correspondências exatas
-* A seção _[!UICONTROL Top Results]_&#x200B;mostra os 30 principais resultados.
+* A seção _[!UICONTROL Top Results]_mostra os 30 principais resultados.
 
 Para refinar a pesquisa, clique em uma das opções a seguir:
 
 * **[!UICONTROL All Learning]**: abre a pesquisa no Experience League.
 * **[!UICONTROL Show all...]**: permite refinar e filtrar mais os resultados.
 
-## Recursos de pesquisa unificada
+## Recursos do [!UICONTROL Unified Search]
 
 Os seguintes recursos estão disponíveis na Pesquisa unificada.
 

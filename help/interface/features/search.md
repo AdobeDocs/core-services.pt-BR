@@ -63,14 +63,14 @@ Você também encontrará os artigos de ajuda da Experience League e das comunid
 
 Por exemplo, _Como criar um esquema_ produz resultados do Experience League em _[!UICONTROL Learning]_:
 
-![[!UICONTROL Unified Search] na Ajuda do Experience Cloud ](../assets/unified-search-learning.png)
+![[!UICONTROL Unified Search] na Ajuda do Experience Cloud &#x200B;](../assets/unified-search-learning.png)
 
 Os algoritmos de pesquisa exibem os registros mais relevantes primeiro. A ordem dos resultados depende de vários fatores, como:
 
 * Permissões de usuário para acessar os objetos
 * Porcentagem de correspondência
 * Correspondências exatas
-* A seção _[!UICONTROL Top Results]_mostra os 30 principais resultados.
+* A seção _[!UICONTROL Top Results]_&#x200B;mostra os 30 principais resultados.
 
 Para refinar a pesquisa, clique em uma das opções a seguir:
 

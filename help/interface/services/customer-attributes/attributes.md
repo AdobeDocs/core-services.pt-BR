@@ -7,10 +7,10 @@ role: Admin
 topic: Administration
 level: Experienced
 exl-id: fe8ad013-76da-49f8-aa51-dc5f6c1b1d79
-source-git-commit: e63dd988abba199049da2b3620eed9ebf51043d1
+source-git-commit: b69cb75550232a630996cb521a86414eeb53f73a
 workflow-type: tm+mt
 source-wordcount: '304'
-ht-degree: 81%
+ht-degree: 84%
 
 ---
 
@@ -30,7 +30,7 @@ A imagem a seguir é um exemplo de um arquivo de dados que mostra os dados do as
 
 ![O que são os dados de clientes corporativos?](assets/01_crs_usecase.png)
 
-Após a criação do arquivo de dados, é possível carregá-lo na fonte de atributos do cliente que você cria em **[!UICONTROL Experience Cloud]** > **[!UICONTROL Customer attributes]**.
+Após a criação do arquivo de dados, é possível carregá-lo na fonte de atributos do cliente que você cria em **[!UICONTROL Experience Cloud]** > **[!UICONTROL Customer Attributes]**.
 
 Consulte [Fazer upload dos dados de atributos do cliente](t-crs-usecase.md) para conhecer esse fluxo de trabalho.
 

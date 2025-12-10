@@ -6,7 +6,7 @@ topic: Administration
 role: Admin
 level: Experienced
 exl-id: 320defc7-2cd5-4481-955d-77cf6fbfef6d
-source-git-commit: e63dd988abba199049da2b3620eed9ebf51043d1
+source-git-commit: b69cb75550232a630996cb521a86414eeb53f73a
 workflow-type: tm+mt
 source-wordcount: '397'
 ht-degree: 64%
@@ -43,7 +43,7 @@ Para fazer solicitações de acesso e exclusão de dados para [!DNL Customer Att
 
    Sua ID da organização é uma sequência de 24 caracteres alfanuméricos anexada com @AdobeOrg. Você precisa da ID da organização para enviar solicitações à API de privacidade. Entre em contato com o Atendimento ao cliente da Adobe, em `gdprsupport@adobe.com`, caso não consiga localizar a ID.
 
-1. No [!UICONTROL Privacy Service], você pode enviar solicitações de Acesso e Exclusão aos atributos do cliente e verificar o status das solicitações existentes.
+1. No [!UICONTROL Privacy Service], você pode enviar solicitações de Acesso e Exclusão aos Atributos do Cliente e verificar o status das solicitações existentes.
 
 ## Valores de campo obrigatórios em [!DNL Customer Attributes] solicitações JSON
 

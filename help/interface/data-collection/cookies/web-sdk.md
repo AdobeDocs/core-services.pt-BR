@@ -7,9 +7,9 @@ topic: Administration
 role: Admin
 level: Experienced
 exl-id: 14f06dc9-255e-4a6c-adec-471107cf202e
-source-git-commit: e63dd988abba199049da2b3620eed9ebf51043d1
+source-git-commit: 97b3db58a9bf25ec0a6dd18c7b62117063e58407
 workflow-type: tm+mt
-source-wordcount: '290'
+source-wordcount: '396'
 ht-degree: 1%
 
 ---
@@ -20,12 +20,15 @@ O Adobe Experience Platform Web SDK usa cookies para armazenar valores específi
 
 | Nome | Idade máxima | Tamanho | Descrição |
 |---|---|---|---|
-| **kndctr_&lt;ORG_ID>_identity** | 34128000 (395 dias) | 100-120 bytes (variável) | Armazena a ECID, bem como outras informações relacionadas à ECID. |
-| **kndctr_&lt;ORG_ID>_consent** | 15552000 (180 dias) | 10-11 bytes | Armazena a preferência de consentimento do usuário para o site. |
-| **kndctr_&lt;ORG_ID>_cluster** | 1800 (30 minutos) | 3 a 5 bytes | Armazena a região do Edge Network que atende às solicitações do usuário atual. A região é usada no caminho do URL para que o Edge Network possa rotear a solicitação para a região correta. Se um usuário se conectar com um endereço IP diferente ou em uma sessão diferente, a solicitação será roteada novamente para a região mais próxima. |
-| **mbox** | 63072000 (2 anos) | | Presente quando a configuração de migração do Target estiver definida como verdadeira. Ele permite que o [cookie da mbox](https://developer.adobe.com/target/implement/client-side/atjs/atjs-cookies/) do Target seja definido pelo Web SDK. |
-| **mboxEdgeCluster** | 1800 (30 minutos) | | Presente quando a configuração de migração do Target estiver definida como verdadeira. Ele permite que o Web SDK comunique o cluster de borda correto com `at.js` para que os perfis do Target possam permanecer sincronizados enquanto os usuários navegam em um site. |
-| **AMCV_###@AdobeOrg** | 34128000 (395 dias) | | Presente quando [`idMigrationEnabled`](https://experienceleague.adobe.com/pt-br/docs/experience-platform/web-sdk/commands/configure/idmigrationenabled) está habilitado. Ajuda na transição para o Web SDK enquanto algumas partes do site ainda usam o `visitor.js`. |
+| **`AMCV_###@AdobeOrg`** | 34128000 (395 dias) | 100-120 bytes (variável) | Presente quando [`idMigrationEnabled`](https://experienceleague.adobe.com/en/docs/experience-platform/collection/js/commands/configure/idmigrationenabled) está habilitado. Ajuda na transição para o Web SDK enquanto algumas partes do site ainda usam o `visitor.js`. O Web SDK lê e grava neste cookie durante a migração. |
+| **`demdex`** | 15552000 (180 dias) | varia | Apresentar se a sincronização da Audience Manager ID estiver habilitada. O Audience Manager define esse cookie para atribuir uma ID exclusiva e uma ID de suporte para sincronização, segmentação, modelagem e relatórios. Consulte `demdex` em [cookies do Audience Manager](audience-manager.md). |
+| **`kndctr_<orgId>_identity`** | 34128000 (395 dias) | 100-120 bytes (variável) | Armazena a ECID e outras informações relacionadas desse dispositivo. |
+| **`kndctr_<orgId>_cluster`** | 1800 (30 minutos) | 3 a 5 bytes | Armazena a região do Edge Network (dica de localização) que atende às solicitações do usuário atual. A região é usada no caminho do URL para que o Edge Network possa rotear a solicitação para a região correta. Se um usuário se conectar com um endereço IP diferente durante a vida útil do cookie, a solicitação será roteada novamente para a região mais próxima. |
+| **`kndctr_<orgId>_consent`** | 15552000 (180 dias) | 10-11 bytes | Armazena as preferências de consentimento do visitante. Sempre defina independentemente do consentimento, pois armazena as próprias preferências de consentimento. |
+| **`kndctr_<orgId>_consent_check`** | 7200 (2 horas) | | Auxiliar de escopo de sessão que sinaliza ao Edge Network para verificar novamente o consentimento do lado do servidor após a expiração do TTL. Ela impõe um TTL no consentimento em cache. |
+| **`kndctr_<orgId>_personalization`** | 34128000 (395 dias) | | Armazena informações de sessão que o Adobe Target usa para personalizar o conteúdo. |
+| **`mbox`** | 63072000 (2 anos) | | Presente quando [`targetMigrationEnabled`](https://experienceleague.adobe.com/en/docs/experience-platform/collection/js/commands/configure/targetmigrationenabled) está habilitado. Ele permite que o [cookie da mbox](https://developer.adobe.com/target/implement/client-side/atjs/atjs-cookies/) do Target seja definido pelo Web SDK. |
+| **`mboxEdgeCluster`** | 1800 (30 minutos) | | Presente quando [`targetMigrationEnabled`](https://experienceleague.adobe.com/en/docs/experience-platform/collection/js/commands/configure/targetmigrationenabled) está habilitado. Ele permite que o Web SDK comunique o cluster de borda correto com `at.js` para que os perfis do Target possam permanecer sincronizados enquanto os usuários navegam em um site. |
+| **`s_ecid`** | 63115200 (2 anos) | ~45 bytes | Contém uma cópia da Experience Cloud ID (ECID/MID) no formato `s_ecid=MCMID\|<ECID>`. Atua como um backup próprio da ECID, principalmente para cenários CNAME (primários). |
 
 O Edge Network define todos os cookies com os atributos `secure` e `sameSite="none"`. Se você tiver seções seguras e não seguras em seu site, a identificação do usuário pode ser imprecisa. Quando um usuário navega de uma seção segura do site para uma seção não segura, o Edge Network gera um novo `ECID` com a solicitação.
-

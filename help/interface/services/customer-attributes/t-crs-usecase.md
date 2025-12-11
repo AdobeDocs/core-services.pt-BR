@@ -54,7 +54,7 @@ Esses dados são os dados do cliente da empresa no seu CRM. Os dados podem inclu
 
 ## Criar a fonte de atributo e fazer upload do arquivo de dados
 
-Execute essas etapas na página _[!UICONTROL Create Customer Attribute Source]_do Experience Cloud.
+Execute essas etapas na página _[!UICONTROL Create Customer Attribute Source]_&#x200B;do Experience Cloud.
 
 >[!IMPORTANT]
 >

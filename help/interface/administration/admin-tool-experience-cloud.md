@@ -8,10 +8,10 @@ topic: Administration
 role: Admin
 level: Experienced
 exl-id: 127eecdd-3862-48ba-8cf6-a8082d2b7bae
-source-git-commit: 63d5c080a7282c78eb7a66c5a54c69b5597545ab
+source-git-commit: 27b9b789e0d4c448105f5acec3aa05c9404443bf
 workflow-type: tm+mt
-source-wordcount: '1178'
-ht-degree: 76%
+source-wordcount: '1182'
+ht-degree: 75%
 
 ---
 
@@ -31,7 +31,7 @@ Os administradores podem exibir uma lista classificável e filtrável de todos o
 
 ## Página Usuários
 
-Esta página exibe a lista completa de usuários com acesso à Experience Cloud na organização. Fornece informações sobre os direitos e o último logon do aplicativo. Pesquise, classifique e filtre exibições personalizadas da lista de usuários.
+Esta página exibe a lista completa de usuários com acesso à Experience Cloud na organização. Ela fornece informações sobre os direitos e o último logon do aplicativo. Pesquise, classifique e filtre exibições personalizadas da lista de usuários.
 
 ![Página de usuários do Admin Console](../assets/admin-tool-users.png)
 
@@ -41,7 +41,7 @@ Esta página exibe a lista completa de usuários com acesso à Experience Cloud 
 | [!UICONTROL Email] | O endereço de email associado ao usuário. A coluna pode ser classificada como A->Z, Z->A. |
 | [!UICONTROL ID Type] | O tipo de identidade da conta do usuário. O filtro pode ser aplicado a tipos de ID específicos da exibição. Consulte [Gerenciar tipos de identidade](https://helpx.adobe.com/br/enterprise/using/identity.html) para obter mais informações. |
 | [!UICONTROL Solutions] | Resumo dos aplicativos da Experience Cloud que o usuário pode acessar. Aplique filtros para restringir a lista de usuários com acesso específico ao aplicativo. |
-| [!UICONTROL Last Login] | Hora e data do logon mais recente do usuário no Experience Cloud. Essa coluna pode ser classificada por datas crescentes ou decrescentes. <br> **Importante:** a partir de 13 de janeiro de 2020, os últimos dados de logon do usuário serão mantidos por 365 dias. Essas informações são destinadas a mostrar a atividade de logon atual no Experience Cloud e não são uma recomendação para tomar medidas em contas inativas antes de 13 de janeiro de 2020. |
+| [!UICONTROL Last Login] | Hora e data do logon mais recente do usuário no Experience Cloud. Essa coluna pode ser classificada por datas crescentes ou decrescentes. <br> **Importante:** a partir de 13 de janeiro de 2020, os últimos dados de entrada de um usuário serão mantidos por 365 dias. Essas informações são destinadas a mostrar a atividade de logon atual no Experience Cloud e não são uma recomendação para tomar medidas em contas inativas antes de 13 de janeiro de 2020. |
 
 ## Personalizar a exibição da lista de usuários
 

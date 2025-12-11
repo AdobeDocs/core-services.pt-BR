@@ -8,9 +8,9 @@ topic: Administration
 role: Admin
 level: Experienced
 exl-id: 21ed7c35-aac9-46f1-a50c-84e7c075209c
-source-git-commit: b69cb75550232a630996cb521a86414eeb53f73a
+source-git-commit: 27b9b789e0d4c448105f5acec3aa05c9404443bf
 workflow-type: tm+mt
-source-wordcount: '1063'
+source-wordcount: '1061'
 ht-degree: 47%
 
 ---
@@ -23,11 +23,7 @@ Crie a fonte de atributo do cliente (arquivos `.csv` e `.fin`) e carregue os dad
 
 ![Fluxo de trabalho dos atributos do cliente](assets/crs.png)
 
-## Localizar [!DNL Customer Attributes]
-
-Em [!DNL Experience Cloud], clique em **[!UICONTROL Apps]** ![menu](assets/menu-icon.png) > **[!DNL Customer Attributes]**.
-
-## Pré-requisitos para usar o [!DNL Customer Attributes]
+## Pré-requisitos para usar o [!DNL Customer Attributes] {#prerequisites}
 
 * **Associação de grupo:** Para carregar os dados, os usuários devem ser membros do grupo [!DNL Customer Attributes]. Você também deve pertencer a um grupo do Adobe Analytics ou do Adobe Target.
 
@@ -37,7 +33,7 @@ Em [!DNL Experience Cloud], clique em **[!UICONTROL Apps]** ![menu](assets/menu-
 
 * O **Adobe Target** `at.js` (qualquer versão) ou `mbox.js` versão 58 ou posterior é necessário para os atributos do cliente.
 
-  Consulte [Como implantar at.js](https://experienceleague.adobe.com/docs/target-dev/developer/client-side/overview.html?lang=pt-BR).
+  Consulte [Como implantar at.js](https://experienceleague.adobe.com/docs/target-dev/developer/client-side/overview.html).
 
 ## Criar um arquivo de dados
 
@@ -58,13 +54,13 @@ Esses dados são os dados do cliente da empresa no seu CRM. Os dados podem inclu
 
 ## Criar a fonte de atributo e fazer upload do arquivo de dados
 
-Execute essas etapas na página [!UICONTROL Create Customer Attribute Source] do Experience Cloud.
+Execute essas etapas na página _[!UICONTROL Create Customer Attribute Source]_do Experience Cloud.
 
 >[!IMPORTANT]
 >
 >Ao criar, modificar ou excluir fontes de atributos do cliente, ocorre um atraso de cerca de uma hora antes de as IDs começarem a sincronizar com a nova fonte de dados. Você deve ter direitos administrativos no Audience Manager para criar ou modificar fontes de atributos do cliente. Entre em contato com o Atendimento ao cliente da Audience Manager ou consulte para obter direitos administrativos.
 
-1. Em [!DNL Experience Cloud], clique em **[!UICONTROL Apps]** ![menu](assets/menu-icon.png) > **[!DNL Customer Attributes]**.
+1. Para abrir o [!UICONTROL Customer Attributes], clique no **[!UICONTROL Apps]** ![menu](assets/menu-icon.png) > **[!DNL Customer Attributes]**.
 
    ![Página de atributos do cliente](assets/cust-attr.png)
 
@@ -88,7 +84,7 @@ Execute essas etapas na página [!UICONTROL Create Customer Attribute Source] do
 
       * **Marcas:** A ID de Alias corresponde ao valor de *Código de Integração* em [!UICONTROL customer Settings], na ferramenta [Serviço da Experience Cloud ID](https://experienceleague.adobe.com/docs/experience-platform/tags/home.html?lang=pt-BR).
 
-      * **API de Visitante:** A ID de Alias corresponde às [IDs do cliente](https://experienceleague.adobe.com/docs/id-service/using/reference/authenticated-state.html?lang=pt-BR) adicionais que você pode associar a cada visitante.
+      * **API de Visitante:** A ID de Alias corresponde às [IDs do cliente](https://experienceleague.adobe.com/docs/id-service/using/reference/authenticated-state.html) adicionais que você pode associar a cada visitante.
 
         Por exemplo, *&quot;crm_ id&quot;* em:
 
@@ -110,11 +106,11 @@ Execute essas etapas na página [!UICONTROL Create Customer Attribute Source] do
 
         Consulte [Como aproveitar várias fontes de dados](crs-data-file.md#section_76DEB6001C614F4DB8BCC3E5D05088CB) para obter informações adicionais sobre o processamento de dados relacionado ao campo de ID de alias e IDs do cliente.
 
-   * **[!UICONTROL Namespace Code:]** Use este valor para identificar a fonte de atributo do cliente ao usar o [IdentityMap](https://experienceleague.adobe.com/pt-br/docs/experience-platform/web-sdk/identity/overview) como parte de uma Implementação do WebSDK do AEP.
+   * **[!UICONTROL Namespace Code:]** Use este valor para identificar a fonte de atributo do cliente ao usar o [IdentityMap](https://experienceleague.adobe.com/en/docs/experience-platform/web-sdk/identity/overview) como parte de uma Implementação do WebSDK do AEP.
 
 1. Clique em **[!UICONTROL Save]**.
 
-## Fazer upload de arquivo
+## Fazer upload do arquivo {#upload-customer-attributes}
 
 O registro de atributo do cliente é criado e você pode fazer upload do arquivo editando o atributo do cliente.
 
@@ -140,7 +136,7 @@ Após o upload do arquivo, os dados da tabela são exibidos no cabeçalho [!UICO
 
 * **[!UICONTROL customer-Provided IDs with High Alias Counts:]** Exibe a contagem de IDs fornecidas pelo cliente com 500 ou mais IDs de visitante da Experience Cloud com alias. Essas IDs fornecidas pelo cliente provavelmente não representam pessoas, mas um tipo de logon compartilhado. O sistema distribui os atributos associados a essas IDs para as 500 IDs de visitante da Experience Cloud com alias mais recentes, até a contagem de alias chegar a 10.000. Em seguida, o sistema invalida a ID fornecida pelo cliente e não distribui mais os atributos associados. —>
 
-## Validar o esquema
+## Validar o esquema {#validate-schema}
 
 O processo de validação permite mapear os nomes de exibição e as descrições aos atributos carregados (strings, números inteiros, números e assim por diante). Também é possível excluir atributos atualizando o esquema.
 

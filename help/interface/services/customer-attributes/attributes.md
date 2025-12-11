@@ -7,10 +7,10 @@ role: Admin
 topic: Administration
 level: Experienced
 exl-id: fe8ad013-76da-49f8-aa51-dc5f6c1b1d79
-source-git-commit: b69cb75550232a630996cb521a86414eeb53f73a
+source-git-commit: 27b9b789e0d4c448105f5acec3aa05c9404443bf
 workflow-type: tm+mt
 source-wordcount: '304'
-ht-degree: 84%
+ht-degree: 63%
 
 ---
 
@@ -22,11 +22,11 @@ O serviço de [!DNL Customer Attributes] na Experience Cloud permite que você f
 
 ![Visão geral dos atributos do cliente](assets/custom_reports.png)
 
-## O que são os dados de clientes de empresas?
+## Sobre dados de clientes de empresas {#customer-data}
 
-Os dados da empresa ficam em outros sistemas. Eles podem ser complexos e ter diferentes significados para pessoas diferentes. Esses dados podem incluir informações como associações, nível de fidelidade, idade, gênero, produtos de propriedade, interesses e valor da vida útil.
+Os dados de clientes corporativos referem-se ao conjunto de informações coletadas em toda a organização sobre clientes, clientes potenciais e parceiros. Eles residem em outros sistemas e podem incluir informações como associações, nível de fidelidade, idade, gênero, produtos de propriedade, interesses e valor vitalício.
 
-A imagem a seguir é um exemplo de um arquivo de dados que mostra os dados do assinante para produtos, incluindo IDs de membro, produtos autorizados, produtos mais iniciados e assim por diante.
+A imagem a seguir é um exemplo de um _arquivo de dados_ que mostra os dados do assinante para produtos, incluindo IDs de membro, produtos qualificados, produtos mais iniciados e assim por diante.
 
 ![O que são os dados de clientes corporativos?](assets/01_crs_usecase.png)
 

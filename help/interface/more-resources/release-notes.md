@@ -9,9 +9,9 @@ topic: Administration
 role: Admin
 level: Experienced
 exl-id: b71d144c-a097-4cdb-9721-671519d38aff
-source-git-commit: f6e1b7bd86548f3f435738463d2ab764f801b077
+source-git-commit: db1e2a8c3278a44ad2d004a48cc0aa7f13cfd82b
 workflow-type: tm+mt
-source-wordcount: '1333'
+source-wordcount: '1330'
 ht-degree: 76%
 
 ---
@@ -28,7 +28,7 @@ Para obter notas de versão que abrangem todos os aplicativos, consulte [Notas d
 
 | Data | Atualização | Descrição |
 | -----------| -----------| ---------- |
-| **sexta-feira, 15 de janeiro de 2026** | Navegação personalizável à esquerda | A navegação à esquerda do Unified Shell no Experience Cloud agora é personalizável. Você pode reordenar os itens de navegação e acessar rapidamente os recursos mais importantes. Essa atualização melhora a eficiência ao simplificar fluxos de trabalho, reduzir a carga cognitiva e oferecer suporte à acessibilidade total do teclado. Ele preserva um design consistente e moderno em todos os aplicativos e permite a personalização futura. |
+| **sexta-feira, 15 de janeiro de 2026** | Navegação personalizável à esquerda | Agora você pode personalizar a navegação à esquerda no Experience Cloud. Reordene os itens de navegação e acesse rapidamente os recursos mais importantes. Essa atualização ajuda a simplificar os fluxos de trabalho, reduzir a carga cognitiva e oferece suporte à acessibilidade total do teclado. Ele preserva um design consistente e moderno em todos os aplicativos e permite a personalização futura. |
 
 ## Setembro de 2025
 

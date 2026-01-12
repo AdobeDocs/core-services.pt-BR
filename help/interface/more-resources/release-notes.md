@@ -9,10 +9,10 @@ topic: Administration
 role: Admin
 level: Experienced
 exl-id: b71d144c-a097-4cdb-9721-671519d38aff
-source-git-commit: 7e6fb9d8e87ec1cbec0b60dd773f157cb52e66ea
+source-git-commit: f6e1b7bd86548f3f435738463d2ab764f801b077
 workflow-type: tm+mt
-source-wordcount: '1273'
-ht-degree: 79%
+source-wordcount: '1333'
+ht-degree: 76%
 
 ---
 
@@ -23,6 +23,12 @@ Recursos, notas de versão e problemas conhecidos dos Componentes da interface c
 Para obter uma lista de atualizações de documentação, consulte [Atualizações de documentação](doc-updates.md).
 
 Para obter notas de versão que abrangem todos os aplicativos, consulte [Notas de versão da Experience Cloud](https://experienceleague.adobe.com/docs/release-notes/experience-cloud/current.html?lang=pt-BR).
+
+## Janeiro de 2026
+
+| Data | Atualização | Descrição |
+| -----------| -----------| ---------- |
+| **sexta-feira, 15 de janeiro de 2026** | Navegação personalizável à esquerda | A navegação à esquerda do Unified Shell no Experience Cloud agora é personalizável. Você pode reordenar os itens de navegação e acessar rapidamente os recursos mais importantes. Essa atualização melhora a eficiência ao simplificar fluxos de trabalho, reduzir a carga cognitiva e oferecer suporte à acessibilidade total do teclado. Ele preserva um design consistente e moderno em todos os aplicativos e permite a personalização futura. |
 
 ## Setembro de 2025
 
@@ -40,13 +46,13 @@ Para obter notas de versão que abrangem todos os aplicativos, consulte [Notas d
 
 | Data | Recurso | Descrição |
 | -----------| -----------| ---------- |
-| 13 de fevereiro | Spectrum 2 | A estrutura do aplicativo Experience Cloud, que inclui a barra de cabeçalho e os componentes acessados por ela, bem como o painel de navegação esquerdo para determinados aplicativos, será atualizada para o Spectrum 2, o sistema de design mais recente da Adobe. Esse design atualizado inclui uma iconografia atualizada, mas com a mesma funcionalidade. Entretanto, vários elementos do cabeçalho foram reposicionados para se alinhar a outros sites e aplicativos da Adobe. |
+| Fevereiro de 13 | Spectrum 2 | A estrutura do aplicativo Experience Cloud, que inclui a barra de cabeçalho e os componentes acessados por ela, bem como o painel de navegação esquerdo para determinados aplicativos, será atualizada para o Spectrum 2, o sistema de design mais recente da Adobe. Esse design atualizado inclui uma iconografia atualizada, mas com a mesma funcionalidade. Entretanto, vários elementos do cabeçalho foram reposicionados para se alinhar a outros sites e aplicativos da Adobe. |
 
 ## Janeiro de 2025
 
 | Data | Recurso | Descrição |
 | -----------| -----------| ---------- |
-| 9 de janeiro | Dados de uso do produto | Para facilitar o controle das preferências de dados de uso de produtos da Experience Cloud, simplificamos nossa página [Preferências](../features/account-preferences.md#product-usage-data) da Experience Cloud para remover opções duplicadas. Com essa alteração, preservamos as preferências atuais do usuário para que você possa atualizar suas [preferências da Experience Cloud](https://experience.adobe.com/preferences) a qualquer momento. |
+| Janeiro de 9 | Dados de uso do produto | Para facilitar o controle das preferências de dados de uso de produtos da Experience Cloud, simplificamos nossa página [Preferências](../features/account-preferences.md#product-usage-data) da Experience Cloud para remover opções duplicadas. Com essa alteração, preservamos as preferências atuais do usuário para que você possa atualizar suas [preferências da Experience Cloud](https://experience.adobe.com/preferences) a qualquer momento. |
 
 ## 2 de outubro de 2024
 

@@ -9,7 +9,7 @@ topic: Artificial Intelligence
 role: Admin, User
 level: Beginner, Intermediate
 exl-id: bdc51956-82aa-4aae-b627-a2018f80b5f5
-source-git-commit: e63dd988abba199049da2b3620eed9ebf51043d1
+source-git-commit: 9052fdf44146b17d00338c9823882c9eb254c6d7
 workflow-type: tm+mt
 source-wordcount: '2476'
 ht-degree: 9%
@@ -383,4 +383,4 @@ O [!UICONTROL AI Assistant] no [!DNL Workfront] ajuda você a realizar seu traba
 
 * [AI in Experience Cloud](https://experienceleague.adobe.com/en/docs/ai) documentation home -->
 
-**Aviso de isenção de responsabilidade:** as informações desta página são somente para fins informativos gerais. Embora sejam feitos esforços para garantir que as informações permaneçam precisas e atuais, os recursos de software e IA gerativa podem mudar com frequência. Portanto, não garantimos a integridade, a precisão ou a confiabilidade das informações em todos os momentos. Verifique todos os detalhes importantes antes de tomar decisões com base nesse conteúdo.
+**Aviso de isenção de responsabilidade:** as informações desta página são somente para fins informativos gerais. Embora sejam feitos esforços para garantir que as informações permaneçam precisas e atuais, os recursos de software e IA gerativa podem mudar com frequência. Portanto, a Adobe não garante a integridade, a precisão ou a confiabilidade das informações o tempo todo. Verifique todos os detalhes importantes antes de tomar decisões com base nesse conteúdo.

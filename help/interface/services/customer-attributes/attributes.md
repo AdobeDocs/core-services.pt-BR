@@ -1,16 +1,16 @@
 ---
 title: Sobre o  [!DNL Customer Attributes]
-description: Saiba mais sobre  [!DNL Customer Attributes]  na Experience Cloud. Descubra como fazer upload dos dados de atributo de cliente para uso no Adobe Analytics e Adobe Target.
+description: Saiba mais sobre o  [!DNL Customer Attributes] no Adobe Experience Cloud. Descubra como fazer upload dos dados de atributo de cliente para uso no Adobe Analytics e Adobe Target.
 solution: Analytics
 feature: Customer Attributes
 role: Admin
 topic: Administration
 level: Experienced
 exl-id: fe8ad013-76da-49f8-aa51-dc5f6c1b1d79
-source-git-commit: fc80e5fbbfc542a981f333413b648011f7057b58
+source-git-commit: a5afed30f142601d44fd9f10ce1cfde683c6da1f
 workflow-type: tm+mt
-source-wordcount: '304'
-ht-degree: 63%
+source-wordcount: '305'
+ht-degree: 61%
 
 ---
 

@@ -8,7 +8,7 @@ topic: Artificial Intelligence
 feature: Agentic AI, AI Tools
 role: Admin, User
 level: Intermediate
-source-git-commit: 6be65dde7c10f5f51786c0ce01e3ec82379c775f
+source-git-commit: 623bb6e240987cb2ff76bce3488b827b901b84db
 workflow-type: tm+mt
 source-wordcount: '368'
 ht-degree: 6%
@@ -16,19 +16,19 @@ ht-degree: 6%
 ---
 
 
-## Trabalhos de agentes e consumo de crédito de IA
+# Trabalhos de agentes e consumo de crédito de IA
 
-### Trabalhos do agente
+## Trabalhos do agente
 
 Um **Trabalho do Agente** é uma série de tarefas e ações que um Agente executa para atingir um resultado específico, conforme determinado pelas entradas do cliente.
 
 Usando prompts de linguagem natural por meio do Assistente de IA, os clientes podem solicitar que os Agentes realizem tarefas específicas. Com base nessas entradas, a Agent Orchestrator coordena os agentes apropriados para executar cada etapa nos aplicativos Experience Cloud relevantes.
 
-### Créditos de IA
+## Créditos de IA
 
 Um **Crédito de IA** é uma métrica baseada no uso que quantifica a execução dos Trabalhos do Agente. Os créditos de IA não se aplicam a aplicativos de IA First.
 
-### Consumo de crédito de IA
+## Consumo de crédito de IA
 
 O uso do Crédito de IA pode variar dependendo da complexidade e do valor do Trabalho executado:
 
@@ -36,7 +36,7 @@ O uso do Crédito de IA pode variar dependendo da complexidade e do valor do Tra
 * Tarefas complexas (geralmente de várias etapas) consomem mais créditos
 * Tarefas que envolvem raciocínio avançado, validação, coordenação de vários agentes ou integração consomem mais créditos
 
-#### Taxas de consumo de crédito de IA estimadas
+### Taxas de consumo de crédito de IA estimadas
 
 | Agente | Trabalho | Aplicativos suportados | Créditos de IA estimados |
 |------|-----|------------------------|----------------------|

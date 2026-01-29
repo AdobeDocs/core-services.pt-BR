@@ -9,9 +9,9 @@ feature: Agentic AI, AI Tools
 role: Admin, User
 level: Intermediate
 exl-id: c1a8f9a7-4752-4040-b5f0-dc775417f536
-source-git-commit: 3ed72cfa1fd7a6559ac7dd7b31007798c228d53e
+source-git-commit: 46163c8e95de36914f9a4ec5336712a2b137a587
 workflow-type: tm+mt
-source-wordcount: '876'
+source-wordcount: '875'
 ht-degree: 3%
 
 ---
@@ -20,7 +20,7 @@ ht-degree: 3%
 
 Atualizado em: **29 de janeiro de 2026**
 
-Os agentes do Adobe Experience Platform usam o Experience Platform [Agent Orchestrator](https://experienceleague.adobe.com/pt-br/docs/experience-cloud-ai/experience-cloud-ai/home) para adicionar recursos baseados em agente aos aplicativos do Experience Cloud.
+Os Adobe Experience Platform Agents são viabilizados pelo [Experience Platform Agent Orchestrator](https://experienceleague.adobe.com/pt-br/docs/experience-cloud-ai/experience-cloud-ai/home) para habilitar recursos de IA de agente nos aplicativos da Experience Cloud.
 
 Esses agentes ajudam a automatizar tarefas, fornecer insights mais rapidamente e simplificar fluxos de trabalho. Como resultado, as equipes podem trabalhar com mais eficiência e obter mais valor do Experience Cloud.
 
@@ -43,7 +43,7 @@ Os agentes podem ser ativados nos aplicativos Experience Cloud existentes para c
 
 O uso de agentes de IA para executar _trabalhos de agente_ consome créditos de IA. Saiba mais sobre trabalhos de agentes e créditos de IA em _[Trabalhos de agentes e consumo de crédito de IA](/help/interface/features/ai-credit-consumption.md)_.
 
-Os agentes de IA seguem a _sua_ entrada, supervisão e respeitam os controles de acesso no nível do produto. Você só pode executar tarefas ou acessar dados que estão autorizados a usar no produto Experience Cloud subjacente.
+Os agentes de IA seguem a _sua_ entrada, supervisão e respeitam os controles de acesso no nível do produto. Você só pode executar tarefas ou acessar dados autorizados a usar no aplicativo subjacente do Experience Cloud.
 
 ### Agentes de IA em aplicativos Experience Cloud existentes {#existing-apps-table}
 
@@ -57,7 +57,7 @@ A tabela a seguir lista os Experience Platform Agents disponíveis nos aplicativ
 | **Brand Experience Agent** | [Suporte de Implantação](https://experienceleague.adobe.com/pt-br/docs/experience-manager-cloud-service/content/ai-in-aem/agents/development/overview): ajuda desenvolvedores e administradores técnicos do AEM CS a solucionar falhas de etapa de compilação no pipeline da Cloud Manager, analisando a causa raiz e sugerindo correções. | <ul><li>Assistente de IA no AEM Cloud Service e no Adobe Managed Services</li></ul> |
 | **Agente de governança de marca*** | [Governança da marca](https://experienceleague.adobe.com/pt-br/docs/experience-manager-cloud-service/content/ai-in-aem/agents/governance/overview): proteja a integridade e a conformidade da marca aplicando políticas de segurança, normativas e de marca em toda a Experience Manager. Esse agente aplica a governança da marca para manter os padrões visuais e de mensagens. Ele usa permissões granulares para gerenciar alterações de acesso e conteúdo e incorpora o DRM para manter as restrições de licenciamento e uso. | <ul><li>Adobe Experience Manager Sites</li><li>Adobe Experience Manager Assets</li><li>Adobe Experience Manager Forms</li></ul> |
 | [Journey Agent](https://experienceleague.adobe.com/pt-br/docs/experience-cloud-ai/experience-cloud-ai/agents/ajo-agent-analyze) | Permita que suas equipes criem, analisem e otimizem rapidamente as jornadas de clientes multitoque em escala. | <ul><li>Adobe Journey Optimizer (edições B2B e B2C)</li></ul> |
-| [Agente de Suporte ao Produto](https://experienceleague.adobe.com/pt-br/docs/experience-platform/ai-assistant/new-features/customer-support) | Solucione problemas de suporte sem sair dos workflows, crie tíquetes de suporte ao cliente e rastreie o progresso do caso usando o Assistente de IA. | <ul><li>Real-Time CDP (edições B2B, B2C e B2P)</li><li>Adobe Journey Optimizer (edições B2B e B2C)</li><li>Adobe Journey Optimizer B2B edition</li><li>Customer Journey Analytics</li><li>Adobe Experience Manager</li></ul> |
+| [Agente de Suporte ao Produto](https://experienceleague.adobe.com/pt-br/docs/experience-platform/ai-assistant/new-features/customer-support) | Solucione problemas de suporte sem sair dos workflows, crie tíquetes de suporte ao cliente e rastreie o progresso do caso usando o Assistente de IA. | <ul><li>Real-Time CDP (edições B2B, B2C e B2P)</li><li>Adobe Journey Optimizer (edições B2B e B2C)</li><li>Customer Journey Analytics (edições B2B e B2C)</li><li>Adobe Experience Manager</li></ul> |
 
 Asterisco (*): este agente está acessível aos clientes no programa Explorer. O Explorer Program é um programa exclusivo para convidados que fornece acesso antecipado aos recursos mais recentes da Adobe. Entre em contato com o seu representante de conta para obter mais informações.
 

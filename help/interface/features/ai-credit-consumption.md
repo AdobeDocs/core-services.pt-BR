@@ -6,10 +6,10 @@ topic: Artificial Intelligence
 feature: Agentic AI, AI Tools
 role: Admin, User
 level: Intermediate
-source-git-commit: 608e1685b6ca531da73d2df138b11537097716ce
+source-git-commit: 7eb6c6e463102ca445093c69797619202202b35e
 workflow-type: tm+mt
-source-wordcount: '388'
-ht-degree: 10%
+source-wordcount: '405'
+ht-degree: 9%
 
 ---
 
@@ -59,3 +59,8 @@ O uso do crédito de IA pode variar dependendo da complexidade e do valor do tra
 >[!NOTE]
 >
 >O consumo real de crédito de IA pode variar dependendo do número de etapas executadas e iterações por etapa.
+
+## Mais ajuda sobre este tópico
+
+* [IA de agente no Experience Cloud](/help/interface/features/agentic-ai.md)
+* [avaliação associada ao uso dos Adobe Experience Platform Agents](https://experienceleague.adobe.com/en/docs/experience-cloud-ai/experience-cloud-ai/agents/trial)

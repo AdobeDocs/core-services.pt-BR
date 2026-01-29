@@ -11,9 +11,9 @@ level: Intermediate
 hidefromtoc: true
 index: false
 exl-id: c1a8f9a7-4752-4040-b5f0-dc775417f536
-source-git-commit: da7a2a9e9aa8365288fa6e05afb6485e4c33ccb2
+source-git-commit: 7c01f555359c2993e3d4da077882073a1e8b839a
 workflow-type: tm+mt
-source-wordcount: '870'
+source-wordcount: '876'
 ht-degree: 3%
 
 ---
@@ -31,7 +31,7 @@ O acesso aos agentes de IA no Experience Cloud está disponível no:
 * [Aplicativos Experience Cloud existentes](#existing-apps)
 * [Aplicativos Experience Cloud AI First](#ai-first-apps)
 
-As seções a seguir descrevem como ativar a IA agêntica no Experience Cloud.
+As seções a seguir descrevem essas duas maneiras de ativar a IA agêntica no Experience Cloud.
 
 ## Aplicativos Experience Cloud existentes {#existing-apps}
 
@@ -39,11 +39,11 @@ Em aplicativos existentes, você pode usar a linguagem natural para instruir os 
 
 Os agentes podem ser ativados nos aplicativos Experience Cloud existentes para clientes em uma das seguintes categorias:
 
-* Adquirida uma licença de créditos de IA de agentes do Adobe Experience Platform
-* Estão incluídos em uma avaliação vinculada ao uso (créditos de IA limitados fornecidos)
-* Transacionado o SKU do Agent Orchestrator Promo (licença de avaliação limitada por tempo)
+* Você adquiriu uma licença de Créditos de IA de agentes da Adobe Experience Platform
+* Você está incluído em uma avaliação vinculada ao uso (créditos de IA limitados fornecidos)
+* Você transacionou a SKU do Agent Orchestrator Promo (licença de avaliação limitada por tempo)
 
-À medida que você usa agentes de IA para executar _trabalhos de agente_, você consome créditos de IA. Saiba mais sobre isso em [Trabalhos de agente e consumo de crédito de IA](/help/interface/features/ai-credit-consumption.md).
+O uso de agentes de IA para executar _trabalhos de agente_ consome créditos de IA. Saiba mais sobre trabalhos de agentes e créditos de IA em _[Trabalhos de agentes e consumo de crédito de IA](/help/interface/features/ai-credit-consumption.md)_.
 
 Os agentes de IA seguem a _sua_ entrada, supervisão e respeitam os controles de acesso no nível do produto. Você só pode executar tarefas ou acessar dados que estão autorizados a usar no produto Experience Cloud subjacente.
 

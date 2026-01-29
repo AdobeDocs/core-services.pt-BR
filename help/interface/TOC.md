@@ -5,10 +5,10 @@ breadcrumb-title: Administração e interface da Experience Cloud
 title: Administração e interface da Experience Cloud
 description: Saiba mais sobre a interface da Experience Cloud, cookies e preferências de conta. Gerencie produtos e configure o serviço Pessoas, incluindo atributos do cliente e biblioteca de público-alvo. Compartilhar ativos da Experience Cloud.
 index: true
-source-git-commit: 8c8e85c0c5f19191adfd72e20cfb1edd258179f6
+source-git-commit: 94aaba86801096ae5d638ff56e241d6a8b1ef317
 workflow-type: tm+mt
-source-wordcount: '205'
-ht-degree: 84%
+source-wordcount: '208'
+ht-degree: 85%
 
 ---
 
@@ -16,6 +16,19 @@ ht-degree: 84%
 # Administração e interface da Experience Cloud {#interface}
 
 + [Administração e interface da Experience Cloud](/help/interface/experience-cloud.md)
++ IA na Experience Cloud {#features}
+   + [IA generativa](/help/interface/features/generative-ai.md)
+   + [IA agêntica](/help/interface/features/agentic-ai.md)
+   + [Trabalhos de agentes e consumo de crédito de IA](/help/interface/features/ai-credit-consumption.md)
++ Administração {#administration}
+   + [Preferências e notificações da conta](/help/interface/features/account-preferences.md)
+   + [Suporte a navegador e idioma](/help/interface/browser-language.md)
+   + [Gerenciamento de usuários e de produtos](/help/interface/administration/admin-console.md)
+   + [Ferramenta de administração](/help/interface/administration/admin-tool-experience-cloud.md)
+   + [Organizações e vinculação de contas](/help/interface/administration/organizations.md)
+   + [Integrações](/help/interface/administration/integrations.md)
+   + [Pesquisa unificada](/help/interface/features/search.md)
+   + [Preferências de aprendizado personalizadas](/help/interface/features/personalized-learning.md)
 + Serviços de interface {#services}
    + [Visão geral da interface](/help/interface/services/overview.md)
    + [Introdução](/help/interface/services/getting-started.md)
@@ -29,7 +42,6 @@ ht-degree: 84%
    + Biblioteca de público-alvo {#audiences}
       + [Visão geral de públicos-alvo](/help/interface/services/audiences/overview.md)
       + [Criar um público-alvo](/help/interface/services/audiences/create.md)
-   + [Adobe Exchange](/help/interface/services/exchange.md)
    + Atributos do cliente {#customer-attributes}
       + [Visão geral dos atributos do cliente](/help/interface/services/customer-attributes/attributes.md)
       + [Perguntas frequentes](/help/interface/services/customer-attributes/faq-crs.md)
@@ -43,19 +55,7 @@ ht-degree: 84%
       + [Suporte para CCPA](/help/interface/services/customer-attributes/ccpa.md)
       + [Considerações sobre privacidade](/help/interface/services/customer-attributes/privacy-mac.md)
    + [Acionadores](/help/interface/services/triggers.md)
-+ Recursos {#features}
-   + [Preferências e notificações da conta](/help/interface/features/account-preferences.md)
-   + [IA generativa](/help/interface/features/generative-ai.md)
-   + [IA agêntica](/help/interface/features/agentic-ai.md)
-   + [Trabalhos de agentes e consumo de crédito de IA](/help/interface/features/ai-credit-consumption.md)
-   + [Pesquisa unificada](/help/interface/features/search.md)
-   + [Preferências de aprendizado personalizadas](/help/interface/features/personalized-learning.md)
-   + [Suporte a navegador e idioma](/help/interface/browser-language.md)
-+ Administração {#administration}
-   + [Gerenciamento de usuários e de produtos](/help/interface/administration/admin-console.md)
-   + [Ferramenta de administração](/help/interface/administration/admin-tool-experience-cloud.md)
-   + [Organizações e vinculação de contas](/help/interface/administration/organizations.md)
-   + [Integrações](/help/interface/administration/integrations.md)
+   + [Adobe Exchange](/help/interface/services/exchange.md)
 + Coleção de dados {#data-collection}
    + [Programa de certificado gerenciado pela Adobe](/help/interface/data-collection/adobe-managed-cert.md)
    + [Endereços IP](/help/interface/data-collection/ip-addresses.md)

@@ -8,7 +8,7 @@ topic: Administration
 role: Admin
 level: Experienced
 exl-id: 48e79e23-b339-4143-b3b1-969c370efeff
-source-git-commit: 1586f442699d53e6e926442dfb07d957e5e2708a
+source-git-commit: 404d76931c8d315efba202536f032ddac223c530
 workflow-type: tm+mt
 source-wordcount: '1942'
 ht-degree: 75%
@@ -59,9 +59,9 @@ Requisitos de [!DNL Analytics] e [!DNL Adobe Target] para usar o Experience Clou
    * **Adobe Analytics:** Standard ou Premium (não o SKU do [!DNL SiteCatalyst] herdado).
    * **Adobe Target:** Standard ou Premium.
 
-   >[!NOTE]
-   >
-   >No [!DNL Target], migre para at.js a partir do `mbox.js`. Consulte [Atualização da at.js 1.x para a at.js 2.  x](https://experienceleague.adobe.com/br/docs/target-dev/developer/client-side/at-js-implementation/upgrading-from-atjs-1x-to-atjs-20.html).
+     >[!NOTE]
+     >
+     >No [!DNL Target], migre para at.js a partir do `mbox.js`. Consulte [Atualização da at.js 1.x para a at.js 2.  x](https://experienceleague.adobe.com/br/docs/target-dev/developer/client-side/at-js-implementation/upgrading-from-atjs-1x-to-atjs-20.html).
 
 1. [Gerenciar usuários e produtos](../administration/admin-console.md) no [!UICONTROL Admin Console].
 

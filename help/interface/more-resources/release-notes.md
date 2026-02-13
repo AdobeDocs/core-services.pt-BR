@@ -9,10 +9,28 @@ topic: Administration
 role: Admin
 level: Experienced
 exl-id: b71d144c-a097-4cdb-9721-671519d38aff
-source-git-commit: f04dc50d480befa9c9f94711871ce2ecea51f9c8
+TQID: https://experienceleague.adobe.com/LHiM5ewnknE-NdZ5oEJ4ZhBDL4x-jChzSQBIZOK15Hw
+product_v2:
+  - id: d0a3eab4-7b10-4d96-a71e-6c0f8e7b7c87
+feature_v2:
+  - id: dab36b01-8bfa-48f3-8392-626455a058e6
+  - id: fdbb8fc9-ffa3-4b86-88fe-aa4c5a3e1bc6
+subfeature_v2:
+  - id: b75843fa-0a67-4a44-a6b1-cc627b0481dc
+  - id: bdea9bc8-5600-45db-b85e-d74bb59dfcff
+  - id: d27b1945-f442-4607-91bd-537a0b16e687
+  - id: e53834d3-a86e-47ae-8257-15f5f3639855
+  - id: ecb4a972-6786-444c-a014-abc528b9407a
+  - id: f1299f18-ec4b-4531-b2a2-df3b94ff9a68
+  - id: fef08361-6ac5-460c-93fe-d063e40b6a49
+role_v2:
+  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+topic_v2:
+  - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
+source-git-commit: 0d253888322194189fea6d492ae19cf248357960
 workflow-type: tm+mt
-source-wordcount: '1337'
-ht-degree: 76%
+source-wordcount: 1337
+ht-degree: 80%
 
 ---
 
@@ -28,7 +46,7 @@ Para obter notas de versão que abrangem todos os aplicativos, consulte [Notas d
 
 | Data | Atualização | Descrição | Produtos aplicáveis |
 | -----------| -----------| ---------- | ---------- |
-| **quinta-feira, 14 de janeiro de 2026** | Menu de navegação esquerdo personalizado | Agora você pode personalizar o menu de navegação esquerdo de um aplicativo no Experience Cloud. Reordene os itens de navegação e controle sua visibilidade para acessar rapidamente os recursos mais importantes. Essa atualização ajuda a simplificar os fluxos de trabalho, reduzir a carga cognitiva e oferece suporte à acessibilidade total do teclado. | <ul><li>Experience Platform</li><li>Journey Optimizer</li><li>Journey Optimizer edição B2B</li><li>Dynamic Chat</li></ul> |
+| **14 de janeiro de 2026** | Menu de navegação esquerdo personalizável | Agora é possível personalizar o menu de navegação esquerdo de um aplicativo na Experience Cloud. Reordene os itens de navegação e controle sua visibilidade para acessar rapidamente os recursos mais importantes. Essa atualização ajuda a simplificar os fluxos de trabalho, reduzir a carga cognitiva e oferece suporte à acessibilidade total do teclado. | <ul><li>Experience Platform</li><li>Journey Optimizer</li><li>Journey Optimizer edição B2B</li><li>Dynamic Chat</li></ul> |
 
 ## Setembro de 2025
 
@@ -54,7 +72,7 @@ Para obter notas de versão que abrangem todos os aplicativos, consulte [Notas d
 | -----------| -----------| ---------- |
 | Janeiro de 9 | Dados de uso do produto | Para facilitar o controle das preferências de dados de uso de produtos da Experience Cloud, simplificamos nossa página [Preferências](../features/account-preferences.md#product-usage-data) da Experience Cloud para remover opções duplicadas. Com essa alteração, preservamos as preferências atuais do usuário para que você possa atualizar suas [preferências da Experience Cloud](https://experience.adobe.com/preferences) a qualquer momento. |
 
-## 2 de outubro de 2024
+## quinta-feira, 2 de outubro de 2024
 
 | Recurso | Descrição |
 | -----------| ---------- |

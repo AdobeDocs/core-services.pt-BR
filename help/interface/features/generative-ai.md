@@ -9,9 +9,36 @@ topic: Artificial Intelligence
 role: Admin, User
 level: Beginner, Intermediate
 exl-id: bdc51956-82aa-4aae-b627-a2018f80b5f5
-source-git-commit: 9052fdf44146b17d00338c9823882c9eb254c6d7
+TQID: https://experienceleague.adobe.com/7mRkCgAhCWLxUZHj6zGC698TZPEPeetFChWoRfx5iac
+product_v2:
+  - id: d0a3eab4-7b10-4d96-a71e-6c0f8e7b7c87
+feature_v2:
+  - id: fdbb8fc9-ffa3-4b86-88fe-aa4c5a3e1bc6
+subfeature_v2:
+  - id: b75843fa-0a67-4a44-a6b1-cc627b0481dc
+  - id: fef08361-6ac5-460c-93fe-d063e40b6a49
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+level_v2:
+  - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+topic_v2:
+  - id: a004cc84-67b9-4a33-a3a7-8ec7273ef4dc
+  - id: b4dd41a7-ccf8-4e9d-918e-acaab534a307
+  - id: bbbea26f-9621-49eb-9ab8-e06fb3bbce8c
+  - id: bcc5edb5-84c3-4940-9f84-ed88b6c16274
+  - id: c7d04a2c-412a-4c9d-9d7a-4456eaa5adeb
+  - id: d095671a-1355-40aa-8b5f-06c33c68080b
+  - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
+  - id: e3ed4cd0-303a-4a01-84a2-26db657042d9
+  - id: e4bd5f48-22a4-465d-a046-5ffb52e27856
+  - id: e9001ce2-5245-4a8e-8601-dd958009072f
+  - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
+  - id: f4e6943a-c91a-4134-a2c7-f4f20cfff2f0
+source-git-commit: 0d253888322194189fea6d492ae19cf248357960
 workflow-type: tm+mt
-source-wordcount: '2476'
+source-wordcount: 2476
 ht-degree: 9%
 
 ---
@@ -74,10 +101,10 @@ Este é um resumo de [!DNL Experience Cloud] aplicativos que usam recursos de IA
 | **Nome do produto** | **Principais Recursos da GenAI** | **Compatibilidade com o Firefly** |
 |------------------|-------------------------|-------------------|
 | [Adobe GenStudio for Performance Marketing](https://experienceleague.adobe.com/pt-br/docs/genstudio-for-performance-marketing/user-guide/home) | Crie conteúdo personalizado na marca com a genAI. | Sim |
-| [Adobe Experience Manager as a Cloud Service (AEM CS)](https://experienceleague.adobe.com/pt-br/docs/experience-manager-cloud-service/content/ai-in-aem/overview) | O GenAI está disponível em: <ul><li>Gerar variações no **AEM Sites** ([Saiba mais](https://experienceleague.adobe.com/pt-br/docs/experience-manager-cloud-service/content/generative-ai/generate-variations-integrated-editor))</li><li>GenAI no **Sites Optimizer** ([Saiba mais](https://experienceleague.adobe.com/pt-br/docs/experience-manager-sites-optimizer/content/opportunity-types/overview))</li><li>[Content Hub](https://experienceleague.adobe.com/pt-br/docs/experience-manager-cloud-service/content/assets/content-hub/product-overview?lang=en) e [Tags inteligentes](https://experienceleague.adobe.com/pt-br/docs/experience-manager-cloud-service/content/assets/manage/smart-tags?lang=en#ai-smart-tags) no **AEM Assets**</li></ul> Assistente de IA para: <ul><li>Página de visão geral do Experience Hub</li><li>Edge Delivery Services</li><li>Sites</li><li>Ativos</li><li>Forms</li><li>Mídia dinâmica</li><li>Cloud Manager</li></ul> | Sim |
-| [Adobe Experience Manager 6.5](https://experienceleague.adobe.com/pt-br/docs/experience-manager-65/content/ai-assistant/ai-assistant-in-aem) | Assistente de IA para: <ul><li>Página de visão geral do Experience Hub</li><li>Edge Delivery Services</li><li>Sites</li><li>Ativos</li><li>Forms</li><li>Mídia dinâmica</li><li>Cloud Manager</li></ul> | Sim |
-| [Adobe Experience Manager 6.5 LTS](https://experienceleague.adobe.com/pt-br/docs/experience-manager-65-lts/content/ai-assistant/ai-assistant-in-aem) | Assistente de IA para: <ul><li>Página de visão geral do Experience Hub</li><li>Edge Delivery Services</li><li>Sites</li><li>Ativos</li><li>Forms</li><li>Mídia dinâmica</li><li>Cloud Manager</li></ul> | Sim |
-| [LLM Optimizer](https://experienceleague.adobe.com/pt-br/docs/llm-optimizer/using/home) | Um aplicativo generativo, AI-First, que usa agentes de IA para identificar automaticamente lacunas de visibilidade, sugerir melhorias automaticamente e, em casos selecionados, otimizar automaticamente a experiência do site. | Não |
+| [Adobe Experience Manager as a Cloud Service (AEM CS)](https://experienceleague.adobe.com/pt-br/docs/experience-manager-cloud-service/content/ai-in-aem/overview) | O GenAI está disponível em: <ul><li>Gerar variações no **AEM Sites** ([Saiba mais](https://experienceleague.adobe.com/pt-br/docs/experience-manager-cloud-service/content/generative-ai/generate-variations-integrated-editor))</li><li>GenAI no **Sites Optimizer** ([Saiba mais](https://experienceleague.adobe.com/pt-br/docs/experience-manager-sites-optimizer/content/opportunity-types/overview))</li><li>[Content Hub](https://experienceleague.adobe.com/pt-br/docs/experience-manager-cloud-service/content/assets/content-hub/product-overview?lang=en) e [Tags inteligentes](https://experienceleague.adobe.com/pt-br/docs/experience-manager-cloud-service/content/assets/manage/smart-tags?lang=en#ai-smart-tags) no **AEM Assets**</li></ul> Assistente de IA para: <ul><li>Página de visão geral do Experience Hub</li><li>Edge Delivery Services</li><li>Sites</li><li>Ativos</li><li>Formulários</li><li>Mídia dinâmica</li><li>Cloud Manager</li></ul> | Sim |
+| [Adobe Experience Manager 6.5](https://experienceleague.adobe.com/pt-br/docs/experience-manager-65/content/ai-assistant/ai-assistant-in-aem) | Assistente de IA para: <ul><li>Página de visão geral do Experience Hub</li><li>Edge Delivery Services</li><li>Sites</li><li>Ativos</li><li>Formulários</li><li>Mídia dinâmica</li><li>Cloud Manager</li></ul> | Sim |
+| [Adobe Experience Manager 6.5 LTS](https://experienceleague.adobe.com/pt-br/docs/experience-manager-65-lts/content/ai-assistant/ai-assistant-in-aem) | Assistente de IA para: <ul><li>Página de visão geral do Experience Hub</li><li>Edge Delivery Services</li><li>Sites</li><li>Ativos</li><li>Formulários</li><li>Mídia dinâmica</li><li>Cloud Manager</li></ul> | Sim |
+| [Otimizador de LLM](https://experienceleague.adobe.com/pt-br/docs/llm-optimizer/using/home) | Um aplicativo generativo, AI-First, que usa agentes de IA para identificar automaticamente lacunas de visibilidade, sugerir melhorias automaticamente e, em casos selecionados, otimizar automaticamente a experiência do site. | Não |
 | [Adobe Experience Platform](https://experienceleague.adobe.com/pt-br/docs/experience-platform/ai-assistant/landing) | Assistente de IA para conhecimento do produto e insights operacionais. | Não |
 | [Adobe Journey Optimizer](https://experienceleague.adobe.com/pt-br/docs/journey-optimizer/using/get-started/ai-assistant) | Assistente de IA para conhecimento do produto e insights operacionais. | Não |
 | | A _AJO Prime_ e a _Ultimate_ oferecem a [geração de conteúdo](https://experienceleague.adobe.com/pt-br/docs/journey-optimizer/using/content-management/ai-assistant/gs-generative?lang=en) para trazer sugestões de variação de conteúdo pró-ativo para texto e imagens. | Sim |
@@ -129,7 +156,7 @@ O Assistente de IA é compatível com o AEM as a Cloud Service nos seguintes loc
 * Edge Delivery Services
 * Sites
 * Ativos
-* Forms
+* Formulários
 * Mídia dinâmica
 * Cloud Manager
 

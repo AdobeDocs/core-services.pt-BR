@@ -2,15 +2,28 @@
 title: Gerenciamento de licenças de usuários e produtos
 description: Gerencie usuários e licenças de produtos no Admin Console para aplicativos da Experience Cloud.
 application: Experience Cloud
-index: true
+index: yes
 feature: Admin Console
 topic: Administration
 role: Admin
 level: Experienced
 exl-id: c82821c4-aa5d-48ae-8bef-5937fede8db2
-source-git-commit: 63d5c080a7282c78eb7a66c5a54c69b5597545ab
+TQID: https://experienceleague.adobe.com/ojHy0Am9T1T7Zu5EpR3jLynQ-dotvhcn6usRynb5TXo
+product_v2:
+  - id: e1971122-7081-4556-9222-8a31bd71800c
+role_v2:
+  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+topic_v2:
+  - id: c7d04a2c-412a-4c9d-9d7a-4456eaa5adeb
+  - id: d095671a-1355-40aa-8b5f-06c33c68080b
+  - id: d3cdead0-685a-4489-9250-4bb709942f66
+  - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
+  - id: e3ed4cd0-303a-4a01-84a2-26db657042d9
+  - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
+  - id: f4e6943a-c91a-4134-a2c7-f4f20cfff2f0
+source-git-commit: 0d253888322194189fea6d492ae19cf248357960
 workflow-type: tm+mt
-source-wordcount: '750'
+source-wordcount: 750
 ht-degree: 7%
 
 ---
@@ -51,7 +64,7 @@ Estes são recursos que você pode precisar ao começar a usar o administrador n
 | Link de ajuda | Descrição |
 | ------- | ------- |
 | [Redefinir Adobe ID](https://helpx.adobe.com/br/manage-account/kb/account-password-sign-help.html) | Saia e clique em **[!UICONTROL Get help signing in]** > **[!UICONTROL Reset your password]**. |
-| [Gerenciar vários usuários](https://helpx.adobe.com/br/enterprise/using/bulk-upload-users.html) | **[!UICONTROL Admin Console]** > **[!UICONTROL Users]** <br>Saiba como gerenciar vários usuários por meio do carregamento em massa CSV para a Admin Console. |
+| [Gerenciar vários usuários](https://helpx.adobe.com/enterprise/using/bulk-upload-users.html) | **[!UICONTROL Admin Console]** > **[!UICONTROL Users]** <br>Saiba como gerenciar vários usuários por meio do carregamento em massa CSV para a Admin Console. |
 | [Tipos de identidade](https://helpx.adobe.com/br/enterprise/using/identity.html) | Os tipos de identidade permitem que a organização tenha diferentes níveis de controle sobre as contas e os dados dos usuários. Sua escolha de modelo de identidade afeta como sua organização armazena e compartilha ativos. Embora os modelos do Federated ID e do Enterprise ID sejam criados e gerenciados pela organização, as Adobe IDs são criadas e gerenciadas pelo indivíduo. |
 | [Ferramenta de Sincronização de Usuário](https://helpx.adobe.com/br/enterprise/using/user-sync.html) (UST) | A Ferramenta de sincronização de usuários do Adobe é um aplicativo de desktop usado para automatizar a sincronização de dados de usuários entre o sistema de gerenciamento de identidades de uma organização (como o Ative Diretory) e a Adobe Admin Console. A ferramenta permite que os administradores simplifiquem o provisionamento, as atualizações e a desativação de usuários nos produtos da Adobe. |
 | [Exibir detalhes do usuário (Ferramenta Administrativa)](admin-tool-experience-cloud.md) | Exiba uma lista classificável e filtrável de todos os usuários e políticas da Experience Cloud com detalhes no [!UICONTROL Admin Tool]. |
@@ -60,7 +73,7 @@ Estes são recursos que você pode precisar ao começar a usar o administrador n
 
 | Link de ajuda | Descrição |
 | ------- |------- |
-| [Log de auditoria](https://helpx.adobe.com/br/enterprise/using/audit-logs.html) | **[!UICONTROL Insights]** > **[!UICONTROL Logs]** > **[!UICONTROL Audit Log]** <br> Rastreie todas as alterações feitas na Admin Console. |
+| [Log de auditoria](https://helpx.adobe.com/enterprise/using/audit-logs.html) | **[!UICONTROL Insights]** > **[!UICONTROL Logs]** > **[!UICONTROL Audit Log]** <br> Rastreie todas as alterações feitas na Admin Console. |
 
 
 ## Recursos específicos do aplicativo

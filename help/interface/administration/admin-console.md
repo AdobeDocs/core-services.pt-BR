@@ -64,7 +64,7 @@ Estes são recursos que você pode precisar ao começar a usar o administrador n
 | Link de ajuda | Descrição |
 | ------- | ------- |
 | [Redefinir Adobe ID](https://helpx.adobe.com/br/manage-account/kb/account-password-sign-help.html) | Saia e clique em **[!UICONTROL Get help signing in]** > **[!UICONTROL Reset your password]**. |
-| [Gerenciar vários usuários](https://helpx.adobe.com/enterprise/using/bulk-upload-users.html) | **[!UICONTROL Admin Console]** > **[!UICONTROL Users]** <br>Saiba como gerenciar vários usuários por meio do carregamento em massa CSV para a Admin Console. |
+| [Gerenciar vários usuários](https://helpx.adobe.com/br/enterprise/using/bulk-upload-users.html) | **[!UICONTROL Admin Console]** > **[!UICONTROL Users]** <br>Saiba como gerenciar vários usuários por meio do carregamento em massa CSV para a Admin Console. |
 | [Tipos de identidade](https://helpx.adobe.com/br/enterprise/using/identity.html) | Os tipos de identidade permitem que a organização tenha diferentes níveis de controle sobre as contas e os dados dos usuários. Sua escolha de modelo de identidade afeta como sua organização armazena e compartilha ativos. Embora os modelos do Federated ID e do Enterprise ID sejam criados e gerenciados pela organização, as Adobe IDs são criadas e gerenciadas pelo indivíduo. |
 | [Ferramenta de Sincronização de Usuário](https://helpx.adobe.com/br/enterprise/using/user-sync.html) (UST) | A Ferramenta de sincronização de usuários do Adobe é um aplicativo de desktop usado para automatizar a sincronização de dados de usuários entre o sistema de gerenciamento de identidades de uma organização (como o Ative Diretory) e a Adobe Admin Console. A ferramenta permite que os administradores simplifiquem o provisionamento, as atualizações e a desativação de usuários nos produtos da Adobe. |
 | [Exibir detalhes do usuário (Ferramenta Administrativa)](admin-tool-experience-cloud.md) | Exiba uma lista classificável e filtrável de todos os usuários e políticas da Experience Cloud com detalhes no [!UICONTROL Admin Tool]. |
@@ -73,7 +73,7 @@ Estes são recursos que você pode precisar ao começar a usar o administrador n
 
 | Link de ajuda | Descrição |
 | ------- |------- |
-| [Log de auditoria](https://helpx.adobe.com/enterprise/using/audit-logs.html) | **[!UICONTROL Insights]** > **[!UICONTROL Logs]** > **[!UICONTROL Audit Log]** <br> Rastreie todas as alterações feitas na Admin Console. |
+| [Log de auditoria](https://helpx.adobe.com/br/enterprise/using/audit-logs.html) | **[!UICONTROL Insights]** > **[!UICONTROL Logs]** > **[!UICONTROL Audit Log]** <br> Rastreie todas as alterações feitas na Admin Console. |
 
 
 ## Recursos específicos do aplicativo

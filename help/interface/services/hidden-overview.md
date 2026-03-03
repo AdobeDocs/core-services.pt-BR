@@ -8,7 +8,7 @@ role: Admin
 level: Experienced
 hide: true
 hidefromtoc: true
-source-git-commit: b69cb75550232a630996cb521a86414eeb53f73a
+source-git-commit: 0ce4fa63a4babc195f89c595009adcf19f34cdd9
 workflow-type: tm+mt
 source-wordcount: '185'
 ht-degree: 67%
@@ -29,7 +29,7 @@ Para acessar esses serviços no Experience Cloud, selecione o **[!UICONTROL Appl
 Esta ajuda descreve os seguintes produtos e serviços:
 
 | Serviço principal | Descrição |
-|--- |--- |
+| --- | --- |
 | [Componentes da interface central](../experience-cloud.md) | Acesse preferências de conta, pesquise a ajuda do produto e acesse aplicativos e serviços. |
 | [Biblioteca de público-alvo](audiences/overview.md) | Os públicos-alvo são coleções de visitantes (uma lista de IDs de visitante). O [!DNL Audience Library] da Adobe permite gerenciar a conversão dos dados do visitante em segmentação do público-alvo. |
 | [Atributos do cliente](customer-attributes/attributes.md) | Crie casos de uso de orquestração em tempo real usando dados contextuais armazenados em eventos ou fontes de dados. O [!UICONTROL Journey Orchestration] é um serviço de aplicativos integrado à Experience Platform. |

@@ -13,7 +13,7 @@ getting-started-url: https://helpx.adobe.com/br/experience-cloud-core-services/g
 tutorials-title: Tutorials
 tutorials-url: https://experienceleague.adobe.com/content/help/en/core-services-learn/tutorials/overview.html
 git-repo: https://github.com/AdobeDocs/core-services.pt-BR
-source-git-commit: 4c879ad5a5392924950694e89bc94f8cc1e84aa3
+source-git-commit: 0ce4fa63a4babc195f89c595009adcf19f34cdd9
 workflow-type: tm+mt
 source-wordcount: '176'
 ht-degree: 100%
@@ -26,7 +26,7 @@ ht-degree: 100%
 O arquivo metadata.md inclui metadados de nível de repositório transmitidos para os arquivos TOC.md do guia do usuário no repositório. Se desejar alterar o conteúdo metadata.md para qualquer guia do usuário, faça isso em qualquer arquivo TOC.md.
 
 | metadata | o que faz |
-|--- |--- |
+| --- | --- |
 | solution-title | Usado no cabeçalho do artigo como link |
 | solution-hub-url | Abre a página helpx hub |
 | solution-icon | Exibe o ícone da solução próximo ao título da solução. Ainda não implementado |
@@ -40,6 +40,6 @@ O arquivo metadata.md inclui metadados de nível de repositório transmitidos pa
 No arquivo TOC.md
 
 | metadata | o que faz |
-|--- |--- |
+| --- | --- |
 | user-guide-title | Usado no cabeçalho do artigo como link |
 | user-guide-url | Abre a página helpx hub |

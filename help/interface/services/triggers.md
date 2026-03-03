@@ -24,7 +24,7 @@ topic_v2:
   - id: d3cdead0-685a-4489-9250-4bb709942f66
   - id: e0eb8757-182f-49f3-94a4-1587d16f5094
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
-source-git-commit: 0d253888322194189fea6d492ae19cf248357960
+source-git-commit: 0ce4fa63a4babc195f89c595009adcf19f34cdd9
 workflow-type: tm+mt
 source-wordcount: 646
 ht-degree: 78%
@@ -72,7 +72,7 @@ Crie um acionador e configure as condições para ele. Por exemplo, você pode e
 1. Preencha os seguintes campos e arraste métricas e itens de dimensão aos contêineres da regra para configurar o acionador:
 
    | Elemento | Descrição |
-   |--- |--- |
+   | --- | --- |
    | [!UICONTROL Name] | O nome amigável deste acionador. |
    | [!UICONTROL Description] | A descrição deste acionador, como você o usará etc. |
    | [!UICONTROL Report Suite] | O [conjunto de relatórios](https://experienceleague.adobe.com/docs/analytics/admin/manage-report-suites/report-suites-admin.html?lang=pt-BR) do Analytics usado para esse acionador. Esta configuração identifica os dados de relatório que serão usados. |

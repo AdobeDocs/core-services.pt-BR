@@ -23,7 +23,7 @@ role_v2:
 topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
   - id: ff2b9b37-92e0-45fc-b853-379d44c08c89
-source-git-commit: 0d253888322194189fea6d492ae19cf248357960
+source-git-commit: 0ce4fa63a4babc195f89c595009adcf19f34cdd9
 workflow-type: tm+mt
 source-wordcount: 278
 ht-degree: 47%
@@ -46,7 +46,7 @@ Para acessar aplicativos e serviços compartilhados no Experience Cloud, clique 
 As páginas Serviços neste guia descrevem os seguintes produtos e serviços:
 
 | Serviço principal | Descrição |
-|--- |--- |
+| --- | --- |
 | [Componentes da interface central](https://experienceleague.adobe.com/pt-br/docs/core-services/interface/experience-cloud) | Acesse preferências de conta, pesquise a ajuda do produto e acesse aplicativos e serviços. |
 | [Biblioteca de público-alvo](https://experienceleague.adobe.com/pt-br/docs/core-services/interface/services/audiences/overview) | Os públicos-alvo são coleções de visitantes (uma lista de IDs de visitante). O [!DNL Audience Library] da Adobe permite gerenciar a conversão dos dados do visitante em segmentação do público-alvo. |
 | [Atributos do cliente](https://experienceleague.adobe.com/pt-br/docs/core-services/interface/services/customer-attributes/attributes) | Crie casos de uso de orquestração em tempo real usando dados contextuais armazenados em eventos ou fontes de dados. O [!UICONTROL Journey Orchestration] é um serviço de aplicativos integrado à Experience Platform. |

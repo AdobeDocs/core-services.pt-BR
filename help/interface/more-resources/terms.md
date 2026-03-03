@@ -23,7 +23,7 @@ topic_v2:
   - id: a004cc84-67b9-4a33-a3a7-8ec7273ef4dc
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
   - id: f4e6943a-c91a-4134-a2c7-f4f20cfff2f0
-source-git-commit: 0d253888322194189fea6d492ae19cf248357960
+source-git-commit: 0ce4fa63a4babc195f89c595009adcf19f34cdd9
 workflow-type: tm+mt
 source-wordcount: 1218
 ht-degree: 96%
@@ -35,7 +35,7 @@ ht-degree: 96%
 Uma referência de terminologia para usuários da Experience Cloud e como esses termos são usados na Creative Cloud (quando aplicável).
 
 | Termo | Creative Cloud | Experience Cloud |
-|--- |----- |---- |
+| --- | ----- | ---- |
 | **Ativo** | Na Creative Cloud, um ativo normalmente é um arquivo de imagem.<br>Os recursos podem ser camadas em um arquivo do Photoshop, slides em um arquivo do PowerPoint, páginas em um PDF e arquivos em um ZIP. | Na Experience Cloud, um ativo é um documento digital, uma imagem, um vídeo ou áudio que pode ter várias representações e subativos. São exemplos:<ul><li>Arquivo</li><li>Documento</li><li>Imagem</li><li>Vídeo</li><li>Clip de áudio</li><li>Apresentação</li><li>Modelo de imagem</li><li>Modelo de vídeo</li></ul> |
 | **Atributo** | | O que as pessoas têm em comum se qualificarem para um [segmento](https://experienceleague.adobe.com/docs/analytics/components/segmentation/seg-home.html?lang=pt-BR). (Semelhante a um [traço](https://experienceleague.adobe.com/docs/audience-manager/user-guide/aam-glossary.html?lang=pt-BR) no Audience Manager.) |
 | **Públicos-alvo** | Na Creative Cloud, um público-alvo pode ser a pessoa que assiste a um vídeo. | Na Experience Cloud, públicos-alvo são coleções de pessoas que você pode direcionar em atividades de campanha.<br>A associação em um público-alvo pode ser determinada com base em um conjunto de regras, que funcionam no contexto do visitante ou com base em uma lista fixa. Por exemplo, uma lista de assinantes de email ou membros em um grupo do Facebook.<br>No [Experience Cloud Audiences](../services/audiences/overview.md), a criação e o gerenciamento de públicos-alvo são semelhantes à criação e ao uso de segmentos, além da capacidade de compartilhá-los na Experience Cloud.<br>**Adobe Target**<br> No Adobe Target, os públicos-alvo eram chamados de segmentos.<br>**Adobe Analytics**<br> No Analytics, os públicos-alvo podem ser considerados visitantes de um site. É possível criar segmentos de público-alvo e publicá-los na Experience Cloud. |

@@ -20,7 +20,7 @@ topic_v2:
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
   - id: f4e6943a-c91a-4134-a2c7-f4f20cfff2f0
-source-git-commit: c76a89731baf86762bf65453346af8171fdb0ad3
+source-git-commit: 0ce4fa63a4babc195f89c595009adcf19f34cdd9
 workflow-type: tm+mt
 source-wordcount: 750
 ht-degree: 7%
@@ -71,7 +71,7 @@ Estes são recursos que você pode precisar ao começar a usar o administrador n
 ### Relatórios e logs
 
 | Link de ajuda | Descrição |
-| ------- |------- |
+| ------- | ------- |
 | [Log de auditoria](https://helpx.adobe.com/br/enterprise/using/audit-logs.html) | **[!UICONTROL Insights]** > **[!UICONTROL Logs]** > **[!UICONTROL Audit Log]** <br> Rastreie todas as alterações feitas na Admin Console. |
 
 

@@ -22,7 +22,7 @@ role_v2:
 topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
   - id: ff2b9b37-92e0-45fc-b853-379d44c08c89
-source-git-commit: 0d253888322194189fea6d492ae19cf248357960
+source-git-commit: 0ce4fa63a4babc195f89c595009adcf19f34cdd9
 workflow-type: tm+mt
 source-wordcount: 684
 ht-degree: 71%
@@ -53,7 +53,7 @@ Todos os públicos-alvo, independentemente de sua fonte, podem ser acessados par
 A tabela a seguir descreve como os públicos-alvo são usados nos aplicativos da Experience Cloud:
 
 | Solução | Descrição |
-|--- |--- |
+| --- | --- |
 | Públicos-alvo da Experience Cloud | Crie, gerencie e compartilhe públicos-alvo originalmente usando a Biblioteca de público-alvo. É possível:<ul><li>Use públicos-alvo em tempo real usando atributos brutos de análise.</li><li>Combine públicos para criar compostos, unindo dados históricos e em tempo real.</li><li>Consulte as exibições gráficas do tamanho estimado dos públicos-alvo.</li></ul><br>Para obter sugestões sobre que tipo de público-alvo você deve criar, consulte [Opções de criação de públicos-alvo](https://experienceleague.adobe.com/docs/experience-cloud-kcs/kbarticles/KA-16471.html?lang=pt-BR). |
 | Analytics | Na segmentação, é possível criar um segmento, combiná-lo com um conjunto de relatórios e, em seguida, publicar o segmento na Experience Cloud. Após publicar o segmento, ele é exibido na página [!DNL Audience Library] na Experience Cloud. (Consulte [Publicar segmentos no Experience Cloud](https://experienceleague.adobe.com/docs/analytics/components/segmentation/segmentation-workflow/seg-publish.html?lang=pt-BR) na ajuda do [!DNL Analytics] para obter detalhes.) O público-alvo também está disponível como um público-alvo direcionado para uma experiência de campanha oferecida pelo [!DNL Adobe Target] e no [!DNL Audience Manager]. Depois de compartilhar um público-alvo de [!DNL Adobe Analytics] e selecioná-lo para uso em uma campanha ativa, os perfis de visitante que atendem ao critério de definição de segmento dos últimos 90 dias são enviados para [!UICONTROL Audience Services]. O limite de públicos-alvo compartilhados foi aumentado para 75. Os públicos-alvo compartilhados com a Experience Cloud a partir do [!DNL Analytics] não podem exceder 20 milhões de membros exclusivos. Além disso, devido ao armazenamento em cache, os conjuntos de relatórios excluídos no Analytics permanecem na Experience Cloud por 12 horas após a exclusão. |
 | Mobile Services | Analise o tráfego de publicação de conteúdo para dispositivos móveis usando a exibição de explosão solar no relatório [!UICONTROL Device Types]. |
@@ -78,7 +78,7 @@ O [!DNL Experience Cloud] fornece uma biblioteca para criar e gerenciar público
 
 
 | Elemento | Descrição |
-|--- |--- |
+| --- | --- |
 | Novo | [Criar um público-alvo](https://experienceleague.adobe.com/pt-br/docs/core-services/interface/services/audiences/create). |
 | Título e descrição | Um cabeçalho de coluna que identifica e descreve o público-alvo. |
 | Autor | A pessoa que criou o segmento de público-alvo. |

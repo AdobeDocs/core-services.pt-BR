@@ -9,13 +9,10 @@ role: Admin
 level: Experienced
 exl-id: 127eecdd-3862-48ba-8cf6-a8082d2b7bae
 TQID: https://experienceleague.adobe.com/zq5NfbuRlyx2Y0e-u-B8CErQPhfn4Re8-6z3sN9QGE0
-product_v2:
-  - id: e1971122-7081-4556-9222-8a31bd71800c
-role_v2:
-  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
-topic_v2:
-  - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
-source-git-commit: 0d253888322194189fea6d492ae19cf248357960
+product_v2: id: e1971122-7081-4556-9222-8a31bd71800c
+role_v2: id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+topic_v2: id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
+source-git-commit: 0ce4fa63a4babc195f89c595009adcf19f34cdd9
 workflow-type: tm+mt
 source-wordcount: 1182
 ht-degree: 75%
@@ -43,7 +40,7 @@ Esta página exibe a lista completa de usuários com acesso à Experience Cloud 
 ![Página de usuários do Admin Console](../assets/admin-tool-users.png)
 
 | Elemento | Descrição |
-|---|---|
+| --- | ---|
 | [!UICONTROL Name] | O nome e sobrenome do usuário. É possível classificar essa coluna de A a Z e Z a A. Clique no nome de um usuário para ver mais detalhes sobre ele. |
 | [!UICONTROL Email] | O endereço de email associado ao usuário. A coluna pode ser classificada como A->Z, Z->A. |
 | [!UICONTROL ID Type] | O tipo de identidade da conta do usuário. O filtro pode ser aplicado a tipos de ID específicos da exibição. Consulte [Gerenciar tipos de identidade](https://helpx.adobe.com/br/enterprise/using/identity.html) para obter mais informações. |
@@ -59,7 +56,7 @@ Pesquise, classifique ou filtre as colunas para personalizar a lista de usuário
 * Para aplicar múltiplos filtros a usuários da lista com critérios específicos, clique em **[!UICONTROL Filter By]**. Quando várias categorias de filtro são aplicadas, as pesquisas contêm a Solução `AND` TIPO DE ID `AND` de domínio de email.
 
 | Elemento | Descrição |
-|---------|----------|
+| ---------| ----------|
 | [!UICONTROL Email Domain] filtro | Procure por cadeias de caracteres na coluna Email para restringir os resultados a um ou vários domínios. Adicione vários filtros pressionando Enter após cada termo de pesquisa. |
 | [!UICONTROL ID Type] filtro | Escolha dentre os Tipos de ID disponíveis. Vários tipos de ID podem ser usados como filtro. |
 | [!UICONTROL Solution] filtro | Escolha dentre os aplicativos disponíveis. Vários filtros de aplicativo pesquisam resultados que contêm a Solução 1 `OR` Solução 2. |
@@ -93,7 +90,7 @@ Esta seção exibe um resumo dos aplicativos da Experience Cloud que o usuário 
 Esta seção exibe uma lista completa de todos os perfis de produtos associados ao usuário.
 
 | Elemento | Descrição |
-|---------|----------|
+| ---------| ----------|
 | [!UICONTROL Product] | Nome do produto associado ao perfil do produto. |
 | [!UICONTROL Instance] | Nome da instância (como empresa de logon ou locatário) associada ao produto e ao perfil do produto. |
 | [!UICONTROL Product profile] | Nome exclusivo do perfil do produto. |
@@ -107,7 +104,7 @@ Esta página exibe a lista completa das políticas da Experience Cloud na sua or
 ![Página de Políticas no Admin Console](../assets/admin-tool-policies.png)
 
 | Elemento | Descrição |
-|---|---|
+| ---| ---|
 | [!UICONTROL Product rofile] | O nome do perfil do produto. A coluna pode ser classificada de A->Z ou de Z->A. Para ver mais detalhes sobre a política, clique no nome de perfil de um produto. |
 | [!UICONTROL Product] | O produto associado ao perfil do produto. A coluna pode ser classificada como A->Z, Z->A. |
 | [!UICONTROL Instance] | A instância (por exemplo, locatário ou empresa de logon) associada ao perfil do produto. Os produtos que não tiverem instâncias ou locatários únicos exibirão um &quot; - &quot; como valor. A coluna pode ser classificada como A->Z, Z->A. |
@@ -123,7 +120,7 @@ Pesquise, classifique ou filtre as colunas para personalizar a lista de polític
 * Clique no ícone **[!UICONTROL Filter By]** para aplicar vários filtros para listar perfis de produto com critérios específicos. Quando várias categorias de filtro são aplicadas, as pesquisas contêm Grupos associados `AND` Instância `AND` Solução.
 
 | Elemento | Descrição |
-|---------|----------|
+| ---------| ----------|
 | [!UICONTROL Instance] filtro | Pesquise por cadeias de caracteres na coluna de instâncias para restringir os resultados a uma ou várias instâncias. Adicione vários filtros pressionando Enter após cada termo de pesquisa. |
 | [!UICONTROL Solution] filtro | Escolha dentre os aplicativos disponíveis. Vários filtros de aplicação pesquisam resultados que contêm a Solução 1 `OR` Solução 2. |
 
@@ -156,7 +153,7 @@ Esta seção exibe um resumo do perfil de produto com estas informações:
 Esta seção exibe uma lista completa de todos os usuários, grupos de usuários, desenvolvedores, integrações e administradores atribuídos ao perfil do produto.
 
 | Tabulação | Descrição |
-|---------|----------|
+| ---------| ----------|
 | [!UICONTROL Users] | Lista de usuários incluída no perfil do produto. A associação do grupo de usuários aparece na coluna [!UICONTROL Assigned by group]. |
 | [!UICONTROL User Groups] | Lista de grupos de usuários associados ao perfil do produto. |
 | [!UICONTROL Developers] | Lista de desenvolvedores associados ao perfil do produto. |

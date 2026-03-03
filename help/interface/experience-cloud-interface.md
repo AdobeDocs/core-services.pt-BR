@@ -6,7 +6,7 @@ feature: Central Interface Components
 topic: Administration
 role: Admin, User
 level: Beginner, Intermediate, Experienced
-source-git-commit: 25c11da1284bccf033f3bb7adf109be7bdf8d55a
+source-git-commit: 0ce4fa63a4babc195f89c595009adcf19f34cdd9
 workflow-type: tm+mt
 source-wordcount: '698'
 ht-degree: 78%
@@ -49,7 +49,7 @@ A Experience Cloud oferece suporte a idiomas preferenciais para cada usuário, c
 * Japonês
 * Coreano
 * Português
-* Espanhol
+* espanhol
 * Mandarim taiwanês
 
 Embora todas as equipes de aplicativos estejam comprometidas com o suporte global aos idiomas, nem todos os aplicativos são oferecidos em cada um dos idiomas indicados acima. Se o seu idioma principal não tiver suporte em um aplicativo Experience Cloud, também será possível definir um idioma secundário como padrão, quando aplicável. Isso pode ser feito em [Preferências de usuário da Experience Cloud](https://experience.adobe.com/preferences).
@@ -80,7 +80,7 @@ Clique no ![menu](assets/menu-icon.png) do seletor de aplicativos para acessar o
 
 ## Pesquisa e suporte na Experience Cloud
 
-A pesquisa na Experience Cloud permite procurar ajuda (documentação, tutoriais e cursos) na [Experience League](https://experienceleague.adobe.com/pt-br?lang=pt-BR#home).
+A pesquisa na Experience Cloud permite procurar ajuda (documentação, tutoriais e cursos) na [Experience League](https://experienceleague.adobe.com/?lang=pt-BR#home).
 
 ![Pesquisa e suporte na Experience Cloud](assets/search-menu.png)
 
@@ -111,7 +111,7 @@ As preferências da Experience Cloud incluem notificações, assinaturas e alert
 Em [!UICONTROL Experience Cloud preferences], você pode configurar os seguintes recursos:
 
 | Recurso | Descrição |
-|--- |--- |
+| --- | --- |
 | Organização padrão | Selecione a organização que você deseja ver ao iniciar a Experience Cloud. |
 | [!UICONTROL Subscriptions] | Selecione os produtos e categorias que deseja assinar. Notificações no pop-over [!UICONTROL Notifications] e por email. |
 | [!UICONTROL Priority] | Selecione as categorias que você deseja que sejam consideradas de alta prioridade. Essas categorias são marcadas com uma tag Alta e podem ser configuradas para entrega, como alertas. |

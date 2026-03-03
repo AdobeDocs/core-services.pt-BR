@@ -8,26 +8,13 @@ role: Admin
 level: Intermediate
 exl-id: 1e34c6b2-a792-41c4-adb7-583de596237f
 TQID: https://experienceleague.adobe.com/2IL6hUlA1oNxJIFMwbVQUbxEGkJoghVUTyMi5wSRBsE
-product_v2:
-  - id: d0a3eab4-7b10-4d96-a71e-6c0f8e7b7c87
-feature_v2:
-  - id: e1eba07e-ab89-466f-9ab5-ceb891d7a67d
-  - id: fdbb8fc9-ffa3-4b86-88fe-aa4c5a3e1bc6
-subfeature_v2:
-  - id: b75843fa-0a67-4a44-a6b1-cc627b0481dc
-  - id: bdea9bc8-5600-45db-b85e-d74bb59dfcff
-  - id: dc42f745-24d2-44a4-99c3-dece518fa4bc
-  - id: eaef3029-0844-43fe-9e1c-7666a24f4d03
-  - id: eb1ae5c4-ef16-4998-851c-73cc9f0b7f06
-  - id: fef08361-6ac5-460c-93fe-d063e40b6a49
-role_v2:
-  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
-level_v2:
-  - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
-topic_v2:
-  - id: c1579802-ddd4-4214-8a91-97b2066abe11
-  - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
-source-git-commit: 0d253888322194189fea6d492ae19cf248357960
+product_v2: id: d0a3eab4-7b10-4d96-a71e-6c0f8e7b7c87
+feature_v2: id: e1eba07e-ab89-466f-9ab5-ceb891d7a67did: fdbb8fc9-ffa3-4b86-88fe-aa4c5a3e1bc6
+subfeature_v2: id: b75843fa-0a67-4a44-a6b1-cc627b0481dcid: bdea9bc8-5600-45db-b85e-d74bb59dfcffid: dc42f745-24d2-44a4-99c3-dece518fa4bcid: eaef3029-0844-43fe-9e1c-7666a24f4d03id: eb1ae5c4-ef16-4998-851c-73cc9f0b7f06id: fef08361-6ac5-460c-93fe-d063e40b6a49
+role_v2: id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+level_v2: id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+topic_v2: id: c1579802-ddd4-4214-8a91-97b2066abe11id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
+source-git-commit: 0ce4fa63a4babc195f89c595009adcf19f34cdd9
 workflow-type: tm+mt
 source-wordcount: 788
 ht-degree: 6%
@@ -43,7 +30,7 @@ Para localizar as preferências do Experience Cloud, clique em **[!UICONTROL Pro
 Na página [!UICONTROL Experience Cloud preferences], você pode gerenciar os seguintes recursos da conta:
 
 | Recurso | Descrição |
-|--- |--- |
+| --- | --- |
 | [!UICONTROL Profile] | Atualize seu [Perfil de Conta da Adobe](https://account.adobe.com/profile). <p>A foto e o nome do seu perfil aparecem ao fazer logon em Adobe.com, produtos e serviços da Adobe e em sites voltados ao público, como o [!DNL Behance]. |
 | [!UICONTROL General] | Selecione uma [organização](../administration/organizations.md).<p>Essa organização é a padrão usada ao fazer logon na Experience Cloud. |
 | [!UICONTROL Product usage data] | É possível controlar quais dados de uso do produto são compartilhados com a Adobe ao usar os aplicativos da Experience Cloud. Esses são dados sobre como você usa nossos produtos, não sobre o conteúdo ou os dados de sua organização. A Adobe usa essas informações para ajudar a melhorar nossos produtos, fornecer suporte aprimorado no produto e personalizar sua experiência e as comunicações conosco. <p>Para saber mais, consulte [Dados de uso do produto](#product-usage-data) (nesta página). |
@@ -106,7 +93,7 @@ Você pode configurar suas preferências de conta para enviar notificações do 
 
 ### Solicitar permissão em [!DNL Slack] (solução de problemas)
 
-Se o [!DNL Slack] não estiver instalado, uma mensagem _[!UICONTROL Request to install]_&#x200B;será exibida quando o Slack for aberto depois que você clicar em **[!UICONTROL Add to Slack]**. Por exemplo:
+Se o [!DNL Slack] não estiver instalado, uma mensagem _[!UICONTROL Request to install]_será exibida quando o Slack for aberto depois que você clicar em **[!UICONTROL Add to Slack]**. Por exemplo:
 
 ![Solicitar Integração com o Slack](../assets/slack-workspace.png)
 

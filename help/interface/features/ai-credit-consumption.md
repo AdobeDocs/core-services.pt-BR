@@ -6,7 +6,7 @@ topic: Artificial Intelligence
 feature: Agentic AI, AI Tools
 role: Admin, User
 level: Intermediate
-source-git-commit: d4734c4b43defedb20b7eb65556f56987dce02ae
+source-git-commit: d9d9eb0b3bad1abd517e4c6b0bd5ecaa45a7930d
 workflow-type: tm+mt
 source-wordcount: '970'
 ht-degree: 3%
@@ -55,7 +55,7 @@ O uso do crédito de IA pode variar dependendo da complexidade e do valor do tra
 | Agente de suporte ao produto | Criação e rastreamento de casos de suporte | <ul><li>Real-Time CDP (edições B2B, B2C e B2P)</li>Adobe Journey Optimizer (edições B2C e B2B)<li>Customer Journey Analytics (edições B2C e B2B)</li><li>Adobe Experience Manager</li></ul> | 10 | <ul><li>_Criar um novo tíquete de suporte para meu trabalho de segmentação com falha_</li><li>_Qual é o status do tíquete E-001772068?_</li></ul> |
 | Agente do Supervisor de Conteúdo | Descoberta de conteúdo | <ul><li>Adobe Experience Manager Assets</li></ul> | 5 | <ul><li>_Mostrar fragmentos de conteúdo para criar a campanha de oferta WKND._</li><li>_Localizar imagens PNG da embalagem do produto._</li><li>_Mostrar imagens com marcas de formatação do Office na pasta WKND._</li><li>_Há svgs na pasta WKND?_</li><li>_Mostre-me todos os formulários de pedido de empréstimo._</li><li>_Estou procurando formulários de integração de funcionários._</li></ul> |
 | Agente do Supervisor de Conteúdo | <ul><li>Otimização de conteúdo</li></ul> | <ul><li>Adobe Experience Manager Assets</li></ul> | 10 | <ul><li>_Crie uma representação 2000px como JPEG com 80% de qualidade._</li><li>_Criar uma representação para uma história do Instagram._</li><li>_Sobreponha a imagem com 30% de gráficos com desconto sobre o banner promocional, colocando-a a 100px do centro._</li><li>_Alterar cor de fundo do PNG para #ff8932._</li></ul> |
-| Brand Experience Agent | <ul><li>Atualização de conteúdo</li><li>Criação de Forms</li><li>Solução de problemas de pipeline</li></ul> | <ul><li>Serviços em nuvem Adobe Experience Manager</li><li>Adobe Experience Manager Sites</li><li>Adobe Experience Manager Forms</li></ul> | 50 | <ul><li>_Solucionar problemas do meu pipeline com falha_</li><li>_Listar meus pipelines com falha para o Programa Principal._</li><li>_Analise meu pipeline com falha chamado &quot;Pipeline de Desenvolvimento&quot;._</li><li>_Solução de problemas de execução de pipeline 1234567_</li></ul> |
+| Agente de governança de marca | <ul><li>Atualização de conteúdo</li><li>Criação de Forms</li><li>Solução de problemas de pipeline</li></ul> | <ul><li>Serviços em nuvem Adobe Experience Manager</li><li>Adobe Experience Manager Sites</li><li>Adobe Experience Manager Forms</li></ul> | 50 | <ul><li>_Solucionar problemas do meu pipeline com falha_</li><li>_Listar meus pipelines com falha para o Programa Principal._</li><li>_Analise meu pipeline com falha chamado &quot;Pipeline de Desenvolvimento&quot;._</li><li>_Solução de problemas de execução de pipeline 1234567_</li></ul> |
 | Brand Experience Agent | Modernização do site | Serviços em nuvem Adobe Experience Manager | 100 | <ul><li>_Migrar a página`https://wknd-trendsetters.site`_</li></ul> |
 
 >[!NOTE]
@@ -65,4 +65,4 @@ O uso do crédito de IA pode variar dependendo da complexidade e do valor do tra
 ## Mais ajuda sobre este tópico
 
 * [IA de agente no Experience Cloud](/help/interface/features/agentic-ai.md)
-* [avaliação associada ao uso dos Adobe Experience Platform Agents](https://experienceleague.adobe.com/pt-br/docs/experience-cloud-ai/experience-cloud-ai/agents/trial)
+* [avaliação associada ao uso dos Adobe Experience Platform Agents](https://experienceleague.adobe.com/en/docs/experience-cloud-ai/experience-cloud-ai/agents/trial)

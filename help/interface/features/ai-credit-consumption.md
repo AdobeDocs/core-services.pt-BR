@@ -6,9 +6,9 @@ topic: Artificial Intelligence
 feature: Agentic AI, AI Tools
 role: Admin, User
 level: Intermediate
-source-git-commit: ae927640b65458cb1c0df1a817207220f7dfe0ec
+source-git-commit: 9afed61de0d83cf56e5d2447af68ab6851e4a716
 workflow-type: tm+mt
-source-wordcount: '1005'
+source-wordcount: '1026'
 ht-degree: 3%
 
 ---
@@ -55,8 +55,9 @@ O uso do crédito de IA pode variar dependendo da complexidade e do valor do tra
 | Agente de suporte ao produto | Criação e rastreamento de casos de suporte | <ul><li>Real-Time CDP (edições B2B, B2C e B2P)</li>Adobe Journey Optimizer (edições B2C e B2B)<li>Customer Journey Analytics (edições B2C e B2B)</li><li>Adobe Experience Manager</li></ul> | 10 | <ul><li><em>Criar um novo tíquete de suporte para meu trabalho de segmentação com falha</em></li><li><em>Qual é o status do tíquete E-001772068?</em></li></ul> |
 | Agente do Supervisor de Conteúdo | Descoberta de conteúdo | <ul><li>Adobe Experience Manager</li></ul> | 5 | <ul><li><em>Mostrar fragmentos de conteúdo para criar a campanha de oferta WKND.</em></li><li><em>Localizar imagens PNG da embalagem do produto.</em></li><li><em>Mostrar imagens com marcas de formatação do Office na pasta WKND.</em></li><li><em>Há svgs na pasta WKND?</em></li><li><em>Mostre-me todos os formulários de pedido de empréstimo.</em></li><li><em>Estou procurando formulários de integração de funcionários.</em></li></ul> |
 | Agente do Supervisor de Conteúdo | <ul><li>Otimização de conteúdo</li></ul> | <ul><li>Adobe Experience Manager Assets e Dynamic Media</li></ul> | 10 | <ul><li><em>Crie uma representação 2000px como JPEG com 80% de qualidade.</em></li><li><em>Criar uma representação para uma história do Instagram.</em></li><li><em>Sobreponha a imagem com 30% de gráficos com desconto sobre o banner promocional, colocando-a a 100px do centro.</em></li><li><em>Alterar cor de fundo do PNG para #ff8932.</em></li></ul> |
-| Agente de governança de marca | <ul><li>Verificações de política de marca</li></ul><ul><li>Permissões com o Content Hub</li></ul><ul><li>Solução de problemas de pipeline</li></ul> | <ul><li>Adobe Experience Manager Sites (Políticas da marca)</li></ul><ul><li>Adobe Experience Manager Assets</li></ul> | 25 | <ul><li><em>Esta página está alinhada à minha marca? `https://www.website/en.html`</em></li><li><em>Mostrar todas as regras ABAC existentes do Content Hub</em></li><li><em>Algum dos meus ativos vai expirar em breve?</em></li></ul> |
-| Brand Experience Agent | <ul><li>Atualização de conteúdo</li><li>Criação de Forms</li><li>Solução de problemas de pipeline</li></ul> | <ul><li>Serviços em nuvem Adobe Experience Manager</li><li>Adobe Experience Manager Sites</li><li>Adobe Experience Manager Forms</li></ul> | 50 | <ul><li><em>Criar um formulário de contato com campos de nome, email e mensagem</em></li><li><em>Solucionar problemas do meu pipeline com falha</em></li><li><em>Listar meus pipelines com falha para o Programa Principal.</em></li></ul> |
+| Agente de governança de marca | <ul><li>Verificações de política de marca</li></ul><ul><li>Permissões com o Content Hub</li></ul><ul><li>Expiração do ativo</li></ul> | <ul><li>Adobe Experience Manager Sites (Políticas da marca)</li></ul><ul><li>Adobe Experience Manager Assets</li></ul> | 25 | <ul><li><em>Esta página está alinhada à minha marca? `https://www.website/en.html`</em></li><li><em>Mostrar todas as regras ABAC existentes do Content Hub</em></li><li><em>Algum dos meus ativos vai expirar em breve?</em></li></ul> |
+| Brand Experience Agent | <ul><li>Atualização de conteúdo</li><li>Criação de Forms</li><li>Solução de problemas de pipeline</li></ul> | <ul><li>Serviços em nuvem Adobe Experience Manager</li><li>Adobe Experience Manager Sites</li><li>Adobe Experience Manager Forms</li></ul> | 50 | <ul><li><em>Em `URL`, atualize o título para Olá, mundo</em></li><li><em>Criar um formulário de contato com campos de nome, email e mensagem</em></li><li><em>Solucionar problemas do meu pipeline com falha</em></li><li><em>Listar meus pipelines com falha para o Programa Principal.</em></li></ul> |
+| Brand Experience Agent | Modernização do site | Serviços em nuvem Adobe Experience Manager | 100 | <ul><li><em>Migrar a página `https://wknd-trendsetters.site`</em></li></ul> |
 
 >[!NOTE]
 >

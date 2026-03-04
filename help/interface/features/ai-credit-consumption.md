@@ -6,16 +6,16 @@ topic: Artificial Intelligence
 feature: Agentic AI, AI Tools
 role: Admin, User
 level: Intermediate
-source-git-commit: d9d9eb0b3bad1abd517e4c6b0bd5ecaa45a7930d
+source-git-commit: 1897e2162ba53ebc43a78877a61ebf4370127631
 workflow-type: tm+mt
-source-wordcount: '970'
+source-wordcount: '1001'
 ht-degree: 3%
 
 ---
 
 # Trabalhos de agentes do Adobe Experience Platform e consumo de créditos de IA
 
-Atualização: **quarta-feira, 3 de março de 2026**
+Atualização: **quinta-feira, 4 de março de 2026**
 
 Saiba mais sobre trabalhos de IA agênica e consumo de crédito de IA em aplicativos do Experience Cloud. Para obter informações sobre como habilitar recursos de IA de agente em aplicativos Experience Cloud existentes, consulte [IA de agente no Experience Cloud](agentic-ai.md#existing-apps).
 
@@ -53,10 +53,10 @@ O uso do crédito de IA pode variar dependendo da complexidade e do valor do tra
 | Journey Agent | Gerenciamento de jornadas | <ul><li>Adobe Journey Optimizer (edições B2B e B2C)</li></ul> | 25 | <ul><li>_Quantas jornadas ativas eu tenho?_</li><li>_Listar todas as jornadas usando o público X._</li><li>_Listar todas as jornadas atualmente no modo de teste_</li></ul> |
 | Agente de suporte ao produto | Solução de problemas com base no conhecimento | <ul><li>Real-Time CDP (edições B2B, B2C e B2P)</li><li>Adobe Journey Optimizer (edições B2C e B2B)</li><li>Customer Journey Analytics (edições B2C e B2B)</li></ul> | 0 | <ul><li>_Por que minha contagem de perfis é diferente no Painel de Uso da Licença e na home page do Experience Platform?_</li><li>_Quais são os motivos para uma jornada não ser acionada?_</li><li>_Como o Adobe Experience Platform cria experiências em tempo real?_</li><li>_Como você configura e usa alertas no Adobe Experience Platform?_</li><li>_Qual é o limite de riqueza média de perfis na Ativação do Adobe Experience Platform?_</li></ul> |
 | Agente de suporte ao produto | Criação e rastreamento de casos de suporte | <ul><li>Real-Time CDP (edições B2B, B2C e B2P)</li>Adobe Journey Optimizer (edições B2C e B2B)<li>Customer Journey Analytics (edições B2C e B2B)</li><li>Adobe Experience Manager</li></ul> | 10 | <ul><li>_Criar um novo tíquete de suporte para meu trabalho de segmentação com falha_</li><li>_Qual é o status do tíquete E-001772068?_</li></ul> |
-| Agente do Supervisor de Conteúdo | Descoberta de conteúdo | <ul><li>Adobe Experience Manager Assets</li></ul> | 5 | <ul><li>_Mostrar fragmentos de conteúdo para criar a campanha de oferta WKND._</li><li>_Localizar imagens PNG da embalagem do produto._</li><li>_Mostrar imagens com marcas de formatação do Office na pasta WKND._</li><li>_Há svgs na pasta WKND?_</li><li>_Mostre-me todos os formulários de pedido de empréstimo._</li><li>_Estou procurando formulários de integração de funcionários._</li></ul> |
-| Agente do Supervisor de Conteúdo | <ul><li>Otimização de conteúdo</li></ul> | <ul><li>Adobe Experience Manager Assets</li></ul> | 10 | <ul><li>_Crie uma representação 2000px como JPEG com 80% de qualidade._</li><li>_Criar uma representação para uma história do Instagram._</li><li>_Sobreponha a imagem com 30% de gráficos com desconto sobre o banner promocional, colocando-a a 100px do centro._</li><li>_Alterar cor de fundo do PNG para #ff8932._</li></ul> |
-| Agente de governança de marca | <ul><li>Atualização de conteúdo</li><li>Criação de Forms</li><li>Solução de problemas de pipeline</li></ul> | <ul><li>Serviços em nuvem Adobe Experience Manager</li><li>Adobe Experience Manager Sites</li><li>Adobe Experience Manager Forms</li></ul> | 50 | <ul><li>_Solucionar problemas do meu pipeline com falha_</li><li>_Listar meus pipelines com falha para o Programa Principal._</li><li>_Analise meu pipeline com falha chamado &quot;Pipeline de Desenvolvimento&quot;._</li><li>_Solução de problemas de execução de pipeline 1234567_</li></ul> |
-| Brand Experience Agent | Modernização do site | Serviços em nuvem Adobe Experience Manager | 100 | <ul><li>_Migrar a página`https://wknd-trendsetters.site`_</li></ul> |
+| Agente do Supervisor de Conteúdo | Descoberta de conteúdo | <ul><li>Adobe Experience Manager</li></ul> | 5 | <ul><li>_Mostrar fragmentos de conteúdo para criar a campanha de oferta WKND._</li><li>_Localizar imagens PNG da embalagem do produto._</li><li>_Mostrar imagens com marcas de formatação do Office na pasta WKND._</li><li>_Há svgs na pasta WKND?_</li><li>_Mostre-me todos os formulários de pedido de empréstimo._</li><li>_Estou procurando formulários de integração de funcionários._</li></ul> |
+| Agente do Supervisor de Conteúdo | <ul><li>Otimização de conteúdo</li></ul> | <ul><li>Adobe Experience Manager Assets e Dynamic Media</li></ul> | 10 | <ul><li>_Crie uma representação 2000px como JPEG com 80% de qualidade._</li><li>_Criar uma representação para uma história do Instagram._</li><li>_Sobreponha a imagem com 30% de gráficos com desconto sobre o banner promocional, colocando-a a 100px do centro._</li><li>_Alterar cor de fundo do PNG para #ff8932._</li></ul> |
+| Agente de governança de marca | <ul><li>Verificações de política de marca</li></ul><ul><li>Permissões com o Content Hub</li></ul><ul><li>Solução de problemas de pipeline</li></ul> | <ul><li>Adobe Experience Manager Sites (Políticas da marca)</li></ul><ul><li>Adobe Experience Manager Assets</li></ul> | 25 | <ul><li>_Esta página está alinhada à minha marca?`https://www.website/en.html`_</li><li>_Mostrar todas as regras ABAC existentes do Content Hub_</li><li>_Algum dos meus ativos vai expirar em breve?_</li></ul> |
+| Brand Experience Agent | <ul><li>Atualização de conteúdo</li><li>Criação de Forms</li><li>Solução de problemas de pipeline</li></ul> | <ul><li>Serviços em nuvem Adobe Experience Manager</li><li>Adobe Experience Manager Sites</li><li>Adobe Experience Manager Forms</li></ul> | 50 | <ul><li>_Criar um formulário de contato com campos de nome, email e mensagem_</li><li>_Solucionar problemas do meu pipeline com falha_</li><li>_Listar meus pipelines com falha para o Programa Principal._</li></ul> |
 
 >[!NOTE]
 >

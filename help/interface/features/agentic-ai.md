@@ -1,6 +1,6 @@
 ---
-title: IA de agente em aplicativos do Experience Cloud
-description: Saiba onde a IA de agente está disponível nos aplicativos da Experience Cloud.
+title: Inteligência artificial de agente em aplicativos Experience Cloud
+description: Saiba onde a IA agêntica está disponível em aplicativos Experience Cloud.
 solution: Experience Cloud
 landing-page-name: ai
 landing-page-breadcrumb-title: AI Documentation
@@ -31,27 +31,27 @@ topic_v2:
   - id: d00e9f03-e50b-4162-b143-0c0817c937c2
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
-source-git-commit: 916a0c84a0a3e86ffccc101c84006b45e683ea8e
+source-git-commit: 27da689e214c6c2408be2cb004c8791990513780
 workflow-type: tm+mt
-source-wordcount: 892
-ht-degree: 4%
+source-wordcount: 1063
+ht-degree: 5%
 
 ---
 
-# IA de agente no Adobe Experience Cloud
+# IA agêntica no Adobe Experience Cloud
 
-Atualização: **sexta-feira, 5 de março de 2026**
+Atualizado em: **13 de março de 2026**
 
-Os Adobe Experience Platform Agents são viabilizados pelo [Experience Platform Agent Orchestrator](https://experienceleague.adobe.com/pt-br/docs/experience-cloud-ai/experience-cloud-ai/home) para habilitar recursos de IA de agente nos aplicativos da Experience Cloud.
+Os Adobe Experience Platform Agents são viabilizados pelo [Experience Platform Agent Orchestrator](https://experienceleague.adobe.com/pt-br/docs/experience-cloud-ai/experience-cloud-ai/home) para habilitar recursos de IA agêntica em aplicativos Experience Cloud.
 
 Esses agentes ajudam a automatizar tarefas, fornecer insights mais rapidamente e simplificar fluxos de trabalho. Como resultado, as equipes podem trabalhar com mais eficiência e obter mais valor do Experience Cloud.
 
-O acesso aos agentes de IA no Experience Cloud está disponível no:
+O acesso aos agentes de IA no Experience Cloud está disponível em:
 
-* [Aplicativos Experience Cloud existentes](#existing-apps)
-* [Aplicativos Experience Cloud AI First](#ai-first-apps)
+* [Aplicativos de Experience Cloud existentes](#existing-apps)
+* [Aplicativos de primeira Experience Cloud AI](#ai-first-apps)
 
-As seções a seguir descrevem essas duas maneiras de ativar a IA agêntica no Experience Cloud.
+As seções a seguir descrevem essas duas maneiras de ativar a IA agêntica em Experience Cloud.
 
 ## Aplicativos Experience Cloud existentes {#existing-apps}
 
@@ -76,16 +76,14 @@ A tabela a seguir lista os Experience Platform Agents disponíveis nos aplicativ
 | [Audience Agent](https://experienceleague.adobe.com/pt-br/docs/experience-cloud-ai/experience-cloud-ai/agents/audience) | Capacite suas equipes para criar, gerenciar e otimizar públicos-alvo usando solicitações de linguagem natural para facilitar, aumentar a eficiência e acelerar a comercialização. | <ul><li>Real-Time CDP (edições B2B, B2C e B2P)</li><li>Adobe Journey Optimizer (edições B2B e B2C)</li></ul> |
 | [Agente do Supervisor de Conteúdo](https://experienceleague.adobe.com/pt-br/docs/experience-manager-cloud-service/content/ai-in-aem/agents/content-advisor/overview) | <ul><li>Ajuda as equipes a encontrar rapidamente o conteúdo mais relevante em toda a empresa usando linguagem natural, reduzindo o tempo gasto com pesquisas e permitindo decisões e execução mais rápidas.</li><li>Simplifique a criação de variantes de conteúdo visual a partir de ativos de origem usando prompts de linguagem natural.</li></ul> | <ul><li>Adobe Experience Manager Assets</li></ul><ul><li>Dynamic Media (Cloud Services)</li></ul> |
 | [Data Insights Agent](https://experienceleague.adobe.com/pt-br/docs/analytics-platform/using/cja-overview/cja-b2c-overview/data-analysis-ai) | Responde rapidamente a perguntas sobre seus dados. Ele cria visualizações relevantes no Analysis Workspace usando componentes da visualização de dados e seus dados reais. | <ul><li>Customer Journey Analytics (edições B2B e B2C)</li></ul> |
-| [Brand Experience Agent](https://experienceleague.adobe.com/pt-br/docs/experience-manager-cloud-service/content/ai-in-aem/agents/brand-experience/overview) | <ul><li>Acelera a migração e a modernização de experiências digitais, reestruturando, enriquecendo e validando automaticamente os sites existentes para que as equipes possam migrar mais rápido para experiências modernas e prontas para IA, com menos risco e esforço manual.</li><li>Assume a criação e as atualizações de experiência de alto volume, reduzindo drasticamente o esforço manual e o tempo de ciclo para que as equipes possam se mover mais rapidamente sem sacrificar a qualidade ou a consistência.</li><li>Acelera a criação de formulários otimizados, na marca, gerando, estruturando e validando experiências de formulário automaticamente, permitindo que as equipes iniciem mais rápido e capturem dados de alta qualidade com o mínimo esforço manual.</li><li>Ajuda desenvolvedores e administradores técnicos do AEM CS a solucionar falhas de etapa de criação no pipeline do Cloud Manager, analisando a causa raiz e sugerindo correções.</li></ul> | <ul><li>Adobe Experience Manager Sites Cloud Services (Modernização da experiência)</li></ul><ul><li>Adobe Experience Manager Sites (Produção de experiência)</li></ul><ul><li>Adobe Experience Manager Forms (Criação de formulário)</li></ul><ul><li>Todos os aplicativos da Adobe Experience Manager baseados em nuvem (Suporte para desenvolvimento)</li></ul> |
-| [Agente de governança de marca](https://experienceleague.adobe.com/pt-br/docs/experience-manager-cloud-service/content/ai-in-aem/agents/governance/overview)* | <ul><li>Proteja a integridade e a conformidade da marca com verificações, permissões e inteligência automatizadas de políticas da marca para oferecer suporte ao DRM com governança em tempo real.</li> | <ul><li>Adobe Experience Manager Assets</li><li>Adobe Experience Manager Sites (Política de marca)</li></ul> |
-| [Journey Agent](https://experienceleague.adobe.com/pt-br/docs/experience-cloud-ai/experience-cloud-ai/agents/ajo-agent) | Permita que suas equipes criem, analisem e otimizem rapidamente as jornadas de clientes multitoque em escala. | <ul><li>Adobe Journey Optimizer (edições B2B e B2C)</li></ul> |
-| [Agente de Suporte ao Produto](https://experienceleague.adobe.com/pt-br/docs/experience-cloud-ai/experience-cloud-ai/agents/product-support) | Solucione problemas de suporte sem sair dos workflows, crie tíquetes de suporte ao cliente e rastreie o progresso do caso usando o Assistente de IA. | <ul><li>Real-Time CDP (edições B2B, B2C e B2P)</li><li>Adobe Journey Optimizer (edições B2B e B2C)</li><li>Customer Journey Analytics (edições B2B e B2C)</li><li>Adobe Experience Manager</li></ul> |
+| [Agente de Experiência com Marca](https://experienceleague.adobe.com/pt-br/docs/experience-manager-cloud-service/content/ai-in-aem/agents/brand-experience/overview) | <ul><li>Acelera a migração e a modernização de experiências digitais, reestruturando, enriquecendo e validando automaticamente os sites existentes para que as equipes possam migrar mais rapidamente para experiências modernas, prontas para IA, com menos riscos e esforço manual.</li><li>Assume a criação e as atualizações de experiências de alto volume, reduzindo drasticamente o esforço manual e o tempo de ciclo para que as equipes possam se mover mais rapidamente sem sacrificar a qualidade ou a consistência.</li><li>Acelera a criação de formulários otimizados, sob a marca, gerando, estruturando e validando experiências de formulário automaticamente, permitindo que as equipes iniciem mais rapidamente e capturem dados de alta qualidade com o mínimo esforço manual.</li><li>Ajuda os desenvolvedores do AEM CS e os administradores técnicos a solucionar problemas de falhas de etapas de compilação no pipeline do Cloud Manager analisando a causa raiz e sugerindo correções.</li></ul> | <ul><li>Adobe Experience Manager Sites Cloud Service (Modernização da experiência)</li></ul><ul><li>Adobe Experience Manager Sites (Experience Production)</li></ul><ul><li>Adobe Experience Manager Forms (criação de formulário)</li></ul><ul><li>Todos os aplicativos da Adobe Experience Manager baseados em nuvem (suporte ao desenvolvimento)</li></ul> |
+| [Agente de Controle de Marca](https://experienceleague.adobe.com/pt-br/docs/experience-manager-cloud-service/content/ai-in-aem/agents/governance/overview) | <ul><li>Proteja a integridade e a conformidade da marca com verificações automatizadas de políticas da marca, permissões e inteligência para oferecer suporte ao DRM com controle em tempo real.</li> | <ul><li>Adobe Experience Manager Assets</li><li>Adobe Experience Manager Sites (Política de marca)</li></ul> |
+| [Agente de Jornada](https://experienceleague.adobe.com/pt-br/docs/experience-cloud-ai/experience-cloud-ai/agents/ajo-agent) | Permita que suas equipes criem, analisem e otimizem rapidamente jornadas multitoque de clientes em escala. | <ul><li>Adobe Journey Optimizer (edições B2B e B2C)</li></ul> |
+| [Agente de Suporte ao Produto](https://experienceleague.adobe.com/pt-br/docs/experience-cloud-ai/experience-cloud-ai/agents/product-support) | Solucione problemas de suporte sem sair dos fluxos de trabalho, crie tíquetes de suporte ao cliente e acompanhe o progresso do caso usando o Assistente do AI. | <ul><li>Real-Time CDP (edições B2B, B2C e B2P)</li><li>Adobe Journey Optimizer (edições B2B e B2C)</li><li>Customer Journey Analytics (edições B2B e B2C)</li><li>Adobe Experience Manager</li></ul> |
 
-Asterisco (*): este agente está acessível aos clientes no programa Explorer. O Explorer Program é um programa exclusivo para convidados que fornece acesso antecipado aos recursos mais recentes da Adobe. Entre em contato com o seu representante de conta para obter mais informações.
+## Aplicativos de primeira Experience Cloud AI {#ai-first-apps}
 
-## Aplicativos Experience Cloud AI First {#ai-first-apps}
-
-Aplicativos de AI-first são construídos com Al gerativo ou agêntico no núcleo. Eles usam Al gerativo ou agêntico para tarefas-chave, e os recursos de agente já estão incluídos na licença de aplicativo Al-first. Dessa forma, eles não exigem a licença da Experience Platform Agent Orchestrator.
+Os aplicativos baseados em IA são desenvolvidos com Al generativo ou agente no núcleo. Eles usam o Al generativo ou o Al agêntico para tarefas-chave, e os recursos do agente já estão incluídos na licença do aplicativo Al-first. Portanto, eles não exigem a licença do Experience Platform Agent Orchestrator.
 
 A tabela a seguir lista os Experience Platform Agents disponíveis como aplicativos Al-first. Eles são ativados pelo licenciamento desses aplicativos Al-first:
 

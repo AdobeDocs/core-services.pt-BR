@@ -20,9 +20,9 @@ role_v2:
 topic_v2:
   - id: b5ce8718-c3af-4fdb-a1a9-fca32f83a87c
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
-source-git-commit: 0ce4fa63a4babc195f89c595009adcf19f34cdd9
+source-git-commit: 04b452cb70ff2429b25c617f0bd1f131f9ffcf2a
 workflow-type: tm+mt
-source-wordcount: 396
+source-wordcount: 484
 ht-degree: 1%
 
 ---
@@ -32,8 +32,9 @@ ht-degree: 1%
 O Adobe Experience Platform Web SDK usa cookies para armazenar valores específicos para sua implementação.
 
 | Nome | Idade máxima | Tamanho | Descrição |
-| ---| ---| ---| ---|
+| --- | --- | --- | --- |
 | **`AMCV_###@AdobeOrg`** | 34128000 (395 dias) | 100-120 bytes (variável) | Presente quando [`idMigrationEnabled`](https://experienceleague.adobe.com/pt-br/docs/experience-platform/collection/js/commands/configure/idmigrationenabled) está habilitado. Ajuda na transição para o Web SDK enquanto algumas partes do site ainda usam o `visitor.js`. O Web SDK lê e grava neste cookie durante a migração. |
+| **`com.adobe.alloy.getTld`** | Nenhum (excluído imediatamente) | N/D | Cookie auxiliar temporário usado internamente pelo Web SDK para determinar o domínio de nível superior do site atual. Depois que o domínio de nível superior é estabelecido, o cookie é excluído. Ele não armazena dados comportamentais ou de perfil. |
 | **`demdex`** | 15552000 (180 dias) | varia | Apresentar se a sincronização da Audience Manager ID estiver habilitada. O Audience Manager define esse cookie para atribuir uma ID exclusiva e uma ID de suporte para sincronização, segmentação, modelagem e relatórios. Consulte `demdex` em [cookies do Audience Manager](audience-manager.md). |
 | **`kndctr_<orgId>_identity`** | 34128000 (395 dias) | 100-120 bytes (variável) | Armazena a ECID e outras informações relacionadas desse dispositivo. |
 | **`kndctr_<orgId>_cluster`** | 1800 (30 minutos) | 3 a 5 bytes | Armazena a região do Edge Network (dica de localização) que atende às solicitações do usuário atual. A região é usada no caminho do URL para que o Edge Network possa rotear a solicitação para a região correta. Se um usuário se conectar com um endereço IP diferente durante a vida útil do cookie, a solicitação será roteada novamente para a região mais próxima. |

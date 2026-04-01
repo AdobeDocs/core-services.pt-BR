@@ -22,9 +22,9 @@ topic_v2:
   - id: b5ce8718-c3af-4fdb-a1a9-fca32f83a87c
   - id: d3cdead0-685a-4489-9250-4bb709942f66
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
-source-git-commit: 0d253888322194189fea6d492ae19cf248357960
+source-git-commit: 757f43593466360a1b0e0d6fca725fba4dc8f5d4
 workflow-type: tm+mt
-source-wordcount: 1061
+source-wordcount: 1117
 ht-degree: 47%
 
 ---
@@ -68,7 +68,7 @@ Esses dados são os dados do cliente da empresa no seu CRM. Os dados podem inclu
 
 ## Criar a fonte de atributo e fazer upload do arquivo de dados
 
-Execute essas etapas na página _[!UICONTROL Create Customer Attribute Source]_&#x200B;do Experience Cloud.
+Execute essas etapas na página _[!UICONTROL Create Customer Attribute Source]_&#x200B;no Experience Cloud.
 
 >[!IMPORTANT]
 >
@@ -148,7 +148,7 @@ Após o upload do arquivo, os dados da tabela são exibidos no cabeçalho [!UICO
 
 * **[!UICONTROL customer-Provided IDs Aliased to Experience Cloud Visitor IDs:]** Exibe quantas IDs receberam alias para as IDs de visitante da Experience Cloud.
 
-* **[!UICONTROL customer-Provided IDs with High Alias Counts:]** Exibe a contagem de IDs fornecidas pelo cliente com 500 ou mais IDs de visitante da Experience Cloud com alias. Essas IDs fornecidas pelo cliente provavelmente não representam pessoas, mas um tipo de logon compartilhado. O sistema distribui os atributos associados a essas IDs para as 500 IDs de visitante da Experience Cloud com alias mais recentes, até a contagem de alias chegar a 10.000. Em seguida, o sistema invalida a ID fornecida pelo cliente e não distribui mais os atributos associados. —>
+* **[!UICONTROL customer-Provided IDs with High Alias Counts:]** Exibe a contagem de IDs fornecidas pelo cliente com 500 ou mais IDs de visitante da Experience Cloud com alias. Essas IDs fornecidas pelo cliente provavelmente não representam pessoas, mas um tipo de logon compartilhado. O sistema distribui os atributos associados a essas IDs para as 500 IDs de visitante da Experience Cloud com alias mais recentes, até a contagem de alias chegar a 10.000. Em seguida, o sistema invalida a ID fornecida pelo cliente e não distribui mais os atributos associados. -->
 
 ## Validar o esquema {#validate-schema}
 

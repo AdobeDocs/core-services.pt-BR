@@ -22,9 +22,9 @@ topic_v2:
   - id: b5ce8718-c3af-4fdb-a1a9-fca32f83a87c
   - id: d3cdead0-685a-4489-9250-4bb709942f66
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
-source-git-commit: 757f43593466360a1b0e0d6fca725fba4dc8f5d4
+source-git-commit: d57b222077b83d52344a31c8a6b4ccf165843147
 workflow-type: tm+mt
-source-wordcount: 1117
+source-wordcount: 1118
 ht-degree: 47%
 
 ---
@@ -47,7 +47,7 @@ Crie a fonte de atributo do cliente (arquivos `.csv` e `.fin`) e carregue os dad
 
 * O **Adobe Target** `at.js` (qualquer versão) ou `mbox.js` versão 58 ou posterior é necessário para os atributos do cliente.
 
-  Consulte [Como implantar at.js](https://experienceleague.adobe.com/docs/target-dev/developer/client-side/overview.html?lang=pt-BR).
+  Consulte [Como implantar at.js](https://experienceleague.adobe.com/pt-br/docs/target-dev/developer/client-side/overview).
 
 ## Criar um arquivo de dados
 
@@ -146,9 +146,9 @@ Após o upload do arquivo, os dados da tabela são exibidos no cabeçalho [!UICO
 
 * **[!UICONTROL Unique customer ID:]** Exibe quantas IDs exclusivas você carregou para esta fonte de atributo.
 
-* **[!UICONTROL customer-Provided IDs Aliased to Experience Cloud Visitor IDs:]** Exibe quantas IDs receberam alias para as IDs de visitante da Experience Cloud.
+* **[!UICONTROL Customer-Provided IDs Aliased to Experience Cloud Visitor IDs:]** Exibe quantas IDs receberam alias para as IDs de visitante da Experience Cloud.
 
-* **[!UICONTROL customer-Provided IDs with High Alias Counts:]** Exibe a contagem de IDs fornecidas pelo cliente com 500 ou mais IDs de visitante da Experience Cloud com alias. Essas IDs fornecidas pelo cliente provavelmente não representam pessoas, mas um tipo de logon compartilhado. O sistema distribui os atributos associados a essas IDs para as 500 IDs de visitante da Experience Cloud com alias mais recentes, até a contagem de alias chegar a 10.000. Em seguida, o sistema invalida a ID fornecida pelo cliente e não distribui mais os atributos associados. -->
+* **[!UICONTROL Customer-Provided IDs with High Alias Counts:]** Exibe a contagem de IDs fornecidas pelo cliente com 500 ou mais IDs de visitante da Experience Cloud com alias. Essas IDs fornecidas pelo cliente provavelmente não representam pessoas, mas um tipo de logon compartilhado. O sistema distribui os atributos associados a essas IDs para as 500 IDs de visitante da Experience Cloud com alias mais recentes, até a contagem de alias chegar a 10.000. Em seguida, o sistema invalida a ID fornecida pelo cliente e não distribui mais os atributos associados.
 
 ## Validar o esquema {#validate-schema}
 

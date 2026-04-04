@@ -88,7 +88,7 @@ O menu [!UICONTROL Help] também oferece acesso a:
 
 * **[!UICONTROL Support]:** Crie um tíquete de suporte ou contate [!UICONTROL Support] usando o Twitter.
 * **[!UICONTROL Feedback]:** Entre em contato com a Adobe usando o Feedback e dê a sua opinião.
-* **[!UICONTROL Status]:** Navegue até `https://status.adobe.com/experience_cloud` e verifique o status operacional do produto e [!UICONTROL Manage Subscriptions].
+* **[!UICONTROL Status]:** Navegue até `https://status.adobe.com/pt-br/experience_cloud` e verifique o status operacional do produto e [!UICONTROL Manage Subscriptions].
 * **[!UICONTROL Developer Connection]:** Navegue até `adobe.io` e encontre a documentação do desenvolvedor.
 
 ## Preferências da conta

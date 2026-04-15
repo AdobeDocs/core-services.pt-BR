@@ -23,9 +23,9 @@ topic_v2:
   - id: d3cdead0-685a-4489-9250-4bb709942f66
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
   - id: f4e6943a-c91a-4134-a2c7-f4f20cfff2f0
-source-git-commit: 0d253888322194189fea6d492ae19cf248357960
+source-git-commit: 88b0f47bc8270f3dc60d1acea68130baff9d97b4
 workflow-type: tm+mt
-source-wordcount: 642
+source-wordcount: 656
 ht-degree: 66%
 
 ---
@@ -33,6 +33,10 @@ ht-degree: 66%
 # Atualizações na documentação
 
 Saiba onde as atualizações de documentação ocorrem para a interface central e a administração do Experience Cloud.
+
+**março de 2026**
+
+Adicionado [consumo de créditos e trabalhos de IA](../features/ai-credit-consumption.md)
 
 **novembro de 2025**
 
@@ -85,14 +89,14 @@ Atualização das [perguntas frequentes sobre administração](faq.md) com infor
 | Recurso | Descrição |
 | ------- | ------- |
 | Página inicial | As informações do rodapé da página inicial da Experience Cloud foram movidas para o cartão de perfil do usuário, incluindo os Avisos legais e a seleção de idioma em Preferências. |
-| Painéis AEP | O [!DNL Helios Lite] fornece recomendações de gráfico no fluxo de trabalho de criação do dispositivo da Experience Platform. Dada uma seleção de dados (atualmente uma seleção de dados de variável única), o helios recomenda uma visualização apropriada para acompanhar essa seleção de dados. |
+| Painéis AEP | O [!DNL Helios Lite] fornece recomendações de gráfico dentro do fluxo de trabalho de criação de dispositivos da Experience Platform. Dada uma seleção de dados (atualmente uma seleção de dados de variável única), o helios recomenda uma visualização apropriada para acompanhar essa seleção de dados. |
 | Painéis AEP | O [!DNL Instory] fornece narração escrita e legendas para gráficos com base em aprendizado de máquina. Essas funcionalidades decoram os gráficos na página de Painéis AEP com marcadores relevantes, chamando atenção para grandes alterações e incidentes nos dados em gráfico. |
 
 **13 de outubro de 2021**
 
 | Recurso | Descrição |
 | ------- | ------- |
-| Pesquisa unificada | A Pesquisa unificada continua a adicionar tipos de objetos ao índice de pesquisa. Nesta atualização, a pesquisa global agora busca em todo o conteúdo da Experience League e nos seguintes tipos de objetos do Journey Optimizer: <ul><li>Conjuntos de dados</li><li>Destinos</li><li>Consultas</li><li>Esquemas</li><li>Segmentos</li><li>Fontes</li><li>Ofertas</li><li>Componentes</li><li>Mensagens</li><li>Jornadas</li></ul> |
+| Pesquisa unificada | A Pesquisa unificada continua a adicionar tipos de objetos ao índice de pesquisa. Nesta atualização, a pesquisa global agora busca em todo o conteúdo da Experience League e nos seguintes tipos de objetos do Journey Optimizer: <ul><li>Conjuntos de dados</li><li>Destinos</li><li>Consultas</li><li>Esquemas</li><li>Segmentos</li><li>Origens</li><li>Ofertas</li><li>Componentes</li><li>Mensagens</li><li>Jornadas</li></ul> |
 | Consentimento de dados de uso do produto | Após um logon inicial, você é solicitado a enviar preferências sobre como a Adobe pode fornecer conteúdo útil e personalizado de tutoriais, guias, dicas rápidas, recomendações, vídeos instrutivos e muito mais, com base nos dados de uso do produto da Experience Cloud. Essa solicitação também inclui uma atualização das suas preferências para a coleta e uso desses dados em <https://experience.adobe.com/preferences>. |
 
 **24 de agosto de 2021**

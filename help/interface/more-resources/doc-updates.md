@@ -8,24 +8,14 @@ role: Admin
 level: Experienced
 exl-id: 11cc5005-8ec0-4308-bc94-0f78666ea645
 TQID: https://experienceleague.adobe.com/xGxvSSHR43wPti8xyaS96BZDrXtA4CcQ8EoE0V7MLEU
-product_v2:
-  - id: d0a3eab4-7b10-4d96-a71e-6c0f8e7b7c87
-feature_v2:
-  - id: fc7979f3-56c3-43ca-9784-f1ea3dc69c4b
-  - id: fdbb8fc9-ffa3-4b86-88fe-aa4c5a3e1bc6
-subfeature_v2:
-  - id: b75843fa-0a67-4a44-a6b1-cc627b0481dc
-  - id: bdea9bc8-5600-45db-b85e-d74bb59dfcff
-  - id: fef08361-6ac5-460c-93fe-d063e40b6a49
-role_v2:
-  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
-topic_v2:
-  - id: d3cdead0-685a-4489-9250-4bb709942f66
-  - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
-  - id: f4e6943a-c91a-4134-a2c7-f4f20cfff2f0
-source-git-commit: 0d253888322194189fea6d492ae19cf248357960
+product_v2: id: d0a3eab4-7b10-4d96-a71e-6c0f8e7b7c87
+feature_v2: id: fc7979f3-56c3-43ca-9784-f1ea3dc69c4bid: fdbb8fc9-ffa3-4b86-88fe-aa4c5a3e1bc6
+subfeature_v2: id: b75843fa-0a67-4a44-a6b1-cc627b0481dcid: bdea9bc8-5600-45db-b85e-d74bb59dfcffid: fef08361-6ac5-460c-93fe-d063e40b6a49
+role_v2: id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+topic_v2: id: d3cdead0-685a-4489-9250-4bb709942f66id: eddd9b14-83bd-4ff4-9072-54a4a484abb7id: f4e6943a-c91a-4134-a2c7-f4f20cfff2f0
+source-git-commit: 88b0f47bc8270f3dc60d1acea68130baff9d97b4
 workflow-type: tm+mt
-source-wordcount: 642
+source-wordcount: 656
 ht-degree: 66%
 
 ---
@@ -33,6 +23,10 @@ ht-degree: 66%
 # Atualizações na documentação
 
 Saiba onde as atualizações de documentação ocorrem para a interface central e a administração do Experience Cloud.
+
+**março de 2026**
+
+Adicionado [consumo de créditos e trabalhos de IA](../features/ai-credit-consumption.md)
 
 **novembro de 2025**
 
@@ -85,14 +79,14 @@ Atualização das [perguntas frequentes sobre administração](faq.md) com infor
 | Recurso | Descrição |
 | ------- | ------- |
 | Página inicial | As informações do rodapé da página inicial da Experience Cloud foram movidas para o cartão de perfil do usuário, incluindo os Avisos legais e a seleção de idioma em Preferências. |
-| Painéis AEP | O [!DNL Helios Lite] fornece recomendações de gráfico no fluxo de trabalho de criação do dispositivo da Experience Platform. Dada uma seleção de dados (atualmente uma seleção de dados de variável única), o helios recomenda uma visualização apropriada para acompanhar essa seleção de dados. |
+| Painéis AEP | O [!DNL Helios Lite] fornece recomendações de gráfico dentro do fluxo de trabalho de criação de dispositivos da Experience Platform. Dada uma seleção de dados (atualmente uma seleção de dados de variável única), o helios recomenda uma visualização apropriada para acompanhar essa seleção de dados. |
 | Painéis AEP | O [!DNL Instory] fornece narração escrita e legendas para gráficos com base em aprendizado de máquina. Essas funcionalidades decoram os gráficos na página de Painéis AEP com marcadores relevantes, chamando atenção para grandes alterações e incidentes nos dados em gráfico. |
 
 **13 de outubro de 2021**
 
 | Recurso | Descrição |
 | ------- | ------- |
-| Pesquisa unificada | A Pesquisa unificada continua a adicionar tipos de objetos ao índice de pesquisa. Nesta atualização, a pesquisa global agora busca em todo o conteúdo da Experience League e nos seguintes tipos de objetos do Journey Optimizer: <ul><li>Conjuntos de dados</li><li>Destinos</li><li>Consultas</li><li>Esquemas</li><li>Segmentos</li><li>Fontes</li><li>Ofertas</li><li>Componentes</li><li>Mensagens</li><li>Jornadas</li></ul> |
+| Pesquisa unificada | A Pesquisa unificada continua a adicionar tipos de objetos ao índice de pesquisa. Nesta atualização, a pesquisa global agora busca em todo o conteúdo da Experience League e nos seguintes tipos de objetos do Journey Optimizer: <ul><li>Conjuntos de dados</li><li>Destinos</li><li>Consultas</li><li>Esquemas</li><li>Segmentos</li><li>Origens</li><li>Ofertas</li><li>Componentes</li><li>Mensagens</li><li>Jornadas</li></ul> |
 | Consentimento de dados de uso do produto | Após um logon inicial, você é solicitado a enviar preferências sobre como a Adobe pode fornecer conteúdo útil e personalizado de tutoriais, guias, dicas rápidas, recomendações, vídeos instrutivos e muito mais, com base nos dados de uso do produto da Experience Cloud. Essa solicitação também inclui uma atualização das suas preferências para a coleta e uso desses dados em <https://experience.adobe.com/preferences>. |
 
 **24 de agosto de 2021**

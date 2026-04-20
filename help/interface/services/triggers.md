@@ -1,5 +1,5 @@
 ---
-description: Saiba como configurar o Experience Cloud Triggers.
+description: Saiba como configurar o CX Enterprise Triggers.
 solution: Experience Cloud
 title: Visão geral do Triggers
 uuid: dab536e3-1969-4661-919e-5b15f423fecd
@@ -9,31 +9,21 @@ role: Admin
 level: Experienced
 exl-id: 9dc26e2f-479b-49a5-93ce-b877559fea43
 TQID: https://experienceleague.adobe.com/1R70ZEmKiP9VhhSRVCXHjGoJbOb7Mh8spKRm4FgNRPc
-product_v2:
-  - id: d0a3eab4-7b10-4d96-a71e-6c0f8e7b7c87
-feature_v2:
-  - id: fdbb8fc9-ffa3-4b86-88fe-aa4c5a3e1bc6
-subfeature_v2:
-  - id: b75843fa-0a67-4a44-a6b1-cc627b0481dc
-  - id: fef08361-6ac5-460c-93fe-d063e40b6a49
-role_v2:
-  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
-topic_v2:
-  - id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
-  - id: b5ce8718-c3af-4fdb-a1a9-fca32f83a87c
-  - id: d3cdead0-685a-4489-9250-4bb709942f66
-  - id: e0eb8757-182f-49f3-94a4-1587d16f5094
-  - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
-source-git-commit: 0ce4fa63a4babc195f89c595009adcf19f34cdd9
+product_v2: id: d0a3eab4-7b10-4d96-a71e-6c0f8e7b7c87
+feature_v2: id: fdbb8fc9-ffa3-4b86-88fe-aa4c5a3e1bc6
+subfeature_v2: id: b75843fa-0a67-4a44-a6b1-cc627b0481dcid: fef08361-6ac5-460c-93fe-d063e40b6a49
+role_v2: id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+topic_v2: id: aa2f3246-cb95-4b30-8899-fdf7d73550ccid: b5ce8718-c3af-4fdb-a1a9-fca32f83a87cid: d3cdead0-685a-4489-9250-4bb709942f66id: e0eb8757-182f-49f3-94a4-1587d16f5094id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
+source-git-commit: 1a77ef8d31211fb11c790152e78037a8c3b238a2
 workflow-type: tm+mt
-source-wordcount: 646
-ht-degree: 78%
+source-wordcount: 697
+ht-degree: 74%
 
 ---
 
-# Experience Cloud Triggers
+# CX Enterprise Triggers
 
-O [!UICONTROL Triggers] no Experience Cloud permite identificar, definir e monitorar os comportamentos dos principais consumidores e gerar comunicação entre aplicativos para atrair os visitantes novamente. Você pode usar acionadores em personalizações e decisões em tempo real.
+O [!UICONTROL Triggers] no CX Enterprise permite identificar, definir e monitorar os comportamentos dos principais consumidores e gerar comunicação entre aplicativos para atrair os visitantes novamente. Você pode usar acionadores em personalizações e decisões em tempo real.
 
 Por exemplo:
 
@@ -45,7 +35,7 @@ Por exemplo:
 
 >[!NOTE]
 >
->Mais informações sobre o uso de [!UICONTROL Triggers] estão disponíveis em [Campaign Standard](https://experienceleague.adobe.com/docs/campaign-standard/using/integrating-with-adobe-cloud/working-with-campaign-and-triggers/using-triggers-in-campaign.html?lang=pt-BR).
+>Mais informações sobre o uso de [!UICONTROL Triggers] estão disponíveis em [Campaign Standard](https://experienceleague.adobe.com/docs/campaign-standard/using/integrating-with-adobe-cloud/working-with-campaign-and-triggers/using-triggers-in-campaign.html).
 
 ## Tipos de acionadores
 
@@ -55,7 +45,7 @@ Geralmente, um acionador pode levar 15 a 90 minutos para iniciar uma campanha de
 * **Ação:** por exemplo, você pode criar acionadores para serem disparados depois de inscrições em newsletters, assinaturas por email ou aplicações para cartões de crédito (confirmações). Se você for um varejista, crie um acionador para um visitante que se inscreve em um programa de fidelidade. Em mídia e entretenimento, crie acionadores para visitantes que assistem a um certo programa que talvez você queira que respondam a uma pesquisa.
 * **Início e término de sessão:** crie um acionador para o início da sessão e eventos de término de sessão.
 
-## Criar um acionador da Experience Cloud
+## Criar um acionador do CX Enterprise
 
 Crie um acionador e configure as condições para ele. Por exemplo, você pode especificar o critério das regras para um acionador durante uma visita. Alguns exemplos são métricas, como Abandono de carrinho, ou dimensões, como o nome do produto. O acionador é executado quando as regras são cumpridas.
 
@@ -63,7 +53,7 @@ Crie um acionador e configure as condições para ele. Por exemplo, você pode e
 >
 >No momento, há um limite técnico de 100 acionadores.
 
-1. No Experience Cloud, clique em ![menu](../assets/menu-icon.png) e em **[!UICONTROL Data Collection/Launch]**.
+1. No CX Enterprise, clique em ![menu](../assets/menu-icon.png) e em **[!UICONTROL Data Collection/Launch]**.
 1. No cartão [!UICONTROL Triggers], clique em **[!UICONTROL Manage Triggers]**.
 1. Clique em **[!UICONTROL New Trigger]** e especifique o tipo de gatilho:
 
@@ -87,7 +77,7 @@ Crie um acionador e configure as condições para ele. Por exemplo, você pode e
 
 ## Exemplos de acionadores
 
-Exemplos de Experience Cloud Triggers:
+Exemplos de acionadores da CX Enterprise:
 
 ### Acionador de Abandono do carrinho
 

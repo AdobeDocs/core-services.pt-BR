@@ -1,5 +1,5 @@
 ---
-description: Saiba como compartilhar uma pasta de ativos do Experience Cloud com usuários do Creative Cloud.
+description: Saiba como compartilhar uma pasta de ativos do CX Enterprise com usuários do Creative Cloud.
 solution: Experience Cloud
 title: Compartilhar uma pasta de ativos da Experience Cloud
 uuid: 105cf627-0148-4bf8-ab6a-7afa612e198c
@@ -9,28 +9,21 @@ role: Admin
 level: Experienced
 exl-id: 32f4723e-0e66-46b6-b0c2-ae47b9a06a87
 TQID: https://experienceleague.adobe.com/RC2C4CKPhWEO3O4k7baoAqknTj3qj-23Ic1bXtv2zP4
-product_v2:
-  - id: d0a3eab4-7b10-4d96-a71e-6c0f8e7b7c87
-feature_v2:
-  - id: fdbb8fc9-ffa3-4b86-88fe-aa4c5a3e1bc6
-subfeature_v2:
-  - id: b75843fa-0a67-4a44-a6b1-cc627b0481dc
-  - id: fef08361-6ac5-460c-93fe-d063e40b6a49
-role_v2:
-  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
-topic_v2:
-  - id: d095671a-1355-40aa-8b5f-06c33c68080b
-  - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
-source-git-commit: 0d253888322194189fea6d492ae19cf248357960
+product_v2: id: d0a3eab4-7b10-4d96-a71e-6c0f8e7b7c87
+feature_v2: id: fdbb8fc9-ffa3-4b86-88fe-aa4c5a3e1bc6
+subfeature_v2: id: b75843fa-0a67-4a44-a6b1-cc627b0481dcid: fef08361-6ac5-460c-93fe-d063e40b6a49
+role_v2: id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+topic_v2: id: d095671a-1355-40aa-8b5f-06c33c68080bid: eddd9b14-83bd-4ff4-9072-54a4a484abb7
+source-git-commit: 1a77ef8d31211fb11c790152e78037a8c3b238a2
 workflow-type: tm+mt
-source-wordcount: 413
-ht-degree: 51%
+source-wordcount: 451
+ht-degree: 39%
 
 ---
 
-# Compartilhar uma pasta de ativos da Experience Cloud
+# Compartilhar uma pasta de ativos da CX Enterprise
 
-Compartilhe pastas e assets entre a Experience Cloud e a Creative Cloud. Colabore, comente em ativos compartilhados e use-os nos aplicativos da Experience Cloud, como o Adobe Target. A pasta compartilhada deve se originar na Experience Cloud.
+Compartilhe pastas e ativos entre a CX Enterprise e a Creative Cloud. Colabore, comente em ativos compartilhados e use-os nos aplicativos da CX Enterprise, como o Adobe Target. A pasta compartilhada deve se originar do CX Enterprise.
 
 **Benefícios do compartilhamento**
 
@@ -40,9 +33,9 @@ Compartilhe pastas e assets entre a Experience Cloud e a Creative Cloud. Colabor
 * Aproveite o aumento da segurança corporativa
 * Compartilhe, salve e envie arquivos facilmente entre profissionais de criação e de marketing
 
-Antes de os usuários do Creative Cloud terem acesso aos ativos, eles devem ser incluídos na lista de permissões no Experience Cloud. Consulte [Gerenciar usuários da Creative Cloud](manage-cc-users.md).
+Antes de os usuários do Creative Cloud terem acesso aos ativos, eles devem ser incluídos na lista de permissões no CX Enterprise. Consulte [Gerenciar usuários da Creative Cloud](manage-cc-users.md).
 
-**Para compartilhar uma pasta de ativos da Experience Cloud**
+**Para compartilhar uma pasta de ativos da CX Enterprise**
 
 1. Em uma pasta de Ativo, clique em **[!UICONTROL Share to Creative Cloud]**.
 
@@ -63,11 +56,11 @@ Antes de os usuários do Creative Cloud terem acesso aos ativos, eles devem ser 
    ![Exibir na Web](../../assets/creative_cloud_open_folder.png)
 1. Continue adicionando comentários no ativo compartilhado:
 
-   No Creative Cloud, você pode selecionar uma imagem e clicar em **[!UICONTROL Activity]** para adicionar um comentário à imagem. Os comentários são sincronizados nos ativos na [!DNL Creative Cloud] e na [!DNL Experience Cloud].
+   No Creative Cloud, você pode selecionar uma imagem e clicar em **[!UICONTROL Activity]** para adicionar um comentário à imagem. Os comentários são sincronizados nos ativos na [!DNL Creative Cloud] e na [!DNL CX Enterprise].
 
    ![Adicionar um comentário na imagem](../../assets/asset_comment_cc.png)
 
-   No Experience Cloud, selecione uma imagem e o ícone da linha do tempo para adicionar um comentário à imagem. Os comentários são sincronizados nos ativos da Creative Cloud e da Experience Cloud.
+   No CX Enterprise, selecione uma imagem e o ícone da linha do tempo para adicionar um comentário à imagem. Os comentários são sincronizados nos ativos na Creative Cloud e no CX Enterprise.
 
    ![Adicionar um comentário na imagem](../../assets/asset_comment_mac.png)
 
@@ -77,7 +70,7 @@ Antes de os usuários do Creative Cloud terem acesso aos ativos, eles devem ser 
 
    Após a remoção de todos os usuários da Creative Cloud, o compartilhamento da pasta será cancelado e os usuários da Creative Cloud não terão mais acesso.
 
-Outras maneiras de usar um ativo compartilhado incluem carregar ou trocar ativos na [Biblioteca de ofertas](https://experienceleague.adobe.com/docs/target/using/experiences/offers/manage-content.html?lang=pt-BR) no Adobe Target por imagens nas atividades.
+Outras maneiras de usar um ativo compartilhado incluem carregar ou trocar ativos na [Biblioteca de ofertas](https://experienceleague.adobe.com/docs/target/using/experiences/offers/manage-content.html) no Adobe Target por imagens nas atividades.
 
 Depois de compartilhar uma pasta na Creative Cloud, você verá o logotipo da Creative Cloud na pasta.
 
@@ -85,13 +78,13 @@ Depois de compartilhar uma pasta na Creative Cloud, você verá o logotipo da Cr
 
 Ajuda relacionada:
 
-* [Ajuda da Creative Cloud - Gerenciar e sincronizar arquivos](https://helpx.adobe.com/br/creative-cloud/help/sync-creative-cloud-files.html)
-* [Ajuda da Creative Cloud - Colaborar com outras pessoas](https://helpx.adobe.com/br/creative-cloud/help/collaboration.html)
-* [Ajuda da Creative Cloud - Perguntas frequentes sobre colaboração](https://helpx.adobe.com/br/creative-cloud/help/collaboration-faq.html)
+* [Ajuda do Creative Cloud - Gerenciar e sincronizar arquivos](https://helpx.adobe.com/br/creative-cloud/help/sync-creative-cloud-files.html)
+* [Ajuda do Creative Cloud - Colaborar com outras pessoas](https://helpx.adobe.com/br/creative-cloud/help/collaboration.html)
+* [Ajuda do Creative Cloud - Perguntas frequentes sobre o Collaboration](https://helpx.adobe.com/br/creative-cloud/help/collaboration-faq.html)
 
 ## Sobre o compartilhamento do ativo com o Adobe Target
 
 Ao criar atividades no [!DNL Adobe Target], você pode usar um ativo de imagem compartilhada ao trocar imagens no [!UICONTROL Offers Library].
 
-Consulte [Biblioteca de ofertas](https://experienceleague.adobe.com/docs/target/using/experiences/offers/manage-content.html?lang=pt-BR) na Ajuda do [!DNL Target].
+Consulte [Biblioteca de ofertas](https://experienceleague.adobe.com/docs/target/using/experiences/offers/manage-content.html) na Ajuda do [!DNL Target].
 

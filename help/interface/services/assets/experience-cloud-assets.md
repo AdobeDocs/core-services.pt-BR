@@ -1,5 +1,5 @@
 ---
-description: Saiba mais sobre os ativos da Experience Cloud que você pode compartilhar entre aplicativos.
+description: Saiba mais sobre o CX Enterprise Assets que você pode compartilhar entre aplicativos.
 solution: Experience Cloud
 title: Visão geral de ativos
 uuid: 97a849ec-1555-4630-9416-2ab484373f5c
@@ -9,33 +9,26 @@ role: Admin
 level: Experienced
 exl-id: 643c878f-c2f3-4c1d-ae3e-6a75c95520b4
 TQID: https://experienceleague.adobe.com/XJqrWBg6tscTfgoA02FlqgxaziNOb0fL1LvEdUv0Ot0
-product_v2:
-  - id: d0a3eab4-7b10-4d96-a71e-6c0f8e7b7c87
-feature_v2:
-  - id: fc7979f3-56c3-43ca-9784-f1ea3dc69c4b
-  - id: fdbb8fc9-ffa3-4b86-88fe-aa4c5a3e1bc6
-subfeature_v2:
-  - id: b75843fa-0a67-4a44-a6b1-cc627b0481dc
-  - id: fef08361-6ac5-460c-93fe-d063e40b6a49
-role_v2:
-  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
-topic_v2:
-  - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
-source-git-commit: 0d253888322194189fea6d492ae19cf248357960
+product_v2: id: d0a3eab4-7b10-4d96-a71e-6c0f8e7b7c87
+feature_v2: id: fc7979f3-56c3-43ca-9784-f1ea3dc69c4bid: fdbb8fc9-ffa3-4b86-88fe-aa4c5a3e1bc6
+subfeature_v2: id: b75843fa-0a67-4a44-a6b1-cc627b0481dcid: fef08361-6ac5-460c-93fe-d063e40b6a49
+role_v2: id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+topic_v2: id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
+source-git-commit: 1a77ef8d31211fb11c790152e78037a8c3b238a2
 workflow-type: tm+mt
-source-wordcount: 316
-ht-degree: 86%
+source-wordcount: 320
+ht-degree: 69%
 
 ---
 
-# Visão geral do Experience Cloud Assets
+# Visão geral do CX Enterprise Assets
 
-O Experience Cloud Assets oferece um repositório único e centralizado de ativos prontos para marketing, que podem ser compartilhados entre aplicativos. Um ativo é um documento digital, imagem, vídeo ou áudio (ou parte dele) que pode ter várias representações e subativos (por exemplo, camadas em um arquivo do [!DNL Photoshop], slides em um arquivo do [!DNL PowerPoint], páginas em um PDF, arquivos em um ZIP).
+O CX Enterprise Assets fornece um repositório único e centralizado de ativos prontos para marketing, que podem ser compartilhados entre aplicativos. Um ativo é um documento digital, imagem, vídeo ou áudio (ou parte dele) que pode ter várias representações e subativos (por exemplo, camadas em um arquivo do [!DNL Photoshop], slides em um arquivo do [!DNL PowerPoint], páginas em um PDF, arquivos em um ZIP).
 
 Os serviços de ativos incluem:
 
 * Armazenamento de ativos, interface de gerenciamento e de seleção incorporada (acessada por meio de aplicativos).
-* Integrações com a Creative Cloud, aplicativos e colaboração na Experience Cloud.
+* Integrações com a Creative Cloud, colaboração da CX Enterprise e aplicativos da CX Enterprise.
 
 Usar ativos melhora a consistência e a conformidade da marca, além de acelerar o tempo de comercialização. É possível simplificar os fluxos de trabalho nos aplicativos:
 
@@ -44,9 +37,9 @@ Usar ativos melhora a consistência e a conformidade da marca, além de acelerar
 * **[!DNL Adobe Campaign]**: coloque ativos em informativos e campanhas por email.
 
 
-## Navegar até os ativos da Experience Cloud
+## Navegue até o CX Enterprise Assets
 
-![Navegar até o Experience Cloud Assets](../../assets/asset-nav.png)
+![Navegar até o CX Enterprise Assets](../../assets/asset-nav.png)
 
 ## Acessar a barra de ferramentas
 

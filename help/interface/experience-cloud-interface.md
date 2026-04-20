@@ -1,29 +1,29 @@
 ---
-description: Saiba como fazer logon e sobre os componentes da interface central na Experience Cloud. Saiba mais sobre pesquisa global, suas preferências de conta, como navegar na interface e obter ajuda.
+description: Saiba como fazer logon e sobre os componentes da interface central no CX Enterprise. Saiba mais sobre pesquisa global, suas preferências de conta, como navegar na interface e obter ajuda.
 solution: Experience Cloud
 title: Componentes da interface central da Experience Cloud
 feature: Central Interface Components
 topic: Administration
 role: Admin, User
 level: Beginner, Intermediate, Experienced
-source-git-commit: 0ce4fa63a4babc195f89c595009adcf19f34cdd9
+source-git-commit: 1a77ef8d31211fb11c790152e78037a8c3b238a2
 workflow-type: tm+mt
-source-wordcount: '698'
-ht-degree: 78%
+source-wordcount: '706'
+ht-degree: 42%
 
 ---
 
-# Componentes da interface central do Experience Cloud
+# Componentes da interface central do CX Enterprise
 
-Os componentes da interface central da Experience Cloud incluem recursos que permitem:
+Os componentes da interface central da CX Enterprise incluem recursos que permitem:
 
 * Fazer logon e acessar aplicativos e serviços
 * Encontrar ajuda e objetos de negócios do produto usando uma pesquisa global
 * Gerenciar suas preferências de conta (alertas, notificações e assinaturas)
 
-## Suporte ao navegador na Experience Cloud
+## Suporte ao navegador no CX Enterprise
 
-Para obter o melhor desempenho, a Experience Cloud é otimizada para os navegadores mais populares, incluindo a versão mais recente, além das duas versões anteriores.
+Para obter o melhor desempenho, o CX Enterprise é otimizado para os navegadores mais populares, incluindo a versão mais recente, além das duas versões anteriores.
 
 * Google Chrome
 * Edge
@@ -35,11 +35,11 @@ Se o seu navegador não estiver listado, talvez ainda seja suportado, mas é rec
 
 >[!NOTE]
 >
->Nem todos os aplicativos em execução no domínio Experience Cloud dão suporte a todos os navegadores. Se não tiver certeza, confira a documentação de um aplicativo específico.
+>Nem todos os aplicativos em execução no domínio CX Enterprise oferecem suporte a todos os navegadores. Se não tiver certeza, confira a documentação de um aplicativo específico.
 
-## Suporte de idiomas na Experience Cloud
+## Suporte de idioma no CX Enterprise
 
-A Experience Cloud oferece suporte a idiomas preferenciais para cada usuário, conforme definido nas preferências de sua conta de usuário da Adobe. Os idiomas suportados atualmente são:
+O CX Enterprise oferece suporte a idiomas preferenciais para cada usuário, conforme definido nas preferências de sua conta de usuário do Adobe. Os idiomas suportados atualmente são:
 
 * Chinês
 * Inglês
@@ -52,13 +52,13 @@ A Experience Cloud oferece suporte a idiomas preferenciais para cada usuário, c
 * espanhol
 * Mandarim taiwanês
 
-Embora todas as equipes de aplicativos estejam comprometidas com o suporte global aos idiomas, nem todos os aplicativos são oferecidos em cada um dos idiomas indicados acima. Se o seu idioma principal não tiver suporte em um aplicativo Experience Cloud, também será possível definir um idioma secundário como padrão, quando aplicável. Isso pode ser feito em [Preferências de usuário da Experience Cloud](https://experience.adobe.com/preferences).
+Embora todas as equipes de aplicativos estejam comprometidas com o suporte global aos idiomas, nem todos os aplicativos são oferecidos em cada um dos idiomas indicados acima. Se o seu idioma principal não tiver suporte em um aplicativo do CX Enterprise, também será possível definir um idioma secundário como padrão, quando aplicável. Isso pode ser feito em [preferências de usuário do CX Enterprise](https://experience.adobe.com/preferences).
 
-## Faça logon na Experience Cloud
+## Fazer logon no CX Enterprise
 
 Faça logon e verifique se você está na organização correta.
 
-1. Acesse a [Adobe Experience Cloud](https://experience.adobe.com).
+1. Navegue até [Adobe CX Enterprise](https://experience.adobe.com).
 1. Clique em **[!UICONTROL Sign in with an Adobe ID]**.
 1. Verifique se você está na organização correta.
 
@@ -66,29 +66,29 @@ Faça logon e verifique se você está na organização correta.
 
    Para verificar se você fez logon na organização correta, clique em **[!UICONTROL Profile]** para ver o nome da organização. Se você tiver acesso a mais de uma organização, também poderá visualizar e mudar para outra organização usando o seletor **[!UICONTROL Organization]**.
 
-   Se sua organização usa Federated IDs, a Experience Cloud permite conectar-se por meio do logon único de sua organização sem precisar inserir seu endereço de email e senha. Adicione `#/sso:@domain` ao URL da Experience Cloud (`https://experience.adobe.com`) para realizar essa tarefa.
+   Se sua organização usa Federated IDs, a CX Enterprise permite fazer logon com o logon único de sua organização sem precisar inserir seu endereço de email e senha. Adicione `#/sso:@domain` à URL do CX Enterprise (`https://experience.adobe.com`) para realizar esta tarefa.
 
    Por exemplo, para uma organização com Federated IDs e o domínio `example.com`, defina o link do URL para `https://experience.adobe.com/#/sso:@example.com`. Você também pode ir diretamente para um aplicativo específico marcando esse URL, anexado com o caminho do aplicativo. (Por exemplo, para Adobe Analytics, `https://experience.adobe.com/#/sso:@example.com/analytics`.)
 
-## Acessar aplicativos da Experience Cloud
+## Acessar aplicativos do CX Enterprise
 
-Após fazer logon na Experience Cloud, você pode acessar rapidamente todos os aplicativos, serviços e organizações pelo cabeçalho unificado.
+Depois de fazer logon no CX Enterprise, você pode acessar rapidamente todos os aplicativos, serviços e organizações pelo cabeçalho unificado.
 
-Clique no ![menu](assets/menu-icon.png) do seletor de aplicativos para acessar os serviços Experience Cloud que você possui.
+Clique no ![menu](assets/menu-icon.png) do seletor de aplicativos para acessar os serviços CX Enterprise que você possui.
 
-![Acessar aplicativos da Experience Cloud](assets/platform-core-services.png)
+![Acessar aplicativos da CX Enterprise](assets/platform-core-services.png)
 
-## Pesquisa e suporte na Experience Cloud
+## Pesquisa e suporte no CX Enterprise
 
-A pesquisa na Experience Cloud permite procurar ajuda (documentação, tutoriais e cursos) na [Experience League](https://experienceleague.adobe.com/pt-br?lang=pt-BR#home).
+A pesquisa no CX Enterprise permite procurar ajuda (documentação, tutoriais e cursos) no [Experience League](https://experienceleague.adobe.com/?lang=pt-BR#home).
 
-![Pesquisa e suporte na Experience Cloud](assets/search-menu.png)
+![Pesquisa e suporte no CX Enterprise](assets/search-menu.png)
 
 O menu [!UICONTROL Help] também oferece acesso a:
 
 * **[!UICONTROL Support]:** Crie um tíquete de suporte ou contate [!UICONTROL Support] usando o Twitter.
 * **[!UICONTROL Feedback]:** Entre em contato com a Adobe usando o Feedback e dê a sua opinião.
-* **[!UICONTROL Status]:** Navegue até `https://status.adobe.com/pt-br/experience_cloud` e verifique o status operacional do produto e [!UICONTROL Manage Subscriptions].
+* **[!UICONTROL Status]:** Navegue até `https://status.adobe.com/experience_cloud` e verifique o status operacional do produto e [!UICONTROL Manage Subscriptions].
 * **[!UICONTROL Developer Connection]:** Navegue até `adobe.io` e encontre a documentação do desenvolvedor.
 
 ## Preferências da conta
@@ -100,19 +100,19 @@ No menu de preferências da conta, é possível:
 * Fazer logoff
 * Configurar as [preferências, notificações e assinaturas](#preferences) da conta
 
-### Gerenciar o Experience Cloud [!UICONTROL Preferences]
+### Gerenciar o CX Enterprise [!UICONTROL Preferences]
 
-As preferências da Experience Cloud incluem notificações, assinaturas e alertas.
+As preferências do CX Enterprise incluem notificações, assinaturas e alertas.
 
 * Clique em **[!UICONTROL Preferences]** no menu da conta ![preferências](assets/preferences-icon-sm.png) para gerenciar preferências.
 
-![Gerenciar a Experience Cloud](assets/preferences-page.png)
+![Gerenciar CX Enterprise](assets/preferences-page.png)
 
-Em [!UICONTROL Experience Cloud preferences], você pode configurar os seguintes recursos:
+Em [!UICONTROL CX Enterprise preferences], você pode configurar os seguintes recursos:
 
 | Recurso | Descrição |
 | --- | --- |
-| Organização padrão | Selecione a organização que você deseja ver ao iniciar a Experience Cloud. |
+| Organização padrão | Selecione a organização que você deseja ver ao iniciar o CX Enterprise. |
 | [!UICONTROL Subscriptions] | Selecione os produtos e categorias que deseja assinar. Notificações no pop-over [!UICONTROL Notifications] e por email. |
 | [!UICONTROL Priority] | Selecione as categorias que você deseja que sejam consideradas de alta prioridade. Essas categorias são marcadas com uma tag Alta e podem ser configuradas para entrega, como alertas. |
 | [!UICONTROL Alerts] | Selecione as notificações para as quais deseja que alertas sejam exibidos no navegador. Os alertas são exibidos no canto superior direito da janela por alguns segundos. |
@@ -126,4 +126,4 @@ Clique em **[!UICONTROL Notifications]** para ver as notificações que são imp
 
 ![Notificações e anúncios](assets/notifications-menu-small.png)
 
-É possível configurar as notificações em [Preferências da Experience Cloud](#preferences).
+Você pode configurar notificações em [Preferências do CX Enterprise](#preferences).

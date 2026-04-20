@@ -1,5 +1,5 @@
 ---
-description: Saiba mais sobre organizações (ID da organização IMS) e como vincular contas de soluções à Experience Cloud.
+description: Saiba mais sobre organizações (ID de organização IMS) e como vincular contas de soluções à CX Enterprise.
 solution: Experience Cloud
 title: Organizações e vinculação de contas
 uuid: ae47ad18-ac33-4efa-8b68-2bfaf77397aa
@@ -9,32 +9,25 @@ role: Admin
 level: Experienced
 exl-id: 6eb58530-2a7a-48c7-9a5b-48a6e980a034
 TQID: https://experienceleague.adobe.com/DCb0MQWwB0MOGALSDbLD-d4ik4B0C249xncB9eZbZMU
-product_v2:
-  - id: d0a3eab4-7b10-4d96-a71e-6c0f8e7b7c87
-feature_v2:
-  - id: fdbb8fc9-ffa3-4b86-88fe-aa4c5a3e1bc6
-subfeature_v2:
-  - id: b75843fa-0a67-4a44-a6b1-cc627b0481dc
-  - id: bdea9bc8-5600-45db-b85e-d74bb59dfcff
-  - id: fef08361-6ac5-460c-93fe-d063e40b6a49
-role_v2:
-  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
-topic_v2:
-  - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
-source-git-commit: 0d253888322194189fea6d492ae19cf248357960
+product_v2: id: d0a3eab4-7b10-4d96-a71e-6c0f8e7b7c87
+feature_v2: id: fdbb8fc9-ffa3-4b86-88fe-aa4c5a3e1bc6
+subfeature_v2: id: b75843fa-0a67-4a44-a6b1-cc627b0481dcid: bdea9bc8-5600-45db-b85e-d74bb59dfcffid: fef08361-6ac5-460c-93fe-d063e40b6a49
+role_v2: id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+topic_v2: id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
+source-git-commit: 1a77ef8d31211fb11c790152e78037a8c3b238a2
 workflow-type: tm+mt
-source-wordcount: 573
-ht-degree: 48%
+source-wordcount: 585
+ht-degree: 33%
 
 ---
 
 # Organizações e vinculação de contas
 
-Uma *organização* (ID de organização) é a entidade que permite ao administrador configurar grupos e usuários, além de controlar o logon único na Experience Cloud.
+Uma *organização* (ID de organização) é a entidade que permite ao administrador configurar grupos e usuários, além de controlar o logon único na CX Enterprise.
 
-A organização funciona como uma empresa de logon que abrange todos os produtos e aplicativos da Experience Cloud. Frequentemente, a organização é o nome da empresa. No entanto, uma empresa pode ter muitas organizações.
+A organização funciona como uma empresa para logon que abrange todos os produtos e aplicativos da CX Enterprise. Frequentemente, a organização é o nome da empresa. No entanto, uma empresa pode ter muitas organizações.
 
-![Organizações da Experience Cloud](../assets/organizations-menu.png)
+![Organizações da CX Enterprise](../assets/organizations-menu.png)
 
 Para verificar se você fez logon na organização correta, clique em **[!UICONTROL Profile]** para ver o nome da organização padrão. Se você tiver acesso a mais de uma organização, também poderá visualizar e alternar para outra organização na barra do cabeçalho.
 
@@ -44,7 +37,7 @@ Para verificar se você fez logon na organização correta, clique em **[!UICONT
 
 ## Federated IDs
 
-Se sua organização usa Federated IDs, a Experience Cloud permite conectar-se por meio do logon único de sua organização sem precisar inserir seu endereço de email e senha. Adicione `#/sso:@domain` ao URL da Experience Cloud (`https://experience.adobe.com`) para realizar essa tarefa.
+Se sua organização usa Federated IDs, a CX Enterprise permite fazer logon com o logon único de sua organização sem precisar inserir seu endereço de email e senha. Adicione `#/sso:@domain` à URL do CX Enterprise (`https://experience.adobe.com`) para realizar esta tarefa.
 
 Por exemplo, para uma organização com Federated IDs e o domínio `example.com`, defina o link do URL para `https://experience.adobe.com/#/sso:@example.com`. Você também pode ir diretamente para um aplicativo específico marcando esse URL, anexado com o caminho do aplicativo. (Por exemplo, para Adobe Analytics, `https://experience.adobe.com/#/sso:@example.com/analytics`.)
 
@@ -52,13 +45,13 @@ Por exemplo, para uma organização com Federated IDs e o domínio `example.com`
 
 Você pode localizar a ID da organização atribuída para fins de suporte. Você pode verificar se está na organização correta ou alternar entre organizações usando o seletor **[!UICONTROL Organization]** no cabeçalho.
 
-A ID da organização é a ID associada à empresa provisionada pela Experience Cloud. A ID é uma string de 24 caracteres alfanuméricos seguidos por (e deve incluir) `@AdobeOrg`.
+A ID da organização é a ID associada à empresa provisionada pela CX Enterprise. A ID é uma string de 24 caracteres alfanuméricos seguidos por (e deve incluir) `@AdobeOrg`.
 
 Você pode exibir a ID da organização, juntamente com outras informações da conta, usando o atalho de teclado **Ctrl+i** de qualquer página em `https://experience.adobe.com`.
 
 **Para exibir a ID da organização**
 
-1. No [Experience Cloud](https://experience.adobe.com), pressione **Ctrl+i** no teclado.
+1. No [CX Enterprise](https://experience.adobe.com), pressione **Ctrl+i** no teclado.
 
    ![ID da organização atribuída](../assets/assigned-organization.png)
 
@@ -76,9 +69,9 @@ Você pode exibir a ID da organização, juntamente com outras informações da 
 
 ## Vincular uma conta do aplicativo a uma Adobe ID
 
-Geralmente, os administradores da Experience Cloud concedem acesso a aplicativos e serviços. Em raras circunstâncias, você pode vincular as credenciais do aplicativo a uma Adobe ID.
+Normalmente, os administradores do CX Enterprise concedem acesso a aplicativos e serviços. Em raras circunstâncias, você pode vincular as credenciais do aplicativo a uma Adobe ID.
 
-1. Siga as etapas no convite por email para a Experience Cloud.
+1. Siga as etapas no convite por email para a CX Enterprise.
 
 1. Faça logon usando a Adobe ID ou Enterprise ID.
 
@@ -113,6 +106,6 @@ Ajuda sobre problemas que surgem da vinculação de contas.
 
 Normalmente, a vinculação de contas falha porque a Adobe ID está vinculada a um usuário anterior. Quando a vinculação de contas falhar, você poderá:
 
-* [Entrar em contato com o Suporte da Adobe](https://experienceleague.adobe.com/pt-br?support-solution=General&lang=pt-BR#support).
+* [Entrar em contato com o Suporte da Adobe](https://experienceleague.adobe.com/?support-solution=General&lang=pt-BR#support).
 * Acesse seu aplicativo usando o logon padrão enquanto o problema estiver sendo resolvido.
 

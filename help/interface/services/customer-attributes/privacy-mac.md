@@ -1,5 +1,5 @@
 ---
-description: Saiba sobre as considerações e práticas recomendadas relacionadas às informações de identificação pessoal (PII) carregadas e usadas na Experience Cloud.
+description: Saiba mais sobre as considerações e práticas recomendadas relacionadas às informações de identificação pessoal (PII) carregadas e usadas no CX Enterprise.
 solution: Experience Cloud
 title: Considerações de privacidade para  [!DNL Customer Attributes]
 feature: Customer Attributes
@@ -22,16 +22,16 @@ topic_v2:
   - id: e0eb8757-182f-49f3-94a4-1587d16f5094
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
   - id: f4e6943a-c91a-4134-a2c7-f4f20cfff2f0
-source-git-commit: 0d253888322194189fea6d492ae19cf248357960
+source-git-commit: 1a77ef8d31211fb11c790152e78037a8c3b238a2
 workflow-type: tm+mt
-source-wordcount: 509
-ht-degree: 99%
+source-wordcount: 511
+ht-degree: 92%
 
 ---
 
 # Considerações de privacidade para [!DNL Customer Attributes]
 
-Considerações e práticas recomendadas relacionadas às informações de identificação pessoal (PII) carregadas e usadas na Adobe Experience Cloud.
+Considerações e práticas recomendadas relacionadas às informações de identificação pessoal (PII) carregadas e usadas no Adobe CX Enterprise.
 
 * Nome e sobrenome
 * Endereço residencial ou outro endereço físico

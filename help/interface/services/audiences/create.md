@@ -22,16 +22,16 @@ topic_v2:
   - id: b5ce8718-c3af-4fdb-a1a9-fca32f83a87c
   - id: d3cdead0-685a-4489-9250-4bb709942f66
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
-source-git-commit: 0d253888322194189fea6d492ae19cf248357960
+source-git-commit: a42153ba5a885509e7735e7407e38586fcabb0ad
 workflow-type: tm+mt
-source-wordcount: 507
-ht-degree: 62%
+source-wordcount: 515
+ht-degree: 60%
 
 ---
 
 # Criar um público-alvo
 
-No [!UICONTROL Audience Library], você pode usar as regras de atributo para criar um público-alvo e definir um público-alvo composto para compartilhar em aplicativos Experience Cloud.
+No [!UICONTROL Audience Library], você pode usar as regras de atributo para criar um público-alvo e definir um público-alvo composto para compartilhar em aplicativos CX Enterprise.
 
 Este artigo ajuda você a entender como:
 
@@ -52,13 +52,13 @@ Cada círculo representa uma regra que define a associação do público-alvo. V
 O exemplo a seguir mostra como criar as regras para um público-alvo composto. Este público-alvo é composto de:
 
 * Seção Casa e jardim derivada dos dados da página ou dos dados brutos de análise.
-* Usuários do Chrome e do Safari derivados de um [!DNL Adobe Analytics] segmento [publicado](overview.md) a [!DNL Experience Cloud].
+* Usuários do Chrome e do Safari derivados de um [!DNL Adobe Analytics] segmento [publicado](overview.md) a [!DNL CX Enterprise].
 
   ![Criar as regras para um público-alvo composto](assets/audience_create.png)
 
 **Para criar um público-alvo**
 
-1. Clique em [!DNL Experience Cloud] aplicativos (![Ícone de aplicativos](assets/apps-icon.png)) e em **[!UICONTROL People]** > **[!UICONTROL Audience Library].**
+1. Clique em [!DNL CX Enterprise] aplicativos (![Ícone de aplicativos](assets/apps-icon.png)) e em **[!UICONTROL People]** > **[!UICONTROL Audience Library].**
 
 1. Na página [!UICONTROL Audiences], clique em **[!UICONTROL New]**. ![Novo público-alvo](assets/add_icon_small.png)
 
@@ -71,9 +71,9 @@ O exemplo a seguir mostra como criar as regras para um público-alvo composto. E
 
      >[!NOTE]
      >
-     >Devido a questões relacionadas ao cache, conjuntos de relatórios excluídos no Analytics permanecem exibidos no Experience Cloud por 12 horas após a exclusão.
+     >Devido a questões relacionadas ao cache, conjuntos de relatórios excluídos no Analytics permanecem exibidos no CX Enterprise por 12 horas após a exclusão.
 
-   * **[!UICONTROL Experience Cloud:]** dados do atributo derivados de [!DNL Experience Cloud] fontes. Por exemplo, tais dados podem ser de segmentos de público-alvo criados no [!DNL Analytics], ou dados do [!DNL Audience Manager].
+   * **[!UICONTROL CX Enterprise:]** dados do atributo derivados de [!DNL CX Enterprise] fontes. Por exemplo, tais dados podem ser de segmentos de público-alvo criados no [!DNL Analytics], ou dados do [!DNL Audience Manager].
 
 1. Defina as regras de audiência e clique em **[!UICONTROL Save].**
 
@@ -93,7 +93,7 @@ Em [!UICONTROL Rules], defina as *`Home & Garden`* seleções de atributo:
 
 Os *Visitantes do Chrome e do Safari* são um segmento de público-alvo compartilhado do Analytics:
 
-* Experience Cloud **[!UICONTROL Attribute Source:]**
+* CX Enterprise **[!UICONTROL Attribute Source:]**
 * **[!UICONTROL Dimension:]** Visitantes do Chrome e Safari
 
 ![Visitantes do Chrome e Safari](assets/chrome_safari.png)
@@ -104,11 +104,11 @@ Para comparação, adicione uma regra *OU* para ver todos os visitantes de uma s
 
 A regra resultante é um público-alvo definido pela inclusão dos usuários do Chrome &amp; Safari que visitaram o Home &amp; Garden. O segmento Terraço e mobília fornece informações adicionais sobre todos os visitantes que visitam a seção do site.
 
-![Público-alvo definido na Experience Cloud](assets/defined_audience.png)
+![Público-alvo definido no CX Enterprise](assets/defined_audience.png)
 
 * **Estimativa do histórico:** (círculo pontilhado) representa as regras criadas com base nos dados do [!DNL Analytics].
 * **Público-alvo real:** (círculo contínuo) toda regra criada com 30 dias de dados no Audience Manager. Quando os dados do Audience Manager atingem 30 dias, a linha se torna sólida e representa os números reais.
 
 Depois que a coleta de dados é concluída pelo período especificado, os círculos se combinam para mostrar um público-alvo definido.
 
-Depois que o público-alvo é salvo, ele é disponibilizado para outros aplicativos da Experience Cloud. Por exemplo, você pode incluir um público-alvo compartilhado em uma [atividade](https://experienceleague.adobe.com/pt-br/docs/target/using/activities/activities) do Adobe Target.
+Depois que o público-alvo é salvo, ele é disponibilizado para outros aplicativos da CX Enterprise. Por exemplo, você pode incluir um público-alvo compartilhado em uma [atividade](https://experienceleague.adobe.com/pt-br/docs/target/using/activities/activities) do Adobe Target.

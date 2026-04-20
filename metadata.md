@@ -1,6 +1,6 @@
 ---
-title: Componentes e serviços da interface da Experience Cloud
-description: Saiba mais sobre os componentes da interface do usuário, administração de usuários e produtos no Adobe Admin Console, Biblioteca de público-alvo, Atributos do cliente, Ativos da Experience Cloud e muito mais.
+title: Componentes e serviços da interface do usuário do Experience Cloud
+description: Saiba mais sobre os componentes da interface do usuário, administração de usuários e produtos na Adobe Admin Console, Biblioteca de público-alvo, Atributos do cliente, CX Enterprise Assets e muito mais.
 cloud: Experience Cloud
 product: experience cloud
 solution: Experience Cloud Services
@@ -13,19 +13,19 @@ getting-started-url: https://helpx.adobe.com/br/experience-cloud-core-services/g
 tutorials-title: Tutorials
 tutorials-url: https://experienceleague.adobe.com/content/help/en/core-services-learn/tutorials/overview.html
 git-repo: https://github.com/AdobeDocs/core-services.pt-BR
-source-git-commit: 0ce4fa63a4babc195f89c595009adcf19f34cdd9
+source-git-commit: 1a77ef8d31211fb11c790152e78037a8c3b238a2
 workflow-type: tm+mt
-source-wordcount: '176'
-ht-degree: 100%
+source-wordcount: '200'
+ht-degree: 66%
 
 ---
 
 
 # Metadados para uso interno
 
-O arquivo metadata.md inclui metadados de nível de repositório transmitidos para os arquivos TOC.md do guia do usuário no repositório. Se desejar alterar o conteúdo metadata.md para qualquer guia do usuário, faça isso em qualquer arquivo TOC.md.
+O arquivo metadata.md inclui metadados de nível de repositório que são repassados para os arquivos TOC.md do guia do usuário no repositório. Se quiser alterar o conteúdo do arquivo metadata.md para qualquer guia do usuário, faça isso em qualquer arquivo TOC.md.
 
-| metadata | o que faz |
+| metadados | o que isso significa |
 | --- | --- |
 | solution-title | Usado no cabeçalho do artigo como link |
 | solution-hub-url | Abre a página helpx hub |
@@ -33,13 +33,13 @@ O arquivo metadata.md inclui metadados de nível de repositório transmitidos pa
 | getting-started-title | Raramente usado quando os tutoriais não são apropriados |
 | getting-started-url | Link para a página de introdução ao helpx |
 | tutorials-title | Raramente usado quando os tutoriais não são apropriados |
-| tutorials-url | Link para tutoriais em vídeo—tutoriais helpx ou tutoriais do KT |
-| mini-toc-levels | Determina o número de níveis de cabeçalho que aparecem no painel à direita. o padrão é 2 |
-| git-repo | Especifica o local do repositório de colaboração. Use o espelhamento github.com para documentos lidos pelo público |
+| tutorials-url | Link para tutoriais em vídeo: tutoriais do helpx ou tutoriais do KT |
+| mini-toc-levels | Determina o número de níveis de cabeçalho exibidos no painel direito. o padrão é 2 |
+| git-repo | Especifica o local do repositório de colaboração. Use o espelhamento do github.com para documentos voltados ao público |
 
 No arquivo TOC.md
 
-| metadata | o que faz |
+| metadados | o que isso significa |
 | --- | --- |
 | user-guide-title | Usado no cabeçalho do artigo como link |
 | user-guide-url | Abre a página helpx hub |

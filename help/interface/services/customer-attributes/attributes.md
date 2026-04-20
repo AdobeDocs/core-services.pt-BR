@@ -1,6 +1,6 @@
 ---
 title: Sobre o  [!DNL Customer Attributes]
-description: Saiba mais sobre o  [!DNL Customer Attributes] no Adobe Experience Cloud. Descubra como fazer upload dos dados de atributo de cliente para uso no Adobe Analytics e Adobe Target.
+description: Saiba mais sobre o  [!DNL Customer Attributes] no Adobe CX Enterprise. Descubra como fazer upload dos dados de atributo de cliente para uso no Adobe Analytics e Adobe Target.
 solution: Analytics
 feature: Customer Attributes
 role: Admin
@@ -23,36 +23,36 @@ role_v2:
 topic_v2:
   - id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
-source-git-commit: 0ce4fa63a4babc195f89c595009adcf19f34cdd9
+source-git-commit: 1a77ef8d31211fb11c790152e78037a8c3b238a2
 workflow-type: tm+mt
-source-wordcount: 306
-ht-degree: 55%
+source-wordcount: 313
+ht-degree: 47%
 
 ---
 
-# [!DNL Customer Attributes] na Experience Cloud
+# [!DNL Customer Attributes] no CX Enterprise
 
 **[!UICONTROL Apps]** ![menu](assets/menu-icon.png) > **[!DNL Customer Attributes]**
 
-O [!DNL Customer Attributes] no Adobe Experience Cloud permite que você carregue os dados corporativos capturados de um banco de dados do gerenciamento de relacionamento com o cliente (CRM). Você pode [carregar os dados](t-crs-usecase.md) em uma fonte de dados [!DNL Customer Attributes] no Experience Cloud e, em seguida, usar os dados em [!DNL Adobe Analytics] e [!DNL Adobe Target].
+O [!DNL Customer Attributes] no Adobe CX Enterprise permite que você carregue os dados corporativos capturados de um banco de dados do gerenciamento de relacionamento com o cliente (CRM). Você pode [carregar os dados](t-crs-usecase.md) em uma fonte de dados [!DNL Customer Attributes] no CX Enterprise e, em seguida, usar os dados em [!DNL Adobe Analytics] e [!DNL Adobe Target].
 
 ![Visão geral dos atributos do cliente](assets/custom_reports.png)
 
 ## Sobre dados de clientes de empresas {#customer-data}
 
-Os dados de clientes corporativos referem-se ao conjunto de informações coletadas em toda a organização sobre clientes, clientes potenciais e parceiros. Eles residem em outros sistemas e podem incluir informações como associações, nível de fidelidade, idade, gênero, produtos de propriedade, interesses e valor vitalício.
+Os dados de clientes corporativos referem-se ao conjunto de informações coletadas em toda a organização sobre clientes, clientes potenciais e parceiros.Ela reside em outros sistemas e pode incluir informações como associações, nível de fidelidade, idade, gênero, produtos de propriedade, interesses e valor vitalício.
 
 A imagem a seguir é um exemplo de um _arquivo de dados_ que mostra os dados do assinante para produtos, incluindo IDs de membro, produtos qualificados, produtos mais iniciados e assim por diante.
 
 ![O que são os dados de clientes corporativos?](assets/01_crs_usecase.png)
 
-Após a criação do arquivo de dados, é possível carregá-lo na fonte de atributos do cliente que você cria em **[!UICONTROL Experience Cloud]** > **[!UICONTROL Customer Attributes]**.
+Após a criação do arquivo de dados, é possível carregá-lo na fonte de atributos do cliente que você cria em **[!UICONTROL CX Enterprise]** > **[!UICONTROL Customer Attributes]**.
 
 Consulte [Fazer upload dos dados de atributos do cliente](t-crs-usecase.md) para conhecer esse fluxo de trabalho.
 
 ## Exemplos de atributos do cliente no Analytics e no Target
 
-Depois que os dados estiverem na Experience Cloud, é possível personalizá-los e compartilhá-los com soluções de relatório, segmentação, atividades e campanhas.
+Depois que os dados residirem no CX Enterprise, você poderá personalizá-los e compartilhá-los nas soluções para relatórios, segmentação, atividades e campanhas.
 
 Por exemplo:
 

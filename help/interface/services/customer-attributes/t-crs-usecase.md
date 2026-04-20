@@ -1,5 +1,5 @@
 ---
-description: Saiba como criar uma fonte de dados  [!DNL Customer Attributes]  e carregá-la no Experience Cloud.
+description: Saiba como criar uma fonte de dados  [!DNL Customer Attributes]  e carregá-la no CX Enterprise.
 solution: Experience Cloud
 title: Criar e Carregar um Arquivo  [!DNL Customer Attributes] Data Source
 uuid: 53dca789-9a91-4385-839d-c9d1aa36b9be
@@ -22,10 +22,10 @@ topic_v2:
   - id: b5ce8718-c3af-4fdb-a1a9-fca32f83a87c
   - id: d3cdead0-685a-4489-9250-4bb709942f66
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
-source-git-commit: d57b222077b83d52344a31c8a6b4ccf165843147
+source-git-commit: 1a77ef8d31211fb11c790152e78037a8c3b238a2
 workflow-type: tm+mt
 source-wordcount: 1118
-ht-degree: 47%
+ht-degree: 43%
 
 ---
 
@@ -41,9 +41,9 @@ Crie a fonte de atributo do cliente (arquivos `.csv` e `.fin`) e carregue os dad
 
 * **Associação de grupo:** Para carregar os dados, os usuários devem ser membros do grupo [!DNL Customer Attributes]. Você também deve pertencer a um grupo do Adobe Analytics ou do Adobe Target.
 
-  Para saber se a empresa tem acesso aos atributos do cliente, o [!DNL Experience Cloud] administrador deve fazer logon na [Experience Cloud](https://experience.adobe.com). Navegue até **[!UICONTROL Admin Console]** > **[!UICONTROL Products]**. Se *[!DNL Customer Attributes]* for exibido como um dos [!UICONTROL product profiles], você estará pronto para começar.
+  Para saber se a empresa tem acesso aos Atributos do cliente, o administrador do [!DNL CX Enterprise] deve fazer logon na [CX Enterprise](https://experience.adobe.com). Navegue até **[!UICONTROL Admin Console]** > **[!UICONTROL Products]**. Se *[!DNL Customer Attributes]* for exibido como um dos [!UICONTROL product profiles], você estará pronto para começar.
 
-  Os usuários adicionados a [!DNL Customer Attributes] verão o item de menu [!DNL Customer Attributes] à esquerda da interface do Experience Cloud.
+  Os usuários adicionados a [!DNL Customer Attributes] verão o item de menu [!DNL Customer Attributes] à esquerda da interface do CX Enterprise.
 
 * O **Adobe Target** `at.js` (qualquer versão) ou `mbox.js` versão 58 ou posterior é necessário para os atributos do cliente.
 
@@ -68,7 +68,7 @@ Esses dados são os dados do cliente da empresa no seu CRM. Os dados podem inclu
 
 ## Criar a fonte de atributo e fazer upload do arquivo de dados
 
-Execute essas etapas na página _[!UICONTROL Create Customer Attribute Source]_&#x200B;no Experience Cloud.
+Execute essas etapas na página _[!UICONTROL Create Customer Attribute Source]_&#x200B;no CX Enterprise.
 
 >[!IMPORTANT]
 >
@@ -88,7 +88,7 @@ Execute essas etapas na página _[!UICONTROL Create Customer Attribute Source]_&
 
    * **[!UICONTROL Description:]** (Opcional) Uma descrição da fonte de atributo de dados.
 
-   * **[!UICONTROL Alias ID:]** Representa uma fonte de dados do atributo do cliente, como um sistema de CRM específico. [!UICONTROL Alias ID] é um identificador exclusivo que é usado em seu código [!UICONTROL customer attribute Source]. O identificador deve ser único, estar com letras minúsculas e sem espaços. O valor inserido no campo [!UICONTROL Alias ID] para uma fonte de atributo do cliente no Experience Cloud deve corresponder aos valores que estão sendo transmitidos na implementação (via Coleção de dados da plataforma ou JavaScript do Mobile SDK.)
+   * **[!UICONTROL Alias ID:]** Representa uma fonte de dados do atributo do cliente, como um sistema de CRM específico. [!UICONTROL Alias ID] é um identificador exclusivo que é usado em seu código [!UICONTROL customer attribute Source]. O identificador deve ser único, estar com letras minúsculas e sem espaços. O valor inserido no campo [!UICONTROL Alias ID] para uma fonte de atributo do cliente no CX Enterprise deve corresponder aos valores que estão sendo transmitidos na implementação (via Coleção de dados da plataforma ou JavaScript do Mobile SDK.)
 
      >[!IMPORTANT]
      >
@@ -96,7 +96,7 @@ Execute essas etapas na página _[!UICONTROL Create Customer Attribute Source]_&
 
      A ID de alias corresponde a determinadas áreas em que você definiu outros valores da ID do cliente. Por exemplo:
 
-      * **Marcas:** A ID de Alias corresponde ao valor de *Código de Integração* em [!UICONTROL customer Settings], na ferramenta [Serviço da Experience Cloud ID](https://experienceleague.adobe.com/docs/experience-platform/tags/home.html?lang=pt-BR).
+      * **Marcas:** A ID de Alias corresponde ao valor de *Código de Integração* em [!UICONTROL customer Settings], na ferramenta [Serviço da CX Enterprise ID](https://experienceleague.adobe.com/docs/experience-platform/tags/home.html?lang=pt-BR).
 
       * **API de Visitante:** A ID de Alias corresponde às [IDs do cliente](https://experienceleague.adobe.com/docs/id-service/using/reference/authenticated-state.html?lang=pt-BR) adicionais que você pode associar a cada visitante.
 
@@ -146,9 +146,9 @@ Após o upload do arquivo, os dados da tabela são exibidos no cabeçalho [!UICO
 
 * **[!UICONTROL Unique customer ID:]** Exibe quantas IDs exclusivas você carregou para esta fonte de atributo.
 
-* **[!UICONTROL Customer-Provided IDs Aliased to Experience Cloud Visitor IDs:]** Exibe quantas IDs receberam alias para as IDs de visitante da Experience Cloud.
+* **[!UICONTROL Customer-Provided IDs Aliased to CX Enterprise Visitor IDs:]** Exibe quantas IDs receberam alias para as IDs de visitante da CX Enterprise.
 
-* **[!UICONTROL Customer-Provided IDs with High Alias Counts:]** Exibe a contagem de IDs fornecidas pelo cliente com 500 ou mais IDs de visitante da Experience Cloud com alias. Essas IDs fornecidas pelo cliente provavelmente não representam pessoas, mas um tipo de logon compartilhado. O sistema distribui os atributos associados a essas IDs para as 500 IDs de visitante da Experience Cloud com alias mais recentes, até a contagem de alias chegar a 10.000. Em seguida, o sistema invalida a ID fornecida pelo cliente e não distribui mais os atributos associados.
+* **[!UICONTROL Customer-Provided IDs with High Alias Counts:]** Exibe a contagem de IDs fornecidas pelo cliente com 500 ou mais IDs de visitante da CX Enterprise com alias. Essas IDs fornecidas pelo cliente provavelmente não representam pessoas, mas um tipo de logon compartilhado. O sistema distribui os atributos associados a essas IDs para as 500 IDs de visitante da CX Enterprise com alias mais recentes, até a contagem de alias chegar a 10.000. Em seguida, o sistema invalida a ID fornecida pelo cliente e não distribui mais os atributos associados.
 
 ## Validar o esquema {#validate-schema}
 
@@ -168,7 +168,7 @@ Como excluir atributos e substituir atributos no esquema.
 
 ## Configurar assinaturas e ativar a fonte de atributo
 
-Configurar uma assinatura define o fluxo de dados entre o Experience Cloud e os aplicativos. Ativar a fonte do atributo permite o fluxo de dados para os aplicativos com assinatura. Os registros do cliente carregados são combinados com sinais de ID recebidos do site ou aplicativo.
+Configurar uma assinatura define o fluxo de dados entre o CX Enterprise e os aplicativos. Ativar a fonte do atributo permite o fluxo de dados para os aplicativos com assinatura. Os registros do cliente carregados são combinados com sinais de ID recebidos do site ou aplicativo.
 
 Consulte [Configurar assinaturas e ativar a fonte de dados](subscription.md).
 
@@ -180,7 +180,7 @@ O exemplo a seguir mostra um segmento do [!DNL Analytics] com base nos atributos
 
 ![Segmento do Analytics com base nos atributos carregados](assets/08_crs_usecase.png)
 
-Ao publicar um segmento no Experience Cloud, ele fica disponível para o Experience Cloud Audiences e o Audience Manager.
+Ao publicar um segmento no CX Enterprise, ele fica disponível para o CX Enterprise Audiences e o Audience Manager.
 
 ## Usar dados do [!DNL Customer Attributes] no Adobe Target
 

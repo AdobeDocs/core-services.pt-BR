@@ -1,6 +1,6 @@
 ---
 title: Requisitos de arquivo para compartilhamento do Assets
-description: Saiba mais sobre os tipos de arquivo permitidos e as limitações de tamanho para compartilhar assets entre a Adobe Experience Cloud e a Creative Cloud.
+description: Saiba mais sobre os tipos de arquivo permitidos e as limitações de tamanho para compartilhar ativos entre o Adobe CX Enterprise e a Creative Cloud.
 solution: Experience Cloud
 uuid: 1621accf-c407-437b-ae12-61f13cc338d0
 feature: Assets
@@ -20,20 +20,20 @@ role_v2:
   - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
 topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
-source-git-commit: 0ce4fa63a4babc195f89c595009adcf19f34cdd9
+source-git-commit: 1a77ef8d31211fb11c790152e78037a8c3b238a2
 workflow-type: tm+mt
-source-wordcount: 122
-ht-degree: 95%
+source-wordcount: 142
+ht-degree: 73%
 
 ---
 
 # Requisitos de arquivo para compartilhar assets
 
-Tipos de arquivo e limites de tamanho permitidos para compartilhar assets entre a Experience Cloud e a Creative Cloud.
+Tipos de arquivo permitidos e limites de tamanho para compartilhar ativos entre a CX Enterprise e a Creative Cloud.
 
 ## Tipos de arquivo permitidos para upload
 
-Os tipos de arquivos que você pode fazer upload incluem a maioria das imagens, dos documentos e multimídia. Consulte [Formatos suportados](https://helpx.adobe.com/br/experience-manager/brand-portal/using/brand-portal-supported-formats.html) para obter informações de formatos de arquivo no [!DNL Experience Cloud] Assets.
+Os tipos de arquivos que você pode fazer upload incluem a maioria das imagens, dos documentos e multimídia. Consulte [Formatos suportados](https://helpx.adobe.com/br/experience-manager/brand-portal/using/brand-portal-supported-formats.html) para obter informações de formatos de arquivo no [!DNL CX Enterprise] Assets.
 
 ## Limitações do tamanho do arquivo
 

@@ -1,5 +1,5 @@
 ---
-description: Saiba mais sobre os cookies do Adobe Analytics na Adobe Experience Cloud.
+description: Saiba mais sobre cookies do Adobe Analytics no Adobe CX Enterprise.
 solution: Analytics
 title: Cookies do Adobe Analytics
 uuid: e2d3d61d-2708-48b2-a7e6-2331f2aed8e0
@@ -20,10 +20,10 @@ topic_v2:
   - id: c2be0313-b3ae-45e0-b454-d20bf54b23f2
   - id: e0eb8757-182f-49f3-94a4-1587d16f5094
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
-source-git-commit: 0d253888322194189fea6d492ae19cf248357960
+source-git-commit: 1a77ef8d31211fb11c790152e78037a8c3b238a2
 workflow-type: tm+mt
-source-wordcount: 545
-ht-degree: 11%
+source-wordcount: 582
+ht-degree: 10%
 
 ---
 
@@ -35,7 +35,7 @@ O Analytics usa cookies para definir novos visitantes anonimamente, ajudar a ana
 
 | Nome do cookie | Expiração | Tamanho | Localização | Descrição |
 | --- | --- | --- | --- | --- |
-| **`s_ecid`** | 13 meses | 45 bytes | Primários | Armazena a Experience Cloud ID (ECID) ou a MID. Definido por resposta HTTP. A MID está armazenada no formato `s_ecid=MCMID`. Definido depois que o cliente define o cookie AMCV. Ela permite o rastreamento persistente de ID primária e é usada como ID de referência se o cookie AMCV expirar. `SameSite` está definido como &quot;Lax&quot;. Se você usar o Web SDK para implementar o Adobe Analytics, a expiração do cookie será definida como 2 anos; no entanto, a maioria dos navegadores modernos trunca a expiração para 13 meses. |
+| **`s_ecid`** | 13 meses | 45 bytes | Primários | Armazena a CX Enterprise ID (ECID) ou a MID. Definido por resposta HTTP. A MID está armazenada no formato `s_ecid=MCMID`. Definido depois que o cliente define o cookie AMCV. Ela permite o rastreamento persistente de ID primária e é usada como ID de referência se o cookie AMCV expirar. `SameSite` está definido como &quot;Lax&quot;. Se você usar o Web SDK para implementar o Adobe Analytics, a expiração do cookie será definida como 2 anos; no entanto, a maioria dos navegadores modernos trunca a expiração para 13 meses. |
 | **`s_cc`** | Session | 4 bytes | Primários | Determina se os cookies estão ativados. Definido pelo JavaScript. |
 | **`s_sq`** | Session | 100-200 bytes | Primários | Usado pelo Activity Map. Ele contém informações sobre o link anterior clicado pelo visitante. Definido pelo JavaScript. |
 | **`s_vi`** | 2 anos | 44 bytes | Primário ou `*.omtrdc.net` (terceiro) | Armazena um identificador de visitante único e um carimbo de data e hora. Definido por resposta HTTP. Cada ID de visitante está associada a um perfil de visitante nos servidores da Adobe. Os perfis do visitante são excluídos após 1 ano de inatividade, independentemente de qualquer expiração de cookie da ID do visitante. O sinalizador `Secure` é definido quando `SameSite` é &quot;Nenhum&quot; e a conexão é HTTPS. `SameSite` é &quot;Lax&quot; por padrão para cookies próprios. `SameSite` é &quot;Nenhum&quot; ao usar cookies de terceiros, como em `omtrdc.net` ou `2o7.net`. Defina `SameSite` como &quot;Nenhum&quot; ao usar um único CNAME para rastrear vários domínios ou propriedades. |

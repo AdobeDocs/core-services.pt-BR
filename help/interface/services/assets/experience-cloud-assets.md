@@ -1,5 +1,5 @@
 ---
-description: Saiba mais sobre os ativos da Experience Cloud que você pode compartilhar entre aplicativos.
+description: Saiba mais sobre o CX Enterprise Assets que você pode compartilhar entre aplicativos.
 solution: Experience Cloud
 title: Visão geral de ativos
 uuid: 97a849ec-1555-4630-9416-2ab484373f5c
@@ -21,21 +21,21 @@ role_v2:
   - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
 topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
-source-git-commit: 0d253888322194189fea6d492ae19cf248357960
+source-git-commit: 1a77ef8d31211fb11c790152e78037a8c3b238a2
 workflow-type: tm+mt
-source-wordcount: 316
-ht-degree: 86%
+source-wordcount: 320
+ht-degree: 69%
 
 ---
 
-# Visão geral do Experience Cloud Assets
+# Visão geral do CX Enterprise Assets
 
-O Experience Cloud Assets oferece um repositório único e centralizado de ativos prontos para marketing, que podem ser compartilhados entre aplicativos. Um ativo é um documento digital, imagem, vídeo ou áudio (ou parte dele) que pode ter várias representações e subativos (por exemplo, camadas em um arquivo do [!DNL Photoshop], slides em um arquivo do [!DNL PowerPoint], páginas em um PDF, arquivos em um ZIP).
+O CX Enterprise Assets fornece um repositório único e centralizado de ativos prontos para marketing, que podem ser compartilhados entre aplicativos. Um ativo é um documento digital, imagem, vídeo ou áudio (ou parte dele) que pode ter várias representações e subativos (por exemplo, camadas em um arquivo do [!DNL Photoshop], slides em um arquivo do [!DNL PowerPoint], páginas em um PDF, arquivos em um ZIP).
 
 Os serviços de ativos incluem:
 
 * Armazenamento de ativos, interface de gerenciamento e de seleção incorporada (acessada por meio de aplicativos).
-* Integrações com a Creative Cloud, aplicativos e colaboração na Experience Cloud.
+* Integrações com a Creative Cloud, colaboração da CX Enterprise e aplicativos da CX Enterprise.
 
 Usar ativos melhora a consistência e a conformidade da marca, além de acelerar o tempo de comercialização. É possível simplificar os fluxos de trabalho nos aplicativos:
 
@@ -44,9 +44,9 @@ Usar ativos melhora a consistência e a conformidade da marca, além de acelerar
 * **[!DNL Adobe Campaign]**: coloque ativos em informativos e campanhas por email.
 
 
-## Navegar até os ativos da Experience Cloud
+## Navegue até o CX Enterprise Assets
 
-![Navegar até o Experience Cloud Assets](../../assets/asset-nav.png)
+![Navegar até o CX Enterprise Assets](../../assets/asset-nav.png)
 
 ## Acessar a barra de ferramentas
 

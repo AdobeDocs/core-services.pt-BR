@@ -1,5 +1,5 @@
 ---
-description: Saiba como o serviço de ID é armazenado e usado nos aplicativos do Experience Cloud.
+description: Saiba como o serviço de ID é armazenado e usado em aplicativos da CX Enterprise.
 solution: Experience Cloud,Analytics,Target
 title: Cookies da Experience Cloud
 uuid: a4788c1c-0402-4fc8-b894-cd24fa794f4f
@@ -22,16 +22,16 @@ role_v2:
   - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
 topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
-source-git-commit: 0d253888322194189fea6d492ae19cf248357960
+source-git-commit: 1a77ef8d31211fb11c790152e78037a8c3b238a2
 workflow-type: tm+mt
-source-wordcount: 352
-ht-degree: 88%
+source-wordcount: 370
+ht-degree: 77%
 
 ---
 
-# Cookies da Experience Cloud
+# Cookies do CX Enterprise
 
-O Adobe Experience Cloud usa cookies para armazenar uma ID de visitante usada nos aplicativos do Experience Cloud. Esses cookies se aplicam especificamente ao acesso aos aplicativos do Adobe Experience Cloud em [experience.adobe.com](https://experience.adobe.com).
+O Adobe CX Enterprise usa cookies para armazenar uma ID de visitante usada nos aplicativos do CX Enterprise. Esses cookies se aplicam especificamente ao acesso aos aplicativos do Adobe CX Enterprise em [experience.adobe.com](https://experience.adobe.com).
 
 **Nome do cookie: s_ecid**
 
@@ -45,7 +45,7 @@ O Adobe Experience Cloud usa cookies para armazenar uma ID de visitante usada no
  <tbody> 
   <tr> 
    <td colname="col1"> <p>Informações armazenadas </p> </td> 
-   <td colname="col2"> <p> Contém uma cópia da Experience Cloud ID (ECID) ou MID. A MID é armazenada em um par de valor principal que segue a sintaxe s_ecid=MCMID|&lt;ECID&gt; </p> </td> 
+   <td colname="col2"> <p> Contém uma cópia da CX Enterprise ID (ECID) ou MID. A MID é armazenada em um par de valor principal que segue a sintaxe s_ecid=MCMID|&lt;ECID&gt; </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p> Expiração </p> </td> 
@@ -86,7 +86,7 @@ Consulte [Cookies e o serviço da ID](https://experienceleague.adobe.com/docs/id
  <tbody> 
   <tr> 
    <td colname="col1"> <p>Informações armazenadas </p> </td> 
-   <td colname="col2"> <p> Identificadores de visitante único usados pelas Soluções da Experience Cloud. </p> </td> 
+   <td colname="col2"> <p> Identificadores de visitante único usados pelas Soluções da CX Enterprise. </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p> Expiração </p> </td> 

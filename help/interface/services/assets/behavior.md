@@ -1,5 +1,5 @@
 ---
-description: Saiba mais sobre as regras de como as pastas compartilhadas se comportam quando movidas, excluídas e restauradas na Experience Cloud.
+description: Saiba mais sobre as regras de como as pastas compartilhadas se comportam quando movidas, excluídas e restauradas no CX Enterprise.
 keywords: compartilhamento de ativos, Creative Cloud,
 solution: Experience Cloud
 title: Comportamento das pastas compartilhadas
@@ -21,10 +21,10 @@ role_v2:
   - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
 topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
-source-git-commit: 0d253888322194189fea6d492ae19cf248357960
+source-git-commit: 1a77ef8d31211fb11c790152e78037a8c3b238a2
 workflow-type: tm+mt
 source-wordcount: 627
-ht-degree: 96%
+ht-degree: 90%
 
 ---
 
@@ -34,7 +34,7 @@ Regras sobre como as pastas compartilhadas se comportam quando são movidas, exc
 
 >[!NOTE]
 >
->As pastas e os ativos compartilhados do Experience Cloud são espelhados na área de trabalho do Creative Cloud em uma relação 1:1. Se um usuário da Experience Cloud mudar uma pasta (excluir, adicionar ou remover o compartilhamento), a ação será espelhada no desktop da Creative Cloud e na Web. Assim, se o compartilhamento de uma pasta for cancelado, a pasta e os ativos serão excluídos da máquina local. Depois que o compartilhamento for removido, a pasta e seu conteúdo serão movidos para a lixeira do computador local, onde você poderá restaurá-los manualmente para o computador.
+>As pastas e os ativos compartilhados do CX Enterprise são espelhados na área de trabalho do Creative Cloud em uma relação 1:1. Se um usuário do CX Enterprise alterar uma pasta (excluir, adicionar ou remover o compartilhamento), a ação será espelhada no desktop da Creative Cloud e na Web. Assim, se o compartilhamento de uma pasta for cancelado, a pasta e os ativos serão excluídos da máquina local. Depois que o compartilhamento for removido, a pasta e seu conteúdo serão movidos para a lixeira do computador local, onde você poderá restaurá-los manualmente para o computador.
 
 ## Pasta não compartilhada na pasta compartilhada
 

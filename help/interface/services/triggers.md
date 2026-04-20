@@ -1,5 +1,5 @@
 ---
-description: Saiba como configurar o Experience Cloud Triggers.
+description: Saiba como configurar o CX Enterprise Triggers.
 solution: Experience Cloud
 title: Visão geral do Triggers
 uuid: dab536e3-1969-4661-919e-5b15f423fecd
@@ -24,16 +24,16 @@ topic_v2:
   - id: d3cdead0-685a-4489-9250-4bb709942f66
   - id: e0eb8757-182f-49f3-94a4-1587d16f5094
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
-source-git-commit: 0ce4fa63a4babc195f89c595009adcf19f34cdd9
+source-git-commit: 1a77ef8d31211fb11c790152e78037a8c3b238a2
 workflow-type: tm+mt
-source-wordcount: 646
-ht-degree: 78%
+source-wordcount: 697
+ht-degree: 74%
 
 ---
 
-# Experience Cloud Triggers
+# CX Enterprise Triggers
 
-O [!UICONTROL Triggers] no Experience Cloud permite identificar, definir e monitorar os comportamentos dos principais consumidores e gerar comunicação entre aplicativos para atrair os visitantes novamente. Você pode usar acionadores em personalizações e decisões em tempo real.
+O [!UICONTROL Triggers] no CX Enterprise permite identificar, definir e monitorar os comportamentos dos principais consumidores e gerar comunicação entre aplicativos para atrair os visitantes novamente. Você pode usar acionadores em personalizações e decisões em tempo real.
 
 Por exemplo:
 
@@ -55,7 +55,7 @@ Geralmente, um acionador pode levar 15 a 90 minutos para iniciar uma campanha de
 * **Ação:** por exemplo, você pode criar acionadores para serem disparados depois de inscrições em newsletters, assinaturas por email ou aplicações para cartões de crédito (confirmações). Se você for um varejista, crie um acionador para um visitante que se inscreve em um programa de fidelidade. Em mídia e entretenimento, crie acionadores para visitantes que assistem a um certo programa que talvez você queira que respondam a uma pesquisa.
 * **Início e término de sessão:** crie um acionador para o início da sessão e eventos de término de sessão.
 
-## Criar um acionador da Experience Cloud
+## Criar um acionador do CX Enterprise
 
 Crie um acionador e configure as condições para ele. Por exemplo, você pode especificar o critério das regras para um acionador durante uma visita. Alguns exemplos são métricas, como Abandono de carrinho, ou dimensões, como o nome do produto. O acionador é executado quando as regras são cumpridas.
 
@@ -63,7 +63,7 @@ Crie um acionador e configure as condições para ele. Por exemplo, você pode e
 >
 >No momento, há um limite técnico de 100 acionadores.
 
-1. No Experience Cloud, clique em ![menu](../assets/menu-icon.png) e em **[!UICONTROL Data Collection/Launch]**.
+1. No CX Enterprise, clique em ![menu](../assets/menu-icon.png) e em **[!UICONTROL Data Collection/Launch]**.
 1. No cartão [!UICONTROL Triggers], clique em **[!UICONTROL Manage Triggers]**.
 1. Clique em **[!UICONTROL New Trigger]** e especifique o tipo de gatilho:
 
@@ -87,7 +87,7 @@ Crie um acionador e configure as condições para ele. Por exemplo, você pode e
 
 ## Exemplos de acionadores
 
-Exemplos de Experience Cloud Triggers:
+Exemplos de acionadores da CX Enterprise:
 
 ### Acionador de Abandono do carrinho
 

@@ -1,5 +1,5 @@
 ---
-description: Saiba como validar o esquema  [!DNL Customer Attributes]  no Adobe Experience Cloud.
+description: Saiba como validar o esquema  [!DNL Customer Attributes]  no Adobe CX Enterprise.
 solution: Experience Cloud
 title: 'Como validar o esquema  [!DNL Customer Attributes] '
 feature: Customer Attributes
@@ -21,16 +21,16 @@ topic_v2:
   - id: b5ce8718-c3af-4fdb-a1a9-fca32f83a87c
   - id: c1579802-ddd4-4214-8a91-97b2066abe11
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
-source-git-commit: 0d253888322194189fea6d492ae19cf248357960
+source-git-commit: 1a77ef8d31211fb11c790152e78037a8c3b238a2
 workflow-type: tm+mt
-source-wordcount: 310
-ht-degree: 37%
+source-wordcount: 308
+ht-degree: 43%
 
 ---
 
 # Validar o esquema
 
-O processo de validação permite mapear nomes de exibição e descrições para atributos carregados (sequências, números inteiros, números e assim por diante).
+O processo de validação permite mapear os nomes de exibição e as descrições aos atributos carregados (strings, números inteiros, números e assim por diante).
 
 Um esquema é criado com base nessas configurações. O esquema é usado para validar todos os dados futuros carregados nessa fonte de dados. Esse processo de mapeamento não altera os dados originais.
 
@@ -50,7 +50,7 @@ Um esquema é criado com base nessas configurações. O esquema é usado para va
 
    Na página [!UICONTROL Edit Schema], cada linha do esquema representa uma coluna do arquivo CSV carregado.
 
-   ![Editar página de esquema na Experience Cloud](assets/schema-edit.png)
+   ![Editar página de esquema na CX Enterprise](assets/schema-edit.png)
 
 **Ações**
 
@@ -60,10 +60,10 @@ Um esquema é criado com base nessas configurações. O esquema é usado para va
 
 * **[!UICONTROL FTP Setup:]** Crie sua conta FTP para [carregar seus dados via FTP](t-upload-attributes-ftp.md) (opcional).
 
-* **[!UICONTROL ID Lookup:]** Insira uma ID do cliente (CID) em seu `.csv` para pesquisar informações da Experience Cloud para a ID. Esse recurso é útil para solucionar por que os dados do atributo não são exibidos para um visitante:
+* **[!UICONTROL ID Lookup:]** Insira uma ID do cliente (CID) em seu `.csv` para pesquisar informações da CX Enterprise para a ID. Esse recurso é útil para solucionar por que os dados do atributo não são exibidos para um visitante:
 
-   * **[!UICONTROL ECID (Experience Cloud ID):]** Exibe se você está usando o Serviço da Experience Cloud ID mais recente. Se você estiver no serviço da MCID, mas não houver IDs listadas, a Experience Cloud não recebeu um alias para essa CID. Isso indica que o visitante não está conectado ou que sua implementação não está transmitindo essa ID.
+   * **[!UICONTROL ECID (CX Enterprise ID):]** Exibe se você está usando o Serviço da CX Enterprise ID mais recente. Se você estiver no serviço da MCID, mas não houver IDs listadas, a CX Enterprise não recebeu um alias para essa CID. Isso indica que o visitante não está conectado ou que sua implementação não está transmitindo essa ID.
 
    * **[!UICONTROL CID (customer ID):]** Os atributos associados a esta CID. Se você estiver usando uma prop ou eVar para fazer upload das CIDs (AVID) e visualizar os atributos exibidos, mas nenhuma AVID, isso indica que o visitante não está conectado ao seu site.
 
-   * **[!UICONTROL AVID (Analytics visitor ID):]** Exibe se você usa uma prop ou eVar para carregar CIDs. Se essas IDs forem transmitidas para o Experience Cloud, todas as IDs de visitante associadas à CID inseridas serão exibidas aqui.
+   * **[!UICONTROL AVID (Analytics visitor ID):]** Exibe se você usa uma prop ou eVar para carregar CIDs. Se essas IDs forem transmitidas para o CX Enterprise, todas as IDs de visitante associadas à CID inseridas serão exibidas aqui.

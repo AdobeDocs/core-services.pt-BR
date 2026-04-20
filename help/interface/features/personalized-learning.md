@@ -1,5 +1,5 @@
 ---
-description: Receba ajuda e promoções personalizadas por email, nos seus produtos Experience Cloud e nas Comunidades Experience League com base nos seus Dados de Uso.
+description: Receba ajuda e promoções personalizadas por email, em seus produtos da CX Enterprise e nas comunidades da Experience League com base nos seus Dados de uso.
 solution: Experience Cloud
 title: Preferências de aprendizado personalizadas da Experience Cloud
 exl-id: ad6c8daf-c8ad-42e9-8ff0-cef59dc0da3f
@@ -16,16 +16,16 @@ role_v2:
   - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
 topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
-source-git-commit: 06923be2a98a9301a3d3e16c47c50cd34f7a05e9
+source-git-commit: 1a77ef8d31211fb11c790152e78037a8c3b238a2
 workflow-type: tm+mt
-source-wordcount: 103
-ht-degree: 19%
+source-wordcount: 105
+ht-degree: 20%
 
 ---
 
 # Preferências de aprendizado personalizadas
 
-O Adobe fornece conteúdo útil que é personalizado para você com base no seu trabalho em seus produtos Adobe. Os dados de uso do produto indicam como personalizamos esse contexto para você. Você pode aceitar ou recusar o compartilhamento dos dados de uso do produto na página [preferências de Experience Cloud](https://experience.adobe.com/preferences).
+O Adobe fornece conteúdo útil e personalizado com base em seu trabalho nos produtos da Adobe. Os dados de uso do produto informam como personalizamos esse contexto para você. Você pode aceitar ou recusar o compartilhamento dos dados de uso do seu produto na página [Preferências do CX Enterprise](https://experience.adobe.com/preferences).
 
 <!--
 ## Personalized training and support recommendations for your Adobe products and services
@@ -87,7 +87,7 @@ Receive tailored opportunities for learning events, research sessions, and integ
 [![](../assets/personalized-learning-customize-learning-button.png)](https://experience.adobe.com/?shell_forceuserconsent=true#/home){width="10%"} 
 -->
 
-## Exemplos da aparência de informações de aprendizado personalizadas
+## Exemplos de como as informações de aprendizado personalizadas podem parecer
 
 ### Em seus produtos da Adobe
 

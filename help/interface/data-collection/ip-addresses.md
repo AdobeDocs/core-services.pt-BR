@@ -11,14 +11,14 @@ role_v2:
 topic_v2:
   - id: d3cdead0-685a-4489-9250-4bb709942f66
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
-source-git-commit: 0d253888322194189fea6d492ae19cf248357960
+source-git-commit: a42153ba5a885509e7735e7407e38586fcabb0ad
 workflow-type: tm+mt
-source-wordcount: 378
-ht-degree: 9%
+source-wordcount: 426
+ht-degree: 8%
 
 ---
 
-# Endereços IP usados pelo Experience Cloud
+# Endereços IP usados pelo CX Enterprise
 
 Algumas configurações de firewall bloqueiam endereços IP dos servidores de coleta de dados da Adobe ou dos servidores responsáveis por acessar os dados do. Você pode usar essa lista de intervalos para alterar as configurações de firewall da sua organização para permitir acesso e enviar dados de dentro da organização. Esta página inclui sistemas de entrada (como a coleta de dados) e sistemas de saída (como feeds de dados no Adobe Analytics) que a Adobe usa.
 
@@ -26,7 +26,7 @@ Algumas configurações de firewall bloqueiam endereços IP dos servidores de co
 >
 >Embora a Adobe faça o possível para manter esse documento atualizado, não é possível garantir que a lista de intervalos IP permanecerá a mesma. As possíveis alterações incluem o crescimento e a expansão dos negócios, um registro da Internet exige alterações no espaço de endereço IP da Adobe ou um provedor de serviços de Internet deixa de funcionar.
 
-Além dos blocos de endereço IP listados abaixo, os produtos Adobe Experience Cloud individuais têm seus próprios endereços IP que usam:
+Além dos blocos de endereço IP listados abaixo, os produtos Adobe CX Enterprise individuais têm seus próprios endereços IP que usam:
 
 * [Adobe Analytics](https://experienceleague.adobe.com/pt-br/docs/analytics/technotes/ip-addresses)
 * [Customer Journey Analytics](https://experienceleague.adobe.com/pt-br/docs/analytics-platform/using/technotes/ip-addresses)
@@ -49,12 +49,12 @@ A tabela a seguir abrange todos os endereços IP de propriedade da Adobe. Essa t
 
 {style="table-layout:auto"}
 
-## Coleta de dados do Adobe Experience Cloud e blocos de endereço IP de FTP
+## Coleta de dados do Adobe CX Enterprise e blocos de endereço IP de FTP
 
 Se a empresa preferir permitir intervalos específicos de endereço IP, você pode consultar a tabela a seguir. O serviço inclui:
 
-* Servidores de coleção de dados para todos os produtos da Experience Cloud
-* Servidores FTP para todos os produtos da Experience Cloud
+* Servidores de coleção de dados para todos os produtos da CX Enterprise
+* Servidores FTP para todos os produtos da CX Enterprise
 
 Todos os intervalos IP desta seção estão incluídos na tabela acima.
 
@@ -92,7 +92,7 @@ Todos os intervalos IP desta seção estão incluídos na tabela acima.
 
 {style="table-layout:auto"}
 
-O Adobe Experience Cloud também oferece suporte ao IPv6 em capacidade limitada. Esses blocos IP atendem a objetivos de coleta de dados semelhantes aos de seus equivalentes IPv4 acima, mas não incluem FTP.
+O Adobe CX Enterprise também oferece suporte ao IPv6 em capacidade limitada. Esses blocos IP atendem a objetivos de coleta de dados semelhantes aos de seus equivalentes IPv4 acima, mas não incluem FTP.
 
 | Localização | Host |
 | --- | --- |

@@ -42,11 +42,11 @@ O Analytics usa cookies para definir novos visitantes anonimamente, ajudar a ana
 | **`s_fid`** | 2 anos | 33 bytes | Primários | Armazena a ID de visitante exclusiva de fallback e o carimbo de data e hora. Definido pelo JavaScript se o cookie padrão `s_vi` não puder ser definido devido a restrições de cookies de terceiros. Não usado para implementações de cookies primários. |
 | **`s_ac`** | Imediato | 1 byte | Primários | Ajuda a determinar o domínio correto para definir cookies do AppMeasurement. Contém o valor estático `"1"`. Depois que este cookie é configurado, ele é excluído imediatamente. |
 
-Consulte [Identificação do visitante no Adobe Analytics](https://experienceleague.adobe.com/en/docs/analytics/implementation/id/overview) para obter mais informações sobre como o Adobe Analytics identifica visitantes usando cookies.
+Consulte [Identificação do visitante no Adobe Analytics](https://experienceleague.adobe.com/pt-br/docs/analytics/implementation/id/overview) para obter mais informações sobre como o Adobe Analytics identifica visitantes usando cookies.
 
 ## Cookies definidos por plug-ins
 
-Algumas implementações usam plug-ins, que são trechos de código que fornecem funcionalidade adicional para o Analytics. Esses plug-ins podem definir cookies que não estão listados acima. Consulte [Visão geral dos plug-ins do Analytics](https://experienceleague.adobe.com/en/docs/analytics/implementation/vars/plugins/impl-plugins) para obter uma lista de plug-ins disponíveis e quais cookies eles definiram.
+Algumas implementações usam plug-ins, que são trechos de código que fornecem funcionalidade adicional para o Analytics. Esses plug-ins podem definir cookies que não estão listados acima. Consulte [Visão geral dos plug-ins do Analytics](https://experienceleague.adobe.com/pt-br/docs/analytics/implementation/vars/plugins/impl-plugins) para obter uma lista de plug-ins disponíveis e quais cookies eles definiram.
 
 ## Consequências da exclusão de cookies do Analytics
 

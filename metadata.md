@@ -1,21 +1,22 @@
 ---
-title: Componentes e serviços da interface do usuário do Experience Cloud
-description: Saiba mais sobre os componentes da interface do usuário, administração de usuários e produtos na Adobe Admin Console, Biblioteca de público-alvo, Atributos do cliente, CX Enterprise Assets e muito mais.
+title: Interface e administração central do CX Enterprise
+description: Saiba mais sobre os componentes da interface do usuário, administração de usuários e produtos na Adobe Admin Console, biblioteca de público-alvo, atributos do cliente, CX Enterprise Assets e muito mais.
 cloud: Experience Cloud
 product: experience cloud
 solution: Experience Cloud Services
+product_v2: id: e1971122-7081-4556-9222-8a31bd71800c
 feature-set: Experience Cloud Services,Experience Cloud
 solution-title: Experience Platform
-solution-hub-url: https://helpx.adobe.com/br/support/experience-cloud/core-services.html
+solution-hub-url: https://helpx.adobe.com/support/experience-cloud/core-services.html
 solution-icon: help/interface/assets/experience-cloud-logo-24.png
 getting-started-title: Getting Started
-getting-started-url: https://helpx.adobe.com/br/experience-cloud-core-services/get-started.html
+getting-started-url: https://helpx.adobe.com/experience-cloud-core-services/get-started.html
 tutorials-title: Tutorials
 tutorials-url: https://experienceleague.adobe.com/content/help/en/core-services-learn/tutorials/overview.html
-git-repo: https://github.com/AdobeDocs/core-services.pt-BR
-source-git-commit: 1a77ef8d31211fb11c790152e78037a8c3b238a2
+git-repo: https://github.com/AdobeDocs/core-services.en
+source-git-commit: 8fc5cb3ebabcb154aa766ecaec5b3ccc10b5aefc
 workflow-type: tm+mt
-source-wordcount: '200'
+source-wordcount: 200
 ht-degree: 66%
 
 ---

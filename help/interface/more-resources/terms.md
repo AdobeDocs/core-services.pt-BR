@@ -8,11 +8,20 @@ topic: Administration
 role: Admin
 level: Experienced
 exl-id: 3799f806-2794-43ab-9e70-06ee693871e7
-product_v2: id: d0a3eab4-7b10-4d96-a71e-6c0f8e7b7c87
-feature_v2: id: fdbb8fc9-ffa3-4b86-88fe-aa4c5a3e1bc6
-subfeature_v2: id: b75843fa-0a67-4a44-a6b1-cc627b0481dcid: bdea9bc8-5600-45db-b85e-d74bb59dfcffid: fef08361-6ac5-460c-93fe-d063e40b6a49
-role_v2: id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
-topic_v2: id: a004cc84-67b9-4a33-a3a7-8ec7273ef4dcid: eddd9b14-83bd-4ff4-9072-54a4a484abb7id: f4e6943a-c91a-4134-a2c7-f4f20cfff2f0
+product_v2:
+  - id: d0a3eab4-7b10-4d96-a71e-6c0f8e7b7c87
+feature_v2:
+  - id: fdbb8fc9-ffa3-4b86-88fe-aa4c5a3e1bc6
+subfeature_v2:
+  - id: b75843fa-0a67-4a44-a6b1-cc627b0481dc
+  - id: bdea9bc8-5600-45db-b85e-d74bb59dfcff
+  - id: fef08361-6ac5-460c-93fe-d063e40b6a49
+role_v2:
+  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+topic_v2:
+  - id: a004cc84-67b9-4a33-a3a7-8ec7273ef4dc
+  - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
+  - id: f4e6943a-c91a-4134-a2c7-f4f20cfff2f0
 source-git-commit: 581cd64936e5740d6288564abd25b5dd358f0dc6
 workflow-type: tm+mt
 source-wordcount: 1273
@@ -40,7 +49,7 @@ Uma referência de terminologia para usuários do CX Enterprise e como esses ter
 | **Imposição de Uso de Dados** | Nenhum uso especial. | As políticas, o design do sistema, as práticas e os procedimentos implementados e definidos por um sistema (soluções, aplicativos, serviços, SDKs, APIs e etc.) para a utilização de metadados de uso de dados com o objetivo de permitir a aderência do uso de dados às políticas de privacidade, considerações contratuais e princípios gerais de privacidade corporativa da Adobe. |
 | **Dispositivo** | Nenhum uso especial. | Um dispositivo de hardware, como um tablet, telefone ou desktop, no qual os aplicativos são executados. |
 | **Device Co-op** | Nenhum uso especial. | Um grupo de marcas que concordaram em compartilhar dados sobre quais dispositivos os consumidores usam para melhor identificar uma pessoa em vários dispositivos e fornecer experiências mais significativas e consistentes. |
-| **[!UICONTROL CX Enterprise ID Service](ECID)** | Nenhum uso especial. | A ID exclusiva e persistente atribuída a um visitante do site. É uma entidade específica que pode ser usada pelo Serviço de identidade da Experience Platform. [Mais...](https://experienceleague.adobe.com/docs/id-service/using/home.html?lang=pt-BR) |
+| **[!UICONTROL CX Enterprise ID Service] (ECID)** | Nenhum uso especial. | A ID exclusiva e persistente atribuída a um visitante do site. É uma entidade específica que pode ser usada pelo Serviço de identidade da Experience Platform. [Mais...](https://experienceleague.adobe.com/docs/id-service/using/home.html?lang=pt-BR) |
 | **[!UICONTROL Experience Platform Identity Service]** | Nenhum uso especial. | O serviço que vincula identidades. É o serviço de vinculação de dispositivos para o gerenciamento de experiências baseado em pessoas. |
 | **Vinculação** | Nenhum uso especial. A vinculação refere-se à navegação de hyperlink e aos itens de vinculação como fontes, propriedades, camadas e assim por diante. | No CX Enterprise, a vinculação geralmente se refere à vinculação de diferentes contas de aplicativo à interface.<br>Consulte [Organizações e vinculação de contas](../administration/organizations.md).<br>Vinculação também se refere aos URLs padrão para os relatórios do Analytics enviados para outros usuários. |
 | **Locais** | Na Creative Cloud, local se refere a locais de arquivos ou a um local em uma imagem ou documento aberto. | No CX Enterprise, os locais são onde o conteúdo é visualizado (e pode receber interação) pelo Público-alvo. A associação entre os locais e o conteúdo pode ser mais ou menos estática, ou gerenciada dinamicamente de acordo com as regras de uma campanha. Um local sempre pertence a um Canal específico que determina como o Conteúdo pode ser entregue e como as Métricas podem ser coletadas.<br>São exemplos:<ul><li>Sites</li><li>Propriedades (Social)</li><li>Exibir inventário</li><li>Páginas de destino</li><li>Aplicativos móveis</li><li>Slots (vídeo)</li></ul> |

@@ -8,19 +8,12 @@ topic: Administration
 role: Admin
 level: Experienced
 exl-id: bc8ce894-f98c-4475-8a07-d74ae76f7451
-TQID: https://experienceleague.adobe.com/H-N88ygcQUcUIej1Kkwlv9UmIe1qPDYwo-qF3TdDqHg
-product_v2:
-  - id: e55547f1-a1ff-40c6-8978-026e40ab7fa4
-feature_v2:
-  - id: e9dbdbc5-3e52-40f0-a7bc-e18542967b7a
-role_v2:
-  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
-topic_v2:
-  - id: b5ce8718-c3af-4fdb-a1a9-fca32f83a87c
-  - id: c2be0313-b3ae-45e0-b454-d20bf54b23f2
-  - id: e0eb8757-182f-49f3-94a4-1587d16f5094
-  - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
-source-git-commit: 1a77ef8d31211fb11c790152e78037a8c3b238a2
+TQID: 'https://experienceleague.adobe.com/PhvsRGS0cHD9a6CjnHEI2sq1jOaVKREUYVYS90fWt7g'
+product_v2: id: e55547f1-a1ff-40c6-8978-026e40ab7fa4
+feature_v2: id: e9dbdbc5-3e52-40f0-a7bc-e18542967b7a
+role_v2: id:
+topic_v2: id: b5ce8718-c3af-4fdb-a1a9-fca32f83a87cid: bce87dde-a4ab-44c9-8a18-ad66e4ddb377id: c2be0313-b3ae-45e0-b454-d20bf54b23f2id: e0eb8757-182f-49f3-94a4-1587d16f5094id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
+source-git-commit: f01d85af42b8f2c27dbada8f73546bc6fe4bf710
 workflow-type: tm+mt
 source-wordcount: 582
 ht-degree: 10%
@@ -35,18 +28,18 @@ O Analytics usa cookies para definir novos visitantes anonimamente, ajudar a ana
 
 | Nome do cookie | Expiração | Tamanho | Localização | Descrição |
 | --- | --- | --- | --- | --- |
-| **`s_ecid`** | 13 meses | 45 bytes | Primários | Armazena a CX Enterprise ID (ECID) ou a MID. Definido por resposta HTTP. A MID está armazenada no formato `s_ecid=MCMID`. Definido depois que o cliente define o cookie AMCV. Ela permite o rastreamento persistente de ID primária e é usada como ID de referência se o cookie AMCV expirar. `SameSite` está definido como &quot;Lax&quot;. Se você usar o Web SDK para implementar o Adobe Analytics, a expiração do cookie será definida como 2 anos; no entanto, a maioria dos navegadores modernos trunca a expiração para 13 meses. |
+| **`s_ecid`** | 13 meses | 45 bytes | Primários | Armazena o CX Enterprise ID (ECID) ou a MID. Definido por resposta HTTP. A MID está armazenada no formato `s_ecid=MCMID`. Definido depois que o cliente define o cookie AMCV. Ela permite o rastreamento persistente de ID primária e é usada como ID de referência se o cookie AMCV expirar. `SameSite` está definido como &quot;Lax&quot;. Se você usar o Web SDK para implementar o Adobe Analytics, a expiração do cookie será definida como 2 anos; no entanto, a maioria dos navegadores modernos trunca a expiração para 13 meses. |
 | **`s_cc`** | Session | 4 bytes | Primários | Determina se os cookies estão ativados. Definido pelo JavaScript. |
 | **`s_sq`** | Session | 100-200 bytes | Primários | Usado pelo Activity Map. Ele contém informações sobre o link anterior clicado pelo visitante. Definido pelo JavaScript. |
 | **`s_vi`** | 2 anos | 44 bytes | Primário ou `*.omtrdc.net` (terceiro) | Armazena um identificador de visitante único e um carimbo de data e hora. Definido por resposta HTTP. Cada ID de visitante está associada a um perfil de visitante nos servidores da Adobe. Os perfis do visitante são excluídos após 1 ano de inatividade, independentemente de qualquer expiração de cookie da ID do visitante. O sinalizador `Secure` é definido quando `SameSite` é &quot;Nenhum&quot; e a conexão é HTTPS. `SameSite` é &quot;Lax&quot; por padrão para cookies próprios. `SameSite` é &quot;Nenhum&quot; ao usar cookies de terceiros, como em `omtrdc.net` ou `2o7.net`. Defina `SameSite` como &quot;Nenhum&quot; ao usar um único CNAME para rastrear vários domínios ou propriedades. |
 | **`s_fid`** | 2 anos | 33 bytes | Primários | Armazena a ID de visitante exclusiva de fallback e o carimbo de data e hora. Definido pelo JavaScript se o cookie padrão `s_vi` não puder ser definido devido a restrições de cookies de terceiros. Não usado para implementações de cookies primários. |
 | **`s_ac`** | Imediato | 1 byte | Primários | Ajuda a determinar o domínio correto para definir cookies do AppMeasurement. Contém o valor estático `"1"`. Depois que este cookie é configurado, ele é excluído imediatamente. |
 
-Consulte [Identificação do visitante no Adobe Analytics](https://experienceleague.adobe.com/pt-br/docs/analytics/implementation/id/overview) para obter mais informações sobre como o Adobe Analytics identifica visitantes usando cookies.
+Consulte [Identificação do visitante no Adobe Analytics](https://experienceleague.adobe.com/en/docs/analytics/implementation/id/overview) para obter mais informações sobre como o Adobe Analytics identifica visitantes usando cookies.
 
 ## Cookies definidos por plug-ins
 
-Algumas implementações usam plug-ins, que são trechos de código que fornecem funcionalidade adicional para o Analytics. Esses plug-ins podem definir cookies que não estão listados acima. Consulte [Visão geral dos plug-ins do Analytics](https://experienceleague.adobe.com/pt-br/docs/analytics/implementation/vars/plugins/impl-plugins) para obter uma lista de plug-ins disponíveis e quais cookies eles definiram.
+Algumas implementações usam plug-ins, que são trechos de código que fornecem funcionalidade adicional para o Analytics. Esses plug-ins podem definir cookies que não estão listados acima. Consulte [Visão geral dos plug-ins do Analytics](https://experienceleague.adobe.com/en/docs/analytics/implementation/vars/plugins/impl-plugins) para obter uma lista de plug-ins disponíveis e quais cookies eles definiram.
 
 ## Consequências da exclusão de cookies do Analytics
 

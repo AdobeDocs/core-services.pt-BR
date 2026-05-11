@@ -1,6 +1,6 @@
 ---
 title: Requisitos de arquivo para compartilhamento do Assets
-description: Saiba mais sobre os tipos de arquivo permitidos e as limitações de tamanho para compartilhar ativos entre o Adobe CX Enterprise e a Creative Cloud.
+description: Saiba mais sobre os tipos de arquivo permitidos e as limitações de tamanho para compartilhar ativos entre o Adobe CX Enterprise e o Creative Cloud.
 solution: Experience Cloud
 uuid: 1621accf-c407-437b-ae12-61f13cc338d0
 feature: Assets
@@ -8,19 +8,13 @@ topic: Administration
 role: Admin
 level: Experienced
 exl-id: 61bc8f52-a77e-4e85-939b-6f29963334a1
-TQID: https://experienceleague.adobe.com/g8SGSg2qvdyyC4pnp8rOnYsB1CigffBNOYNe94PiCHc
-product_v2:
-  - id: d0a3eab4-7b10-4d96-a71e-6c0f8e7b7c87
-feature_v2:
-  - id: fdbb8fc9-ffa3-4b86-88fe-aa4c5a3e1bc6
-subfeature_v2:
-  - id: b75843fa-0a67-4a44-a6b1-cc627b0481dc
-  - id: fef08361-6ac5-460c-93fe-d063e40b6a49
-role_v2:
-  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
-topic_v2:
-  - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
-source-git-commit: 1a77ef8d31211fb11c790152e78037a8c3b238a2
+TQID: 'https://experienceleague.adobe.com/U7p9CAD3I2Nb59BaYIVCcP-fQr008Y0jsgisB359g4k'
+product_v2: id: d0a3eab4-7b10-4d96-a71e-6c0f8e7b7c87
+feature_v2: id: fdbb8fc9-ffa3-4b86-88fe-aa4c5a3e1bc6
+subfeature_v2: id:id:
+role_v2: id:
+topic_v2: id: bce87dde-a4ab-44c9-8a18-ad66e4ddb377id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
+source-git-commit: f01d85af42b8f2c27dbada8f73546bc6fe4bf710
 workflow-type: tm+mt
 source-wordcount: 142
 ht-degree: 73%
@@ -29,7 +23,7 @@ ht-degree: 73%
 
 # Requisitos de arquivo para compartilhar assets
 
-Tipos de arquivo permitidos e limites de tamanho para compartilhar ativos entre a CX Enterprise e a Creative Cloud.
+Tipos de arquivo permitidos e limites de tamanho para compartilhar ativos entre o CX Enterprise e o Creative Cloud.
 
 ## Tipos de arquivo permitidos para upload
 

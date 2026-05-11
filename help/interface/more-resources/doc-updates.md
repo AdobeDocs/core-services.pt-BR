@@ -7,23 +7,13 @@ topic: Administration
 role: Admin
 level: Experienced
 exl-id: 11cc5005-8ec0-4308-bc94-0f78666ea645
-TQID: https://experienceleague.adobe.com/xGxvSSHR43wPti8xyaS96BZDrXtA4CcQ8EoE0V7MLEU
-product_v2:
-  - id: d0a3eab4-7b10-4d96-a71e-6c0f8e7b7c87
-feature_v2:
-  - id: fc7979f3-56c3-43ca-9784-f1ea3dc69c4b
-  - id: fdbb8fc9-ffa3-4b86-88fe-aa4c5a3e1bc6
-subfeature_v2:
-  - id: b75843fa-0a67-4a44-a6b1-cc627b0481dc
-  - id: bdea9bc8-5600-45db-b85e-d74bb59dfcff
-  - id: fef08361-6ac5-460c-93fe-d063e40b6a49
-role_v2:
-  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
-topic_v2:
-  - id: d3cdead0-685a-4489-9250-4bb709942f66
-  - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
-  - id: f4e6943a-c91a-4134-a2c7-f4f20cfff2f0
-source-git-commit: 1a77ef8d31211fb11c790152e78037a8c3b238a2
+TQID: 'https://experienceleague.adobe.com/umWVYhlsT9tK71EPkMRw7CECjSt8NZPZvgWguFmizHE'
+product_v2: id: d0a3eab4-7b10-4d96-a71e-6c0f8e7b7c87
+feature_v2: id: fc7979f3-56c3-43ca-9784-f1ea3dc69c4bid: fdbb8fc9-ffa3-4b86-88fe-aa4c5a3e1bc6
+subfeature_v2: id:id:id:
+role_v2: id:
+topic_v2: id: bce87dde-a4ab-44c9-8a18-ad66e4ddb377id: d3cdead0-685a-4489-9250-4bb709942f66id: eddd9b14-83bd-4ff4-9072-54a4a484abb7id: f4e6943a-c91a-4134-a2c7-f4f20cfff2f0
+source-git-commit: f01d85af42b8f2c27dbada8f73546bc6fe4bf710
 workflow-type: tm+mt
 source-wordcount: 656
 ht-degree: 45%
@@ -40,7 +30,7 @@ Adicionado [consumo de créditos e trabalhos de IA](../features/ai-credit-consum
 
 **novembro de 2025**
 
-Atualizações para a [IA de agente na CX Enterprise](../features/agentic-ai.md)
+Atualizações do [Agentic AI na CX Enterprise](../features/agentic-ai.md)
 
 **Outubro de 2025**
 
@@ -52,7 +42,7 @@ Adição de informações sobre [redefinição da Adobe ID](../features/account-
 
 **Fevereiro de 2025**
 
-Adicionado [Gerenciar usuários e produtos no CX Enterprise](../administration/admin-console.md). Esta página ajuda os administradores a localizar a ajuda do gerenciamento de usuários e produtos (Admin Console) para todos os aplicativos.
+Adição de [Gerenciar usuários e produtos no CX Enterprise](../administration/admin-console.md). Esta página ajuda os administradores a localizar a ajuda do gerenciamento de usuários e produtos (Admin Console) para todos os aplicativos.
 
 **novembro de 2024**
 
@@ -66,7 +56,7 @@ Adição de ajuda sobre a [assinatura nas notificações do Slack](../features/a
 
 **26 de abril de 2024**
 
-Renovação completa da arquitetura de documentação. Adicionados também [endereços IP da Adobe CX Enterprise](../data-collection/ip-addresses.md) e [Coleta de dados regional](../data-collection/rdc.md).
+Renovação completa da arquitetura de documentação. Também foram adicionados [Endereços IP Empresariais do Adobe CX](../data-collection/ip-addresses.md) e [Coleta de dados regionais](../data-collection/rdc.md).
 
 **9 de abril de 2024**
 
@@ -113,11 +103,11 @@ A estrutura do manual e o índice foram reorganizados.
 
 **1 de junho de 2021**
 
-Atualização da [página de aterrissagem](../experience-cloud.md) com uma nova ajuda para acessar o CX Enterprise, a pesquisa global, as preferências e as notificações.
+Atualização da [landing page](../experience-cloud.md) com uma nova ajuda sobre como acessar o CX Enterprise, a pesquisa global, as preferências e as notificações.
 
 **19 de agosto de 2020**
 
-Atualização de [Exibir detalhes do usuário do CX Enterprise (Ferramenta administrativa)](../administration/admin-tool-experience-cloud.md) com informações de políticas.
+Atualização de [Exibir detalhes do usuário da CX Enterprise (Ferramenta administrativa)](../administration/admin-tool-experience-cloud.md) com informações de políticas.
 
 **19 de maio de 2020**
 
@@ -136,7 +126,7 @@ Atualização do [encaminhamento de validação do nome do host](../data-collect
 
 **20 de fevereiro de 2020**
 
-Adicionado [Exibir detalhes do usuário do CX Enterprise (Ferramenta administrativa)](../administration/admin-tool-experience-cloud.md).
+Adição de [Exibir detalhes do usuário da CX Enterprise (Ferramenta administrativa)](../administration/admin-tool-experience-cloud.md).
 
 **Atualizado: 5/9/2018**
 
@@ -164,7 +154,7 @@ Atualização da definição de Dados brutos do Analytics em [Criar um público-
 
 **9 de maio de 2016**
 
-Adição de [Integrações do CX Enterprise](../administration/integrations.md), um resumo da documentação de integração.
+Adição das [Integrações da CX Enterprise](../administration/integrations.md), um resumo da documentação de integração.
 
 **11 de fevereiro de 2016**
 
@@ -172,11 +162,11 @@ Adição do [CX Enterprise Assets](../services/assets/experience-cloud-assets.md
 
 **15 de janeiro de 2015**
 
-Os usuários adicionados do CX Enterprise agora podem compartilhar pastas com a Creative Cloud e sincronizar ativos e comentários entre as duas nuvens. Consulte [Compartilhamento de ativos](../services/assets/share.md).
+Os usuários corporativos do CX adicionados agora podem compartilhar pastas com a Creative Cloud e sincronizar ativos e comentários entre os dois produtos. Consulte [Compartilhamento de ativos](../services/assets/share.md).
 
 **17 de julho de 2014**
 
-Adição de [Perguntas frequentes sobre o CX Enterprise](faq.md) para administradores.
+Adição de [Perguntas frequentes sobre a CX Enterprise](faq.md) para administradores.
 
 **22 de maio de 2014**
 

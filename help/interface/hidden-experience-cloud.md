@@ -1,15 +1,18 @@
 ---
-description: Saiba mais sobre os componentes de interface central para o CX Enterprise. Obtenha ajuda sobre a administração de usuários e produtos no Admin Console e ative aplicativos para os serviços da CX Enterprise. Obtenha ajuda sobre a Biblioteca de público-alvo, Atributos do cliente, CX Enterprise Assets e muito mais.
+description: Saiba mais sobre os componentes da interface central para o CX Enterprise. Obtenha ajuda sobre a administração de usuários e produtos no Admin Console e ative aplicativos para os serviços do CX Enterprise. Obtenha ajuda sobre a Biblioteca de público-alvo, Atributos do cliente, CX Enterprise Assets e muito mais.
 title: Administração e interface da Experience Cloud
 hide: true
-hidefromtoc: true
+hidefromtoc: 'yes'
 feature: Central Interface Components
 topic: Administration
 role: Admin
 level: Experienced
-source-git-commit: 1a77ef8d31211fb11c790152e78037a8c3b238a2
+TQID: 'https://experienceleague.adobe.com/sCznsFJ8wGaA-je8lk39b7DBMALtSFtD3aAl0Bb-K14'
+product_v2: id: e1971122-7081-4556-9222-8a31bd71800c
+topic_v2: id: bce87dde-a4ab-44c9-8a18-ad66e4ddb377id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
+source-git-commit: f01d85af42b8f2c27dbada8f73546bc6fe4bf710
 workflow-type: tm+mt
-source-wordcount: '504'
+source-wordcount: 504
 ht-degree: 50%
 
 ---
@@ -20,11 +23,11 @@ O [CX Enterprise](https://experience.adobe.com) é a família integrada de aplic
 
 30 de outubro oculto
 
-![CX Enterprise](assets/landing.png)
+![CX Empresa](assets/landing.png)
 
-No cabeçalho do CX Enterprise, é possível:
+No cabeçalho do CX Enterprise, você pode:
 
-* Acessar todos os aplicativos e serviços da CX Enterprise
+* Acesse todos os aplicativos e serviços do CX Enterprise
 * No menu Ajuda, pesquise pela documentação de produto, tutoriais e publicações da comunidade. Veja os resultados na Experience League.
 * Pesquise objetos comerciais globalmente usando uma pesquisa global (somente usuários da Experience Platform) no campo Pesquisa.
 * Gerencie as [preferências](features/account-preferences.md) da sua conta (alertas, notificações e assinaturas)
@@ -45,29 +48,29 @@ Faça logon e verifique se você está na [organização](administration/organiz
 
    A [organização](administration/organizations.md) é exibida no cabeçalho da interface.
 
-   Se sua organização usa Federated IDs, a CX Enterprise permite fazer logon com o logon único de sua organização sem precisar inserir seu endereço de email e senha. Adicione `#/sso:@domain` à URL do CX Enterprise (`https://experience.adobe.com`) para realizar esta tarefa.
+   Se sua organização usa Federated IDs, o CX Enterprise permite que você faça logon com o logon único de sua organização sem precisar inserir seu endereço de email e senha. Adicione `#/sso:@domain` ao CX Enterprise URL (`https://experience.adobe.com`) para realizar esta tarefa.
 
    Por exemplo, para uma organização com Federated IDs e o domínio `example.com`, defina o link do URL para `https://experience.adobe.com/#/sso:@example.com`. Você também pode ir diretamente para um aplicativo específico marcando esse URL, anexado com o caminho do aplicativo. (Por exemplo, para Adobe Analytics, `https://experience.adobe.com/#/sso:@example.com/analytics`.)
 
-## Acessar aplicativos do CX Enterprise {#navigation}
+## Acesse os aplicativos corporativos da CX {#navigation}
 
-Depois de fazer logon no CX Enterprise, você pode acessar rapidamente todos os aplicativos, serviços e organizações pelo cabeçalho unificado.
+Depois de fazer logon no CX Enterprise, você pode acessar rapidamente todos os seus aplicativos, serviços e organizações pelo cabeçalho unificado.
 
 Para acessar os aplicativos e serviços do CX Enterprise fornecidos para você em sua organização, acesse o seletor de aplicativos ![menu](assets/apps-icon.png).
 
-![Acessar aplicativos da CX Enterprise](assets/platform-core-services.png)
+![Acessar aplicativos CX Enterprise](assets/platform-core-services.png)
 
 ## Obter ajuda e suporte {#support}
 
-Acesse o aprendizado e a ajuda usando o **[!UICONTROL Help center]** (![ativo](assets/help-icon.png)) no cabeçalho, incluindo o conteúdo da ajuda (documentação, tutoriais e cursos) no [Experience League](https://experienceleague.adobe.com/pt-br?lang=pt-BR#home), bem como recursos adicionais para aplicativos individuais. Você também pode enviar feedback aberto e criar tíquetes de suporte priorizados.
+Acesse o aprendizado e a ajuda usando o **[!UICONTROL Help center]** (![ativo](assets/help-icon.png)) no cabeçalho, incluindo o conteúdo da ajuda (documentação, tutoriais e cursos) no [Experience League](https://experienceleague.adobe.com/?lang=pt-BR#home), bem como recursos adicionais para aplicativos individuais. Você também pode enviar feedback aberto e criar tíquetes de suporte priorizados.
 
 ![Obter ajuda e suporte](assets/search-menu.png)
 
 O menu [!UICONTROL Help] também oferece acesso a:
 
 * **[!UICONTROL Support]:** Crie um tíquete de suporte ou contate [!UICONTROL Support] usando o Twitter.
-* **[!UICONTROL Feedback]:** Compartilhe um comentário sobre a sua experiência com o CX Enterprise. Seu feedback é usado para melhorar os produtos e serviços do Adobe.
-* **[!UICONTROL Status]:** Navegue até `https://status.adobe.com/pt-br/experience_cloud` e verifique o status operacional do produto e [!UICONTROL Manage Subscriptions].
+* **[!UICONTROL Feedback]:** Compartilhe comentários sobre a sua experiência no CX Enterprise. Seu feedback é usado para melhorar os produtos e serviços do Adobe.
+* **[!UICONTROL Status]:** Navegue até `https://status.adobe.com/experience_cloud` e verifique o status operacional do produto e [!UICONTROL Manage Subscriptions].
 * **[!UICONTROL Developer Connection]:** Navegue até `adobe.io` e encontre a documentação do desenvolvedor.
 
 ## Gerenciar seu perfil de usuário
@@ -75,7 +78,7 @@ O menu [!UICONTROL Help] também oferece acesso a:
 No menu [!UICONTROL Profile], é possível:
 
 * Especificar um tema escuro (nem todos os aplicativos são compatíveis com esse tema)
-* Gerenciar [Preferências](features/account-preferences.md) do CX Enterprise
+* Gerenciar [Preferências](features/account-preferences.md) da CX Enterprise
 * Selecione ou pesquise por uma [Organização](administration/organizations.md)
 * Visualização [!UICONTROL Legal Notices]
 * Fazer logoff

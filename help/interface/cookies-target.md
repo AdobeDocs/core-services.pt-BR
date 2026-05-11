@@ -8,10 +8,13 @@ topic: Administration
 role: Admin
 level: Experienced
 exl-id: c4399cc0-8333-47b8-b830-2ba7359f464a
-source-git-commit: 27b9b789e0d4c448105f5acec3aa05c9404443bf
+TQID: 'https://experienceleague.adobe.com/y-WrcNEgQshJIIFFfol6-bjv2eMamVYhFOR7Y6tMgZo'
+product_v2: id: e1971122-7081-4556-9222-8a31bd71800c
+topic_v2: id: b5ce8718-c3af-4fdb-a1a9-fca32f83a87cid: eddd9b14-83bd-4ff4-9072-54a4a484abb7
+source-git-commit: f01d85af42b8f2c27dbada8f73546bc6fe4bf710
 workflow-type: tm+mt
-source-wordcount: '659'
-ht-degree: 9%
+source-wordcount: 753
+ht-degree: 17%
 
 ---
 
@@ -23,9 +26,9 @@ O [!DNL Adobe Target] usa cookies para fornecer aos operadores de site a capacid
 >
 >As informações deste artigo se aplicam somente à [[!DNL Target] biblioteca at.js de JavaScript](https://experienceleague.adobe.com/docs/target-dev/developer/client-side/at-js-implementation/functions-overview/targetglobalsettings.html?lang=pt-BR){target=_blank}.
 >
->Para obter informações sobre cookies usados em uma implementação do [!DNL Target] usando o [[!DNL Adobe Experience Platform Web SDK]](https://experienceleague.adobe.com/docs/experience-platform/edge/home.html?lang=pt-BR){target=_blank}, consulte &quot;O [!DNL Adobe Experience Platform Web SDK] usa cookies? Em caso afirmativo, quais cookies ele usa?&quot; em [[!DNL Perguntas frequentes no guia de visão geral do Platform Web SDK]](https://experienceleague.adobe.com/docs/experience-platform/edge/web-sdk-faq.html?lang=pt-BR){target=_blank}.
+>Para obter informações sobre cookies usados em uma implementação do [!DNL Target] usando o [[!DNL Adobe Experience Platform Web SDK]](https://experienceleague.adobe.com/docs/experience-platform/edge/home.html?lang=pt-BR){target=_blank}, consulte &quot;O [!DNL Adobe Experience Platform Web SDK] usa cookies? Em caso afirmativo, quais cookies ele usa?&quot; em [Perguntas frequentes no guia de visão geral do DNL Platform Web SDK](https://experienceleague.adobe.com/docs/experience-platform/edge/web-sdk-faq.html){target=_blank}.
 >
->Você pode alterar as configurações discutidas neste artigo, se necessário, exceto pela duração do cookie. [Consulte seu representante de conta](https://experienceleague.adobe.com/docs/target/using/cmp-resources-and-contact-information.html?lang=pt-BR){target=_blank} ao alterar as configurações de cookie.
+>Você pode alterar as configurações discutidas neste artigo, se necessário, exceto pela duração do cookie. [Consulte seu representante de conta](https://experienceleague.adobe.com/docs/target/using/cmp-resources-and-contact-information.html){target=_blank} ao alterar as configurações de cookie.
 >
 >[!DNL Target] usuários também podem criar cookies de terceiros personalizados.
 

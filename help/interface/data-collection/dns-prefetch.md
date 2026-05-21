@@ -1,5 +1,5 @@
 ---
-description: Saiba como implementar a pré-busca DNS para ajudar a reduzir os tempos de carregamento de página de diferentes aplicativos e serviços na CX Enterprise.
+description: Saiba como implementar a pré-busca de DNS para ajudar a reduzir os tempos de carregamento de página de diferentes aplicativos e serviços no CX Enterprise.
 solution: Experience Cloud
 title: Usar pré-busca DNS
 uuid: 4220e223-e00e-46b1-8bde-52248913bea1
@@ -19,7 +19,7 @@ role_v2:
   - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
 topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
-source-git-commit: 1a77ef8d31211fb11c790152e78037a8c3b238a2
+source-git-commit: 50012e2564e88e1a6e16578e3331136c7df0cb21
 workflow-type: tm+mt
 source-wordcount: 350
 ht-degree: 77%
@@ -34,14 +34,14 @@ Implemente a pré-busca de DNS para ajudar a reduzir os tempos de carregamento d
 
 Os navegadores usam a pré-busca DNS para resolver automaticamente os nomes de domínio vinculados em uma página da Web aos endereços IP correspondentes. O processo de pré-busca é inciado quando o navegador carrega uma página da Web. Como exemplo, considere que sua página contém um link que pode ser selecionado para `www.adobe.com`. Quando um navegador carrega essa página, ele usa o _sistema DNS_ para buscar o nome do domínio vinculado e resolvê-lo em um endereço IP numérico correspondente. A pré-busca DNS ajuda a melhorar o desempenho da página porque o nome do domínio já está resolvido a um endereço IP antes que um visitante do site clique nesse link ou botão. O processo de pré-busca DNS é transparente para os usuários.
 
-## Pré-busca DNS e aplicativos Adobe CX Enterprise
+## Pré-busca DNS e aplicativos corporativos do Adobe CX
 
 A pré-busca de DNS funciona automaticamente com links estáticos e incorporados em uma página. Isso também significa que a pré-busca de DNS automática não funciona com diferentes aplicativos e serviços do [!UICONTROL CX Enterprise] porque:
 
-* Cada aplicativo ou serviço do CX Enterprise gera chamadas DNS dinamicamente à medida que a página é carregada.
+* Cada aplicativo ou serviço corporativo CX gera chamadas DNS dinamicamente à medida que a página é carregada.
 * O navegador não pode resolver nomes de domínio para o endereço IP antes que essas chamadas sejam feitas.
 
-No entanto, é possível implementar a pré-busca de DNS manualmente com os aplicativos da CX Enterprise. Para isso, adicione a tag HTML `<dns-prefetch>` à seção `<head>` do código da página, como mostrado abaixo. Quando implementado adequadamente, a pré-busca DNS pode ajudar a economizar alguns milissegundos de tempo de carregamento da página.
+No entanto, você pode implementar a pré-busca de DNS manualmente com os aplicativos corporativos do CX. Para isso, adicione a tag HTML `<dns-prefetch>` à seção `<head>` do código da página, como mostrado abaixo. Quando implementado adequadamente, a pré-busca DNS pode ajudar a economizar alguns milissegundos de tempo de carregamento da página.
 
 ## Amostras de código de pré-busca DNS
 
@@ -53,7 +53,7 @@ Os seguintes exemplos mostram como fazer chamadas de pré-busca de DNS para dife
 
 * **Audience Manager:** `<link rel="dns-prefetch" href="//dpm.demdex.net">`
 
-* **Serviço da CX Enterprise ID:** `<link rel="dns-prefetch" href="//fast.examplepartnerid.demdex.net">`
+* **Serviço CX Enterprise ID:** `<link rel="dns-prefetch" href="//fast.examplepartnerid.demdex.net">`
 
 * **Advertising Cloud:**
 

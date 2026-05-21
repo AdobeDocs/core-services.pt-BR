@@ -1,5 +1,5 @@
 ---
-description: Saiba mais sobre os requisitos de arquivos de dados e as múltiplas fontes de dados para carregar dados do  [!DNL Customer Attributes]  no CX Enterprise.
+description: Saiba mais sobre as exigências de arquivos de dados e múltiplas fontes de dados para fazer upload de dados no  [!DNL Customer Attributes]  para o CX Enterprise.
 solution: Experience Cloud
 title: Arquivo de dados do atributo do cliente e fontes de dados
 feature: Customer Attributes
@@ -19,7 +19,7 @@ role_v2:
   - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
 topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
-source-git-commit: 1a77ef8d31211fb11c790152e78037a8c3b238a2
+source-git-commit: 50012e2564e88e1a6e16578e3331136c7df0cb21
 workflow-type: tm+mt
 source-wordcount: 1182
 ht-degree: 59%
@@ -30,7 +30,7 @@ ht-degree: 59%
 
 As exigências de arquivos de dados e múltiplas fontes de dados para fazer upload dos dados de atributos do cliente no CX Enterprise.
 
-Você precisará acessar o CRM ou dados semelhantes da sua empresa. Os dados que você carregou para o CX Enterprise devem ser um arquivo `.csv`. Ao fazer upload via FTP ou sFTP, você também fará upload de um arquivo `.fin`.
+Você precisará acessar o CRM ou dados semelhantes da sua empresa. Os dados dos quais você fez upload no CX Enterprise devem ser um arquivo `.csv`. Ao fazer upload via FTP ou sFTP, você também fará upload de um arquivo `.fin`.
 
 O [!DNL Customer Attributes] foi criado para lidar com alguns arquivos por dia. Para mitigar o problema de um grande número de arquivos pequenos que atrasam o processamento, os arquivos enviados dentro de 30 minutos após o envio de um lote anterior da mesma organização são encaminhados para uma fila de prioridade mais baixa.
 
@@ -70,7 +70,7 @@ O mesmo arquivo exibido em um editor de texto:
   </tr> 
   <tr> 
    <td colname="col1"> <p>coluna de ID do cliente </p> </td> 
-   <td colname="col2"> <p> A primeira coluna deve ser um identificador exclusivo do cliente. A ID usada deve corresponder à ID transmitida ao Serviço da CX Enterprise ID. </p> <p>No Analytics, a ID que está sendo armazenada em uma prop ou eVar. </p> <p>Para o Target, o valor setcustomerID. </p> <p> Essa ID do cliente é o identificador exclusivo que seu CRM usa para cada pessoa no banco de dados. As outras colunas são atributos provenientes do seu CRM. Você escolhe quantos atributos serão carregados. </p> <p>Recomendamos usar nomes amigáveis e legíveis nos cabeçalhos da coluna, embora isso não seja obrigatório. Ao validar o esquema após o carregamento, é possível mapear nomes amigáveis para as linhas e colunas carregadas. </p> <p> <b>Sobre as IDs do cliente</b> </p> <p>Normalmente, uma empresa usa uma ID do cliente de um sistema de CRM. Essa ID é definida ao utilizar a chamada </span> setcustomerIDs <span class="codeph"> quando uma pessoa faz logon. Essa ID também é usada como a chave no arquivo CRM que é carregado para o CX Enterprise. <a href="t-crs-usecase.md" format="dita" scope="local">ID alias</a> é um nome amigável para um armazenamento de dados no Audience Manager, onde os dados do alias são armazenados. O sistema envia aliases para esse armazenamento de dados (via setcustomerIDs). O arquivo CRM é aplicado aos dados nesse armazenamento de dados. </p> <p>Para obter informações sobre <span class="codeph"> setcustomerIDs </span>, consulte <a href="https://experienceleague.adobe.com/docs/id-service/using/reference/authenticated-state.html?lang=pt-BR" format="https" scope="external"> IDs do cliente e Estados de autenticação </a>. </p> </td> 
+   <td colname="col2"> <p> A primeira coluna deve ser um identificador exclusivo do cliente. A ID usada deve corresponder à ID transmitida ao CX Enterprise ID Service. </p> <p>No Analytics, a ID que está sendo armazenada em uma prop ou eVar. </p> <p>Para o Target, o valor setcustomerID. </p> <p> Essa ID do cliente é o identificador exclusivo que seu CRM usa para cada pessoa no banco de dados. As outras colunas são atributos provenientes do seu CRM. Você escolhe quantos atributos serão carregados. </p> <p>Recomendamos usar nomes amigáveis e legíveis nos cabeçalhos da coluna, embora isso não seja obrigatório. Ao validar o esquema após o carregamento, é possível mapear nomes amigáveis para as linhas e colunas carregadas. </p> <p> <b>Sobre as IDs do cliente</b> </p> <p>Normalmente, uma empresa usa uma ID do cliente de um sistema de CRM. Essa ID é definida ao utilizar a chamada </span> setcustomerIDs <span class="codeph"> quando uma pessoa faz logon. Essa ID também é usada como a chave no arquivo CRM que é carregado para o CX Enterprise. <a href="t-crs-usecase.md" format="dita" scope="local">ID alias</a> é um nome amigável para um armazenamento de dados no Audience Manager, onde os dados do alias são armazenados. O sistema envia aliases para esse armazenamento de dados (via setcustomerIDs). O arquivo CRM é aplicado aos dados nesse armazenamento de dados. </p> <p>Para obter informações sobre <span class="codeph"> setcustomerIDs </span>, consulte <a href="https://experienceleague.adobe.com/docs/id-service/using/reference/authenticated-state.html?lang=pt-BR" format="https" scope="external"> IDs do cliente e Estados de autenticação </a>. </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p>Cabeçalhos e colunas subsequentes </p> </td> 
@@ -78,7 +78,7 @@ O mesmo arquivo exibido em um editor de texto:
   </tr> 
   <tr> 
    <td colname="col1"> <p>limites de atributo </p> </td> 
-   <td colname="col2"> <p>Você pode carregar centenas de <span class="filepath"> colunas de </span> do .csv para o serviço de atributos do cliente na CX Enterprise. No entanto, ao configurar assinaturas e selecionar atributos, os seguintes limites poderão ser aplicados dependendo dos aplicativos que possui: </p> <p> 
+   <td colname="col2"> <p>Você pode fazer upload de centenas de colunas <span class="filepath"> .csv </span> para o serviço de atributos do cliente na CX Enterprise. No entanto, ao configurar assinaturas e selecionar atributos, os seguintes limites poderão ser aplicados dependendo dos aplicativos que possui: </p> <p> 
      <ul id="ul_2BB85067918D4BB3B59394F3E3E37A6D"> 
       <li id="li_93703988B9934384B4B94A839D028380"> <b>Analytics Standard</b>: 3 total </li> 
       <li id="li_D1E5E7BD24C54591B14D15DE97447835"> <b>Analytics Premium</b>: 200 por conjunto de relatórios </li> 
@@ -122,7 +122,7 @@ O mesmo arquivo exibido em um editor de texto:
   </tr> 
    <tr> 
    <td colname="col1"> <p>Dados históricos </p> </td> 
-   <td colname="col2"> <p> Os atributos do cliente estão ligados ao perfil de visitante subjacente em [!DNL Analytics]. Sendo assim, [!DNL Customer Attributes] estão associados ao visitante por toda a vida do perfil do visitante em [!DNL Analytics]. Isso inclui comportamentos registrados antes do primeiro logon do cliente. </p> <p> Se você usa o método de preenchimento retroativo do Data Warehouse, os dados são ligados a um post_visid_high/low com base na ID do Analytics (AID). Se você estiver usando o Serviço da CX Enterprise ID, os dados serão vinculados a um post_visid_high/low com base na CX Enterprise ID (MID). </p> <p> Observe que o método de preenchimento retroativo do Data Warehouse não estará mais disponível a partir de outubro de 2022. </td> 
+   <td colname="col2"> <p> Os atributos do cliente estão ligados ao perfil de visitante subjacente em [!DNL Analytics]. Sendo assim, [!DNL Customer Attributes] estão associados ao visitante por toda a vida do perfil do visitante em [!DNL Analytics]. Isso inclui comportamentos registrados antes do primeiro logon do cliente. </p> <p> Se você usa o método de preenchimento retroativo do Data Warehouse, os dados são ligados a um post_visid_high/low com base na ID do Analytics (AID). Se você estiver usando o CX Enterprise ID Service, os dados serão vinculados a um post_visid_high/low com base no CX Enterprise ID (MID). </p> <p> Observe que o método de preenchimento retroativo do Data Warehouse não estará mais disponível a partir de outubro de 2022. </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p>Feeds de dados </p> </td> 
@@ -137,7 +137,7 @@ Ao criar, modificar ou excluir fontes de atributos do cliente, ocorre um atraso 
 
 A ID do alias de cada fonte de atributo do cliente deve ser exclusiva. Se você tiver múltiplas fontes de dados que utilizam a mesma ID, elas deverão ser configuradas da seguinte maneira:
 
-**Em VisitorAPI.js ou na ferramenta da CX Enterprise ID no Dynamic Tag Management:**
+**Em VisitorAPI.js ou na ferramenta CX Enterprise ID no Dynamic Tag Management:**
 
 Defina duas IDs do cliente que correspondam às fontes de dados apropriadas:
 

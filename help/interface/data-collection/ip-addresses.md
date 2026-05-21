@@ -11,7 +11,7 @@ role_v2:
 topic_v2:
   - id: d3cdead0-685a-4489-9250-4bb709942f66
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
-source-git-commit: a42153ba5a885509e7735e7407e38586fcabb0ad
+source-git-commit: 50012e2564e88e1a6e16578e3331136c7df0cb21
 workflow-type: tm+mt
 source-wordcount: 426
 ht-degree: 8%
@@ -26,7 +26,7 @@ Algumas configurações de firewall bloqueiam endereços IP dos servidores de co
 >
 >Embora a Adobe faça o possível para manter esse documento atualizado, não é possível garantir que a lista de intervalos IP permanecerá a mesma. As possíveis alterações incluem o crescimento e a expansão dos negócios, um registro da Internet exige alterações no espaço de endereço IP da Adobe ou um provedor de serviços de Internet deixa de funcionar.
 
-Além dos blocos de endereço IP listados abaixo, os produtos Adobe CX Enterprise individuais têm seus próprios endereços IP que usam:
+Além dos blocos de endereço IP listados abaixo, os produtos Adobe CX Enterprise individuais têm seus próprios endereços IP usados:
 
 * [Adobe Analytics](https://experienceleague.adobe.com/pt-br/docs/analytics/technotes/ip-addresses)
 * [Customer Journey Analytics](https://experienceleague.adobe.com/pt-br/docs/analytics-platform/using/technotes/ip-addresses)
@@ -49,12 +49,12 @@ A tabela a seguir abrange todos os endereços IP de propriedade da Adobe. Essa t
 
 {style="table-layout:auto"}
 
-## Coleta de dados do Adobe CX Enterprise e blocos de endereço IP de FTP
+## Coleta de dados corporativos Adobe CX e blocos de endereço IP FTP
 
 Se a empresa preferir permitir intervalos específicos de endereço IP, você pode consultar a tabela a seguir. O serviço inclui:
 
-* Servidores de coleção de dados para todos os produtos da CX Enterprise
-* Servidores FTP para todos os produtos da CX Enterprise
+* Servidores de coleta de dados para todos os produtos CX Enterprise
+* Servidores FTP para todos os produtos CX Enterprise
 
 Todos os intervalos IP desta seção estão incluídos na tabela acima.
 

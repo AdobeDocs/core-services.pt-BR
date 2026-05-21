@@ -21,7 +21,7 @@ role_v2:
   - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
 topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
-source-git-commit: 1a77ef8d31211fb11c790152e78037a8c3b238a2
+source-git-commit: 50012e2564e88e1a6e16578e3331136c7df0cb21
 workflow-type: tm+mt
 source-wordcount: 320
 ht-degree: 69%
@@ -30,12 +30,12 @@ ht-degree: 69%
 
 # Visão geral do CX Enterprise Assets
 
-O CX Enterprise Assets fornece um repositório único e centralizado de ativos prontos para marketing, que podem ser compartilhados entre aplicativos. Um ativo é um documento digital, imagem, vídeo ou áudio (ou parte dele) que pode ter várias representações e subativos (por exemplo, camadas em um arquivo do [!DNL Photoshop], slides em um arquivo do [!DNL PowerPoint], páginas em um PDF, arquivos em um ZIP).
+O CX Enterprise Assets fornece um repositório único e centralizado de ativos prontos para marketing, que podem ser compartilhados entre os aplicativos. Um ativo é um documento digital, imagem, vídeo ou áudio (ou parte dele) que pode ter várias representações e subativos (por exemplo, camadas em um arquivo do [!DNL Photoshop], slides em um arquivo do [!DNL PowerPoint], páginas em um PDF, arquivos em um ZIP).
 
 Os serviços de ativos incluem:
 
 * Armazenamento de ativos, interface de gerenciamento e de seleção incorporada (acessada por meio de aplicativos).
-* Integrações com a Creative Cloud, colaboração da CX Enterprise e aplicativos da CX Enterprise.
+* Integrações com aplicativos Creative Cloud, CX Enterprise Collaboration e CX Enterprise.
 
 Usar ativos melhora a consistência e a conformidade da marca, além de acelerar o tempo de comercialização. É possível simplificar os fluxos de trabalho nos aplicativos:
 
@@ -46,7 +46,7 @@ Usar ativos melhora a consistência e a conformidade da marca, além de acelerar
 
 ## Navegue até o CX Enterprise Assets
 
-![Navegar até o CX Enterprise Assets](../../assets/asset-nav.png)
+![Navegue até o CX Enterprise Assets](../../assets/asset-nav.png)
 
 ## Acessar a barra de ferramentas
 

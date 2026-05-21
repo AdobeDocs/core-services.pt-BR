@@ -1,5 +1,5 @@
 ---
-description: Saiba mais sobre o recurso Pesquisa unificada para determinados aplicativos na CX Enterprise.
+description: Saiba mais sobre o recurso de Pesquisa unificada para determinados aplicativos no CX Enterprise.
 solution: Experience Cloud
 title: Pesquisa unificada da Experience Cloud
 index: true
@@ -22,14 +22,14 @@ level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
 topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
-source-git-commit: 1a77ef8d31211fb11c790152e78037a8c3b238a2
+source-git-commit: 50012e2564e88e1a6e16578e3331136c7df0cb21
 workflow-type: tm+mt
 source-wordcount: 639
 ht-degree: 18%
 
 ---
 
-# [!UICONTROL Unified Search] no CX Enterprise
+# [!UICONTROL Unified Search] na CX Enterprise
 
 A pesquisa do [!UICONTROL Unified Search] permite encontrar objetos ou entidades comerciais pesquisáveis por meio de uma experiência contínua, consistente e com apenas um clique. Essa pesquisa também exibe os objetos acessados recentemente.
 
@@ -37,7 +37,7 @@ A pesquisa do [!UICONTROL Unified Search] permite encontrar objetos ou entidades
 
 ## Acesso ao [!UICONTROL Unified Search]
 
-O [!UICONTROL Unified Search] está disponível em todas as páginas no cabeçalho do CX Enterprise, na parte superior da página. Você também pode usar o atalho de teclado `command /` ou `ctrl /` para acessar a pesquisa.
+O [!UICONTROL Unified Search] está disponível em todas as páginas do cabeçalho do CX Enterprise na parte superior da página. Você também pode usar o atalho de teclado `command /` ou `ctrl /` para acessar a pesquisa.
 
 Esse recurso está disponível somente para os produtos compatíveis, que atualmente são:
 
@@ -56,7 +56,7 @@ Sua capacidade e permissões de objeto
 Porcentagem de correspondência
 Se há uma correspondência exata
 
-![[!UICONTROL Unified Search] no CX Enterprise](../assets/unified-search-results.png)
+![[!UICONTROL Unified Search] na CX Enterprise](../assets/unified-search-results.png)
 
 Os objetos comerciais pesquisáveis incluem:
 
@@ -77,7 +77,7 @@ Você também encontrará os artigos de ajuda da Experience League e das comunid
 
 Por exemplo, _Como criar um esquema_ produz resultados do Experience League em _[!UICONTROL Learning]_:
 
-![[!UICONTROL Unified Search] na Ajuda do CX Enterprise &#x200B;](../assets/unified-search-learning.png)
+![[!UICONTROL Unified Search] na Ajuda da CX Enterprise](../assets/unified-search-learning.png)
 
 Os algoritmos de pesquisa exibem os registros mais relevantes primeiro. A ordem dos resultados depende de vários fatores, como:
 

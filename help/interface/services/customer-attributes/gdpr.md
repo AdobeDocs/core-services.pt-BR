@@ -14,7 +14,7 @@ role_v2:
 topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
   - id: f4e6943a-c91a-4134-a2c7-f4f20cfff2f0
-source-git-commit: a42153ba5a885509e7735e7407e38586fcabb0ad
+source-git-commit: 50012e2564e88e1a6e16578e3331136c7df0cb21
 workflow-type: tm+mt
 source-wordcount: 407
 ht-degree: 82%
@@ -31,7 +31,7 @@ Esta página descreve como o [!DNL Customer Attributes] oferece suporte ao Regul
 
 O [Regulamento Geral sobre a Proteção de Dados](https://business.adobe.com/br/privacy/general-data-protection-regulation.html), uma lei em vigor desde 25 de maio de 2018 concede a todos os indivíduos (titulares de dados) dentro das fronteiras da União Europeia (UE) o controle de seus dados pessoais. Também simplifica o ambiente regulamentar para os negócios internacionais. Esta lei se aplica a todos os negócios (controladores de dados) que oferecem bens ou serviços para monitorar o comportamento ou coletar dados pessoais de indivíduos dentro das fronteiras da UE no momento em que seus dados pessoais são processados, independentemente da localização comercial do controlador de dados.
 
-A Adobe CX Enterprise atua como um processador de dados para todos os dados pessoais que recebe e armazena em nome de seus clientes. Como controlador de dados, você determinará os dados pessoais que a Adobe CX Enterprise processa e armazena em seu nome.
+O Adobe CX Enterprise atua como um processador de dados para todos os dados pessoais que recebe e armazena em nome de seus clientes. Como controlador de dados, você determinará os dados pessoais que o Adobe CX Enterprise processa e armazena em seu nome.
 
 Este documento descreve como o [!DNL Customer Attributes] oferece suporte aos direitos de acesso e exclusão de dados de titulares do RGPD usando a Adobe Experience Platform Privacy Service API e a interface do Privacy Service.
 

@@ -1,6 +1,6 @@
 ---
 title: Gerenciamento de licenças de usuários e produtos
-description: Gerencie usuários e licenças de produto no Admin Console para aplicativos CX Enterprise.
+description: Gerencie usuários e licenças de produtos no Admin Console para aplicativos CX Enterprise.
 application: Experience Cloud
 index: true
 feature: Admin Console
@@ -8,19 +8,28 @@ topic: Administration
 role: Admin
 level: Experienced
 exl-id: c82821c4-aa5d-48ae-8bef-5937fede8db2
-TQID: https://experienceleague.adobe.com/ojHy0Am9T1T7Zu5EpR3jLynQ-dotvhcn6usRynb5TXo
+autotag-review: '2026-05-12T21:16:07.250Z'
+TQID: 'https://experienceleague.adobe.com/tONTr5mo5qLUxNS-q-uHGMCc5jKkURApIR-2RW0aV3w'
 product_v2:
   - id: e1971122-7081-4556-9222-8a31bd71800c
+  - id: d0a3eab4-7b10-4d96-a71e-6c0f8e7b7c87
+feature_v2:
+  - id: fdbb8fc9-ffa3-4b86-88fe-aa4c5a3e1bc6
+subfeature_v2:
+  - id: eb7e29b9-c5e9-4ed0-8e4b-6465dabb3cb1
+  - id: f1299f18-ec4b-4531-b2a2-df3b94ff9a68
 role_v2:
   - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
 topic_v2:
+  - id: bce87dde-a4ab-44c9-8a18-ad66e4ddb377
   - id: c7d04a2c-412a-4c9d-9d7a-4456eaa5adeb
+  - id: d00e9f03-e50b-4162-b143-0c0817c937c2
   - id: d095671a-1355-40aa-8b5f-06c33c68080b
   - id: d3cdead0-685a-4489-9250-4bb709942f66
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
   - id: f4e6943a-c91a-4134-a2c7-f4f20cfff2f0
-source-git-commit: 1a77ef8d31211fb11c790152e78037a8c3b238a2
+source-git-commit: 25446910430bf15dcfa0fc70e25e0681f9faeb95
 workflow-type: tm+mt
 source-wordcount: 1054
 ht-degree: 7%
@@ -31,7 +40,7 @@ ht-degree: 7%
 
 Você pode gerenciar usuários e licenças de produtos na Adobe [Admin Console](https://adminconsole.adobe.com/enterprise/). Para obter ajuda sobre o gerenciamento de identidade geral aplicável a todos os aplicativos da Adobe, consulte o [Guia de administração de empresas e equipes](https://helpx.adobe.com/br/enterprise/admin-guide.html).
 
-Esta página fornece informações úteis especificamente para administradores do CX Enterprise, define funções e fornece links para tópicos comuns de gerenciamento de usuários e produtos no guia corporativo.
+Esta página fornece informações úteis especificamente para administradores do CX Enterprise, define funções e fornece links para tópicos comuns de gerenciamento de usuários e produtos no guia do Enterprise.
 
 ## Funções administrativas no Admin Console
 
@@ -45,7 +54,7 @@ O Admin Console fornece três funções administrativas principais, cada uma com
 
 ## Admin Console para CX Enterprise
 
-Para gerenciar licenças de identidade e de produto para aplicativos CX Enterprise, navegue até a [Admin Console](https://adminconsole.adobe.com/enterprise/).
+Para gerenciar a identidade e as licenças de produtos para aplicativos CX Enterprise, navegue até o [Admin Console](https://adminconsole.adobe.com/enterprise/).
 
 Estes são recursos que você pode precisar ao começar a usar o administrador no Admin Console:
 
@@ -54,7 +63,7 @@ Estes são recursos que você pode precisar ao começar a usar o administrador n
 | Link de ajuda | Descrição |
 | ------- | ------ |
 | [Configurar identidade e logon único](https://helpx.adobe.com/br/enterprise/using/set-up-identity.html) | **[!UICONTROL Admin Console]** > **[!UICONTROL Settings]** <br> Saiba como configurar as contas dos seus usuários com tipos de ID diferentes com ou sem logon único (SSO). Configure o SSO para o software Adobe, defina as configurações do SAML e passe pelas perguntas e erros mais comuns. |
-| [Configurar organização via relação de confiança de diretório](https://helpx.adobe.com/br/enterprise/using/directory-trust.html) | Autentique seus usuários em um domínio já reivindicado por outra organização. Para obter informações sobre como localizar e alternar organizações, consulte [Organizações na CX Enterprise](organizations.md). |
+| [Configurar organização via relação de confiança de diretório](https://helpx.adobe.com/br/enterprise/using/directory-trust.html) | Autentique seus usuários em um domínio já reivindicado por outra organização. Para obter informações sobre como localizar e alternar organizações, consulte [Organizações no CX Enterprise](organizations.md). |
 | [Configurações de autenticação (empresa)](https://helpx.adobe.com/br/enterprise/using/authentication-settings.html) | O Admin Console oferece suporte a vários níveis de proteção por senha e políticas para garantir a segurança. Você pode optar por usar um nível de proteção por senha para aplicar a todos os usuários em sua organização. |
 | [Contatos de privacidade e segurança](https://helpx.adobe.com/br/enterprise/using/security-contacts.html) | Proteja os dados de sua organização e de seus usuários. Se ocorrer um incidente de segurança envolvendo nossas soluções de software, as notificações serão enviadas aos responsáveis pela conformidade apropriados. As empresas têm pessoal cuja função é específica para proteção de dados, integridade e outros assuntos de conformidade. Portanto, as informações de contato dessa equipe são essenciais para ajudar a garantir uma notificação imediata no caso de um incidente de segurança. |
 
@@ -66,7 +75,7 @@ Estes são recursos que você pode precisar ao começar a usar o administrador n
 | [Gerenciar vários usuários](https://helpx.adobe.com/br/enterprise/using/bulk-upload-users.html) | **[!UICONTROL Admin Console]** > **[!UICONTROL Users]** <br>Saiba como gerenciar vários usuários por meio do carregamento em massa CSV para a Admin Console. |
 | [Tipos de identidade](https://helpx.adobe.com/br/enterprise/using/identity.html) | Os tipos de identidade permitem que a organização tenha diferentes níveis de controle sobre as contas e os dados dos usuários. Sua escolha de modelo de identidade afeta como sua organização armazena e compartilha ativos. Embora os modelos do Federated ID e do Enterprise ID sejam criados e gerenciados pela organização, as Adobe IDs são criadas e gerenciadas pelo indivíduo. |
 | [Ferramenta de Sincronização de Usuário](https://helpx.adobe.com/br/enterprise/using/user-sync.html) (UST) | A Ferramenta de sincronização de usuários do Adobe é um aplicativo de desktop usado para automatizar a sincronização de dados de usuários entre o sistema de gerenciamento de identidades de uma organização (como o Ative Diretory) e a Adobe Admin Console. A ferramenta permite que os administradores simplifiquem o provisionamento, as atualizações e a desativação de usuários nos produtos da Adobe. |
-| [Exibir detalhes do usuário (Ferramenta Administrativa)](admin-tool-experience-cloud.md) | Exiba uma lista classificável e filtrável de todos os usuários e políticas da CX Enterprise com detalhes no [!UICONTROL Admin Tool]. |
+| [Exibir detalhes do usuário (Ferramenta Administrativa)](admin-tool-experience-cloud.md) | Exiba uma lista classificável e filtrável de todos os usuários e políticas do CX Enterprise com detalhes no [!UICONTROL Admin Tool]. |
 
 ### Relatórios e logs
 
@@ -77,7 +86,7 @@ Estes são recursos que você pode precisar ao começar a usar o administrador n
 
 ## Recursos específicos do aplicativo
 
-Esses links ajudam a encontrar informações de administração para aplicativos CX Enterprise específicos.
+Esses links o ajudarão a encontrar informações de administração para aplicativos específicos do CX Enterprise.
 
 <!--
 | Application | Link to resource|
@@ -94,7 +103,7 @@ Esses links ajudam a encontrar informações de administração para aplicativos
 | [!DNL Journey Optimizer] | [Manage users and roles](https://experienceleague.adobe.com/pt-br/docs/journey-optimizer/using/access-control/permissions) |
 | [!DNL Journey Optimizer B2B Edition] | [User management](https://experienceleague.adobe.com/pt-br/docs/journey-optimizer-b2b/user/admin/user-management) |
 |[!DNL  Journey Orchestration] | [Access management](https://experienceleague.adobe.com/pt-br/docs/journeys/using/starting-with-journeys/access-management) |
-| [!DNL Marketo Engage] | [Understanding Marketo Subscription and User Migration to the Adobe Admin Console](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/subscription-and-user-migration/understanding-marketo-subscription-and-user-migration-to-the-adobe-admin-console) |
+| [!DNL Marketo Engage] | [Understanding Marketo Subscription and User Migration to the Adobe Admin Console](https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/subscription-and-user-migration/understanding-marketo-subscription-and-user-migration-to-the-adobe-admin-console) |
 | [!DNL Marketo Measure] | [Adobe Admin Console Setup](https://experienceleague.adobe.com/pt-br/docs/marketo-measure/using/configuration-and-setup/getting-started-with-marketo-measure/adobe-admin-console-setup) |
 | [!DNL Mix Modeler] | [Access controls](https://experienceleague.adobe.com/pt-br/docs/mix-modeler/using/data-governance/access-controls) |
 | [!DNL Pass] | [Get started with Account IQ](https://experienceleague.adobe.com/en/docs/pass/aiq-help/get-started) |
@@ -115,9 +124,9 @@ Esses links ajudam a encontrar informações de administração para aplicativos
 * [Experience Platform](https://experienceleague.adobe.com/pt-br/docs/experience-platform/access-control/ui/overview) e [Coleção de dados](https://experienceleague.adobe.com/pt-br/docs/experience-platform/collection/permissions)
 * [GenStudio for Performance Marketing](https://experienceleague.adobe.com/pt-br/docs/genstudio-for-performance-marketing/user-guide/intro/product-provisioning)
 * [Journey Optimizer](https://experienceleague.adobe.com/pt-br/docs/journey-optimizer/using/access-control/permissions)
-* [Journey Optimizer B2B Edition](https://experienceleague.adobe.com/pt-br/docs/journey-optimizer-b2b/user/admin/user-management)
+* [Journey Optimizer B2B edition](https://experienceleague.adobe.com/pt-br/docs/journey-optimizer-b2b/user/admin/user-management)
 * [Journey Orchestration](https://experienceleague.adobe.com/pt-br/docs/journeys/using/starting-with-journeys/access-management)
-* [Marketo Engage](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/subscription-and-user-migration/understanding-marketo-subscription-and-user-migration-to-the-adobe-admin-console)
+* [Marketo Engage](https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/subscription-and-user-migration/understanding-marketo-subscription-and-user-migration-to-the-adobe-admin-console)
 * [Marketo Measure](https://experienceleague.adobe.com/pt-br/docs/marketo-measure/using/configuration-and-setup/getting-started-with-marketo-measure/adobe-admin-console-setup)
 * [Mix Modeler](https://experienceleague.adobe.com/pt-br/docs/mix-modeler/using/data-governance/access-controls)
 * [Target](https://experienceleague.adobe.com/pt-br/docs/target/using/administer/start-target)

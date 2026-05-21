@@ -21,7 +21,7 @@ level_v2:
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
 topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
-source-git-commit: 1a77ef8d31211fb11c790152e78037a8c3b238a2
+source-git-commit: 50012e2564e88e1a6e16578e3331136c7df0cb21
 workflow-type: tm+mt
 source-wordcount: 242
 ht-degree: 40%
@@ -42,9 +42,9 @@ Se o seu navegador não estiver listado, talvez ainda seja suportado, mas é rec
 
 >[!NOTE]
 >
->Nem todos os aplicativos em execução no domínio CX Enterprise oferecem suporte a todos os navegadores. Se não tiver certeza, confira a documentação de um aplicativo específico.
+>Nem todos os aplicativos em execução no domínio CX Enterprise são compatíveis com todos os navegadores. Se não tiver certeza, confira a documentação de um aplicativo específico.
 
-## Suporte de idioma no CX Enterprise
+## Suporte de idiomas no CX Enterprise
 
 A interface do usuário do CX Enterprise está disponível nos seguintes idiomas:
 
@@ -75,7 +75,7 @@ Além disso, a formatação específica da localidade (como datas, horas, calend
 
 1. Em **[!UICONTROL Select language]**, selecione um idioma no menu **[!UICONTROL First language]**.
 
-   Embora todas as equipes de aplicativos estejam comprometidas com o suporte global aos idiomas, nem todos os aplicativos são oferecidos em todos os idiomas listados na interface. Se o seu idioma principal não tiver suporte em um aplicativo do CX Enterprise, você poderá definir um idioma padrão secundário, quando aplicável.
+   Embora todas as equipes de aplicativos estejam comprometidas com o suporte global aos idiomas, nem todos os aplicativos são oferecidos em todos os idiomas listados na interface. Se o seu idioma principal não for suportado em um aplicativo CX Enterprise, você poderá definir um idioma padrão secundário quando aplicável.
 
 1. Clique em **[!UICONTROL Save]**.
 

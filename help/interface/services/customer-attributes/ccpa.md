@@ -14,7 +14,7 @@ role_v2:
 topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
   - id: f4e6943a-c91a-4134-a2c7-f4f20cfff2f0
-source-git-commit: a42153ba5a885509e7735e7407e38586fcabb0ad
+source-git-commit: 50012e2564e88e1a6e16578e3331136c7df0cb21
 workflow-type: tm+mt
 source-wordcount: 402
 ht-degree: 52%
@@ -31,9 +31,9 @@ Esta página descreve o suporte de [!DNL Customer Attributes] para a California 
 
 A CCPA é a nova lei de privacidade da Califórnia, que entrou em vigor em 1º de janeiro de 2020. A CCPA fornece aos moradores da Califórnia novos direitos sobre suas informações pessoais e impõe responsabilidades de proteção de dados a determinadas entidades que exercem negócios na Califórnia. A CCPA dá aos consumidores o direito de acessar e apagar suas informações pessoais, bem como o direito de optar pela não participação em certas atividades qualificadas como &quot;venda&quot; de informações pessoais a terceiros.
 
-Como empresa, você determinará os dados pessoais que a Adobe CX Enterprise processa e armazena em seu nome.
+Como empresa, você determinará os dados pessoais que o Adobe CX Enterprise processa e armazena em seu nome.
 
-Como seu provedor de serviços, a Adobe CX Enterprise fornece suporte para que sua empresa cumpra as obrigações da CCPA aplicáveis ao uso de produtos e serviços da CX Enterprise. Isto inclui o gerenciamento de solicitações para acessar e excluir informações pessoais.
+Como seu provedor de serviços, o Adobe CX Enterprise oferece suporte para que sua empresa cumpra as obrigações da CCPA aplicáveis ao uso de produtos e serviços CX Enterprise. Isto inclui o gerenciamento de solicitações para acessar e excluir informações pessoais.
 
 Este documento descreve como o [!DNL Customer Attributes] oferece suporte aos direitos de acesso e exclusão de dados da CCPA para titulares de dados usando a API do Adobe Experience Platform Privacy Service e a interface do usuário do Privacy Service.
 

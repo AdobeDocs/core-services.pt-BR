@@ -1,5 +1,5 @@
 ---
-description: Saiba como compartilhar uma pasta de ativos do CX Enterprise com usuários do Creative Cloud.
+description: Saiba como compartilhar uma pasta de ativos da CX Enterprise com usuários da Creative Cloud.
 solution: Experience Cloud
 title: Compartilhar uma pasta de ativos da Experience Cloud
 uuid: 105cf627-0148-4bf8-ab6a-7afa612e198c
@@ -21,7 +21,7 @@ role_v2:
 topic_v2:
   - id: d095671a-1355-40aa-8b5f-06c33c68080b
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
-source-git-commit: 1a77ef8d31211fb11c790152e78037a8c3b238a2
+source-git-commit: 50012e2564e88e1a6e16578e3331136c7df0cb21
 workflow-type: tm+mt
 source-wordcount: 451
 ht-degree: 39%
@@ -30,7 +30,7 @@ ht-degree: 39%
 
 # Compartilhar uma pasta de ativos da CX Enterprise
 
-Compartilhe pastas e ativos entre a CX Enterprise e a Creative Cloud. Colabore, comente em ativos compartilhados e use-os nos aplicativos da CX Enterprise, como o Adobe Target. A pasta compartilhada deve se originar do CX Enterprise.
+Compartilhe pastas e ativos entre o CX Enterprise e o Creative Cloud. Colabore, comente em ativos compartilhados e use-os nos aplicativos CX Enterprise, como o Adobe Target. A pasta compartilhada deve se originar do CX Enterprise.
 
 **Benefícios do compartilhamento**
 
@@ -40,7 +40,7 @@ Compartilhe pastas e ativos entre a CX Enterprise e a Creative Cloud. Colabore, 
 * Aproveite o aumento da segurança corporativa
 * Compartilhe, salve e envie arquivos facilmente entre profissionais de criação e de marketing
 
-Antes de os usuários do Creative Cloud terem acesso aos ativos, eles devem ser incluídos na lista de permissões no CX Enterprise. Consulte [Gerenciar usuários da Creative Cloud](manage-cc-users.md).
+Antes de os usuários do Creative Cloud terem acesso aos ativos, eles devem estar incluídos na lista de permissões do CX Enterprise. Consulte [Gerenciar usuários da Creative Cloud](manage-cc-users.md).
 
 **Para compartilhar uma pasta de ativos da CX Enterprise**
 
@@ -67,7 +67,7 @@ Antes de os usuários do Creative Cloud terem acesso aos ativos, eles devem ser 
 
    ![Adicionar um comentário na imagem](../../assets/asset_comment_cc.png)
 
-   No CX Enterprise, selecione uma imagem e o ícone da linha do tempo para adicionar um comentário à imagem. Os comentários são sincronizados nos ativos na Creative Cloud e no CX Enterprise.
+   No CX Enterprise, selecione uma imagem e, em seguida, o ícone da linha do tempo para adicionar um comentário na imagem. Os comentários são sincronizados nos ativos da Creative Cloud e do CX Enterprise.
 
    ![Adicionar um comentário na imagem](../../assets/asset_comment_mac.png)
 

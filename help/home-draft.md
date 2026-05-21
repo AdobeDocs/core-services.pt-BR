@@ -1,5 +1,5 @@
 ---
-description: Saiba mais sobre os componentes de interface central para o CX Enterprise. Obtenha ajuda sobre a administração de usuários e produtos no Admin Console e ative aplicativos para os serviços da CX Enterprise. Obtenha ajuda sobre a Biblioteca de público-alvo, Atributos do cliente, CX Enterprise Assets e muito mais.
+description: Saiba mais sobre os componentes da interface central para o CX Enterprise. Obtenha ajuda sobre a administração de usuários e produtos no Admin Console e ative aplicativos para os serviços do CX Enterprise. Obtenha ajuda sobre a Biblioteca de público-alvo, Atributos do cliente, CX Enterprise Assets e muito mais.
 title: Documentação da interface da Experience Cloud
 uuid: aec6f689-e617-4876-ae6c-e961cfcb991a
 feature: Central Interface Components
@@ -7,7 +7,7 @@ topic: Administration
 role: Admin
 level: Experienced
 exl-id: aedad5cb-3282-4a97-8e7e-6d65f7b75ba9
-source-git-commit: 1a77ef8d31211fb11c790152e78037a8c3b238a2
+source-git-commit: 50012e2564e88e1a6e16578e3331136c7df0cb21
 workflow-type: tm+mt
 source-wordcount: '140'
 ht-degree: 60%

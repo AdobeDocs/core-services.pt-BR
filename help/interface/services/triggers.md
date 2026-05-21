@@ -24,7 +24,7 @@ topic_v2:
   - id: d3cdead0-685a-4489-9250-4bb709942f66
   - id: e0eb8757-182f-49f3-94a4-1587d16f5094
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
-source-git-commit: 1a77ef8d31211fb11c790152e78037a8c3b238a2
+source-git-commit: 50012e2564e88e1a6e16578e3331136c7df0cb21
 workflow-type: tm+mt
 source-wordcount: 697
 ht-degree: 74%
@@ -87,7 +87,7 @@ Crie um acionador e configure as condições para ele. Por exemplo, você pode e
 
 ## Exemplos de acionadores
 
-Exemplos de acionadores da CX Enterprise:
+Exemplos de CX Enterprise Triggers:
 
 ### Acionador de Abandono do carrinho
 

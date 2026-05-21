@@ -22,7 +22,7 @@ topic_v2:
   - id: b5ce8718-c3af-4fdb-a1a9-fca32f83a87c
   - id: d3cdead0-685a-4489-9250-4bb709942f66
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
-source-git-commit: a42153ba5a885509e7735e7407e38586fcabb0ad
+source-git-commit: 50012e2564e88e1a6e16578e3331136c7df0cb21
 workflow-type: tm+mt
 source-wordcount: 515
 ht-degree: 60%
@@ -31,7 +31,7 @@ ht-degree: 60%
 
 # Criar um público-alvo
 
-No [!UICONTROL Audience Library], você pode usar as regras de atributo para criar um público-alvo e definir um público-alvo composto para compartilhar em aplicativos CX Enterprise.
+No [!UICONTROL Audience Library], você pode usar as regras de atributo para criar um público-alvo e definir um público-alvo composto para compartilhamento nos aplicativos do CX Enterprise.
 
 Este artigo ajuda você a entender como:
 
@@ -93,7 +93,7 @@ Em [!UICONTROL Rules], defina as *`Home & Garden`* seleções de atributo:
 
 Os *Visitantes do Chrome e do Safari* são um segmento de público-alvo compartilhado do Analytics:
 
-* CX Enterprise **[!UICONTROL Attribute Source:]**
+* **[!UICONTROL Attribute Source:]** CX Enterprise
 * **[!UICONTROL Dimension:]** Visitantes do Chrome e Safari
 
 ![Visitantes do Chrome e Safari](assets/chrome_safari.png)
@@ -104,11 +104,11 @@ Para comparação, adicione uma regra *OU* para ver todos os visitantes de uma s
 
 A regra resultante é um público-alvo definido pela inclusão dos usuários do Chrome &amp; Safari que visitaram o Home &amp; Garden. O segmento Terraço e mobília fornece informações adicionais sobre todos os visitantes que visitam a seção do site.
 
-![Público-alvo definido no CX Enterprise](assets/defined_audience.png)
+![Público-alvo definido na CX Enterprise](assets/defined_audience.png)
 
 * **Estimativa do histórico:** (círculo pontilhado) representa as regras criadas com base nos dados do [!DNL Analytics].
 * **Público-alvo real:** (círculo contínuo) toda regra criada com 30 dias de dados no Audience Manager. Quando os dados do Audience Manager atingem 30 dias, a linha se torna sólida e representa os números reais.
 
 Depois que a coleta de dados é concluída pelo período especificado, os círculos se combinam para mostrar um público-alvo definido.
 
-Depois que o público-alvo é salvo, ele é disponibilizado para outros aplicativos da CX Enterprise. Por exemplo, você pode incluir um público-alvo compartilhado em uma [atividade](https://experienceleague.adobe.com/pt-br/docs/target/using/activities/activities) do Adobe Target.
+Depois que o público-alvo é salvo, ele fica disponível para outros aplicativos CX Enterprise. Por exemplo, você pode incluir um público-alvo compartilhado em uma [atividade](https://experienceleague.adobe.com/pt-br/docs/target/using/activities/activities) do Adobe Target.

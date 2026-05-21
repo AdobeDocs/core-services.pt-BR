@@ -20,7 +20,7 @@ role_v2:
 topic_v2:
   - id: b5ce8718-c3af-4fdb-a1a9-fca32f83a87c
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
-source-git-commit: a42153ba5a885509e7735e7407e38586fcabb0ad
+source-git-commit: 50012e2564e88e1a6e16578e3331136c7df0cb21
 workflow-type: tm+mt
 source-wordcount: 484
 ht-degree: 1%
@@ -43,6 +43,6 @@ O Adobe Experience Platform Web SDK usa cookies para armazenar valores específi
 | **`kndctr_<orgId>_personalization`** | 34128000 (395 dias) | | Armazena informações de sessão que o Adobe Target usa para personalizar o conteúdo. |
 | **`mbox`** | 63072000 (2 anos) | | Presente quando [`targetMigrationEnabled`](https://experienceleague.adobe.com/pt-br/docs/experience-platform/collection/js/commands/configure/targetmigrationenabled) está habilitado. Ele permite que o [cookie da mbox](https://developer.adobe.com/target/implement/client-side/atjs/atjs-cookies/) do Target seja definido pelo Web SDK. |
 | **`mboxEdgeCluster`** | 1800 (30 minutos) | | Presente quando [`targetMigrationEnabled`](https://experienceleague.adobe.com/pt-br/docs/experience-platform/collection/js/commands/configure/targetmigrationenabled) está habilitado. Ele permite que o Web SDK comunique o cluster de borda correto com `at.js` para que os perfis do Target possam permanecer sincronizados enquanto os usuários navegam em um site. |
-| **`s_ecid`** | 63115200 (2 anos) | ~45 bytes | Contém uma cópia da CX Enterprise ID (ECID/MID) no formato `s_ecid=MCMID\|<ECID>`. Atua como um backup próprio da ECID, principalmente para cenários CNAME (primários). |
+| **`s_ecid`** | 63115200 (2 anos) | ~45 bytes | Contém uma cópia do CX Enterprise ID (ECID/MID) no formato `s_ecid=MCMID\|<ECID>`. Atua como um backup próprio da ECID, principalmente para cenários CNAME (primários). |
 
 O Edge Network define todos os cookies com os atributos `secure` e `sameSite="none"`. Se você tiver seções seguras e não seguras em seu site, a identificação do usuário pode ser imprecisa. Quando um usuário navega de uma seção segura do site para uma seção não segura, o Edge Network gera um novo `ECID` com a solicitação.

@@ -1,15 +1,15 @@
 ---
 title: Trabalhos de agentes e consumo de crédito de IA
-description: Saiba mais sobre tarefas de agente e taxas de consumo de crédito de IA em aplicativos do CX Enterprise.
+description: Saiba mais sobre as tarefas do agente e taxas de consumo de crédito de IA em aplicativos da CX Enterprise.
 solution: Experience Cloud
 topic: Artificial Intelligence
 feature: Agentic AI, AI Tools
 role: Admin, User
 level: Intermediate
-source-git-commit: 1a77ef8d31211fb11c790152e78037a8c3b238a2
+source-git-commit: 50012e2564e88e1a6e16578e3331136c7df0cb21
 workflow-type: tm+mt
 source-wordcount: '1055'
-ht-degree: 3%
+ht-degree: 5%
 
 ---
 
@@ -17,13 +17,13 @@ ht-degree: 3%
 
 Atualizado em: **5 de março de 2026**
 
-Saiba mais sobre trabalhos de IA agênica e consumo de crédito de IA em aplicativos do CX Enterprise. Para obter informações sobre como habilitar recursos de IA de agente em aplicativos CX Enterprise existentes, consulte [IA de agente no CX Enterprise](agentic-ai.md#existing-apps).
+Saiba mais sobre os trabalhos de IA de agente e o consumo de crédito de IA em aplicativos do CX Enterprise. Para obter informações sobre como habilitar recursos de IA de agente nos aplicativos existentes do CX Enterprise, consulte [IA de agente no CX Enterprise](agentic-ai.md#existing-apps).
 
 ## Trabalhos do agente
 
 Um _trabalho de agente_ é uma série de tarefas e ações que um agente executa para atingir um resultado específico, conforme determinado pelas entradas do cliente.
 
-Usando prompts de linguagem natural por meio do Assistente de IA, você pode solicitar que os agentes realizem tarefas específicas. Com base nessas entradas, a Agent Orchestrator coordena os agentes apropriados para executar cada etapa nos aplicativos relevantes do CX Enterprise.
+Usando prompts de linguagem natural por meio do Assistente de IA, você pode solicitar que os agentes realizem tarefas específicas. Com base nessas entradas, a Agent Orchestrator coordena os agentes apropriados para executar cada etapa nos aplicativos CX Enterprise relevantes.
 
 ## Créditos de IA
 
@@ -66,5 +66,5 @@ O uso do crédito de IA pode variar dependendo da complexidade e do valor do tra
 ## Mais ajuda sobre este tópico
 
 * [GenAI no CX Enterprise](/help/interface/features/generative-ai.md)
-* [IA de agente no CX Enterprise](/help/interface/features/agentic-ai.md)
+* [IA Agentic no CX Enterprise](/help/interface/features/agentic-ai.md)
 * [Avaliação vinculada ao uso dos Adobe Experience Platform Agents](https://experienceleague.adobe.com/pt-br/docs/experience-cloud-ai/experience-cloud-ai/agents/trial)

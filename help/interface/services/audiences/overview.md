@@ -90,4 +90,4 @@ O [!DNL CX Enterprise] fornece uma biblioteca para criar e gerenciar públicos-a
 
 ## Publicar públicos-alvo da Adobe Analytics
 
-Consulte [Publicar segmentos no CX Enterprise](https://experienceleague.adobe.com/en/docs/analytics/components/segmentation/segmentation-workflow/seg-publish) na documentação do Adobe Analytics para obter mais informações.
+Consulte [Publicar segmentos no CX Enterprise](https://experienceleague.adobe.com/pt-br/docs/analytics/components/segmentation/segmentation-workflow/seg-publish) na documentação do Adobe Analytics para obter mais informações.

@@ -8,16 +8,11 @@ role: Admin, User
 level: Intermediate
 autotag-review: '2026-05-27T16:30:16.764Z'
 TQID: 'https://experienceleague.adobe.com/J74yr0gGkFu1bzTmMvhrQ8TNaRX6nRjWY9WAwd3uydk'
-product_v2:
-  - id: d0a3eab4-7b10-4d96-a71e-6c0f8e7b7c87
-  - id: e1971122-7081-4556-9222-8a31bd71800c
-feature_v2:
-  - id: f84b2906-3ce9-4ef0-86f6-cda249273937
-subfeature_v2:
-  - id: cda95149-19e1-4cfa-a57e-751283a32378
-topic_v2:
-  - id: bbbea26f-9621-49eb-9ab8-e06fb3bbce8c
-source-git-commit: 294e1638dc175d94fcd01927dbc6e6caafddf3f6
+product_v2: id: d0a3eab4-7b10-4d96-a71e-6c0f8e7b7c87id: e1971122-7081-4556-9222-8a31bd71800c
+feature_v2: id: f84b2906-3ce9-4ef0-86f6-cda249273937
+subfeature_v2: id: cda95149-19e1-4cfa-a57e-751283a32378
+topic_v2: id: bbbea26f-9621-49eb-9ab8-e06fb3bbce8c
+source-git-commit: 5fdb68aa750cd4c31b2e28cbd89e37e3e029cacb
 workflow-type: tm+mt
 source-wordcount: 948
 ht-degree: 2%
@@ -34,7 +29,7 @@ Os agentes no escopo para monitoramento de uso estão listados em [Agentes de IA
 
 O painel de Uso de licença [!DNL Adobe Experience Platform] mostra o direito aos Créditos de IA licenciados da sua organização e o total de créditos de IA consumidos quando os usuários executam o [!DNL Experience Platform Agents].
 
-Os administradores usam esse painel para rastrear o consumo de licenças em relação aos direitos. Para acessar o painel, consulte [Painel de uso de licença](https://experienceleague.adobe.com/pt-br/docs/experience-platform/dashboards/guides/license-usage) na documentação de [!DNL Experience Platform].
+Os administradores usam esse painel para rastrear o consumo de licenças em relação aos direitos. Para acessar o painel, consulte [Painel de uso de licença](https://experienceleague.adobe.com/en/docs/experience-platform/dashboards/guides/license-usage) na documentação de [!DNL Experience Platform].
 
 ## Painel de monitoramento do Agentic AI
 
@@ -146,4 +141,4 @@ Conceda acesso ao painel em [!DNL Adobe Experience Platform] atualizando o perfi
 
 * [IA de agente na Adobe CX Enterprise](agentic-ai.md)
 * [Trabalhos de agentes e consumo de crédito de IA](ai-credit-consumption.md)
-* [Painel de uso de licenças](https://experienceleague.adobe.com/pt-br/docs/experience-platform/dashboards/guides/license-usage) (Experience Platform)
+* [Painel de uso de licenças](https://experienceleague.adobe.com/en/docs/experience-platform/dashboards/guides/license-usage) (Experience Platform)

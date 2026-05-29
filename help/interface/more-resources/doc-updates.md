@@ -23,16 +23,21 @@ topic_v2:
   - id: d3cdead0-685a-4489-9250-4bb709942f66
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
   - id: f4e6943a-c91a-4134-a2c7-f4f20cfff2f0
-source-git-commit: e86d1384fc183ebafdab2995ee3495f2184b0329
+source-git-commit: 1706e3f7c2a29cc85299913657fa6c049c3217fa
 workflow-type: tm+mt
-source-wordcount: 745
-ht-degree: 40%
+source-wordcount: 788
+ht-degree: 38%
 
 ---
 
 # Atualizações na documentação
 
 Saiba onde as atualizações de documentação ocorrem para a interface central e a administração do CX Enterprise.
+
+## Junho de 2026
+
+* [Monitoramento do uso da IA de agente](../features/monitoring.md) publicado com cobertura dos painéis de monitoramento do Uso de licença e da IA de agente, incluindo Visão geral, Usuários, Feedback e Créditos de IA, reprodução de conversa e permissões para usuários de governança.
+* Adicionadas as notas de versão de [junho de 2026](release-notes.md) para o monitoramento do uso de IA de agente.
 
 ## Maio de 2026
 
@@ -41,7 +46,6 @@ Atualizações de abril e maio para o guia de interface central do CX Enterprise
 * Documentação de reformulação da Experience Cloud para o **CX Enterprise** em todo o guia, incluindo descrições, texto de link e metadados de marca automática.
 * Adicionadas as notas de versão de [abril de 2026](release-notes.md) para a página inicial atualizada em `https://experience.adobe.com/home` (atualização da interface, modo escuro e melhorias de acessibilidade).
 * Atualização da [IA de agente na CX Enterprise](../features/agentic-ai.md): Adobe Marketing Agent for Microsoft 365 Copilot, recursos de agente revisados e uma **coluna de Dados de Integridade/pronta para HIPAA** na tabela de agente de aplicativos existentes.
-<!-- * Published [Monitoring](../features/monitoring.md) with expanded coverage of Usage, Conversation Replay, Credits, User Feedback, and Active Users dashboards. -->
 * Pequenas atualizações na [Coleta de dados regional](../data-collection/rdc.md), [Validar o encaminhamento do nome do host](../data-collection/adobe-managed-cert.md) e [Terminologia](terms.md).
 
 ## Março de 2026
@@ -106,7 +110,7 @@ Atualização das [perguntas frequentes sobre administração](faq.md) com infor
 
 | Recurso | Descrição |
 | ------- | ------- |
-| Pesquisa unificada | A Pesquisa unificada continua a adicionar tipos de objetos ao índice de pesquisa. Nesta atualização, a pesquisa global agora busca em todo o conteúdo da Experience League e nos seguintes tipos de objetos do Journey Optimizer: <ul><li>Conjuntos de dados</li><li>Destinos</li><li>Consultas</li><li>Esquemas</li><li>Segmentos</li><li>Origens</li><li>Ofertas</li><li>Componentes</li><li>Mensagens</li><li>Jornadas</li></ul> |
+| Pesquisa unificada | A Pesquisa unificada continua a adicionar tipos de objetos ao índice de pesquisa. Nesta atualização, a pesquisa global agora busca em todo o conteúdo da Experience League e nos seguintes tipos de objetos do Journey Optimizer: <ul><li>Conjuntos de dados</li><li>Destinos</li><li>Consultas</li><li>Esquemas</li><li>Segmentos</li><li>Fontes</li><li>Ofertas</li><li>Componentes</li><li>Mensagens</li><li>Jornadas</li></ul> |
 | Consentimento de dados de uso do produto | Após um logon inicial, você é solicitado a enviar preferências sobre como o Adobe pode fornecer conteúdo útil e personalizado, como tutoriais, guias, dicas rápidas, recomendações, vídeos instrutivos e muito mais, com base nos dados de uso do produto do CX Enterprise. Essa solicitação também inclui uma atualização das suas preferências para a coleta e uso desses dados em <https://experience.adobe.com/preferences>. |
 
 ## 24 de agosto de 2021

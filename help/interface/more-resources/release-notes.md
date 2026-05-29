@@ -27,10 +27,10 @@ role_v2:
   - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
 topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
-source-git-commit: 50012e2564e88e1a6e16578e3331136c7df0cb21
+source-git-commit: 1706e3f7c2a29cc85299913657fa6c049c3217fa
 workflow-type: tm+mt
-source-wordcount: 1429
-ht-degree: 52%
+source-wordcount: 1501
+ht-degree: 50%
 
 ---
 
@@ -41,6 +41,12 @@ Recursos, notas de versão e problemas conhecidos dos componentes da interface c
 Para obter uma lista de atualizações de documentação, consulte [Atualizações de documentação](doc-updates.md).
 
 Para obter as notas de versão de todos os aplicativos, consulte as [Notas de versão do CX Enterprise](https://experienceleague.adobe.com/docs/release-notes/experience-cloud/current.html?lang=pt-BR).
+
+## Junho de 2026
+
+| Data | Atualização | Descrição |
+| ------- | ------- | ------- |
+| 1 de junho de 2026 | Monitoramento de uso de IA de agente | O CX Enterprise agora fornece painéis de controle para monitorar o uso de IA artificial em aplicativos existentes. Acompanhe a adoção, analise conversas e comentários e gerencie o consumo de crédito de IA para Agentes do Experience Platform acessados pelo Assistente de IA e outras superfícies de conversação. Visão geral, Usuários, Feedback e visualizações de Créditos de IA ajudam as partes interessadas do controle a orientar a adoção de dados. Consulte [Monitoramento do uso da IA de agente](../features/monitoring.md) para obter acesso e permissões do painel. |
 
 ## Abril de 2026
 
@@ -161,7 +167,7 @@ With this update, administrators may see changes or additions to the Admin Conso
 
 | Recurso | Descrição |
 | ------- | ------- |
-| Pesquisa unificada | A Pesquisa unificada continua a adicionar tipos de objetos ao índice de pesquisa. Nesta atualização, a pesquisa global agora busca em todo o conteúdo da Experience League e nos seguintes tipos de objetos do Journey Optimizer: <ul><li>Conjuntos de dados</li><li>Destinos</li><li>Consultas</li><li>Esquemas</li><li>Segmentos</li><li>Origens</li><li>Ofertas</li><li>Componentes</li><li>Mensagens</li><li>Jornadas</li></ul> |
+| Pesquisa unificada | A Pesquisa unificada continua a adicionar tipos de objetos ao índice de pesquisa. Nesta atualização, a pesquisa global agora busca em todo o conteúdo da Experience League e nos seguintes tipos de objetos do Journey Optimizer: <ul><li>Conjuntos de dados</li><li>Destinos</li><li>Consultas</li><li>Esquemas</li><li>Segmentos</li><li>Fontes</li><li>Ofertas</li><li>Componentes</li><li>Mensagens</li><li>Jornadas</li></ul> |
 | Consentimento de dados de uso do produto | Após um logon inicial, você é solicitado a enviar preferências sobre como o Adobe pode fornecer conteúdo útil e personalizado, como tutoriais, guias, dicas rápidas, recomendações, vídeos instrutivos e muito mais, com base nos dados de uso do produto do CX Enterprise. Essa solicitação também inclui uma atualização das suas preferências para a coleta e uso desses dados em <https://experience.adobe.com/preferences>. |
 
 {style="table-layout:auto"}

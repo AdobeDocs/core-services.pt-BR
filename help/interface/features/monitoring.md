@@ -34,7 +34,7 @@ Os agentes no escopo para monitoramento de uso estão listados em [Agentes de IA
 
 O painel de Uso de licença [!DNL Adobe Experience Platform] mostra o direito aos Créditos de IA licenciados da sua organização e o total de créditos de IA consumidos quando os usuários executam o [!DNL Experience Platform Agents].
 
-Os administradores usam esse painel para rastrear o consumo de licenças em relação aos direitos. Para acessar o painel, consulte [Painel de uso de licença](https://experienceleague.adobe.com/en/docs/experience-platform/dashboards/guides/license-usage) na documentação de [!DNL Experience Platform].
+Os administradores usam esse painel para rastrear o consumo de licenças em relação aos direitos. Para acessar o painel, consulte [Painel de uso de licença](https://experienceleague.adobe.com/pt-br/docs/experience-platform/dashboards/guides/license-usage) na documentação de [!DNL Experience Platform].
 
 ## Painel de monitoramento do Agentic AI
 
@@ -146,4 +146,4 @@ Conceda acesso ao painel em [!DNL Adobe Experience Platform] atualizando o perfi
 
 * [IA de agente na Adobe CX Enterprise](agentic-ai.md)
 * [Trabalhos de agentes e consumo de crédito de IA](ai-credit-consumption.md)
-* [Painel de uso de licenças](https://experienceleague.adobe.com/en/docs/experience-platform/dashboards/guides/license-usage) (Experience Platform)
+* [Painel de uso de licenças](https://experienceleague.adobe.com/pt-br/docs/experience-platform/dashboards/guides/license-usage) (Experience Platform)

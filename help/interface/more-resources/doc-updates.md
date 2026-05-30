@@ -23,9 +23,9 @@ topic_v2:
   - id: d3cdead0-685a-4489-9250-4bb709942f66
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
   - id: f4e6943a-c91a-4134-a2c7-f4f20cfff2f0
-source-git-commit: 1706e3f7c2a29cc85299913657fa6c049c3217fa
+source-git-commit: f8271b21134641c4576abc8a7e1fb8874ae68350
 workflow-type: tm+mt
-source-wordcount: 788
+source-wordcount: 787
 ht-degree: 38%
 
 ---
@@ -36,7 +36,7 @@ Saiba onde as atualizações de documentação ocorrem para a interface central 
 
 ## Junho de 2026
 
-* [Monitoramento do uso da IA de agente](../features/monitoring.md) publicado com cobertura dos painéis de monitoramento do Uso de licença e da IA de agente, incluindo Visão geral, Usuários, Feedback e Créditos de IA, reprodução de conversa e permissões para usuários de governança.
+* [Monitoramento da IA do Agentic](../features/monitoring.md) publicado com cobertura dos painéis de monitoramento do Uso de licenças e da IA do Agentic, incluindo Visão geral, Usuários, Feedback e Créditos da IA, reprodução de conversa e permissões para usuários de governança.
 * Adicionadas as notas de versão de [junho de 2026](release-notes.md) para o monitoramento do uso de IA de agente.
 
 ## Maio de 2026

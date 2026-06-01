@@ -27,9 +27,9 @@ role_v2:
   - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
 topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
-source-git-commit: 5fdb68aa750cd4c31b2e28cbd89e37e3e029cacb
+source-git-commit: cb57ca633a2b72cab93edbbb06cbd3bb7199eec7
 workflow-type: tm+mt
-source-wordcount: 1501
+source-wordcount: 1500
 ht-degree: 50%
 
 ---
@@ -46,7 +46,7 @@ Para obter as notas de versão de todos os aplicativos, consulte as [Notas de ve
 
 | Data | Atualização | Descrição |
 | ------- | ------- | ------- |
-| 1 de junho de 2026 | Monitoramento de uso de IA de agente | O CX Enterprise agora fornece painéis de controle para monitorar o uso de IA artificial em aplicativos existentes. Acompanhe a adoção, analise conversas e comentários e gerencie o consumo de crédito de IA para Agentes do Experience Platform acessados pelo Assistente de IA e outras superfícies de conversação. Visão geral, Usuários, Feedback e visualizações de Créditos de IA ajudam as partes interessadas do controle a orientar a adoção de dados. Consulte [Monitoramento do uso da IA de agente](../features/monitoring.md) para obter acesso e permissões do painel. |
+| 1 de junho de 2026 | Monitoramento de uso de IA de agente | O CX Enterprise agora fornece painéis de controle para monitorar o uso de IA artificial em aplicativos existentes. Acompanhe a adoção, analise conversas e comentários e gerencie o consumo de crédito de IA para Agentes do Experience Platform acessados pelo Assistente de IA e outras superfícies de conversação. Visão geral, Usuários, Feedback e visualizações de Créditos de IA ajudam as partes interessadas do controle a orientar a adoção de dados. Consulte [Monitoramento de IA de agente](../features/monitoring.md) para obter acesso e permissões do painel. |
 
 ## Abril de 2026
 

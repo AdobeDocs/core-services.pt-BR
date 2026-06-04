@@ -17,9 +17,9 @@ subfeature_v2:
   - id: cda95149-19e1-4cfa-a57e-751283a32378
 topic_v2:
   - id: bbbea26f-9621-49eb-9ab8-e06fb3bbce8c
-source-git-commit: 19922aed1ca7f9beb0229cea90e6f68abda0d217
+source-git-commit: 9c847f904b899fbe1273b91bd776083d0b4a71a1
 workflow-type: tm+mt
-source-wordcount: 882
+source-wordcount: 881
 ht-degree: 2%
 
 ---
@@ -41,7 +41,7 @@ Os agentes no escopo para monitoramento de uso estão listados em [Agentes de IA
 
 [Exibir vídeo de introdução](https://video.tv.adobe.com/v/3491864?learn=on)
 
-## Habilitar permissões de painel (administradores) {#permissions}
+## Habilitar permissões de painel {#permissions}
 
 Conceda acesso ao painel em [!DNL Adobe Experience Platform] atualizando o perfil do produto ou a função para cada usuário autorizado. O recurso [!UICONTROL Monitoramento] é exibido para os usuários na home page do CX Enterprise após a habilitação das permissões.
 
@@ -73,7 +73,7 @@ Conceda acesso ao painel em [!DNL Adobe Experience Platform] atualizando o perfi
 
 1. Para exibir painéis, retorne à página inicial do CX Enterprise e clique em **[!UICONTROL Monitoramento]**.
 
-![Painel de monitoramento do Agentic AI](../features/assets/monitoring.png)
+   ![Painel de monitoramento do Agentic AI](../features/assets/monitoring.png)
 
 ## Painel de visão geral
 

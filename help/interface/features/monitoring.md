@@ -17,9 +17,9 @@ subfeature_v2:
   - id: cda95149-19e1-4cfa-a57e-751283a32378
 topic_v2:
   - id: bbbea26f-9621-49eb-9ab8-e06fb3bbce8c
-source-git-commit: ae47fb846467d50b57764f525a359dfcf78cf597
+source-git-commit: 0c5f2ec6554118a19e4cfc82901eb76468fdceff
 workflow-type: tm+mt
-source-wordcount: 866
+source-wordcount: 917
 ht-degree: 2%
 
 ---
@@ -27,6 +27,11 @@ ht-degree: 2%
 # Painéis de monitoramento de IA corporativa
 
 O painel de monitoramento da IA corporativa oferece aos membros do Centro de Excelência (COE) e a outras partes interessadas da governança visibilidade sobre o uso e a adoção da IA corporativa. Você pode visualizar tendências ao longo de períodos de 7 ou 30 dias para ver quem usa o [!DNL AI Assistant] ou outras superfícies de conversação (como o [Adobe Marketing Agent for Microsoft 365 Copilot](https://experienceleague.adobe.com/pt-br/docs/experience-cloud-ai/experience-cloud-ai/agents/ama-ms)) para interagir com o [!DNL Experience Platform Agents], o que eles fazem nessas interações e o valor que eles recebem. Juntas, essas visualizações ajudam a orientar a adoção de agentes com dados em vez de suposições.
+
+**Disponibilidade**
+
+* Atualmente, qualquer conta com uma licença para pelo menos um aplicativo nativo do Experience Platform (Customer Journey Analytics, Journey Optimizer ou Real-Time CDP) pode acessar esse painel
+* As métricas de uso e adoção para [aplicativos AI-first](agentic-ai.md#ai-first-cx-enterprise-applications) como Experimentation Accelerator, LLM Optimizer, Sites Optimizer, etc. não estão no escopo deste painel
 
 O painel de [!UICONTROL Monitoramento] inclui as seguintes exibições:
 

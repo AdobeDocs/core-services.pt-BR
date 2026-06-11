@@ -7,9 +7,9 @@ feature: Agentic AI, AI Tools
 role: Admin, User
 level: Intermediate
 last-update: '2026-05-21T00:00:00.000Z'
-source-git-commit: 5b2b81c029b81b9f0689a012cb2a9ca8714c0b40
+source-git-commit: e88ba99174bf84de9b58a61ae8c22c0bbd7ed9bf
 workflow-type: tm+mt
-source-wordcount: '935'
+source-wordcount: '993'
 ht-degree: 5%
 
 ---
@@ -17,6 +17,12 @@ ht-degree: 5%
 # Trabalhos de agentes do Adobe Experience Platform e consumo de créditos de IA
 
 Saiba mais sobre os trabalhos de IA de agente e o consumo de crédito de IA em aplicativos do CX Enterprise. Para obter informações sobre como habilitar recursos de IA de agente nos aplicativos existentes do CX Enterprise, consulte [IA de agente no CX Enterprise](agentic-ai.md#existing-apps).
+
+## Novidades
+
+| Recurso | Descrição |
+| --- | --- |
+| [Catálogo de recursos do CX Enterprise Agentic AI](https://agentic-capability-explorer.entapp.adproto.com/) | Descubra quais trabalhos de IA de agente estão disponíveis nos aplicativos licenciados do CX Enterprise. |
 
 ## Trabalhos do agente
 
@@ -35,6 +41,8 @@ O uso do crédito de IA pode variar dependendo da complexidade e do valor do tra
 * Tarefas simples (geralmente de etapa única) consomem menos créditos
 * Tarefas complexas (geralmente de várias etapas) consomem mais créditos
 * Tarefas que envolvem raciocínio avançado, validação, coordenação de vários agentes ou integração consomem mais créditos
+
+**Observação:** o [Catálogo de Recursos de IA do CX Enterprise Agentic](https://agentic-capability-explorer.entapp.adproto.com/) também está disponível para ajudá-lo a descobrir quais trabalhos de IA do agente estão disponíveis em seus aplicativos licenciados do CX Enterprise.
 
 ### Taxas de consumo de crédito de IA estimadas
 

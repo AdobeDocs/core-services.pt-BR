@@ -21,8 +21,8 @@ topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
 source-git-commit: 50012e2564e88e1a6e16578e3331136c7df0cb21
 workflow-type: tm+mt
-source-wordcount: 379
-ht-degree: 53%
+source-wordcount: 394
+ht-degree: 51%
 
 ---
 
@@ -47,7 +47,7 @@ Os uploads de arquivo para o site FTP de atributos do cliente podem ser feitos v
 
    Verifique se você está conectado no site FTP em `ftp.adobe.com/<sftpname>`.
 
-1. Clique em **[!UICONTROL Actions]** > **[!UICONTROL File Upload]**.
+1. Clique em **[!UICONTROL Ações]** > **[!UICONTROL Carregamento de Arquivo]**.
 
 1. Faça upload de um arquivo `.fin`, para que o arquivo possa ser recuperado.
 
@@ -61,7 +61,7 @@ Os uploads de arquivo para o site FTP de atributos do cliente podem ser feitos v
 
 Configure uma conta FTP por fonte de atributo.
 
-Na página [!UICONTROL File Upload and Schema Validation], clique em **[!UICONTROL FTP Setup]**.
+Na página [!UICONTROL Carregamento de Arquivo e Validação de Esquema], clique em **[!UICONTROL Configuração de FTP]**.
 
 ![Editar um esquema](assets/ftp-account.png)
 
@@ -69,9 +69,9 @@ Os arquivos carregados são armazenados na pasta raiz dessa conta. Os dados deve
 
 Os nomes aplicados às strings, números inteiros e números são usados para criar as métricas do [!DNL Analytics].
 
-* **[!UICONTROL attribute:]** dados de atributo lidos do arquivo `.csv` carregado.
+* **[!UICONTROL atributo:]** dados de atributo lidos do arquivo `.csv` carregado.
 
-* **[!UICONTROL Type:]** Os tipos de dados, como:
+* **[!UICONTROL Tipo:]** O tipo de dados, como:
 
    * **String:** uma sequência de caracteres.
 
@@ -79,7 +79,7 @@ Os nomes aplicados às strings, números inteiros e números são usados para cr
 
    * **Números:** pode ter até duas casas decimais.
 
-* **[!UICONTROL Display Name:]** Um nome amigável para o atributo. Por exemplo, você pode alterar um atributo de *idade do cliente* para *cliente desde*.
+* **[!UICONTROL Nome para Exibição:]** Um nome amigável para o atributo. Por exemplo, você pode alterar um atributo de *idade do cliente* para *cliente desde*.
 
-* **[!UICONTROL Description:]** Uma descrição amigável do atributo.
+* **[!UICONTROL Descrição:]** Uma descrição amigável do atributo.
 

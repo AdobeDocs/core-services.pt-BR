@@ -1,6 +1,6 @@
 ---
 description: Saiba mais sobre os domínios usados pelo CX Enterprise.
-title: Domínios usados pelo Experience Cloud
+title: Domínios usados pela Experience Cloud
 feature: Central Interface Components
 topic: Administration
 role: Admin

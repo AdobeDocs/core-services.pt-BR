@@ -1,5 +1,5 @@
 ---
-title: Endereços IP usados pelo Experience Cloud
+title: Endereços IP usados pela Experience Cloud
 description: Se o firewall da sua organização bloquear endereços IP originários da Adobe, use esta lista para atualizar as configurações do firewall.
 exl-id: 1fca8d3b-ae8b-4095-96ef-d165f912b4c6
 TQID: https://experienceleague.adobe.com/EPoerIJdL9FVBFB32WRB9zBMdXJarSu90hJIsn7Vpps

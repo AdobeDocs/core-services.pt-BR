@@ -25,8 +25,8 @@ topic_v2:
   - id: ff2b9b37-92e0-45fc-b853-379d44c08c89
 source-git-commit: 50012e2564e88e1a6e16578e3331136c7df0cb21
 workflow-type: tm+mt
-source-wordcount: 346
-ht-degree: 43%
+source-wordcount: 352
+ht-degree: 40%
 
 ---
 
@@ -36,7 +36,7 @@ Os recursos de interface do CX Enterprise às vezes são chamados de _serviços 
 
 Outros recursos compartilhados incluem administração (gerenciamento de usuários e produtos) para o CX Enterprise, cookies, preferências de conta, notificações, etc.
 
-Para acessar aplicativos e serviços compartilhados no CX Enterprise, clique no link **[!UICONTROL Application Selector]**
+Para acessar aplicativos e serviços compartilhados no CX Enterprise, clique no **[!UICONTROL Seletor de aplicativos]**
 ![Seletor de serviços](../assets/apps-icon.png).
 
 **Seletor de aplicativos**

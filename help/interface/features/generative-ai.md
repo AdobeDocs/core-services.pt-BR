@@ -1,5 +1,5 @@
 ---
-title: IA gerada em aplicativos Experience Cloud
+title: IA gerada em aplicativos da Experience Cloud
 description: Obtenha uma visão geral de onde você pode aproveitar os recursos alimentados por IA nos aplicativos CX Enterprise.
 solution: Experience Cloud
 landing-page-name: ai
@@ -43,7 +43,7 @@ topic_v2:
   - id: f4e6943a-c91a-4134-a2c7-f4f20cfff2f0
 source-git-commit: 24583e75dd85c719b8f9eb14a948f58d714c2aa6
 workflow-type: tm+mt
-source-wordcount: 3165
+source-wordcount: 3196
 ht-degree: 8%
 
 ---
@@ -66,13 +66,13 @@ A IA gerativa é um tipo de IA que pode criar conteúdo original. Por exemplo, e
 
 [!BADGE Saiba mais]{type=Informative url="https://business.adobe.com/ai/adobe-genai.html" tooltip="GenAI na Adobe"}
 
-**O que é [!UICONTROL AI Assistant]?**
+**O que é o [!UICONTROL Assistente de IA]?**
 
-[!UICONTROL AI Assistant] é uma ferramenta conversacional genAI suportada em vários aplicativos CX Enterprise. Use-o para obter rapidamente _conhecimento sobre o produto_ e _insights operacionais_, dependendo do aplicativo que você estiver usando.
+O [!UICONTROL AI Assistant] é uma ferramenta conversacional genAI com suporte em vários aplicativos do CX Enterprise. Use-o para obter rapidamente _conhecimento sobre o produto_ e _insights operacionais_, dependendo do aplicativo que você estiver usando.
 
 * **Conhecimento do produto:** o conhecimento do produto se refere a conceitos e tópicos baseados na documentação do produto CX Enterprise no Experience League. Por exemplo, use [prompts baseados em objetivos](https://experienceleague.adobe.com/pt-br/docs/experience-platform/ai-assistant/home) para aprender rapidamente sobre o Experience Platform. Todas as respostas do Experience League são verificáveis e citadas com links.
 
-* **Insights operacionais:** Por exemplo, [insights operacionais](https://experienceleague.adobe.com/pt-br/docs/experience-platform/ai-assistant/questions#objects-questions) no Experience Platform se referem a respostas geradas sobre seus objetos de metadados (atributos, públicos, fluxos de dados, conjuntos de dados e assim por diante). Com o [!UICONTROL AI Assistant], você consegue fazer em segundos o que, de outra forma, poderia levar horas ou dias.
+* **Insights operacionais:** Por exemplo, [insights operacionais](https://experienceleague.adobe.com/pt-br/docs/experience-platform/ai-assistant/questions#objects-questions) no Experience Platform se referem a respostas geradas sobre seus objetos de metadados (atributos, públicos, fluxos de dados, conjuntos de dados e assim por diante). Com o [!UICONTROL Assistente de IA], você pode concluir em segundos o que, de outra forma, poderia levar horas ou dias.
 
 >[!NOTE]
 >
@@ -171,7 +171,7 @@ O Assistente de IA é compatível com o AEM as a Cloud Service nos seguintes loc
 
 #### Experience Manager Sites
 
-No AEM Sites, você pode usar _[!UICONTROL Generate Variations]_. Esse recurso usa inteligência artificial geradora para criar variações de conteúdo com base nos prompts de entrada. Os prompts são fornecidos pela Adobe ou criados e gerenciados por você.
+No AEM Sites, você pode usar _[!UICONTROL Gerar Variações]_. Esse recurso usa inteligência artificial geradora para criar variações de conteúdo com base nos prompts de entrada. Os prompts são fornecidos pela Adobe ou criados e gerenciados por você.
 
 Depois de criar variações, você pode usar o conteúdo no seu site e medir seu sucesso usando o recurso [Experimentação](https://www.aem.live/docs/experimentation) no Edge Delivery Services. Você também tem a opção de gerar imagens no Adobe Express usando os recursos de IA geradores do Firefly.
 
@@ -261,7 +261,7 @@ Este é um exemplo de entrada para insights operacionais:
 
 * _Quantas Jornadas foram criadas nos últimos sete dias?_
 
-  Para saída, o Assistente de IA consulta um armazenamento de dados específico do cliente. O repositório de dados contém dados operacionais e centralizados sobre [!UICONTROL Journeys]. Esse recurso é independente do cliente e extrai metadados somente de objetos de negócios. Ele não acessa dados na sandbox.
+  Para saída, o Assistente de IA consulta um armazenamento de dados específico do cliente. O repositório de dados contém dados operacionais e centralizados sobre [!UICONTROL Jornada]. Esse recurso é independente do cliente e extrai metadados somente de objetos de negócios. Ele não acessa dados na sandbox.
 
 [!BADGE Saiba mais]{type=Informative url="https://experienceleague.adobe.com/pt-br/docs/journey-optimizer/using/get-started/ai-assistant" tooltip="Saiba mais sobre o Assistente de IA no AJO"}
 
@@ -279,7 +279,7 @@ Esse recurso está disponível para email, notificações por push, página da W
 
 +++Detalhes
 
-O Journey Optimizer B2B edition usa o [!UICONTROL AI Assistant] para ajudá-lo com o conhecimento do produto.
+O Journey Optimizer B2B edition usa o [!UICONTROL Assistente de IA] para ajudá-lo com o conhecimento sobre o produto.
 
 Exemplo de entrada:
 
@@ -317,7 +317,7 @@ Você pode usar as _Legendas inteligentes_ no [!DNL Customer Journey Analytics] 
 
 Por exemplo:
 
-* **Entrada:** no CJA, execute uma visualização com suporte (incluindo Linha, Área, Gráfico de barras, Fluxo ou Fallout) e clique em **[!UICONTROL Intelligent captions]**.
+* **Entrada:** no CJA, execute uma visualização com suporte (incluindo Linha, Área, Gráfico de barras, Fluxo ou Fallout) e clique em **[!UICONTROL Legendas inteligentes]**.
 
 * **Saída:** Exibir legendas geradas automaticamente em linguagem natural mostrando contexto e principais argumentos. Em seguida, é possível realizar ações nos dados gerados, como revisar, copiar e compartilhá-los com sua organização. [Veja como](https://video.tv.adobe.com/v/3443143/?captions=por_br&quality=12&learn=on#_blank)
 
@@ -337,9 +337,9 @@ Por exemplo: primeiro plano `color: red` é um atributo atribuído automaticamen
 
 +++Detalhes
 
-A Real-Time CDP usa o [!UICONTROL AI Assistant] para ajudá-lo com o conhecimento do produto da Experience League. Ele também oferece insights operacionais (em beta). O [!UICONTROL AI Assistant] consulta um repositório de dados de insights operacionais específicos do cliente que contém dados operacionais centralizados, particionados em sua sandbox da AEP. O sistema extrai metadados somente de Atributos, Públicos-alvo, Fluxos de dados, Conjuntos de dados, Destinos, Esquemas e Fontes e não acessa dados na sandbox.
+A Real-Time CDP usa o [!UICONTROL Assistente de IA] para ajudá-lo com o conhecimento sobre o produto da Experience League. Ele também oferece insights operacionais (em beta). O [!UICONTROL Assistente de IA] consulta um armazenamento de dados de insights operacionais específicos do cliente que contém dados operacionais centralizados, particionados em sua sandbox da AEP. O sistema extrai metadados somente de Atributos, Públicos-alvo, Fluxos de dados, Conjuntos de dados, Destinos, Esquemas e Fontes e não acessa dados na sandbox.
 
-Por exemplo, se você consultar sobre um público-alvo, [!UICONTROL AI Assistant] pode acessar o nome do público-alvo e outros metadados associados, mas não pode acessar os perfis desse público-alvo.
+Por exemplo, se você consultar um público-alvo, o [!UICONTROL Assistente de IA] poderá acessar o nome do público-alvo e outros metadados associados, mas não poderá acessar os perfis desse público-alvo.
 
 [!BADGE Saiba mais]{type=Informative url="https://experienceleague.adobe.com/pt-br/docs/experience-platform/ai-assistant/home" tooltip="Saiba mais sobre o Real-Time CDP"}
 
@@ -349,7 +349,7 @@ Por exemplo, se você consultar sobre um público-alvo, [!UICONTROL AI Assistant
 
 +++Detalhes
 
-O Campaign Managed Cloud Services usa [!UICONTROL AI Assistant] para geração de conteúdo. Esse recurso permite gerar automaticamente conteúdo personalizado, envolvente e eficaz com base em seu objetivo de marketing, com conteúdo otimizado para estilos, layouts, tons e muito mais. Você pode usá-lo em canais como email, SMS e push.
+O Campaign Managed Cloud Services usa o [!UICONTROL Assistente de IA] para geração de conteúdo. Esse recurso permite gerar automaticamente conteúdo personalizado, envolvente e eficaz com base em seu objetivo de marketing, com conteúdo otimizado para estilos, layouts, tons e muito mais. Você pode usá-lo em canais como email, SMS e push.
 
 [!BADGE Saiba mais]{type=Informative url="https://experienceleague.adobe.com/pt-br/docs/campaign-web/v8/content/ai-assistant/generative-gs" tooltip="Saiba mais sobre o Assistente de IA no AJO"}
 
@@ -380,7 +380,7 @@ Os recursos alimentados por IA gerativa no Adobe Dynamic Chat permitem otimizar 
 
 **Designer de email**
 
-O [!UICONTROL AI Assistant] no Marketo Engage [!UICONTROL Email Designer] ajuda você a criar emails contemporâneos, performáticos e intuitivos. Isso é feito por meio da tecnologia de IA gerativa da Adobe e da biblioteca de prompts, juntamente com o Firefly, para geração de imagens, que auxilia na criação de conteúdo adequado para um determinado grupo de persona/compras, estágio de jornada de marketing, estratégia de comunicação, tom etc. Ativos de marca específicos também podem ser utilizados para criar conteúdo.
+O [!UICONTROL Assistente de IA] do Marketo Engage [!UICONTROL Designer de email] ajuda a criar emails contemporâneos, com desempenho e intuitivos. Isso é feito por meio da tecnologia de IA gerativa da Adobe e da biblioteca de prompts, juntamente com o Firefly, para geração de imagens, que auxilia na criação de conteúdo adequado para um determinado grupo de persona/compras, estágio de jornada de marketing, estratégia de comunicação, tom etc. Ativos de marca específicos também podem ser utilizados para criar conteúdo.
 
 [!BADGE Saiba mais]{type=Informative url="https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/email-marketing/email-designer/ai-assistant" tooltip="Saiba mais sobre o Dynamic Chat"}
 
@@ -394,10 +394,10 @@ O Marketo integra-se ao GenStudio for Performance Marketing
 
 +++Detalhes
 
-O [!UICONTROL AI Assistant] no [!DNL Workfront] ajuda você a realizar seu trabalho oferecendo informações e sugestões no aplicativo. É possível:
+O [!UICONTROL Assistente de IA] do [!DNL Workfront] ajuda você a realizar seu trabalho oferecendo informações e sugestões no aplicativo. É possível:
 
 * Obtenha resumos de alguns objetos, fornecendo uma exibição de alto nível da intenção ou dos detalhes do objeto.
-* Faça perguntas e deixe [!UICONTROL AI Assistant] encontrar respostas no Experience League.
+* Faça perguntas e deixe o [!UICONTROL Assistente de IA] encontrar respostas no Experience League.
 * Obtenha fórmulas geradas com base em seus prompts. Você também pode resolver erros em suas expressões personalizadas inválidas em campos calculados.
 * Localize projetos, tarefas e problemas.
 

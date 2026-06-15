@@ -32,7 +32,7 @@ topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
 source-git-commit: 50012e2564e88e1a6e16578e3331136c7df0cb21
 workflow-type: tm+mt
-source-wordcount: 1111
+source-wordcount: 1116
 ht-degree: 31%
 
 ---
@@ -48,7 +48,7 @@ Descreve como:
 * Provisionar sua empresa no CX Enterprise.
 * Permitir que você se torne um administrador.
 * [Implementar o CX Enterprise ID Service](https://experienceleague.adobe.com/docs/id-service/using/home.html?lang=pt-BR).
-* Modernize suas implementações do [!DNL Analytics] e do [!DNL Target] via [!UICONTROL Platform Data Collection].
+* Modernize suas implementações do [!DNL Analytics] e do [!DNL Target] por meio da [!UICONTROL Coleção de Dados da Plataforma].
 * Comece a usar os serviços do CX Enterprise como [Atributos do cliente](../services/customer-attributes/attributes.md) e [Biblioteca de público-alvo](../services/audiences/overview.md).
 
 Soluções ou serviços:
@@ -73,7 +73,7 @@ Consulte o [CX Enterprise ID Service](https://experienceleague.adobe.com/docs/id
 
 Ajuda: [Públicos-alvo](/help/interface/services/audiences/overview.md)
 
-Criar e gerenciar Públicos-alvo no CX Enterprise [!UICONTROL Audience Library]. Os públicos-alvo podem ser criados ou derivados de várias fontes, como:
+Crie e gerencie Públicos-alvo na [!UICONTROL Biblioteca de Públicos-alvo] da CX Enterprise. Os públicos-alvo podem ser criados ou derivados de várias fontes, como:
 
 * Novos, criados em [!DNL CX Enterprise].
 * De [!DNL Analytics] segmentos publicados em [!DNL CX Enterprise].
@@ -167,7 +167,7 @@ Sincronizar ativos no Adobe Experience Manager (AEM) Assets com a Adobe Creative
 
 * Ajuda (logon necessário): [Integração com as soluções e os serviços corporativos do Adobe CX](https://enterprise.efrontier.com/CMDashboard?ticket=JrciD7q2bF1y2mDWFHmEyhyMKZp71ZLeaANvF-RcNMF7oNuZNABh76cKJLNlJJeJ1hQ5vAW1AO1t1DW8tZWM3lYZ8TSh96YAQISUdtHCCgA%3D&ticket=JrciD7q2bF1y2mDWFHmEyibbOnNwb2JBRF7z6tKAOIWkBimlPxCUaZyJnPLqsfdqsf3fpxWoxGasvatKA8S6-h4tlDvxQcm8Gc10dSF9q_E%3D)
 
-* [Documentação do Adobe Advertising](https://experienceleague.adobe.com/docs/advertising.html?lang=pt-BR) no Experience League
+* [Documentação do Adobe Advertising](https://experienceleague.adobe.com/docs/advertising.html) no Experience League
 
 **Aplicativos ou serviços compatíveis**
 

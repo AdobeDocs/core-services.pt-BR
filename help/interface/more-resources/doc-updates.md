@@ -43,7 +43,7 @@ Saiba onde as atualizações de documentação ocorrem para a interface central 
 
 Atualizações de abril e maio para o guia de interface central do CX Enterprise:
 
-* Documentação de reformulação da Experience Cloud para o **CX Enterprise** em todo o guia, incluindo descrições, texto de link e metadados de marca automática.
+* Documentação de reformulação da Experience Cloud para **CX Enterprise** em todo o guia, incluindo descrições, texto de link e metadados de marca automática.
 * Adicionadas as notas de versão de [abril de 2026](release-notes.md) para a página inicial atualizada em `https://experience.adobe.com/home` (atualização da interface, modo escuro e melhorias de acessibilidade).
 * Atualização da [IA de agente na CX Enterprise](../features/agentic-ai.md): Adobe Marketing Agent for Microsoft 365 Copilot, recursos de agente revisados e uma **coluna de Dados de Integridade/pronta para HIPAA** na tabela de agente de aplicativos existentes.
 * Pequenas atualizações na [Coleta de dados regional](../data-collection/rdc.md), [Validar o encaminhamento do nome do host](../data-collection/adobe-managed-cert.md) e [Terminologia](terms.md).

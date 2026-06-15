@@ -23,8 +23,8 @@ topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
 source-git-commit: 50012e2564e88e1a6e16578e3331136c7df0cb21
 workflow-type: tm+mt
-source-wordcount: 585
-ht-degree: 33%
+source-wordcount: 598
+ht-degree: 32%
 
 ---
 
@@ -36,7 +36,7 @@ A organização funciona como uma empresa de login que abrange todos os produtos
 
 ![Organizações da CX Enterprise](../assets/organizations-menu.png)
 
-Para verificar se você fez logon na organização correta, clique em **[!UICONTROL Profile]** para ver o nome da organização padrão. Se você tiver acesso a mais de uma organização, também poderá visualizar e alternar para outra organização na barra do cabeçalho.
+Para verificar se você fez logon na organização correta, clique em **[!UICONTROL Perfil]** para ver o nome da organização padrão. Se você tiver acesso a mais de uma organização, também poderá visualizar e alternar para outra organização na barra do cabeçalho.
 
 >[!NOTE]
 >
@@ -50,7 +50,7 @@ Por exemplo, para uma organização com Federated IDs e o domínio `example.com`
 
 ## Exibir a ID da organização
 
-Você pode localizar a ID da organização atribuída para fins de suporte. Você pode verificar se está na organização correta ou alternar entre organizações usando o seletor **[!UICONTROL Organization]** no cabeçalho.
+Você pode localizar a ID da organização atribuída para fins de suporte. Você pode verificar se está na organização correta ou alternar entre organizações usando o seletor **[!UICONTROL Organização]** no cabeçalho.
 
 A ID da organização é a ID associada à empresa provisionada pela CX Enterprise. A ID é uma string de 24 caracteres alfanuméricos seguidos por (e deve incluir) `@AdobeOrg`.
 
@@ -62,7 +62,7 @@ Você pode exibir a ID da organização, juntamente com outras informações da 
 
    ![ID da organização atribuída](../assets/assigned-organization.png)
 
-1. Em **[!UICONTROL User Information]**, procure por **[!UICONTROL Current Org ID]** e você pode localizar a ID da organização.
+1. Em **[!UICONTROL Informações do Usuário]**, procure a **[!UICONTROL ID da Organização Atual]** e localize a ID da organização.
 
    Como alternativa, os administradores podem fazer logon na Admin Console (acesse [https://adminconsole.adobe.com](https://adminconsole.adobe.com)) e visualizar a ID da organização na URL.
 
@@ -82,7 +82,7 @@ Normalmente, os administradores do CX Enterprise concedem acesso a aplicativos e
 
 1. Faça logon usando a Adobe ID ou Enterprise ID.
 
-1. Clique no **[!UICONTROL Application selector]**. ( ![menu](../assets/apps-icon.png)).
+1. Clique no **[!UICONTROL Seletor de aplicativos]**. ( ![menu](../assets/apps-icon.png)).
 
    ![Vincular uma conta do aplicativo a uma Adobe ID](../assets/solutions-active.png)
 
@@ -94,15 +94,15 @@ Normalmente, os administradores do CX Enterprise concedem acesso a aplicativos e
 
    Esse tipo de mensagem será exibido se você fizer parte do grupo adequado (e tiver permissão para o aplicativo), mas ainda não tiver vinculado as credenciais da conta à Adobe ID.
 
-1. Clique em **[!UICONTROL Link Account]** e forneça suas credenciais.
+1. Clique em **[!UICONTROL Vincular Conta]** e forneça suas credenciais.
 
 ## Especificar uma organização padrão
 
 Você pode especificar uma organização padrão para usar ao fazer logon.
 
-1. No cabeçalho, clique em **[!UICONTROL Profile]** e, em seguida, clique em Preferências.
+1. No cabeçalho, clique em **[!UICONTROL Perfil]** e em Preferências.
 
-1. Em [!UICONTROL General], selecione uma organização padrão.
+1. Em [!UICONTROL Geral], selecione uma organização padrão.
 
 
 ![Editar perfil](../assets/edit-profile.png)

@@ -33,8 +33,8 @@ topic_v2:
   - id: f4e6943a-c91a-4134-a2c7-f4f20cfff2f0
 source-git-commit: 50012e2564e88e1a6e16578e3331136c7df0cb21
 workflow-type: tm+mt
-source-wordcount: 2150
-ht-degree: 44%
+source-wordcount: 2192
+ht-degree: 43%
 
 ---
 
@@ -52,7 +52,7 @@ O link **[!UICONTROL Admin Console]** está disponível no menu de navegação d
 
 ### Opcional: vincular contas de usuário existentes {#link-accounts}
 
-Provavelmente, há usuários que já são membros de grupos de aplicativos, como um grupo do Analytics gerenciado anteriormente em [!UICONTROL Analytics] > [!UICONTROL Admin Tools].
+Provavelmente, há usuários que já são membros de grupos de aplicativos, como um grupo do Analytics gerenciado anteriormente no [!UICONTROL Analytics] > [!UICONTROL Ferramentas administrativas].
 
 Quando você mapeia esses grupos para grupos corporativos do CX Enterprise, esses usuários devem vincular manualmente suas credenciais de conta do aplicativo à Adobe ID.
 
@@ -86,7 +86,7 @@ Requisitos de [!DNL Analytics] e [!DNL Adobe Target] para usar o CX Enterprise:
      >
      >No [!DNL Target], migre para at.js a partir do `mbox.js`. Consulte [Atualização da at.js 1. x para at.js 2. x](https://experienceleague.adobe.com/pt-br/docs/target-dev/developer/client-side/at-js-implementation/upgrading-from-atjs-1x-to-atjs-20).
 
-1. [Gerenciar usuários e produtos](../administration/admin-console.md) no [!UICONTROL Admin Console].
+1. [Gerenciar usuários e produtos](../administration/admin-console.md) na [!UICONTROL Admin Console].
 
 **Relacionados:** [Analytics e Target - Sincronizar IDs de clientes](#sync-ids) (nesta página)
 
@@ -94,16 +94,16 @@ Requisitos de [!DNL Analytics] e [!DNL Adobe Target] para usar o CX Enterprise:
 
 O [!UICONTROL CX Enterprise ID Service] fornece uma ID comum para integração entre aplicativos. Ele fornece identificação de visitantes entre domínios e um caminho para segmentação e personalização entre dispositivos/navegadores com base nos dados do CRM carregados por [!DNL Customer Attributes].
 
-O método mais simples de habilitar os serviços principais do CX Enterprise é ativá-lo automaticamente para o Analytics e o Adobe Target por meio da [extensão do CX Enterprise ID Service](https://experienceleague.adobe.com/docs/experience-platform/tags/extensions/adobe/id-service/overview.html?lang=pt-BR) em [!UICONTROL Experience Platform Launch].
+O método mais simples de habilitar os serviços principais do CX Enterprise é ativá-lo automaticamente para o Analytics e o Adobe Target por meio da [extensão do CX Enterprise ID Service](https://experienceleague.adobe.com/docs/experience-platform/tags/extensions/adobe/id-service/overview.html?lang=pt-BR) no [!UICONTROL Experience Platform Launch].
 
 >[!NOTE]
 >
 >Para obter a ajuda completa do CX Enterprise ID Service (antiga ID de visitante), consulte a [Visão geral do CX Enterprise Identity Service](https://experienceleague.adobe.com/docs/id-service/using/intro/overview.html?lang=pt-BR#intro).
 
 
-**Não Está Usando [!UICONTROL Experience Platform tags]?**
+**Não está usando [!UICONTROL marcas Experience Platform]?**
 
-Se você não estiver usando o [!UICONTROL Experience Platform tags], implemente manualmente o serviço de ID por meio da Implantação do JavaScript (`VisitorAPI.js`) da seguinte maneira:
+Se você não estiver usando [!UICONTROL marcas Experience Platform], implemente o serviço de ID de forma manual pela Implantação da JavaScript (`VisitorAPI.js`) da seguinte maneira:
 
 | Tarefa | Descrição |
 | --- | --- |
@@ -155,7 +155,7 @@ Recomenda-se modernizar sua implementação do Analytics ao atualizar suas bibli
 
 ## Atualizar a implementação do Adobe Target
 
-* É recomendável adicionar uma [extensão do Adobe Target](https://experienceleague.adobe.com/docs/experience-platform/tags/extensions/adobe/target-v2/overview.html?lang=pt-BR) às tags [!UICONTROL Experience Platform], para que a recuperação da biblioteca seja automática. Você também pode configurar a [extensão do CX Enterprise ID Service](https://experienceleague.adobe.com/docs/experience-platform/tags/extensions/adobe/id-service/overview.html?lang=pt-BR) para o Adobe Target (e outros aplicativos) usando as tags [!UICONTROL Experience Platform]. A atualização [!UICONTROL CX Enterprise ID Service] **é necessária** para que a Adobe Target use os serviços de Pessoas.
+* É recomendável adicionar uma [extensão do Adobe Target](https://experienceleague.adobe.com/docs/experience-platform/tags/extensions/adobe/target-v2/overview.html?lang=pt-BR) às marcas [!UICONTROL Experience Platform], para que a recuperação da biblioteca seja automática. Você também pode configurar a [extensão do CX Enterprise ID Service](https://experienceleague.adobe.com/docs/experience-platform/tags/extensions/adobe/id-service/overview.html?lang=pt-BR) para o Adobe Target (e outros aplicativos) usando as tags [!UICONTROL Experience Platform]. A atualização **do [!UICONTROL CX Enterprise ID Service] é necessária** para que a Adobe Target use os serviços de Pessoas.
 * Se você não estiver usando as marcas [!UICONTROL Experience Platform], [atualize a biblioteca mbox](https://experienceleague.adobe.com/docs/target/using/implement-target/client-side/implement-target-for-client-side-web.html?lang=pt-BR) manualmente.
 * Solicite acesso para usar o Adobe Analytics como fonte de relatórios para o [!DNL Adobe Target]. Os dados do [!DNL Target] e do [!DNL Analytics] são combinados na mesma chamada de servidor durante o processamento para que os visitantes sejam conectados entre os dois aplicativos. Consulte [Implementação do Analytics for Target](https://experienceleague.adobe.com/docs/target/using/integrate/a4t/a4t.html?lang=pt-BR).
 
@@ -206,23 +206,23 @@ Os usuários adicionados ao grupo [!DNL Customer Attributes] poderão ver o item
 
 Tire proveito dos seguintes recursos.
 
-### [!UICONTROL Customer Attributes]
+### [!UICONTROL Atributos do cliente]
 
 Se você capturar os dados de clientes de empresas em um banco de dados de gerenciamento de relacionamento com o cliente (CRM), poderá fazer upload dos dados em uma fonte de dados do atributo do cliente no CX Enterprise. Após feito o upload, utilize os dados no [!DNL Adobe Analytics] e [!DNL Adobe Target].
 
 Consulte [Atributos do cliente](https://experienceleague.adobe.com/pt-br/docs/core-services/interface/services/customer-attributes/attributes) para obter mais informações.
 
-### [!UICONTROL People] > [!UICONTROL Audience Library]
+### [!UICONTROL Pessoas] > [!UICONTROL Biblioteca de público-alvo]
 
-A CX Enterprise [!UICONTROL Audiences] é a interface que permite criar públicos-alvo, combinar públicos-alvo existentes para criar públicos-alvo compostos e exibir todos os públicos-alvo compartilhados.
+O CX Enterprise [!UICONTROL Audiences] é a interface que permite criar públicos-alvo, combinar públicos-alvo existentes para criar públicos-alvo compostos e exibir todos os públicos-alvo compartilhados.
 
 Consulte [Públicos-alvo](https://experienceleague.adobe.com/pt-br/docs/core-services/interface/services/audiences/overview) para obter mais informações.
 
 ## Armazenamento de dados e divulgação de privacidade
 
-Caso você use a definição de perfil do público-alvo em tempo real e outros serviços principais da Adobe [!DNL CX Enterprise], esses serviços podem afetar o centro de dados (e país) em que estão seus dados. Especificamente, visto que [!DNL CX Enterprise] usa o Audience Manager, os dados usados no serviço [!UICONTROL People] devem ficar nos servidores Audience Manager nos Estados Unidos.
+Caso você use a definição de perfil do público-alvo em tempo real e outros serviços principais da Adobe [!DNL CX Enterprise], esses serviços podem afetar o centro de dados (e país) em que estão seus dados. Especificamente, visto que [!DNL CX Enterprise] usa o Audience Manager, os dados usados no serviço [!UICONTROL Pessoas] devem ficar nos servidores Audience Manager nos Estados Unidos.
 
-Ao usar os serviços disponibilizados pelo serviço [!UICONTROL People], os tipos de dados enviados de outros produtos da Adobe para o gerenciamento de público-alvo são:
+Ao usar os serviços disponibilizados pelo serviço [!UICONTROL Pessoas], os tipos de dados enviados de outros produtos da Adobe para o gerenciamento de público-alvo são:
 
 * Pares de valor/principais do [!DNL Analytics] (props, eVars, list vars e assim por diante). Por padrão, as linhas de log incluem endereço IP, inclusive o último octeto do IP (se o endereço IP não tiver sido modificado pelas configurações de ofuscação de IP no Adobe [!DNL Analytics]).
 * Traços e segmentos para os quais os visitantes se qualificam com base nas regras configuradas no Audience Manager.

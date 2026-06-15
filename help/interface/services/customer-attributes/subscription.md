@@ -21,8 +21,8 @@ topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
 source-git-commit: 50012e2564e88e1a6e16578e3331136c7df0cb21
 workflow-type: tm+mt
-source-wordcount: 408
-ht-degree: 47%
+source-wordcount: 421
+ht-degree: 46%
 
 ---
 
@@ -36,17 +36,17 @@ Por exemplo, uma assinatura do Adobe Analytics permite atribuir dados em relató
 
 1. Localize sua fonte de dados em [!DNL Customer Attributes] para edição:
 
-   Em [!DNL CX Enterprise], clique em **[!UICONTROL Apps]** ![menu](assets/menu-icon.png) > **[!DNL Customer Attributes]**.
+   Em [!DNL CX Enterprise], clique em **[!UICONTROL Aplicativos]** ![menu](assets/menu-icon.png) > **[!DNL Customer Attributes]**.
 
-1. Em [!UICONTROL Edit Customer Attribute Source], clique em **[!UICONTROL File Upload]**.
+1. Em [!UICONTROL Editar Source de Atributos do Cliente], clique em **[!UICONTROL Upload de Arquivo]**.
 
-1. Clique em **[!UICONTROL Configure Subscriptions]**.
+1. Clique em **[!UICONTROL Configurar assinaturas]**.
 
    ![Configurar assinaturas na CX Enterprise](assets/configure-subscriptions.png)
 
-1. Para ativar a fonte de atributo do cliente, clique em **[!UICONTROL Active]** e em **[!UICONTROL Save]**.
+1. Para ativar a fonte de atributo do cliente, clique em **[!UICONTROL Ativo]** e em **[!UICONTROL Salvar]**.
 
-1. Para configurar uma assinatura para [!DNL Analytics] ou [!DNL Target], clique em **[!UICONTROL Configure]**.
+1. Para configurar uma assinatura para [!DNL Analytics] ou [!DNL Target], clique em **[!UICONTROL Configurar]**.
 
    O exemplo a seguir mostra uma assinatura [!DNL Target]:
 

@@ -26,14 +26,14 @@ topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
 source-git-commit: 50012e2564e88e1a6e16578e3331136c7df0cb21
 workflow-type: tm+mt
-source-wordcount: 697
-ht-degree: 74%
+source-wordcount: 726
+ht-degree: 72%
 
 ---
 
 # CX Enterprise Triggers
 
-O [!UICONTROL Triggers] no CX Enterprise permite identificar, definir e monitorar os comportamentos dos principais consumidores e gerar comunicação entre aplicativos para atrair os visitantes novamente. Você pode usar acionadores em personalizações e decisões em tempo real.
+[!UICONTROL Triggers] no CX Enterprise permite que você identifique, defina e monitore os comportamentos dos principais consumidores e gere comunicação entre aplicativos para atrair os visitantes novamente. Você pode usar acionadores em personalizações e decisões em tempo real.
 
 Por exemplo:
 
@@ -63,9 +63,9 @@ Crie um acionador e configure as condições para ele. Por exemplo, você pode e
 >
 >No momento, há um limite técnico de 100 acionadores.
 
-1. No CX Enterprise, clique em ![menu](../assets/menu-icon.png) e em **[!UICONTROL Data Collection/Launch]**.
-1. No cartão [!UICONTROL Triggers], clique em **[!UICONTROL Manage Triggers]**.
-1. Clique em **[!UICONTROL New Trigger]** e especifique o tipo de gatilho:
+1. No CX Enterprise, clique em ![menu](../assets/menu-icon.png) e em **[!UICONTROL Coleção de dados/Launch]**.
+1. No cartão [!UICONTROL Triggers], clique em **[!UICONTROL Gerenciar Triggers]**.
+1. Clique em **[!UICONTROL Novo acionador]** e especifique o tipo de acionador:
 
    ![Resultado da etapa](../assets/add-trigger.png)
 
@@ -73,11 +73,11 @@ Crie um acionador e configure as condições para ele. Por exemplo, você pode e
 
    | Elemento | Descrição |
    | --- | --- |
-   | [!UICONTROL Name] | O nome amigável deste acionador. |
-   | [!UICONTROL Description] | A descrição deste acionador, como você o usará etc. |
-   | [!UICONTROL Report Suite] | O [conjunto de relatórios](https://experienceleague.adobe.com/docs/analytics/admin/manage-report-suites/report-suites-admin.html?lang=pt-BR) do Analytics usado para esse acionador. Esta configuração identifica os dados de relatório que serão usados. |
-   | A visita deve incluir o acionador<br>A visita não deve incluir<br>depois de nenhuma ação<br>Incluir metadados | Você pode definir critérios ou comportamentos de usuário que você deseja que ocorram, além de comportamentos que você não deseja que ocorram. Por exemplo, as regras para o acionador de um simples abandono de carrinho de compras podem ser:<ul><li>A visita deve incluir: [!UICONTROL Cart Addition] (métrica) e [!UICONTROL Exists]. (Mais tarde, você pode redefinir a regra com uma visualização de produto específica ou dimensões como Tipos de navegador.)</li><li>A visita não deve incluir: [!UICONTROL Checkout].</li><li>Acionar depois de nenhuma ação por: 10 minutos.</li><li>[!UICONTROL Include Meta Data]: Permite adicionar uma dimensão [!DNL Campaign] específica ou variáveis relevantes ao comportamento do visitante. Este campo pode ser útil ao criar o email de remarketing correto no Adobe Campaign.</li></ul><br>Você pode especificar a lógica [!UICONTROL Any], [!UICONTROL And] ou [!UICONTROL Or] dentro ou entre contêineres, dependendo dos critérios que você determinar que são importantes para a regra. |
-   | [!UICONTROL Container] | [!UICONTROL Containers] é onde você configura e armazena regras, condições ou filtros que definem um gatilho. Se você desejar que eventos sejam executados ao mesmo tempo, coloque-os no mesmo contêiner. Ou seja, cada contêiner é processado de maneira independente no nível da ocorrência. Por exemplo, se você tiver dois contêineres unidos pelo operador AND, poderá esperar que as regras se qualifiquem quando duas ocorrências atenderem aos requisitos. |
+   | [!UICONTROL Nome] | O nome amigável deste acionador. |
+   | [!UICONTROL Descrição] | A descrição deste acionador, como você o usará etc. |
+   | [!UICONTROL Conjunto de Relatórios] | O [conjunto de relatórios](https://experienceleague.adobe.com/docs/analytics/admin/manage-report-suites/report-suites-admin.html?lang=pt-BR) do Analytics usado para esse acionador. Esta configuração identifica os dados de relatório que serão usados. |
+   | A visita deve incluir o acionador<br>A visita não deve incluir<br>depois de nenhuma ação<br>Incluir metadados | Você pode definir critérios ou comportamentos de usuário que você deseja que ocorram, além de comportamentos que você não deseja que ocorram. Por exemplo, as regras para o acionador de um simples abandono de carrinho de compras podem ser:<ul><li>A visita deve incluir: [!UICONTROL Adição ao carrinho] (métrica) e [!UICONTROL Existe]. (Mais tarde, você pode redefinir a regra com uma visualização de produto específica ou dimensões como Tipos de navegador.)</li><li>A visita não deve incluir: [!UICONTROL Check-out].</li><li>Acionar depois de nenhuma ação por: 10 minutos.</li><li>[!UICONTROL Incluir dados do Meta]: permite adicionar uma dimensão [!DNL Campaign] específica ou variáveis relevantes ao comportamento do visitante. Este campo pode ser útil ao criar o email de remarketing correto no Adobe Campaign.</li></ul><br>Você pode especificar a lógica [!UICONTROL Qualquer], [!UICONTROL E] ou [!UICONTROL Ou] dentro de ou entre contêineres, dependendo dos critérios que você determinar que são importantes para a regra. |
+   | [!UICONTROL Contêiner] | [!UICONTROL Nos contêineres] você pode configurar e armazenar regras, condições ou filtros que definem um gatilho. Se você desejar que eventos sejam executados ao mesmo tempo, coloque-os no mesmo contêiner. Ou seja, cada contêiner é processado de maneira independente no nível da ocorrência. Por exemplo, se você tiver dois contêineres unidos pelo operador AND, poderá esperar que as regras se qualifiquem quando duas ocorrências atenderem aos requisitos. |
    | Iniciar nova sessão após | Crie um acionador para o início da sessão e outro para o término. |
 
    {style="table-layout:auto"}
@@ -91,7 +91,7 @@ Exemplos de CX Enterprise Triggers:
 
 ### Acionador de Abandono do carrinho
 
-Por exemplo, a página a seguir mostra regras que você poderia usar em um acionador [!UICONTROL Cart Abandonment], com base em produtos visualizados durante uma visita.
+Por exemplo, a página a seguir mostra regras que você poderia usar em um acionador de [!UICONTROL Abandono do carrinho], com base em produtos visualizados durante uma visita.
 
 ![Acionador de Abandono do carrinho](../assets/abandonment-trigger.png)
 

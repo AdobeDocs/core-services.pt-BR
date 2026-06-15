@@ -15,8 +15,8 @@ topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
 source-git-commit: 50012e2564e88e1a6e16578e3331136c7df0cb21
 workflow-type: tm+mt
-source-wordcount: 54
-ht-degree: 42%
+source-wordcount: 60
+ht-degree: 38%
 
 ---
 
@@ -24,7 +24,7 @@ ht-degree: 42%
 
 Como excluir e substituir atributos no esquema.
 
-1. Na página [!UICONTROL Edit Customer Attribute Source], clique em Configurar Assinaturas.
+1. Na página [!UICONTROL Editar Source de atributo do cliente], clique em Configurar assinaturas.
 
 1. Remover valores mapeados para **[!UICONTROL Target]** ou **[!UICONTROL Analytics]**.
 

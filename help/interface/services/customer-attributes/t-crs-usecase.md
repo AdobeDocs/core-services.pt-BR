@@ -47,7 +47,7 @@ Crie a fonte de atributo do cliente (arquivos `.csv` e `.fin`) e carregue os dad
 
 * O **Adobe Target** `at.js` (qualquer versão) ou `mbox.js` versão 58 ou posterior é necessário para os atributos do cliente.
 
-  Consulte [Como implantar at.js](https://experienceleague.adobe.com/en/docs/target-dev/developer/client-side/overview).
+  Consulte [Como implantar at.js](https://experienceleague.adobe.com/pt-br/docs/target-dev/developer/client-side/overview).
 
 ## Criar um arquivo de dados
 
@@ -98,7 +98,7 @@ Execute essas etapas na página _[!UICONTROL Criar Source de atributo do cliente
 
       * **Marcas:** A ID de Alias corresponde ao valor de *Código de Integração* em [!UICONTROL Configurações do Cliente], na ferramenta [CX Enterprise ID Service](https://experienceleague.adobe.com/docs/experience-platform/tags/home.html?lang=pt-BR).
 
-      * **API de Visitante:** A ID de Alias corresponde às [IDs do cliente](https://experienceleague.adobe.com/docs/id-service/using/reference/authenticated-state.html) adicionais que você pode associar a cada visitante.
+      * **API de Visitante:** A ID de Alias corresponde às [IDs do cliente](https://experienceleague.adobe.com/docs/id-service/using/reference/authenticated-state.html?lang=pt-BR) adicionais que você pode associar a cada visitante.
 
         Por exemplo, *&quot;crm_ id&quot;* em:
 
@@ -120,7 +120,7 @@ Execute essas etapas na página _[!UICONTROL Criar Source de atributo do cliente
 
         Consulte [Como aproveitar várias fontes de dados](crs-data-file.md#section_76DEB6001C614F4DB8BCC3E5D05088CB) para obter informações adicionais sobre o processamento de dados relacionado ao campo de ID de alias e IDs do cliente.
 
-   * **[!UICONTROL Código do Namespace:]** Use este valor para identificar a fonte de atributo do cliente ao usar o [IdentityMap](https://experienceleague.adobe.com/en/docs/experience-platform/web-sdk/identity/overview) como parte de uma Implementação do AEP WebSDK.
+   * **[!UICONTROL Código do Namespace:]** Use este valor para identificar a fonte de atributo do cliente ao usar o [IdentityMap](https://experienceleague.adobe.com/pt-br/docs/experience-platform/web-sdk/identity/overview) como parte de uma Implementação do AEP WebSDK.
 
 1. Clique em **[!UICONTROL Save]**.
 

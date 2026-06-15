@@ -59,7 +59,7 @@ Para acessar os aplicativos e serviços do CX Enterprise fornecidos para você e
 
 ## Obter ajuda e suporte {#support}
 
-Acesse o aprendizado e a ajuda usando a **[!UICONTROL Central de ajuda]** (![asset](assets/help-icon.png)) no cabeçalho, incluindo o conteúdo da ajuda (documentação, tutoriais e cursos) no [Experience League](https://experienceleague.adobe.com/?lang=pt-BR#home), bem como recursos adicionais para aplicativos individuais. Você também pode enviar feedback aberto e criar tíquetes de suporte priorizados.
+Acesse o aprendizado e a ajuda usando a **[!UICONTROL Central de ajuda]** (![asset](assets/help-icon.png)) no cabeçalho, incluindo o conteúdo da ajuda (documentação, tutoriais e cursos) no [Experience League](https://experienceleague.adobe.com/pt-br?lang=pt-BR#home), bem como recursos adicionais para aplicativos individuais. Você também pode enviar feedback aberto e criar tíquetes de suporte priorizados.
 
 ![Obter ajuda e suporte](assets/search-menu.png)
 
@@ -67,7 +67,7 @@ O menu [!UICONTROL Ajuda] também fornece acesso a:
 
 * **[!UICONTROL Suporte]:** crie um tíquete de suporte ou contate o [!UICONTROL Suporte] usando o Twitter.
 * **[!UICONTROL Feedback]:** Compartilhe um feedback sobre a sua experiência com o CX Enterprise. Seu feedback é usado para melhorar os produtos e serviços do Adobe.
-* **[!UICONTROL Status]:** navegue até `https://status.adobe.com/experience_cloud` e verifique o status operacional do produto e [!UICONTROL Gerenciar assinaturas].
+* **[!UICONTROL Status]:** navegue até `https://status.adobe.com/pt-br/experience_cloud` e verifique o status operacional do produto e [!UICONTROL Gerenciar assinaturas].
 * **[!UICONTROL Developer Connection]:** Navegue até `adobe.io` e encontre a documentação do desenvolvedor.
 
 ## Gerenciar seu perfil de usuário

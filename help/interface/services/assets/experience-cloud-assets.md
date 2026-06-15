@@ -9,22 +9,15 @@ role: Admin
 level: Experienced
 exl-id: 643c878f-c2f3-4c1d-ae3e-6a75c95520b4
 TQID: https://experienceleague.adobe.com/XJqrWBg6tscTfgoA02FlqgxaziNOb0fL1LvEdUv0Ot0
-product_v2:
-  - id: d0a3eab4-7b10-4d96-a71e-6c0f8e7b7c87
-feature_v2:
-  - id: fc7979f3-56c3-43ca-9784-f1ea3dc69c4b
-  - id: fdbb8fc9-ffa3-4b86-88fe-aa4c5a3e1bc6
-subfeature_v2:
-  - id: b75843fa-0a67-4a44-a6b1-cc627b0481dc
-  - id: fef08361-6ac5-460c-93fe-d063e40b6a49
-role_v2:
-  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
-topic_v2:
-  - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
+product_v2: id: d0a3eab4-7b10-4d96-a71e-6c0f8e7b7c87
+feature_v2: id: fc7979f3-56c3-43ca-9784-f1ea3dc69c4bid: fdbb8fc9-ffa3-4b86-88fe-aa4c5a3e1bc6
+subfeature_v2: id: b75843fa-0a67-4a44-a6b1-cc627b0481dcid: fef08361-6ac5-460c-93fe-d063e40b6a49
+role_v2: id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+topic_v2: id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
 source-git-commit: 50012e2564e88e1a6e16578e3331136c7df0cb21
 workflow-type: tm+mt
-source-wordcount: 320
-ht-degree: 69%
+source-wordcount: 330
+ht-degree: 67%
 
 ---
 
@@ -50,7 +43,7 @@ Usar ativos melhora a consistência e a conformidade da marca, além de acelerar
 
 ## Acessar a barra de ferramentas
 
-Navegue até um ativo (ou diretório de ativo) e clique em **[!UICONTROL Select]**.
+Navegue até um ativo (ou diretório de ativo) e clique em **[!UICONTROL Selecionar]**.
 
 A barra de ferramentas fornece acesso rápido aos recursos, incluindo Pesquisa, Linha do tempo, Representações, Edição, Anotação e Download.
 
@@ -78,13 +71,13 @@ Você pode pesquisar por palavra-chave, tipo de arquivo, tamanho, última modifi
 
 ## Comentar ativos
 
-Clique em **[!UICONTROL Annotate]** desenhando círculos ou setas em uma imagem e anotando o ativo para análise pelos colegas de trabalho.
+Clique em **[!UICONTROL Anotar]** desenhando círculos ou setas em uma imagem e anotando o ativo para análise pelos colegas de trabalho.
 
 ![Comentar ativos](../../assets/assets-annotate.png)
 
 ## Exibir ativos de tela inteira e utilizar o zoom
 
-Clique em **[!UICONTROL Views]** > **[!UICONTROL Image]** para exibir a imagem de ativo completa e habilitar o zoom.
+Clique em **[!UICONTROL Exibições]** > **[!UICONTROL Imagem]** para exibir a imagem de ativo completa e habilitar o zoom.
 
 ![Exibir ativos em tela cheia](../../assets/asset-zoom.png)
 
@@ -92,7 +85,7 @@ Clique em **[!UICONTROL Views]** > **[!UICONTROL Image]** para exibir a imagem d
 
 Escolha entre exibição de cartão com propriedades, de lista e de coluna para encontrar os ativos de forma mais fácil.
 
-Clique em **[!UICONTROL Views]** > **[!UICONTROL Properties]** para exibir as propriedades de um ativo:
+Clique em **[!UICONTROL Exibições]** > **[!UICONTROL Propriedades]** para exibir as propriedades de um ativo:
 
 ![Exibir propriedades de ativos](../../assets/asset-properties.png)
 
@@ -100,6 +93,6 @@ Clique em **[!UICONTROL Views]** > **[!UICONTROL Properties]** para exibir as pr
 
 Consulte a quantidade de usuários, armazenamento usado e total de ativos.
 
-Clique em **[!UICONTROL Tools]** > **[!UICONTROL Reports]** > **[!UICONTROL Usage Report]**
+Clique em **[!UICONTROL Ferramentas]** > **[!UICONTROL Relatórios]** > **[!UICONTROL Relatório de Uso]**
 
 ![Executar relatórios de uso](../../assets/assets-usage-report.png)

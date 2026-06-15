@@ -7,17 +7,13 @@ role: Admin
 level: Experienced
 exl-id: 02417c0c-6780-4699-9470-f1685c3cd25d
 TQID: https://experienceleague.adobe.com/wU6Y5XK5Fs9-w7Jl7THXjturzTVrsB7eh7GdExsS2TQ
-product_v2:
-  - id: e1971122-7081-4556-9222-8a31bd71800c
-role_v2:
-  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
-topic_v2:
-  - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
-  - id: f4e6943a-c91a-4134-a2c7-f4f20cfff2f0
+product_v2: id: e1971122-7081-4556-9222-8a31bd71800c
+role_v2: id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+topic_v2: id: eddd9b14-83bd-4ff4-9072-54a4a484abb7id: f4e6943a-c91a-4134-a2c7-f4f20cfff2f0
 source-git-commit: 50012e2564e88e1a6e16578e3331136c7df0cb21
 workflow-type: tm+mt
-source-wordcount: 407
-ht-degree: 82%
+source-wordcount: 409
+ht-degree: 81%
 
 ---
 
@@ -49,7 +45,7 @@ Para fazer solicitações de acesso e exclusão de dados para [!DNL Customer Att
 
    Sua [ID da organização](../../administration/organizations.md) é uma string de 24 caracteres alfanuméricos anexada com @AdobeOrg. Você precisa da ID da organização para enviar solicitações à API de privacidade. Entre em contato com o Atendimento ao cliente da Adobe, em `gdprsupport@adobe.com`, caso não consiga localizar a ID.
 
-1. Em [!UICONTROL Privacy Service], você pode enviar solicitações de Acesso e Exclusão para [!DNL Customer Attributes] e verificar o status das solicitações existentes.
+1. No [!UICONTROL Privacy Service], você pode enviar solicitações de Acesso e Exclusão para [!DNL Customer Attributes] e verificar o status das solicitações existentes.
 
 ## Valores de campo obrigatórios em solicitações JSON de [!DNL Customer Attributes]
 

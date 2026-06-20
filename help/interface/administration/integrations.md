@@ -167,7 +167,7 @@ Sincronizar ativos no Adobe Experience Manager (AEM) Assets com a Adobe Creative
 
 * Ajuda (logon necessário): [Integração com as soluções e os serviços corporativos do Adobe CX](https://enterprise.efrontier.com/CMDashboard?ticket=JrciD7q2bF1y2mDWFHmEyhyMKZp71ZLeaANvF-RcNMF7oNuZNABh76cKJLNlJJeJ1hQ5vAW1AO1t1DW8tZWM3lYZ8TSh96YAQISUdtHCCgA%3D&ticket=JrciD7q2bF1y2mDWFHmEyibbOnNwb2JBRF7z6tKAOIWkBimlPxCUaZyJnPLqsfdqsf3fpxWoxGasvatKA8S6-h4tlDvxQcm8Gc10dSF9q_E%3D)
 
-* [Documentação do Adobe Advertising](https://experienceleague.adobe.com/docs/advertising.html) no Experience League
+* [Documentação do Adobe Advertising](https://experienceleague.adobe.com/docs/advertising.html?lang=pt-BR) no Experience League
 
 **Aplicativos ou serviços compatíveis**
 

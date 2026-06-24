@@ -33,7 +33,7 @@ ht-degree: 64%
 
 # CX Enterprise Triggers
 
-[!UICONTROL Triggers] no CX Enterprise permite que você identifique, defina e monitore os comportamentos dos principais consumidores e gere comunicação entre aplicativos para atrair os visitantes novamente. Você pode usar acionadores em personalizações e decisões em tempo real. Para obter mais informações sobre o uso de [!UICONTROL Triggers] com o Adobe Campaign, consulte [Campaign Standard](https://experienceleague.adobe.com/docs/campaign-standard/using/integrating-with-adobe-cloud/working-with-campaign-and-triggers/using-triggers-in-campaign.html).
+[!UICONTROL Triggers] no CX Enterprise permite que você identifique, defina e monitore os comportamentos dos principais consumidores e gere comunicação entre aplicativos para atrair os visitantes novamente. Você pode usar acionadores em personalizações e decisões em tempo real. Para obter mais informações sobre o uso de [!UICONTROL Triggers] com o Adobe Campaign, consulte [Campaign Standard](https://experienceleague.adobe.com/docs/campaign-standard/using/integrating-with-adobe-cloud/working-with-campaign-and-triggers/using-triggers-in-campaign.html?lang=pt-BR).
 
 Por exemplo:
 

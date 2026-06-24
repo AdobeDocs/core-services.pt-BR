@@ -416,7 +416,7 @@ O [!UICONTROL Assistente de IA] do [!DNL Workfront] ajuda você a realizar seu t
 <!--
 ## More help on this topic
 
-* [AI in CX Enterprise](https://experienceleague.adobe.com/en/docs/ai) documentation home
+* [AI in CX Enterprise](https://experienceleague.adobe.com/pt-br/docs/ai) documentation home
 -->
 
 **Aviso de isenção de responsabilidade:** as informações desta página são somente para fins informativos gerais. Embora sejam feitos esforços para garantir que as informações permaneçam precisas e atuais, os recursos de software e IA gerativa podem mudar com frequência. Portanto, a Adobe não garante a integridade, a precisão ou a confiabilidade das informações o tempo todo. Verifique todos os detalhes importantes antes de tomar decisões com base nesse conteúdo.

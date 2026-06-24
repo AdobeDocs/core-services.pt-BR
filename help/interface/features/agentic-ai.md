@@ -77,7 +77,7 @@ A tabela a seguir lista os Experience Platform Agents disponíveis como aplicati
 ## Mais ajuda sobre este tópico
 
 * [Trabalhos de agentes e consumo de crédito de IA](/help/interface/features/ai-credit-consumption.md)
-* Página inicial da documentação do [AI na CX Enterprise](https://experienceleague.adobe.com/en/docs/ai)
+* Página inicial da documentação do [AI na CX Enterprise](https://experienceleague.adobe.com/pt-br/docs/ai)
 * [Visão geral dos agentes no AEM](https://experienceleague.adobe.com/pt-br/docs/experience-manager-cloud-service/content/ai-in-aem/agents/overview)
 
 [!BADGE Saiba mais sobre o Adobe for Business]{type=Informative url="https://business.adobe.com/br/products/experience-platform/agent-orchestrator.html" tooltip="Acesse Business.adobe.com"}

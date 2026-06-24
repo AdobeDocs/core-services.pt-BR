@@ -24,16 +24,16 @@ topic_v2:
   - id: d3cdead0-685a-4489-9250-4bb709942f66
   - id: e0eb8757-182f-49f3-94a4-1587d16f5094
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
-source-git-commit: 50012e2564e88e1a6e16578e3331136c7df0cb21
+source-git-commit: e56a5463246fe74bd7393de446687b6464760db1
 workflow-type: tm+mt
-source-wordcount: 726
-ht-degree: 72%
+source-wordcount: 817
+ht-degree: 64%
 
 ---
 
 # CX Enterprise Triggers
 
-[!UICONTROL Triggers] no CX Enterprise permite que você identifique, defina e monitore os comportamentos dos principais consumidores e gere comunicação entre aplicativos para atrair os visitantes novamente. Você pode usar acionadores em personalizações e decisões em tempo real.
+[!UICONTROL Triggers] no CX Enterprise permite que você identifique, defina e monitore os comportamentos dos principais consumidores e gere comunicação entre aplicativos para atrair os visitantes novamente. Você pode usar acionadores em personalizações e decisões em tempo real. Para obter mais informações sobre o uso de [!UICONTROL Triggers] com o Adobe Campaign, consulte [Campaign Standard](https://experienceleague.adobe.com/docs/campaign-standard/using/integrating-with-adobe-cloud/working-with-campaign-and-triggers/using-triggers-in-campaign.html?lang=pt-BR).
 
 Por exemplo:
 
@@ -45,7 +45,7 @@ Por exemplo:
 
 >[!NOTE]
 >
->Mais informações sobre o uso de [!UICONTROL Triggers] estão disponíveis em [Campaign Standard](https://experienceleague.adobe.com/docs/campaign-standard/using/integrating-with-adobe-cloud/working-with-campaign-and-triggers/using-triggers-in-campaign.html?lang=pt-BR).
+>Os fatores desencadeantes não são determinísticos por natureza. Quando vários usuários compartilham um navegador ou dispositivo, como um dispositivo compartilhado ou público, talvez não seja possível mapear um acionador para a ID de visitante correta.
 
 ## Tipos de acionadores
 
@@ -101,3 +101,6 @@ O acionador a seguir é disparado quando uma ocorrência acompanhar o produto de
 
 ![Acionador do referenciador](../assets/fb-boots-promo.png)
 
+## Verificando a atividade do acionador
+
+Para verificar se um gatilho foi acionado, use a interface [!UICONTROL Triggers] para examinar a atividade recente do gatilho. A interface exibe um número limitado de eventos de acionador recentes, portanto, para implementações com grandes volumes de dados, ela pode não mostrar todas as atividades de acionador. A verificação programática por meio de uma API não é compatível no momento.

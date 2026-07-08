@@ -17,9 +17,9 @@ subfeature_v2:
   - id: cda95149-19e1-4cfa-a57e-751283a32378
 topic_v2:
   - id: bbbea26f-9621-49eb-9ab8-e06fb3bbce8c
-source-git-commit: 5c3f20052f8c0a847cd0c56f02697c1d749c040c
+source-git-commit: 79c2a309c7df2d6afd36b38134609a144a40a482
 workflow-type: tm+mt
-source-wordcount: 917
+source-wordcount: 1009
 ht-degree: 2%
 
 ---
@@ -49,6 +49,14 @@ Os agentes no escopo para monitoramento de uso estão listados em [Agentes de IA
 ## Habilitar permissões de painel {#permissions}
 
 Conceda acesso ao painel em [!DNL Adobe Experience Platform] atualizando o perfil do produto ou a função para cada usuário autorizado. O recurso [!UICONTROL Monitoramento] é exibido para os usuários na home page do CX Enterprise após a habilitação das permissões.
+
+>[!IMPORTANT]
+>
+>O monitoramento de dados está disponível somente na sandbox de produção padrão. Sandboxes de desenvolvimento não são compatíveis com a exibição de dados de monitoramento. Os usuários devem ter as permissões de Monitoramento necessárias para a sandbox de produção padrão e alternar para essa sandbox para exibir dados de monitoramento.
+>
+>Para ajudar a evitar confusão, a Adobe recomenda conceder permissões de Monitoramento em todas as sandboxes, incluindo a sandbox de produção padrão. Isso ajuda a garantir que os usuários possam acessar o painel de monitoramento, independentemente da sandbox selecionada no momento, e reduz a probabilidade de confundir uma sandbox não compatível com um painel vazio ou não funcional.
+
+**Para habilitar permissões de painel**
 
 1. Vá para [!DNL Experience Platform] **Administração** > **Permissões**.
 

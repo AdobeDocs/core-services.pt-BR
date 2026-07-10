@@ -8,25 +8,15 @@ role: Admin
 level: Experienced
 exl-id: 6031e544-822b-4843-b3d8-98a36a3c40e8
 TQID: https://experienceleague.adobe.com/ZAKogDXCbaZHOiyzlgg6Od0pxGwWi2w9yXtPnKWZKUw
-product_v2:
-  - id: d0a3eab4-7b10-4d96-a71e-6c0f8e7b7c87
-feature_v2:
-  - id: fc7979f3-56c3-43ca-9784-f1ea3dc69c4b
-  - id: fdbb8fc9-ffa3-4b86-88fe-aa4c5a3e1bc6
-subfeature_v2:
-  - id: b75843fa-0a67-4a44-a6b1-cc627b0481dc
-  - id: fef08361-6ac5-460c-93fe-d063e40b6a49
-role_v2:
-  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
-topic_v2:
-  - id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
-  - id: c4147b6e-073b-4d3c-9ab1-d60f2f4434ef
-  - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
-  - id: fd2e3797-f2ea-4b36-a9af-52acf5e90513
-source-git-commit: 50012e2564e88e1a6e16578e3331136c7df0cb21
+product_v2: id: d0a3eab4-7b10-4d96-a71e-6c0f8e7b7c87
+feature_v2: id: fc7979f3-56c3-43ca-9784-f1ea3dc69c4bid: fdbb8fc9-ffa3-4b86-88fe-aa4c5a3e1bc6
+subfeature_v2: id: b75843fa-0a67-4a44-a6b1-cc627b0481dcid: fef08361-6ac5-460c-93fe-d063e40b6a49
+role_v2: id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+topic_v2: id: aa2f3246-cb95-4b30-8899-fdf7d73550ccid: c4147b6e-073b-4d3c-9ab1-d60f2f4434efid: eddd9b14-83bd-4ff4-9072-54a4a484abb7id: fd2e3797-f2ea-4b36-a9af-52acf5e90513
+source-git-commit: 7bfc22e90d727d1743c2b6b7bc645033d5d38f1b
 workflow-type: tm+mt
-source-wordcount: 1064
-ht-degree: 59%
+source-wordcount: 1058
+ht-degree: 60%
 
 ---
 
@@ -41,9 +31,9 @@ Orientação e limitações ao usar [!DNL Customer Attributes].
 | Problema | Descrição |
 | --- | --- |
 | Limitações de [!DNL Customer Attributes] [assinatura](subscription.md) | Ao atualizar para o Analytics Premium, há um atraso de 24 horas antes da disponibilização de mais atributos. Você pode ver um erro de [!UICONTROL Máximo de Assinatura de atributo] emitido durante esse atraso. |
-| Vários logons no mesmo dispositivo | Ao usar o [!DNL Customer Attributes] para carregar perfis de clientes em uma fonte de dados, a Adobe não recomenda que os usuários compartilhem dispositivos (ou seja, o mesmo CX Enterprise ID). O CX Enterprise ID (ECID) persiste no dispositivo. O compartilhamento de dispositivos pode fazer com que a ECID vincule vários usuários à mesma ECID, resultando em resultados inesperados [!DNL Target]. **Observação:** para dispositivos móveis, a ECID é permanente depois que o aplicativo para dispositivos móveis é instalado. Reinstale o aplicativo para gerar uma nova ECID. Na Web, um novo ECID é gerado depois que o cookie do navegador é limpo. |
+| Vários logons no mesmo dispositivo | Ao usar o [!DNL Customer Attributes] para carregar perfis de clientes em uma fonte de dados, a Adobe não recomenda que os usuários compartilhem dispositivos (ou seja, a mesma ECID). A ECID persiste no dispositivo. O compartilhamento de dispositivos pode fazer com que a ECID vincule vários usuários à mesma ECID, resultando em resultados inesperados [!DNL Target]. **Observação:** para dispositivos móveis, a ECID é permanente depois que o aplicativo para dispositivos móveis é instalado. Reinstale o aplicativo para gerar uma nova ECID. Na Web, um novo ECID é gerado depois que o cookie do navegador é limpo. |
 | Limitação diária de carregamento de frequência | A Adobe recomenda atualizar [!DNL Customer Attributes] apenas uma vez por dia. Aguarde pelo menos 24 horas para carregar outro arquivo de dados de perfil do cliente para o mesmo conjunto de perfis. |
-| ID personalizada do Analytics (`s.visitorID`) | Definir uma ID do cliente usando `s.visitorID` é um método para identificar usuários no Adobe Analytics. No entanto, as integrações nas quais os dados do [!DNL Analytics] são exportados ou importados usando o Serviço de ID não funcionarão quando um visitante for identificado usando `s.visitorID.`<br>Isso inclui, mas não se limita a, públicos compartilhados, [!DNL Analytics] para Adobe Target (A4T) e [!DNL Customer Attributes].<br>Para essas integrações, não há suporte para uma ID personalizada do Analytics. |
+| ID personalizada do Analytics (`s.visitorID`) | Definir uma ID do cliente usando `s.visitorID` é um método para identificar usuários no Adobe Analytics. No entanto, as integrações nas quais os dados do [!DNL Analytics] são exportados ou importados usando o Serviço de ID de Visitante não funcionarão quando um visitante for identificado usando `s.visitorID.`<br>Isso inclui, mas não se limita a, públicos compartilhados, [!DNL Analytics] para Adobe Target (A4T) e [!DNL Customer Attributes].<br>Para essas integrações, não há suporte para uma ID personalizada do Analytics. |
 | Limitações de comprimento de caracteres no [!DNL Analytics] | Ao criar uma [!DNL Analytics] [assinatura](subscription.md), os comprimentos de campo dos arquivos carregados são truncados para 255. |
 
 {style="table-layout:auto"}
@@ -55,13 +45,13 @@ Orientação e limitações ao usar [!DNL Customer Attributes].
 | Posso receber notificações sobre o status de upload de [!DNL Customer Attributes]? | Sim. |
 | O que devo fazer para começar a usar [!DNL Customer Attributes]? | <ol><li>Seja provisionado. Se você for um cliente do Adobe Analytics, a Adobe está provisionando para [!DNL Customer Attributes]. Se você usar somente o Adobe Target e não tiver o Analytics, solicite o provisionamento para os serviços principais entrando em contato com o Atendimento ao cliente.</li> <li>Conversar com a equipe de CRM. Descubra que tipo de dados do cliente estão disponíveis e que você deseja usar no Analytics e em toda a CX Enterprise.</li><li>Implementar os serviços principais.</li></ol> Consulte [pré-requisitos](t-crs-usecase.md#prerequisites-for-using-customer-attributes) antes de carregar dados para saber mais sobre como permitir que os usuários usem esse recurso. |
 | Quantos atributos do cliente eu posso usar? | Você pode fazer upload de centenas de colunas de `.csv` para o serviço de atributos do cliente. No entanto, ao configurar assinaturas e selecionar atributos, os seguintes limites poderão ser aplicados (por conjunto de relatórios), dependendo dos aplicativos que possui:  <ul><li>Foundation: 0</li><li>Select: 3</li><li>Prime: 15</li><li>Ultimate: 200</li><li>Standard: total de 3</li><li>Premium: 200</li><li>Adobe Target Standard: 5</li><li>Adobe Target Premium: 200</li></ul> |
-| É necessário migrar para o CX Enterprise ID Service? | A migração depende dos aplicativos que você usa. <ul><li>Adobe Analytics: recomendado </li><li>Adobe Target: obrigatório. </li></ul>Usar o serviço CX Enterprise ID permite a funcionalidade mais recente do CX Enterprise, incluindo públicos em tempo real, a modernização do Adobe Target, a integração do Analytics e o rastreamento de heartbeat de vídeo. |
+| É necessário migrar para o Serviço de ID de visitante? | A migração depende dos aplicativos que você usa. <ul><li>Adobe Analytics: recomendado </li><li>Adobe Target: obrigatório. </li></ul>Usar o Serviço de ID de visitante permite a funcionalidade mais recente do CX Enterprise, incluindo públicos em tempo real, a modernização do Adobe Target, a integração do Analytics e o rastreamento de pulsação de vídeo. |
 | Como a funcionalidade de atributo do cliente está relacionada ao Adobe Audience Manager? | Embora o Audience Manager possa receber dados para identificar o público, ele não pode executar a funcionalidade de análise que vincula os atributos aos dados comportamentais históricos. Ele também não fornece os recursos de relatórios, análise e segmentação disponíveis no Adobe Analytics. O [!DNL Customer Attributes] permite que dados avançados de vários aplicativos sejam vinculados e associados a uma única ID para uso na CX Enterprise. <br>No Adobe Target, os atributos do cliente aparecem como atributos individuais que podem ser combinados com outras regras para construir públicos-alvo. Os públicos-alvo compartilhados com o serviço [!UICONTROL People] são públicos-alvo completos que não podem ser modificados. |
 | **(Somente Adobe Analytics)** Como essa funcionalidade difere do que é fornecido no Analytics Premium? | Anteriormente, os clientes interessados em combinar os dados de atributo do cliente com os dados do Analytics dependiam muito da ferramenta do Data Workbench para essa funcionalidade. O [!DNL Customer Attributes] expõe essa funcionalidade para um público maior fornecendo atributos do cliente como dimensões e métricas no Report Builder. Clientes do Analytics Standard têm acesso a [!DNL Customer Attributes], mas com recursos limitados. O recurso completo está disponível para os clientes do Analytics Premium. |
 | **(Somente no Adobe Target)** É possível pré-carregar ou carregar dados para clientes que o Adobe Target nunca viu? | Sim. Quando o(a) visitante faz sua primeira solicitação ao Adobe Target, o sistema busca as informações existentes que a Adobe tem sobre ele(a) nos [!DNL Customer Attributes] e usa esses dados para o direcionamento. **Observação:** a recuperação desses dados pode demorar até 20 minutos a partir da primeira interação com o Adobe Target. |
 | **(Somente no Adobe Target)** É possível criar um super público-alvo combinando dados de atributos do cliente aos dados de público-alvo compartilhados? | Não. Os dados de público-alvo compartilhados são um público-alvo concluído. |
 | **(Somente Adobe Target)** Como o [!DNL Customer Attributes] se compara à API de perfil em massa da Adobe Target? | A API de perfil em massa permite que os perfis do Adobe Target sejam atualizados diretamente pela API, para um perfil individual ou em massa. O recurso é semelhante aos [!DNL Customer Attributes], com estas principais diferenças:<ul><li>A API de perfil é uma chamada de API REST e o serviço de [!DNL Customer Attributes] usa FTP.</li><li>A API de perfil da Adobe Target envia dados somente para a Adobe Target, em vez de para toda a CX Enterprise.</li><li>O serviço de [!DNL Customer Attributes] fornece uma interface simples para criar e gerenciar esses dados externos.</li></ul> |
-| **(Somente Adobe Target)** O upload de dados de [!DNL Customer Attributes] para o Adobe Target prolonga a vida útil do perfil de visitante do Adobe Target? | Sim. Consulte [Vida útil do perfil do visitante](https://experienceleague.adobe.com/docs/target/using/audiences/visitor-profiles/visitor-profile.html?lang=pt-BR) na ajuda do Adobe Target. |
+| **(Somente Adobe Target)** O upload de dados de [!DNL Customer Attributes] para o Adobe Target prolonga a vida útil do perfil de visitante do Adobe Target? | Sim. Consulte [Vida útil do perfil do visitante](https://experienceleague.adobe.com/docs/target/using/audiences/visitor-profiles/visitor-profile.html) na ajuda do Adobe Target. |
 | **(Somente Adobe Target)** Posso direcionar os dados enviados a [!DNL Customer Attributes] imediatamente após o(a) visitante ser identificado(a) pela ID do cliente? | Sim. Na chamada do servidor para o Adobe Target, que inclui a ID de terceiros da mbox, todos os dados de atributos do cliente ficam disponíveis. |
 | **(Somente Adobe Target)** O que a coluna **[!UICONTROL Status de sincronização]** representa para os arquivos carregados na fonte de atributo do cliente? | Para ver o número de registros publicados e sincronizados pelo Adobe Target, selecione o ícone Sincronizar status de um arquivo de atributo específico. `Sync %` é uma métrica em tempo real que especifica a % de perfis que foram sincronizados no Adobe Target.<br> **Observação:** pode levar até 24 horas para que os atributos sincronizem com o Adobe Target. |
 | O que as métricas de upload de arquivo representam na origem de [!DNL Customer Attributes]? | É possível verificar o status dos atributos enviados para [!DNL Customer Attributes] com a ajuda das seguintes métricas: <ul><li>Registros: número de registros no arquivo de atributos.</li><li>**Novos registros:** número de novos registros presentes no arquivo de atributos.</li> <li>**Registros atualizados:** número de registros já existentes em [!DNL Customer Attributes] com valores atualizados no arquivo.</li><li>**Todos os dados (registros):** número total de registros enviados com êxito para [!DNL Customer Attributes].</li></ul> |

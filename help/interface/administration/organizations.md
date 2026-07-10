@@ -50,7 +50,7 @@ Por exemplo, para uma organização com Federated IDs e o domínio `example.com`
 
 ### Contas de convidado federadas
 
-Você pode habilitar o [acesso de convidado federado](https://helpx.adobe.com/business/enterprise/using/federated-guest-access.html) para autenticar com segurança os usuários convidados em seu próprio domínio. Esses usuários podem alternar entre contas na organização existente em qualquer página do CX Enterprise.
+Você pode habilitar o [acesso de convidado federado](https://helpx.adobe.com/br/business/enterprise/using/federated-guest-access.html) para autenticar com segurança os usuários convidados em seu próprio domínio. Esses usuários podem alternar entre contas na organização existente em qualquer página do CX Enterprise.
 
 Para alternar para uma conta de convidado federado, localize **[!UICONTROL Outras Contas]** no menu **[!UICONTROL Organização]** em qualquer página do [CX Enterprise](https://experience.adobe.com).
 
@@ -121,6 +121,6 @@ Ajuda sobre problemas que surgem da vinculação de contas.
 
 Normalmente, a vinculação de contas falha porque a Adobe ID está vinculada a um usuário anterior. Quando a vinculação de contas falhar, você poderá:
 
-* [Entrar em contato com o Suporte da Adobe](https://experienceleague.adobe.com/?support-solution=General&lang=pt-BR#support).
+* [Entrar em contato com o Suporte da Adobe](https://experienceleague.adobe.com/pt-br?support-solution=General&lang=pt-BR#support).
 * Acesse seu aplicativo usando o logon padrão enquanto o problema estiver sendo resolvido.
 

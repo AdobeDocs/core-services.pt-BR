@@ -22,9 +22,9 @@ topic_v2:
   - id: a004cc84-67b9-4a33-a3a7-8ec7273ef4dc
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
   - id: f4e6943a-c91a-4134-a2c7-f4f20cfff2f0
-source-git-commit: 50012e2564e88e1a6e16578e3331136c7df0cb21
+source-git-commit: 7bfc22e90d727d1743c2b6b7bc645033d5d38f1b
 workflow-type: tm+mt
-source-wordcount: 692
+source-wordcount: 687
 ht-degree: 5%
 
 ---
@@ -47,7 +47,7 @@ Use esta tabela quando a mesma palavra for exibida em diferentes experiências d
 | **Admin Console** | Plano de controle corporativo em `adminconsole.adobe.com` para usuários, perfis de produto e identidade; vinculado dos tópicos de **Administração** do CX Enterprise. Consulte [Gerenciamento de usuários e produtos](../administration/admin-console.md). | Diferente de **administrador no produto** dentro de cada aplicativo (por exemplo, ferramentas de administrador do Analytics ou telas de permissões do Journey Optimizer). |
 | **Perfil do produto** | Um pacote de licenças na Admin Console que concede acesso a um produto ou recurso; os usuários devem pertencer a um perfil para terem direito. Consulte [Gerenciar produtos e perfis](https://helpx.adobe.com/br/enterprise/using/manage-products.html). | Não é intercambiável com cada nome de &quot;espaço de trabalho&quot;, &quot;contêiner&quot; ou &quot;propriedade&quot; no produto; eles variam de acordo com a solução. |
 | **Vinculação de contas** | Conectar um logon de aplicativo (por exemplo, credenciais do Analytics ou do Target) à Adobe ID para a organização para que os serviços reconheçam um usuário. Consulte [Organizações e vinculação de contas](../administration/organizations.md). | Diferente da configuração de **sincronização de diretórios**, **SSO** ou **federação** (essas são decisões de identidade em toda a organização no Admin Console). |
-| **Serviço da Experience Cloud ID/ECID** | O identificador de visitante persistente usado nas soluções da; geralmente implantado com tags ou Web SDK. Ainda referenciado com frequência como **Experience Cloud ID** ou **MID** em discussões mais antigas do Analytics. Consulte a [visão geral do serviço de ID](https://experienceleague.adobe.com/docs/id-service/using/home.html?lang=pt-BR). | Distingue do nome de cookie herdado de um único aplicativo ou dos conceitos do gráfico de identidade do **Experience Platform**, embora eles possam se relacionar em uma implementação. |
+| **Serviço de ID de Visitante / ECID** | O identificador de visitante persistente usado nas soluções da; geralmente implantado com tags ou Web SDK. Geralmente referenciado como **MID** em discussões mais antigas do Analytics. Consulte a [visão geral do Serviço de ID de Visitante](https://experienceleague.adobe.com/docs/id-service/using/home.html?lang=pt-BR). | Distingue do nome de cookie herdado de um único aplicativo ou dos conceitos do **Serviço de Identidade da Experience Platform**, embora eles possam se relacionar em uma implementação. |
 | **Atributos do cliente** | Os atributos do CRM ou enterprise que você carrega e mapeia para uso no Analytics, no Target e em fluxos de trabalho relacionados por meio do serviço People. Consulte os tópicos de [Atributos do cliente](../services/customer-attributes/attributes.md). | Não se equipare a **características do Audience Manager** isoladamente ou a cada campo de perfil do **Real-Time CDP** sem verificar o limite do produto. |
 | **Biblioteca de público-alvo** | CX Enterprise UI para compor e compartilhar públicos-alvo em aplicativos integrados. | O **Audience Manager** e o **Target** também usam &quot;públicos-alvo&quot;, mas as regras de segmentação e os destinos diferem de acordo com o produto. |
 | **Segmento** (Analytics) | Uma definição de público-alvo com base em regras que você pode criar no Adobe Analytics e, quando suportado, publicar em públicos-alvo compartilhados. | No **Audience Manager**, os segmentos combinam **características**; sobreposições de nomenclatura, mas a implementação não é idêntica. Em **Target**, &quot;públicos-alvo&quot; substituíram rótulos de &quot;segmento&quot; mais antigos em vários lugares. |

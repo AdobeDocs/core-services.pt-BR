@@ -15,9 +15,9 @@ topic_v2:
   - id: d3cdead0-685a-4489-9250-4bb709942f66
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
   - id: f4e6943a-c91a-4134-a2c7-f4f20cfff2f0
-source-git-commit: 50012e2564e88e1a6e16578e3331136c7df0cb21
+source-git-commit: 7bfc22e90d727d1743c2b6b7bc645033d5d38f1b
 workflow-type: tm+mt
-source-wordcount: 624
+source-wordcount: 622
 ht-degree: 8%
 
 ---
@@ -32,9 +32,9 @@ As leis geralmente exigem que você obtenha permissão antes de armazenar ou usa
 
 O Adobe CX Enterprise usa cookies para rastrear informações que não duram entre exibições de página ou sessões do navegador. Quando possível, o Adobe usa cookies primários (vinculados ao seu próprio site). Para rastrear a atividade em vários sites ou domínios pertencentes a você, são necessários cookies de terceiros.
 
-Alguns navegadores e ferramentas antisspyware bloqueiam cookies de terceiros. O Adobe tem maneiras de garantir que os cookies ainda funcionem mesmo que estejam bloqueados. O funcionamento depende do uso do Experience Platform Identity Service (ECID) ou de cookies mais antigos do Analytics (como o cookie `s_vi`):
+Alguns navegadores e ferramentas antisspyware bloqueiam cookies de terceiros. O Adobe tem maneiras de garantir que os cookies ainda funcionem mesmo que estejam bloqueados. A forma como isso funciona depende do uso do Serviço de ID de visitante (`VisitorAPI.js`) ou de cookies mais antigos do Analytics (como o cookie `s_vi`):
 
-* [CX Enterprise Identity Service](https://experienceleague.adobe.com/pt-br/docs/id-service/using/intro/overview): o ECID Service sempre define cookies próprios, quer o domínio de coleção corresponda ao domínio do site. Ele usa o JavaScript para colocar o cookie no domínio do site.
+* [Serviço de ID do Visitante](https://experienceleague.adobe.com/pt-br/docs/id-service/using/intro/overview): o Serviço de ID do Visitante sempre define cookies próprios, quer o domínio da coleção corresponda ao domínio do site. Ele usa o JavaScript para colocar o cookie no domínio do site.
 
 * [Identificadores herdados do Analytics](analytics.md) (como o cookie `s_vi`): a definição de cookies próprios ou de terceiros depende da sua configuração:
 

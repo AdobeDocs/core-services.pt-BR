@@ -22,9 +22,9 @@ topic_v2:
   - id: b5ce8718-c3af-4fdb-a1a9-fca32f83a87c
   - id: d3cdead0-685a-4489-9250-4bb709942f66
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
-source-git-commit: 50012e2564e88e1a6e16578e3331136c7df0cb21
+source-git-commit: 7bfc22e90d727d1743c2b6b7bc645033d5d38f1b
 workflow-type: tm+mt
-source-wordcount: 1188
+source-wordcount: 1181
 ht-degree: 41%
 
 ---
@@ -96,9 +96,9 @@ Execute essas etapas na página _[!UICONTROL Criar Source de atributo do cliente
 
      A ID de alias corresponde a determinadas áreas em que você definiu outros valores da ID do cliente. Por exemplo:
 
-      * **Marcas:** A ID de Alias corresponde ao valor de *Código de Integração* em [!UICONTROL Configurações do Cliente], na ferramenta [CX Enterprise ID Service](https://experienceleague.adobe.com/docs/experience-platform/tags/home.html?lang=pt-BR).
+      * **Marcas:** A ID de alias corresponde ao valor do *Código de integração* em [!UICONTROL Configurações do cliente], na extensão de marca do [[!UICONTROL Serviço da Experience Cloud ID]](https://experienceleague.adobe.com/docs/experience-platform/tags/home.html?lang=pt-BR).
 
-      * **API de Visitante:** A ID de Alias corresponde às [IDs do cliente](https://experienceleague.adobe.com/docs/id-service/using/reference/authenticated-state.html?lang=pt-BR) adicionais que você pode associar a cada visitante.
+      * **Serviço de ID do Visitante:** a ID de Alias corresponde às [IDs do cliente](https://experienceleague.adobe.com/docs/id-service/using/reference/authenticated-state.html?lang=pt-BR) adicionais que você pode associar a cada visitante.
 
         Por exemplo, *&quot;crm_ id&quot;* em:
 
@@ -146,9 +146,9 @@ Após o upload do arquivo, os dados da tabela são exibidos no cabeçalho [!UICO
 
 * **[!UICONTROL Identificador exclusivo do cliente:]** Exibe quantos identificadores exclusivos você carregou para essa fonte de atributo.
 
-* **[!UICONTROL IDs fornecidas pelo cliente com alias para IDs de visitante corporativo CX:]** Exibe quantas IDs receberam alias para as IDs de visitante corporativo CX.
+* **[!UICONTROL IDs fornecidas pelo cliente com alias para IDs de visitante da Experience Cloud:]** Exibe quantas IDs receberam alias para ECIDs.
 
-* **[!UICONTROL IDs fornecidas pelo cliente com altas contagens de alias:]** Exibe a contagem de IDs fornecidas pelo cliente com 500 ou mais IDs de visitantes corporativos da CX com alias. Essas IDs fornecidas pelo cliente provavelmente não representam pessoas, mas um tipo de logon compartilhado. O sistema distribui os atributos associados a essas IDs para as 500 IDs de visitante corporativo com alias mais recentes, até a contagem de alias chegar a 10.000. Em seguida, o sistema invalida a ID fornecida pelo cliente e não distribui mais os atributos associados.
+* **[!UICONTROL IDs fornecidas pelo cliente com altas contagens de alias:]** Exibe a contagem de IDs fornecidas pelo cliente com 500 ou mais ECIDs com alias. Essas IDs fornecidas pelo cliente provavelmente não representam pessoas, mas um tipo de logon compartilhado. O sistema distribui os atributos associados a essas IDs para as 500 ECIDs com alias mais recentes, até a contagem de alias atingir 10.000. Em seguida, o sistema invalida a ID fornecida pelo cliente e não distribui mais os atributos associados.
 
 ## Validar o esquema {#validate-schema}
 

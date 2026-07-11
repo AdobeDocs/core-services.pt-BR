@@ -27,10 +27,10 @@ role_v2:
   - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
 topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
-source-git-commit: ebc6db2d5ef00f036ba97027f71129d426f18bf5
+source-git-commit: 0e765fed5e17575b06a367dd5d627a61da3e2afd
 workflow-type: tm+mt
-source-wordcount: 1556
-ht-degree: 54%
+source-wordcount: 1617
+ht-degree: 56%
 
 ---
 
@@ -42,12 +42,18 @@ Para obter uma lista de atualizações de documentação, consulte [Atualizaçõ
 
 Para obter as notas de versão de todos os aplicativos, consulte as [Notas de versão do CX Enterprise](https://experienceleague.adobe.com/docs/release-notes/experience-cloud/current.html?lang=pt-BR).
 
+## Julho de 2026
+
+| Data | Atualização | Descrição |
+| ------- | ------- | ------- |
+| 10 de julho de 2026 | Suporte corporativo CX para contas Federate Guest | Se você ativou o [Federated Guest Access](https://helpx.adobe.com/br/business/enterprise/using/federated-guest-access.html) para autenticar com segurança os usuários convidados em seu próprio domínio, o CX Enterprise permite que esses usuários alternem entre contas. A alternância de conta está disponível no alternador de Organização em qualquer página do [CX Enterprise](https://experience.adobe.com). |
+
 ## Junho de 2026
 
 | Data | Atualização | Descrição |
 | ------- | ------- | ------- |
 | 11 de junho de 2026 | [!DNL CX Enterprise Coworker] | [[!DNL CX Enterprise Coworker]](https://experienceleague.adobe.com/en/docs/cx-enterprise-coworker/content/home) é um aplicativo de IA de agente que automatiza fluxos de trabalho completos da experiência do cliente. O [!DNL Coworker] detecta sinais, cria públicos e inicia campanhas com governança integrada em horas. A documentação será disponibilizada em breve. |
-| 1 de junho de 2026 | [!UICONTROL Monitoramento] | O CX Enterprise agora fornece painéis de controle para monitorar o uso de IA artificial em aplicativos existentes. Acompanhe a adoção, analise conversas e comentários e gerencie o consumo de crédito de IA para Agentes do Experience Platform acessados pelo Assistente de IA e outras superfícies de conversação. Visão geral, Usuários, Feedback e visualizações de Créditos de IA ajudam as partes interessadas do controle a orientar a adoção de dados. Consulte [Monitoramento de IA de agente](../features/monitoring.md) para obter acesso e permissões do painel. |
+| 1º de junho de 2026 | [!UICONTROL Monitoramento] | O CX Enterprise agora fornece painéis para monitorar o uso de IA agêntica em aplicativos. Acompanhe a adoção, revise conversas e comentários e gerencie o consumo de créditos de IA para Agentes da Experience Platform acessados pelo Assistente de IA e outras superfícies conversacionais. Visão geral, Usuários, Feedback e visualizações de Créditos de IA ajudam as partes interessadas da governança a orientar a adoção com dados. Consulte [Monitoramento de IA de agente](../features/monitoring.md) para obter acesso e permissões do painel. |
 
 ## Abril de 2026
 

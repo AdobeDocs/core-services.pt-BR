@@ -52,7 +52,7 @@ Por exemplo, para uma organização com Federated IDs e o domínio `example.com`
 
 ## Contas de convidado federadas
 
-Você pode habilitar o [acesso de convidado federado](https://helpx.adobe.com/business/enterprise/using/federated-guest-access.html) para autenticar com segurança os usuários convidados em seu próprio domínio. Se ativado, o menu Organization é alterado para permitir que esses usuários alternem entre contas dentro da organização existente em qualquer página do CX Enterprise.
+Você pode habilitar o [acesso de convidado federado](https://helpx.adobe.com/br/business/enterprise/using/federated-guest-access.html) para autenticar com segurança os usuários convidados em seu próprio domínio. Se ativado, o menu Organization é alterado para permitir que esses usuários alternem entre contas dentro da organização existente em qualquer página do CX Enterprise.
 
 Para alternar para uma conta de convidado federado, localize **[!UICONTROL Outras Contas]** no menu **[!UICONTROL Organização]** em qualquer página do [CX Enterprise](https://experience.adobe.com).
 

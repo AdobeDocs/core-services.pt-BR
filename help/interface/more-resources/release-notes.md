@@ -27,7 +27,7 @@ role_v2:
   - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
 topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
-source-git-commit: 0e765fed5e17575b06a367dd5d627a61da3e2afd
+source-git-commit: d86266af93c64ffcb18ab0c74138ff2410a69f24
 workflow-type: tm+mt
 source-wordcount: 1617
 ht-degree: 56%
@@ -46,7 +46,7 @@ Para obter as notas de versão de todos os aplicativos, consulte as [Notas de ve
 
 | Data | Atualização | Descrição |
 | ------- | ------- | ------- |
-| 10 de julho de 2026 | Suporte corporativo CX para contas Federate Guest | Se você ativou o [Federated Guest Access](https://helpx.adobe.com/br/business/enterprise/using/federated-guest-access.html) para autenticar com segurança os usuários convidados em seu próprio domínio, o CX Enterprise permite que esses usuários alternem entre contas. A alternância de conta está disponível no alternador de Organização em qualquer página do [CX Enterprise](https://experience.adobe.com). |
+| 10 de julho de 2026 | Suporte corporativo CX para Federated Guest Access | Se você ativou o [Federated Guest Access](https://helpx.adobe.com/br/business/enterprise/using/federated-guest-access.html) para autenticar com segurança os usuários convidados em seu próprio domínio, o CX Enterprise permite que esses usuários alternem entre contas. A alternância de conta está disponível no alternador de Organização em qualquer página do [CX Enterprise](https://experience.adobe.com). |
 
 ## Junho de 2026
 

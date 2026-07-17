@@ -21,10 +21,10 @@ role_v2:
   - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
 topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
-source-git-commit: d86266af93c64ffcb18ab0c74138ff2410a69f24
+source-git-commit: 9c2010694b8bb32c3922dd65f846375e43b2caac
 workflow-type: tm+mt
-source-wordcount: 676
-ht-degree: 28%
+source-wordcount: 506
+ht-degree: 17%
 
 ---
 
@@ -86,28 +86,6 @@ Você pode exibir a ID da organização, juntamente com outras informações da 
 
    `C538193582390300A495CC9@AdobeOrg`
 
-## Vincular uma conta do aplicativo a uma Adobe ID
-
-Normalmente, os administradores do CX Enterprise concedem acesso a aplicativos e serviços. Em raras circunstâncias, você pode vincular as credenciais do aplicativo a uma Adobe ID.
-
-1. Siga as etapas no convite por email para a CX Enterprise.
-
-1. Faça logon usando a Adobe ID ou Enterprise ID.
-
-1. Clique no **[!UICONTROL Seletor de aplicativos]**. ( ![menu](../assets/apps-icon.png)).
-
-   ![Vincular uma conta do aplicativo a uma Adobe ID](../assets/solutions-active.png)
-
-   Os aplicativos que você pode acessar são coloridos.
-
-1. Clique no aplicativo desejado.
-
-   ![Clique em seu aplicativo](../assets/analytics-link-accounts.png)
-
-   Esse tipo de mensagem será exibido se você fizer parte do grupo adequado (e tiver permissão para o aplicativo), mas ainda não tiver vinculado as credenciais da conta à Adobe ID.
-
-1. Clique em **[!UICONTROL Vincular Conta]** e forneça suas credenciais.
-
 ## Especificar uma organização padrão
 
 Você pode especificar uma organização padrão para usar ao fazer logon.
@@ -118,13 +96,3 @@ Você pode especificar uma organização padrão para usar ao fazer logon.
 
 
 ![Editar perfil](../assets/edit-profile.png)
-
-## Solução de problemas de vinculação de contas
-
-Ajuda sobre problemas que surgem da vinculação de contas.
-
-Normalmente, a vinculação de contas falha porque a Adobe ID está vinculada a um usuário anterior. Quando a vinculação de contas falhar, você poderá:
-
-* [Entrar em contato com o Suporte da Adobe](https://experienceleague.adobe.com/pt-br?support-solution=General&lang=pt-BR#support).
-* Acesse seu aplicativo usando o logon padrão enquanto o problema estiver sendo resolvido.
-

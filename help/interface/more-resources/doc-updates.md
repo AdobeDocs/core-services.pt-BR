@@ -36,7 +36,7 @@ Saiba onde as atualizações de documentação ocorrem para a interface central 
 
 ## Julho de 2026
 
-* Adicionadas as [notas de versão de julho de 2026](release-notes.md) para o suporte do CX Enterprise ao [Federated Guest Access](https://helpx.adobe.com/business/enterprise/using/federated-guest-access.html), incluindo a alternância de conta para usuários convidados a partir do alternador de Organização.
+* Adicionadas as [notas de versão de julho de 2026](release-notes.md) para o suporte do CX Enterprise ao [Federated Guest Access](https://helpx.adobe.com/br/business/enterprise/using/federated-guest-access.html), incluindo a alternância de conta para usuários convidados a partir do alternador de Organização.
 
 ## Junho de 2026
 

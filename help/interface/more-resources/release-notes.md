@@ -27,9 +27,9 @@ role_v2:
   - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
 topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
-source-git-commit: d86266af93c64ffcb18ab0c74138ff2410a69f24
+source-git-commit: 26697b9999f9b467cfc59b9ac918565d6a5d932b
 workflow-type: tm+mt
-source-wordcount: 1617
+source-wordcount: 1629
 ht-degree: 56%
 
 ---
@@ -53,7 +53,7 @@ Para obter as notas de versão de todos os aplicativos, consulte as [Notas de ve
 | Data | Atualização | Descrição |
 | ------- | ------- | ------- |
 | 11 de junho de 2026 | [!DNL CX Enterprise Coworker] | [[!DNL CX Enterprise Coworker]](https://experienceleague.adobe.com/en/docs/cx-enterprise-coworker/content/home) é um aplicativo de IA de agente que automatiza fluxos de trabalho completos da experiência do cliente. O [!DNL Coworker] detecta sinais, cria públicos e inicia campanhas com governança integrada em horas. A documentação será disponibilizada em breve. |
-| 1º de junho de 2026 | [!UICONTROL Monitoramento] | O CX Enterprise agora fornece painéis para monitorar o uso de IA agêntica em aplicativos. Acompanhe a adoção, revise conversas e comentários e gerencie o consumo de créditos de IA para Agentes da Experience Platform acessados pelo Assistente de IA e outras superfícies conversacionais. Visão geral, Usuários, Feedback e visualizações de Créditos de IA ajudam as partes interessadas da governança a orientar a adoção com dados. Consulte [Monitoramento de IA de agente](../features/monitoring.md) para obter acesso e permissões do painel. |
+| 1º de junho de 2026 | [!UICONTROL Monitoramento] | O CX Enterprise agora fornece painéis para monitorar o uso de IA agêntica em aplicativos. Acompanhe a adoção, revise conversas e comentários e gerencie o consumo de créditos de IA para Agentes da Experience Platform acessados pelo Assistente de IA e outras superfícies conversacionais. Visão geral, Usuários, Feedback e visualizações de Créditos de IA ajudam as partes interessadas da governança a orientar a adoção com dados. Consulte [Monitoramento de IA de agente](https://experienceleague.adobe.com/en/docs/experience-cloud-ai/experience-cloud-ai/overview/monitoring) para obter acesso e permissões do painel. |
 
 ## Abril de 2026
 

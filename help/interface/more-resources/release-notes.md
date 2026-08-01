@@ -52,7 +52,7 @@ Para obter as notas de versão de todos os aplicativos, consulte as [Notas de ve
 
 | Data | Atualização | Descrição |
 | ------- | ------- | ------- |
-| 11 de junho de 2026 | [!DNL CX Enterprise Coworker] | [[!DNL CX Enterprise Coworker]](https://experienceleague.adobe.com/en/docs/cx-enterprise-coworker/content/home) é um aplicativo de IA de agente que automatiza fluxos de trabalho completos da experiência do cliente. O [!DNL Coworker] detecta sinais, cria públicos e inicia campanhas com governança integrada em horas. A documentação será disponibilizada em breve. |
+| 11 de junho de 2026 | [!DNL CX Enterprise Coworker] | [[!DNL CX Enterprise Coworker]](https://experienceleague.adobe.com/pt-br/docs/cx-enterprise-coworker/content/home) é um aplicativo de IA de agente que automatiza fluxos de trabalho completos da experiência do cliente. O [!DNL Coworker] detecta sinais, cria públicos e inicia campanhas com governança integrada em horas. A documentação será disponibilizada em breve. |
 | 1º de junho de 2026 | [!UICONTROL Monitoramento] | O CX Enterprise agora fornece painéis para monitorar o uso de IA agêntica em aplicativos. Acompanhe a adoção, revise conversas e comentários e gerencie o consumo de créditos de IA para Agentes da Experience Platform acessados pelo Assistente de IA e outras superfícies conversacionais. Visão geral, Usuários, Feedback e visualizações de Créditos de IA ajudam as partes interessadas da governança a orientar a adoção com dados. Consulte [Monitoramento de IA de agente](https://experienceleague.adobe.com/pt-br/docs/experience-cloud-ai/experience-cloud-ai/overview/monitoring) para obter acesso e permissões do painel. |
 
 ## Abril de 2026

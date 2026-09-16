@@ -6,21 +6,26 @@ topic: Administration
 role: Admin
 level: Experienced
 exl-id: 02417c0c-6780-4699-9470-f1685c3cd25d
-TQID: https://experienceleague.adobe.com/wU6Y5XK5Fs9-w7Jl7THXjturzTVrsB7eh7GdExsS2TQ
+TQID: 'https://experienceleague.adobe.com/wU6Y5XK5Fs9-w7Jl7THXjturzTVrsB7eh7GdExsS2TQ'
 product_v2:
   - id: e1971122-7081-4556-9222-8a31bd71800c
+    internal-label: Experience Cloud Services
 role_v2:
   - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+    internal-label: Admin
+level_v2:
+  - id: d378ca77-2da1-4f39-ad92-1917fe974a38
+    internal-label: Experienced
 topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
+    internal-label: Administration
   - id: f4e6943a-c91a-4134-a2c7-f4f20cfff2f0
-source-git-commit: 50012e2564e88e1a6e16578e3331136c7df0cb21
+    internal-label: Privacy
+source-git-commit: 7afb612bf6f14b87a57b7236c226e3f6e9b15380
 workflow-type: tm+mt
-source-wordcount: 409
+source-wordcount: '409'
 ht-degree: 81%
-
 ---
-
 # Suporte a [!DNL Customer Attributes] para o Regulamento Geral sobre a Proteção de Dados
 
 Esta página descreve como o [!DNL Customer Attributes] oferece suporte ao Regulamento Geral sobre a Proteção de Dados (RGPD).
@@ -63,9 +68,9 @@ Para fazer solicitações de acesso e exclusão de dados para [!DNL Customer Att
 * &quot;key&quot;: &lt;*geralmente o nome do cliente*>
 * &quot;ação&quot;: **acessar** ou **excluir**
 * &quot;user IDs&quot;:
-   * &quot;namespace&quot;: &lt;*ID de alias da fonte de dados CRS*>
-   * &quot;type&quot;: **integrationCode**
-   * &quot;value&quot;: &lt;*ID do CRM*>
+  * &quot;namespace&quot;: &lt;*ID de alias da fonte de dados CRS*>
+  * &quot;type&quot;: **integrationCode**
+  * &quot;value&quot;: &lt;*ID do CRM*>
 * &quot;include&quot;: **CRS** (produto da Adobe que se aplica à solicitação)
 * &quot;regulation&quot;: **RGPD** (regulamento de privacidade que se aplica à solicitação)
 

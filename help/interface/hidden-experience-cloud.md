@@ -2,18 +2,22 @@
 description: Saiba mais sobre os componentes da interface central para o CX Enterprise. Obtenha ajuda sobre a administração de usuários e produtos no Admin Console e ative aplicativos para os serviços do CX Enterprise. Obtenha ajuda sobre a Biblioteca de público-alvo, Atributos do cliente, CX Enterprise Assets e muito mais.
 title: Administração e interface da Experience Cloud
 hide: true
-hidefromtoc: true
+hidefromtoc: 'yes'
 feature: Central Interface Components
 topic: Administration
 role: Admin
 level: Experienced
-source-git-commit: 50012e2564e88e1a6e16578e3331136c7df0cb21
+role_v2:
+  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+    internal-label: Admin
+level_v2:
+  - id: d378ca77-2da1-4f39-ad92-1917fe974a38
+    internal-label: Experienced
+source-git-commit: 7afb612bf6f14b87a57b7236c226e3f6e9b15380
 workflow-type: tm+mt
 source-wordcount: '519'
 ht-degree: 48%
-
 ---
-
 # Interface e administração do CX Enterprise
 
 O [CX Enterprise](https://experience.adobe.com) é a família integrada de aplicativos de marketing digital, produtos e serviços da Adobe. Por meio da interface intuitiva, você pode acessar rapidamente seus aplicativos em nuvem, recursos do produto e serviços.

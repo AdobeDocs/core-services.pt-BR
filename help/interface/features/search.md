@@ -1,5 +1,5 @@
 ---
-description: Saiba mais sobre o recurso de Pesquisa unificada para determinados aplicativos no CX Enterprise.
+description: Saiba mais sobre o recurso Pesquisa unificada para determinados aplicativos na CX Enterprise.
 solution: Experience Cloud
 title: Pesquisa unificada da Experience Cloud
 index: true
@@ -11,24 +11,29 @@ exl-id: 70586f18-6f84-4308-bab3-1da7fab823d6
 TQID: https://experienceleague.adobe.com/xE4H6kdjbKSwVygCsOV4zTBqPoBHAVMHfJMyYOummg0
 product_v2:
   - id: d0a3eab4-7b10-4d96-a71e-6c0f8e7b7c87
+    internal-label: CX Enterprise
 feature_v2:
   - id: fdbb8fc9-ffa3-4b86-88fe-aa4c5a3e1bc6
+    internal-label: Administration
 subfeature_v2:
   - id: b75843fa-0a67-4a44-a6b1-cc627b0481dc
+    internal-label: Support
   - id: fef08361-6ac5-460c-93fe-d063e40b6a49
+    internal-label: Getting started
 role_v2:
   - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+    internal-label: Admin
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
 topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
-source-git-commit: 50012e2564e88e1a6e16578e3331136c7df0cb21
+    internal-label: Administration
+source-git-commit: d7e25c1350ad8d57470b268d97bdfe7207fa35e7
 workflow-type: tm+mt
-source-wordcount: 660
+source-wordcount: '660'
 ht-degree: 17%
-
 ---
-
 # [!UICONTROL Pesquisa unificada] na CX Enterprise
 
 A [!UICONTROL Pesquisa unificada] permite encontrar objetos ou entidades comerciais pesquisáveis por meio de uma experiência contínua, consistente e com apenas um clique. Essa pesquisa também exibe os objetos acessados recentemente.
@@ -37,7 +42,7 @@ A [!UICONTROL Pesquisa unificada] permite encontrar objetos ou entidades comerci
 
 ## Acessando [!UICONTROL Pesquisa Unificada]
 
-A [!UICONTROL Pesquisa unificada] está disponível em todas as páginas do cabeçalho do CX Enterprise na parte superior da página. Você também pode usar o atalho de teclado `command /` ou `ctrl /` para acessar a pesquisa.
+A [!UICONTROL Pesquisa unificada] está disponível em todas as páginas do cabeçalho do CX Enterprise, na parte superior da página. Você também pode usar o atalho de teclado `command /` ou `ctrl /` para acessar a pesquisa.
 
 Esse recurso está disponível somente para os produtos compatíveis, que atualmente são:
 
@@ -77,7 +82,7 @@ Você também encontrará os artigos de ajuda da Experience League e das comunid
 
 Por exemplo, _Como criar um esquema_ produz resultados do Experience League em _[!UICONTROL Aprendizado]_:
 
-![[!UICONTROL Pesquisa unificada] na Ajuda da CX Enterprise](../assets/unified-search-learning.png)
+![[!UICONTROL Pesquisa Unificada] na Ajuda do CX Enterprise](../assets/unified-search-learning.png)
 
 Os algoritmos de pesquisa exibem os registros mais relevantes primeiro. A ordem dos resultados depende de vários fatores, como:
 

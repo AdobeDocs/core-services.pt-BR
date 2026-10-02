@@ -33,7 +33,7 @@ topic_v2:
     internal-label: Data collection
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
     internal-label: Administration
-source-git-commit: 7afb612bf6f14b87a57b7236c226e3f6e9b15380
+source-git-commit: d7e25c1350ad8d57470b268d97bdfe7207fa35e7
 workflow-type: tm+mt
 source-wordcount: '1183'
 ht-degree: 41%
@@ -50,7 +50,7 @@ Crie a fonte de atributo do cliente (arquivos `.csv` e `.fin`) e carregue os dad
 
 * **Associação de grupo:** Para carregar os dados, os usuários devem ser membros do grupo [!DNL Customer Attributes]. Você também deve pertencer a um grupo do Adobe Analytics ou do Adobe Target.
 
-  Para saber se a empresa tem acesso aos atributos do cliente, o administrador do [!DNL CX Enterprise] deve fazer logon no [CX Enterprise](https://experience.adobe.com). Navegue até **[!UICONTROL Admin Console]** > **[!UICONTROL Produtos]**. Se *[!DNL Customer Attributes]* for exibido como um dos [!UICONTROL perfis de produto], você estará pronto para começar.
+  Para saber se a empresa tem acesso aos Atributos do cliente, o administrador do [!DNL CX Enterprise] deve fazer logon na [CX Enterprise](https://experience.adobe.com). Navegue até **[!UICONTROL Admin Console]** > **[!UICONTROL Produtos]**. Se *[!DNL Customer Attributes]* for exibido como um dos [!UICONTROL perfis de produto], você estará pronto para começar.
 
   Os usuários adicionados a [!DNL Customer Attributes] verão o item de menu [!DNL Customer Attributes] à esquerda da interface do CX Enterprise.
 
@@ -145,13 +145,13 @@ O registro de atributo do cliente é criado e você pode fazer upload do arquivo
 
 1. Arraste e solte o arquivo de dados `.csv` ou `.zip` ou `.gzip` na janela de arrastar e soltar.
 
->[!IMPORTANT]
->
->Há requisitos específicos para o arquivo de dados. Consulte [Requisitos do arquivo de dados](crs-data-file.md) para obter mais informações.
+   >[!IMPORTANT]
+   >
+   >Há requisitos específicos para o arquivo de dados. Consulte [Requisitos do arquivo de dados](crs-data-file.md) para obter mais informações.
 
-Após o upload do arquivo, os dados da tabela são exibidos no cabeçalho [!UICONTROL Upload de arquivo] desta página. Valide o esquema, configure a assinatura ou configure o FTP.
+   Após o upload do arquivo, os dados da tabela são exibidos no cabeçalho [!UICONTROL Upload de arquivo] desta página. Valide o esquema, configure a assinatura ou configure o FTP.
 
-![atributos](assets/file_upload_attributes.png)
+   ![atributos](assets/file_upload_attributes.png)
 
 * **[!UICONTROL Identificador exclusivo do cliente:]** Exibe quantos identificadores exclusivos você carregou para essa fonte de atributo.
 

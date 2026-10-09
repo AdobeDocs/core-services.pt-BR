@@ -13,7 +13,7 @@ product_v2:
     internal-label: CX Enterprise
 feature_v2:
   - id: dab36b01-8bfa-48f3-8392-626455a058e6
-    internal-label: Experience Cloud Services
+    internal-label: Experience Cloud services
   - id: fdbb8fc9-ffa3-4b86-88fe-aa4c5a3e1bc6
     internal-label: Administration
 subfeature_v2:
@@ -36,7 +36,7 @@ topic_v2:
     internal-label: Administration
   - id: ff2b9b37-92e0-45fc-b853-379d44c08c89
     internal-label: Audience segmentation
-source-git-commit: d7e25c1350ad8d57470b268d97bdfe7207fa35e7
+source-git-commit: f9b96c953d928dd65fd40fab96d64dd4f814c685
 workflow-type: tm+mt
 source-wordcount: '352'
 ht-degree: 43%
@@ -62,8 +62,8 @@ As páginas Serviços neste guia descrevem os seguintes produtos e serviços:
 | [Biblioteca de público-alvo](https://experienceleague.adobe.com/pt-br/docs/core-services/interface/services/audiences/overview) | Os públicos-alvo são coleções de visitantes (uma lista de IDs de visitante). O [!DNL Audience Library] da Adobe permite gerenciar a conversão dos dados do visitante em segmentação do público-alvo. |
 | [Atributos do cliente](https://experienceleague.adobe.com/pt-br/docs/core-services/interface/services/customer-attributes/attributes) | Crie casos de uso de orquestração em tempo real usando dados contextuais armazenados em eventos ou fontes de dados. O [!UICONTROL Journey Orchestration] é um serviço de aplicativos integrado à Experience Platform. |
 | [Ativos](https://experienceleague.adobe.com/pt-br/docs/core-services/interface/services/assets/experience-cloud-assets) | O CX Enterprise Assets fornece um repositório único e centralizado de ativos prontos para marketing, que podem ser compartilhados entre aplicativos. |
-| [Triggers](https://experienceleague.adobe.com/pt-br/docs/core-services/interface/services/triggers) | Triggers na CX Enterprise permitem identificar, definir e monitorar os comportamentos dos principais consumidores e gerar comunicação entre aplicativos para atrair os visitantes novamente. Você pode usar acionadores em personalizações e decisões em tempo real. |
-| [Adobe Exchange Marketplace](https://experienceleague.adobe.com/pt-br/docs/core-services/interface/services/exchange) | O Exchange Marketplace é o único local onde você pode pesquisar, navegar, selecionar, pagar e baixar extensões de marketing digital através de aplicativos. Os aplicativos incluem conectores de dados, configurações personalizadas para o produto principal da Adobe, aplicativos de terceiros e relatórios. |
+| [Triggers](https://experienceleague.adobe.com/en/docs/core-services/interface/services/triggers) | Triggers na CX Enterprise permitem identificar, definir e monitorar os comportamentos dos principais consumidores e gerar comunicação entre aplicativos para atrair os visitantes novamente. Você pode usar acionadores em personalizações e decisões em tempo real. |
+| [Adobe Exchange Marketplace](https://experienceleague.adobe.com/en/docs/core-services/interface/services/exchange) | O Exchange Marketplace é o único local onde você pode pesquisar, navegar, selecionar, pagar e baixar extensões de marketing digital através de aplicativos. Os aplicativos incluem conectores de dados, configurações personalizadas para o produto principal da Adobe, aplicativos de terceiros e relatórios. |
 
 {style="table-layout:auto"}
 

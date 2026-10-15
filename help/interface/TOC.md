@@ -2,16 +2,14 @@
 role: User,Admin
 user-guide-title: Guia de administração e interface central do CX Enterprise
 breadcrumb-title: Interface e administração do CX Enterprise
-title: Guia de administração e interface corporativa do CX
+title: Guia de administração e interface da CX Enterprise
 description: Saiba mais sobre a interface e a administração do CX Enterprise. Procure tópicos sobre IA, administração, serviços compartilhados, coleta de dados, cookies, notas de versão e perguntas frequentes.
 index: true
-source-git-commit: 90efd37625c8ca89bc3ec7fc3f8df20d8c5e331b
+source-git-commit: a714343bc3e17145e51fd99f64690e7d69ab4d9d
 workflow-type: tm+mt
-source-wordcount: '193'
-ht-degree: 60%
-
+source-wordcount: '207'
+ht-degree: 56%
 ---
-
 # Interface e administração do CX Enterprise {#interface}
 
 + [Interface e administração do CX Enterprise](/help/interface/experience-cloud.md)
@@ -52,7 +50,10 @@ ht-degree: 60%
   + [Acionadores](/help/interface/services/triggers.md)
   + [Adobe Exchange](/help/interface/services/exchange.md)
 + Coleção de dados {#data-collection}
+  + [Escolha um domínio de coleta de dados](/help/interface/data-collection/collection-domain.md)
   + [Programa de certificado gerenciado pela Adobe](/help/interface/data-collection/adobe-managed-cert.md)
+  + [Certificados gerenciados pelo cliente](/help/interface/data-collection/customer-managed-cert.md)
+  + [Rotear a coleta de dados por meio de um CDN](/help/interface/data-collection/cdn.md)
   + [Endereços IP](/help/interface/data-collection/ip-addresses.md)
   + [Domínios](/help/interface/data-collection/domains.md)
   + Cookies {#cookies}

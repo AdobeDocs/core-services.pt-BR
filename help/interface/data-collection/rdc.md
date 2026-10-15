@@ -1,28 +1,33 @@
 ---
 title: Coleta de dados regionais
-description: Saiba mais sobre a coleta de dados regionais no CX Enterprise.
+description: Saiba mais sobre a coleta de dados regionais na CX Enterprise.
 exl-id: 295e9736-2a58-48a8-9968-5dfa33b70d95
 TQID: https://experienceleague.adobe.com/hjHQDRoNOP2e6pKhKHB9DZaII2o8eJVzL5wjRzaMFwM
 product_v2:
   - id: e1971122-7081-4556-9222-8a31bd71800c
+    internal-label: Experience Cloud Services
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
   - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+    internal-label: Admin
 topic_v2:
   - id: c2be0313-b3ae-45e0-b454-d20bf54b23f2
+    internal-label: Measurement
   - id: cdd65e7e-8839-44a2-bc21-0e03623b5dd1
+    internal-label: Optimization
   - id: d3cdead0-685a-4489-9250-4bb709942f66
+    internal-label: Data collection
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
-source-git-commit: 50012e2564e88e1a6e16578e3331136c7df0cb21
+    internal-label: Administration
+source-git-commit: a714343bc3e17145e51fd99f64690e7d69ab4d9d
 workflow-type: tm+mt
-source-wordcount: 361
+source-wordcount: '399'
 ht-degree: 0%
-
 ---
-
 # Coleta de dados regionais
 
-O Adobe CX Enterprise usa a coleta de dados regionais (RDC) para que as interações entre seus visitantes e o Adobe ocorram o mais próximo possível de seus visitantes. Os dados coletados localmente em um site de borda são encaminhados com segurança a um site principal para processamento. Depois de processados, os dados são disponibilizados para os produtos e serviços da Adobe CX Enterprise.
+O Adobe CX Enterprise usa a coleta de dados regionais (RDC) para que as interações entre seus visitantes e o Adobe ocorram o mais próximo possível de seus visitantes. Os dados coletados localmente em um site de borda são encaminhados com segurança a um site principal para processamento. Após processados, os dados são disponibilizados para produtos e serviços da Adobe CX Enterprise.
 
 O fluxo de trabalho de coleta de dados regional oferece vários benefícios:
 
@@ -42,7 +47,9 @@ A coleta de dados primários usa uma implementação CNAME para rotear dados par
 | Somente Pacífico Asiático | Mumbai, Singapura, Tóquio, Sydney |
 | Somente China* | Pequim |
 
-_*A RDC da China exige o pacote complementar de Otimização de Desempenho da China e se aplica somente à Adobe Analytics que usa a coleta de dados da AppMeasurement. Outros serviços CX Enterprise e coleta de dados do Web SDK não são compatíveis. Entre em contato com a equipe de conta da Adobe para saber mais sobre o pacote complementar para Otimização de desempenho na China._
+_*A RDC da China exige o pacote complementar de Otimização de Desempenho da China e se aplica somente à Adobe Analytics que usa a coleta de dados da AppMeasurement. Outros serviços da CX Enterprise e coleta de dados do Web SDK não são compatíveis. Entre em contato com a equipe de conta da Adobe para saber mais sobre o pacote complementar para Otimização de desempenho na China._
+
+Se você [rotear a coleta de dados por meio de um CDN](cdn.md), os tipos de RDC bloqueados por região exigirão uma origem própria com um [certificado gerenciado pelo cliente](customer-managed-cert.md).
 
 ## Coleta de dados de terceiros
 
@@ -54,3 +61,5 @@ A coleta de dados de terceiros usa domínios de cookies que não correspondem ao
 | Padrão + China* | Pequim*, Oregon, Virgínia, Irlanda, Paris, Mumbai, Singapura, Tóquio, Sydney |
 
 _*Requer o pacote complementar para Otimização de desempenho da China. Consulte a seção de coleta de dados próprios acima para obter detalhes._
+
+Os dados roteados por meio de uma CDN para uma [origem de terceiros](cdn.md#third-party-origin) sempre usam o tipo padrão de RDC.

@@ -6,22 +6,28 @@ exl-id: 60f1a89e-d989-461b-a6a3-c1df022cd30b
 TQID: https://experienceleague.adobe.com/GH5WHcI9440NKYpUzizHlhOMlBSf-Y0WQ5GDBaSvqNI
 product_v2:
   - id: e1971122-7081-4556-9222-8a31bd71800c
+    internal-label: Experience Cloud Services
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
   - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+    internal-label: Admin
 topic_v2:
   - id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
+    internal-label: Reporting
   - id: d095671a-1355-40aa-8b5f-06c33c68080b
+    internal-label: Security
   - id: d3cdead0-685a-4489-9250-4bb709942f66
+    internal-label: Data collection
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
+    internal-label: Administration
   - id: f4e6943a-c91a-4134-a2c7-f4f20cfff2f0
-source-git-commit: 7bfc22e90d727d1743c2b6b7bc645033d5d38f1b
+    internal-label: Privacy
+source-git-commit: 18fd590d6f0fd1800e3d5c62851453aa91d9db5f
 workflow-type: tm+mt
-source-wordcount: 622
+source-wordcount: '644'
 ht-degree: 8%
-
 ---
-
 # Como os cookies são usados no CX Enterprise
 
 O Adobe CX Enterprise usa cookies. Um cookie é um pequeno pedaço de dados que um site envia para o seu navegador, que o armazena para uso posterior. Os cookies ajudam o site a lembrar de coisas quando você visita novamente ou se move entre páginas. Os cookies ajudam a rastrear visitas e diferenciar um dispositivo de outro.
@@ -32,16 +38,16 @@ As leis geralmente exigem que você obtenha permissão antes de armazenar ou usa
 
 O Adobe CX Enterprise usa cookies para rastrear informações que não duram entre exibições de página ou sessões do navegador. Quando possível, o Adobe usa cookies primários (vinculados ao seu próprio site). Para rastrear a atividade em vários sites ou domínios pertencentes a você, são necessários cookies de terceiros.
 
-Alguns navegadores e ferramentas antisspyware bloqueiam cookies de terceiros. O Adobe tem maneiras de garantir que os cookies ainda funcionem mesmo que estejam bloqueados. A forma como isso funciona depende do uso do Serviço de ID de visitante (`VisitorAPI.js`) ou de cookies mais antigos do Analytics (como o cookie `s_vi`):
+Alguns navegadores bloqueiam cookies de terceiros. O Adobe tem maneiras de garantir que os cookies ainda funcionem mesmo que estejam bloqueados. A forma como esse processo funciona depende do uso do Serviço de ID de Visitante (`VisitorAPI.js`) ou de cookies mais antigos do Analytics (como o cookie `s_vi`):
 
 * [Serviço de ID do Visitante](https://experienceleague.adobe.com/pt-br/docs/id-service/using/intro/overview): o Serviço de ID do Visitante sempre define cookies próprios, quer o domínio da coleção corresponda ao domínio do site. Ele usa o JavaScript para colocar o cookie no domínio do site.
 
 * [Identificadores herdados do Analytics](analytics.md) (como o cookie `s_vi`): a definição de cookies próprios ou de terceiros depende da sua configuração:
 
-   * Se o servidor de coleção de dados corresponder ao domínio do site, os cookies são primários.
-   * Se não corresponder, os cookies são de terceiros. Se cookies de terceiros estiverem bloqueados, o Adobe definirá um cookie de fallback (`s_fid`) em vez do habitual.
+  * Se o servidor de coleção de dados corresponder ao domínio do site, os cookies são primários.
+  * Se não corresponder, os cookies são de terceiros. Se cookies de terceiros estiverem bloqueados, o Adobe definirá um cookie de fallback (`s_fid`) em vez do habitual.
 
-Para garantir que o servidor de coleção corresponda ao domínio do site, você pode usar uma **configuração de CNAME**. Isso envolve a atualização das configurações de DNS para apontar um domínio personalizado (seu) para os servidores da Adobe. Isso faz com que o cookie de rastreamento apareça como primário. Embora um CNAME possa funcionar em vários domínios, qualquer domínio que não corresponda ao CNAME ainda definirá cookies de terceiros.
+Para garantir que o servidor de coleção corresponda ao domínio do site, você pode usar uma **configuração de CNAME**. Essa configuração envolve a atualização das configurações de DNS para apontar um domínio personalizado (seu) para os servidores da Adobe. Essa configuração faz com que o cookie de rastreamento apareça como primário. Embora um CNAME possa funcionar em vários domínios, qualquer domínio que não corresponda ao CNAME ainda definirá cookies de terceiros. Você também pode [rotear a coleta de dados por meio de uma CDN](../cdn.md) que usa seu próprio domínio. Consulte [Escolher um domínio de coleção de dados](../collection-domain.md) para todas as opções.
 
 >[!NOTE]
 >
@@ -53,7 +59,7 @@ Esta é uma versão simplificada do texto:
 
 A Adobe leva a privacidade e a segurança dos dados muito a sério. Ele trabalha com organizações de privacidade, reguladores e programas como o AdChoices para fornecer às pessoas controle sobre como seus dados são usados.
 
-A maioria dos cookies do Adobe CX Enterprise não armazena informações pessoais. Eles são seguros e usados apenas pela sua empresa para relatórios, conteúdo e anúncios. A Adobe não compartilha esses dados com outros clientes ou terceiros, exceto em relatórios anônimos em todo o setor (como Relatórios do Digital Marketing Insight).
+A maioria dos cookies da Adobe CX Enterprise não armazena informações pessoais. Eles são seguros e usados apenas pela sua empresa para relatórios, conteúdo e anúncios. A Adobe não compartilha esses dados com outros clientes ou terceiros, exceto em relatórios anônimos em todo o setor (como Relatórios do Digital Marketing Insight).
 
 A Adobe não combina dados de navegador em empresas diferentes. Para proteger a privacidade, algumas ferramentas do Adobe permitem que cada site use seu próprio conjunto de cookies. Alguns também permitem usar seu próprio domínio para cookies, tornando-os primários e mais seguros.
 

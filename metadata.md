@@ -1,26 +1,25 @@
 ---
-title: Interface e administração central do CX Enterprise
-description: Saiba mais sobre os componentes da interface do usuário, administração de usuários e produtos na Adobe Admin Console, biblioteca de público-alvo, atributos do cliente, CX Enterprise Assets e muito mais.
+title: Interface central e administração do CX Enterprise
+description: Saiba mais sobre os componentes da interface do usuário, administração de usuários e produtos na Adobe Admin Console, Biblioteca de público-alvo, Atributos do cliente, CX Enterprise Assets e muito mais.
 cloud: Experience Cloud
 product: experience cloud
 solution: CX Enterprise
 solution-title: Experience Platform
 solution-icon: help/interface/assets/experience-cloud-logo-24.png
 getting-started-title: Getting Started
-getting-started-url: https://helpx.adobe.com/br/experience-cloud-core-services/get-started.html
+getting-started-url: https://helpx.adobe.com/experience-cloud-core-services/get-started.html
 tutorials-title: Tutorials
 tutorials-url: https://experienceleague.adobe.com/content/help/en/core-services-learn/tutorials/overview.html
-git-repo: https://github.com/Adobe-Enterprise-Docs/core-services.pt-BR
+git-repo: https://github.com/Adobe-Enterprise-Docs/core-services.en
 usetq: true
 product_v2:
   - id: d0a3eab4-7b10-4d96-a71e-6c0f8e7b7c87
+    internal-label: CX Enterprise
 source-git-commit: cedbdaa0a783bd9777c169b1257ca5ebf6b48c08
 workflow-type: tm+mt
-source-wordcount: 202
-ht-degree: 65%
-
+source-wordcount: '195'
+ht-degree: 68%
 ---
-
 
 # Metadados para uso interno
 

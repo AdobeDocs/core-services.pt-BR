@@ -37,10 +37,10 @@ topic_v2:
     internal-label: Personalization
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
     internal-label: Administration
-source-git-commit: 7afb612bf6f14b87a57b7236c226e3f6e9b15380
+source-git-commit: 765c82ba802cb1fd7a16a5dc2433a9199669a331
 workflow-type: tm+mt
-source-wordcount: '817'
-ht-degree: 64%
+source-wordcount: '877'
+ht-degree: 59%
 ---
 # CX Enterprise Triggers
 
@@ -66,6 +66,10 @@ Geralmente, um acionador pode levar 15 a 90 minutos para iniciar uma campanha de
 * **Ação:** por exemplo, você pode criar acionadores para serem disparados depois de inscrições em newsletters, assinaturas por email ou aplicações para cartões de crédito (confirmações). Se você for um varejista, crie um acionador para um visitante que se inscreve em um programa de fidelidade. Em mídia e entretenimento, crie acionadores para visitantes que assistem a um certo programa que talvez você queira que respondam a uma pesquisa.
 * **Início e término de sessão:** crie um acionador para o início da sessão e eventos de término de sessão.
 
+## Período de espera para acionadores de abandono
+
+Os acionadores de abandono têm um período de retenção fixo de uma hora após o término de uma sessão de acionador, independentemente de o acionador ser ou não acionado. Durante esse período, uma nova sessão para o mesmo acionador de abandono não é iniciada para esse visitante, mesmo que o visitante retorne e atenda às condições do acionador novamente. O período de espera não pode ser configurado.
+
 ## Criar um acionador do CX Enterprise
 
 Crie um acionador e configure as condições para ele. Por exemplo, você pode especificar o critério das regras para um acionador durante uma visita. Alguns exemplos são métricas, como Abandono de carrinho, ou dimensões, como o nome do produto. O acionador é executado quando as regras são cumpridas.
@@ -74,7 +78,7 @@ Crie um acionador e configure as condições para ele. Por exemplo, você pode e
 >
 >No momento, há um limite técnico de 100 acionadores.
 
-1. No CX Enterprise, clique em ![menu](../assets/menu-icon.png) e em **[!UICONTROL Coleção de dados/Launch]**.
+1. No CX Enterprise, clique em ![menu](../assets/menu-icon.png) e em **[!UICONTROL Coleção de dados/Iniciar]**.
 1. No cartão [!UICONTROL Triggers], clique em **[!UICONTROL Gerenciar Triggers]**.
 1. Clique em **[!UICONTROL Novo acionador]** e especifique o tipo de acionador:
 
@@ -98,7 +102,7 @@ Crie um acionador e configure as condições para ele. Por exemplo, você pode e
 
 ## Exemplos de acionadores
 
-Exemplos de CX Enterprise Triggers:
+Exemplos de acionadores da CX Enterprise:
 
 ### Acionador de Abandono do carrinho
 

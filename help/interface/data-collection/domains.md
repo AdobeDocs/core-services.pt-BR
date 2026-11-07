@@ -1,6 +1,6 @@
 ---
 description: Saiba mais sobre os domínios usados pelo CX Enterprise.
-title: Domínios usados pela Experience Cloud
+title: Domínios usados pelo CX Enterprise
 feature: Central Interface Components
 topic: Administration
 role: Admin
@@ -18,20 +18,20 @@ topic_v2:
     internal-label: Data collection
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
     internal-label: Administration
-source-git-commit: 7afb612bf6f14b87a57b7236c226e3f6e9b15380
+source-git-commit: b39f5e2ebae20b92fd984ca65462eb016837b4e2
 workflow-type: tm+mt
 source-wordcount: '135'
 ht-degree: 19%
 ---
 # Domínios usados pelo CX Enterprise
 
-O CX Enterprise usa os seguintes hosts para fornecer o aplicativo, melhorar o desempenho e a experiência do produto. A Adobe recomenda permitir esses domínios por meio da rede ou do firewall de sua organização para obter uma experiência ideal.
+O CX Enterprise usa os seguintes hosts para fornecer o aplicativo, melhorar o desempenho e melhorar a experiência do produto. A Adobe recomenda permitir esses domínios por meio da rede ou do firewall de sua organização para obter uma experiência ideal.
 
-Além dos domínios listados abaixo, os produtos Adobe CX Enterprise individuais têm seus próprios domínios que utilizam:
+Além dos domínios listados abaixo, os produtos Adobe CX Enterprise individuais têm seus próprios domínios que usam:
 
-* [Adobe Analytics](https://experienceleague.adobe.com/pt-br/docs/analytics/technotes/domains)
-* [Customer Journey Analytics](https://experienceleague.adobe.com/pt-br/docs/analytics-platform/using/technotes/domains)
-* [Marketo Engage](https://experienceleague.adobe.com/pt-br/docs/marketo/using/getting-started/initial-setup/configure-protocols-for-marketo)
+* [Adobe Analytics](https://experienceleague.adobe.com/en/docs/analytics/technotes/domains)
+* [Customer Journey Analytics](https://experienceleague.adobe.com/en/docs/analytics-platform/using/technotes/domains)
+* [Marketo Engage](https://experienceleague.adobe.com/en/docs/marketo/using/getting-started/initial-setup/configure-protocols-for-marketo)
 
 | Tecnologia | Domínios |
 | --- | --- |

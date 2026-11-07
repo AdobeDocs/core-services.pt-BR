@@ -1,6 +1,6 @@
 ---
 description: Saiba como as soluções e os serviços da Adobe CX Enterprise usam cookies.
-title: Como os cookies são usados na Experience Cloud
+title: Como os cookies são usados no CX Enterprise
 uuid: 4255a13a-917b-4b5f-a7d4-4b2e7521d189
 exl-id: 60f1a89e-d989-461b-a6a3-c1df022cd30b
 TQID: https://experienceleague.adobe.com/GH5WHcI9440NKYpUzizHlhOMlBSf-Y0WQ5GDBaSvqNI
@@ -23,7 +23,7 @@ topic_v2:
     internal-label: Administration
   - id: f4e6943a-c91a-4134-a2c7-f4f20cfff2f0
     internal-label: Privacy
-source-git-commit: 18fd590d6f0fd1800e3d5c62851453aa91d9db5f
+source-git-commit: b39f5e2ebae20b92fd984ca65462eb016837b4e2
 workflow-type: tm+mt
 source-wordcount: '644'
 ht-degree: 8%
@@ -40,7 +40,7 @@ O Adobe CX Enterprise usa cookies para rastrear informações que não duram ent
 
 Alguns navegadores bloqueiam cookies de terceiros. O Adobe tem maneiras de garantir que os cookies ainda funcionem mesmo que estejam bloqueados. A forma como esse processo funciona depende do uso do Serviço de ID de Visitante (`VisitorAPI.js`) ou de cookies mais antigos do Analytics (como o cookie `s_vi`):
 
-* [Serviço de ID do Visitante](https://experienceleague.adobe.com/pt-br/docs/id-service/using/intro/overview): o Serviço de ID do Visitante sempre define cookies próprios, quer o domínio da coleção corresponda ao domínio do site. Ele usa o JavaScript para colocar o cookie no domínio do site.
+* [Serviço de ID do Visitante](https://experienceleague.adobe.com/en/docs/id-service/using/intro/overview): o Serviço de ID do Visitante sempre define cookies próprios, quer o domínio da coleção corresponda ao domínio do site. Ele usa o JavaScript para colocar o cookie no domínio do site.
 
 * [Identificadores herdados do Analytics](analytics.md) (como o cookie `s_vi`): a definição de cookies próprios ou de terceiros depende da sua configuração:
 

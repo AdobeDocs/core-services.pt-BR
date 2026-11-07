@@ -1,7 +1,7 @@
 ---
-description: Saiba mais sobre a compatibilidade com o navegador e obtenha respostas de perguntas comuns para administradores no Adobe CX Enterprise.
+description: Saiba mais sobre a compatibilidade com o navegador e consulte perguntas e respostas comuns para administradores no Adobe CX Enterprise.
 solution: Experience Cloud
-title: Perguntas frequentes sobre a Experience Cloud
+title: Perguntas frequentes sobre o CX Enterprise
 index: true
 feature: Admin Console
 topic: Administration
@@ -33,10 +33,10 @@ level_v2:
 topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
     internal-label: Administration
-source-git-commit: 7afb612bf6f14b87a57b7236c226e3f6e9b15380
+source-git-commit: b39f5e2ebae20b92fd984ca65462eb016837b4e2
 workflow-type: tm+mt
 source-wordcount: '730'
-ht-degree: 47%
+ht-degree: 46%
 ---
 # Perguntas frequentes sobre o CX Enterprise
 
@@ -56,7 +56,7 @@ O uso de outro navegador é possível, mas o suporte não é garantido.
 
 >[!NOTE]
 >
->Nem todos os aplicativos em execução no domínio CX Enterprise são compatíveis com todos os navegadores. Se não tiver certeza, confira a documentação de um aplicativo específico.
+>Nem todos os aplicativos em execução no domínio CX Enterprise oferecem suporte a todos os navegadores. Se não tiver certeza, confira a documentação de um aplicativo específico.
 
 +++
 
@@ -75,19 +75,19 @@ O CX Enterprise oferece suporte a idiomas preferenciais para cada usuário, conf
 * espanhol
 * Mandarim taiwanês
 
-Embora as equipes de aplicativos estejam comprometidas com o suporte global aos idiomas, nem todos os aplicativos são oferecidos em todos os idiomas indicados acima. Se o seu idioma principal não for suportado em um aplicativo CX Enterprise, você também poderá definir um idioma secundário como padrão, quando aplicável. Isso pode ser feito em [preferências de usuário do CX Enterprise](https://experience.adobe.com/preferences).
+Embora as equipes de aplicativos estejam comprometidas com o suporte global aos idiomas, nem todos os aplicativos são oferecidos em todos os idiomas indicados acima. Se o seu idioma principal não tiver suporte em um aplicativo do CX Enterprise, também será possível definir um idioma secundário como padrão, quando aplicável. Isso pode ser feito em [preferências de usuário do CX Enterprise](https://experience.adobe.com/preferences).
 
 +++
 
-+++A Adobe cobra minha empresa pelo acesso corporativo ao Adobe CX?
++++A Adobe cobra minha empresa pelo acesso ao Adobe CX Enterprise?
 
 Não. O Adobe CX Enterprise está incluído sem custo adicional. No entanto, certos serviços principais podem ter custos adicionais.
 
 +++
 
-+++Por que minha empresa deve fazer logon por meio da interface do CX Enterprise?
++++Por que minha empresa deve fazer logon por meio da interface da CX Enterprise?
 
-A funcionalidade fornecida pela interface do CX Enterprise agrega novo valor aos negócios. Também é o caminho padrão para acessar aplicativos daqui em diante, e eventualmente substituirá outros fluxos individuais de logon para aplicativos. Fazer logon pelo CX Enterprise facilita uma transição mais suave posteriormente.
+A funcionalidade fornecida pela interface do CX Enterprise agrega novo valor à sua empresa. Também é o caminho padrão para acessar aplicativos daqui em diante, e eventualmente substituirá outros fluxos individuais de logon para aplicativos. Fazer logon pela CX Enterprise facilita uma transição mais suave posteriormente.
 
 +++
 
@@ -101,10 +101,10 @@ O Atendimento ao cliente da Adobe pode enviar uma solicitação de representaç�
 
 +++O que é &quot;provisionamento&quot;?
 
-O provisionamento no CX Enterprise significa:
+O provisionamento no CX Enterprise significa que:
 
-* Seus usuários podem começar a fazer logon no CX Enterprise e a vincular aplicativos.
-* Eles podem começar a usar os recursos disponíveis por meio do CX Enterprise.
+* Seus usuários podem começar a fazer logon na CX Enterprise e a vincular aplicativos.
+* Eles podem começar a usar os recursos disponíveis no CX Enterprise.
 * Você pode preparar-se para desativar o processo de logon específico do aplicativo.
 * É possível manter o controle de acesso dos aplicativos.
 
@@ -122,15 +122,15 @@ O provisionamento no CX Enterprise significa:
 
 * O gerenciamento de produtos e direitos do usuário é executado no [Adobe Admin Console](https://adminconsole.adobe.com/enterprise) (link do produto).
 
-* **Importante:** admins do Analytics devem consultar [Gerenciar usuários do Analytics no Admin Console](https://experienceleague.adobe.com/docs/analytics/admin/user-product-management/migrate-users/c-migration-tool.html?lang=pt-BR) para saber como migrar IDs de usuários das ferramentas administrativas do Analytics para o Admin Console.
+* **Importante:** admins do Analytics devem consultar [Gerenciar usuários do Analytics no Admin Console](https://experienceleague.adobe.com/docs/analytics/admin/user-product-management/migrate-users/c-migration-tool.html) para saber como migrar IDs de usuários das ferramentas administrativas do Analytics para o Admin Console.
 
 +++
 
-+++O que posso fazer se alguém não conseguir fazer login no CX Enterprise?
++++O que devo fazer se alguém não conseguir fazer logon no CX Enterprise?
 
 Os administradores do Admin Console podem conceder acesso aos usuários. Os usuários recebem emails com instruções de logon.
 
-Talvez seja necessário [entrar em contato com o suporte da Adobe](https://experienceleague.adobe.com/pt-br?support-solution=General&lang=pt-BR#support) para verificar se a empresa foi totalmente provisionada.
+Talvez seja necessário [entrar em contato com o suporte da Adobe](https://experienceleague.adobe.com/?support-solution=General&lang=pt-BR#support) para verificar se a empresa foi totalmente provisionada.
 
 +++
 
@@ -150,7 +150,7 @@ Consulte [Gerenciar contas de usuário](../administration/organizations.md).
 
 +++O que é uma organização?
 
-Uma [organização](../administration/organizations.md) é a entidade que permite a um administrador configurar grupos e usuários, além de controlar o logon único no CX Enterprise. A organização funciona como uma empresa de login que abrange todos os produtos e aplicativos CX Enterprise. Frequentemente, a organização é o nome da empresa. No entanto, uma empresa pode ter muitas organizações.
+Uma [organização](../administration/organizations.md) é a entidade que permite a um administrador configurar grupos e usuários, além de controlar o logon único na CX Enterprise. A organização funciona como uma empresa para logon que abrange todos os produtos e aplicativos da CX Enterprise. Frequentemente, a organização é o nome da empresa. No entanto, uma empresa pode ter muitas organizações.
 
 +++
 
@@ -162,7 +162,7 @@ Consulte [Visualizar a ID da organização](../administration/organizations.md) 
 
 +++O que devo fazer quando um dos meus usuários sair da empresa?
 
-O acesso dele deve ser removido do próprio aplicativo. Eles não poderão acessar o produto a partir do CX Enterprise ou por meio do login direto. Você também deve removê-los no nível do CX Enterprise.
+O acesso dele deve ser removido do próprio aplicativo. Eles não poderão acessar o produto pelo CX Enterprise ou por meio do logon direto. Você também deve removê-los no nível da CX Enterprise.
 
 +++
 

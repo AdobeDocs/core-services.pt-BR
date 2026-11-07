@@ -32,14 +32,14 @@ topic_v2:
     internal-label: Administration
   - id: ff2b9b37-92e0-45fc-b853-379d44c08c89
     internal-label: Audience segmentation
-source-git-commit: 7afb612bf6f14b87a57b7236c226e3f6e9b15380
+source-git-commit: b39f5e2ebae20b92fd984ca65462eb016837b4e2
 workflow-type: tm+mt
-source-wordcount: '760'
-ht-degree: 48%
+source-wordcount: '761'
+ht-degree: 45%
 ---
-# Públicos-alvo da CX Enterprise
+# Públicos da CX Enterprise
 
-[!DNL Audience Library] exibe públicos-alvo na CX Enterprise. Os públicos-alvo são coleções de visitantes (uma lista de IDs da [!DNL CX Enterprise]). Você pode gerenciar a conversão de dados de visitante em uma segmentação de público-alvo. Assim, criar e gerenciar públicos-alvo é como criar e usar segmentos. Você também pode compartilhar o segmento de público-alvo com produtos e serviços na [!DNL CX Enterprise].
+[!DNL Audience Library] exibe públicos no CX Enterprise. Os públicos-alvo são coleções de visitantes (uma lista de IDs da [!DNL CX Enterprise]). Você pode gerenciar a conversão de dados de visitante em uma segmentação de público-alvo. Assim, criar e gerenciar públicos-alvo é como criar e usar segmentos. Você também pode compartilhar o segmento de público-alvo com produtos e serviços na [!DNL CX Enterprise].
 
 ![Públicos-alvo da CX Enterprise](assets/audiences.png)
 
@@ -54,20 +54,20 @@ Os públicos-alvo podem ser criados ou derivados de várias fontes, como:
 Todos os públicos-alvo, independentemente de sua fonte, podem ser acessados para casos de uso de direcionamento em tempo real. No entanto, os públicos-alvo compartilhados do Analytics para o Audience Manager não estão acessíveis para o direcionamento em tempo real. O sistema avalia os públicos-alvo de duas maneiras:
 
 * Os públicos-alvo históricos do Analytics são avaliados a cada quatro horas. O tempo total para processar e compartilhar pode levar até oito horas. Os públicos-alvo de histórico sempre incluem visitantes de retorno.
-* Os públicos-alvo em tempo real são provenientes de CX Enterprise Audiences e avaliados em tempo real.
+* Os públicos-alvo em tempo real são provenientes da CX Enterprise Audiences e avaliados em tempo real.
 
 ## Como os aplicativos usam os públicos-alvo
 
-A tabela a seguir descreve como os públicos-alvo são usados nos aplicativos CX Enterprise:
+A tabela a seguir descreve como os públicos-alvo são usados em aplicativos do CX Enterprise:
 
 | Solução | Descrição |
 | --- | --- |
 | Públicos-alvo da CX Enterprise | Crie, gerencie e compartilhe públicos-alvo originalmente usando a Biblioteca de público-alvo. É possível:<ul><li>Use públicos-alvo em tempo real usando atributos brutos de análise.</li><li>Combine públicos para criar compostos, unindo dados históricos e em tempo real.</li><li>Consulte as exibições gráficas do tamanho estimado dos públicos-alvo.</li></ul><br>Para obter sugestões sobre que tipo de público-alvo você deve criar, consulte [Opções de criação de públicos-alvo](https://experienceleague.adobe.com/docs/experience-cloud-kcs/kbarticles/KA-16471.html?lang=pt-BR). |
-| Analytics | Na segmentação, você pode criar um segmento, combiná-lo a um conjunto de relatórios e, em seguida, publicar o segmento no CX Enterprise. A publicação do segmento o exibe na página [!DNL Audience Library] do CX Enterprise. (Consulte [Publicar segmentos no CX Enterprise](https://experienceleague.adobe.com/docs/analytics/components/segmentation/segmentation-workflow/seg-publish.html?lang=pt-BR) na ajuda do [!DNL Analytics] para obter detalhes.) O público-alvo também está disponível como um público-alvo direcionado para uma experiência de campanha oferecida por [!DNL Adobe Target] e em [!DNL Audience Manager]. Depois de compartilhar um público-alvo de [!DNL Adobe Analytics] e selecioná-lo para uso em uma campanha ativa, os perfis de visitante que atendem ao critério de definição de segmento dos últimos 90 dias são enviados para [!UICONTROL Serviços de Público-Alvo]. O limite de públicos-alvo compartilhados foi aumentado para 75. Públicos-alvo compartilhados com CX Enterprise a partir de [!DNL Analytics] não podem exceder 20 milhões de membros únicos. Além disso, devido a questões relacionadas ao cache, conjuntos de relatórios excluídos no Analytics permanecem exibidos no CX Enterprise por 12 horas após a exclusão. |
+| Analytics | Na segmentação, você pode criar um segmento, combiná-lo a um conjunto de relatórios e, em seguida, publicar o segmento no CX Enterprise. A publicação do segmento o exibe na página [!DNL Audience Library] do CX Enterprise. (Consulte [Publicar segmentos no CX Enterprise](https://experienceleague.adobe.com/docs/analytics/components/segmentation/segmentation-workflow/seg-publish.html?lang=pt-BR) na ajuda do [!DNL Analytics] para obter detalhes.) O público-alvo também está disponível como um público-alvo direcionado para uma experiência de campanha oferecida por [!DNL Adobe Target] e em [!DNL Audience Manager]. Depois de compartilhar um público-alvo de [!DNL Adobe Analytics] e selecioná-lo para uso em uma campanha ativa, os perfis de visitante que atendem ao critério de definição de segmento dos últimos 90 dias são enviados para [!UICONTROL Serviços de Público-Alvo]. O limite de públicos-alvo compartilhados foi aumentado para 75. Públicos-alvo compartilhados com a CX Enterprise a partir de [!DNL Analytics] não podem exceder 20 milhões de membros únicos. Além disso, devido a questões relacionadas ao cache, conjuntos de relatórios excluídos no Analytics permanecem exibidos no CX Enterprise por 12 horas após a exclusão. |
 | Mobile Services | Analise o tráfego de publicação de conteúdo para dispositivos móveis usando a exibição de explosão solar no relatório [!UICONTROL Tipos de dispositivo]. |
-| [!DNL Target] | O [serviço de ID](https://experienceleague.adobe.com/docs/id-service/using/home.html?lang=pt-BR) unifica as IDs e os dados de visitantes em um perfil único e acionável para uso em diversos aplicativos. A caixa de seleção [!UICONTROL Publicar na CX Enterprise] durante o processo de criação de segmento no Adobe Analytics permite que o segmento fique disponível na biblioteca de público-alvo personalizado no Adobe Target. Um segmento criado no [!DNL Analytics] ou no [!DNL Audience Manager] pode ser usado em atividades do [!DNL Target]. Por exemplo, é possível criar atividades de campanha baseadas nas métricas de conversão do [!DNL Analytics] e nos segmentos de público-alvo criados no [!DNL Analytics]. |
-| [!DNL Audience Manager] | Os públicos-alvo compartilhados ficam disponíveis na segmentação do [!DNL Audience Manager]. Todos os públicos-alvo do CX Enterprise estão disponíveis nativamente no [!DNL Audience Manager], que oferece:<ul><li>Automação integrada em relação ao modo como eles são compartilhados e consumidos em fluxos de trabalho de aplicativos</li><li>Destinos externos</li><li>Modelo de semelhanças</li></ul> |
-| Campaign | <ul><li>Importar públicos-alvo compartilhados de diferentes aplicativos Adobe CX Enterprise para o Adobe Campaign.</li><li>Exportar listas de destinatários em formato de públicos-alvo compartilhados. Esses públicos-alvo compartilhados podem ser usados nos diferentes aplicativos Adobe CX Enterprise que você usa.</li></ul> |
+| [!DNL Target] | O [Serviço de ID de Visitante](https://experienceleague.adobe.com/docs/id-service/using/home.html?lang=pt-BR) unifica as IDs de visitantes e os dados em um perfil único e acionável para uso em vários aplicativos. A caixa de seleção [!UICONTROL Publicar no CX Enterprise] durante o processo de criação de segmento no Adobe Analytics permite que o segmento fique disponível na biblioteca de público-alvo personalizado no Adobe Target. Um segmento criado no [!DNL Analytics] ou no [!DNL Audience Manager] pode ser usado em atividades do [!DNL Target]. Por exemplo, é possível criar atividades de campanha baseadas nas métricas de conversão do [!DNL Analytics] e nos segmentos de público-alvo criados no [!DNL Analytics]. |
+| [!DNL Audience Manager] | Os públicos-alvo compartilhados ficam disponíveis na segmentação do [!DNL Audience Manager]. Todos os públicos-alvo da CX Enterprise estão disponíveis nativamente no [!DNL Audience Manager], que fornece:<ul><li>Automação integrada em relação ao modo como eles são compartilhados e consumidos em fluxos de trabalho de aplicativos</li><li>Destinos externos</li><li>Modelo de semelhanças</li></ul> |
+| Campaign | <ul><li>Importar públicos-alvo compartilhados de diferentes aplicativos da Adobe CX Enterprise para o Adobe Campaign.</li><li>Exportar listas de destinatários em formato de públicos-alvo compartilhados. Esses públicos-alvo compartilhados podem ser usados nos diferentes aplicativos da Adobe CX Enterprise que você usa.</li></ul> |
 | Advertising Cloud | Use o público-alvo como destino. |
 
 {style="table-layout:auto"}
@@ -80,7 +80,7 @@ A tabela a seguir descreve como os públicos-alvo são usados nos aplicativos CX
 
 O [!DNL CX Enterprise] fornece uma biblioteca para criar e gerenciar públicos-alvo, com identificação de público-alvo nativa e em tempo real.
 
-**[!UICONTROL CX Empresa]** > **[!UICONTROL Experience Platform]** > **[!UICONTROL Pessoas]** > **[!UICONTROL Biblioteca de público-alvo]**
+**[!UICONTROL CX Enterprise]** > **[!UICONTROL Experience Platform]** > **[!UICONTROL Pessoas]** > **[!UICONTROL Biblioteca de Público-Alvo]**
 
 ![Adicionar público-alvo na Biblioteca de público-alvo](assets/audience_library.png)
 
@@ -98,4 +98,4 @@ O [!DNL CX Enterprise] fornece uma biblioteca para criar e gerenciar públicos-a
 
 ## Publicar públicos-alvo da Adobe Analytics
 
-Consulte [Publicar segmentos no CX Enterprise](https://experienceleague.adobe.com/pt-br/docs/analytics/components/segmentation/segmentation-workflow/seg-publish) na documentação do Adobe Analytics para obter mais informações.
+Consulte [Publicar segmentos no CX Enterprise](https://experienceleague.adobe.com/en/docs/analytics/components/segmentation/segmentation-workflow/seg-publish) na documentação do Adobe Analytics para obter mais informações.

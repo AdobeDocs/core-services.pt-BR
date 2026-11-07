@@ -1,5 +1,5 @@
 ---
-title: Endereços IP usados pela Experience Cloud
+title: Endereços IP usados pelo CX Enterprise
 description: Se o firewall da sua organização bloquear endereços IP originários da Adobe, use esta lista para atualizar as configurações do firewall.
 exl-id: 1fca8d3b-ae8b-4095-96ef-d165f912b4c6
 TQID: https://experienceleague.adobe.com/EPoerIJdL9FVBFB32WRB9zBMdXJarSu90hJIsn7Vpps
@@ -16,13 +16,11 @@ topic_v2:
     internal-label: Data collection
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
     internal-label: Administration
-source-git-commit: 50012e2564e88e1a6e16578e3331136c7df0cb21
+source-git-commit: b39f5e2ebae20b92fd984ca65462eb016837b4e2
 workflow-type: tm+mt
-source-wordcount: 426
+source-wordcount: '426'
 ht-degree: 8%
-
 ---
-
 # Endereços IP usados pelo CX Enterprise
 
 Algumas configurações de firewall bloqueiam endereços IP dos servidores de coleta de dados da Adobe ou dos servidores responsáveis por acessar os dados do. Você pode usar essa lista de intervalos para alterar as configurações de firewall da sua organização para permitir acesso e enviar dados de dentro da organização. Esta página inclui sistemas de entrada (como a coleta de dados) e sistemas de saída (como feeds de dados no Adobe Analytics) que a Adobe usa.
@@ -31,12 +29,12 @@ Algumas configurações de firewall bloqueiam endereços IP dos servidores de co
 >
 >Embora a Adobe faça o possível para manter esse documento atualizado, não é possível garantir que a lista de intervalos IP permanecerá a mesma. As possíveis alterações incluem o crescimento e a expansão dos negócios, um registro da Internet exige alterações no espaço de endereço IP da Adobe ou um provedor de serviços de Internet deixa de funcionar.
 
-Além dos blocos de endereço IP listados abaixo, os produtos Adobe CX Enterprise individuais têm seus próprios endereços IP usados:
+Além dos blocos de endereço IP listados abaixo, os produtos Adobe CX Enterprise individuais têm seus próprios endereços IP que usam:
 
-* [Adobe Analytics](https://experienceleague.adobe.com/pt-br/docs/analytics/technotes/ip-addresses)
-* [Customer Journey Analytics](https://experienceleague.adobe.com/pt-br/docs/analytics-platform/using/technotes/ip-addresses)
-* [Marketo Engage](https://experienceleague.adobe.com/pt-br/docs/marketo/using/getting-started/initial-setup/configure-protocols-for-marketo#step-allowlist-marketo-ips)
-* [Adobe Workfront](https://experienceleague.adobe.com/pt-br/docs/workfront/using/administration-and-setup/get-started-administration/configure-your-firewall)
+* [Adobe Analytics](https://experienceleague.adobe.com/en/docs/analytics/technotes/ip-addresses)
+* [Customer Journey Analytics](https://experienceleague.adobe.com/en/docs/analytics-platform/using/technotes/ip-addresses)
+* [Marketo Engage](https://experienceleague.adobe.com/en/docs/marketo/using/getting-started/initial-setup/configure-protocols-for-marketo#step-allowlist-marketo-ips)
+* [Adobe Workfront](https://experienceleague.adobe.com/en/docs/workfront/using/administration-and-setup/get-started-administration/configure-your-firewall)
 
 ## Todos os blocos de endereço IP do Adobe
 
@@ -54,12 +52,12 @@ A tabela a seguir abrange todos os endereços IP de propriedade da Adobe. Essa t
 
 {style="table-layout:auto"}
 
-## Coleta de dados corporativos Adobe CX e blocos de endereço IP FTP
+## Coleta de dados do Adobe CX Enterprise e blocos de endereço IP de FTP
 
 Se a empresa preferir permitir intervalos específicos de endereço IP, você pode consultar a tabela a seguir. O serviço inclui:
 
-* Servidores de coleta de dados para todos os produtos CX Enterprise
-* Servidores FTP para todos os produtos CX Enterprise
+* Servidores de coleção de dados para todos os produtos da CX Enterprise
+* Servidores FTP para todos os produtos da CX Enterprise
 
 Todos os intervalos IP desta seção estão incluídos na tabela acima.
 

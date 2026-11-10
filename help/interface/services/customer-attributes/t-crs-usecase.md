@@ -1,6 +1,6 @@
 ---
 description: Saiba como criar uma fonte de dados [!DNL Customer Attributes] e carregá-la no CX Enterprise.
-solution: Experience Cloud
+solution: CX Enterprise
 title: Criar e Carregar um Arquivo de Source de Dados [!DNL Customer Attributes]
 uuid: 53dca789-9a91-4385-839d-c9d1aa36b9be
 feature: Customer Attributes
@@ -33,7 +33,7 @@ topic_v2:
     internal-label: Data collection
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
     internal-label: Administration
-source-git-commit: d7e25c1350ad8d57470b268d97bdfe7207fa35e7
+source-git-commit: 26b7f77165cfe16db6bc816f83ba6bfdf9c925d4
 workflow-type: tm+mt
 source-wordcount: '1183'
 ht-degree: 41%
@@ -56,7 +56,7 @@ Crie a fonte de atributo do cliente (arquivos `.csv` e `.fin`) e carregue os dad
 
 * O **Adobe Target** `at.js` (qualquer versão) ou `mbox.js` versão 58 ou posterior é necessário para os atributos do cliente.
 
-  Consulte [Como implantar at.js](https://experienceleague.adobe.com/pt-br/docs/target-dev/developer/client-side/overview).
+  Consulte [Como implantar at.js](https://experienceleague.adobe.com/en/docs/target-dev/developer/client-side/overview).
 
 ## Criar um arquivo de dados
 
@@ -107,7 +107,7 @@ Execute essas etapas na página _[!UICONTROL Criar Source de atributo do cliente
 
      * **Marcas:** A ID de alias corresponde ao valor do *Código de integração* em [!UICONTROL Configurações do cliente], na extensão de marca do [[!UICONTROL Serviço da Experience Cloud ID]](https://experienceleague.adobe.com/docs/experience-platform/tags/home.html?lang=pt-BR).
 
-     * **Serviço de ID do Visitante:** a ID de Alias corresponde às [IDs do cliente](https://experienceleague.adobe.com/docs/id-service/using/reference/authenticated-state.html?lang=pt-BR) adicionais que você pode associar a cada visitante.
+     * **Serviço de ID do Visitante:** a ID de Alias corresponde às [IDs do cliente](https://experienceleague.adobe.com/docs/id-service/using/reference/authenticated-state.html) adicionais que você pode associar a cada visitante.
 
        Por exemplo, *&quot;crm_ id&quot;* em:
 
@@ -129,7 +129,7 @@ Execute essas etapas na página _[!UICONTROL Criar Source de atributo do cliente
 
        Consulte [Como aproveitar várias fontes de dados](crs-data-file.md#section_76DEB6001C614F4DB8BCC3E5D05088CB) para obter informações adicionais sobre o processamento de dados relacionado ao campo de ID de alias e IDs do cliente.
 
-   * **[!UICONTROL Código do Namespace:]** Use este valor para identificar a fonte de atributo do cliente ao usar o [IdentityMap](https://experienceleague.adobe.com/pt-br/docs/experience-platform/web-sdk/identity/overview) como parte de uma Implementação do AEP WebSDK.
+   * **[!UICONTROL Código do Namespace:]** Use este valor para identificar a fonte de atributo do cliente ao usar o [IdentityMap](https://experienceleague.adobe.com/en/docs/experience-platform/web-sdk/identity/overview) como parte de uma Implementação do AEP WebSDK.
 
 1. Clique em **[!UICONTROL Save]**.
 

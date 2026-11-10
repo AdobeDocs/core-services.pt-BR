@@ -1,6 +1,6 @@
 ---
 description: Saiba como fazer logon e sobre os componentes da interface central no CX Enterprise. Saiba mais sobre pesquisa global, suas preferências de conta, como navegar na interface e obter ajuda.
-solution: Experience Cloud
+solution: CX Enterprise
 title: Componentes da interface central do CX Enterprise
 feature: Central Interface Components
 topic: Administration
@@ -18,7 +18,7 @@ level_v2:
     internal-label: Intermediate
   - id: d378ca77-2da1-4f39-ad92-1917fe974a38
     internal-label: Experienced
-source-git-commit: b39f5e2ebae20b92fd984ca65462eb016837b4e2
+source-git-commit: 26b7f77165cfe16db6bc816f83ba6bfdf9c925d4
 workflow-type: tm+mt
 source-wordcount: '733'
 ht-degree: 40%
@@ -90,7 +90,7 @@ Clique no ![menu](assets/menu-icon.png) do seletor de aplicativos para acessar o
 
 ## Pesquisa e suporte no CX Enterprise
 
-A pesquisa no CX Enterprise permite procurar ajuda (documentação, tutoriais e cursos) no [Experience League](https://experienceleague.adobe.com/pt-br?lang=pt-BR#home).
+A pesquisa no CX Enterprise permite procurar ajuda (documentação, tutoriais e cursos) no [Experience League](https://experienceleague.adobe.com/?lang=pt-BR#home).
 
 ![Pesquisa e suporte no CX Enterprise](assets/search-menu.png)
 
@@ -98,7 +98,7 @@ O menu [!UICONTROL Ajuda] também fornece acesso a:
 
 * **[!UICONTROL Suporte]:** crie um tíquete de suporte ou contate o [!UICONTROL Suporte] usando o Twitter.
 * **[!UICONTROL Feedback]:** Contate a Adobe usando o Feedback e dê a sua opinião.
-* **[!UICONTROL Status]:** navegue até `https://status.adobe.com/pt-br/experience_cloud` e verifique o status operacional do produto e [!UICONTROL Gerenciar assinaturas].
+* **[!UICONTROL Status]:** navegue até `https://status.adobe.com/experience_cloud` e verifique o status operacional do produto e [!UICONTROL Gerenciar assinaturas].
 * **[!UICONTROL Developer Connection]:** Navegue até `adobe.io` e encontre a documentação do desenvolvedor.
 
 ## Preferências da conta

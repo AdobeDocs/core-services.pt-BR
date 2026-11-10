@@ -1,6 +1,6 @@
 ---
 description: Saiba como validar o esquema [!DNL Customer Attributes] no Adobe CX Enterprise.
-solution: Experience Cloud
+solution: CX Enterprise
 title: Como validar o esquema [!DNL Customer Attributes]
 feature: Customer Attributes
 topic: Administration
@@ -32,7 +32,7 @@ topic_v2:
     internal-label: Troubleshooting
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
     internal-label: Administration
-source-git-commit: 7afb612bf6f14b87a57b7236c226e3f6e9b15380
+source-git-commit: 26b7f77165cfe16db6bc816f83ba6bfdf9c925d4
 workflow-type: tm+mt
 source-wordcount: '343'
 ht-degree: 39%
@@ -71,8 +71,8 @@ Um esquema é criado com base nessas configurações. O esquema é usado para va
 
 * **[!UICONTROL Pesquisa de ID:]** Insira uma ID do cliente (CID) em seu `.csv` para pesquisar informações do CX Enterprise para a ID. Esse recurso é útil para solucionar por que os dados do atributo não são exibidos para um visitante:
 
-  * **[!UICONTROL ECID:]** exibe se você está usando o Serviço de ID de visitante. Se você estiver no Serviço de ID de visitante, mas não houver IDs listadas, o CX Enterprise não recebeu um alias para essa CID. Isso indica que o visitante não está conectado ou que sua implementação não está transmitindo essa ID.
+  * **[!UICONTROL ECID:]** exibe se você está usando o Serviço de ID de visitante. Se você estiver no Serviço de ID de visitante, mas não houver IDs listadas, a CX Enterprise não recebeu um alias para essa CID. Isso indica que o visitante não está conectado ou que sua implementação não está transmitindo essa ID.
 
   * **[!UICONTROL CID (ID do cliente):]** os atributos associados a esta CID. Se você estiver usando uma prop ou eVar para fazer upload das CIDs (AVID) e visualizar os atributos exibidos, mas nenhuma AVID, isso indica que o visitante não está conectado ao seu site.
 
-  * **[!UICONTROL AVID (ID de visitante do Analytics):]** exibe se você usa uma prop ou eVar para carregar CIDs. Se essas IDs forem passadas para o CX Enterprise, todas as IDs de visitante associadas à CID inseridas serão exibidas aqui.
+  * **[!UICONTROL AVID (ID de visitante do Analytics):]** exibe se você usa uma prop ou eVar para carregar CIDs. Se essas IDs forem transmitidas para o CX Enterprise, todas as IDs de visitante associadas à CID inseridas serão exibidas aqui.

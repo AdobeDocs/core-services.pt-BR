@@ -1,7 +1,7 @@
 ---
 title: Preferências e Notificações de Conta
 description: Saiba mais sobre perfis de usuário, preferências de conta e dados de uso do produto no CX Enterprise. Inscreva-se nas notificações de produto para email e [!DNL Slack] e configure alertas de produto.
-solution: Experience Cloud
+solution: CX Enterprise
 feature: Account Preferences, Notifications, Alerts
 topic: Administration
 role: Admin
@@ -37,7 +37,7 @@ level_v2:
 topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
     internal-label: Administration
-source-git-commit: 7afb612bf6f14b87a57b7236c226e3f6e9b15380
+source-git-commit: 26b7f77165cfe16db6bc816f83ba6bfdf9c925d4
 workflow-type: tm+mt
 source-wordcount: '841'
 ht-degree: 4%
@@ -48,13 +48,13 @@ Para localizar as preferências do CX Enterprise, clique em **[!UICONTROL Perfil
 
 ![preferências](../assets/preferences-navigation.png){width="100" zoomable="yes"}
 
-Na página [!UICONTROL Preferências do CX Enterprise], você pode gerenciar os seguintes recursos da conta:
+Na página [!UICONTROL Preferências do CX Enterprise], você pode gerenciar os seguintes recursos de conta:
 
 | Recurso | Descrição |
 | --- | --- |
 | [!UICONTROL Perfil] | Atualize seu [Perfil de Conta da Adobe](https://account.adobe.com/profile). <p>A foto e o nome do seu perfil aparecem ao fazer logon em Adobe.com, produtos e serviços da Adobe e em sites voltados ao público, como o [!DNL Behance]. |
-| [!UICONTROL Geral] | Selecione uma [organização](../administration/organizations.md).<p>Esta organização é a padrão usada quando você faz logon no CX Enterprise. |
-| [!UICONTROL Dados de uso do produto] | Você pode controlar quais dados de uso do produto são compartilhados com a Adobe ao usar os aplicativos CX Enterprise. Esses são dados sobre como você usa nossos produtos, não sobre o conteúdo ou os dados de sua organização. A Adobe usa essas informações para ajudar a melhorar nossos produtos, fornecer suporte aprimorado no produto e personalizar sua experiência e as comunicações conosco. <p>Para saber mais, consulte [Dados de uso do produto](#product-usage-data) (nesta página). |
+| [!UICONTROL Geral] | Selecione uma [organização](../administration/organizations.md).<p>Essa organização é a padrão usada ao fazer logon na CX Enterprise. |
+| [!UICONTROL Dados de uso do produto] | É possível controlar quais dados de uso do produto são compartilhados com a Adobe ao usar os aplicativos da CX Enterprise. Esses são dados sobre como você usa nossos produtos, não sobre o conteúdo ou os dados de sua organização. A Adobe usa essas informações para ajudar a melhorar nossos produtos, fornecer suporte aprimorado no produto e personalizar sua experiência e as comunicações conosco. <p>Para saber mais, consulte [Dados de uso do produto](#product-usage-data) (nesta página). |
 | [!UICONTROL Notificações] | Configure como e quando você deseja [notificações](#subscribe-to-notifications-in-experience-cloud) e alertas do produto: <ul><li>Selecione os produtos que deseja assinar para receber alertas</li><li>Configure o tipo de notificação ([!UICONTROL no aplicativo], [!UICONTROL email] ou [Slack](#slack-notifications))</li><li>Especifique a frequência com que deseja receber emails de notificação. (Não enviar, instantâneo, diário ou semanal.)</li><li>Determine a prioridade do alerta. Os alertas no aplicativo são exibidos no canto superior direito da janela por alguns segundos. Ou você pode especificar se os alertas devem ser exibidos até você descartá-los.</li></ul> |
 
 ## [!UICONTROL Dados de uso do produto]
@@ -62,7 +62,7 @@ Na página [!UICONTROL Preferências do CX Enterprise], você pode gerenciar os 
 Os dados de uso do produto que você escolhe para compartilhar com a Adobe incluem os seguintes tipos de informações sobre como você usa e interage com os aplicativos da Adobe:
 
 * Informações do navegador e do dispositivo, como modelo e sistema operacional do dispositivo, informações de software e hardware, configurações do navegador e do dispositivo, identificadores exclusivos (como endereço IP, ID de cookie ou ID do dispositivo), quantidade de memória instalada, configurações de idioma e resolução da tela;
-* Como você interage com os aplicativos Adobe CX Enterprise, incluindo os recursos que usa e as opções que seleciona;
+* Como você interage com os aplicativos do Adobe CX Enterprise, incluindo os recursos usados e as opções selecionadas;
 * Informações sobre o produto Adobe, como número de versão;
 * Informações sobre seu conteúdo e documentos, como número de páginas e identificadores exclusivos, mas não o conteúdo em si;
 * Informações de uso de conteúdo, como quantas vezes você acessa o conteúdo e como interage com seu conteúdo no aplicativo;
@@ -74,7 +74,7 @@ A Adobe usa essas informações para ajudar a melhorar nossos produtos, fornecer
 
 Você pode selecionar os produtos e categorias que deseja assinar. As notificações aparecem no popover [!UICONTROL Notificações] (no aplicativo), no email ou no [Slack](#slack-notifications) (dependendo das suas assinaturas).
 
-As notificações por e-mail e Slack são úteis para situações em que você não está conectado ao CX Enterprise.
+As notificações por email e pelo Slack são úteis para situações em que você não está conectado ao CX Enterprise.
 
 ### Assinar notificações no aplicativo e por email
 
@@ -90,7 +90,7 @@ Você pode configurar suas preferências de conta para enviar notificações do 
 
 **Pré-requisitos**
 
-* Você deve ter uma conta da CX Enterprise.
+* É necessário ter uma conta do CX Enterprise.
 * Você deve ter uma conta [!DNL Slack]. O administrador do [!DNL Slack] habilita a integração do CX Enterprise com o [!DNL Slack].
 * Você deve fazer parte de pelo menos um espaço de trabalho [!DNL Slack].
 
@@ -126,7 +126,7 @@ Se [!DNL Slack] não estiver instalado, uma mensagem _[!UICONTROL Solicitação 
 
 1. Você receberá uma notificação em [!DNL Slack] depois que a solicitação de aplicativo for aprovada.
 
-1. Após receber a aprovação de [!DNL Slack], retorne às **[!UICONTROL Notificações]** da CX Enterprise e siga as etapas para [assinar o Slack](#slack-notifications) (descritas acima).
+1. Após receber a aprovação de [!DNL Slack], retorne às **[!UICONTROL Notificações]** do CX Enterprise e siga as etapas para [assinar o Slack](#slack-notifications) (descritas acima).
 
 ### O que você verá em [!DNL Slack]
 
@@ -135,7 +135,7 @@ Depois de integrar com êxito o [!DNL Slack], as notificações do [!DNL Slack] 
 * A mensagem pessoal será recebida do nome do aplicativo _Adobe[!DNL CX Enterprise]_.
 * A mensagem inclui o logotipo do produto para o aplicativo específico, como Adobe [!DNL Experience Platform], Adobe [!DNL Experience Manager] e assim por diante.
 * Um link para exibir todas as notificações no CX Enterprise.
-* Um link para gerenciar preferências de notificação no CX Enterprise.
+* Um link para gerenciar as preferências de notificação no CX Enterprise.
 
 ## Exibir [!UICONTROL notificações] e anúncios no CX Enterprise
 

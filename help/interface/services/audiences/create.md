@@ -1,7 +1,7 @@
 ---
 title: Como criar um público-alvo na Biblioteca de público-alvo
 description: Descubra como usar as regras de atributo para criar um público-alvo compartilhável na Biblioteca de público-alvo. Saiba como configurar uma regra e definir um público-alvo composto.
-solution: Experience Cloud
+solution: CX Enterprise
 uuid: 7e622539-296e-4ff3-93b0-ec1c08b35429
 feature: Audience Library
 topic: Administration
@@ -33,7 +33,7 @@ topic_v2:
     internal-label: Data collection
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
     internal-label: Administration
-source-git-commit: 7afb612bf6f14b87a57b7236c226e3f6e9b15380
+source-git-commit: 26b7f77165cfe16db6bc816f83ba6bfdf9c925d4
 workflow-type: tm+mt
 source-wordcount: '549'
 ht-degree: 56%
@@ -82,7 +82,7 @@ O exemplo a seguir mostra como criar as regras para um público-alvo composto. E
      >
      >Devido a questões relacionadas ao cache, conjuntos de relatórios excluídos no Analytics permanecem exibidos no CX Enterprise por 12 horas após a exclusão.
 
-   * **[!UICONTROL CX Enterprise:]** dados de atributos derivados de [!DNL CX Enterprise] fontes. Por exemplo, tais dados podem ser de segmentos de público-alvo criados no [!DNL Analytics], ou dados do [!DNL Audience Manager].
+   * **[!UICONTROL CX Enterprise:]** dados de atributo derivados de [!DNL CX Enterprise] fontes. Por exemplo, tais dados podem ser de segmentos de público-alvo criados no [!DNL Analytics], ou dados do [!DNL Audience Manager].
 
 1. Defina as regras de público e clique em **[!UICONTROL Salvar].**
 
@@ -113,11 +113,11 @@ Para comparação, adicione uma regra *OU* para ver todos os visitantes de uma s
 
 A regra resultante é um público-alvo definido pela inclusão dos usuários do Chrome &amp; Safari que visitaram o Home &amp; Garden. O segmento Terraço e mobília fornece informações adicionais sobre todos os visitantes que visitam a seção do site.
 
-![Público-alvo definido na CX Enterprise](assets/defined_audience.png)
+![Público-alvo definido no CX Enterprise](assets/defined_audience.png)
 
 * **Estimativa do histórico:** (círculo pontilhado) representa as regras criadas com base nos dados do [!DNL Analytics].
 * **Público-alvo real:** (círculo contínuo) toda regra criada com 30 dias de dados no Audience Manager. Quando os dados do Audience Manager atingem 30 dias, a linha se torna sólida e representa os números reais.
 
 Depois que a coleta de dados é concluída pelo período especificado, os círculos se combinam para mostrar um público-alvo definido.
 
-Depois que o público-alvo é salvo, ele fica disponível para outros aplicativos CX Enterprise. Por exemplo, você pode incluir um público-alvo compartilhado em uma [atividade](https://experienceleague.adobe.com/pt-br/docs/target/using/activities/activities) do Adobe Target.
+Depois que o público-alvo é salvo, ele é disponibilizado para outros aplicativos da CX Enterprise. Por exemplo, você pode incluir um público-alvo compartilhado em uma [atividade](https://experienceleague.adobe.com/en/docs/target/using/activities/activities) do Adobe Target.

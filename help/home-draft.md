@@ -1,6 +1,6 @@
 ---
-description: Saiba mais sobre os componentes da interface central para o CX Enterprise. Obtenha ajuda sobre a administração de usuários e produtos no Admin Console e ative aplicativos para os serviços do CX Enterprise. Obtenha ajuda sobre a Biblioteca de público-alvo, Atributos do cliente, CX Enterprise Assets e muito mais.
-title: Documentação da interface da Experience Cloud
+description: Saiba mais sobre os componentes de interface central para o CX Enterprise. Obtenha ajuda sobre a administração de usuários e produtos no Admin Console e ative aplicativos para os serviços da CX Enterprise. Obtenha ajuda sobre a Biblioteca de público-alvo, Atributos do cliente, CX Enterprise Assets e muito mais.
+title: Documentação da interface do CX Enterprise
 uuid: aec6f689-e617-4876-ae6c-e961cfcb991a
 feature: Central Interface Components
 topic: Administration
@@ -13,10 +13,10 @@ role_v2:
 level_v2:
   - id: d378ca77-2da1-4f39-ad92-1917fe974a38
     internal-label: Experienced
-source-git-commit: 7afb612bf6f14b87a57b7236c226e3f6e9b15380
+source-git-commit: 26b7f77165cfe16db6bc816f83ba6bfdf9c925d4
 workflow-type: tm+mt
 source-wordcount: '140'
-ht-degree: 60%
+ht-degree: 57%
 ---
 # Visão geral da interface central do CX Enterprise
 
@@ -183,7 +183,7 @@ To access CX Enterprise applications and services provisioned for you within you
 
 ## Get help and support 
 
-Access learning and help using the **[!UICONTROL Help center]** (![asset](assets/help-icon.png)) in the header, including help content (documentation, tutorials, and courses) on [Experience League](https://experienceleague.adobe.com/pt-br#home), as well as additional resources for individual applications. You can also submit open-ended feedback and create prioritized support tickets.
+Access learning and help using the **[!UICONTROL Help center]** (![asset](assets/help-icon.png)) in the header, including help content (documentation, tutorials, and courses) on [Experience League](https://experienceleague.adobe.com/#home), as well as additional resources for individual applications. You can also submit open-ended feedback and create prioritized support tickets.
 
 ![Get help and support](assets/search-menu.png)
 
@@ -191,7 +191,7 @@ The [!UICONTROL Help] menu also gives you access to:
 
 * **[!UICONTROL Support]:** Create a support ticket or contact [!UICONTROL Support] using Twitter.
 * **[!UICONTROL Feedback]:** Share feedback about your CX Enterprise experience. Your feedback is used to improve Adobe's products and services.
-* **[!UICONTROL Status]:** Navigate to `https://status.adobe.com/pt-br/experience_cloud` and check product operational status and [!UICONTROL Manage Subscriptions].
+* **[!UICONTROL Status]:** Navigate to `https://status.adobe.com/experience_cloud` and check product operational status and [!UICONTROL Manage Subscriptions].
 * **[!UICONTROL Developer Connection]:** Navigation to `adobe.io` and find developer documentation.
 
 ## Manage your user profile
@@ -224,7 +224,7 @@ Learn about the latest enhancements to CX Enterprise central interface component
 
 You can configure your account preferences to send CX Enterprise notifications to a [!DNL Slack] channel. 
 
-[!BADGE Beta]{type=Informative url="https://experienceleague.adobe.com/pt-br/docs/core-services/interface/features/account-preferences#notifications" tooltip="Learn about Slack"}
+[!BADGE Beta]{type=Informative url="https://experienceleague.adobe.com/en/docs/core-services/interface/features/account-preferences#notifications" tooltip="Learn about Slack"}
 
 
 >[!TAB New Campaign Web User Interface] 
@@ -312,7 +312,6 @@ Some important changes to the Android Firebase Cloud Messaging (FCM) service wil
   </tr>
 </table> 
 -->
-
 ## Recursos adicionais
 
 [Descrição do produto Adobe Campaign v8](https://helpx.adobe.com/br/legal/product-descriptions/adobe-campaign-managed-cloud-services.html){target="_blank"} - [Documentação da interface do Adobe Campaign Web](https://experienceleague.adobe.com/docs/campaign-web/v8/campaign-web-home.html?lang=pt-BR){target="_blank"} - [Tutoriais](https://experienceleague.adobe.com/docs/campaign-learn/tutorials/overview.html?lang=pt-BR){target="_blank"} - [[!DNL Adobe Campaign] Guia de automação](https://experienceleague.adobe.com/docs/campaign/automation/home.html?lang=pt-BR){target="_blank"} - [Painel de controle do Campaign v8](https://experienceleague.adobe.com/docs/control-panel/using/discover-control-panel/key-features.html?lang=pt-BR){target="_blank"}

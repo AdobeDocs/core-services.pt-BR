@@ -1,6 +1,6 @@
 ---
 description: Saiba como fazer upload dos dados de atributos do cliente via FTP para o CX Enterprise.
-solution: Experience Cloud
+solution: CX Enterprise
 title: Fazer upload do arquivo de dados do atributo do cliente via FTP
 feature: Customer Attributes
 topic: Administration
@@ -28,7 +28,7 @@ level_v2:
 topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
     internal-label: Administration
-source-git-commit: 7afb612bf6f14b87a57b7236c226e3f6e9b15380
+source-git-commit: 26b7f77165cfe16db6bc816f83ba6bfdf9c925d4
 workflow-type: tm+mt
 source-wordcount: '394'
 ht-degree: 51%
@@ -37,7 +37,7 @@ ht-degree: 51%
 
 Se você não fizer upload usando a função arrastar e soltar, será possível fazer upload do atributo do cliente via FTP para a CX Enterprise.
 
-Você pode fazer upload dos dados depois de criar uma fonte de atributo do cliente e uma conta FTP no CX Enterprise. É possível criar uma conta FTP por fonte de atributo. Os arquivos carregados são armazenados na pasta raiz dessa conta. Os dados devem estar em formato `.csv`, com um segundo arquivo `.fin` para indicar que o upload foi concluído.
+Você pode fazer upload dos dados depois de criar uma fonte de atributo do cliente e uma conta FTP na CX Enterprise. É possível criar uma conta FTP por fonte de atributo. Os arquivos carregados são armazenados na pasta raiz dessa conta. Os dados devem estar em formato `.csv`, com um segundo arquivo `.fin` para indicar que o upload foi concluído.
 
 >[!IMPORTANT]
 >
@@ -46,7 +46,7 @@ Você pode fazer upload dos dados depois de criar uma fonte de atributo do clien
 Os uploads de arquivo para o site FTP de atributos do cliente podem ser feitos via FTP ou SFTP:
 
 * Você precisa de um cliente compatível com conexões SFTP.
-* Você pode se conectar ao SFTP usando o nome de usuário/senha ou sem usar senha, conforme descrito [aqui](https://experienceleague.adobe.com/docs/analytics/export/ftp-and-sftp/secure-file-transfer-protocol/ftp-sftp-cert-auth.html?lang=pt-BR).
+* Você pode se conectar ao SFTP usando o nome de usuário/senha ou sem usar senha, conforme descrito [aqui](https://experienceleague.adobe.com/docs/analytics/export/ftp-and-sftp/secure-file-transfer-protocol/ftp-sftp-cert-auth.html).
 
 **Para fazer upload do arquivo de dados via FTP**
 

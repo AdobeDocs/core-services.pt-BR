@@ -1,7 +1,7 @@
 ---
 title: '[!DNL Audience Library]'
 description: Saiba como gerenciar a conversão dos dados do visitante em segmentação de público no CX Enterprise [!DNL Audience Library].
-solution: Experience Cloud
+solution: CX Enterprise
 type: Documentation
 uuid: 92faf3a8-1375-4e32-905b-74cad48144d3
 feature: Audience Library
@@ -32,7 +32,7 @@ topic_v2:
     internal-label: Administration
   - id: ff2b9b37-92e0-45fc-b853-379d44c08c89
     internal-label: Audience segmentation
-source-git-commit: b39f5e2ebae20b92fd984ca65462eb016837b4e2
+source-git-commit: 26b7f77165cfe16db6bc816f83ba6bfdf9c925d4
 workflow-type: tm+mt
 source-wordcount: '761'
 ht-degree: 45%
@@ -98,4 +98,4 @@ O [!DNL CX Enterprise] fornece uma biblioteca para criar e gerenciar públicos-a
 
 ## Publicar públicos-alvo da Adobe Analytics
 
-Consulte [Publicar segmentos no CX Enterprise](https://experienceleague.adobe.com/pt-br/docs/analytics/components/segmentation/segmentation-workflow/seg-publish) na documentação do Adobe Analytics para obter mais informações.
+Consulte [Publicar segmentos no CX Enterprise](https://experienceleague.adobe.com/en/docs/analytics/components/segmentation/segmentation-workflow/seg-publish) na documentação do Adobe Analytics para obter mais informações.

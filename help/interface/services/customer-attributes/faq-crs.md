@@ -1,6 +1,6 @@
 ---
 description: Obtenha respostas para perguntas frequentes sobre o [!DNL Customer Attributes] no Adobe CX Enterprise, para Adobe Analytics e Adobe Target.
-solution: Experience Cloud
+solution: CX Enterprise
 title: Perguntas frequentes sobre [!DNL Customer Attributes]
 feature: Customer Attributes
 topic: Administration
@@ -36,7 +36,7 @@ topic_v2:
     internal-label: Administration
   - id: fd2e3797-f2ea-4b36-a9af-52acf5e90513
     internal-label: Customer profiles
-source-git-commit: 7afb612bf6f14b87a57b7236c226e3f6e9b15380
+source-git-commit: 26b7f77165cfe16db6bc816f83ba6bfdf9c925d4
 workflow-type: tm+mt
 source-wordcount: '1059'
 ht-degree: 59%
@@ -71,7 +71,7 @@ Orientação e limitações ao usar [!DNL Customer Attributes].
 | **(Somente Adobe Analytics)** Como essa funcionalidade difere do que é fornecido no Analytics Premium? | Anteriormente, os clientes interessados em combinar os dados de atributo do cliente com os dados do Analytics dependiam muito da ferramenta do Data Workbench para essa funcionalidade. O [!DNL Customer Attributes] expõe essa funcionalidade para um público maior fornecendo atributos do cliente como dimensões e métricas no Report Builder. Clientes do Analytics Standard têm acesso a [!DNL Customer Attributes], mas com recursos limitados. O recurso completo está disponível para os clientes do Analytics Premium. |
 | **(Somente no Adobe Target)** É possível pré-carregar ou carregar dados para clientes que o Adobe Target nunca viu? | Sim. Quando o(a) visitante faz sua primeira solicitação ao Adobe Target, o sistema busca as informações existentes que a Adobe tem sobre ele(a) nos [!DNL Customer Attributes] e usa esses dados para o direcionamento. **Observação:** a recuperação desses dados pode demorar até 20 minutos a partir da primeira interação com o Adobe Target. |
 | **(Somente no Adobe Target)** É possível criar um super público-alvo combinando dados de atributos do cliente aos dados de público-alvo compartilhados? | Não. Os dados de público-alvo compartilhados são um público-alvo concluído. |
-| **(Somente Adobe Target)** Como o [!DNL Customer Attributes] se compara à API de perfil em massa da Adobe Target? | A API de perfil em massa permite que os perfis do Adobe Target sejam atualizados diretamente pela API, para um perfil individual ou em massa. O recurso é semelhante aos [!DNL Customer Attributes], com estas principais diferenças:<ul><li>A API de perfil é uma chamada de API REST e o serviço de [!DNL Customer Attributes] usa FTP.</li><li>A API de perfil da Adobe Target envia dados somente para a Adobe Target, em vez de para toda a CX Enterprise.</li><li>O serviço de [!DNL Customer Attributes] fornece uma interface simples para criar e gerenciar esses dados externos.</li></ul> |
+| **(Somente Adobe Target)** Como o [!DNL Customer Attributes] se compara à API de perfil em massa da Adobe Target? | A API de perfil em massa permite que os perfis do Adobe Target sejam atualizados diretamente pela API, para um perfil individual ou em massa. O recurso é semelhante aos [!DNL Customer Attributes], com estas principais diferenças:<ul><li>A API de perfil é uma chamada de API REST e o serviço de [!DNL Customer Attributes] usa FTP.</li><li>A API de perfil do Adobe Target envia dados somente para a Adobe Target em vez de para toda a CX Enterprise.</li><li>O serviço de [!DNL Customer Attributes] fornece uma interface simples para criar e gerenciar esses dados externos.</li></ul> |
 | **(Somente Adobe Target)** O upload de dados de [!DNL Customer Attributes] para o Adobe Target prolonga a vida útil do perfil de visitante do Adobe Target? | Sim. Consulte [Vida útil do perfil do visitante](https://experienceleague.adobe.com/docs/target/using/audiences/visitor-profiles/visitor-profile.html?lang=pt-BR) na ajuda do Adobe Target. |
 | **(Somente Adobe Target)** Posso direcionar os dados enviados a [!DNL Customer Attributes] imediatamente após o(a) visitante ser identificado(a) pela ID do cliente? | Sim. Na chamada do servidor para o Adobe Target, que inclui a ID de terceiros da mbox, todos os dados de atributos do cliente ficam disponíveis. |
 | **(Somente Adobe Target)** O que a coluna **[!UICONTROL Status de sincronização]** representa para os arquivos carregados na fonte de atributo do cliente? | Para ver o número de registros publicados e sincronizados pelo Adobe Target, selecione o ícone Sincronizar status de um arquivo de atributo específico. `Sync %` é uma métrica em tempo real que especifica a % de perfis que foram sincronizados no Adobe Target.<br> **Observação:** pode levar até 24 horas para que os atributos sincronizem com o Adobe Target. |

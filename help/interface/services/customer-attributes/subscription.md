@@ -1,6 +1,6 @@
 ---
 description: Saiba como configurar assinaturas no [!DNL Customer Attributes] para o Analytics e o Target e ativar uma fonte de dados.
-solution: Experience Cloud
+solution: CX Enterprise
 title: Como configurar assinaturas no [!DNL Customer Attributes]
 feature: Customer Attributes
 topic: Administration
@@ -28,14 +28,14 @@ level_v2:
 topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
     internal-label: Administration
-source-git-commit: 7afb612bf6f14b87a57b7236c226e3f6e9b15380
+source-git-commit: 26b7f77165cfe16db6bc816f83ba6bfdf9c925d4
 workflow-type: tm+mt
 source-wordcount: '422'
 ht-degree: 45%
 ---
 # Configurar assinaturas de atributo do cliente
 
-As assinaturas do [!DNL Customer Attributes] habilitam o fluxo de dados de atributos do cliente entre o CX Enterprise e os aplicativos ([!DNL Analytics] e [!DNL Target]).
+As assinaturas [!DNL Customer Attributes] habilitam o fluxo de dados de atributos do cliente entre o CX Enterprise e os aplicativos ([!DNL Analytics] e [!DNL Target]).
 
 Por exemplo, uma assinatura do Adobe Analytics permite atribuir dados em relatórios. Se você usar [!DNL Adobe Target], é possível carregar atributos do cliente para direcionamento e segmentação.
 
@@ -49,7 +49,7 @@ Por exemplo, uma assinatura do Adobe Analytics permite atribuir dados em relató
 
 1. Clique em **[!UICONTROL Configurar assinaturas]**.
 
-   ![Configurar assinaturas na CX Enterprise](assets/configure-subscriptions.png)
+   ![Configurar assinaturas no CX Enterprise](assets/configure-subscriptions.png)
 
 1. Para ativar a fonte de atributo do cliente, clique em **[!UICONTROL Ativo]** e em **[!UICONTROL Salvar]**.
 

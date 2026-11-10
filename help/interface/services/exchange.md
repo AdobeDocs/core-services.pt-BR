@@ -1,6 +1,6 @@
 ---
 description: Conheça o Exchange Marketplace, o único local onde você pode pesquisar, navegar, selecionar, pagar e baixar extensões de marketing digital por meio de aplicativos.
-solution: Experience Cloud
+solution: CX Enterprise
 title: Adobe Exchange
 uuid: 73db5cc5-5fb2-43a2-a164-5cbca9e9a206
 feature: Customer Attributes
@@ -29,7 +29,7 @@ level_v2:
 topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
     internal-label: Administration
-source-git-commit: 7afb612bf6f14b87a57b7236c226e3f6e9b15380
+source-git-commit: 26b7f77165cfe16db6bc816f83ba6bfdf9c925d4
 workflow-type: tm+mt
 source-wordcount: '131'
 ht-degree: 85%
@@ -38,7 +38,7 @@ ht-degree: 85%
 
 O Exchange Marketplace é o único local onde você pode pesquisar, navegar, selecionar, pagar e baixar extensões de marketing digital através de aplicativos. Os aplicativos incluem conectores de dados, configurações personalizadas para o produto principal da Adobe, aplicativos de terceiros e relatórios.
 
-**[!UICONTROL CX Empresa]** > **[!UICONTROL Ajuda]** > **[!UICONTROL Exchange]**
+**[!UICONTROL CX Enterprise]** > **[!UICONTROL Ajuda]** > **[!UICONTROL Exchange]**
 
 * Baixe SDKs, leia a documentação e envie aplicativos para o Digital Marketing para análise.
 
@@ -50,7 +50,7 @@ O Exchange Marketplace é o único local onde você pode pesquisar, navegar, sel
 
 * Recuse ou aprove aplicativos.
 
-* Publicar no CX Enterprise.
+* Publique no CX Enterprise.
 
 * Pesquise e filtre por categoria, empresa, tipo, usuário e muito mais.
 

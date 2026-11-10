@@ -1,6 +1,6 @@
 ---
 description: Saiba mais sobre as exigências de arquivos de dados e múltiplas fontes de dados para fazer upload de dados no [!DNL Customer Attributes] para o CX Enterprise.
-solution: Experience Cloud
+solution: CX Enterprise
 title: Arquivo de dados do atributo do cliente e fontes de dados
 feature: Customer Attributes
 topic: Administration
@@ -28,7 +28,7 @@ level_v2:
 topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
     internal-label: Administration
-source-git-commit: 7afb612bf6f14b87a57b7236c226e3f6e9b15380
+source-git-commit: 26b7f77165cfe16db6bc816f83ba6bfdf9c925d4
 workflow-type: tm+mt
 source-wordcount: '1177'
 ht-degree: 59%
@@ -37,7 +37,7 @@ ht-degree: 59%
 
 As exigências de arquivos de dados e múltiplas fontes de dados para fazer upload dos dados de atributos do cliente no CX Enterprise.
 
-Você precisará acessar o CRM ou dados semelhantes da sua empresa. Os dados dos quais você fez upload no CX Enterprise devem ser um arquivo `.csv`. Ao fazer upload via FTP ou sFTP, você também fará upload de um arquivo `.fin`.
+Você precisará acessar o CRM ou dados semelhantes da sua empresa. Os dados que você carregou para o CX Enterprise devem ser um arquivo `.csv`. Ao fazer upload via FTP ou sFTP, você também fará upload de um arquivo `.fin`.
 
 O [!DNL Customer Attributes] foi criado para lidar com alguns arquivos por dia. Para mitigar o problema de um grande número de arquivos pequenos que atrasam o processamento, os arquivos enviados dentro de 30 minutos após o envio de um lote anterior da mesma organização são encaminhados para uma fila de prioridade mais baixa.
 
@@ -85,7 +85,7 @@ O mesmo arquivo exibido em um editor de texto:
   </tr> 
   <tr> 
    <td colname="col1"> <p>limites de atributo </p> </td> 
-   <td colname="col2"> <p>Você pode fazer upload de centenas de colunas <span class="filepath"> .csv </span> para o serviço de atributos do cliente na CX Enterprise. No entanto, ao configurar assinaturas e selecionar atributos, os seguintes limites poderão ser aplicados dependendo dos aplicativos que possui: </p> <p> 
+   <td colname="col2"> <p>Você pode carregar centenas de <span class="filepath"> colunas de </span> do .csv para o serviço de atributos do cliente na CX Enterprise. No entanto, ao configurar assinaturas e selecionar atributos, os seguintes limites poderão ser aplicados dependendo dos aplicativos que possui: </p> <p> 
      <ul id="ul_2BB85067918D4BB3B59394F3E3E37A6D"> 
       <li id="li_93703988B9934384B4B94A839D028380"> <b>Analytics Standard</b>: 3 total </li> 
       <li id="li_D1E5E7BD24C54591B14D15DE97447835"> <b>Analytics Premium</b>: 200 por conjunto de relatórios </li> 

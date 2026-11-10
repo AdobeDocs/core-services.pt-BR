@@ -1,6 +1,6 @@
 ---
 description: Saiba mais sobre os ativos do CX Enterprise que você pode compartilhar entre aplicativos.
-solution: Experience Cloud
+solution: CX Enterprise
 title: Visão geral de ativos
 uuid: 97a849ec-1555-4630-9416-2ab484373f5c
 feature: Assets
@@ -31,19 +31,19 @@ level_v2:
 topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
     internal-label: Administration
-source-git-commit: 7afb612bf6f14b87a57b7236c226e3f6e9b15380
+source-git-commit: 26b7f77165cfe16db6bc816f83ba6bfdf9c925d4
 workflow-type: tm+mt
 source-wordcount: '330'
 ht-degree: 70%
 ---
 # Visão geral do CX Enterprise Assets
 
-O CX Enterprise Assets fornece um repositório único e centralizado de ativos prontos para marketing, que podem ser compartilhados entre os aplicativos. Um ativo é um documento digital, imagem, vídeo ou áudio (ou parte dele) que pode ter várias representações e subativos (por exemplo, camadas em um arquivo do [!DNL Photoshop], slides em um arquivo do [!DNL PowerPoint], páginas em um PDF, arquivos em um ZIP).
+O CX Enterprise Assets fornece um repositório único e centralizado de ativos prontos para marketing, que podem ser compartilhados entre aplicativos. Um ativo é um documento digital, imagem, vídeo ou áudio (ou parte dele) que pode ter várias representações e subativos (por exemplo, camadas em um arquivo do [!DNL Photoshop], slides em um arquivo do [!DNL PowerPoint], páginas em um PDF, arquivos em um ZIP).
 
 Os serviços de ativos incluem:
 
 * Armazenamento de ativos, interface de gerenciamento e de seleção incorporada (acessada por meio de aplicativos).
-* Integrações com aplicativos Creative Cloud, CX Enterprise Collaboration e CX Enterprise.
+* Integrações com a Creative Cloud, colaboração da CX Enterprise e aplicativos da CX Enterprise.
 
 Usar ativos melhora a consistência e a conformidade da marca, além de acelerar o tempo de comercialização. É possível simplificar os fluxos de trabalho nos aplicativos:
 
@@ -54,7 +54,7 @@ Usar ativos melhora a consistência e a conformidade da marca, além de acelerar
 
 ## Navegue até o CX Enterprise Assets
 
-![Navegue até o CX Enterprise Assets](../../assets/asset-nav.png)
+![Navegar até o CX Enterprise Assets](../../assets/asset-nav.png)
 
 ## Acessar a barra de ferramentas
 

@@ -33,20 +33,16 @@ topic_v2:
     internal-label: Data collection
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
     internal-label: Administration
-source-git-commit: 26b7f77165cfe16db6bc816f83ba6bfdf9c925d4
+source-git-commit: 3292f78ff6778df2ca1aecb752cf1aa24c043ef3
 workflow-type: tm+mt
-source-wordcount: '549'
-ht-degree: 56%
+source-wordcount: '548'
+ht-degree: 52%
 ---
-# Criar um público-alvo
+# Criar um público-alvo {#create-audience}
 
-Na [!UICONTROL Biblioteca de público-alvo], você pode usar as regras de atributo para criar um público-alvo e definir um público-alvo composto para compartilhamento nos aplicativos do CX Enterprise.
+Na [!UICONTROL Biblioteca de público-alvo], você pode usar as regras de atributo para criar um público-alvo, criar regras individuais e combinar regras em um público-alvo composto para compartilhamento entre aplicativos CX Enterprise.
 
-Este artigo ajuda você a entender como:
-
-* Criar um público-alvo
-* Criar uma regra
-* Usar regras para definir um público-alvo composto
+## Públicos-alvo compostos {#composite-audiences}
 
 O gráfico a seguir representa duas regras em um público-alvo composto.
 
@@ -58,14 +54,9 @@ Cada círculo representa uma regra que define a associação do público-alvo. V
 >
 >O público-alvo é totalmente definido após a conclusão da coleção de dados pelo período especificado.
 
-O exemplo a seguir mostra como criar as regras para um público-alvo composto. Este público-alvo é composto de:
+## Criar as regras de público-alvo {#build-audience-rules}
 
-* Seção Casa e jardim derivada dos dados da página ou dos dados brutos de análise.
-* Usuários do Chrome e do Safari derivados de um [!DNL Adobe Analytics] segmento [publicado](overview.md) a [!DNL CX Enterprise].
-
-  ![Criar as regras para um público-alvo composto](assets/audience_create.png)
-
-**Para criar um público-alvo**
+Use as etapas a seguir para criar um público-alvo e definir suas regras na [!UICONTROL Biblioteca de Público-Alvo].
 
 1. Clique em [!DNL CX Enterprise] aplicativos (![ícone de aplicativos](assets/apps-icon.png)) e em **[!UICONTROL Pessoas]** > **[!UICONTROL Biblioteca de público-alvo].**
 
@@ -86,7 +77,14 @@ O exemplo a seguir mostra como criar as regras para um público-alvo composto. E
 
 1. Defina as regras de público e clique em **[!UICONTROL Salvar].**
 
-**Exemplo: definir regras para público-alvo composto**
+## Exemplo de público-alvo composto {#example-composite-audience}
+
+O exemplo a seguir mostra como criar as regras para um público-alvo composto. Este público-alvo é composto de:
+
+* Seção Casa e jardim derivada dos dados da página ou dos dados brutos de análise.
+* Usuários do Chrome e do Safari derivados de um [!DNL Adobe Analytics] segmento [publicado](overview.md) a [!DNL CX Enterprise].
+
+  ![Criar as regras para um público-alvo composto](assets/audience_create.png)
 
 >[!NOTE]
 >

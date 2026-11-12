@@ -33,20 +33,18 @@ topic_v2:
     internal-label: Data collection
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
     internal-label: Administration
-source-git-commit: 26b7f77165cfe16db6bc816f83ba6bfdf9c925d4
+source-git-commit: efb723004203e57984a55ae4baa1cccc6564577a
 workflow-type: tm+mt
-source-wordcount: '1183'
-ht-degree: 41%
+source-wordcount: '1230'
+ht-degree: 33%
 ---
-# Criar e fazer upload dos dados de atributos do cliente
+# Criar e fazer upload dos dados de atributos do cliente {#create-upload-customer-attribute-data}
 
-Crie a fonte de atributo do cliente (arquivos `.csv` e `.fin`) e carregue os dados. É possível ativar a fonte de dados quando você estiver preparado. Quando a fonte de dados estiver ativa, compartilhe os dados do atributo com [!DNL Analytics] e [!DNL Target].
+Crie uma fonte de dados do [!DNL Customer Attributes], carregue os dados de clientes da empresa e ative a fonte quando estiver pronto. Depois que a origem estiver ativa, compartilhe os dados do atributo com [!DNL Analytics] e [!DNL Target].
 
-**[!DNL Customer Attributes]fluxo de trabalho**
+## Antes de começar {#before-you-begin}
 
-![Fluxo de trabalho dos atributos do cliente](assets/crs.png)
-
-## Pré-requisitos para usar o [!DNL Customer Attributes] {#prerequisites}
+Antes de fazer upload dos dados do atributo do cliente, verifique se você atende aos seguintes requisitos.
 
 * **Associação de grupo:** Para carregar os dados, os usuários devem ser membros do grupo [!DNL Customer Attributes]. Você também deve pertencer a um grupo do Adobe Analytics ou do Adobe Target.
 
@@ -58,7 +56,13 @@ Crie a fonte de atributo do cliente (arquivos `.csv` e `.fin`) e carregue os dad
 
   Consulte [Como implantar at.js](https://experienceleague.adobe.com/pt-br/docs/target-dev/developer/client-side/overview).
 
-## Criar um arquivo de dados
+## Fluxo de trabalho dos Atributos do cliente {#workflow}
+
+O diagrama a seguir mostra o fluxo de trabalho completo para criação, upload e uso dos dados de atributos do cliente.
+
+![Fluxo de trabalho dos atributos do cliente](assets/crs.png)
+
+## Criar um arquivo de dados {#create-data-file}
 
 Esses dados são os dados do cliente da empresa no seu CRM. Os dados podem incluir dados do assinante de produtos, incluindo IDs de membro, produtos qualificados, produtos mais iniciados e assim por diante.
 
@@ -72,10 +76,10 @@ Esses dados são os dados do cliente da empresa no seu CRM. Os dados podem inclu
 
    ![Arquivo de modelo de dados do cliente corporativo](assets/01_crs_usecase.png)
 
-1. Antes de continuar e fazer o upload do arquivo, reveja as informações importantes nos [Requisitos do arquivo de dados](crs-data-file.md).
-1. [Crie uma fonte de atributos do cliente e faça upload do arquivo de dados](t-crs-usecase.md#create-source), conforme descrito abaixo.
+1. Revise as informações importantes em [Requisitos do Arquivo de Dados](crs-data-file.md) antes de carregar o arquivo.
+1. Continue para [criar a fonte de atributo e carregar os dados](t-crs-usecase.md#create-source).
 
-## Criar a fonte de atributo e fazer upload do arquivo de dados
+## Criar a fonte de atributo e fazer upload do arquivo de dados {#create-source}
 
 Execute essas etapas na página _[!UICONTROL Criar Source de atributo do cliente]_ no CX Enterprise.
 
@@ -83,7 +87,7 @@ Execute essas etapas na página _[!UICONTROL Criar Source de atributo do cliente
 >
 >Ao criar, modificar ou excluir fontes de atributos do cliente, ocorre um atraso de cerca de uma hora antes de as IDs começarem a sincronizar com a nova fonte de dados. Você deve ter direitos administrativos no Audience Manager para criar ou modificar fontes de atributos do cliente. Entre em contato com o Atendimento ao cliente da Audience Manager ou consulte para obter direitos administrativos.
 
-1. Para abrir os [!UICONTROL Atributos do Cliente], clique em **[!UICONTROL Aplicativos]** ![menu](assets/menu-icon.png) > **[!DNL Customer Attributes]**.
+1. Clique em **[!UICONTROL Aplicativos]** ![menu](assets/menu-icon.png) > **[!DNL Customer Attributes]** para abrir o [!UICONTROL Atributos do cliente].
 
    ![Página de atributos do cliente](assets/cust-attr.png)
 
@@ -138,7 +142,6 @@ Execute essas etapas na página _[!UICONTROL Criar Source de atributo do cliente
 O registro de atributo do cliente é criado e você pode fazer upload do arquivo editando o atributo do cliente.
 
 1. Na página [!DNL Customer Attributes], clique na fonte de atributo.
-
 1. Na página [!UICONTROL Editar Source de Dados do Cliente], clique em **[!UICONTROL Upload de Arquivo]**.
 
    ![Carregamento de Arquivo e Validação de Esquema](assets/file-upload-schema-validation.png)
@@ -153,6 +156,10 @@ O registro de atributo do cliente é criado e você pode fazer upload do arquivo
 
    ![atributos](assets/file_upload_attributes.png)
 
+### Revise os resultados do upload {#review-upload-results}
+
+Após a conclusão do upload, revise as seguintes contagens para confirmar os dados carregados como esperado.
+
 * **[!UICONTROL Identificador exclusivo do cliente:]** Exibe quantos identificadores exclusivos você carregou para essa fonte de atributo.
 
 * **[!UICONTROL IDs fornecidas pelo cliente com alias para IDs de visitante da Experience Cloud:]** Exibe quantas IDs receberam alias para ECIDs.
@@ -163,25 +170,22 @@ O registro de atributo do cliente é criado e você pode fazer upload do arquivo
 
 O processo de validação permite mapear os nomes de exibição e as descrições aos atributos carregados (strings, números inteiros, números e assim por diante). Também é possível excluir atributos atualizando o esquema.
 
-Consulte [Validar o esquema](validate-schema.md).
+Consulte [Validar o esquema](validate-schema.md). Para excluir atributos, consulte [Excluir atributos do esquema](#delete-attributes).
 
-Para excluir atributos, consulte [(Opcional) Atualizar o esquema (excluir atributos)](t-crs-usecase.md).
+## Excluir atributos do esquema {#delete-attributes}
 
-## (Opcional) Atualizar o esquema (excluir atributos)
-
-Como excluir atributos e substituir atributos no esquema.
+Remova uma assinatura para excluir os atributos fornecidos e, em seguida, faça upload de um arquivo de substituição se precisar adicionar os atributos novamente.
 
 1. Na página [!UICONTROL Editar Source de Atributos do Cliente], remova a assinatura do **[!UICONTROL Target]** ou do **[!UICONTROL Analytics]** (em **[!UICONTROL Configurar assinaturas]**).
+1. Faça upload de um novo arquivo de dados com os campos atualizados.
 
-1. [Faça upload de um novo arquivo de dados com campos atualizados](t-crs-usecase.md).
-
-## Configurar assinaturas e ativar a fonte de atributo
+## Configurar e ativar assinaturas {#configure-subscriptions}
 
 Configurar uma assinatura define o fluxo de dados entre o CX Enterprise e os aplicativos. Ativar a fonte do atributo permite o fluxo de dados para os aplicativos com assinatura. Os registros do cliente carregados são combinados com sinais de ID recebidos do site ou aplicativo.
 
 Consulte [Configurar assinaturas e ativar a fonte de dados](subscription.md).
 
-## Usar dados do [!DNL Customer Attributes] no Adobe Analytics
+## Usar dados do atributo em [!DNL Analytics] {#use-in-analytics}
 
 Com os dados agora disponíveis em aplicativos como o Adobe Analytics, você pode relatar os dados, analisá-los e realizar a ação adequada em suas campanhas de marketing.
 
@@ -191,7 +195,7 @@ O exemplo a seguir mostra um segmento do [!DNL Analytics] com base nos atributos
 
 Ao publicar um segmento no CX Enterprise, ele fica disponível para o CX Enterprise Audiences e o Audience Manager.
 
-## Usar dados do [!DNL Customer Attributes] no Adobe Target
+## Usar dados do atributo em [!DNL Target] {#use-in-target}
 
 No [!DNL Target], você pode selecionar um atributo do cliente na seção [!UICONTROL Perfil do Visitante] ao criar um público-alvo. Todos os atributos do cliente têm o prefixo `crs.` na lista. Combine esses atributos conforme necessário a outros atributos de dados para construir públicos-alvo.
 

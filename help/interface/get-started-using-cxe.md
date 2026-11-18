@@ -31,7 +31,7 @@ Entre no [Adobe CX Enterprise](https://experience.adobe.com) para iniciar seus a
 
 ## Antes de começar {#before-you-begin}
 
-Você precisa de uma Adobe ID que tenha sido provisionada para os produtos CX Enterprise de sua organização. Se você não consegue entrar ou não consegue ver os aplicativos esperados, contate o [!UICONTROL administrador](administration/admin-console.md) do [ do CX Enterprise].
+Você precisa de uma Adobe ID que tenha sido provisionada para os produtos CX Enterprise de sua organização. Se você não consegue entrar ou não consegue ver os aplicativos esperados, contate o [[!UICONTROL administrador]](administration/admin-console.md) do [ do CX Enterprise].
 
 ## Fazer logon no CX Enterprise {#sign-in}
 

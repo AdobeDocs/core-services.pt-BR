@@ -1,5 +1,5 @@
 ---
-description: Modernize seus aplicativos do Adobe Analytics e do Adobe Target para executar serviços entre aplicativos. Saiba como começar a usar os serviços da CX Enterprise.
+description: Modernize seus aplicativos do Adobe Analytics e do Adobe Target para executar serviços entre aplicativos. Saiba como começar a usar o serviço de pessoas da CX Enterprise.
 solution: CX Enterprise
 title: Introdução ao CX Enterprise
 index: true
@@ -22,14 +22,16 @@ subfeature_v2:
     internal-label: Support
   - id: bdea9bc8-5600-45db-b85e-d74bb59dfcff
     internal-label: Organizations
-  - id: d27b1945-f442-4607-91bd-537a0b16e687
-    internal-label: Assets
   - id: eb7e29b9-c5e9-4ed0-8e4b-6465dabb3cb1
     internal-label: Admin tools
   - id: ecb4a972-6786-444c-a014-abc528b9407a
     internal-label: Customer attributes
   - id: fef08361-6ac5-460c-93fe-d063e40b6a49
     internal-label: Getting started
+  - id: e8b6b7ca-4f3c-4275-9b65-e43912bf78bf
+    internal-label: People Audience Library
+  - id: fe560ac6-1b84-42b7-9eee-bb033a8850d6
+    internal-label: People Customer Attributes
 role_v2:
   - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
     internal-label: Admin
@@ -51,16 +53,16 @@ topic_v2:
     internal-label: Administration
   - id: f4e6943a-c91a-4134-a2c7-f4f20cfff2f0
     internal-label: Privacy
-source-git-commit: 26b7f77165cfe16db6bc816f83ba6bfdf9c925d4
+source-git-commit: ecde38a8abc308acc666c6a0cb321c716921d2da
 workflow-type: tm+mt
-source-wordcount: '2082'
-ht-degree: 41%
+source-wordcount: '2055'
+ht-degree: 39%
 ---
-# Introdução ao CX Enterprise
+# Introdução ao uso do serviço Pessoas
 
-Se você implementou o CX Enterprise recentemente usando as [marcas Experience Platform](https://experienceleague.adobe.com/pt-br/docs/experience-platform/tags/home), você já configurou os [Atributos do cliente](../services/overview.md) e os [Públicos-alvo](../services/audiences/overview.md) da CX Enterprise. Você também pode gerenciar usuários e produtos no [Admin Console](../administration/admin-console.md).
+Se você implementou o CX Enterprise recentemente usando as [marcas Experience Platform](https://experienceleague.adobe.com/pt-br/docs/experience-platform/tags/home), você já configurou os [Atributos do cliente](../services/customer-attributes/attributes.md) e os [Públicos-alvo](../services/audiences/overview.md) da CX Enterprise. Você também pode gerenciar usuários e produtos no [Admin Console](../administration/admin-console.md).
 
-Os clientes existentes podem modernizar suas implementações de aplicativo e implementar o CX Enterprise. Dessa forma, você poderá usar os atributos do cliente e os recursos de público-alvo na Adobe Analytics, Audience Manager e Adobe Target.
+Os clientes existentes podem modernizar suas implementações de aplicativo e implementar o CX Enterprise. Dessa forma, você poderá usar os recursos [!UICONTROL Atributos do cliente] e [!UICONTROL Público-alvo] na Adobe Analytics, no Audience Manager e no Adobe Target.
 
 ## Fazer logon como administrador {#admin-sign-in}
 
@@ -74,7 +76,7 @@ Provavelmente, há usuários que já são membros de grupos de aplicativos, como
 
 Quando você mapeia esses grupos para grupos corporativos do CX Enterprise, esses usuários devem vincular manualmente suas credenciais de conta do aplicativo à respectiva Adobe ID.
 
-Consulte [Vincular contas no CX Enterprise](https://experienceleague.adobe.com/pt-br/docs/core-services/interface/administration/organizations)
+Consulte [Vincular contas no CX Enterprise](../administration/organizations.md)
 
 >[!NOTE]
 >
@@ -141,7 +143,7 @@ Por exemplo, digamos que Bob tenha a ID de cliente `52mc210tr42` em seu sistema 
 
 A ID do cliente deve ser definida em cada chamada do servidor do [!DNL Analytics] em que a ID do cliente seja conhecida.
 
-#### Analytics: sincronização da ID de cliente com o método de preenchimento retroativo do Data Warehouse
+#### [!DNL Analytics]: sincronizando a ID do cliente com o método de preenchimento retroativo do Data Warehouse
 
 Quando os atributos do cliente foram disponibilizados pela primeira vez, alguns clientes ainda não tinham implementado o Serviço de ID de visitante e não podiam utilizar facilmente os atributos do cliente. Para resolver esse problema, a Adobe criou um meio de fazer o preenchimento retroativo de sincronizações de ID usando o Data Warehouse do Adobe Analytics. Esse recurso é conhecido como preenchimento retroativo do Data Warehouse. O preenchimento retroativo do Data Warehouse não é mais necessário e, como resultado, foi descontinuado desde outubro de 2022.
 
@@ -206,7 +208,7 @@ Quando tudo estiver funcionando, navegue até o [Admin Console](https://admincon
 
 ![Acessar o Admin Console](../assets/menu-administration-shell.png)
 
-### Atributos do cliente
+### grupo Atributos do cliente
 
 Os usuários adicionados ao grupo [!DNL Customer Attributes] podem ver o item de menu [!DNL Customer Attributes] à esquerda do CX Enterprise.
 
@@ -214,17 +216,17 @@ Os usuários adicionados ao grupo [!DNL Customer Attributes] podem ver o item de
 
 Tire proveito dos seguintes recursos.
 
-### [!UICONTROL Atributos do cliente]
+### [!UICONTROL Pessoas] > [!UICONTROL Atributos do cliente]
 
 Se você capturar os dados de clientes de empresas em um banco de dados de gerenciamento de relacionamento com o cliente (CRM), será possível fazer upload dos dados em uma fonte de dados do atributo do cliente no CX Enterprise. Após feito o upload, utilize os dados no [!DNL Adobe Analytics] e [!DNL Adobe Target].
 
-Consulte [Atributos do cliente](https://experienceleague.adobe.com/pt-br/docs/core-services/interface/services/customer-attributes/attributes) para obter mais informações.
+Consulte [Atributos do cliente](../services/customer-attributes/attributes.md) para obter mais informações.
 
 ### [!UICONTROL Pessoas] > [!UICONTROL Biblioteca de público-alvo]
 
 O [!UICONTROL Públicos-alvo] da CX Enterprise é a interface que permite criar públicos-alvo, combinar públicos-alvo existentes para criar públicos-alvo compostos e exibir todos os públicos-alvo compartilhados.
 
-Consulte [Públicos-alvo](https://experienceleague.adobe.com/pt-br/docs/core-services/interface/services/audiences/overview) para obter mais informações.
+Consulte [Públicos-alvo](../services/audiences/overview.md) para obter mais informações.
 
 ## Armazenamento de dados e divulgação de privacidade
 

@@ -32,10 +32,10 @@ topic_v2:
     internal-label: Administration
   - id: ff2b9b37-92e0-45fc-b853-379d44c08c89
     internal-label: Audience segmentation
-source-git-commit: 26b7f77165cfe16db6bc816f83ba6bfdf9c925d4
+source-git-commit: ecde38a8abc308acc666c6a0cb321c716921d2da
 workflow-type: tm+mt
-source-wordcount: '761'
-ht-degree: 45%
+source-wordcount: '741'
+ht-degree: 44%
 ---
 # Públicos da CX Enterprise
 
@@ -87,10 +87,10 @@ O [!DNL CX Enterprise] fornece uma biblioteca para criar e gerenciar públicos-a
 
 | Elemento | Descrição |
 | --- | --- |
-| Novo | [Criar um público-alvo](https://experienceleague.adobe.com/pt-br/docs/core-services/interface/services/audiences/create). |
+| Novo | [Criar um público-alvo](create.md). |
 | Título e descrição | Um cabeçalho de coluna que identifica e descreve o público-alvo. |
 | Autor | A pessoa que criou o segmento de público-alvo. |
-| Fonte | Identifica onde o público-alvo foi criado.<ul><li>**Analytics:** um segmento criado no Adobe Analytics e, em seguida, publicado no CX Enterprise.</li><li>**CX Enterprise:** um novo público-alvo [criado no CX Enterprise Audiences](https://experienceleague.adobe.com/pt-br/docs/core-services/interface/services/audiences/create).</li><li>**Audience Manager:** públicos-alvo criados no Audience Manager são exibidos automaticamente no CX Enterprise Audiences.</li></ul> |
+| Fonte | Identifica onde o público-alvo foi criado.<ul><li>**Analytics:** um segmento criado no Adobe Analytics e, em seguida, publicado no CX Enterprise.</li><li>**CX Enterprise:** um novo público-alvo [criado no CX Enterprise Audiences](create.md).</li><li>**Audience Manager:** públicos-alvo criados no Audience Manager são exibidos automaticamente no CX Enterprise Audiences.</li></ul> |
 | Tamanho atual | O tamanho atual do público-alvo. |
 | Ativo | O status ativo do segmento. |
 

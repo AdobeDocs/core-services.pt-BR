@@ -34,7 +34,7 @@ topic_v2:
     internal-label: Administration
   - id: f4e6943a-c91a-4134-a2c7-f4f20cfff2f0
     internal-label: Privacy
-source-git-commit: 26b7f77165cfe16db6bc816f83ba6bfdf9c925d4
+source-git-commit: ecde38a8abc308acc666c6a0cb321c716921d2da
 workflow-type: tm+mt
 source-wordcount: '686'
 ht-degree: 5%
@@ -61,7 +61,7 @@ Use esta tabela quando a mesma palavra for exibida em diferentes experiências d
 | **Atributos do cliente** | Os atributos do CRM ou enterprise que você carrega e mapeia para uso no Analytics, no Target e em fluxos de trabalho relacionados por meio do serviço People. Consulte os tópicos de [Atributos do cliente](../services/customer-attributes/attributes.md). | Não se equipare a **características do Audience Manager** isoladamente ou a cada campo de perfil do **Real-Time CDP** sem verificar o limite do produto. |
 | **Biblioteca de público-alvo** | Interface do usuário do CX Enterprise para compor e compartilhar públicos-alvo em aplicativos integrados. | O **Audience Manager** e o **Target** também usam &quot;públicos-alvo&quot;, mas as regras de segmentação e os destinos diferem de acordo com o produto. |
 | **Segmento** (Analytics) | Uma definição de público-alvo com base em regras que você pode criar no Adobe Analytics e, quando suportado, publicar em públicos-alvo compartilhados. | No **Audience Manager**, os segmentos combinam **características**; sobreposições de nomenclatura, mas a implementação não é idêntica. Em **Target**, &quot;públicos-alvo&quot; substituíram rótulos de &quot;segmento&quot; mais antigos em vários lugares. |
-| **Assets (Experience Cloud Assets)** | Pastas e arquivos compartilhados para colaboração entre fluxos de trabalho de marketing da CX Enterprise e usuários **Creative Cloud** aprovados. Consulte [visão geral do Assets](../services/assets/experience-cloud-assets.md). | No **Creative Cloud**, &quot;ativos&quot; geralmente significa arquivos de design (PSD, AI, INDD). Mesma palavra, diferentes modelos de compartilhamento e governança. |
+| **Assets (Experience Cloud Assets)** | Pastas e arquivos compartilhados para colaboração entre fluxos de trabalho de marketing da CX Enterprise e usuários **Creative Cloud** aprovados. Consulte [visão geral do Assets](../services/assets/overview-assets.md). | No **Creative Cloud**, &quot;ativos&quot; geralmente significa arquivos de design (PSD, AI, INDD). Mesma palavra, diferentes modelos de compartilhamento e governança. |
 
 {style="table-layout:auto"}
 

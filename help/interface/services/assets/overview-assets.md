@@ -31,16 +31,16 @@ level_v2:
 topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
     internal-label: Administration
-source-git-commit: 26b7f77165cfe16db6bc816f83ba6bfdf9c925d4
+source-git-commit: ecde38a8abc308acc666c6a0cb321c716921d2da
 workflow-type: tm+mt
-source-wordcount: '330'
-ht-degree: 70%
+source-wordcount: '327'
+ht-degree: 65%
 ---
-# Visão geral do CX Enterprise Assets
+# Visão geral do CX Enterprise [!DNL Assets]
 
-O CX Enterprise Assets fornece um repositório único e centralizado de ativos prontos para marketing, que podem ser compartilhados entre aplicativos. Um ativo é um documento digital, imagem, vídeo ou áudio (ou parte dele) que pode ter várias representações e subativos (por exemplo, camadas em um arquivo do [!DNL Photoshop], slides em um arquivo do [!DNL PowerPoint], páginas em um PDF, arquivos em um ZIP).
+O CX Enterprise [!DNL Assets] fornece um repositório único e centralizado de ativos prontos para marketing, que podem ser compartilhados entre aplicativos. Um ativo é um documento digital, imagem, vídeo ou áudio (ou parte dele) que pode ter várias representações e subativos (por exemplo, camadas em um arquivo do [!DNL Photoshop], slides em um arquivo do [!DNL PowerPoint], páginas em um PDF, arquivos em um ZIP).
 
-Os serviços de ativos incluem:
+O serviço [!DNL Assets] inclui:
 
 * Armazenamento de ativos, interface de gerenciamento e de seleção incorporada (acessada por meio de aplicativos).
 * Integrações com a Creative Cloud, colaboração da CX Enterprise e aplicativos da CX Enterprise.
@@ -48,9 +48,8 @@ Os serviços de ativos incluem:
 Usar ativos melhora a consistência e a conformidade da marca, além de acelerar o tempo de comercialização. É possível simplificar os fluxos de trabalho nos aplicativos:
 
 * **[!DNL Adobe Target]**: crie experiências para testes A/B e multivariados.
-* **[!DNL Ad Cloud]**: desenvolva unidades de publicidade em diferentes canais e campanhas.
+* **[!DNL Adobe Advertising]**: desenvolva unidades de publicidade em diferentes canais e campanhas.
 * **[!DNL Adobe Campaign]**: coloque ativos em informativos e campanhas por email.
-
 
 ## Navegue até o CX Enterprise Assets
 
@@ -60,7 +59,7 @@ Usar ativos melhora a consistência e a conformidade da marca, além de acelerar
 
 Navegue até um ativo (ou diretório de ativo) e clique em **[!UICONTROL Selecionar]**.
 
-A barra de ferramentas fornece acesso rápido aos recursos, incluindo Pesquisa, Linha do tempo, Representações, Edição, Anotação e Download.
+A barra de ferramentas fornece acesso rápido aos recursos, incluindo [!UICONTROL Pesquisa], [!UICONTROL Linha do Tempo], [!UICONTROL Representações], [!UICONTROL Edição], [!UICONTROL Anotação] e [!UICONTROL Download].
 
 ![Acessar a barra de ferramentas](../../assets/asset-tools.png)
 
